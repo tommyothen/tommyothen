@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mia Vaile — Money - James Mercy Remix](https://www.last.fm/music/Mia+Vaile/_/Money+-+James+Mercy+Remix)
+* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)
+* [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)
 * [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
-* [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)
-* [Samsa — butterflies](https://www.last.fm/music/Samsa/_/butterflies)
-* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
-* [City Girl — Endless and Artificial](https://www.last.fm/music/City+Girl/_/Endless+and+Artificial)<!-- LASTFM:END -->
+* [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
