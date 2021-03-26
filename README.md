@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)
-* [Flamingosis — Sunset Park](https://www.last.fm/music/Flamingosis/_/Sunset+Park)
-* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
-* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
-* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)<!-- LASTFM:END -->
+* [Stonebank — To The Top](https://www.last.fm/music/Stonebank/_/To+The+Top)
+* [YoungBoy Never Broke Again — Rock and Roll](https://www.last.fm/music/YoungBoy+Never+Broke+Again/_/Rock+and+Roll)
+* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)
+* [Feduk — Знаки](https://www.last.fm/music/Feduk/_/%D0%97%D0%BD%D0%B0%D0%BA%D0%B8)
+* [Verzache — Losing My Love](https://www.last.fm/music/Verzache/_/Losing+My+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
