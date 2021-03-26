@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Atlas — BROKEN BEARINGS](https://www.last.fm/music/Atlas/_/BROKEN+BEARINGS)
-* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)
-* [bbno$ — jurassic](https://www.last.fm/music/bbno$/_/jurassic)
-* [Grant — The Edge](https://www.last.fm/music/Grant/_/The+Edge)
-* [Saib — Little Indian](https://www.last.fm/music/Saib/_/Little+Indian)<!-- LASTFM:END -->
+* [ilyTOMMY — Tunnel of Love - Remix](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love+-+Remix)
+* [bbno$ — pouch](https://www.last.fm/music/bbno$/_/pouch)
+* [Freddie Dredd — Evil fantasy](https://www.last.fm/music/Freddie+Dredd/_/Evil+fantasy)
+* [Rejjie Snow — Egyptian Luvr (feat. Aminé and Dana Williams)](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr+(feat.+Amin%C3%A9+and+Dana+Williams))
+* [Atlas — BROKEN BEARINGS](https://www.last.fm/music/Atlas/_/BROKEN+BEARINGS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
