@@ -11,6 +11,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "ANIME-LIST"
+          comment_tag_name: "LASTFM"
           feed_list: "https://lfm.xiffy.nl/lil_sush"
           template: "$newline* [$title]($link)"
