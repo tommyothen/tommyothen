@@ -17,7 +17,11 @@
 Now Playing
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-<!-- LASTFM:END -->
+* [Billie Eilish — lovely (with Khalid)]($link)
+* [DJ-JO — Deal with the Devil - Extended]($link)
+* [Taylor Swift — Love Story]($link)
+* [Taylor Swift — Love Story]($link)
+* [Taska Black — Dead Inside]($link)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
