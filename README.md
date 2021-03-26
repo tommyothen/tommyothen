@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)
+* [Sebastian Paul — TROJAN HORSE](https://www.last.fm/music/Sebastian+Paul/_/TROJAN+HORSE)
+* [Oliver Tree — All That](https://www.last.fm/music/Oliver+Tree/_/All+That)
 * [Sarcastic Sounds — Dead Dreams](https://www.last.fm/music/Sarcastic+Sounds/_/Dead+Dreams)
-* [Moe Shop — Superstar](https://www.last.fm/music/Moe+Shop/_/Superstar)
-* [Akintoye — At the Cookout](https://www.last.fm/music/Akintoye/_/At+the+Cookout)
-* [Kupla — Saudade](https://www.last.fm/music/Kupla/_/Saudade)
-* [gianni & kyle — tension](https://www.last.fm/music/gianni+&+kyle/_/tension)<!-- LASTFM:END -->
+* [Moe Shop — Superstar](https://www.last.fm/music/Moe+Shop/_/Superstar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
