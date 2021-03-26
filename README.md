@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fusq — Perfume!](https://www.last.fm/music/Fusq/_/Perfume!)
+* [Shahmen — Mark](https://www.last.fm/music/Shahmen/_/Mark)
+* [Arcade Player — Coconut Mall (From "Mario Kart Wii")](https://www.last.fm/music/Arcade+Player/_/Coconut+Mall+(From+%22Mario+Kart+Wii%22))
 * [Joji — plastic taste](https://www.last.fm/music/Joji/_/plastic+taste)
-* [Sweater Beats — Take Me To Eterna](https://www.last.fm/music/Sweater+Beats/_/Take+Me+To+Eterna)
-* [Yung Gravy — Buttered Up](https://www.last.fm/music/Yung+Gravy/_/Buttered+Up)
-* [Marc Madness — Tadi](https://www.last.fm/music/Marc+Madness/_/Tadi)
-* [JUICEB☮X — Mushroom](https://www.last.fm/music/JUICEB%E2%98%AEX/_/Mushroom)<!-- LASTFM:END -->
+* [Sweater Beats — Take Me To Eterna](https://www.last.fm/music/Sweater+Beats/_/Take+Me+To+Eterna)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
