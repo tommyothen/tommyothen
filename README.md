@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Paramore — Still into You](https://www.last.fm/music/Paramore/_/Still+into+You)
+* [Shawn Mendes — Stitches](https://www.last.fm/music/Shawn+Mendes/_/Stitches)
 * [Rebecca Black — Friday](https://www.last.fm/music/Rebecca+Black/_/Friday)
 * [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
-* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
-* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
-* [Pitbull — Hotel Room Service](https://www.last.fm/music/Pitbull/_/Hotel+Room+Service)<!-- LASTFM:END -->
+* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
