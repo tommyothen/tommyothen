@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Carly Rae Jepsen — I Really Like You](https://www.last.fm/music/Carly+Rae+Jepsen/_/I+Really+Like+You)
 * [Katy Perry — Last Friday Night (T.G.I.F.)](https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+(T.G.I.F.))
 * [Paramore — Still into You](https://www.last.fm/music/Paramore/_/Still+into+You)
 * [Shawn Mendes — Stitches](https://www.last.fm/music/Shawn+Mendes/_/Stitches)
-* [Rebecca Black — Friday](https://www.last.fm/music/Rebecca+Black/_/Friday)
-* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)<!-- LASTFM:END -->
+* [Rebecca Black — Friday](https://www.last.fm/music/Rebecca+Black/_/Friday)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
