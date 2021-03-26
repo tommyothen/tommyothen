@@ -13,4 +13,4 @@ jobs:
         with:
           comment_tag_name: "ANIME-LIST"
           feed_list: "https://myanimelist.net/rss.php?type=rw&u=DaSushiAsian"
-          template: "[$title]($url) $description $newline"
+          template: "$newline[$title]($url) $description"
