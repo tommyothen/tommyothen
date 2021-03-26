@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [galdive — Nescience](https://www.last.fm/music/galdive/_/Nescience)
+* [knowmadic — Fade](https://www.last.fm/music/knowmadic/_/Fade)
+* [Todd Helder — Ride It](https://www.last.fm/music/Todd+Helder/_/Ride+It)
 * [Mia Vaile — Money - James Mercy Remix](https://www.last.fm/music/Mia+Vaile/_/Money+-+James+Mercy+Remix)
-* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)
-* [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)
-* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
-* [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)<!-- LASTFM:END -->
+* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
