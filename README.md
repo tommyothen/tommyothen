@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [Bren Joy — Sweet (feat. Landon Sears)](https://www.last.fm/music/Bren+Joy/_/Sweet+(feat.+Landon+Sears))
-* [slowthai — CANCELLED (feat. Skepta)](https://www.last.fm/music/slowthai/_/CANCELLED+(feat.+Skepta))
-* [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)
-* [Flughand — Feblu](https://www.last.fm/music/Flughand/_/Feblu)<!-- LASTFM:END -->
+* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)
+* [Flamingosis — Sunset Park](https://www.last.fm/music/Flamingosis/_/Sunset+Park)
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
+* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
