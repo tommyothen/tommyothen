@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [blackbear — Short Kings Anthem](https://www.last.fm/music/blackbear/_/Short+Kings+Anthem)
-* [88Rising — Indigo](https://www.last.fm/music/88Rising/_/Indigo)
-* [[bsd.u] — Laced](https://www.last.fm/music/%5Bbsd.u%5D/_/Laced)
-* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
+* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
+* [Aries — Racecar](https://www.last.fm/music/Aries/_/Racecar)
+* [88Rising — Midsummer Madness](https://www.last.fm/music/88Rising/_/Midsummer+Madness)
+* [Oliver Tree — Bury Me Alive](https://www.last.fm/music/Oliver+Tree/_/Bury+Me+Alive)
+* [Pendulum — Propane Nightmares - Grabbitz Remix](https://www.last.fm/music/Pendulum/_/Propane+Nightmares+-+Grabbitz+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
