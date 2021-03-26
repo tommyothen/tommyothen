@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kloud — Dark Down Below - Chapter II](https://www.last.fm/music/Kloud/_/Dark+Down+Below+-+Chapter+II)
-* [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))
-* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
-* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
-* [Elohim — Sensations - Whethan Remix](https://www.last.fm/music/Elohim/_/Sensations+-+Whethan+Remix)<!-- LASTFM:END -->
+* [Atlas — BROKEN BEARINGS](https://www.last.fm/music/Atlas/_/BROKEN+BEARINGS)
+* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)
+* [bbno$ — jurassic](https://www.last.fm/music/bbno$/_/jurassic)
+* [Grant — The Edge](https://www.last.fm/music/Grant/_/The+Edge)
+* [Saib — Little Indian](https://www.last.fm/music/Saib/_/Little+Indian)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
