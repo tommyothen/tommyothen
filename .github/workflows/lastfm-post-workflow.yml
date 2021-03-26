@@ -14,5 +14,5 @@ jobs:
         with:
           comment_tag_name: "LASTFM"
           feed_list: "https://splo.me/lastfmrss-working.php?user=lil_sush"
-          custom_tags: "link/link"
+          custom_tags: "link/link/"
           template: "$newline* [$title]($link)"
