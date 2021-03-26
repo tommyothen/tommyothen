@@ -1,3 +1,6 @@
+## 🎶 Spotify
+[![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
+
 ## 📊 Stats
 <details>
   <summary>GitHub stats</summary>
