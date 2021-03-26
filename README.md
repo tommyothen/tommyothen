@@ -1,6 +1,3 @@
-## 🎶 Spotify
-[![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
-
 ## 📊 Stats
 <details>
   <summary>GitHub stats</summary>
@@ -15,6 +12,11 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DaSushiAsian">
   </a>
 </details>
+
+## 🎶 Spotify
+[![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
+<!-- LASTFM:START -->
+<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
