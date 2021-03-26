@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))
-* [Au/Ra — Panic Room](https://www.last.fm/music/Au%2FRa/_/Panic+Room)
-* [Bliss n Eso — Tear The Roof Off (feat. Watsky)](https://www.last.fm/music/Bliss+n+Eso/_/Tear+The+Roof+Off+(feat.+Watsky))
-* [Just Juice — Coast](https://www.last.fm/music/Just+Juice/_/Coast)
-* [galdive — Nescience](https://www.last.fm/music/galdive/_/Nescience)<!-- LASTFM:END -->
+* [Sarcastic Sounds — Dead Dreams](https://www.last.fm/music/Sarcastic+Sounds/_/Dead+Dreams)
+* [Moe Shop — Superstar](https://www.last.fm/music/Moe+Shop/_/Superstar)
+* [Akintoye — At the Cookout](https://www.last.fm/music/Akintoye/_/At+the+Cookout)
+* [Kupla — Saudade](https://www.last.fm/music/Kupla/_/Saudade)
+* [gianni & kyle — tension](https://www.last.fm/music/gianni+&+kyle/_/tension)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
