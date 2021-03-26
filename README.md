@@ -5,9 +5,8 @@
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaSushiAsian&show_icons=true&count_private=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-## Stats
 <details>
-<summary>This Weeks Programming Languages</summary>
+<summary>This Weeks Stats</summary>
 <br>
 [![Tommy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaSushiAsian&layout)](https://github.com/anuraghazra/github-readme-stats)
 </details>
