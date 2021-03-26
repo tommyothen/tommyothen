@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Fusq — Perfume!](https://www.last.fm/music/Fusq/_/Perfume!)
-* [Shahmen — Mark](https://www.last.fm/music/Shahmen/_/Mark)
-* [Arcade Player — Coconut Mall (From "Mario Kart Wii")](https://www.last.fm/music/Arcade+Player/_/Coconut+Mall+(From+%22Mario+Kart+Wii%22))
-* [Joji — plastic taste](https://www.last.fm/music/Joji/_/plastic+taste)
-* [Sweater Beats — Take Me To Eterna](https://www.last.fm/music/Sweater+Beats/_/Take+Me+To+Eterna)<!-- LASTFM:END -->
+* [Monty Datta — With Somebody Else](https://www.last.fm/music/Monty+Datta/_/With+Somebody+Else)
+* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)
+* [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))
+* [Burbank — Sorry, I Like You](https://www.last.fm/music/Burbank/_/Sorry,+I+Like+You)
+* [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
