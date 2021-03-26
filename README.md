@@ -1,6 +1,6 @@
 ![Sushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaSushiAsian&hide=contribs,prs)
 
-### Recent Anime Feed
+### 🗻 Recent Anime Feed
 <!-- ANIME-LIST:START -->
 - [Mob Psycho 100 - TV](https://myanimelist.net/anime/32182/Mob_Psycho_100)
 - [Lucky☆Star - TV](https://myanimelist.net/anime/1887/Lucky☆Star)
