@@ -1,8 +1,16 @@
 ## Stats
+<details>
+<summary>GitHub stats</summary>
+<br>
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaSushiAsian&show_icons=true&count_private=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
-## This Weeks Stats
-[![Tommy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaSushiAsian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+<details>
+<summary>This Weeks Programming Languages</summary>
+<br>
+[![Tommy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaSushiAsian&layout)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
