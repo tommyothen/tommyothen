@@ -17,11 +17,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cleopatrick — Hometown]($link)
-* [RŮDE — Eternal Youth]($link)
-* [Billie Eilish — lovely (with Khalid)]($link)
-* [DJ-JO — Deal with the Devil - Extended]($link)
-* [Taylor Swift — Love Story]($link)<!-- LASTFM:END -->
+* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)
+* [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)
+* [RŮDE — Eternal Youth](https://www.last.fm/music/R%C5%AEDE/_/Eternal+Youth)
+* [Billie Eilish — lovely (with Khalid)](https://www.last.fm/music/Billie+Eilish/_/lovely+(with+Khalid))
+* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
