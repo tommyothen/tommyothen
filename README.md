@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Unlike Pluto — Revenge, And a Little More](https://www.last.fm/music/Unlike+Pluto/_/Revenge,+And+a+Little+More)
+* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
 * [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)
 * [Sebastian Paul — TROJAN HORSE](https://www.last.fm/music/Sebastian+Paul/_/TROJAN+HORSE)
-* [Oliver Tree — All That](https://www.last.fm/music/Oliver+Tree/_/All+That)
-* [Sarcastic Sounds — Dead Dreams](https://www.last.fm/music/Sarcastic+Sounds/_/Dead+Dreams)
-* [Moe Shop — Superstar](https://www.last.fm/music/Moe+Shop/_/Superstar)<!-- LASTFM:END -->
+* [Oliver Tree — All That](https://www.last.fm/music/Oliver+Tree/_/All+That)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
