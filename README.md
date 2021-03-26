@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)
+* [Pitbull — Hotel Room Service](https://www.last.fm/music/Pitbull/_/Hotel+Room+Service)
 * [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
 * [bbno$ — nursery](https://www.last.fm/music/bbno$/_/nursery)
-* [Dark Cat — Hot Chocolate](https://www.last.fm/music/Dark+Cat/_/Hot+Chocolate)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)<!-- LASTFM:END -->
+* [Dark Cat — Hot Chocolate](https://www.last.fm/music/Dark+Cat/_/Hot+Chocolate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
