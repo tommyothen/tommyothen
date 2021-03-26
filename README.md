@@ -1,4 +1,4 @@
-## Stats
+## 📊 Stats
 <details>
   <summary>GitHub stats</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
