@@ -9,7 +9,7 @@
 <details>
   <summary>This Weeks Stats</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DaSushiAsian">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DaSushiAsian&custom_title=Top Languages">
   </a>
 </details>
 
