@@ -1,6 +1,10 @@
-![Sushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaSushiAsian&hide=contribs,prs)
+## Stats
+[![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaSushiAsian&show_icons=true&count_private=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🗻 Recent Anime
+## This Weeks Stats
+[![Tommy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaSushiAsian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
 * [Mob Psycho 100 - TV](https://myanimelist.net/anime/32182/Mob_Psycho_100) - Watching - 8 of 12 episodes
 * [Lucky☆Star - TV](https://myanimelist.net/anime/1887/Lucky☆Star) - Completed - 24 of 24 episodes
