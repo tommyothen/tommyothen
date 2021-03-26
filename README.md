@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)
+* [Anamanaguchi — Miku - Japanese Version](https://www.last.fm/music/Anamanaguchi/_/Miku+-+Japanese+Version)
+* [Aiobahn — ここにいる (Stephen Walking Remix)](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+(Stephen+Walking+Remix))
 * [Stonebank — To The Top](https://www.last.fm/music/Stonebank/_/To+The+Top)
-* [YoungBoy Never Broke Again — Rock and Roll](https://www.last.fm/music/YoungBoy+Never+Broke+Again/_/Rock+and+Roll)
-* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)
-* [Feduk — Знаки](https://www.last.fm/music/Feduk/_/%D0%97%D0%BD%D0%B0%D0%BA%D0%B8)
-* [Verzache — Losing My Love](https://www.last.fm/music/Verzache/_/Losing+My+Love)<!-- LASTFM:END -->
+* [YoungBoy Never Broke Again — Rock and Roll](https://www.last.fm/music/YoungBoy+Never+Broke+Again/_/Rock+and+Roll)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
