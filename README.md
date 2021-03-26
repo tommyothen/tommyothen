@@ -1,3 +1,14 @@
+### 👋 About Me
+```json
+{
+  "Name": "Tommy Othen",
+  "Age": 19,
+  "Occupation": "Student",
+  "Interests": ["Programming", "Games", "Anime"],
+  "Learning": ["Java", "Flutter"]
+}
+```
+
 ## 📊 Stats
 <details>
   <summary>GitHub stats</summary>
