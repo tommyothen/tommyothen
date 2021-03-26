@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
-* [Alina Pash — Не пили](https://www.last.fm/music/Alina+Pash/_/%D0%9D%D0%B5+%D0%BF%D0%B8%D0%BB%D0%B8)
-* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
-* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)
-* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)<!-- LASTFM:END -->
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
+* [Bren Joy — Sweet (feat. Landon Sears)](https://www.last.fm/music/Bren+Joy/_/Sweet+(feat.+Landon+Sears))
+* [slowthai — CANCELLED (feat. Skepta)](https://www.last.fm/music/slowthai/_/CANCELLED+(feat.+Skepta))
+* [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)
+* [Flughand — Feblu](https://www.last.fm/music/Flughand/_/Feblu)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
