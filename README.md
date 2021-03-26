@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Elohim — Sensations - Whethan Remix](https://www.last.fm/music/Elohim/_/Sensations+-+Whethan+Remix)
-* [cherry beach — Gravity](https://www.last.fm/music/cherry+beach/_/Gravity)
-* [Underscores — regulate you](https://www.last.fm/music/Underscores/_/regulate+you)
-* [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)
-* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)<!-- LASTFM:END -->
+* [Kloud — Dark Down Below - Chapter II](https://www.last.fm/music/Kloud/_/Dark+Down+Below+-+Chapter+II)
+* [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))
+* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
+* [Elohim — Sensations - Whethan Remix](https://www.last.fm/music/Elohim/_/Sensations+-+Whethan+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
