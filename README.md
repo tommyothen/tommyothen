@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Pegboard Nerds — Heaven Let Us Down](https://www.last.fm/music/Pegboard+Nerds/_/Heaven+Let+Us+Down)
-* [BROCKHAMPTON — NEW ORLEANS](https://www.last.fm/music/BROCKHAMPTON/_/NEW+ORLEANS)
-* [Yung Gravy — Early Afternoon Stroll](https://www.last.fm/music/Yung+Gravy/_/Early+Afternoon+Stroll)
-* [TomppaBeats — like someone in love](https://www.last.fm/music/TomppaBeats/_/like+someone+in+love)<!-- LASTFM:END -->
+* [blackbear — Short Kings Anthem](https://www.last.fm/music/blackbear/_/Short+Kings+Anthem)
+* [88Rising — Indigo](https://www.last.fm/music/88Rising/_/Indigo)
+* [[bsd.u] — Laced](https://www.last.fm/music/%5Bbsd.u%5D/_/Laced)
+* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
