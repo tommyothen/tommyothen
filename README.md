@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
-* [Guardin — suffocate](https://www.last.fm/music/Guardin/_/suffocate)
-* [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)
-* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
-* [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)<!-- LASTFM:END -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [Pegboard Nerds — Heaven Let Us Down](https://www.last.fm/music/Pegboard+Nerds/_/Heaven+Let+Us+Down)
+* [BROCKHAMPTON — NEW ORLEANS](https://www.last.fm/music/BROCKHAMPTON/_/NEW+ORLEANS)
+* [Yung Gravy — Early Afternoon Stroll](https://www.last.fm/music/Yung+Gravy/_/Early+Afternoon+Stroll)
+* [TomppaBeats — like someone in love](https://www.last.fm/music/TomppaBeats/_/like+someone+in+love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
