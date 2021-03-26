@@ -12,5 +12,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "LASTFM"
-          feed_list: "https://lfm.xiffy.nl/lil_sush"
+          feed_list: "https://splo.me/lastfmrss-working.php?user=lil_sush"
           template: "$newline* [$title]($link)"
