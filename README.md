@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Guardin — suffocate](https://www.last.fm/music/Guardin/_/suffocate)
+* [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)
+* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
 * [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)
-* [Anamanaguchi — Miku - Japanese Version](https://www.last.fm/music/Anamanaguchi/_/Miku+-+Japanese+Version)
-* [Aiobahn — ここにいる (Stephen Walking Remix)](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+(Stephen+Walking+Remix))
-* [Stonebank — To The Top](https://www.last.fm/music/Stonebank/_/To+The+Top)
-* [YoungBoy Never Broke Again — Rock and Roll](https://www.last.fm/music/YoungBoy+Never+Broke+Again/_/Rock+and+Roll)<!-- LASTFM:END -->
+* [Anamanaguchi — Miku - Japanese Version](https://www.last.fm/music/Anamanaguchi/_/Miku+-+Japanese+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
