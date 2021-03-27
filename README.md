@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rizzle Kicks — When I Was A Youngster](https://www.last.fm/music/Rizzle+Kicks/_/When+I+Was+A+Youngster)
+* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
+* [Lady Gaga — Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)
 * [Justin Timberlake — Rock Your Body](https://www.last.fm/music/Justin+Timberlake/_/Rock+Your+Body)
-* [Macklemore & Ryan Lewis — Can't Hold Us (feat. Ray Dalton)](https://www.last.fm/music/Macklemore+&+Ryan+Lewis/_/Can%27t+Hold+Us+(feat.+Ray+Dalton))
-* [Taio Cruz — Dynamite](https://www.last.fm/music/Taio+Cruz/_/Dynamite)
-* [Kanye West — Gold Digger](https://www.last.fm/music/Kanye+West/_/Gold+Digger)
-* [CeeLo Green — Forget You](https://www.last.fm/music/CeeLo+Green/_/Forget+You)<!-- LASTFM:END -->
+* [Macklemore & Ryan Lewis — Can't Hold Us (feat. Ray Dalton)](https://www.last.fm/music/Macklemore+&+Ryan+Lewis/_/Can%27t+Hold+Us+(feat.+Ray+Dalton))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
