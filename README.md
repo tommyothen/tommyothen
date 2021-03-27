@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mark Ronson — Uptown Funk (feat. Bruno Mars)](https://www.last.fm/music/Mark+Ronson/_/Uptown+Funk+(feat.+Bruno+Mars))
+* [Fall Out Boy — Centuries](https://www.last.fm/music/Fall+Out+Boy/_/Centuries)
 * [Swedish House Mafia — Don't You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)
 * [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
-* [LMFAO — Party Rock Anthem](https://www.last.fm/music/LMFAO/_/Party+Rock+Anthem)
-* [Gorillaz — DARE](https://www.last.fm/music/Gorillaz/_/DARE)
-* [Soulja Boy — Crank That (Soulja Boy)](https://www.last.fm/music/Soulja+Boy/_/Crank+That+(Soulja+Boy))<!-- LASTFM:END -->
+* [LMFAO — Party Rock Anthem](https://www.last.fm/music/LMFAO/_/Party+Rock+Anthem)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
