@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lady Gaga — Applause](https://www.last.fm/music/Lady+Gaga/_/Applause)
+* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)
+* [Macklemore — Thrift Shop (feat. Wanz)](https://www.last.fm/music/Macklemore/_/Thrift+Shop+(feat.+Wanz))
 * [Flo Rida — Whistle](https://www.last.fm/music/Flo+Rida/_/Whistle)
-* [Train — Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)
-* [OutKast — Hey Ya!](https://www.last.fm/music/OutKast/_/Hey+Ya!)
-* [Sean Kingston — Beautiful Girls](https://www.last.fm/music/Sean+Kingston/_/Beautiful+Girls)
-* [Estelle — American Boy](https://www.last.fm/music/Estelle/_/American+Boy)<!-- LASTFM:END -->
+* [Train — Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
