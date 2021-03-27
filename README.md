@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eminem — Godzilla (feat. Juice WRLD)](https://www.last.fm/music/Eminem/_/Godzilla+(feat.+Juice+WRLD))
-* [LIL DUSTY G — INSECTS](https://www.last.fm/music/LIL+DUSTY+G/_/INSECTS)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
-* [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)<!-- LASTFM:END -->
+* [Eevee — acid](https://www.last.fm/music/Eevee/_/acid)
+* [Area21 — Girls](https://www.last.fm/music/Area21/_/Girls)
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
+* [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
