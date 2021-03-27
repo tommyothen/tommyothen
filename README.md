@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)
-* [Vincent Augustus — I Think I'm Tired](https://www.last.fm/music/Vincent+Augustus/_/I+Think+I%27m+Tired)
-* [William Black — Here At Last](https://www.last.fm/music/William+Black/_/Here+At+Last)
-* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
-* [potsu — letting go](https://www.last.fm/music/potsu/_/letting+go)<!-- LASTFM:END -->
+* [luvbird — Dawn Amble](https://www.last.fm/music/luvbird/_/Dawn+Amble)
+* [YUNG BAE — I Can Tell](https://www.last.fm/music/YUNG+BAE/_/I+Can+Tell)
+* [Trevor Daniel — Falling (blackbear remix)](https://www.last.fm/music/Trevor+Daniel/_/Falling+(blackbear+remix))
+* [khai dreams — Travels](https://www.last.fm/music/khai+dreams/_/Travels)
+* [Moe Cafe — Twintail Love](https://www.last.fm/music/Moe+Cafe/_/Twintail+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
