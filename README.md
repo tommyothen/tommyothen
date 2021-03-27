@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — Interlude](https://www.last.fm/music/Eden/_/Interlude)
-* [Imaginary Ambition — Temptation](https://www.last.fm/music/Imaginary+Ambition/_/Temptation)
-* [Antoha MC — Сладкий чай (Aslamin Remix)](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B9+%D1%87%D0%B0%D0%B9+(Aslamin+Remix))
-* [Alina Pash — Не пили](https://www.last.fm/music/Alina+Pash/_/%D0%9D%D0%B5+%D0%BF%D0%B8%D0%BB%D0%B8)
-* [Tyler, The Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+The+Creator/_/EARFQUAKE)<!-- LASTFM:END -->
+* [TWICE — KNOCK KNOCK](https://www.last.fm/music/TWICE/_/KNOCK+KNOCK)
+* [khai dreams — Summer is Like a Dream](https://www.last.fm/music/khai+dreams/_/Summer+is+Like+a+Dream)
+* [Solace — Silver Spoons](https://www.last.fm/music/Solace/_/Silver+Spoons)
+* [Eden — Billie Jean](https://www.last.fm/music/Eden/_/Billie+Jean)
+* [bbno$ — banana](https://www.last.fm/music/bbno$/_/banana)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
