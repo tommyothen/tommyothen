@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Oliver Tree — Alien Boy](https://www.last.fm/music/Oliver+Tree/_/Alien+Boy)
-* [slowthai — CANCELLED (feat. Skepta)](https://www.last.fm/music/slowthai/_/CANCELLED+(feat.+Skepta))
-* [The Deli — Flowers](https://www.last.fm/music/The+Deli/_/Flowers)
-* [Lofi.Samurai — dearest](https://www.last.fm/music/Lofi.Samurai/_/dearest)
-* [Grabbitz — My Cloud](https://www.last.fm/music/Grabbitz/_/My+Cloud)<!-- LASTFM:END -->
+* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
+* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)
+* [Kill Bill: The Rapper — Chinatown](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Chinatown)
+* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)
+* [Night Tempo — ShortCake](https://www.last.fm/music/Night+Tempo/_/ShortCake)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
