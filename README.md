@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Japanese Breakfast — Everybody Wants To Love You](https://www.last.fm/music/Japanese+Breakfast/_/Everybody+Wants+To+Love+You)
+* [Tame Impala — The Less I Know the Better](https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better)
+* [The Fratellis — Chelsea Dagger](https://www.last.fm/music/The+Fratellis/_/Chelsea+Dagger)
 * [Migos — Bad and Boujee (Feat. Lil Uzi Vert)](https://www.last.fm/music/Migos/_/Bad+and+Boujee+(Feat.+Lil+Uzi+Vert))
-* [Justin Timberlake — SexyBack](https://www.last.fm/music/Justin+Timberlake/_/SexyBack)
-* [Childish Gambino — 3005](https://www.last.fm/music/Childish+Gambino/_/3005)
-* [Childish Gambino — Sober](https://www.last.fm/music/Childish+Gambino/_/Sober)
-* [Wheatus — Teenage Dirtbag](https://www.last.fm/music/Wheatus/_/Teenage+Dirtbag)<!-- LASTFM:END -->
+* [Justin Timberlake — SexyBack](https://www.last.fm/music/Justin+Timberlake/_/SexyBack)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
