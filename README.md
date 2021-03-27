@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — See Me](https://www.last.fm/music/Rich+Brian/_/See+Me)
+* [The Notorious B.I.G. — Notorious Thugs - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Notorious+Thugs+-+2014+Remaster)
+* [Dreamcatcher — YOU AND I](https://www.last.fm/music/Dreamcatcher/_/YOU+AND+I)
 * [Shahmen — Dirt](https://www.last.fm/music/Shahmen/_/Dirt)
-* [A D M B — Just A Day](https://www.last.fm/music/A+D+M+B/_/Just+A+Day)
-* [Token — Code Red](https://www.last.fm/music/Token/_/Code+Red)
-* [Feduk — АКВАРЕЛЬ](https://www.last.fm/music/Feduk/_/%D0%90%D0%9A%D0%92%D0%90%D0%A0%D0%95%D0%9B%D0%AC)
-* [knowmadic — Fade](https://www.last.fm/music/knowmadic/_/Fade)<!-- LASTFM:END -->
+* [A D M B — Just A Day](https://www.last.fm/music/A+D+M+B/_/Just+A+Day)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
