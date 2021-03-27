@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Niki — Sugarplum Elegy](https://www.last.fm/music/Niki/_/Sugarplum+Elegy)
+* [Oliver Tree — Let Me Down](https://www.last.fm/music/Oliver+Tree/_/Let+Me+Down)
 * [Jaden — K](https://www.last.fm/music/Jaden/_/K)
 * [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)
-* [Katie — Remember](https://www.last.fm/music/Katie/_/Remember)
-* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
-* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)<!-- LASTFM:END -->
+* [Katie — Remember](https://www.last.fm/music/Katie/_/Remember)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
