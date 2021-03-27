@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kero Kero Bonito — Only Acting](https://www.last.fm/music/Kero+Kero+Bonito/_/Only+Acting)
-* [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)
-* [bbno$ — banana](https://www.last.fm/music/bbno$/_/banana)
-* [Global Dan — Dark Out](https://www.last.fm/music/Global+Dan/_/Dark+Out)
-* [Rich Brian — See Me](https://www.last.fm/music/Rich+Brian/_/See+Me)<!-- LASTFM:END -->
+* [Oliver Tree — Alien Boy](https://www.last.fm/music/Oliver+Tree/_/Alien+Boy)
+* [slowthai — CANCELLED (feat. Skepta)](https://www.last.fm/music/slowthai/_/CANCELLED+(feat.+Skepta))
+* [The Deli — Flowers](https://www.last.fm/music/The+Deli/_/Flowers)
+* [Lofi.Samurai — dearest](https://www.last.fm/music/Lofi.Samurai/_/dearest)
+* [Grabbitz — My Cloud](https://www.last.fm/music/Grabbitz/_/My+Cloud)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
