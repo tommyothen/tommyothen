@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tame Impala — Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)
+* [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)
 * [Japanese Breakfast — Everybody Wants To Love You](https://www.last.fm/music/Japanese+Breakfast/_/Everybody+Wants+To+Love+You)
 * [Tame Impala — The Less I Know the Better](https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better)
-* [The Fratellis — Chelsea Dagger](https://www.last.fm/music/The+Fratellis/_/Chelsea+Dagger)
-* [Migos — Bad and Boujee (Feat. Lil Uzi Vert)](https://www.last.fm/music/Migos/_/Bad+and+Boujee+(Feat.+Lil+Uzi+Vert))
-* [Justin Timberlake — SexyBack](https://www.last.fm/music/Justin+Timberlake/_/SexyBack)<!-- LASTFM:END -->
+* [The Fratellis — Chelsea Dagger](https://www.last.fm/music/The+Fratellis/_/Chelsea+Dagger)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
