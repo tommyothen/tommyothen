@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
-* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
-* [Far East Movement — Like A G6](https://www.last.fm/music/Far+East+Movement/_/Like+A+G6)
-* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
-* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))<!-- LASTFM:END -->
+* [Ciki — Syndrome](https://www.last.fm/music/Ciki/_/Syndrome)
+* [FloFilz — Twosome](https://www.last.fm/music/FloFilz/_/Twosome)
+* [Verzache — Losing My Love](https://www.last.fm/music/Verzache/_/Losing+My+Love)
+* [88Rising — Breathe](https://www.last.fm/music/88Rising/_/Breathe)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
