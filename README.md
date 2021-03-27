@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Swedish House Mafia — Don't You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)
+* [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
 * [LMFAO — Party Rock Anthem](https://www.last.fm/music/LMFAO/_/Party+Rock+Anthem)
 * [Gorillaz — DARE](https://www.last.fm/music/Gorillaz/_/DARE)
-* [Soulja Boy — Crank That (Soulja Boy)](https://www.last.fm/music/Soulja+Boy/_/Crank+That+(Soulja+Boy))
-* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
-* [Lady Gaga — Applause](https://www.last.fm/music/Lady+Gaga/_/Applause)<!-- LASTFM:END -->
+* [Soulja Boy — Crank That (Soulja Boy)](https://www.last.fm/music/Soulja+Boy/_/Crank+That+(Soulja+Boy))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
