@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ciki — Syndrome](https://www.last.fm/music/Ciki/_/Syndrome)
-* [FloFilz — Twosome](https://www.last.fm/music/FloFilz/_/Twosome)
-* [Verzache — Losing My Love](https://www.last.fm/music/Verzache/_/Losing+My+Love)
-* [88Rising — Breathe](https://www.last.fm/music/88Rising/_/Breathe)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
+* [Eden — Interlude](https://www.last.fm/music/Eden/_/Interlude)
+* [Imaginary Ambition — Temptation](https://www.last.fm/music/Imaginary+Ambition/_/Temptation)
+* [Antoha MC — Сладкий чай (Aslamin Remix)](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B9+%D1%87%D0%B0%D0%B9+(Aslamin+Remix))
+* [Alina Pash — Не пили](https://www.last.fm/music/Alina+Pash/_/%D0%9D%D0%B5+%D0%BF%D0%B8%D0%BB%D0%B8)
+* [Tyler, The Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+The+Creator/_/EARFQUAKE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
