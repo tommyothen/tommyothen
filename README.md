@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)
-* [Ben Beal — PERCH](https://www.last.fm/music/Ben+Beal/_/PERCH)
-* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
-* [D-Real [愛] — Nerd Won't Stop](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Nerd+Won%27t+Stop)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
+* [Eminem — Godzilla (feat. Juice WRLD)](https://www.last.fm/music/Eminem/_/Godzilla+(feat.+Juice+WRLD))
+* [LIL DUSTY G — INSECTS](https://www.last.fm/music/LIL+DUSTY+G/_/INSECTS)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
+* [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
