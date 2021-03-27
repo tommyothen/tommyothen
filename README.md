@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vampire Weekend — Diane Young](https://www.last.fm/music/Vampire+Weekend/_/Diane+Young)
+* [Of Monsters and Men — Little Talks](https://www.last.fm/music/Of+Monsters+and+Men/_/Little+Talks)
+* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
 * [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
-* [Rizzle Kicks — When I Was A Youngster](https://www.last.fm/music/Rizzle+Kicks/_/When+I+Was+A+Youngster)
-* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
-* [Lady Gaga — Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)
-* [Justin Timberlake — Rock Your Body](https://www.last.fm/music/Justin+Timberlake/_/Rock+Your+Body)<!-- LASTFM:END -->
+* [Rizzle Kicks — When I Was A Youngster](https://www.last.fm/music/Rizzle+Kicks/_/When+I+Was+A+Youngster)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
