@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, The Creator — I Ain't Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)
+* [bbno$ — 3mo](https://www.last.fm/music/bbno$/_/3mo)
+* [Wowkie Da — 陽光彩虹小白馬](https://www.last.fm/music/Wowkie+Da/_/%E9%99%BD%E5%85%89%E5%BD%A9%E8%99%B9%E5%B0%8F%E7%99%BD%E9%A6%AC)
 * [TWICE — KNOCK KNOCK](https://www.last.fm/music/TWICE/_/KNOCK+KNOCK)
-* [khai dreams — Summer is Like a Dream](https://www.last.fm/music/khai+dreams/_/Summer+is+Like+a+Dream)
-* [Solace — Silver Spoons](https://www.last.fm/music/Solace/_/Silver+Spoons)
-* [Eden — Billie Jean](https://www.last.fm/music/Eden/_/Billie+Jean)
-* [bbno$ — banana](https://www.last.fm/music/bbno$/_/banana)<!-- LASTFM:END -->
+* [khai dreams — Summer is Like a Dream](https://www.last.fm/music/khai+dreams/_/Summer+is+Like+a+Dream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
