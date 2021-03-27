@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)
+* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
+* [Kill Bill: The Rapper — About Last Night...](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/About+Last+Night...)
 * [Rich Brian — See Me](https://www.last.fm/music/Rich+Brian/_/See+Me)
-* [The Notorious B.I.G. — Notorious Thugs - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Notorious+Thugs+-+2014+Remaster)
-* [Dreamcatcher — YOU AND I](https://www.last.fm/music/Dreamcatcher/_/YOU+AND+I)
-* [Shahmen — Dirt](https://www.last.fm/music/Shahmen/_/Dirt)
-* [A D M B — Just A Day](https://www.last.fm/music/A+D+M+B/_/Just+A+Day)<!-- LASTFM:END -->
+* [The Notorious B.I.G. — Notorious Thugs - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Notorious+Thugs+-+2014+Remaster)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
