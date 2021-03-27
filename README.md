@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jon Bellion — All Time Low](https://www.last.fm/music/Jon+Bellion/_/All+Time+Low)
+* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
 * [Prismo — Stronger](https://www.last.fm/music/Prismo/_/Stronger)
 * [Lofi.Samurai — dearest](https://www.last.fm/music/Lofi.Samurai/_/dearest)
-* [Eery — Just a Sec](https://www.last.fm/music/Eery/_/Just+a+Sec)
-* [Pendulum — Propane Nightmares - Grabbitz Remix](https://www.last.fm/music/Pendulum/_/Propane+Nightmares+-+Grabbitz+Remix)
-* [bbno$ — shining](https://www.last.fm/music/bbno$/_/shining)<!-- LASTFM:END -->
+* [Eery — Just a Sec](https://www.last.fm/music/Eery/_/Just+a+Sec)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
