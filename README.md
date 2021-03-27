@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flo Rida — Whistle](https://www.last.fm/music/Flo+Rida/_/Whistle)
+* [Train — Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)
+* [OutKast — Hey Ya!](https://www.last.fm/music/OutKast/_/Hey+Ya!)
 * [Sean Kingston — Beautiful Girls](https://www.last.fm/music/Sean+Kingston/_/Beautiful+Girls)
-* [Estelle — American Boy](https://www.last.fm/music/Estelle/_/American+Boy)
-* [Michael Bublé — Haven't Met You Yet](https://www.last.fm/music/Michael+Bubl%C3%A9/_/Haven%27t+Met+You+Yet)
-* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
-* [DJ Snake — Turn Down For What](https://www.last.fm/music/DJ+Snake/_/Turn+Down+For+What)<!-- LASTFM:END -->
+* [Estelle — American Boy](https://www.last.fm/music/Estelle/_/American+Boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
