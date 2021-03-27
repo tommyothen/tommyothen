@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
-* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)
-* [Kill Bill: The Rapper — Chinatown](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Chinatown)
-* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)
-* [Night Tempo — ShortCake](https://www.last.fm/music/Night+Tempo/_/ShortCake)<!-- LASTFM:END -->
+* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
+* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
+* [Far East Movement — Like A G6](https://www.last.fm/music/Far+East+Movement/_/Like+A+G6)
+* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
+* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
