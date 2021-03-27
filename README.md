@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eery — Just a Sec](https://www.last.fm/music/Eery/_/Just+a+Sec)
+* [Pendulum — Propane Nightmares - Grabbitz Remix](https://www.last.fm/music/Pendulum/_/Propane+Nightmares+-+Grabbitz+Remix)
+* [bbno$ — shining](https://www.last.fm/music/bbno$/_/shining)
 * [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)
-* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
-* [Kill Bill: The Rapper — About Last Night...](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/About+Last+Night...)
-* [Rich Brian — See Me](https://www.last.fm/music/Rich+Brian/_/See+Me)
-* [The Notorious B.I.G. — Notorious Thugs - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Notorious+Thugs+-+2014+Remaster)<!-- LASTFM:END -->
+* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
