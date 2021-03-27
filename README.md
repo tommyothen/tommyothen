@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Milkoi — ミサキ](https://www.last.fm/music/Milkoi/_/%E3%83%9F%E3%82%B5%E3%82%AD)
+* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)
+* [Ryan Caraveo — Bang](https://www.last.fm/music/Ryan+Caraveo/_/Bang)
 * [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)
-* [Headhaunter — Engage Thrusters](https://www.last.fm/music/Headhaunter/_/Engage+Thrusters)
-* [ABSRDST — Imaginary Friend](https://www.last.fm/music/ABSRDST/_/Imaginary+Friend)
-* [Aries — Racecar](https://www.last.fm/music/Aries/_/Racecar)
-* [Jarv & Thief — Lady Killer](https://www.last.fm/music/Jarv+&+Thief/_/Lady+Killer)<!-- LASTFM:END -->
+* [Headhaunter — Engage Thrusters](https://www.last.fm/music/Headhaunter/_/Engage+Thrusters)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
