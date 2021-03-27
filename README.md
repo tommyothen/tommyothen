@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [jdam — Problem](https://www.last.fm/music/jdam/_/Problem)
-* [sleepdealer — Ocean (feat. HM Surf)](https://www.last.fm/music/sleepdealer/_/Ocean+(feat.+HM+Surf))
-* [gianni & kyle — tension](https://www.last.fm/music/gianni+&+kyle/_/tension)
-* [Caroline Konstnar — The Birthday Song](https://www.last.fm/music/Caroline+Konstnar/_/The+Birthday+Song)
-* [Jon Bellion — All Time Low](https://www.last.fm/music/Jon+Bellion/_/All+Time+Low)<!-- LASTFM:END -->
+* [Yakkle — 愛密集](https://www.last.fm/music/Yakkle/_/%E6%84%9B%E5%AF%86%E9%9B%86)
+* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)
+* [rei brown — give me nurture](https://www.last.fm/music/rei+brown/_/give+me+nurture)
+* [Lemaitre — Higher](https://www.last.fm/music/Lemaitre/_/Higher)
+* [jdam — Problem](https://www.last.fm/music/jdam/_/Problem)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
