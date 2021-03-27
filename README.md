@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Soulja Boy — Crank That (Soulja Boy)](https://www.last.fm/music/Soulja+Boy/_/Crank+That+(Soulja+Boy))
+* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
 * [Lady Gaga — Applause](https://www.last.fm/music/Lady+Gaga/_/Applause)
 * [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)
-* [Macklemore — Thrift Shop (feat. Wanz)](https://www.last.fm/music/Macklemore/_/Thrift+Shop+(feat.+Wanz))
-* [Flo Rida — Whistle](https://www.last.fm/music/Flo+Rida/_/Whistle)
-* [Train — Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)<!-- LASTFM:END -->
+* [Macklemore — Thrift Shop (feat. Wanz)](https://www.last.fm/music/Macklemore/_/Thrift+Shop+(feat.+Wanz))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
