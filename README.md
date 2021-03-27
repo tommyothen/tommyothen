@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Justin Timberlake — Rock Your Body](https://www.last.fm/music/Justin+Timberlake/_/Rock+Your+Body)
+* [Macklemore & Ryan Lewis — Can't Hold Us (feat. Ray Dalton)](https://www.last.fm/music/Macklemore+&+Ryan+Lewis/_/Can%27t+Hold+Us+(feat.+Ray+Dalton))
+* [Taio Cruz — Dynamite](https://www.last.fm/music/Taio+Cruz/_/Dynamite)
 * [Kanye West — Gold Digger](https://www.last.fm/music/Kanye+West/_/Gold+Digger)
-* [CeeLo Green — Forget You](https://www.last.fm/music/CeeLo+Green/_/Forget+You)
-* [Amy Winehouse — Back to Black](https://www.last.fm/music/Amy+Winehouse/_/Back+to+Black)
-* [Daft Punk — Get Lucky (feat. Pharrell Williams & Nile Rodgers)](https://www.last.fm/music/Daft+Punk/_/Get+Lucky+(feat.+Pharrell+Williams+&+Nile+Rodgers))
-* [Mark Ronson — Uptown Funk (feat. Bruno Mars)](https://www.last.fm/music/Mark+Ronson/_/Uptown+Funk+(feat.+Bruno+Mars))<!-- LASTFM:END -->
+* [CeeLo Green — Forget You](https://www.last.fm/music/CeeLo+Green/_/Forget+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
