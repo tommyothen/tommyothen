@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [YUNG BAE — I Can Tell](https://www.last.fm/music/YUNG+BAE/_/I+Can+Tell)
-* [EarthGang — Meditate (feat. J.I.D.)](https://www.last.fm/music/EarthGang/_/Meditate+(feat.+J.I.D.))
-* [Far Out — Rise](https://www.last.fm/music/Far+Out/_/Rise)
-* [Eevee — acid](https://www.last.fm/music/Eevee/_/acid)
-* [Area21 — Girls](https://www.last.fm/music/Area21/_/Girls)<!-- LASTFM:END -->
+* [Eden — and](https://www.last.fm/music/Eden/_/and)
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
+* [Shinigami — heart attack](https://www.last.fm/music/Shinigami/_/heart+attack)
+* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
+* [YUNG BAE — I Can Tell](https://www.last.fm/music/YUNG+BAE/_/I+Can+Tell)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
