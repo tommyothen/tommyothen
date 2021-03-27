@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Andrew Huang — Summertime Feeling](https://www.last.fm/music/Andrew+Huang/_/Summertime+Feeling)
 * [Eden — sex (catching feelings)](https://www.last.fm/music/Eden/_/sex+(catching+feelings))
 * [Prismo — Too Close](https://www.last.fm/music/Prismo/_/Too+Close)
 * [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)
-* [Yakkle — 愛密集](https://www.last.fm/music/Yakkle/_/%E6%84%9B%E5%AF%86%E9%9B%86)
-* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)<!-- LASTFM:END -->
+* [Yakkle — 愛密集](https://www.last.fm/music/Yakkle/_/%E6%84%9B%E5%AF%86%E9%9B%86)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
