@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [luvbird — Dawn Amble](https://www.last.fm/music/luvbird/_/Dawn+Amble)
-* [YUNG BAE — I Can Tell](https://www.last.fm/music/YUNG+BAE/_/I+Can+Tell)
-* [Trevor Daniel — Falling (blackbear remix)](https://www.last.fm/music/Trevor+Daniel/_/Falling+(blackbear+remix))
-* [khai dreams — Travels](https://www.last.fm/music/khai+dreams/_/Travels)
-* [Moe Cafe — Twintail Love](https://www.last.fm/music/Moe+Cafe/_/Twintail+Love)<!-- LASTFM:END -->
+* [Kero Kero Bonito — Only Acting](https://www.last.fm/music/Kero+Kero+Bonito/_/Only+Acting)
+* [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)
+* [bbno$ — banana](https://www.last.fm/music/bbno$/_/banana)
+* [Global Dan — Dark Out](https://www.last.fm/music/Global+Dan/_/Dark+Out)
+* [Rich Brian — See Me](https://www.last.fm/music/Rich+Brian/_/See+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
