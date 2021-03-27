@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mark Ronson — Uptown Funk (feat. Bruno Mars)](https://www.last.fm/music/Mark+Ronson/_/Uptown+Funk+(feat.+Bruno+Mars))
-* [Fall Out Boy — Centuries](https://www.last.fm/music/Fall+Out+Boy/_/Centuries)
-* [Swedish House Mafia — Don't You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)
-* [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
-* [LMFAO — Party Rock Anthem](https://www.last.fm/music/LMFAO/_/Party+Rock+Anthem)<!-- LASTFM:END -->
+* [Kanye West — Gold Digger](https://www.last.fm/music/Kanye+West/_/Gold+Digger)
+* [CeeLo Green — Forget You](https://www.last.fm/music/CeeLo+Green/_/Forget+You)
+* [Amy Winehouse — Back to Black](https://www.last.fm/music/Amy+Winehouse/_/Back+to+Black)
+* [Daft Punk — Get Lucky (feat. Pharrell Williams & Nile Rodgers)](https://www.last.fm/music/Daft+Punk/_/Get+Lucky+(feat.+Pharrell+Williams+&+Nile+Rodgers))
+* [Mark Ronson — Uptown Funk (feat. Bruno Mars)](https://www.last.fm/music/Mark+Ronson/_/Uptown+Funk+(feat.+Bruno+Mars))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
