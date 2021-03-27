@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
+* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
 * [Eden — and](https://www.last.fm/music/Eden/_/and)
 * [Joji — Window](https://www.last.fm/music/Joji/_/Window)
-* [Shinigami — heart attack](https://www.last.fm/music/Shinigami/_/heart+attack)
-* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
-* [YUNG BAE — I Can Tell](https://www.last.fm/music/YUNG+BAE/_/I+Can+Tell)<!-- LASTFM:END -->
+* [Shinigami — heart attack](https://www.last.fm/music/Shinigami/_/heart+attack)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
