@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [EarthGang — Meditate (feat. J.I.D.)](https://www.last.fm/music/EarthGang/_/Meditate+(feat.+J.I.D.))
+* [Far Out — Rise](https://www.last.fm/music/Far+Out/_/Rise)
 * [Eevee — acid](https://www.last.fm/music/Eevee/_/acid)
 * [Area21 — Girls](https://www.last.fm/music/Area21/_/Girls)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
