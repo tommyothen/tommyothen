@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [alt-J — Matilda](https://www.last.fm/music/alt-J/_/Matilda)
-* [The Vaccines — Post Break-Up Sex](https://www.last.fm/music/The+Vaccines/_/Post+Break-Up+Sex)
-* [The Wombats — Let's Dance to Joy Division](https://www.last.fm/music/The+Wombats/_/Let%27s+Dance+to+Joy+Division)
-* [Two Door Cinema Club — What You Know](https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know)
-* [Foals — My Number](https://www.last.fm/music/Foals/_/My+Number)<!-- LASTFM:END -->
+* [slowthai — terms (feat. Dominic Fike & Denzel Curry)](https://www.last.fm/music/slowthai/_/terms+(feat.+Dominic+Fike+&+Denzel+Curry))
+* [slowthai — CANCELLED (feat. Skepta)](https://www.last.fm/music/slowthai/_/CANCELLED+(feat.+Skepta))
+* [Tyler, The Creator — I Ain't Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
+* [alt-J — Matilda](https://www.last.fm/music/alt-J/_/Matilda)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
