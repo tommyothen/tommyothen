@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Auli'i Cravalho — How Far I'll Go](https://www.last.fm/music/Auli%27i+Cravalho/_/How+Far+I%27ll+Go)
+* [Donny Osmond — I'll Make a Man Out of You - From "Mulan"/Soundtrack](https://www.last.fm/music/Donny+Osmond/_/I%27ll+Make+a+Man+Out+of+You+-+From+%22Mulan%22%2FSoundtrack)
+* [Kristen Bell — Love Is an Open Door - From "Frozen"/Soundtrack Version](https://www.last.fm/music/Kristen+Bell/_/Love+Is+an+Open+Door+-+From+%22Frozen%22%2FSoundtrack+Version)
 * [Lea Salonga — A Whole New World - From "Aladdin" / Soundtrack Version](https://www.last.fm/music/Lea+Salonga/_/A+Whole+New+World+-+From+%22Aladdin%22+%2F+Soundtrack+Version)
-* [Dwayne Johnson — You're Welcome](https://www.last.fm/music/Dwayne+Johnson/_/You%27re+Welcome)
-* [Far East Movement — Like A G6](https://www.last.fm/music/Far+East+Movement/_/Like+A+G6)
-* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
+* [Dwayne Johnson — You're Welcome](https://www.last.fm/music/Dwayne+Johnson/_/You%27re+Welcome)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
