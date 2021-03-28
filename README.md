@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [alt-J — Matilda](https://www.last.fm/music/alt-J/_/Matilda)
+* [The Vaccines — Post Break-Up Sex](https://www.last.fm/music/The+Vaccines/_/Post+Break-Up+Sex)
+* [The Wombats — Let's Dance to Joy Division](https://www.last.fm/music/The+Wombats/_/Let%27s+Dance+to+Joy+Division)
 * [Two Door Cinema Club — What You Know](https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know)
-* [Foals — My Number](https://www.last.fm/music/Foals/_/My+Number)
-* [Muse — Supermassive Black Hole](https://www.last.fm/music/Muse/_/Supermassive+Black+Hole)
-* [Muse — Uprising](https://www.last.fm/music/Muse/_/Uprising)
-* [Alaska Thunderfuck — Pussy](https://www.last.fm/music/Alaska+Thunderfuck/_/Pussy)<!-- LASTFM:END -->
+* [Foals — My Number](https://www.last.fm/music/Foals/_/My+Number)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
