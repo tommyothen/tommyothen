@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Wanted — All Time Low](https://www.last.fm/music/The+Wanted/_/All+Time+Low)
+* [Shaggy — It Wasn't Me](https://www.last.fm/music/Shaggy/_/It+Wasn%27t+Me)
+* [Train — Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)
 * [Coldplay — Hymn for the Weekend](https://www.last.fm/music/Coldplay/_/Hymn+for+the+Weekend)
-* [Bruno Mars — Leave the Door Open](https://www.last.fm/music/Bruno+Mars/_/Leave+the+Door+Open)
-* [Eminem — The Real Slim Shady](https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady)
-* [Daft Punk — Get Lucky (feat. Pharrell Williams & Nile Rodgers)](https://www.last.fm/music/Daft+Punk/_/Get+Lucky+(feat.+Pharrell+Williams+&+Nile+Rodgers))
-* [B.o.B — Airplanes (feat. Hayley Williams)](https://www.last.fm/music/B.o.B/_/Airplanes+(feat.+Hayley+Williams))<!-- LASTFM:END -->
+* [Bruno Mars — Leave the Door Open](https://www.last.fm/music/Bruno+Mars/_/Leave+the+Door+Open)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
