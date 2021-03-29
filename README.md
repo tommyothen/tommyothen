@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Backstreet Boys — I Want It That Way](https://www.last.fm/music/Backstreet+Boys/_/I+Want+It+That+Way)
+* [Teriyaki Boyz — Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://www.last.fm/music/Teriyaki+Boyz/_/Tokyo+Drift+(Fast+&+Furious)+-+From+%22The+Fast+And+The+Furious:+Tokyo+Drift%22+Soundtrack)
 * [The Wanted — All Time Low](https://www.last.fm/music/The+Wanted/_/All+Time+Low)
 * [Shaggy — It Wasn't Me](https://www.last.fm/music/Shaggy/_/It+Wasn%27t+Me)
-* [Train — Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)
-* [Coldplay — Hymn for the Weekend](https://www.last.fm/music/Coldplay/_/Hymn+for+the+Weekend)
-* [Bruno Mars — Leave the Door Open](https://www.last.fm/music/Bruno+Mars/_/Leave+the+Door+Open)<!-- LASTFM:END -->
+* [Train — Hey, Soul Sister](https://www.last.fm/music/Train/_/Hey,+Soul+Sister)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
