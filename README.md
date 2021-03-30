@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lady Gaga — Born This Way](https://www.last.fm/music/Lady+Gaga/_/Born+This+Way)
-* [Black Eyed Peas — I Gotta Feeling](https://www.last.fm/music/Black+Eyed+Peas/_/I+Gotta+Feeling)
-* [Vance Joy — Riptide](https://www.last.fm/music/Vance+Joy/_/Riptide)
-* [Taio Cruz — Dynamite](https://www.last.fm/music/Taio+Cruz/_/Dynamite)
-* [Ne-Yo — Miss Independent](https://www.last.fm/music/Ne-Yo/_/Miss+Independent)<!-- LASTFM:END -->
+* [Bruno Mars — Marry You](https://www.last.fm/music/Bruno+Mars/_/Marry+You)
+* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
+* [Bruno Mars — Grenade](https://www.last.fm/music/Bruno+Mars/_/Grenade)
+* [Imagine Dragons — Demons](https://www.last.fm/music/Imagine+Dragons/_/Demons)
+* [David Guetta — Without You (feat. Usher)](https://www.last.fm/music/David+Guetta/_/Without+You+(feat.+Usher))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
