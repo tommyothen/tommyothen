@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
+* [nothing,nowhere. — blood (feat. KennyHoopla & JUDGE)](https://www.last.fm/music/nothing,nowhere./_/blood+(feat.+KennyHoopla+&+JUDGE))
+* [Jakey — Not Dead Yet](https://www.last.fm/music/Jakey/_/Not+Dead+Yet)
 * [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
-* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)
-* [Sembari + — Among Us](https://www.last.fm/music/Sembari+%252B/_/Among+Us)
-* [Lil_rebaah — Among Us Imposter Type Beat](https://www.last.fm/music/Lil_rebaah/_/Among+Us+Imposter+Type+Beat)
-* [Leonz — Among Us... but its Lucid Dreams](https://www.last.fm/music/Leonz/_/Among+Us...+but+its+Lucid+Dreams)<!-- LASTFM:END -->
+* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
