@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Porter Robinson — Goodbye To A World](https://www.last.fm/music/Porter+Robinson/_/Goodbye+To+A+World)
 * [Dark Cat — Bubble Tea](https://www.last.fm/music/Dark+Cat/_/Bubble+Tea)
 * [luvbird — Dawn Amble](https://www.last.fm/music/luvbird/_/Dawn+Amble)
 * [khai dreams — Fantasy](https://www.last.fm/music/khai+dreams/_/Fantasy)
-* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)
-* [Ghost Data — CELESTIAL BODIES](https://www.last.fm/music/Ghost+Data/_/CELESTIAL+BODIES)<!-- LASTFM:END -->
+* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
