@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dark Cat — Bubble Tea](https://www.last.fm/music/Dark+Cat/_/Bubble+Tea)
+* [luvbird — Dawn Amble](https://www.last.fm/music/luvbird/_/Dawn+Amble)
+* [khai dreams — Fantasy](https://www.last.fm/music/khai+dreams/_/Fantasy)
 * [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)
-* [Ghost Data — CELESTIAL BODIES](https://www.last.fm/music/Ghost+Data/_/CELESTIAL+BODIES)
-* [Wilbur Soot — I'm in Love with an E-Girl](https://www.last.fm/music/Wilbur+Soot/_/I%27m+in+Love+with+an+E-Girl)
-* [Rainych — Say So - Japanese Version](https://www.last.fm/music/Rainych/_/Say+So+-+Japanese+Version)
-* [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)<!-- LASTFM:END -->
+* [Ghost Data — CELESTIAL BODIES](https://www.last.fm/music/Ghost+Data/_/CELESTIAL+BODIES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
