@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Basshunter feat. DJ Mental Theos Bazzheadz — Now You're Gone - Video Edit](https://www.last.fm/music/Basshunter+feat.+DJ+Mental+Theos+Bazzheadz/_/Now+You%27re+Gone+-+Video+Edit)
+* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
+* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
 * [Taylor Swift — Blank Space](https://www.last.fm/music/Taylor+Swift/_/Blank+Space)
-* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
-* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)
-* [Paramore — Still into You](https://www.last.fm/music/Paramore/_/Still+into+You)
-* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)<!-- LASTFM:END -->
+* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
