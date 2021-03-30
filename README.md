@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [The Polar Boys — INTRO](https://www.last.fm/music/The+Polar+Boys/_/INTRO)
+* [Moe Shop — Love Taste](https://www.last.fm/music/Moe+Shop/_/Love+Taste)
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
 * [LilyPichu — Dreamy Night](https://www.last.fm/music/LilyPichu/_/Dreamy+Night)
-* [SNEAKER KIDS — MINT](https://www.last.fm/music/SNEAKER+KIDS/_/MINT)
-* [zenshou — for when i feel better](https://www.last.fm/music/zenshou/_/for+when+i+feel+better)
-* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)<!-- LASTFM:END -->
+* [The Polar Boys — INTRO](https://www.last.fm/music/The+Polar+Boys/_/INTRO)
+* [LilyPichu — Dreamy Night](https://www.last.fm/music/LilyPichu/_/Dreamy+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
