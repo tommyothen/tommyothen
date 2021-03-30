@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jorja Smith — On My Mind (Jorja Smith X Preditah)](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+(Jorja+Smith+X+Preditah))
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
-* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
-* [Black Eyed Peas — Meet Me Halfway](https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway)<!-- LASTFM:END -->
+* [Luis Fonsi — Despacito](https://www.last.fm/music/Luis+Fonsi/_/Despacito)
+* [Tsuko G. — Deja Vu (Initial D)](https://www.last.fm/music/Tsuko+G./_/Deja+Vu+(Initial+D))
+* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
+* [Grant MacDonald — Ram Ranch](https://www.last.fm/music/Grant+MacDonald/_/Ram+Ranch)
+* [Jorja Smith — On My Mind (Jorja Smith X Preditah)](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+(Jorja+Smith+X+Preditah))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
