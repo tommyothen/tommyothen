@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [I DONT KNOW HOW BUT THEY FOUND ME — Leave Me Alone](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Leave+Me+Alone)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
 * [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
-* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)<!-- LASTFM:END -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [Freddie Dredd — Evil fantasy](https://www.last.fm/music/Freddie+Dredd/_/Evil+fantasy)
+* [Matt Maeson — Me And My Friends Are Lonely](https://www.last.fm/music/Matt+Maeson/_/Me+And+My+Friends+Are+Lonely)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
