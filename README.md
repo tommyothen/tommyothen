@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
+* [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)
+* [K/DA — MORE](https://www.last.fm/music/K%2FDA/_/MORE)
 * [Shawn Wasabi — MARBLE TEA](https://www.last.fm/music/Shawn+Wasabi/_/MARBLE+TEA)
-* [LilyPichu — Dreamy Night](https://www.last.fm/music/LilyPichu/_/Dreamy+Night)
-* [Moe Shop — Love Taste](https://www.last.fm/music/Moe+Shop/_/Love+Taste)
-* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
 * [LilyPichu — Dreamy Night](https://www.last.fm/music/LilyPichu/_/Dreamy+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
