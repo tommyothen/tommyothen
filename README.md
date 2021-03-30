@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [I DONT KNOW HOW BUT THEY FOUND ME — Leave Me Alone](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Leave+Me+Alone)
 * [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
 * [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
 * [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
-* [nothing,nowhere. — blood (feat. KennyHoopla & JUDGE)](https://www.last.fm/music/nothing,nowhere./_/blood+(feat.+KennyHoopla+&+JUDGE))<!-- LASTFM:END -->
+* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
