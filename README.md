@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bruno Mars — Marry You](https://www.last.fm/music/Bruno+Mars/_/Marry+You)
-* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
-* [Bruno Mars — Grenade](https://www.last.fm/music/Bruno+Mars/_/Grenade)
-* [Imagine Dragons — Demons](https://www.last.fm/music/Imagine+Dragons/_/Demons)
-* [David Guetta — Without You (feat. Usher)](https://www.last.fm/music/David+Guetta/_/Without+You+(feat.+Usher))<!-- LASTFM:END -->
+* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
+* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)
+* [Sembari + — Among Us](https://www.last.fm/music/Sembari+%252B/_/Among+Us)
+* [Lil_rebaah — Among Us Imposter Type Beat](https://www.last.fm/music/Lil_rebaah/_/Among+Us+Imposter+Type+Beat)
+* [Leonz — Among Us... but its Lucid Dreams](https://www.last.fm/music/Leonz/_/Among+Us...+but+its+Lucid+Dreams)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
