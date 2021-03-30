@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
 * [Cardi B — WAP (feat. Megan Thee Stallion)](https://www.last.fm/music/Cardi+B/_/WAP+(feat.+Megan+Thee+Stallion))
 * [Boney M. — Rasputin](https://www.last.fm/music/Boney+M./_/Rasputin)
 * [Luis Fonsi — Despacito](https://www.last.fm/music/Luis+Fonsi/_/Despacito)
-* [Tsuko G. — Deja Vu (Initial D)](https://www.last.fm/music/Tsuko+G./_/Deja+Vu+(Initial+D))
-* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)<!-- LASTFM:END -->
+* [Tsuko G. — Deja Vu (Initial D)](https://www.last.fm/music/Tsuko+G./_/Deja+Vu+(Initial+D))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
