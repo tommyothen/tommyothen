@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Freddie Dredd — Evil fantasy](https://www.last.fm/music/Freddie+Dredd/_/Evil+fantasy)
-* [Matt Maeson — Me And My Friends Are Lonely](https://www.last.fm/music/Matt+Maeson/_/Me+And+My+Friends+Are+Lonely)<!-- LASTFM:END -->
+* [Taylor Swift — Blank Space](https://www.last.fm/music/Taylor+Swift/_/Blank+Space)
+* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
+* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)
+* [Paramore — Still into You](https://www.last.fm/music/Paramore/_/Still+into+You)
+* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
