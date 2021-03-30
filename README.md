@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cardi B — WAP (feat. Megan Thee Stallion)](https://www.last.fm/music/Cardi+B/_/WAP+(feat.+Megan+Thee+Stallion))
+* [Boney M. — Rasputin](https://www.last.fm/music/Boney+M./_/Rasputin)
 * [Luis Fonsi — Despacito](https://www.last.fm/music/Luis+Fonsi/_/Despacito)
 * [Tsuko G. — Deja Vu (Initial D)](https://www.last.fm/music/Tsuko+G./_/Deja+Vu+(Initial+D))
-* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
-* [Grant MacDonald — Ram Ranch](https://www.last.fm/music/Grant+MacDonald/_/Ram+Ranch)
-* [Jorja Smith — On My Mind (Jorja Smith X Preditah)](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+(Jorja+Smith+X+Preditah))<!-- LASTFM:END -->
+* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
