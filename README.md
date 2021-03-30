@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
+* [TWICE — KNOCK KNOCK](https://www.last.fm/music/TWICE/_/KNOCK+KNOCK)
+* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
 * [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
-* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
-* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)<!-- LASTFM:END -->
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
