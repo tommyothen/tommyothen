@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
+* [Grabbitz — My Cloud](https://www.last.fm/music/Grabbitz/_/My+Cloud)
+* [Ark Patrol — Let Go](https://www.last.fm/music/Ark+Patrol/_/Let+Go)
 * [boy pablo — Feeling Lonely](https://www.last.fm/music/boy+pablo/_/Feeling+Lonely)
-* [Knapsack — Nothing Less](https://www.last.fm/music/Knapsack/_/Nothing+Less)
-* [[bsd.u] — the grind](https://www.last.fm/music/%5Bbsd.u%5D/_/the+grind)
-* [Egg — Putting a Spin on Sweater Weather](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Sweater+Weather)
-* [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)<!-- LASTFM:END -->
+* [Knapsack — Nothing Less](https://www.last.fm/music/Knapsack/_/Nothing+Less)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
