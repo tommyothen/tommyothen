@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Abhi The Nomad — Sex n' Drugs](https://www.last.fm/music/Abhi+The+Nomad/_/Sex+n%27+Drugs)
-* [Jorja Smith — Blue Lights](https://www.last.fm/music/Jorja+Smith/_/Blue+Lights)
-* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
-* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
-* [Yung Gravy — Early Afternoon Stroll](https://www.last.fm/music/Yung+Gravy/_/Early+Afternoon+Stroll)<!-- LASTFM:END -->
+* [Dark Cat — Bubble Tea](https://www.last.fm/music/Dark+Cat/_/Bubble+Tea)
+* [Jeremy Zucker — better off](https://www.last.fm/music/Jeremy+Zucker/_/better+off)
+* [Logic — Homicide (feat. Eminem)](https://www.last.fm/music/Logic/_/Homicide+(feat.+Eminem))
+* [Haywyre — Let Me Hear That](https://www.last.fm/music/Haywyre/_/Let+Me+Hear+That)
+* [Abhi The Nomad — Sex n' Drugs](https://www.last.fm/music/Abhi+The+Nomad/_/Sex+n%27+Drugs)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
