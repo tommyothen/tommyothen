@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nothing,nowhere. — dread](https://www.last.fm/music/nothing,nowhere./_/dread)
+* [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)
+* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
 * [Dark Cat — Bubble Tea](https://www.last.fm/music/Dark+Cat/_/Bubble+Tea)
-* [Jeremy Zucker — better off](https://www.last.fm/music/Jeremy+Zucker/_/better+off)
-* [Logic — Homicide (feat. Eminem)](https://www.last.fm/music/Logic/_/Homicide+(feat.+Eminem))
-* [Haywyre — Let Me Hear That](https://www.last.fm/music/Haywyre/_/Let+Me+Hear+That)
-* [Abhi The Nomad — Sex n' Drugs](https://www.last.fm/music/Abhi+The+Nomad/_/Sex+n%27+Drugs)<!-- LASTFM:END -->
+* [Jeremy Zucker — better off](https://www.last.fm/music/Jeremy+Zucker/_/better+off)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
