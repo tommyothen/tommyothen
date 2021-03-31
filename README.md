@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tennyson — Body Language (feat. Aloe Blacc)](https://www.last.fm/music/Tennyson/_/Body+Language+(feat.+Aloe+Blacc))
+* [TeddyLoid — Me!Me!Me!, Pt. 2](https://www.last.fm/music/TeddyLoid/_/Me!Me!Me!,+Pt.+2)
 * [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)
 * [TomppaBeats — like someone in love](https://www.last.fm/music/TomppaBeats/_/like+someone+in+love)
-* [Jarv & Thief — The Beat](https://www.last.fm/music/Jarv+&+Thief/_/The+Beat)
-* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)
-* [William Black — Here At Last](https://www.last.fm/music/William+Black/_/Here+At+Last)<!-- LASTFM:END -->
+* [Jarv & Thief — The Beat](https://www.last.fm/music/Jarv+&+Thief/_/The+Beat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
