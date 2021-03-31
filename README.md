@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Global Dan — Dark Out](https://www.last.fm/music/Global+Dan/_/Dark+Out)
+* [Rich Brian — Little Prince (feat. NIKI)](https://www.last.fm/music/Rich+Brian/_/Little+Prince+(feat.+NIKI))
+* [Rich Brian — Arizona (feat. AUGUST 08)](https://www.last.fm/music/Rich+Brian/_/Arizona+(feat.+AUGUST+08))
 * [Eden — forever//over](https://www.last.fm/music/Eden/_/forever%2F%2Fover)
-* [Gleb — motorest](https://www.last.fm/music/Gleb/_/motorest)
-* [Oliver Tree — Do You Feel Me?](https://www.last.fm/music/Oliver+Tree/_/Do+You+Feel+Me%3F)
-* [Infected Mushroom — Spitfire](https://www.last.fm/music/Infected+Mushroom/_/Spitfire)
-* [Cal Scruby — Not That Deep](https://www.last.fm/music/Cal+Scruby/_/Not+That+Deep)<!-- LASTFM:END -->
+* [Gleb — motorest](https://www.last.fm/music/Gleb/_/motorest)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
