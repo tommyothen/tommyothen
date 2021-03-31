@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
+* [Oliver Tree — All I Got](https://www.last.fm/music/Oliver+Tree/_/All+I+Got)
 * [Deca — Mammon's Mantra](https://www.last.fm/music/Deca/_/Mammon%27s+Mantra)
 * [Shawn Wasabi — Squeez®](https://www.last.fm/music/Shawn+Wasabi/_/Squeez%C2%AE)
-* [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)
-* [EarthGang — Meditate (feat. J.I.D.)](https://www.last.fm/music/EarthGang/_/Meditate+(feat.+J.I.D.))
-* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)<!-- LASTFM:END -->
+* [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
