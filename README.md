@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Engelwood — Immaculate Taste](https://www.last.fm/music/Engelwood/_/Immaculate+Taste)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
 * [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)
 * [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
-* [The Tech Thieves — Flowers](https://www.last.fm/music/The+Tech+Thieves/_/Flowers)
-* [Royal & the Serpent — Weddings & Funerals](https://www.last.fm/music/Royal+&+the+Serpent/_/Weddings+&+Funerals)
-* [Chloe Moriondo — Ghost Adventure Spirit Orb](https://www.last.fm/music/Chloe+Moriondo/_/Ghost+Adventure+Spirit+Orb)<!-- LASTFM:END -->
+* [The Tech Thieves — Flowers](https://www.last.fm/music/The+Tech+Thieves/_/Flowers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
