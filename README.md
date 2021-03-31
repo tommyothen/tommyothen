@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [William Black — Here At Last](https://www.last.fm/music/William+Black/_/Here+At+Last)
+* [Akintoye — At the Cookout](https://www.last.fm/music/Akintoye/_/At+the+Cookout)
+* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
 * [Grant — The Edge](https://www.last.fm/music/Grant/_/The+Edge)
-* [bbno$ — moneytalk](https://www.last.fm/music/bbno$/_/moneytalk)
-* [Joji — i don't wanna waste my time](https://www.last.fm/music/Joji/_/i+don%27t+wanna+waste+my+time)
-* [Prismo — In My Mind](https://www.last.fm/music/Prismo/_/In+My+Mind)
-* [Tia — Deal with the devil](https://www.last.fm/music/Tia/_/Deal+with+the+devil)<!-- LASTFM:END -->
+* [bbno$ — moneytalk](https://www.last.fm/music/bbno$/_/moneytalk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
