@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pouya — Torch](https://www.last.fm/music/Pouya/_/Torch)
+* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
 * [nothing,nowhere. — dread](https://www.last.fm/music/nothing,nowhere./_/dread)
 * [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)
-* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
-* [Dark Cat — Bubble Tea](https://www.last.fm/music/Dark+Cat/_/Bubble+Tea)
-* [Jeremy Zucker — better off](https://www.last.fm/music/Jeremy+Zucker/_/better+off)<!-- LASTFM:END -->
+* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
