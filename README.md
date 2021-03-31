@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
-* [Mixed Matches — Betterdays](https://www.last.fm/music/Mixed+Matches/_/Betterdays)
-* [Ramzoid — BALL & CHAIN](https://www.last.fm/music/Ramzoid/_/BALL+&+CHAIN)
-* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
-* [Akintoye — At the Cookout](https://www.last.fm/music/Akintoye/_/At+the+Cookout)<!-- LASTFM:END -->
+* [zenshou — for when i feel better](https://www.last.fm/music/zenshou/_/for+when+i+feel+better)
+* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
+* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
+* [ITSOKTOCRY — DEADSET RADIO FUTURE](https://www.last.fm/music/ITSOKTOCRY/_/DEADSET+RADIO+FUTURE)
+* [Kensuke Ushio — (i can) say nothing](https://www.last.fm/music/Kensuke+Ushio/_/(i+can)+say+nothing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
