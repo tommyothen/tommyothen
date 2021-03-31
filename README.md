@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taska Black — In Your Eyes](https://www.last.fm/music/Taska+Black/_/In+Your+Eyes)
+* [Hobo Johnson — Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story)
 * [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
 * [Grabbitz — My Cloud](https://www.last.fm/music/Grabbitz/_/My+Cloud)
-* [Ark Patrol — Let Go](https://www.last.fm/music/Ark+Patrol/_/Let+Go)
-* [boy pablo — Feeling Lonely](https://www.last.fm/music/boy+pablo/_/Feeling+Lonely)
-* [Knapsack — Nothing Less](https://www.last.fm/music/Knapsack/_/Nothing+Less)<!-- LASTFM:END -->
+* [Ark Patrol — Let Go](https://www.last.fm/music/Ark+Patrol/_/Let+Go)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
