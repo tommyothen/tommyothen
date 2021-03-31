@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Neovaii — At the End](https://www.last.fm/music/Neovaii/_/At+the+End)
+* [Tsundere Alley — Like My Love](https://www.last.fm/music/Tsundere+Alley/_/Like+My+Love)
+* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)
 * [Billie Eilish — my strange addiction](https://www.last.fm/music/Billie+Eilish/_/my+strange+addiction)
-* [Aiobahn — ここにいる (Stephen Walking Remix)](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+(Stephen+Walking+Remix))
-* [Rich Brian — See Me](https://www.last.fm/music/Rich+Brian/_/See+Me)
-* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
-* [galdive — Nescience](https://www.last.fm/music/galdive/_/Nescience)<!-- LASTFM:END -->
+* [Aiobahn — ここにいる (Stephen Walking Remix)](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+(Stephen+Walking+Remix))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
