@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [zenshou — for when i feel better](https://www.last.fm/music/zenshou/_/for+when+i+feel+better)
-* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
+* [The Polar Boys — INTRO](https://www.last.fm/music/The+Polar+Boys/_/INTRO)
+* [SNEAKER KIDS — MINT](https://www.last.fm/music/SNEAKER+KIDS/_/MINT)
 * [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
-* [ITSOKTOCRY — DEADSET RADIO FUTURE](https://www.last.fm/music/ITSOKTOCRY/_/DEADSET+RADIO+FUTURE)
-* [Kensuke Ushio — (i can) say nothing](https://www.last.fm/music/Kensuke+Ushio/_/(i+can)+say+nothing)<!-- LASTFM:END -->
+* [League of Legends — Aphelios, The Weapon of the Faithful](https://www.last.fm/music/League+of+Legends/_/Aphelios,+The+Weapon+of+the+Faithful)
+* [zenshou — for when i feel better](https://www.last.fm/music/zenshou/_/for+when+i+feel+better)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
