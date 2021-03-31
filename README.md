@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Shiggy Jr. — oyasumi](https://www.last.fm/music/Shiggy+Jr./_/oyasumi)
-* [Engelwood — Immaculate Taste](https://www.last.fm/music/Engelwood/_/Immaculate+Taste)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
-* [Akintoye — Off My Back](https://www.last.fm/music/Akintoye/_/Off+My+Back)<!-- LASTFM:END -->
+* [Life of Hojj — Monday 월요일](https://www.last.fm/music/Life+of+Hojj/_/Monday+%EC%9B%94%EC%9A%94%EC%9D%BC)
+* [slowthai — CANCELLED (feat. Skepta)](https://www.last.fm/music/slowthai/_/CANCELLED+(feat.+Skepta))
+* [slowthai — terms (feat. Dominic Fike & Denzel Curry)](https://www.last.fm/music/slowthai/_/terms+(feat.+Dominic+Fike+&+Denzel+Curry))
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
+* [Shiggy Jr. — oyasumi](https://www.last.fm/music/Shiggy+Jr./_/oyasumi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
