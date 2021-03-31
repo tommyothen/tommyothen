@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Covet — farewell](https://www.last.fm/music/Covet/_/farewell)
+* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
+* [Diamond Pistols — Time Machine](https://www.last.fm/music/Diamond+Pistols/_/Time+Machine)
 * [HAARPER — Evol](https://www.last.fm/music/HAARPER/_/Evol)
-* [OFK — Follow/Unfollow](https://www.last.fm/music/OFK/_/Follow%2FUnfollow)
-* [Cancel Culture — LIES](https://www.last.fm/music/Cancel+Culture/_/LIES)
-* [Giselle — Silk - Favored Nations Remix](https://www.last.fm/music/Giselle/_/Silk+-+Favored+Nations+Remix)
-* [The Polar Boys — INTRO](https://www.last.fm/music/The+Polar+Boys/_/INTRO)<!-- LASTFM:END -->
+* [OFK — Follow/Unfollow](https://www.last.fm/music/OFK/_/Follow%2FUnfollow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
