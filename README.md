@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
-* [Oliver Tree — All I Got](https://www.last.fm/music/Oliver+Tree/_/All+I+Got)
-* [Deca — Mammon's Mantra](https://www.last.fm/music/Deca/_/Mammon%27s+Mantra)
-* [Shawn Wasabi — Squeez®](https://www.last.fm/music/Shawn+Wasabi/_/Squeez%C2%AE)
-* [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)<!-- LASTFM:END -->
+* [Yung Gravy — Early Afternoon Stroll](https://www.last.fm/music/Yung+Gravy/_/Early+Afternoon+Stroll)
+* [Unlike Pluto — JOLT](https://www.last.fm/music/Unlike+Pluto/_/JOLT)
+* [Grandson — Oh No!!!](https://www.last.fm/music/Grandson/_/Oh+No!!!)
+* [Kupla — Moudi Funk](https://www.last.fm/music/Kupla/_/Moudi+Funk)
+* [Marc Madness — Tadi](https://www.last.fm/music/Marc+Madness/_/Tadi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
