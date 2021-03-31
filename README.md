@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yung Gravy — Early Afternoon Stroll](https://www.last.fm/music/Yung+Gravy/_/Early+Afternoon+Stroll)
-* [Unlike Pluto — JOLT](https://www.last.fm/music/Unlike+Pluto/_/JOLT)
-* [Grandson — Oh No!!!](https://www.last.fm/music/Grandson/_/Oh+No!!!)
-* [Kupla — Moudi Funk](https://www.last.fm/music/Kupla/_/Moudi+Funk)
-* [Marc Madness — Tadi](https://www.last.fm/music/Marc+Madness/_/Tadi)<!-- LASTFM:END -->
+* [Abhi The Nomad — Sex n' Drugs](https://www.last.fm/music/Abhi+The+Nomad/_/Sex+n%27+Drugs)
+* [Jorja Smith — Blue Lights](https://www.last.fm/music/Jorja+Smith/_/Blue+Lights)
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
+* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
+* [Yung Gravy — Early Afternoon Stroll](https://www.last.fm/music/Yung+Gravy/_/Early+Afternoon+Stroll)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
