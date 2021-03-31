@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [hitorie — 日常と地球の額縁](https://www.last.fm/music/hitorie/_/%E6%97%A5%E5%B8%B8%E3%81%A8%E5%9C%B0%E7%90%83%E3%81%AE%E9%A1%8D%E7%B8%81)
+* [MISOGI — Forget—Me—Not! (feat. Instupendo)](https://www.last.fm/music/MISOGI/_/Forget%E2%80%94Me%E2%80%94Not!+(feat.+Instupendo))
+* [Donny Electric — If You Supply the Paint](https://www.last.fm/music/Donny+Electric/_/If+You+Supply+the+Paint)
 * [Covet — farewell](https://www.last.fm/music/Covet/_/farewell)
-* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
-* [Diamond Pistols — Time Machine](https://www.last.fm/music/Diamond+Pistols/_/Time+Machine)
-* [HAARPER — Evol](https://www.last.fm/music/HAARPER/_/Evol)
-* [OFK — Follow/Unfollow](https://www.last.fm/music/OFK/_/Follow%2FUnfollow)<!-- LASTFM:END -->
+* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
