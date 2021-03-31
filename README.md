@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Milkoi — Reflected](https://www.last.fm/music/Milkoi/_/Reflected)
-* [Guardin — in my sleep](https://www.last.fm/music/Guardin/_/in+my+sleep)
-* [bbno$ — guarantee](https://www.last.fm/music/bbno$/_/guarantee)
-* [Prismo — Stronger](https://www.last.fm/music/Prismo/_/Stronger)<!-- LASTFM:END -->
+* [Protostar — Overdrive](https://www.last.fm/music/Protostar/_/Overdrive)
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
+* [MISSIO — Rad Drugz](https://www.last.fm/music/MISSIO/_/Rad+Drugz)
+* [Elohim — Sensations - Whethan Remix](https://www.last.fm/music/Elohim/_/Sensations+-+Whethan+Remix)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
