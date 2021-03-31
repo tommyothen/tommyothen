@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [Milkoi — Reflected](https://www.last.fm/music/Milkoi/_/Reflected)
+* [Guardin — in my sleep](https://www.last.fm/music/Guardin/_/in+my+sleep)
 * [bbno$ — guarantee](https://www.last.fm/music/bbno$/_/guarantee)
-* [Prismo — Stronger](https://www.last.fm/music/Prismo/_/Stronger)
-* [Pendulum — Self vs Self (feat. In Flames)](https://www.last.fm/music/Pendulum/_/Self+vs+Self+(feat.+In+Flames))
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [DJ Khalil — Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)](https://www.last.fm/music/DJ+Khalil/_/Elevate+(feat.+Denzel+Curry,+YBN+Cordae,+SwaVay,+Trevor+Rich))<!-- LASTFM:END -->
+* [Prismo — Stronger](https://www.last.fm/music/Prismo/_/Stronger)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
