@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [From Indian Lakes — Did We Change](https://www.last.fm/music/From+Indian+Lakes/_/Did+We+Change)
+* [Internet Girl — Fuzz Boy!](https://www.last.fm/music/Internet+Girl/_/Fuzz+Boy!)
 * [La Bouquet — Anxiety, My Best Friend](https://www.last.fm/music/La+Bouquet/_/Anxiety,+My+Best+Friend)
 * [TEMPURA KIDZ — TAPI・TAPI](https://www.last.fm/music/TEMPURA+KIDZ/_/TAPI%E3%83%BBTAPI)
-* [twst — Are You Filming Me?](https://www.last.fm/music/twst/_/Are+You+Filming+Me%3F)
-* [hitorie — 日常と地球の額縁](https://www.last.fm/music/hitorie/_/%E6%97%A5%E5%B8%B8%E3%81%A8%E5%9C%B0%E7%90%83%E3%81%AE%E9%A1%8D%E7%B8%81)
-* [MISOGI — Forget—Me—Not! (feat. Instupendo)](https://www.last.fm/music/MISOGI/_/Forget%E2%80%94Me%E2%80%94Not!+(feat.+Instupendo))<!-- LASTFM:END -->
+* [twst — Are You Filming Me?](https://www.last.fm/music/twst/_/Are+You+Filming+Me%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
