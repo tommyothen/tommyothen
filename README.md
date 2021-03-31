@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)
 * [Dbmk — Rot](https://www.last.fm/music/Dbmk/_/Rot)
 * [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)
 * [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
-* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
-* [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)<!-- LASTFM:END -->
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
