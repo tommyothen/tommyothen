@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [half•alive — The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall)
+* [Rich Brian — Kitty](https://www.last.fm/music/Rich+Brian/_/Kitty)
+* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
 * [Eminem — Godzilla (feat. Juice WRLD)](https://www.last.fm/music/Eminem/_/Godzilla+(feat.+Juice+WRLD))
-* [Yungtown — Late Night Thoughts](https://www.last.fm/music/Yungtown/_/Late+Night+Thoughts)
-* [Pouya — Torch](https://www.last.fm/music/Pouya/_/Torch)
-* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
-* [nothing,nowhere. — dread](https://www.last.fm/music/nothing,nowhere./_/dread)<!-- LASTFM:END -->
+* [Yungtown — Late Night Thoughts](https://www.last.fm/music/Yungtown/_/Late+Night+Thoughts)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
