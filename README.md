@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Nujabes — Feather (feat. Cise Starr & Akin from Cyne)](https://www.last.fm/music/Nujabes/_/Feather+(feat.+Cise+Starr+&+Akin+from+Cyne))
-* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
-* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
-* [DBangz — Last Claim](https://www.last.fm/music/DBangz/_/Last+Claim)
-* [Guardin — creature - Sawce Remix](https://www.last.fm/music/Guardin/_/creature+-+Sawce+Remix)<!-- LASTFM:END -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [DJ Khalil — Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)](https://www.last.fm/music/DJ+Khalil/_/Elevate+(feat.+Denzel+Curry,+YBN+Cordae,+SwaVay,+Trevor+Rich))
+* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
+* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
+* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
