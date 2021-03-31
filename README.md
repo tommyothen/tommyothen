@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — forever//over](https://www.last.fm/music/Eden/_/forever%2F%2Fover)
+* [Gleb — motorest](https://www.last.fm/music/Gleb/_/motorest)
+* [Oliver Tree — Do You Feel Me?](https://www.last.fm/music/Oliver+Tree/_/Do+You+Feel+Me%3F)
 * [Infected Mushroom — Spitfire](https://www.last.fm/music/Infected+Mushroom/_/Spitfire)
-* [Cal Scruby — Not That Deep](https://www.last.fm/music/Cal+Scruby/_/Not+That+Deep)
-* [Milkoi — ミユキ](https://www.last.fm/music/Milkoi/_/%E3%83%9F%E3%83%A6%E3%82%AD)
-* [EarthGang — Up](https://www.last.fm/music/EarthGang/_/Up)
-* [Tennyson — Body Language (feat. Aloe Blacc)](https://www.last.fm/music/Tennyson/_/Body+Language+(feat.+Aloe+Blacc))<!-- LASTFM:END -->
+* [Cal Scruby — Not That Deep](https://www.last.fm/music/Cal+Scruby/_/Not+That+Deep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
