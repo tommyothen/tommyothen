@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
+* [Ruel — Dazed & Confused](https://www.last.fm/music/Ruel/_/Dazed+&+Confused)
 * [Jakey — Medium](https://www.last.fm/music/Jakey/_/Medium)
 * [JUICEB☮X — Mushroom](https://www.last.fm/music/JUICEB%E2%98%AEX/_/Mushroom)
-* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
-* [khai dreams — Summer is Like a Dream](https://www.last.fm/music/khai+dreams/_/Summer+is+Like+a+Dream)
-* [Call Me Karizma — Monster (Under My Bed)](https://www.last.fm/music/Call+Me+Karizma/_/Monster+(Under+My+Bed))<!-- LASTFM:END -->
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
