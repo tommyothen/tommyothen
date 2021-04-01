@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
-* [Jarv & Thief — Lady Killer](https://www.last.fm/music/Jarv+&+Thief/_/Lady+Killer)
-* [Eden — XO](https://www.last.fm/music/Eden/_/XO)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [c0nv0 — December](https://www.last.fm/music/c0nv0/_/December)<!-- LASTFM:END -->
+* [Cute Girls Doing Cute Things — I Like Cute Girls](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/I+Like+Cute+Girls)
+* [Grandson — Blood // Water](https://www.last.fm/music/Grandson/_/Blood+%2F%2F+Water)
+* [Ugly Heroes — Graves](https://www.last.fm/music/Ugly+Heroes/_/Graves)
+* [Ryan Caraveo — Bang](https://www.last.fm/music/Ryan+Caraveo/_/Bang)
+* [Nujabes — Feather (feat. Cise Starr & Akin from Cyne)](https://www.last.fm/music/Nujabes/_/Feather+(feat.+Cise+Starr+&+Akin+from+Cyne))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
