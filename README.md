@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [City Girl — Endless and Artificial](https://www.last.fm/music/City+Girl/_/Endless+and+Artificial)
-* [Hobo Johnson — Father](https://www.last.fm/music/Hobo+Johnson/_/Father)
-* [Kupla — Saudade](https://www.last.fm/music/Kupla/_/Saudade)
-* [Far Out — Rise](https://www.last.fm/music/Far+Out/_/Rise)
-* [Eden — Nocturne (Pierce Fulton Remix)](https://www.last.fm/music/Eden/_/Nocturne+(Pierce+Fulton+Remix))<!-- LASTFM:END -->
+* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
+* [We Are Fury — Don't Forget (feat. Mariah Delage)](https://www.last.fm/music/We+Are+Fury/_/Don%27t+Forget+(feat.+Mariah+Delage))
+* [Yung Gravy — Knockout](https://www.last.fm/music/Yung+Gravy/_/Knockout)
+* [bbno$ — 3mo](https://www.last.fm/music/bbno$/_/3mo)
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
