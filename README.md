@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [D-Real [愛] — Until Next Time...](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Until+Next+Time...)
-* [Rich Brian — Glow Like Dat](https://www.last.fm/music/Rich+Brian/_/Glow+Like+Dat)
-* [Post Malone — Goodbyes (feat. Young Thug)](https://www.last.fm/music/Post+Malone/_/Goodbyes+(feat.+Young+Thug))
-* [Kill Bill: The Rapper — Black Coffee](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Black+Coffee)
-* [Kudasaibeats — The Girl I Haven't Met (Biskwiq Flip)](https://www.last.fm/music/Kudasaibeats/_/The+Girl+I+Haven%27t+Met+(Biskwiq+Flip))<!-- LASTFM:END -->
+* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
+* [Noax — Hostile](https://www.last.fm/music/Noax/_/Hostile)
+* [bbno$ — golden rule](https://www.last.fm/music/bbno$/_/golden+rule)
+* [Glass Animals — Your Love (Déjà Vu)](https://www.last.fm/music/Glass+Animals/_/Your+Love+(D%C3%A9j%C3%A0+Vu))
+* [Atlas — WAVES](https://www.last.fm/music/Atlas/_/WAVES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
