@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — nursery](https://www.last.fm/music/bbno$/_/nursery)
-* [Flume — Insane (feat. Moon Holiday)](https://www.last.fm/music/Flume/_/Insane+(feat.+Moon+Holiday))
-* [Billie Eilish — listen before i go](https://www.last.fm/music/Billie+Eilish/_/listen+before+i+go)
-* [Neovaii — At the End](https://www.last.fm/music/Neovaii/_/At+the+End)
-* [Tsundere Alley — Like My Love](https://www.last.fm/music/Tsundere+Alley/_/Like+My+Love)<!-- LASTFM:END -->
+* [FrankJavCee — OmegaWave1986 (feat. Matt Watson)](https://www.last.fm/music/FrankJavCee/_/OmegaWave1986+(feat.+Matt+Watson))
+* [Tyto Grey — Runaway](https://www.last.fm/music/Tyto+Grey/_/Runaway)
+* [DBangz — Last Claim](https://www.last.fm/music/DBangz/_/Last+Claim)
+* [Made in M — Tierra](https://www.last.fm/music/Made+in+M/_/Tierra)
+* [HENTAI DUDE — After Hours](https://www.last.fm/music/HENTAI+DUDE/_/After+Hours)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
