@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
-* [Ruel — Dazed & Confused](https://www.last.fm/music/Ruel/_/Dazed+&+Confused)
-* [Jakey — Medium](https://www.last.fm/music/Jakey/_/Medium)
-* [JUICEB☮X — Mushroom](https://www.last.fm/music/JUICEB%E2%98%AEX/_/Mushroom)
-* [Joji — Window](https://www.last.fm/music/Joji/_/Window)<!-- LASTFM:END -->
+* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
+* [Jarv & Thief — Lady Killer](https://www.last.fm/music/Jarv+&+Thief/_/Lady+Killer)
+* [Eden — XO](https://www.last.fm/music/Eden/_/XO)
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
+* [c0nv0 — December](https://www.last.fm/music/c0nv0/_/December)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
