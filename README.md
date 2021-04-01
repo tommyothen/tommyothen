@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [FrankJavCee — OmegaWave1986 (feat. Matt Watson)](https://www.last.fm/music/FrankJavCee/_/OmegaWave1986+(feat.+Matt+Watson))
-* [Tyto Grey — Runaway](https://www.last.fm/music/Tyto+Grey/_/Runaway)
-* [DBangz — Last Claim](https://www.last.fm/music/DBangz/_/Last+Claim)
-* [Made in M — Tierra](https://www.last.fm/music/Made+in+M/_/Tierra)
-* [HENTAI DUDE — After Hours](https://www.last.fm/music/HENTAI+DUDE/_/After+Hours)<!-- LASTFM:END -->
+* [City Girl — Endless and Artificial](https://www.last.fm/music/City+Girl/_/Endless+and+Artificial)
+* [Hobo Johnson — Father](https://www.last.fm/music/Hobo+Johnson/_/Father)
+* [Kupla — Saudade](https://www.last.fm/music/Kupla/_/Saudade)
+* [Far Out — Rise](https://www.last.fm/music/Far+Out/_/Rise)
+* [Eden — Nocturne (Pierce Fulton Remix)](https://www.last.fm/music/Eden/_/Nocturne+(Pierce+Fulton+Remix))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
