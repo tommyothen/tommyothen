@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cute Girls Doing Cute Things — I Like Cute Girls](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/I+Like+Cute+Girls)
-* [Grandson — Blood // Water](https://www.last.fm/music/Grandson/_/Blood+%2F%2F+Water)
-* [Ugly Heroes — Graves](https://www.last.fm/music/Ugly+Heroes/_/Graves)
-* [Ryan Caraveo — Bang](https://www.last.fm/music/Ryan+Caraveo/_/Bang)
-* [Nujabes — Feather (feat. Cise Starr & Akin from Cyne)](https://www.last.fm/music/Nujabes/_/Feather+(feat.+Cise+Starr+&+Akin+from+Cyne))<!-- LASTFM:END -->
+* [Justin Stone — Bite My Tongue](https://www.last.fm/music/Justin+Stone/_/Bite+My+Tongue)
+* [Tiny Meat Gang — Super Xan](https://www.last.fm/music/Tiny+Meat+Gang/_/Super+Xan)
+* [Bearson — Go to Sleep (feat. Kailee Morgue) (feat. Kailee Morgue) - Oshi Remix](https://www.last.fm/music/Bearson/_/Go+to+Sleep+(feat.+Kailee+Morgue)+(feat.+Kailee+Morgue)+-+Oshi+Remix)
+* [BROCKHAMPTON — JELLO](https://www.last.fm/music/BROCKHAMPTON/_/JELLO)
+* [Cute Girls Doing Cute Things — I Like Cute Girls](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/I+Like+Cute+Girls)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
