@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
-* [We Are Fury — Don't Forget (feat. Mariah Delage)](https://www.last.fm/music/We+Are+Fury/_/Don%27t+Forget+(feat.+Mariah+Delage))
-* [Yung Gravy — Knockout](https://www.last.fm/music/Yung+Gravy/_/Knockout)
-* [bbno$ — 3mo](https://www.last.fm/music/bbno$/_/3mo)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)<!-- LASTFM:END -->
+* [Jakey — Medium](https://www.last.fm/music/Jakey/_/Medium)
+* [JUICEB☮X — Mushroom](https://www.last.fm/music/JUICEB%E2%98%AEX/_/Mushroom)
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
+* [khai dreams — Summer is Like a Dream](https://www.last.fm/music/khai+dreams/_/Summer+is+Like+a+Dream)
+* [Call Me Karizma — Monster (Under My Bed)](https://www.last.fm/music/Call+Me+Karizma/_/Monster+(Under+My+Bed))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
