@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kudasaibeats — The Girl I Haven't Met (Biskwiq Flip)](https://www.last.fm/music/Kudasaibeats/_/The+Girl+I+Haven%27t+Met+(Biskwiq+Flip))
+* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
+* [Kuwago — Let's start](https://www.last.fm/music/Kuwago/_/Let%27s+start)
 * [XYLØ — ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)
-* [Tima Belorusskih — Витаминка](https://www.last.fm/music/Tima+Belorusskih/_/%D0%92%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%BA%D0%B0)
-* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)
-* [Delta Heavy — Kaleidoscope](https://www.last.fm/music/Delta+Heavy/_/Kaleidoscope)
-* [Eery — Just a Sec](https://www.last.fm/music/Eery/_/Just+a+Sec)<!-- LASTFM:END -->
+* [Tima Belorusskih — Витаминка](https://www.last.fm/music/Tima+Belorusskih/_/%D0%92%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%BA%D0%B0)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
