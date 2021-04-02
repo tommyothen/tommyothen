@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [brakence — sauceintherough - bonus track](https://www.last.fm/music/brakence/_/sauceintherough+-+bonus+track)
+* [brakence — dropout (w/ blackbear)](https://www.last.fm/music/brakence/_/dropout+(w%2F+blackbear))
 * [brakence — fuckboy](https://www.last.fm/music/brakence/_/fuckboy)
-* [brakence — boywontcry](https://www.last.fm/music/brakence/_/boywontcry)
-* [brakence — softie](https://www.last.fm/music/brakence/_/softie)
-* [brakence — nosering (feat. 50Landing)](https://www.last.fm/music/brakence/_/nosering+(feat.+50Landing))
-* [brakence — Drank 3 of My Parents' Craft Beers To Make Eye Contact With You (feat. Login)](https://www.last.fm/music/brakence/_/Drank+3+of+My+Parents%27+Craft+Beers+To+Make+Eye+Contact+With+You+(feat.+Login))<!-- LASTFM:END -->
+* [brakence — dropout](https://www.last.fm/music/brakence/_/dropout)
+* [brakence — fuckboy](https://www.last.fm/music/brakence/_/fuckboy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
