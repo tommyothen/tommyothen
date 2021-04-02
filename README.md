@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — thankful](https://www.last.fm/music/bbno$/_/thankful)
+* [johnny balik — Honey](https://www.last.fm/music/johnny+balik/_/Honey)
+* [Thoreau — Afraid](https://www.last.fm/music/Thoreau/_/Afraid)
 * [Knapsack — Nothing Less](https://www.last.fm/music/Knapsack/_/Nothing+Less)
-* [Knapsack — Nothing Less](https://www.last.fm/music/Knapsack/_/Nothing+Less)
-* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)
-* [Akintoye — At the Cookout](https://www.last.fm/music/Akintoye/_/At+the+Cookout)
-* [elijah who — my new love](https://www.last.fm/music/elijah+who/_/my+new+love)<!-- LASTFM:END -->
+* [Knapsack — Nothing Less](https://www.last.fm/music/Knapsack/_/Nothing+Less)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
