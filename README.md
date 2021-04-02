@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [brakence — Drank 3 of My Parents' Craft Beers To Make Eye Contact With You (feat. Login)](https://www.last.fm/music/brakence/_/Drank+3+of+My+Parents%27+Craft+Beers+To+Make+Eye+Contact+With+You+(feat.+Login))
-* [brakence — thirdquarter](https://www.last.fm/music/brakence/_/thirdquarter)
-* [brakence — hippie](https://www.last.fm/music/brakence/_/hippie)
-* [brakence — dropout (w/ blackbear)](https://www.last.fm/music/brakence/_/dropout+(w%2F+blackbear))
-* [MISOGI — Forget—Me—Not! (feat. Instupendo)](https://www.last.fm/music/MISOGI/_/Forget%E2%80%94Me%E2%80%94Not!+(feat.+Instupendo))<!-- LASTFM:END -->
+* [brakence — fuckboy](https://www.last.fm/music/brakence/_/fuckboy)
+* [brakence — boywontcry](https://www.last.fm/music/brakence/_/boywontcry)
+* [brakence — softie](https://www.last.fm/music/brakence/_/softie)
+* [brakence — nosering (feat. 50Landing)](https://www.last.fm/music/brakence/_/nosering+(feat.+50Landing))
+* [brakence — Drank 3 of My Parents' Craft Beers To Make Eye Contact With You (feat. Login)](https://www.last.fm/music/brakence/_/Drank+3+of+My+Parents%27+Craft+Beers+To+Make+Eye+Contact+With+You+(feat.+Login))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
