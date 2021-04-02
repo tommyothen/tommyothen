@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Ramzoid — BALL & CHAIN](https://www.last.fm/music/Ramzoid/_/BALL+&+CHAIN)
-* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
-* [Yung Gravy — Suavecito](https://www.last.fm/music/Yung+Gravy/_/Suavecito)
-* [We Are Fury — Don't Forget (feat. Mariah Delage)](https://www.last.fm/music/We+Are+Fury/_/Don%27t+Forget+(feat.+Mariah+Delage))
-* [City Girl — Endless and Artificial](https://www.last.fm/music/City+Girl/_/Endless+and+Artificial)<!-- LASTFM:END -->
+* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
+* [zenshou — for when i feel better](https://www.last.fm/music/zenshou/_/for+when+i+feel+better)
+* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
+* [The Koxx — A Fool Moon Night](https://www.last.fm/music/The+Koxx/_/A+Fool+Moon+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
