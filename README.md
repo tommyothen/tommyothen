@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
-* [ITSOKTOCRY — DEADSET RADIO FUTURE](https://www.last.fm/music/ITSOKTOCRY/_/DEADSET+RADIO+FUTURE)
-* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
-* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
-* [Mixed Matches — Betterdays](https://www.last.fm/music/Mixed+Matches/_/Betterdays)<!-- LASTFM:END -->
+* [MISOGI — Forget—Me—Not! (feat. Instupendo)](https://www.last.fm/music/MISOGI/_/Forget%E2%80%94Me%E2%80%94Not!+(feat.+Instupendo))
+* [twst — Are You Filming Me?](https://www.last.fm/music/twst/_/Are+You+Filming+Me%3F)
+* [zenshou — for when i feel better](https://www.last.fm/music/zenshou/_/for+when+i+feel+better)
+* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
+* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
