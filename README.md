@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — Suavecito](https://www.last.fm/music/Yung+Gravy/_/Suavecito)
+* [We Are Fury — Don't Forget (feat. Mariah Delage)](https://www.last.fm/music/We+Are+Fury/_/Don%27t+Forget+(feat.+Mariah+Delage))
+* [City Girl — Endless and Artificial](https://www.last.fm/music/City+Girl/_/Endless+and+Artificial)
 * [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
-* [88Rising — Breathe](https://www.last.fm/music/88Rising/_/Breathe)
-* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
-* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
-* [bbno$ — thankful](https://www.last.fm/music/bbno$/_/thankful)<!-- LASTFM:END -->
+* [88Rising — Breathe](https://www.last.fm/music/88Rising/_/Breathe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
