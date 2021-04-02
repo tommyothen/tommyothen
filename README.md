@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
 * [Joji — i don't wanna waste my time](https://www.last.fm/music/Joji/_/i+don%27t+wanna+waste+my+time)
 * [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
 * [Mungo's Hi Fi — Babylon Raid](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Babylon+Raid)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Katy Perry — Last Friday Night (T.G.I.F.)](https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+(T.G.I.F.))<!-- LASTFM:END -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
