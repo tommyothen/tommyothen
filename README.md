@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Akintoye — At the Cookout](https://www.last.fm/music/Akintoye/_/At+the+Cookout)
+* [elijah who — my new love](https://www.last.fm/music/elijah+who/_/my+new+love)
+* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
 * [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Joji — i don't wanna waste my time](https://www.last.fm/music/Joji/_/i+don%27t+wanna+waste+my+time)
-* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
-* [Mungo's Hi Fi — Babylon Raid](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Babylon+Raid)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
+* [Joji — i don't wanna waste my time](https://www.last.fm/music/Joji/_/i+don%27t+wanna+waste+my+time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
