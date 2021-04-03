@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [brakence — fuckboy](https://www.last.fm/music/brakence/_/fuckboy)
-* [brakence — boywontcry](https://www.last.fm/music/brakence/_/boywontcry)
-* [brakence — wake](https://www.last.fm/music/brakence/_/wake)
-* [brakence — nosering (feat. 50Landing)](https://www.last.fm/music/brakence/_/nosering+(feat.+50Landing))
-* [brakence — trying](https://www.last.fm/music/brakence/_/trying)<!-- LASTFM:END -->
+* [brakence — brakence 2.0 freestyle (feat. Majent)](https://www.last.fm/music/brakence/_/brakence+2.0+freestyle+(feat.+Majent))
+* [brakence — tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and It doesn't matter at all](https://www.last.fm/music/brakence/_/tonight%27s+no+good+how+about+wednesday+oh+you%27re+in+dallas+on+wednesday+oh+ok+well+then+let%27s+just+not+see+each+other+for+8+months+and+It+doesn%27t+matter+at+all)
+* [brakence — prozac](https://www.last.fm/music/brakence/_/prozac)
+* [brakence — gotchu](https://www.last.fm/music/brakence/_/gotchu)
+* [brakence — fuckboy](https://www.last.fm/music/brakence/_/fuckboy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
