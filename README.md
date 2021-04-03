@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [2Pac — Changes](https://www.last.fm/music/2Pac/_/Changes)
+* [Red Bone Boyz — Gangster's Paradise](https://www.last.fm/music/Red+Bone+Boyz/_/Gangster%27s+Paradise)
 * [The Killers — Human](https://www.last.fm/music/The+Killers/_/Human)
 * [Gotye — Somebody That I Used to Know](https://www.last.fm/music/Gotye/_/Somebody+That+I+Used+to+Know)
-* [The Beatles — Here Comes The Sun - Remastered 2009](https://www.last.fm/music/The+Beatles/_/Here+Comes+The+Sun+-+Remastered+2009)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [ZAQ — Serendipity](https://www.last.fm/music/ZAQ/_/Serendipity)<!-- LASTFM:END -->
+* [The Beatles — Here Comes The Sun - Remastered 2009](https://www.last.fm/music/The+Beatles/_/Here+Comes+The+Sun+-+Remastered+2009)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
