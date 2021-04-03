@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KANA-BOON — シルエット](https://www.last.fm/music/KANA-BOON/_/%E3%82%B7%E3%83%AB%E3%82%A8%E3%83%83%E3%83%88)
+* [Nordex — We Go! (One Piece)](https://www.last.fm/music/Nordex/_/We+Go!+(One+Piece))
 * [Sakana Mepa — We Are! (One Piece Op1)](https://www.last.fm/music/Sakana+Mepa/_/We+Are!+(One+Piece+Op1))
 * [THE ORAL CIGARETTES — Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!)
-* [Shayne Orok — Inferno - From "Fire Force: Enen no Shouboutai" [Full Version]](https://www.last.fm/music/Shayne+Orok/_/Inferno+-+From+%22Fire+Force:+Enen+no+Shouboutai%22+%5BFull+Version%5D)
-* [いきものがかり — ブルーバード](https://www.last.fm/music/%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A/_/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89)
-* [Shiro Sagisu — A Cruel Angel's Thesis - Director's Edit Version](https://www.last.fm/music/Shiro+Sagisu/_/A+Cruel+Angel%27s+Thesis+-+Director%27s+Edit+Version)<!-- LASTFM:END -->
+* [Shayne Orok — Inferno - From "Fire Force: Enen no Shouboutai" [Full Version]](https://www.last.fm/music/Shayne+Orok/_/Inferno+-+From+%22Fire+Force:+Enen+no+Shouboutai%22+%5BFull+Version%5D)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
