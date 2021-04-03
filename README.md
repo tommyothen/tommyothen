@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [いきものがかり — ブルーバード](https://www.last.fm/music/%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A/_/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89)
+* [Shiro Sagisu — A Cruel Angel's Thesis - Director's Edit Version](https://www.last.fm/music/Shiro+Sagisu/_/A+Cruel+Angel%27s+Thesis+-+Director%27s+Edit+Version)
 * [The Kooks — She Moves in Her Own Way](https://www.last.fm/music/The+Kooks/_/She+Moves+in+Her+Own+Way)
 * [blackbear — idfc](https://www.last.fm/music/blackbear/_/idfc)
-* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
-* [Eden — XO](https://www.last.fm/music/Eden/_/XO)
-* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)<!-- LASTFM:END -->
+* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
