@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Shayne Orok — Inferno - From "Fire Force: Enen no Shouboutai" [Full Version]](https://www.last.fm/music/Shayne+Orok/_/Inferno+-+From+%22Fire+Force:+Enen+no+Shouboutai%22+%5BFull+Version%5D)
-* [Rainych — Yoru ni Kakeru](https://www.last.fm/music/Rainych/_/Yoru+ni+Kakeru)
-* [AKano — Gurenge (From "Demon Slayer: Kimetsu no Yaiba")](https://www.last.fm/music/AKano/_/Gurenge+(From+%22Demon+Slayer:+Kimetsu+no+Yaiba%22))
-* [BURNOUT SYNDROMES — Good Morning World!](https://www.last.fm/music/BURNOUT+SYNDROMES/_/Good+Morning+World!)
-* [Lil Nas X — Montero (Call Me By Your Name)](https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name))<!-- LASTFM:END -->
+* [ZAQ — Serendipity](https://www.last.fm/music/ZAQ/_/Serendipity)
+* [AKano — From the edge (From "Demon Slayer: Kimetsu no Yaiba")](https://www.last.fm/music/AKano/_/From+the+edge+(From+%22Demon+Slayer:+Kimetsu+no+Yaiba%22))
+* [Shayne Orok — Easy Breezy (From "Keep Your Hands Off Eizouken!")](https://www.last.fm/music/Shayne+Orok/_/Easy+Breezy+(From+%22Keep+Your+Hands+Off+Eizouken!%22))
+* [Nordex — Kaikai Kitan (Jujutsu Kaisen)](https://www.last.fm/music/Nordex/_/Kaikai+Kitan+(Jujutsu+Kaisen))
+* [The Living Tombstone — No Mercy (feat. BlackGryph0n & LittleJayneyCakes)](https://www.last.fm/music/The+Living+Tombstone/_/No+Mercy+(feat.+BlackGryph0n+&+LittleJayneyCakes))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
