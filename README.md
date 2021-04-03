@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [brakence — fuckboy](https://www.last.fm/music/brakence/_/fuckboy)
 * [brakence — boywontcry](https://www.last.fm/music/brakence/_/boywontcry)
 * [brakence — wake](https://www.last.fm/music/brakence/_/wake)
 * [brakence — nosering (feat. 50Landing)](https://www.last.fm/music/brakence/_/nosering+(feat.+50Landing))
-* [brakence — trying](https://www.last.fm/music/brakence/_/trying)
-* [brakence — firstego](https://www.last.fm/music/brakence/_/firstego)<!-- LASTFM:END -->
+* [brakence — trying](https://www.last.fm/music/brakence/_/trying)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
