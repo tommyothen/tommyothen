@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ZAQ — Serendipity](https://www.last.fm/music/ZAQ/_/Serendipity)
-* [AKano — From the edge (From "Demon Slayer: Kimetsu no Yaiba")](https://www.last.fm/music/AKano/_/From+the+edge+(From+%22Demon+Slayer:+Kimetsu+no+Yaiba%22))
-* [Shayne Orok — Easy Breezy (From "Keep Your Hands Off Eizouken!")](https://www.last.fm/music/Shayne+Orok/_/Easy+Breezy+(From+%22Keep+Your+Hands+Off+Eizouken!%22))
-* [Nordex — Kaikai Kitan (Jujutsu Kaisen)](https://www.last.fm/music/Nordex/_/Kaikai+Kitan+(Jujutsu+Kaisen))
-* [The Living Tombstone — No Mercy (feat. BlackGryph0n & LittleJayneyCakes)](https://www.last.fm/music/The+Living+Tombstone/_/No+Mercy+(feat.+BlackGryph0n+&+LittleJayneyCakes))<!-- LASTFM:END -->
+* [The Killers — Human](https://www.last.fm/music/The+Killers/_/Human)
+* [Gotye — Somebody That I Used to Know](https://www.last.fm/music/Gotye/_/Somebody+That+I+Used+to+Know)
+* [The Beatles — Here Comes The Sun - Remastered 2009](https://www.last.fm/music/The+Beatles/_/Here+Comes+The+Sun+-+Remastered+2009)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [ZAQ — Serendipity](https://www.last.fm/music/ZAQ/_/Serendipity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
