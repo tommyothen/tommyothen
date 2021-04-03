@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [brakence — sunder](https://www.last.fm/music/brakence/_/sunder)
-* [brakence — rosier/punk2](https://www.last.fm/music/brakence/_/rosier%2Fpunk2)
-* [brakence — Clouded](https://www.last.fm/music/brakence/_/Clouded)
-* [brakence — softie](https://www.last.fm/music/brakence/_/softie)
-* [brakence — sauceintherough - bonus track](https://www.last.fm/music/brakence/_/sauceintherough+-+bonus+track)<!-- LASTFM:END -->
+* [brakence — fwb](https://www.last.fm/music/brakence/_/fwb)
+* [brakence — Veldt](https://www.last.fm/music/brakence/_/Veldt)
+* [brakence — ginger tea](https://www.last.fm/music/brakence/_/ginger+tea)
+* [brakence — sunder](https://www.last.fm/music/brakence/_/sunder)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
