@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [KANA-BOON — シルエット](https://www.last.fm/music/KANA-BOON/_/%E3%82%B7%E3%83%AB%E3%82%A8%E3%83%83%E3%83%88)
-* [Nordex — We Go! (One Piece)](https://www.last.fm/music/Nordex/_/We+Go!+(One+Piece))
-* [Sakana Mepa — We Are! (One Piece Op1)](https://www.last.fm/music/Sakana+Mepa/_/We+Are!+(One+Piece+Op1))
-* [THE ORAL CIGARETTES — Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!)
-* [Shayne Orok — Inferno - From "Fire Force: Enen no Shouboutai" [Full Version]](https://www.last.fm/music/Shayne+Orok/_/Inferno+-+From+%22Fire+Force:+Enen+no+Shouboutai%22+%5BFull+Version%5D)<!-- LASTFM:END -->
+* [Shayne Orok — Inferno - From "Fire Force: Enen no Shouboutai" [Full Version]](https://www.last.fm/music/Shayne+Orok/_/Inferno+-+From+%22Fire+Force:+Enen+no+Shouboutai%22+%5BFull+Version%5D)
+* [Rainych — Yoru ni Kakeru](https://www.last.fm/music/Rainych/_/Yoru+ni+Kakeru)
+* [AKano — Gurenge (From "Demon Slayer: Kimetsu no Yaiba")](https://www.last.fm/music/AKano/_/Gurenge+(From+%22Demon+Slayer:+Kimetsu+no+Yaiba%22))
+* [BURNOUT SYNDROMES — Good Morning World!](https://www.last.fm/music/BURNOUT+SYNDROMES/_/Good+Morning+World!)
+* [Lil Nas X — Montero (Call Me By Your Name)](https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
