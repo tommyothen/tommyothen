@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Kooks — She Moves in Her Own Way](https://www.last.fm/music/The+Kooks/_/She+Moves+in+Her+Own+Way)
+* [blackbear — idfc](https://www.last.fm/music/blackbear/_/idfc)
+* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
 * [Eden — XO](https://www.last.fm/music/Eden/_/XO)
-* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
-* [Tyler, The Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+The+Creator/_/EARFQUAKE)
-* [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
-* [Samsa — butterflies](https://www.last.fm/music/Samsa/_/butterflies)<!-- LASTFM:END -->
+* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
