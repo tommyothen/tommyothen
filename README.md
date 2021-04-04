@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [2Pac — Changes](https://www.last.fm/music/2Pac/_/Changes)
-* [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)
-* [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)
-* [大橋純子 — SWEET LOVE](https://www.last.fm/music/%E5%A4%A7%E6%A9%8B%E7%B4%94%E5%AD%90/_/SWEET+LOVE)
-* [Home — Resonance](https://www.last.fm/music/Home/_/Resonance)<!-- LASTFM:END -->
+* [Queen — Don't Stop Me Now - Remastered 2011](https://www.last.fm/music/Queen/_/Don%27t+Stop+Me+Now+-+Remastered+2011)
+* [Rupert Holmes — Escape (The Pina Colada Song)](https://www.last.fm/music/Rupert+Holmes/_/Escape+(The+Pina+Colada+Song))
+* [Earth, Wind & Fire — September](https://www.last.fm/music/Earth,+Wind+&+Fire/_/September)
+* [Blue Swede — Hooked on a Feeling](https://www.last.fm/music/Blue+Swede/_/Hooked+on+a+Feeling)
+* [2Pac — Changes](https://www.last.fm/music/2Pac/_/Changes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
