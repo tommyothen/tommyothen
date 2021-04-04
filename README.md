@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [2Pac — Changes](https://www.last.fm/music/2Pac/_/Changes)
+* [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)
+* [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)
 * [大橋純子 — SWEET LOVE](https://www.last.fm/music/%E5%A4%A7%E6%A9%8B%E7%B4%94%E5%AD%90/_/SWEET+LOVE)
-* [Home — Resonance](https://www.last.fm/music/Home/_/Resonance)
-* [YUNG BAE — YEBISU - Yung Bae Edit](https://www.last.fm/music/YUNG+BAE/_/YEBISU+-+Yung+Bae+Edit)
-* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
-* [Kill Bill: The Rapper — Black Coffee](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Black+Coffee)<!-- LASTFM:END -->
+* [Home — Resonance](https://www.last.fm/music/Home/_/Resonance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
