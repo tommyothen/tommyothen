@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rizzle Kicks — Mama Do The Hump](https://www.last.fm/music/Rizzle+Kicks/_/Mama+Do+The+Hump)
 * [2Pac — Changes](https://www.last.fm/music/2Pac/_/Changes)
 * [Red Bone Boyz — Gangster's Paradise](https://www.last.fm/music/Red+Bone+Boyz/_/Gangster%27s+Paradise)
 * [The Killers — Human](https://www.last.fm/music/The+Killers/_/Human)
-* [Gotye — Somebody That I Used to Know](https://www.last.fm/music/Gotye/_/Somebody+That+I+Used+to+Know)
-* [The Beatles — Here Comes The Sun - Remastered 2009](https://www.last.fm/music/The+Beatles/_/Here+Comes+The+Sun+-+Remastered+2009)<!-- LASTFM:END -->
+* [Gotye — Somebody That I Used to Know](https://www.last.fm/music/Gotye/_/Somebody+That+I+Used+to+Know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
