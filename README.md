@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rizzle Kicks — Mama Do The Hump](https://www.last.fm/music/Rizzle+Kicks/_/Mama+Do+The+Hump)
-* [2Pac — Changes](https://www.last.fm/music/2Pac/_/Changes)
-* [Red Bone Boyz — Gangster's Paradise](https://www.last.fm/music/Red+Bone+Boyz/_/Gangster%27s+Paradise)
-* [The Killers — Human](https://www.last.fm/music/The+Killers/_/Human)
-* [Gotye — Somebody That I Used to Know](https://www.last.fm/music/Gotye/_/Somebody+That+I+Used+to+Know)<!-- LASTFM:END -->
+* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
+* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
+* [Kaivon — Reborn](https://www.last.fm/music/Kaivon/_/Reborn)
+* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
+* [The Killers — Mr. Brightside](https://www.last.fm/music/The+Killers/_/Mr.+Brightside)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
