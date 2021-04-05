@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)
-* [Kanye West — Wolves](https://www.last.fm/music/Kanye+West/_/Wolves)
-* [Kanye West — Pt. 2](https://www.last.fm/music/Kanye+West/_/Pt.+2)
-* [Eden — XO](https://www.last.fm/music/Eden/_/XO)
-* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)<!-- LASTFM:END -->
+* [sleepdealer — Escape](https://www.last.fm/music/sleepdealer/_/Escape)
+* [¿Téo? — Wickedwise](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Wickedwise)
+* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
+* [¿Téo? — Unitedpalace (Interlude)](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Unitedpalace+(Interlude))
+* [¿Téo? — More to Us](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/More+to+Us)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
