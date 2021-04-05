@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
+* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
 * [Disterio — Welcome to the Cum Zone](https://www.last.fm/music/Disterio/_/Welcome+to+the+Cum+Zone)
 * [Disterio — Welcome to the Cum Zone](https://www.last.fm/music/Disterio/_/Welcome+to+the+Cum+Zone)
-* [Ichon — La vie - A COLORS SHOW](https://www.last.fm/music/Ichon/_/La+vie+-+A+COLORS+SHOW)
-* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
-* [Grant MacDonald — Ram Ranch](https://www.last.fm/music/Grant+MacDonald/_/Ram+Ranch)<!-- LASTFM:END -->
+* [Ichon — La vie - A COLORS SHOW](https://www.last.fm/music/Ichon/_/La+vie+-+A+COLORS+SHOW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
