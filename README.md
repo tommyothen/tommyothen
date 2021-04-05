@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)
 * [Toto — Africa](https://www.last.fm/music/Toto/_/Africa)
 * [a-ha — Take On Me](https://www.last.fm/music/a-ha/_/Take+On+Me)
 * [Boney M. — Rasputin](https://www.last.fm/music/Boney+M./_/Rasputin)
-* [Michael Sembello — Maniac](https://www.last.fm/music/Michael+Sembello/_/Maniac)
-* [Queen — Don't Stop Me Now - Remastered 2011](https://www.last.fm/music/Queen/_/Don%27t+Stop+Me+Now+-+Remastered+2011)<!-- LASTFM:END -->
+* [Michael Sembello — Maniac](https://www.last.fm/music/Michael+Sembello/_/Maniac)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
