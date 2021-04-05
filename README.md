@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)
-* [Toto — Africa](https://www.last.fm/music/Toto/_/Africa)
-* [a-ha — Take On Me](https://www.last.fm/music/a-ha/_/Take+On+Me)
-* [Boney M. — Rasputin](https://www.last.fm/music/Boney+M./_/Rasputin)
-* [Michael Sembello — Maniac](https://www.last.fm/music/Michael+Sembello/_/Maniac)<!-- LASTFM:END -->
+* [RODERICK PORTER — I Didn't Realize How Empty My Bed Was Until You Left](https://www.last.fm/music/RODERICK+PORTER/_/I+Didn%27t+Realize+How+Empty+My+Bed+Was+Until+You+Left)
+* [Parcels — Overnight](https://www.last.fm/music/Parcels/_/Overnight)
+* [PawPaw Rod — HIT EM WHERE IT HURTS](https://www.last.fm/music/PawPaw+Rod/_/HIT+EM+WHERE+IT+HURTS)
+* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
