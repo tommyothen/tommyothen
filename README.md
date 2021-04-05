@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Miso — Alone](https://www.last.fm/music/Miso/_/Alone)
-* [Tomggg — Sweet Salt](https://www.last.fm/music/Tomggg/_/Sweet+Salt)
 * [Interlunium — Walkin' the World (Altair Arrange)](https://www.last.fm/music/Interlunium/_/Walkin%27+the+World+(Altair+Arrange))
-* [Oliver Tree — Bury Me Alive](https://www.last.fm/music/Oliver+Tree/_/Bury+Me+Alive)
-* [Joji — plastic taste](https://www.last.fm/music/Joji/_/plastic+taste)<!-- LASTFM:END -->
+* [Donovan Melero — Odd Reasons](https://www.last.fm/music/Donovan+Melero/_/Odd+Reasons)
+* [Blessed — MEMOIRS OF THE MELANCHOLY](https://www.last.fm/music/Blessed/_/MEMOIRS+OF+THE+MELANCHOLY)
+* [Miso — Alone](https://www.last.fm/music/Miso/_/Alone)
+* [Tomggg — Sweet Salt](https://www.last.fm/music/Tomggg/_/Sweet+Salt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
