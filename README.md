@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [RODERICK PORTER — I Didn't Realize How Empty My Bed Was Until You Left](https://www.last.fm/music/RODERICK+PORTER/_/I+Didn%27t+Realize+How+Empty+My+Bed+Was+Until+You+Left)
-* [Parcels — Overnight](https://www.last.fm/music/Parcels/_/Overnight)
-* [PawPaw Rod — HIT EM WHERE IT HURTS](https://www.last.fm/music/PawPaw+Rod/_/HIT+EM+WHERE+IT+HURTS)
-* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [Disterio — Welcome to the Cum Zone](https://www.last.fm/music/Disterio/_/Welcome+to+the+Cum+Zone)
+* [Disterio — Welcome to the Cum Zone](https://www.last.fm/music/Disterio/_/Welcome+to+the+Cum+Zone)
+* [Ichon — La vie - A COLORS SHOW](https://www.last.fm/music/Ichon/_/La+vie+-+A+COLORS+SHOW)
+* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
+* [Grant MacDonald — Ram Ranch](https://www.last.fm/music/Grant+MacDonald/_/Ram+Ranch)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
