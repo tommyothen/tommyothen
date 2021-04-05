@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Blessed — MEMOIRS OF THE MELANCHOLY](https://www.last.fm/music/Blessed/_/MEMOIRS+OF+THE+MELANCHOLY)
-* [Jker — tonight](https://www.last.fm/music/Jker/_/tonight)
-* [Superfly — 覚醒](https://www.last.fm/music/Superfly/_/%E8%A6%9A%E9%86%92)
-* [The Lamb — Plastic Girl](https://www.last.fm/music/The+Lamb/_/Plastic+Girl)
-* [BLAHSUM — I'm Alone](https://www.last.fm/music/BLAHSUM/_/I%27m+Alone)<!-- LASTFM:END -->
+* [Makari — Better](https://www.last.fm/music/Makari/_/Better)
+* [SURL — Dry Flower](https://www.last.fm/music/SURL/_/Dry+Flower)
+* [Lucian — Trip to California](https://www.last.fm/music/Lucian/_/Trip+to+California)
+* [Donovan Melero — Odd Reasons](https://www.last.fm/music/Donovan+Melero/_/Odd+Reasons)
+* [Blessed — MEMOIRS OF THE MELANCHOLY](https://www.last.fm/music/Blessed/_/MEMOIRS+OF+THE+MELANCHOLY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
