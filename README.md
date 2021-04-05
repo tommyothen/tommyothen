@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — plastic taste](https://www.last.fm/music/Joji/_/plastic+taste)
+* [bbno$ — nursery](https://www.last.fm/music/bbno$/_/nursery)
+* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
 * [bbno$ — run this shit](https://www.last.fm/music/bbno$/_/run+this+shit)
-* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [D-Real [愛] — Coast Ghost](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Coast+Ghost)
-* [Tash Sultana — Jungle](https://www.last.fm/music/Tash+Sultana/_/Jungle)<!-- LASTFM:END -->
+* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
