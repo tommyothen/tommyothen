@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [sleepdealer — Escape](https://www.last.fm/music/sleepdealer/_/Escape)
-* [¿Téo? — Wickedwise](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Wickedwise)
-* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
-* [¿Téo? — Unitedpalace (Interlude)](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Unitedpalace+(Interlude))
-* [¿Téo? — More to Us](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/More+to+Us)<!-- LASTFM:END -->
+* [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)
+* [Ghost Data — Voice of Eternity](https://www.last.fm/music/Ghost+Data/_/Voice+of+Eternity)
+* [TeddyLoid — Me!Me!Me!, Pt. 2](https://www.last.fm/music/TeddyLoid/_/Me!Me!Me!,+Pt.+2)
+* [bbno$ — money conversation](https://www.last.fm/music/bbno$/_/money+conversation)
+* [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
