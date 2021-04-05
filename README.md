@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Lamb — Plastic Girl](https://www.last.fm/music/The+Lamb/_/Plastic+Girl)
 * [BLAHSUM — I'm Alone](https://www.last.fm/music/BLAHSUM/_/I%27m+Alone)
 * [Prvnci — Monsters Under My Bed](https://www.last.fm/music/Prvnci/_/Monsters+Under+My+Bed)
 * [AUGUST 08 — Bussdown Your Soul (feat. Barney Bones)](https://www.last.fm/music/AUGUST+08/_/Bussdown+Your+Soul+(feat.+Barney+Bones))
-* [Noel — LOOPHOLE](https://www.last.fm/music/Noel/_/LOOPHOLE)
-* [Miso — Alone](https://www.last.fm/music/Miso/_/Alone)<!-- LASTFM:END -->
+* [Noel — LOOPHOLE](https://www.last.fm/music/Noel/_/LOOPHOLE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
