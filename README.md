@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Makari — Better](https://www.last.fm/music/Makari/_/Better)
-* [SURL — Dry Flower](https://www.last.fm/music/SURL/_/Dry+Flower)
-* [Lucian — Trip to California](https://www.last.fm/music/Lucian/_/Trip+to+California)
-* [Donovan Melero — Odd Reasons](https://www.last.fm/music/Donovan+Melero/_/Odd+Reasons)
-* [Blessed — MEMOIRS OF THE MELANCHOLY](https://www.last.fm/music/Blessed/_/MEMOIRS+OF+THE+MELANCHOLY)<!-- LASTFM:END -->
+* [indigo la End — プレイバック - Remix by Metome](https://www.last.fm/music/indigo+la+End/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%90%E3%83%83%E3%82%AF+-+Remix+by+Metome)
+* [2 Mello — 24 Hour Party People](https://www.last.fm/music/2+Mello/_/24+Hour+Party+People)
+* [Dumbfoundead — PINK BLEU DAWN (PROD. BY HIPPIE SABOTAGE)](https://www.last.fm/music/Dumbfoundead/_/PINK+BLEU+DAWN+(PROD.+BY+HIPPIE+SABOTAGE))
+* [yonige — 2月の水槽](https://www.last.fm/music/yonige/_/2%E6%9C%88%E3%81%AE%E6%B0%B4%E6%A7%BD)
+* [Makari — Better](https://www.last.fm/music/Makari/_/Better)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
