@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blessed — MEMOIRS OF THE MELANCHOLY](https://www.last.fm/music/Blessed/_/MEMOIRS+OF+THE+MELANCHOLY)
 * [Jker — tonight](https://www.last.fm/music/Jker/_/tonight)
 * [Superfly — 覚醒](https://www.last.fm/music/Superfly/_/%E8%A6%9A%E9%86%92)
 * [The Lamb — Plastic Girl](https://www.last.fm/music/The+Lamb/_/Plastic+Girl)
-* [BLAHSUM — I'm Alone](https://www.last.fm/music/BLAHSUM/_/I%27m+Alone)
-* [Prvnci — Monsters Under My Bed](https://www.last.fm/music/Prvnci/_/Monsters+Under+My+Bed)<!-- LASTFM:END -->
+* [BLAHSUM — I'm Alone](https://www.last.fm/music/BLAHSUM/_/I%27m+Alone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
