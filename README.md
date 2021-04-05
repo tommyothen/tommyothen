@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Noel — LOOPHOLE](https://www.last.fm/music/Noel/_/LOOPHOLE)
+* [Miso — Alone](https://www.last.fm/music/Miso/_/Alone)
+* [Herd — Fireworks](https://www.last.fm/music/Herd/_/Fireworks)
 * [Tomggg — Sweet Salt](https://www.last.fm/music/Tomggg/_/Sweet+Salt)
-* [TCY Force — CHOCOLAT feat. Mariya Ise](https://www.last.fm/music/TCY+Force/_/CHOCOLAT+feat.+Mariya+Ise)
-* [Steph Sandor — Circles](https://www.last.fm/music/Steph+Sandor/_/Circles)
-* [Jawny — Super Bad Mantra](https://www.last.fm/music/Jawny/_/Super+Bad+Mantra)
-* [TK from Ling tosite sigure — 鶴の仕返し](https://www.last.fm/music/TK+from+Ling+tosite+sigure/_/%E9%B6%B4%E3%81%AE%E4%BB%95%E8%BF%94%E3%81%97)<!-- LASTFM:END -->
+* [TCY Force — CHOCOLAT feat. Mariya Ise](https://www.last.fm/music/TCY+Force/_/CHOCOLAT+feat.+Mariya+Ise)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
