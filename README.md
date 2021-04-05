@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tomggg — Sweet Salt](https://www.last.fm/music/Tomggg/_/Sweet+Salt)
+* [Interlunium — Walkin' the World (Altair Arrange)](https://www.last.fm/music/Interlunium/_/Walkin%27+the+World+(Altair+Arrange))
+* [Oliver Tree — Bury Me Alive](https://www.last.fm/music/Oliver+Tree/_/Bury+Me+Alive)
 * [Joji — plastic taste](https://www.last.fm/music/Joji/_/plastic+taste)
-* [bbno$ — nursery](https://www.last.fm/music/bbno$/_/nursery)
-* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
-* [bbno$ — run this shit](https://www.last.fm/music/bbno$/_/run+this+shit)
-* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)<!-- LASTFM:END -->
+* [bbno$ — nursery](https://www.last.fm/music/bbno$/_/nursery)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
