@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — run this shit](https://www.last.fm/music/bbno$/_/run+this+shit)
 * [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
 * [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
 * [D-Real [愛] — Coast Ghost](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Coast+Ghost)
-* [Tash Sultana — Jungle](https://www.last.fm/music/Tash+Sultana/_/Jungle)
-* [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)<!-- LASTFM:END -->
+* [Tash Sultana — Jungle](https://www.last.fm/music/Tash+Sultana/_/Jungle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
