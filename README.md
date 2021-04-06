@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
+* [Paramore — Still into You](https://www.last.fm/music/Paramore/_/Still+into+You)
+* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
 * [Black Eyed Peas — Meet Me Halfway](https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway)
-* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)
-* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
-* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
-* [Black Eyed Peas — I Gotta Feeling](https://www.last.fm/music/Black+Eyed+Peas/_/I+Gotta+Feeling)<!-- LASTFM:END -->
+* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
