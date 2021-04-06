@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
+* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
+* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
 * [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
-* [Shiggy Jr. — oyasumi](https://www.last.fm/music/Shiggy+Jr./_/oyasumi)<!-- LASTFM:END -->
+* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
+* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
