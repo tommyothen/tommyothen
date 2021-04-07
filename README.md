@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)
-* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)
-* [Lil Nas X — Montero (Call Me By Your Name)](https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name))
-* [Dbmk — Rot](https://www.last.fm/music/Dbmk/_/Rot)
-* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)<!-- LASTFM:END -->
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
+* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
+* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
