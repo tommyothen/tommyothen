@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yung Gravy — Gas Money](https://www.last.fm/music/Yung+Gravy/_/Gas+Money)
-* [Yung Gravy — Whole Foods (with bbno$)](https://www.last.fm/music/Yung+Gravy/_/Whole+Foods+(with+bbno$))
-* [Yung Gravy — yup!](https://www.last.fm/music/Yung+Gravy/_/yup!)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
-* [Yung Gravy — Steve Austin (with Young Dolph)](https://www.last.fm/music/Yung+Gravy/_/Steve+Austin+(with+Young+Dolph))<!-- LASTFM:END -->
+* [Yung Gravy — Cadbury Creme](https://www.last.fm/music/Yung+Gravy/_/Cadbury+Creme)
+* [Yung Gravy — Welcome to Chilis](https://www.last.fm/music/Yung+Gravy/_/Welcome+to+Chilis)
+* [Yung Gravy — Gasoline, Pt. 2](https://www.last.fm/music/Yung+Gravy/_/Gasoline,+Pt.+2)
+* [Yung Gravy — Off The Goop](https://www.last.fm/music/Yung+Gravy/_/Off+The+Goop)
+* [Yung Gravy — Go Bananas](https://www.last.fm/music/Yung+Gravy/_/Go+Bananas)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
