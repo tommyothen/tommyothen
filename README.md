@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yung Gravy — Swimming Lessons](https://www.last.fm/music/Yung+Gravy/_/Swimming+Lessons)
-* [Yung Gravy — Miami Ice](https://www.last.fm/music/Yung+Gravy/_/Miami+Ice)
-* [Yung Gravy — Drip on My Dresser (with Chief Keef)](https://www.last.fm/music/Yung+Gravy/_/Drip+on+My+Dresser+(with+Chief+Keef))
-* [Yung Gravy — Party at my Mama’s House](https://www.last.fm/music/Yung+Gravy/_/Party+at+my+Mama%E2%80%99s+House)
-* [Yung Gravy — Gas Money](https://www.last.fm/music/Yung+Gravy/_/Gas+Money)<!-- LASTFM:END -->
+* [Yung Gravy — Gas Money](https://www.last.fm/music/Yung+Gravy/_/Gas+Money)
+* [Yung Gravy — Whole Foods (with bbno$)](https://www.last.fm/music/Yung+Gravy/_/Whole+Foods+(with+bbno$))
+* [Yung Gravy — yup!](https://www.last.fm/music/Yung+Gravy/_/yup!)
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
+* [Yung Gravy — Steve Austin (with Young Dolph)](https://www.last.fm/music/Yung+Gravy/_/Steve+Austin+(with+Young+Dolph))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
