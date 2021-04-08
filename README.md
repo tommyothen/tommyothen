@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yung Gravy — Steve Austin (with Young Dolph)](https://www.last.fm/music/Yung+Gravy/_/Steve+Austin+(with+Young+Dolph))
-* [Yung Gravy — Bags of Chips (with Bobby Raps)](https://www.last.fm/music/Yung+Gravy/_/Bags+of+Chips+(with+Bobby+Raps))
-* [Yung Gravy — Martha Stewart](https://www.last.fm/music/Yung+Gravy/_/Martha+Stewart)
-* [Yung Gravy — Always Saucy (with Ski Mask The Slump God & TrippythaKid)](https://www.last.fm/music/Yung+Gravy/_/Always+Saucy+(with+Ski+Mask+The+Slump+God+&+TrippythaKid))
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)<!-- LASTFM:END -->
+* [Yung Gravy — Swimming Lessons](https://www.last.fm/music/Yung+Gravy/_/Swimming+Lessons)
+* [Yung Gravy — Miami Ice](https://www.last.fm/music/Yung+Gravy/_/Miami+Ice)
+* [Yung Gravy — Drip on My Dresser (with Chief Keef)](https://www.last.fm/music/Yung+Gravy/_/Drip+on+My+Dresser+(with+Chief+Keef))
+* [Yung Gravy — Party at my Mama’s House](https://www.last.fm/music/Yung+Gravy/_/Party+at+my+Mama%E2%80%99s+House)
+* [Yung Gravy — Gas Money](https://www.last.fm/music/Yung+Gravy/_/Gas+Money)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
