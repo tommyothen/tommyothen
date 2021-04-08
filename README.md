@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [slowthai — terms (feat. Dominic Fike & Denzel Curry)](https://www.last.fm/music/slowthai/_/terms+(feat.+Dominic+Fike+&+Denzel+Curry))
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
+* [Shiggy Jr. — oyasumi](https://www.last.fm/music/Shiggy+Jr./_/oyasumi)
 * [Engelwood — Immaculate Taste](https://www.last.fm/music/Engelwood/_/Immaculate+Taste)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)<!-- LASTFM:END -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
