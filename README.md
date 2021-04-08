@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [galdive — Nescience](https://www.last.fm/music/galdive/_/Nescience)
-* [Akintoye — At the Cookout](https://www.last.fm/music/Akintoye/_/At+the+Cookout)
-* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
-* [Akintoye — Off My Back](https://www.last.fm/music/Akintoye/_/Off+My+Back)
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)<!-- LASTFM:END -->
+* [Yung Gravy — Steve Austin (with Young Dolph)](https://www.last.fm/music/Yung+Gravy/_/Steve+Austin+(with+Young+Dolph))
+* [Yung Gravy — Bags of Chips (with Bobby Raps)](https://www.last.fm/music/Yung+Gravy/_/Bags+of+Chips+(with+Bobby+Raps))
+* [Yung Gravy — Martha Stewart](https://www.last.fm/music/Yung+Gravy/_/Martha+Stewart)
+* [Yung Gravy — Always Saucy (with Ski Mask The Slump God & TrippythaKid)](https://www.last.fm/music/Yung+Gravy/_/Always+Saucy+(with+Ski+Mask+The+Slump+God+&+TrippythaKid))
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
