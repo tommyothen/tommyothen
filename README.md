@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Oliver Tree — Bury Me Alive](https://www.last.fm/music/Oliver+Tree/_/Bury+Me+Alive)
+* [c0nv0 — Doubts](https://www.last.fm/music/c0nv0/_/Doubts)
+* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
 * [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
-* [Mounika. — Cut My Hair](https://www.last.fm/music/Mounika./_/Cut+My+Hair)
-* [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)
-* [Two Door Cinema Club — Sun](https://www.last.fm/music/Two+Door+Cinema+Club/_/Sun)
-* [HENTAI DUDE — Tokyo Chopp](https://www.last.fm/music/HENTAI+DUDE/_/Tokyo+Chopp)<!-- LASTFM:END -->
+* [Mounika. — Cut My Hair](https://www.last.fm/music/Mounika./_/Cut+My+Hair)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
