@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
+* [Dizzee Rascal — Bassline Junkie](https://www.last.fm/music/Dizzee+Rascal/_/Bassline+Junkie)
+* [Dizzee Rascal — Bonkers](https://www.last.fm/music/Dizzee+Rascal/_/Bonkers)
 * [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
-* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
-* [Carly Rae Jepsen — I Really Like You](https://www.last.fm/music/Carly+Rae+Jepsen/_/I+Really+Like+You)
-* [Basshunter feat. DJ Mental Theos Bazzheadz — Now You're Gone - Video Edit](https://www.last.fm/music/Basshunter+feat.+DJ+Mental+Theos+Bazzheadz/_/Now+You%27re+Gone+-+Video+Edit)
-* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)<!-- LASTFM:END -->
+* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
