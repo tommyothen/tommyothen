@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — Buttered Up](https://www.last.fm/music/Yung+Gravy/_/Buttered+Up)
+* [Jarv & Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&+Thief/_/Slack-Jaw)
+* [Taska Black — Dead Inside](https://www.last.fm/music/Taska+Black/_/Dead+Inside)
 * [Su Lee — Cocoa Butter Kisses](https://www.last.fm/music/Su+Lee/_/Cocoa+Butter+Kisses)
-* [Coming Soon!!! — Trippin in Paris](https://www.last.fm/music/Coming+Soon!!!/_/Trippin+in+Paris)
-* [AcesToAces — coffee](https://www.last.fm/music/AcesToAces/_/coffee)
-* [Guardin — creature - Sawce Remix](https://www.last.fm/music/Guardin/_/creature+-+Sawce+Remix)
-* [Colliding With Mars — my mom doesn't believe in me](https://www.last.fm/music/Colliding+With+Mars/_/my+mom+doesn%27t+believe+in+me)<!-- LASTFM:END -->
+* [Coming Soon!!! — Trippin in Paris](https://www.last.fm/music/Coming+Soon!!!/_/Trippin+in+Paris)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
