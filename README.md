@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
+* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
 * [Carly Rae Jepsen — I Really Like You](https://www.last.fm/music/Carly+Rae+Jepsen/_/I+Really+Like+You)
 * [Basshunter feat. DJ Mental Theos Bazzheadz — Now You're Gone - Video Edit](https://www.last.fm/music/Basshunter+feat.+DJ+Mental+Theos+Bazzheadz/_/Now+You%27re+Gone+-+Video+Edit)
-* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
-* [Paramore — Still into You](https://www.last.fm/music/Paramore/_/Still+into+You)
-* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))<!-- LASTFM:END -->
+* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
