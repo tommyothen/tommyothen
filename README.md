@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
-* [black coast — Trndsttr (feat. M. Maggie) - Lucian Remix](https://www.last.fm/music/black+coast/_/Trndsttr+(feat.+M.+Maggie)+-+Lucian+Remix)
-* [Kazuo — ICHIBAN](https://www.last.fm/music/Kazuo/_/ICHIBAN)
-* [Kazuo — ICHIBAN](https://www.last.fm/music/Kazuo/_/ICHIBAN)
-* [Life of Hojj — Monday 월요일](https://www.last.fm/music/Life+of+Hojj/_/Monday+%EC%9B%94%EC%9A%94%EC%9D%BC)<!-- LASTFM:END -->
+* [Carly Rae Jepsen — I Really Like You](https://www.last.fm/music/Carly+Rae+Jepsen/_/I+Really+Like+You)
+* [Basshunter feat. DJ Mental Theos Bazzheadz — Now You're Gone - Video Edit](https://www.last.fm/music/Basshunter+feat.+DJ+Mental+Theos+Bazzheadz/_/Now+You%27re+Gone+-+Video+Edit)
+* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
+* [Paramore — Still into You](https://www.last.fm/music/Paramore/_/Still+into+You)
+* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
