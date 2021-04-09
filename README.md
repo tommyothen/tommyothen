@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — Don't Know What To Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+To+Do)
+* [Tash Sultana — Jungle](https://www.last.fm/music/Tash+Sultana/_/Jungle)
 * [Oliver Tree — Bury Me Alive](https://www.last.fm/music/Oliver+Tree/_/Bury+Me+Alive)
 * [c0nv0 — Doubts](https://www.last.fm/music/c0nv0/_/Doubts)
-* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
-* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
-* [Mounika. — Cut My Hair](https://www.last.fm/music/Mounika./_/Cut+My+Hair)<!-- LASTFM:END -->
+* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
