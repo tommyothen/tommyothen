@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [HENTAI DUDE — Tokyo Chopp](https://www.last.fm/music/HENTAI+DUDE/_/Tokyo+Chopp)
-* [Aiobahn — ここにいる (Stephen Walking Remix)](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+(Stephen+Walking+Remix))
-* [Far East Movement — Like A G6](https://www.last.fm/music/Far+East+Movement/_/Like+A+G6)
-* [Black Eyed Peas — I Gotta Feeling](https://www.last.fm/music/Black+Eyed+Peas/_/I+Gotta+Feeling)
-* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)<!-- LASTFM:END -->
+* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
+* [Mounika. — Cut My Hair](https://www.last.fm/music/Mounika./_/Cut+My+Hair)
+* [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)
+* [Two Door Cinema Club — Sun](https://www.last.fm/music/Two+Door+Cinema+Club/_/Sun)
+* [HENTAI DUDE — Tokyo Chopp](https://www.last.fm/music/HENTAI+DUDE/_/Tokyo+Chopp)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
