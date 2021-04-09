@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Nocturne (Pierce Fulton Remix)](https://www.last.fm/music/Eden/_/Nocturne+(Pierce+Fulton+Remix))
 * [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
 * [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)
 * [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
-* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)
-* [Noel — LOOPHOLE](https://www.last.fm/music/Noel/_/LOOPHOLE)<!-- LASTFM:END -->
+* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
