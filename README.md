@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)
-* [Jid — Workin Out](https://www.last.fm/music/Jid/_/Workin+Out)
-* [yunomi — ジェリーフィッシュ (feat. ローラーガール)](https://www.last.fm/music/yunomi/_/%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5+(feat.+%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB))
-* [Jeremy Zucker — better off](https://www.last.fm/music/Jeremy+Zucker/_/better+off)
-* [Kill Bill: The Rapper — Black Coffee](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Black+Coffee)<!-- LASTFM:END -->
+* [FloFilz — Nomind](https://www.last.fm/music/FloFilz/_/Nomind)
+* [Moe Shop — Identity](https://www.last.fm/music/Moe+Shop/_/Identity)
+* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
+* [Stonebank — To The Top](https://www.last.fm/music/Stonebank/_/To+The+Top)
+* [Rich Brian — Slow Down Turbo](https://www.last.fm/music/Rich+Brian/_/Slow+Down+Turbo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
