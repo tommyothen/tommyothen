@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [swimcoach — runaway](https://www.last.fm/music/swimcoach/_/runaway)
-* [Call Me Karizma — Black & Blue](https://www.last.fm/music/Call+Me+Karizma/_/Black+&+Blue)
-* [Tyler, The Creator — I Ain't Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)
-* [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
-* [yunomi — ジェリーフィッシュ (feat. ローラーガール)](https://www.last.fm/music/yunomi/_/%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5+(feat.+%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB))<!-- LASTFM:END -->
+* [Packy — Like This](https://www.last.fm/music/Packy/_/Like+This)
+* [Yarmak — Молодая кровь](https://www.last.fm/music/Yarmak/_/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F+%D0%BA%D1%80%D0%BE%D0%B2%D1%8C)
+* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
+* [Lesha Svik — Светофоры](https://www.last.fm/music/Lesha+Svik/_/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D1%84%D0%BE%D1%80%D1%8B)
+* [swimcoach — runaway](https://www.last.fm/music/swimcoach/_/runaway)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
