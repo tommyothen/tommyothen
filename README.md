@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Colliding With Mars — HEIRLOOM](https://www.last.fm/music/Colliding+With+Mars/_/HEIRLOOM)
 * [Engelwood — crystal dolphin](https://www.last.fm/music/Engelwood/_/crystal+dolphin)
 * [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)
 * [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
-* [Marc Madness — Tadi](https://www.last.fm/music/Marc+Madness/_/Tadi)
-* [XYLØ — ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)<!-- LASTFM:END -->
+* [Marc Madness — Tadi](https://www.last.fm/music/Marc+Madness/_/Tadi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
