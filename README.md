@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
-* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
-* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
-* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)
-* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)<!-- LASTFM:END -->
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
+* [Engelwood — Immaculate Taste](https://www.last.fm/music/Engelwood/_/Immaculate+Taste)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
