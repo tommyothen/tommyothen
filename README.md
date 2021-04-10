@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [YUNG BAE — Fly With Me](https://www.last.fm/music/YUNG+BAE/_/Fly+With+Me)
-* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
-* [Feduk — Знаки](https://www.last.fm/music/Feduk/_/%D0%97%D0%BD%D0%B0%D0%BA%D0%B8)
-* [blackbear — idfc](https://www.last.fm/music/blackbear/_/idfc)
-* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)<!-- LASTFM:END -->
+* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)
+* [Glass Animals — Your Love (Déjà Vu)](https://www.last.fm/music/Glass+Animals/_/Your+Love+(D%C3%A9j%C3%A0+Vu))
+* [Moe Shop — Love Taste](https://www.last.fm/music/Moe+Shop/_/Love+Taste)
+* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
+* [PINK GUY — Fried Noodles (Getter Remix)](https://www.last.fm/music/PINK+GUY/_/Fried+Noodles+(Getter+Remix))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
