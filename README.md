@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [luvbird — Dawn Amble](https://www.last.fm/music/luvbird/_/Dawn+Amble)
-* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
-* [Yung Gravy — Buttered Up](https://www.last.fm/music/Yung+Gravy/_/Buttered+Up)
-* [Jarv & Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&+Thief/_/Slack-Jaw)
-* [Taska Black — Dead Inside](https://www.last.fm/music/Taska+Black/_/Dead+Inside)<!-- LASTFM:END -->
+* [Ghost Data — Blatant Plagiarism](https://www.last.fm/music/Ghost+Data/_/Blatant+Plagiarism)
+* [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
+* [slowthai — terms (feat. Dominic Fike & Denzel Curry)](https://www.last.fm/music/slowthai/_/terms+(feat.+Dominic+Fike+&+Denzel+Curry))
+* [Superfly — 覚醒](https://www.last.fm/music/Superfly/_/%E8%A6%9A%E9%86%92)
+* [bbno$ — bad girl](https://www.last.fm/music/bbno$/_/bad+girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
