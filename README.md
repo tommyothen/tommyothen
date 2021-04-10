@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [swimcoach — runaway](https://www.last.fm/music/swimcoach/_/runaway)
+* [Call Me Karizma — Black & Blue](https://www.last.fm/music/Call+Me+Karizma/_/Black+&+Blue)
+* [Tyler, The Creator — I Ain't Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)
 * [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
-* [yunomi — ジェリーフィッシュ (feat. ローラーガール)](https://www.last.fm/music/yunomi/_/%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5+(feat.+%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB))
-* [Underscores — regulate you](https://www.last.fm/music/Underscores/_/regulate+you)
-* [o k h o — Espresso](https://www.last.fm/music/o+k+h+o/_/Espresso)
-* [AL-X the Great — Rocketman (feat. Atlas & Lando!)](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+(feat.+Atlas+&+Lando!))<!-- LASTFM:END -->
+* [yunomi — ジェリーフィッシュ (feat. ローラーガール)](https://www.last.fm/music/yunomi/_/%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5+(feat.+%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
