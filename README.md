@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
 * [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
 * [nothing,nowhere. — dread](https://www.last.fm/music/nothing,nowhere./_/dread)
 * [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
-* [nothing,nowhere. — blood (feat. KennyHoopla & JUDGE)](https://www.last.fm/music/nothing,nowhere./_/blood+(feat.+KennyHoopla+&+JUDGE))
-* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)<!-- LASTFM:END -->
+* [nothing,nowhere. — blood (feat. KennyHoopla & JUDGE)](https://www.last.fm/music/nothing,nowhere./_/blood+(feat.+KennyHoopla+&+JUDGE))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
