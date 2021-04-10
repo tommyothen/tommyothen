@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [FloFilz — Nomind](https://www.last.fm/music/FloFilz/_/Nomind)
-* [Moe Shop — Identity](https://www.last.fm/music/Moe+Shop/_/Identity)
-* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
-* [Stonebank — To The Top](https://www.last.fm/music/Stonebank/_/To+The+Top)
-* [Rich Brian — Slow Down Turbo](https://www.last.fm/music/Rich+Brian/_/Slow+Down+Turbo)<!-- LASTFM:END -->
+* [BROCKHAMPTON — JELLO](https://www.last.fm/music/BROCKHAMPTON/_/JELLO)
+* [MISSIO — Rad Drugz](https://www.last.fm/music/MISSIO/_/Rad+Drugz)
+* [The Deli — Flowers](https://www.last.fm/music/The+Deli/_/Flowers)
+* [Shahmen — Dirt](https://www.last.fm/music/Shahmen/_/Dirt)
+* [potsu — letting go](https://www.last.fm/music/potsu/_/letting+go)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
