@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ski Mask the Slump God — The Human Centipede](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/The+Human+Centipede)
+* [Billie Eilish — xanny](https://www.last.fm/music/Billie+Eilish/_/xanny)
 * [Packy — Like This](https://www.last.fm/music/Packy/_/Like+This)
 * [Yarmak — Молодая кровь](https://www.last.fm/music/Yarmak/_/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F+%D0%BA%D1%80%D0%BE%D0%B2%D1%8C)
-* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
-* [Lesha Svik — Светофоры](https://www.last.fm/music/Lesha+Svik/_/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D1%84%D0%BE%D1%80%D1%8B)
-* [swimcoach — runaway](https://www.last.fm/music/swimcoach/_/runaway)<!-- LASTFM:END -->
+* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
