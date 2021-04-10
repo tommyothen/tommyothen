@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BROCKHAMPTON — JELLO](https://www.last.fm/music/BROCKHAMPTON/_/JELLO)
-* [MISSIO — Rad Drugz](https://www.last.fm/music/MISSIO/_/Rad+Drugz)
-* [The Deli — Flowers](https://www.last.fm/music/The+Deli/_/Flowers)
-* [Shahmen — Dirt](https://www.last.fm/music/Shahmen/_/Dirt)
-* [potsu — letting go](https://www.last.fm/music/potsu/_/letting+go)<!-- LASTFM:END -->
+* [YUNG BAE — Fly With Me](https://www.last.fm/music/YUNG+BAE/_/Fly+With+Me)
+* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
+* [Feduk — Знаки](https://www.last.fm/music/Feduk/_/%D0%97%D0%BD%D0%B0%D0%BA%D0%B8)
+* [blackbear — idfc](https://www.last.fm/music/blackbear/_/idfc)
+* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
