@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tyler, The Creator — I THINK](https://www.last.fm/music/Tyler,+The+Creator/_/I+THINK)
-* [BURNOUT SYNDROMES — ヒカリアレ-Moonlight Version- - moonlight version](https://www.last.fm/music/BURNOUT+SYNDROMES/_/%E3%83%92%E3%82%AB%E3%83%AA%E3%82%A2%E3%83%AC-Moonlight+Version-+-+moonlight+version)
-* [takayan — Just disappear](https://www.last.fm/music/takayan/_/Just+disappear)
-* [Rainych — Yoru ni Kakeru](https://www.last.fm/music/Rainych/_/Yoru+ni+Kakeru)
-* [XYLØ — ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)<!-- LASTFM:END -->
+* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
+* [Psyqui — 就寝御礼](https://www.last.fm/music/Psyqui/_/%E5%B0%B1%E5%AF%9D%E5%BE%A1%E7%A4%BC)
+* [Osvaldorio — Lotus](https://www.last.fm/music/Osvaldorio/_/Lotus)
+* [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)
+* [Tyler, The Creator — I Ain't Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
