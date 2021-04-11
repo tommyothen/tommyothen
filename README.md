@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)
+* [Kuwago — Let's start](https://www.last.fm/music/Kuwago/_/Let%27s+start)
+* [23.exe — ochatime](https://www.last.fm/music/23.exe/_/ochatime)
 * [Ciki — Syndrome](https://www.last.fm/music/Ciki/_/Syndrome)
-* [Bearson — Go to Sleep (feat. Kailee Morgue) (feat. Kailee Morgue) - Oshi Remix](https://www.last.fm/music/Bearson/_/Go+to+Sleep+(feat.+Kailee+Morgue)+(feat.+Kailee+Morgue)+-+Oshi+Remix)
-* [Tices — Blacknwhite](https://www.last.fm/music/Tices/_/Blacknwhite)
-* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)
-* [Unlike Pluto — Revenge, And a Little More](https://www.last.fm/music/Unlike+Pluto/_/Revenge,+And+a+Little+More)<!-- LASTFM:END -->
+* [Bearson — Go to Sleep (feat. Kailee Morgue) (feat. Kailee Morgue) - Oshi Remix](https://www.last.fm/music/Bearson/_/Go+to+Sleep+(feat.+Kailee+Morgue)+(feat.+Kailee+Morgue)+-+Oshi+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
