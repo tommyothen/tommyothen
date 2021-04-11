@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — Blank Space](https://www.last.fm/music/Taylor+Swift/_/Blank+Space)
+* [Taylor Swift — exile (feat. Bon Iver)](https://www.last.fm/music/Taylor+Swift/_/exile+(feat.+Bon+Iver))
 * [Taylor Swift — champagne problems](https://www.last.fm/music/Taylor+Swift/_/champagne+problems)
 * [Taylor Swift — cardigan](https://www.last.fm/music/Taylor+Swift/_/cardigan)
-* [Taylor Swift — You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)](https://www.last.fm/music/Taylor+Swift/_/You+All+Over+Me+(feat.+Maren+Morris)+(Taylor%E2%80%99s+Version)+(From+The+Vault))
-* [Taylor Swift — willow](https://www.last.fm/music/Taylor+Swift/_/willow)
-* [Taylor Swift — Love Story (Taylor’s Version)](https://www.last.fm/music/Taylor+Swift/_/Love+Story+(Taylor%E2%80%99s+Version))<!-- LASTFM:END -->
+* [Taylor Swift — You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)](https://www.last.fm/music/Taylor+Swift/_/You+All+Over+Me+(feat.+Maren+Morris)+(Taylor%E2%80%99s+Version)+(From+The+Vault))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
