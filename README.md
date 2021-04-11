@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Anderson .Paak — Come Down](https://www.last.fm/music/Anderson+.Paak/_/Come+Down)
+* [MC Virgins — Anime Thighs](https://www.last.fm/music/MC+Virgins/_/Anime+Thighs)
+* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)
 * [slushii — Luv U Need U](https://www.last.fm/music/slushii/_/Luv+U+Need+U)
-* [c0nv0 — Doubts](https://www.last.fm/music/c0nv0/_/Doubts)
-* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
-* [c0nv0 — December](https://www.last.fm/music/c0nv0/_/December)
-* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)<!-- LASTFM:END -->
+* [c0nv0 — Doubts](https://www.last.fm/music/c0nv0/_/Doubts)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
