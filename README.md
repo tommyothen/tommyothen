@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
+* [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)
+* [TWICE — FAKE & TRUE](https://www.last.fm/music/TWICE/_/FAKE+&+TRUE)
 * [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
-* [Billy Marchiafava — Disco Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Disco+Type+Beat)
-* [TWICE — SIGNAL - Japanese ver.](https://www.last.fm/music/TWICE/_/SIGNAL+-+Japanese+ver.)
-* [Red Velvet — 러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)
-* [Guardin — creature - Sawce Remix](https://www.last.fm/music/Guardin/_/creature+-+Sawce+Remix)<!-- LASTFM:END -->
+* [Billy Marchiafava — Disco Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Disco+Type+Beat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
