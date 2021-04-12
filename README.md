@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Taylor Swift — Blank Space](https://www.last.fm/music/Taylor+Swift/_/Blank+Space)
-* [Taylor Swift — exile (feat. Bon Iver)](https://www.last.fm/music/Taylor+Swift/_/exile+(feat.+Bon+Iver))
-* [Taylor Swift — champagne problems](https://www.last.fm/music/Taylor+Swift/_/champagne+problems)
-* [Taylor Swift — cardigan](https://www.last.fm/music/Taylor+Swift/_/cardigan)
-* [Taylor Swift — You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)](https://www.last.fm/music/Taylor+Swift/_/You+All+Over+Me+(feat.+Maren+Morris)+(Taylor%E2%80%99s+Version)+(From+The+Vault))<!-- LASTFM:END -->
+* [Far East Movement — Like A G6](https://www.last.fm/music/Far+East+Movement/_/Like+A+G6)
+* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
+* [Zayn — I Don’t Wanna Live Forever (Fifty Shades Darker)](https://www.last.fm/music/Zayn/_/I+Don%E2%80%99t+Wanna+Live+Forever+(Fifty+Shades+Darker))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
