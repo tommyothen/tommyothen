@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
+* [The Tech Thieves — Flowers](https://www.last.fm/music/The+Tech+Thieves/_/Flowers)
+* [Royal & the Serpent — Weddings & Funerals](https://www.last.fm/music/Royal+&+the+Serpent/_/Weddings+&+Funerals)
 * [Chloe Moriondo — Ghost Adventure Spirit Orb](https://www.last.fm/music/Chloe+Moriondo/_/Ghost+Adventure+Spirit+Orb)
-* [Duckwrth — I'M DEAD](https://www.last.fm/music/Duckwrth/_/I%27M+DEAD)
-* [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)
-* [Abhi The Nomad — Sex n' Drugs](https://www.last.fm/music/Abhi+The+Nomad/_/Sex+n%27+Drugs)
-* [Bren Joy — Sweet (feat. Landon Sears)](https://www.last.fm/music/Bren+Joy/_/Sweet+(feat.+Landon+Sears))<!-- LASTFM:END -->
+* [Duckwrth — I'M DEAD](https://www.last.fm/music/Duckwrth/_/I%27M+DEAD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
