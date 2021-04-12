@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)
-* [Michael Bublé — Haven't Met You Yet](https://www.last.fm/music/Michael+Bubl%C3%A9/_/Haven%27t+Met+You+Yet)
-* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
-* [Pitbull — Hotel Room Service](https://www.last.fm/music/Pitbull/_/Hotel+Room+Service)
-* [Black Eyed Peas — Meet Me Halfway](https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway)<!-- LASTFM:END -->
+* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)
+* [Noel — LOOPHOLE](https://www.last.fm/music/Noel/_/LOOPHOLE)
+* [Superfly — 覚醒](https://www.last.fm/music/Superfly/_/%E8%A6%9A%E9%86%92)
+* [稲葉曇 — ラグトレイン](https://www.last.fm/music/%E7%A8%B2%E8%91%89%E6%9B%87/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
