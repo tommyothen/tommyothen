@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
+* [Bearson — Go to Sleep (feat. Kailee Morgue) (feat. Kailee Morgue) - Oshi Remix](https://www.last.fm/music/Bearson/_/Go+to+Sleep+(feat.+Kailee+Morgue)+(feat.+Kailee+Morgue)+-+Oshi+Remix)
 * [Tices — Blacknwhite](https://www.last.fm/music/Tices/_/Blacknwhite)
-* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)
-* [Unlike Pluto — Revenge, And a Little More](https://www.last.fm/music/Unlike+Pluto/_/Revenge,+And+a+Little+More)
-* [Geoxor — Abandoned](https://www.last.fm/music/Geoxor/_/Abandoned)
-* [L.Dre — Across the Country](https://www.last.fm/music/L.Dre/_/Across+the+Country)<!-- LASTFM:END -->
+* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
