@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
 * [PRXZM — Let Me Fall](https://www.last.fm/music/PRXZM/_/Let+Me+Fall)
 * [Flaws — break away](https://www.last.fm/music/Flaws/_/break+away)
 * [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)
-* [JYOCHO — ユークリッド](https://www.last.fm/music/JYOCHO/_/%E3%83%A6%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%83%E3%83%89)
-* [Casinos — Catacombs](https://www.last.fm/music/Casinos/_/Catacombs)<!-- LASTFM:END -->
+* [JYOCHO — ユークリッド](https://www.last.fm/music/JYOCHO/_/%E3%83%A6%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%83%E3%83%89)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
