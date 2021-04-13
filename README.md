@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
+* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
+* [Adventurer — Solstice](https://www.last.fm/music/Adventurer/_/Solstice)
 * [Life After Youth — beetlejuicebeetlejuicebeetlejuice](https://www.last.fm/music/Life+After+Youth/_/beetlejuicebeetlejuicebeetlejuice)
-* [Michelle — THE BOTTOM](https://www.last.fm/music/Michelle/_/THE+BOTTOM)
-* [Michelle — THE BOTTOM](https://www.last.fm/music/Michelle/_/THE+BOTTOM)
-* [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
-* [PRXZM — Let Me Fall](https://www.last.fm/music/PRXZM/_/Let+Me+Fall)<!-- LASTFM:END -->
+* [Michelle — THE BOTTOM](https://www.last.fm/music/Michelle/_/THE+BOTTOM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
