@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
-* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
-* [Black Eyed Peas — I Gotta Feeling](https://www.last.fm/music/Black+Eyed+Peas/_/I+Gotta+Feeling)
+* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)
 * [Carly Rae Jepsen — I Really Like You](https://www.last.fm/music/Carly+Rae+Jepsen/_/I+Really+Like+You)
-* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)<!-- LASTFM:END -->
+* [Pitbull — Hotel Room Service](https://www.last.fm/music/Pitbull/_/Hotel+Room+Service)
+* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
+* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
