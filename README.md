@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Flavors — Next to You](https://www.last.fm/music/Flavors/_/Next+to+You)
-* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
 * [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)
 * [Essenger — Eyes Closed](https://www.last.fm/music/Essenger/_/Eyes+Closed)
-* [Flavors — Next to You](https://www.last.fm/music/Flavors/_/Next+to+You)<!-- LASTFM:END -->
+* [Flavors — Next to You](https://www.last.fm/music/Flavors/_/Next+to+You)
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
+* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
