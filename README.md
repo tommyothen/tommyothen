@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
-* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
-* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)<!-- LASTFM:END -->
+* [Sokoninaru — 少女の音色に導かれ](https://www.last.fm/music/Sokoninaru/_/%E5%B0%91%E5%A5%B3%E3%81%AE%E9%9F%B3%E8%89%B2%E3%81%AB%E5%B0%8E%E3%81%8B%E3%82%8C)
+* [シベール (Vo. Maika Loubte) — La ballade](https://www.last.fm/music/%E3%82%B7%E3%83%99%E3%83%BC%E3%83%AB+(Vo.+Maika+Loubte)/_/La+ballade)
+* [Byemilo — Bleep Freestyle](https://www.last.fm/music/Byemilo/_/Bleep+Freestyle)
+* [Peter France — 420-666-6969](https://www.last.fm/music/Peter+France/_/420-666-6969)
+* [Yameii Online — Friday Night Basement](https://www.last.fm/music/Yameii+Online/_/Friday+Night+Basement)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
