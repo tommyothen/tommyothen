@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yameii Online — Friday Night Basement](https://www.last.fm/music/Yameii+Online/_/Friday+Night+Basement)
+* [FrankJavCee — I Love Hating You](https://www.last.fm/music/FrankJavCee/_/I+Love+Hating+You)
+* [Ichika — I](https://www.last.fm/music/Ichika/_/I)
 * [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)
-* [Essenger — Eyes Closed](https://www.last.fm/music/Essenger/_/Eyes+Closed)
-* [Flavors — Next to You](https://www.last.fm/music/Flavors/_/Next+to+You)
-* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
-* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)<!-- LASTFM:END -->
+* [Essenger — Eyes Closed](https://www.last.fm/music/Essenger/_/Eyes+Closed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
