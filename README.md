@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Egg — Putting a Spin on Sweater Weather](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Sweater+Weather)
-* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
-* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
-* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [Psyqui — 就寝御礼](https://www.last.fm/music/Psyqui/_/%E5%B0%B1%E5%AF%9D%E5%BE%A1%E7%A4%BC)<!-- LASTFM:END -->
+* [MAX — Blueberry Eyes (feat. SUGA of BTS)](https://www.last.fm/music/MAX/_/Blueberry+Eyes+(feat.+SUGA+of+BTS))
+* [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)
+* [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
+* [brakence — dropout (w/ blackbear)](https://www.last.fm/music/brakence/_/dropout+(w%2F+blackbear))
+* [Trails — Learn to Love Me](https://www.last.fm/music/Trails/_/Learn+to+Love+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
