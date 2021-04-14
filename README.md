@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
+* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)
+* [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
 * [Essenger — Eyes Closed](https://www.last.fm/music/Essenger/_/Eyes+Closed)
-* [Flavors — Next to You](https://www.last.fm/music/Flavors/_/Next+to+You)
-* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
-* [The Million — Somebody Better](https://www.last.fm/music/The+Million/_/Somebody+Better)
-* [慎惠仁 — Same Here](https://www.last.fm/music/%E6%85%8E%E6%83%A0%E4%BB%81/_/Same+Here)<!-- LASTFM:END -->
+* [Flavors — Next to You](https://www.last.fm/music/Flavors/_/Next+to+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
