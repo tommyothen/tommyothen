@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Essenger — Eyes Closed](https://www.last.fm/music/Essenger/_/Eyes+Closed)
 * [Flavors — Next to You](https://www.last.fm/music/Flavors/_/Next+to+You)
 * [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
 * [The Million — Somebody Better](https://www.last.fm/music/The+Million/_/Somebody+Better)
-* [慎惠仁 — Same Here](https://www.last.fm/music/%E6%85%8E%E6%83%A0%E4%BB%81/_/Same+Here)
-* [Mob Rich — Just Mine](https://www.last.fm/music/Mob+Rich/_/Just+Mine)<!-- LASTFM:END -->
+* [慎惠仁 — Same Here](https://www.last.fm/music/%E6%85%8E%E6%83%A0%E4%BB%81/_/Same+Here)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
