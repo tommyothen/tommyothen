@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Egg — Putting a Spin on Sweater Weather](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Sweater+Weather)
+* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
+* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
 * [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [Psyqui — 就寝御礼](https://www.last.fm/music/Psyqui/_/%E5%B0%B1%E5%AF%9D%E5%BE%A1%E7%A4%BC)
-* [Osvaldorio — Lotus](https://www.last.fm/music/Osvaldorio/_/Lotus)
-* [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)
-* [Tyler, The Creator — I Ain't Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)<!-- LASTFM:END -->
+* [Psyqui — 就寝御礼](https://www.last.fm/music/Psyqui/_/%E5%B0%B1%E5%AF%9D%E5%BE%A1%E7%A4%BC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
