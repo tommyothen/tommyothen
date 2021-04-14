@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [慎惠仁 — Same Here](https://www.last.fm/music/%E6%85%8E%E6%83%A0%E4%BB%81/_/Same+Here)
+* [Mob Rich — Just Mine](https://www.last.fm/music/Mob+Rich/_/Just+Mine)
 * [twentythreenineteen — You](https://www.last.fm/music/twentythreenineteen/_/You)
 * [Asyndeton — Ascending Heaven](https://www.last.fm/music/Asyndeton/_/Ascending+Heaven)
-* [NICK PROSPER — Lips Like Lemonade](https://www.last.fm/music/NICK+PROSPER/_/Lips+Like+Lemonade)
-* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
-* [Johnny Manchild and the Poor Bastards — You Want a Song](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/You+Want+a+Song)<!-- LASTFM:END -->
+* [NICK PROSPER — Lips Like Lemonade](https://www.last.fm/music/NICK+PROSPER/_/Lips+Like+Lemonade)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
