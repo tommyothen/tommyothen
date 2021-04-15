@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Trxxshed — Lost In Between](https://www.last.fm/music/Trxxshed/_/Lost+In+Between)
+* [TyLuv. — Diamonds](https://www.last.fm/music/TyLuv./_/Diamonds)
+* [Nvmb. — intimate](https://www.last.fm/music/Nvmb./_/intimate)
 * [Pointy Features — Low Tide](https://www.last.fm/music/Pointy+Features/_/Low+Tide)
-* [No Spirit — Some Alone Time](https://www.last.fm/music/No+Spirit/_/Some+Alone+Time)
-* [Sitting Duck — Reflection](https://www.last.fm/music/Sitting+Duck/_/Reflection)
-* [Sitting Duck — Changes](https://www.last.fm/music/Sitting+Duck/_/Changes)
-* [L'outlander — Speculations](https://www.last.fm/music/L%27outlander/_/Speculations)<!-- LASTFM:END -->
+* [No Spirit — Some Alone Time](https://www.last.fm/music/No+Spirit/_/Some+Alone+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
