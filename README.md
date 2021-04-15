@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [HEVI — Empathise](https://www.last.fm/music/HEVI/_/Empathise)
-* [Chief. — you used to](https://www.last.fm/music/Chief./_/you+used+to)
-* [Team Astro — Empty Shelves](https://www.last.fm/music/Team+Astro/_/Empty+Shelves)
-* [TyLuv. — Mercury Retrograde](https://www.last.fm/music/TyLuv./_/Mercury+Retrograde)
-* [eugenio izzi — Climb The Roof To Breathe Better](https://www.last.fm/music/eugenio+izzi/_/Climb+The+Roof+To+Breathe+Better)<!-- LASTFM:END -->
+* [Pointy Features — Low Tide](https://www.last.fm/music/Pointy+Features/_/Low+Tide)
+* [No Spirit — Some Alone Time](https://www.last.fm/music/No+Spirit/_/Some+Alone+Time)
+* [Sitting Duck — Reflection](https://www.last.fm/music/Sitting+Duck/_/Reflection)
+* [Sitting Duck — Changes](https://www.last.fm/music/Sitting+Duck/_/Changes)
+* [L'outlander — Speculations](https://www.last.fm/music/L%27outlander/_/Speculations)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
