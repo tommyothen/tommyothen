@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)
+* [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
 * [Trxxshed — Lost In Between](https://www.last.fm/music/Trxxshed/_/Lost+In+Between)
 * [TyLuv. — Diamonds](https://www.last.fm/music/TyLuv./_/Diamonds)
-* [Nvmb. — intimate](https://www.last.fm/music/Nvmb./_/intimate)
-* [Pointy Features — Low Tide](https://www.last.fm/music/Pointy+Features/_/Low+Tide)
-* [No Spirit — Some Alone Time](https://www.last.fm/music/No+Spirit/_/Some+Alone+Time)<!-- LASTFM:END -->
+* [Nvmb. — intimate](https://www.last.fm/music/Nvmb./_/intimate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
