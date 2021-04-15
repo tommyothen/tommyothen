@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yameii Online — Friday Night Basement](https://www.last.fm/music/Yameii+Online/_/Friday+Night+Basement)
+* [FrankJavCee — I Love Hating You](https://www.last.fm/music/FrankJavCee/_/I+Love+Hating+You)
+* [Ichika — I](https://www.last.fm/music/Ichika/_/I)
 * [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
-* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)
-* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
-* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
-* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)<!-- LASTFM:END -->
+* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
