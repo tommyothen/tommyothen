@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [goosetaf — Sunday Fog](https://www.last.fm/music/goosetaf/_/Sunday+Fog)
+* [Team Astro — Travelers](https://www.last.fm/music/Team+Astro/_/Travelers)
+* [Ambulo — Noctilucent](https://www.last.fm/music/Ambulo/_/Noctilucent)
 * [Monma — Chrono](https://www.last.fm/music/Monma/_/Chrono)
-* [EnRa — Shifting](https://www.last.fm/music/EnRa/_/Shifting)
-* [Kanisan — Kokoro](https://www.last.fm/music/Kanisan/_/Kokoro)
-* [Aylior — Wake Up](https://www.last.fm/music/Aylior/_/Wake+Up)
-* [Amies — Follow Me](https://www.last.fm/music/Amies/_/Follow+Me)<!-- LASTFM:END -->
+* [EnRa — Shifting](https://www.last.fm/music/EnRa/_/Shifting)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
