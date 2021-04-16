@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flaws — break away](https://www.last.fm/music/Flaws/_/break+away)
+* [JYOCHO — ユークリッド](https://www.last.fm/music/JYOCHO/_/%E3%83%A6%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%83%E3%83%89)
 * [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)
 * [シベール (Vo. Maika Loubte) — La ballade](https://www.last.fm/music/%E3%82%B7%E3%83%99%E3%83%BC%E3%83%AB+(Vo.+Maika+Loubte)/_/La+ballade)
-* [Sokoninaru — 少女の音色に導かれ](https://www.last.fm/music/Sokoninaru/_/%E5%B0%91%E5%A5%B3%E3%81%AE%E9%9F%B3%E8%89%B2%E3%81%AB%E5%B0%8E%E3%81%8B%E3%82%8C)
-* [慎惠仁 — Same Here](https://www.last.fm/music/%E6%85%8E%E6%83%A0%E4%BB%81/_/Same+Here)
-* [Yameii Online — Friday Night Basement](https://www.last.fm/music/Yameii+Online/_/Friday+Night+Basement)<!-- LASTFM:END -->
+* [Sokoninaru — 少女の音色に導かれ](https://www.last.fm/music/Sokoninaru/_/%E5%B0%91%E5%A5%B3%E3%81%AE%E9%9F%B3%E8%89%B2%E3%81%AB%E5%B0%8E%E3%81%8B%E3%82%8C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
