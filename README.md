@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
+* [Johnny Manchild and the Poor Bastards — You Want a Song](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/You+Want+a+Song)
+* [The Million — Somebody Better](https://www.last.fm/music/The+Million/_/Somebody+Better)
 * [Peter France — 420-666-6969](https://www.last.fm/music/Peter+France/_/420-666-6969)
-* [Michelle — THE BOTTOM](https://www.last.fm/music/Michelle/_/THE+BOTTOM)
-* [Asyndeton — Ascending Heaven](https://www.last.fm/music/Asyndeton/_/Ascending+Heaven)
-* [Ichika — I](https://www.last.fm/music/Ichika/_/I)
-* [PREACHERVAN — Cinematic](https://www.last.fm/music/PREACHERVAN/_/Cinematic)<!-- LASTFM:END -->
+* [Michelle — THE BOTTOM](https://www.last.fm/music/Michelle/_/THE+BOTTOM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
