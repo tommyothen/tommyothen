@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Peter France — 420-666-6969](https://www.last.fm/music/Peter+France/_/420-666-6969)
+* [Michelle — THE BOTTOM](https://www.last.fm/music/Michelle/_/THE+BOTTOM)
+* [Asyndeton — Ascending Heaven](https://www.last.fm/music/Asyndeton/_/Ascending+Heaven)
 * [Ichika — I](https://www.last.fm/music/Ichika/_/I)
-* [PREACHERVAN — Cinematic](https://www.last.fm/music/PREACHERVAN/_/Cinematic)
-* [Life After Youth — beetlejuicebeetlejuicebeetlejuice](https://www.last.fm/music/Life+After+Youth/_/beetlejuicebeetlejuicebeetlejuice)
-* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
-* [PRXZM — Let Me Fall](https://www.last.fm/music/PRXZM/_/Let+Me+Fall)<!-- LASTFM:END -->
+* [PREACHERVAN — Cinematic](https://www.last.fm/music/PREACHERVAN/_/Cinematic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
