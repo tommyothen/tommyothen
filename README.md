@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Galin — За всички бивши](https://www.last.fm/music/Galin/_/%D0%97%D0%B0+%D0%B2%D1%81%D0%B8%D1%87%D0%BA%D0%B8+%D0%B1%D0%B8%D0%B2%D1%88%D0%B8)
-* [Adam — Conga](https://www.last.fm/music/Adam/_/Conga)
-* [Adam — 3alliko L Mashaneq](https://www.last.fm/music/Adam/_/3alliko+L+Mashaneq)
-* [Adam — 3alliko L Mashaneq](https://www.last.fm/music/Adam/_/3alliko+L+Mashaneq)
-* [HEVI — Wishing, Waiting](https://www.last.fm/music/HEVI/_/Wishing,+Waiting)<!-- LASTFM:END -->
+* [Yameii Online — Friday Night Basement](https://www.last.fm/music/Yameii+Online/_/Friday+Night+Basement)
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
+* [NICK PROSPER — Lips Like Lemonade](https://www.last.fm/music/NICK+PROSPER/_/Lips+Like+Lemonade)
+* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)
+* [Galin — За всички бивши](https://www.last.fm/music/Galin/_/%D0%97%D0%B0+%D0%B2%D1%81%D0%B8%D1%87%D0%BA%D0%B8+%D0%B1%D0%B8%D0%B2%D1%88%D0%B8)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
