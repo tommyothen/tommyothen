@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Amies — Arriving](https://www.last.fm/music/Amies/_/Arriving)
-* [Towerz — Until Tomorrow](https://www.last.fm/music/Towerz/_/Until+Tomorrow)
-* [Life of Hojj — Monday 월요일](https://www.last.fm/music/Life+of+Hojj/_/Monday+%EC%9B%94%EC%9A%94%EC%9D%BC)
-* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
-* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)<!-- LASTFM:END -->
+* [brillion. — Eventide](https://www.last.fm/music/brillion./_/Eventide)
+* [S N U G — Night Coffee](https://www.last.fm/music/S+N+U+G/_/Night+Coffee)
+* [Mondo Loops — On The Way Home](https://www.last.fm/music/Mondo+Loops/_/On+The+Way+Home)
+* [L'outlander — Higher Calling](https://www.last.fm/music/L%27outlander/_/Higher+Calling)
+* [L'outlander — Farewell](https://www.last.fm/music/L%27outlander/_/Farewell)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
