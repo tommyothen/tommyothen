@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
+* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
+* [Khamsin — My Way](https://www.last.fm/music/Khamsin/_/My+Way)
 * [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
-* [Johnny Manchild and the Poor Bastards — You Want a Song](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/You+Want+a+Song)
-* [The Million — Somebody Better](https://www.last.fm/music/The+Million/_/Somebody+Better)
-* [Peter France — 420-666-6969](https://www.last.fm/music/Peter+France/_/420-666-6969)
-* [Michelle — THE BOTTOM](https://www.last.fm/music/Michelle/_/THE+BOTTOM)<!-- LASTFM:END -->
+* [Johnny Manchild and the Poor Bastards — You Want a Song](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/You+Want+a+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
