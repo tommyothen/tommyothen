@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
-* [TWICE — KNOCK KNOCK](https://www.last.fm/music/TWICE/_/KNOCK+KNOCK)
-* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
-* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
-* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)<!-- LASTFM:END -->
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
+* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
+* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)
+* [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
