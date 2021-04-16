@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
+* [Made in M — Tierra](https://www.last.fm/music/Made+in+M/_/Tierra)
+* [23.exe — ochatime](https://www.last.fm/music/23.exe/_/ochatime)
 * [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
-* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
-* [Khamsin — My Way](https://www.last.fm/music/Khamsin/_/My+Way)
-* [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
-* [Johnny Manchild and the Poor Bastards — You Want a Song](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/You+Want+a+Song)<!-- LASTFM:END -->
+* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
