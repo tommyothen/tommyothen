@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yameii Online — Friday Night Basement](https://www.last.fm/music/Yameii+Online/_/Friday+Night+Basement)
-* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
-* [NICK PROSPER — Lips Like Lemonade](https://www.last.fm/music/NICK+PROSPER/_/Lips+Like+Lemonade)
-* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)
-* [Galin — За всички бивши](https://www.last.fm/music/Galin/_/%D0%97%D0%B0+%D0%B2%D1%81%D0%B8%D1%87%D0%BA%D0%B8+%D0%B1%D0%B8%D0%B2%D1%88%D0%B8)<!-- LASTFM:END -->
+* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)
+* [シベール (Vo. Maika Loubte) — La ballade](https://www.last.fm/music/%E3%82%B7%E3%83%99%E3%83%BC%E3%83%AB+(Vo.+Maika+Loubte)/_/La+ballade)
+* [Sokoninaru — 少女の音色に導かれ](https://www.last.fm/music/Sokoninaru/_/%E5%B0%91%E5%A5%B3%E3%81%AE%E9%9F%B3%E8%89%B2%E3%81%AB%E5%B0%8E%E3%81%8B%E3%82%8C)
+* [慎惠仁 — Same Here](https://www.last.fm/music/%E6%85%8E%E6%83%A0%E4%BB%81/_/Same+Here)
+* [Yameii Online — Friday Night Basement](https://www.last.fm/music/Yameii+Online/_/Friday+Night+Basement)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
