@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HEVI — Wishing, Waiting](https://www.last.fm/music/HEVI/_/Wishing,+Waiting)
 * [cocabona — You](https://www.last.fm/music/cocabona/_/You)
 * [Team Astro — Beehive](https://www.last.fm/music/Team+Astro/_/Beehive)
 * [kainbeats — Pure Warmth](https://www.last.fm/music/kainbeats/_/Pure+Warmth)
-* [Softy — Glimpses](https://www.last.fm/music/Softy/_/Glimpses)
-* [Laffey — Infinite](https://www.last.fm/music/Laffey/_/Infinite)<!-- LASTFM:END -->
+* [Softy — Glimpses](https://www.last.fm/music/Softy/_/Glimpses)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
