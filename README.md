@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [brillion. — Eventide](https://www.last.fm/music/brillion./_/Eventide)
-* [S N U G — Night Coffee](https://www.last.fm/music/S+N+U+G/_/Night+Coffee)
-* [Mondo Loops — On The Way Home](https://www.last.fm/music/Mondo+Loops/_/On+The+Way+Home)
-* [L'outlander — Higher Calling](https://www.last.fm/music/L%27outlander/_/Higher+Calling)
-* [L'outlander — Farewell](https://www.last.fm/music/L%27outlander/_/Farewell)<!-- LASTFM:END -->
+* [Laffey — Infinite](https://www.last.fm/music/Laffey/_/Infinite)
+* [Trxxshed — Obscure Sorrows](https://www.last.fm/music/Trxxshed/_/Obscure+Sorrows)
+* [Laffey — In This Moment](https://www.last.fm/music/Laffey/_/In+This+Moment)
+* [Phlocalyst — Beautiful Morning](https://www.last.fm/music/Phlocalyst/_/Beautiful+Morning)
+* [Chief. — neff](https://www.last.fm/music/Chief./_/neff)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
