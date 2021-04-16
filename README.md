@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Laffey — Infinite](https://www.last.fm/music/Laffey/_/Infinite)
-* [Trxxshed — Obscure Sorrows](https://www.last.fm/music/Trxxshed/_/Obscure+Sorrows)
-* [Laffey — In This Moment](https://www.last.fm/music/Laffey/_/In+This+Moment)
-* [Phlocalyst — Beautiful Morning](https://www.last.fm/music/Phlocalyst/_/Beautiful+Morning)
-* [Chief. — neff](https://www.last.fm/music/Chief./_/neff)<!-- LASTFM:END -->
+* [cocabona — You](https://www.last.fm/music/cocabona/_/You)
+* [Team Astro — Beehive](https://www.last.fm/music/Team+Astro/_/Beehive)
+* [kainbeats — Pure Warmth](https://www.last.fm/music/kainbeats/_/Pure+Warmth)
+* [Softy — Glimpses](https://www.last.fm/music/Softy/_/Glimpses)
+* [Laffey — Infinite](https://www.last.fm/music/Laffey/_/Infinite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
