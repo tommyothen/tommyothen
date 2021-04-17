@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
-* [Snail's house — hot milk](https://www.last.fm/music/Snail%27s+house/_/hot+milk)
-* [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)
-* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
-* [Post Malone — Goodbyes (feat. Young Thug)](https://www.last.fm/music/Post+Malone/_/Goodbyes+(feat.+Young+Thug))<!-- LASTFM:END -->
+* [Easy Life — Nightmares](https://www.last.fm/music/Easy+Life/_/Nightmares)
+* [Rich Brian — Kitty](https://www.last.fm/music/Rich+Brian/_/Kitty)
+* [love-sadKiD — Cash](https://www.last.fm/music/love-sadKiD/_/Cash)
+* [[bsd.u] — Laced](https://www.last.fm/music/%5Bbsd.u%5D/_/Laced)
+* [Rich Brian — Cold](https://www.last.fm/music/Rich+Brian/_/Cold)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
