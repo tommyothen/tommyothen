@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
-* [TWICE — Stronger](https://www.last.fm/music/TWICE/_/Stronger)
-* [TWICE — DEJAVU](https://www.last.fm/music/TWICE/_/DEJAVU)
+* [TWICE — MORE & MORE](https://www.last.fm/music/TWICE/_/MORE+&+MORE)
 * [TWICE — L.O.V.E](https://www.last.fm/music/TWICE/_/L.O.V.E)
-* [TWICE — WOW](https://www.last.fm/music/TWICE/_/WOW)<!-- LASTFM:END -->
+* [TWICE — Changing!](https://www.last.fm/music/TWICE/_/Changing!)
+* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
+* [TWICE — Stronger](https://www.last.fm/music/TWICE/_/Stronger)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
