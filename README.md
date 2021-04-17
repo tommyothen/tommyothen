@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Post Malone — Goodbyes (feat. Young Thug)](https://www.last.fm/music/Post+Malone/_/Goodbyes+(feat.+Young+Thug))
-* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
-* [zach farache — lets just stay here](https://www.last.fm/music/zach+farache/_/lets+just+stay+here)
-* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
-* [Kazuo — ICHIBAN](https://www.last.fm/music/Kazuo/_/ICHIBAN)<!-- LASTFM:END -->
+* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
+* [Snail's house — hot milk](https://www.last.fm/music/Snail%27s+house/_/hot+milk)
+* [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)
+* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
+* [Post Malone — Goodbyes (feat. Young Thug)](https://www.last.fm/music/Post+Malone/_/Goodbyes+(feat.+Young+Thug))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
