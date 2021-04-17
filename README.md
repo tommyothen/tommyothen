@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Post Malone — Goodbyes (feat. Young Thug)](https://www.last.fm/music/Post+Malone/_/Goodbyes+(feat.+Young+Thug))
+* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
 * [zach farache — lets just stay here](https://www.last.fm/music/zach+farache/_/lets+just+stay+here)
 * [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
-* [Kazuo — ICHIBAN](https://www.last.fm/music/Kazuo/_/ICHIBAN)
-* [Eevee — that real good](https://www.last.fm/music/Eevee/_/that+real+good)
-* [Riot — Overkill](https://www.last.fm/music/Riot/_/Overkill)<!-- LASTFM:END -->
+* [Kazuo — ICHIBAN](https://www.last.fm/music/Kazuo/_/ICHIBAN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
