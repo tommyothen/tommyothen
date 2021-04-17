@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TWICE — Heart Shaker - Japanese ver.](https://www.last.fm/music/TWICE/_/Heart+Shaker+-+Japanese+ver.)
-* [TWICE — SWING](https://www.last.fm/music/TWICE/_/SWING)
-* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
-* [Easy Life — Nightmares](https://www.last.fm/music/Easy+Life/_/Nightmares)
-* [Rich Brian — Kitty](https://www.last.fm/music/Rich+Brian/_/Kitty)<!-- LASTFM:END -->
+* [TWICE — DON’T CALL ME AGAIN](https://www.last.fm/music/TWICE/_/DON%E2%80%99T+CALL+ME+AGAIN)
+* [TWICE — HANDLE IT](https://www.last.fm/music/TWICE/_/HANDLE+IT)
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
+* [TWICE — Feel Special](https://www.last.fm/music/TWICE/_/Feel+Special)
+* [TWICE — Heart Shaker - Japanese ver.](https://www.last.fm/music/TWICE/_/Heart+Shaker+-+Japanese+ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
