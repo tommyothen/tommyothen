@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — WOW](https://www.last.fm/music/TWICE/_/WOW)
+* [TWICE — Be as ONE - Korean Version](https://www.last.fm/music/TWICE/_/Be+as+ONE+-+Korean+Version)
 * [TWICE — LOVE LINE](https://www.last.fm/music/TWICE/_/LOVE+LINE)
 * [TWICE — DING DONG](https://www.last.fm/music/TWICE/_/DING+DONG)
-* [TWICE — TRICK IT](https://www.last.fm/music/TWICE/_/TRICK+IT)
-* [TWICE — Candy Boy](https://www.last.fm/music/TWICE/_/Candy+Boy)
-* [TWICE — WAKE ME UP](https://www.last.fm/music/TWICE/_/WAKE+ME+UP)<!-- LASTFM:END -->
+* [TWICE — TRICK IT](https://www.last.fm/music/TWICE/_/TRICK+IT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
