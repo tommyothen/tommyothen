@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
-* [TWICE — Do It Again](https://www.last.fm/music/TWICE/_/Do+It+Again)
-* [TWICE — Pit-a-Pat](https://www.last.fm/music/TWICE/_/Pit-a-Pat)
-* [TWICE — MORE & MORE](https://www.last.fm/music/TWICE/_/MORE+&+MORE)
-* [TWICE — L.O.V.E](https://www.last.fm/music/TWICE/_/L.O.V.E)<!-- LASTFM:END -->
+* [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)
+* [MAX — Blueberry Eyes (feat. SUGA of BTS)](https://www.last.fm/music/MAX/_/Blueberry+Eyes+(feat.+SUGA+of+BTS))
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
+* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
