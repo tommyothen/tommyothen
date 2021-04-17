@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — WAKE ME UP](https://www.last.fm/music/TWICE/_/WAKE+ME+UP)
+* [TWICE — RAINBOW](https://www.last.fm/music/TWICE/_/RAINBOW)
+* [TWICE — JALJAYO GOOD NIGHT](https://www.last.fm/music/TWICE/_/JALJAYO+GOOD+NIGHT)
 * [TWICE — Dance The Night Away - Japanese ver.](https://www.last.fm/music/TWICE/_/Dance+The+Night+Away+-+Japanese+ver.)
-* [TWICE — 1 to 10](https://www.last.fm/music/TWICE/_/1+to+10)
-* [TWICE — CHILLAX](https://www.last.fm/music/TWICE/_/CHILLAX)
-* [TWICE — SAY YOU LOVE ME](https://www.last.fm/music/TWICE/_/SAY+YOU+LOVE+ME)
-* [TWICE — DON’T CALL ME AGAIN](https://www.last.fm/music/TWICE/_/DON%E2%80%99T+CALL+ME+AGAIN)<!-- LASTFM:END -->
+* [TWICE — 1 to 10](https://www.last.fm/music/TWICE/_/1+to+10)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
