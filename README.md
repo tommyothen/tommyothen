@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — LOVE LINE](https://www.last.fm/music/TWICE/_/LOVE+LINE)
+* [TWICE — DING DONG](https://www.last.fm/music/TWICE/_/DING+DONG)
 * [TWICE — TRICK IT](https://www.last.fm/music/TWICE/_/TRICK+IT)
 * [TWICE — Candy Boy](https://www.last.fm/music/TWICE/_/Candy+Boy)
-* [TWICE — WAKE ME UP](https://www.last.fm/music/TWICE/_/WAKE+ME+UP)
-* [TWICE — RAINBOW](https://www.last.fm/music/TWICE/_/RAINBOW)
-* [TWICE — JALJAYO GOOD NIGHT](https://www.last.fm/music/TWICE/_/JALJAYO+GOOD+NIGHT)<!-- LASTFM:END -->
+* [TWICE — WAKE ME UP](https://www.last.fm/music/TWICE/_/WAKE+ME+UP)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
