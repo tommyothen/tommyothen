@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [zach farache — lets just stay here](https://www.last.fm/music/zach+farache/_/lets+just+stay+here)
 * [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
 * [Kazuo — ICHIBAN](https://www.last.fm/music/Kazuo/_/ICHIBAN)
 * [Eevee — that real good](https://www.last.fm/music/Eevee/_/that+real+good)
-* [Riot — Overkill](https://www.last.fm/music/Riot/_/Overkill)
-* [EarthGang — Meditate (feat. J.I.D.)](https://www.last.fm/music/EarthGang/_/Meditate+(feat.+J.I.D.))<!-- LASTFM:END -->
+* [Riot — Overkill](https://www.last.fm/music/Riot/_/Overkill)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
