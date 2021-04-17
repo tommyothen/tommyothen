@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TWICE — DON’T CALL ME AGAIN](https://www.last.fm/music/TWICE/_/DON%E2%80%99T+CALL+ME+AGAIN)
-* [TWICE — HANDLE IT](https://www.last.fm/music/TWICE/_/HANDLE+IT)
-* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [TWICE — Feel Special](https://www.last.fm/music/TWICE/_/Feel+Special)
-* [TWICE — Heart Shaker - Japanese ver.](https://www.last.fm/music/TWICE/_/Heart+Shaker+-+Japanese+ver.)<!-- LASTFM:END -->
+* [TWICE — Dance The Night Away - Japanese ver.](https://www.last.fm/music/TWICE/_/Dance+The+Night+Away+-+Japanese+ver.)
+* [TWICE — 1 to 10](https://www.last.fm/music/TWICE/_/1+to+10)
+* [TWICE — CHILLAX](https://www.last.fm/music/TWICE/_/CHILLAX)
+* [TWICE — SAY YOU LOVE ME](https://www.last.fm/music/TWICE/_/SAY+YOU+LOVE+ME)
+* [TWICE — DON’T CALL ME AGAIN](https://www.last.fm/music/TWICE/_/DON%E2%80%99T+CALL+ME+AGAIN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
