@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [The Million — Somebody Better](https://www.last.fm/music/The+Million/_/Somebody+Better)
-* [シベール (Vo. Maika Loubte) — La ballade](https://www.last.fm/music/%E3%82%B7%E3%83%99%E3%83%BC%E3%83%AB+(Vo.+Maika+Loubte)/_/La+ballade)
-* [Michelle — THE BOTTOM](https://www.last.fm/music/Michelle/_/THE+BOTTOM)
-* [Ichika — I](https://www.last.fm/music/Ichika/_/I)
-* [Essenger — Eyes Closed](https://www.last.fm/music/Essenger/_/Eyes+Closed)<!-- LASTFM:END -->
+* [Flaws — break away](https://www.last.fm/music/Flaws/_/break+away)
+* [Asyndeton — Ascending Heaven](https://www.last.fm/music/Asyndeton/_/Ascending+Heaven)
+* [NICK PROSPER — Lips Like Lemonade](https://www.last.fm/music/NICK+PROSPER/_/Lips+Like+Lemonade)
+* [Yameii Online — Friday Night Basement](https://www.last.fm/music/Yameii+Online/_/Friday+Night+Basement)
+* [Peter France — 420-666-6969](https://www.last.fm/music/Peter+France/_/420-666-6969)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
