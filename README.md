@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JYOCHO — ユークリッド](https://www.last.fm/music/JYOCHO/_/%E3%83%A6%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%83%E3%83%89)
 * [PRXZM — Let Me Fall](https://www.last.fm/music/PRXZM/_/Let+Me+Fall)
 * [焚吐 — ナンバーツー](https://www.last.fm/music/%E7%84%9A%E5%90%90/_/%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%84%E3%83%BC)
 * [Byemilo — Bleep Freestyle](https://www.last.fm/music/Byemilo/_/Bleep+Freestyle)
-* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
-* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)<!-- LASTFM:END -->
+* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
