@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [慎惠仁 — Same Here](https://www.last.fm/music/%E6%85%8E%E6%83%A0%E4%BB%81/_/Same+Here)
+* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)
 * [Flavors — Next to You](https://www.last.fm/music/Flavors/_/Next+to+You)
 * [Johnny Manchild and the Poor Bastards — You Want a Song](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/You+Want+a+Song)
-* [Life After Youth — beetlejuicebeetlejuicebeetlejuice](https://www.last.fm/music/Life+After+Youth/_/beetlejuicebeetlejuicebeetlejuice)
-* [JYOCHO — ユークリッド](https://www.last.fm/music/JYOCHO/_/%E3%83%A6%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%83%E3%83%89)
-* [焚吐 — ナンバーツー](https://www.last.fm/music/%E7%84%9A%E5%90%90/_/%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%84%E3%83%BC)<!-- LASTFM:END -->
+* [Life After Youth — beetlejuicebeetlejuicebeetlejuice](https://www.last.fm/music/Life+After+Youth/_/beetlejuicebeetlejuicebeetlejuice)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
