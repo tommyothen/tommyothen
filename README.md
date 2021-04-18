@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Adventurer — Solstice](https://www.last.fm/music/Adventurer/_/Solstice)
-* [The Million — Somebody Better](https://www.last.fm/music/The+Million/_/Somebody+Better)
-* [シベール (Vo. Maika Loubte) — La ballade](https://www.last.fm/music/%E3%82%B7%E3%83%99%E3%83%BC%E3%83%AB+(Vo.+Maika+Loubte)/_/La+ballade)
-* [Michelle — THE BOTTOM](https://www.last.fm/music/Michelle/_/THE+BOTTOM)
-* [Ichika — I](https://www.last.fm/music/Ichika/_/I)<!-- LASTFM:END -->
+* [NICK PROSPER — Lips Like Lemonade](https://www.last.fm/music/NICK+PROSPER/_/Lips+Like+Lemonade)
+* [Yameii Online — Friday Night Basement](https://www.last.fm/music/Yameii+Online/_/Friday+Night+Basement)
+* [Peter France — 420-666-6969](https://www.last.fm/music/Peter+France/_/420-666-6969)
+* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)
+* [Adventurer — Solstice](https://www.last.fm/music/Adventurer/_/Solstice)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
