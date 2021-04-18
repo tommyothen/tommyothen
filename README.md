@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ichika — I](https://www.last.fm/music/Ichika/_/I)
+* [Essenger — Eyes Closed](https://www.last.fm/music/Essenger/_/Eyes+Closed)
 * [PREACHERVAN — Cinematic](https://www.last.fm/music/PREACHERVAN/_/Cinematic)
 * [FrankJavCee — I Love Hating You](https://www.last.fm/music/FrankJavCee/_/I+Love+Hating+You)
-* [Mob Rich — Just Mine](https://www.last.fm/music/Mob+Rich/_/Just+Mine)
-* [Sokoninaru — 少女の音色に導かれ](https://www.last.fm/music/Sokoninaru/_/%E5%B0%91%E5%A5%B3%E3%81%AE%E9%9F%B3%E8%89%B2%E3%81%AB%E5%B0%8E%E3%81%8B%E3%82%8C)
-* [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)<!-- LASTFM:END -->
+* [Mob Rich — Just Mine](https://www.last.fm/music/Mob+Rich/_/Just+Mine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
