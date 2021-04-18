@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [シベール (Vo. Maika Loubte) — La ballade](https://www.last.fm/music/%E3%82%B7%E3%83%99%E3%83%BC%E3%83%AB+(Vo.+Maika+Loubte)/_/La+ballade)
+* [Michelle — THE BOTTOM](https://www.last.fm/music/Michelle/_/THE+BOTTOM)
 * [Ichika — I](https://www.last.fm/music/Ichika/_/I)
 * [Essenger — Eyes Closed](https://www.last.fm/music/Essenger/_/Eyes+Closed)
-* [PREACHERVAN — Cinematic](https://www.last.fm/music/PREACHERVAN/_/Cinematic)
-* [FrankJavCee — I Love Hating You](https://www.last.fm/music/FrankJavCee/_/I+Love+Hating+You)
-* [Mob Rich — Just Mine](https://www.last.fm/music/Mob+Rich/_/Just+Mine)<!-- LASTFM:END -->
+* [PREACHERVAN — Cinematic](https://www.last.fm/music/PREACHERVAN/_/Cinematic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
