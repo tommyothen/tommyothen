@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [慎惠仁 — Same Here](https://www.last.fm/music/%E6%85%8E%E6%83%A0%E4%BB%81/_/Same+Here)
+* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)
 * [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
 * [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
-* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)
-* [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
-* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)<!-- LASTFM:END -->
+* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
