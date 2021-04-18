@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Flaws — break away](https://www.last.fm/music/Flaws/_/break+away)
-* [Asyndeton — Ascending Heaven](https://www.last.fm/music/Asyndeton/_/Ascending+Heaven)
-* [NICK PROSPER — Lips Like Lemonade](https://www.last.fm/music/NICK+PROSPER/_/Lips+Like+Lemonade)
-* [Yameii Online — Friday Night Basement](https://www.last.fm/music/Yameii+Online/_/Friday+Night+Basement)
-* [Peter France — 420-666-6969](https://www.last.fm/music/Peter+France/_/420-666-6969)<!-- LASTFM:END -->
+* [Byemilo — Bleep Freestyle](https://www.last.fm/music/Byemilo/_/Bleep+Freestyle)
+* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
+* [Flaws — break away](https://www.last.fm/music/Flaws/_/break+away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
