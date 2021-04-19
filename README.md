@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [美波 — カワキヲアメク](https://www.last.fm/music/%E7%BE%8E%E6%B3%A2/_/%E3%82%AB%E3%83%AF%E3%82%AD%E3%83%B2%E3%82%A2%E3%83%A1%E3%82%AF)
-* [Swum — Magic Ways](https://www.last.fm/music/Swum/_/Magic+Ways)
-* [Ben Beal — Bluebird](https://www.last.fm/music/Ben+Beal/_/Bluebird)
-* [Colin Royce — Jellyfish](https://www.last.fm/music/Colin+Royce/_/Jellyfish)
-* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)<!-- LASTFM:END -->
+* [The Ghost Club — Same Graves](https://www.last.fm/music/The+Ghost+Club/_/Same+Graves)
+* [Allie X — June Gloom](https://www.last.fm/music/Allie+X/_/June+Gloom)
+* [Cute Girls Doing Cute Things — Too Spicy](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/Too+Spicy)
+* [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)
+* [美波 — カワキヲアメク](https://www.last.fm/music/%E7%BE%8E%E6%B3%A2/_/%E3%82%AB%E3%83%AF%E3%82%AD%E3%83%B2%E3%82%A2%E3%83%A1%E3%82%AF)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
