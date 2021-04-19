@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ericdoa — witchcraft](https://www.last.fm/music/ericdoa/_/witchcraft)
-* [Dylan Brady — I'll Make You Miss Me All The Time](https://www.last.fm/music/Dylan+Brady/_/I%27ll+Make+You+Miss+Me+All+The+Time)
-* [Underscores — feather](https://www.last.fm/music/Underscores/_/feather)
-* [dltzk — homeswitcher](https://www.last.fm/music/dltzk/_/homeswitcher)
-* [Glaive — eyesore](https://www.last.fm/music/Glaive/_/eyesore)<!-- LASTFM:END -->
+* [Moore Kismet — You Should Run](https://www.last.fm/music/Moore+Kismet/_/You+Should+Run)
+* [maxime. — friends /‎ wasted](https://www.last.fm/music/maxime./_/friends+%2F%E2%80%8E+wasted)
+* [Underscores — Spoiled little brat](https://www.last.fm/music/Underscores/_/Spoiled+little+brat)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Flaws — break away](https://www.last.fm/music/Flaws/_/break+away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
