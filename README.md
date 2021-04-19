@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Starbuck — Mist](https://www.last.fm/music/Starbuck/_/Mist)
 * [Bin — children](https://www.last.fm/music/Bin/_/children)
 * [Hail Your Highness — Parallel](https://www.last.fm/music/Hail+Your+Highness/_/Parallel)
 * [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
-* [The Ghost Club — Same Graves](https://www.last.fm/music/The+Ghost+Club/_/Same+Graves)
-* [Allie X — June Gloom](https://www.last.fm/music/Allie+X/_/June+Gloom)<!-- LASTFM:END -->
+* [The Ghost Club — Same Graves](https://www.last.fm/music/The+Ghost+Club/_/Same+Graves)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
