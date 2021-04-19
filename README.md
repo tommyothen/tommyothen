@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
+* [Natsumiii — Last Cup of Coffee Cover](https://www.last.fm/music/Natsumiii/_/Last+Cup+of+Coffee+Cover)
+* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
 * [Moore Kismet — You Should Run](https://www.last.fm/music/Moore+Kismet/_/You+Should+Run)
-* [maxime. — friends /‎ wasted](https://www.last.fm/music/maxime./_/friends+%2F%E2%80%8E+wasted)
-* [Underscores — Spoiled little brat](https://www.last.fm/music/Underscores/_/Spoiled+little+brat)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Flaws — break away](https://www.last.fm/music/Flaws/_/break+away)<!-- LASTFM:END -->
+* [maxime. — friends /‎ wasted](https://www.last.fm/music/maxime./_/friends+%2F%E2%80%8E+wasted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
