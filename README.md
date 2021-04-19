@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
+* [Underscores — moniker](https://www.last.fm/music/Underscores/_/moniker)
+* [Tennyson — Body Language (feat. Aloe Blacc)](https://www.last.fm/music/Tennyson/_/Body+Language+(feat.+Aloe+Blacc))
 * [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)
-* [Knapsack — Nothing Less](https://www.last.fm/music/Knapsack/_/Nothing+Less)
-* [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)
-* [aNTOJE — Your Money Sucks](https://www.last.fm/music/aNTOJE/_/Your+Money+Sucks)
-* [Vickeblanka — Black Rover - city raven remix](https://www.last.fm/music/Vickeblanka/_/Black+Rover+-+city+raven+remix)<!-- LASTFM:END -->
+* [Knapsack — Nothing Less](https://www.last.fm/music/Knapsack/_/Nothing+Less)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
