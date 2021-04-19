@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [acloudyskye — A Drowning Cry](https://www.last.fm/music/acloudyskye/_/A+Drowning+Cry)
+* [Underscores — regulate you](https://www.last.fm/music/Underscores/_/regulate+you)
+* [Dylan Brady — Key Of C](https://www.last.fm/music/Dylan+Brady/_/Key+Of+C)
 * [blackwinterwells — IRIS](https://www.last.fm/music/blackwinterwells/_/IRIS)
-* [Glaive — touché](https://www.last.fm/music/Glaive/_/touch%C3%A9)
-* [Aldn — redeyes](https://www.last.fm/music/Aldn/_/redeyes)
-* [Chuck Sutton — Rosetta](https://www.last.fm/music/Chuck+Sutton/_/Rosetta)
-* [JKuch — Data Loss](https://www.last.fm/music/JKuch/_/Data+Loss)<!-- LASTFM:END -->
+* [Glaive — touché](https://www.last.fm/music/Glaive/_/touch%C3%A9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
