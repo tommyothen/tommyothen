@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bin — children](https://www.last.fm/music/Bin/_/children)
+* [Hail Your Highness — Parallel](https://www.last.fm/music/Hail+Your+Highness/_/Parallel)
 * [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
 * [The Ghost Club — Same Graves](https://www.last.fm/music/The+Ghost+Club/_/Same+Graves)
-* [Allie X — June Gloom](https://www.last.fm/music/Allie+X/_/June+Gloom)
-* [Cute Girls Doing Cute Things — Too Spicy](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/Too+Spicy)
-* [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)<!-- LASTFM:END -->
+* [Allie X — June Gloom](https://www.last.fm/music/Allie+X/_/June+Gloom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
