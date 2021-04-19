@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)
+* [Knapsack — Nothing Less](https://www.last.fm/music/Knapsack/_/Nothing+Less)
+* [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)
 * [aNTOJE — Your Money Sucks](https://www.last.fm/music/aNTOJE/_/Your+Money+Sucks)
-* [Vickeblanka — Black Rover - city raven remix](https://www.last.fm/music/Vickeblanka/_/Black+Rover+-+city+raven+remix)
-* [Feign — UPSIDE DOWN](https://www.last.fm/music/Feign/_/UPSIDE+DOWN)
-* [Hideyoshi — Insomnia](https://www.last.fm/music/Hideyoshi/_/Insomnia)
-* [Salina Killa — Mile High](https://www.last.fm/music/Salina+Killa/_/Mile+High)<!-- LASTFM:END -->
+* [Vickeblanka — Black Rover - city raven remix](https://www.last.fm/music/Vickeblanka/_/Black+Rover+-+city+raven+remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
