@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Guardin — creature - Sawce Remix](https://www.last.fm/music/Guardin/_/creature+-+Sawce+Remix)
-* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
-* [nothing,nowhere. — blood (feat. KennyHoopla & JUDGE)](https://www.last.fm/music/nothing,nowhere./_/blood+(feat.+KennyHoopla+&+JUDGE))
-* [Life of Hojj — Monday 월요일](https://www.last.fm/music/Life+of+Hojj/_/Monday+%EC%9B%94%EC%9A%94%EC%9D%BC)
-* [slowthai — CANCELLED (feat. Skepta)](https://www.last.fm/music/slowthai/_/CANCELLED+(feat.+Skepta))<!-- LASTFM:END -->
+* [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)
+* [TWICE — FAKE & TRUE](https://www.last.fm/music/TWICE/_/FAKE+&+TRUE)
+* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
+* [Billy Marchiafava — Disco Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Disco+Type+Beat)
+* [TWICE — SIGNAL - Japanese ver.](https://www.last.fm/music/TWICE/_/SIGNAL+-+Japanese+ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
