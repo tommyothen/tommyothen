@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
-* [Yungtown — Late Night Thoughts](https://www.last.fm/music/Yungtown/_/Late+Night+Thoughts)
-* [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)
-* [Pendulum — Self vs Self (feat. In Flames)](https://www.last.fm/music/Pendulum/_/Self+vs+Self+(feat.+In+Flames))
-* [Tate McRae — you broke me first - Luca Schreiner Remix](https://www.last.fm/music/Tate+McRae/_/you+broke+me+first+-+Luca+Schreiner+Remix)<!-- LASTFM:END -->
+* [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)
+* [Dreamville — Under the Sun (with J. Cole & Lute feat. DaBaby)](https://www.last.fm/music/Dreamville/_/Under+the+Sun+(with+J.+Cole+&+Lute+feat.+DaBaby))
+* [Rich Brian — 100 Degrees](https://www.last.fm/music/Rich+Brian/_/100+Degrees)
+* [88Rising — Indigo](https://www.last.fm/music/88Rising/_/Indigo)
+* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
