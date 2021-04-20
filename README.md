@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
-* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
-* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [Psyqui — 就寝御礼](https://www.last.fm/music/Psyqui/_/%E5%B0%B1%E5%AF%9D%E5%BE%A1%E7%A4%BC)
-* [Osvaldorio — Lotus](https://www.last.fm/music/Osvaldorio/_/Lotus)<!-- LASTFM:END -->
+* [brakence — dropout (w/ blackbear)](https://www.last.fm/music/brakence/_/dropout+(w%2F+blackbear))
+* [Trails — Learn to Love Me](https://www.last.fm/music/Trails/_/Learn+to+Love+Me)
+* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
+* [Egg — Putting a Spin on Sweater Weather](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Sweater+Weather)
+* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
