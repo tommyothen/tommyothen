@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Verzache — Losing My Love](https://www.last.fm/music/Verzache/_/Losing+My+Love)
+* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
 * [brakence — sauceintherough - bonus track](https://www.last.fm/music/brakence/_/sauceintherough+-+bonus+track)
 * [Guardin — i think you're really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)
-* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)<!-- LASTFM:END -->
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
