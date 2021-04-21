@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
+* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
 * [ilyTOMMY — Tunnel of Love - Remix](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love+-+Remix)
 * [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)
-* [Dreamville — Under the Sun (with J. Cole & Lute feat. DaBaby)](https://www.last.fm/music/Dreamville/_/Under+the+Sun+(with+J.+Cole+&+Lute+feat.+DaBaby))
-* [Rich Brian — 100 Degrees](https://www.last.fm/music/Rich+Brian/_/100+Degrees)
-* [88Rising — Indigo](https://www.last.fm/music/88Rising/_/Indigo)<!-- LASTFM:END -->
+* [Dreamville — Under the Sun (with J. Cole & Lute feat. DaBaby)](https://www.last.fm/music/Dreamville/_/Under+the+Sun+(with+J.+Cole+&+Lute+feat.+DaBaby))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
