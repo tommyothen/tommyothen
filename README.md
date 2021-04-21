@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)
 * [Chrmng, — Are You Lying to Your Therapist About Being Sober Again? Yes.](https://www.last.fm/music/Chrmng,/_/Are+You+Lying+to+Your+Therapist+About+Being+Sober+Again%3F+Yes.)
 * [Glass Beach — cold weather](https://www.last.fm/music/Glass+Beach/_/cold+weather)
 * [Colliding With Mars — THE DREAMCATCHER](https://www.last.fm/music/Colliding+With+Mars/_/THE+DREAMCATCHER)
-* [brakence — fwb](https://www.last.fm/music/brakence/_/fwb)
-* [Hi, I'm Chris — Pineapple Soda](https://www.last.fm/music/Hi,+I%27m+Chris/_/Pineapple+Soda)<!-- LASTFM:END -->
+* [brakence — fwb](https://www.last.fm/music/brakence/_/fwb)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
