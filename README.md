@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Ark Patrol — Hex](https://www.last.fm/music/Ark+Patrol/_/Hex)
-* [199X — Gillette](https://www.last.fm/music/199X/_/Gillette)
-* [Dbmk — Rot](https://www.last.fm/music/Dbmk/_/Rot)<!-- LASTFM:END -->
+* [brakence — sauceintherough - bonus track](https://www.last.fm/music/brakence/_/sauceintherough+-+bonus+track)
+* [Guardin — i think you're really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
