@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Guardin — alive](https://www.last.fm/music/Guardin/_/alive)
+* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
+* [Colliding With Mars — how to stop feeling inadequate](https://www.last.fm/music/Colliding+With+Mars/_/how+to+stop+feeling+inadequate)
 * [Lil Aaron — DRUGS](https://www.last.fm/music/Lil+Aaron/_/DRUGS)
-* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)
-* [Dbmk — Rot](https://www.last.fm/music/Dbmk/_/Rot)
-* [Sawyer Nunes — Opening](https://www.last.fm/music/Sawyer+Nunes/_/Opening)
-* [Colliding With Mars — the cutest girl in hell](https://www.last.fm/music/Colliding+With+Mars/_/the+cutest+girl+in+hell)<!-- LASTFM:END -->
+* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
