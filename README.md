@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ark Patrol — Hex](https://www.last.fm/music/Ark+Patrol/_/Hex)
 * [199X — Gillette](https://www.last.fm/music/199X/_/Gillette)
 * [Dbmk — Rot](https://www.last.fm/music/Dbmk/_/Rot)
 * [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
-* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)
-* [Noel — LOOPHOLE](https://www.last.fm/music/Noel/_/LOOPHOLE)<!-- LASTFM:END -->
+* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
