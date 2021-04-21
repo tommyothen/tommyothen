@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Colliding With Mars — the cutest girl in hell](https://www.last.fm/music/Colliding+With+Mars/_/the+cutest+girl+in+hell)
+* [brakence — fuckboy](https://www.last.fm/music/brakence/_/fuckboy)
+* [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
 * [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)
-* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)
-* [Verzache — Losing My Love](https://www.last.fm/music/Verzache/_/Losing+My+Love)
-* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
-* [brakence — sauceintherough - bonus track](https://www.last.fm/music/brakence/_/sauceintherough+-+bonus+track)<!-- LASTFM:END -->
+* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
