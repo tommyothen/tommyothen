@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [khai dreams — Summer is Like a Dream](https://www.last.fm/music/khai+dreams/_/Summer+is+Like+a+Dream)
-* [Keepitinside — No Sleep](https://www.last.fm/music/Keepitinside/_/No+Sleep)
-* [slowthai — terms (feat. Dominic Fike & Denzel Curry)](https://www.last.fm/music/slowthai/_/terms+(feat.+Dominic+Fike+&+Denzel+Curry))
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
-* [Shiggy Jr. — oyasumi](https://www.last.fm/music/Shiggy+Jr./_/oyasumi)<!-- LASTFM:END -->
+* [Suburban — Go Go +](https://www.last.fm/music/Suburban/_/Go+Go+%252B)
+* [Niki — move!](https://www.last.fm/music/Niki/_/move!)
+* [XYLØ — ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)
+* [Hobo Johnson — Uglykid (feat. Elohim)](https://www.last.fm/music/Hobo+Johnson/_/Uglykid+(feat.+Elohim))
+* [khai dreams — Summer is Like a Dream](https://www.last.fm/music/khai+dreams/_/Summer+is+Like+a+Dream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
