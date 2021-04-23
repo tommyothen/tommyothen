@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
 * [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
-* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
-* [Tyler, The Creator — PEACH FUZZ](https://www.last.fm/music/Tyler,+The+Creator/_/PEACH+FUZZ)
-* [Earl Sweatshirt — Riot!](https://www.last.fm/music/Earl+Sweatshirt/_/Riot!)
-* [Duckwrth — MICHUUL.](https://www.last.fm/music/Duckwrth/_/MICHUUL.)<!-- LASTFM:END -->
+* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
