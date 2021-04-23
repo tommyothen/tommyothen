@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
-* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
-* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
-* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)
-* [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)<!-- LASTFM:END -->
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
+* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
+* [Tyler, The Creator — PEACH FUZZ](https://www.last.fm/music/Tyler,+The+Creator/_/PEACH+FUZZ)
+* [Earl Sweatshirt — Riot!](https://www.last.fm/music/Earl+Sweatshirt/_/Riot!)
+* [Duckwrth — MICHUUL.](https://www.last.fm/music/Duckwrth/_/MICHUUL.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
