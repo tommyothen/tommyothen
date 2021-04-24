@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
+* [JOOBIS — Extra](https://www.last.fm/music/JOOBIS/_/Extra)
 * [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)<!-- LASTFM:END -->
+* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
