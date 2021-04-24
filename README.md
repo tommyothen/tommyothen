@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Swum — Magic Ways](https://www.last.fm/music/Swum/_/Magic+Ways)
-* [Ben Beal — Bluebird](https://www.last.fm/music/Ben+Beal/_/Bluebird)
-* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
 * [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
+* [Swum — Magic Ways](https://www.last.fm/music/Swum/_/Magic+Ways)
+* [Ben Beal — Bluebird](https://www.last.fm/music/Ben+Beal/_/Bluebird)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
