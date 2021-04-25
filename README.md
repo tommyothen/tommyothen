@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Abhi The Nomad — Sex n' Drugs](https://www.last.fm/music/Abhi+The+Nomad/_/Sex+n%27+Drugs)
+* [Bren Joy — Sweet (feat. Landon Sears)](https://www.last.fm/music/Bren+Joy/_/Sweet+(feat.+Landon+Sears))
 * [Duckwrth — Super Bounce](https://www.last.fm/music/Duckwrth/_/Super+Bounce)
 * [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
-* [Call Me Karizma — Rebels](https://www.last.fm/music/Call+Me+Karizma/_/Rebels)
-* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))<!-- LASTFM:END -->
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
