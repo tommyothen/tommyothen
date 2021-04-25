@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Pendulum — Self vs Self (feat. In Flames)](https://www.last.fm/music/Pendulum/_/Self+vs+Self+(feat.+In+Flames))
-* [Tate McRae — you broke me first - Luca Schreiner Remix](https://www.last.fm/music/Tate+McRae/_/you+broke+me+first+-+Luca+Schreiner+Remix)
-* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)
-* [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
-* [Su Lee — Cocoa Butter Kisses](https://www.last.fm/music/Su+Lee/_/Cocoa+Butter+Kisses)<!-- LASTFM:END -->
+* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)
+* [Unlike Pluto — Revenge, And a Little More](https://www.last.fm/music/Unlike+Pluto/_/Revenge,+And+a+Little+More)
+* [Geoxor — Abandoned](https://www.last.fm/music/Geoxor/_/Abandoned)
+* [L.Dre — Across the Country](https://www.last.fm/music/L.Dre/_/Across+the+Country)
+* [Yungtown — Late Night Thoughts](https://www.last.fm/music/Yungtown/_/Late+Night+Thoughts)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
