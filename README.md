@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kamiyada+ — 3 AM](https://www.last.fm/music/Kamiyada%252B/_/3+AM)
+* [Grandma — Bested](https://www.last.fm/music/Grandma/_/Bested)
+* [Puppet — Living in It](https://www.last.fm/music/Puppet/_/Living+in+It)
 * [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
-* [BIM — Non Fiction feat. No Buses](https://www.last.fm/music/BIM/_/Non+Fiction+feat.+No+Buses)
-* [ReptileLegit — No One Wants to Keep You](https://www.last.fm/music/ReptileLegit/_/No+One+Wants+to+Keep+You)
-* [Lubalin — long txts](https://www.last.fm/music/Lubalin/_/long+txts)
-* [stargaze shelter — emulation (mode:totonee)](https://www.last.fm/music/stargaze+shelter/_/emulation+(mode:totonee))<!-- LASTFM:END -->
+* [BIM — Non Fiction feat. No Buses](https://www.last.fm/music/BIM/_/Non+Fiction+feat.+No+Buses)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
