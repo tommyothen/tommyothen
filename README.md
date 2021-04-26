@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Young Lungs — '97 Leo 2](https://www.last.fm/music/Young+Lungs/_/%2797+Leo+2)
-* [Pendulum — Self vs Self (feat. In Flames)](https://www.last.fm/music/Pendulum/_/Self+vs+Self+(feat.+In+Flames))
-* [Samsa — solo](https://www.last.fm/music/Samsa/_/solo)
-* [Colliding With Mars — Mental Breakdown In Slow Motion](https://www.last.fm/music/Colliding+With+Mars/_/Mental+Breakdown+In+Slow+Motion)
-* [Joji — Bitter Fuck](https://www.last.fm/music/Joji/_/Bitter+Fuck)<!-- LASTFM:END -->
+* [Zanuda — Папиросы](https://www.last.fm/music/Zanuda/_/%D0%9F%D0%B0%D0%BF%D0%B8%D1%80%D0%BE%D1%81%D1%8B)
+* [Tices — Blacknwhite](https://www.last.fm/music/Tices/_/Blacknwhite)
+* [NF — Leave Me Alone](https://www.last.fm/music/NF/_/Leave+Me+Alone)
+* [eli filosov [ p h i l o ] — oneofone_rwrk](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/oneofone_rwrk)
+* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
