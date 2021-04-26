@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [knowmadic — Fade](https://www.last.fm/music/knowmadic/_/Fade)
-* [Eden — wonder](https://www.last.fm/music/Eden/_/wonder)
-* [Zanuda — Папиросы](https://www.last.fm/music/Zanuda/_/%D0%9F%D0%B0%D0%BF%D0%B8%D1%80%D0%BE%D1%81%D1%8B)
-* [Tices — Blacknwhite](https://www.last.fm/music/Tices/_/Blacknwhite)
-* [NF — Leave Me Alone](https://www.last.fm/music/NF/_/Leave+Me+Alone)<!-- LASTFM:END -->
+* [Unlike Pluto — JOLT](https://www.last.fm/music/Unlike+Pluto/_/JOLT)
+* [meltycanon — brittle (wake up)](https://www.last.fm/music/meltycanon/_/brittle+(wake+up))
+* [Rich Brian — See Me](https://www.last.fm/music/Rich+Brian/_/See+Me)
+* [TeddyLoid — Me!Me!Me!, Pt. 2](https://www.last.fm/music/TeddyLoid/_/Me!Me!Me!,+Pt.+2)
+* [knowmadic — Fade](https://www.last.fm/music/knowmadic/_/Fade)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
