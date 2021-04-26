@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Henry Young — Honestly](https://www.last.fm/music/Henry+Young/_/Honestly)
-* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
-* [Dresage — HOLY](https://www.last.fm/music/Dresage/_/HOLY)
-* [sohayl ryder — POSTMAN](https://www.last.fm/music/sohayl+ryder/_/POSTMAN)
-* [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)<!-- LASTFM:END -->
+* [Lubalin — long txts](https://www.last.fm/music/Lubalin/_/long+txts)
+* [stargaze shelter — emulation (mode:totonee)](https://www.last.fm/music/stargaze+shelter/_/emulation+(mode:totonee))
+* [Polkadot Stingray — ICHIDAIJI](https://www.last.fm/music/Polkadot+Stingray/_/ICHIDAIJI)
+* [Sixteenleo — Overdue](https://www.last.fm/music/Sixteenleo/_/Overdue)
+* [Henry Young — Honestly](https://www.last.fm/music/Henry+Young/_/Honestly)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
