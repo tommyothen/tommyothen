@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
+* [Jorja Smith — On My Mind (Jorja Smith X Preditah)](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+(Jorja+Smith+X+Preditah))
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
 * [GrafiC — Vagabond](https://www.last.fm/music/GrafiC/_/Vagabond)
-* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)
-* [ALASKALASKA — Happyface](https://www.last.fm/music/ALASKALASKA/_/Happyface)
-* [AAAMYYY — 屍を越えてゆけ](https://www.last.fm/music/AAAMYYY/_/%E5%B1%8D%E3%82%92%E8%B6%8A%E3%81%88%E3%81%A6%E3%82%86%E3%81%91)
-* [Orchards — Be Here](https://www.last.fm/music/Orchards/_/Be+Here)<!-- LASTFM:END -->
+* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
