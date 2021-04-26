@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)
-* [Autograf — Simple (feat. Victoria Zaro)](https://www.last.fm/music/Autograf/_/Simple+(feat.+Victoria+Zaro))
-* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
-* [Billie Eilish — you should see me in a crown](https://www.last.fm/music/Billie+Eilish/_/you+should+see+me+in+a+crown)
-* [Eden — sex](https://www.last.fm/music/Eden/_/sex)<!-- LASTFM:END -->
+* [420 UNLOVABLE — Wii Tennis](https://www.last.fm/music/420+UNLOVABLE/_/Wii+Tennis)
+* [Eden — love; not wrong (brave)](https://www.last.fm/music/Eden/_/love;+not+wrong+(brave))
+* [Shawn Wasabi — Squeez®](https://www.last.fm/music/Shawn+Wasabi/_/Squeez%C2%AE)
+* [Strawberry Station — Disco Queens](https://www.last.fm/music/Strawberry+Station/_/Disco+Queens)
+* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
