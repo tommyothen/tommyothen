@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [199X — Gillette](https://www.last.fm/music/199X/_/Gillette)
-* [TomppaBeats — like someone in love](https://www.last.fm/music/TomppaBeats/_/like+someone+in+love)
-* [knowmadic — spliff](https://www.last.fm/music/knowmadic/_/spliff)
-* [Tima Belorusskih — Я больше не напишу](https://www.last.fm/music/Tima+Belorusskih/_/%D0%AF+%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5+%D0%BD%D0%B5+%D0%BD%D0%B0%D0%BF%D0%B8%D1%88%D1%83)
-* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)<!-- LASTFM:END -->
+* [Billie Eilish — bellyache](https://www.last.fm/music/Billie+Eilish/_/bellyache)
+* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
+* [sophie meiers — Evil Presence](https://www.last.fm/music/sophie+meiers/_/Evil+Presence)
+* [Chance the Rapper — Same Drugs](https://www.last.fm/music/Chance+the+Rapper/_/Same+Drugs)
+* [Rich Brian — Attention (feat. Offset)](https://www.last.fm/music/Rich+Brian/_/Attention+(feat.+Offset))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
