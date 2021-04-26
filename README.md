@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
-* [Oliver Tree — I'm Gone](https://www.last.fm/music/Oliver+Tree/_/I%27m+Gone)
-* [Billie Eilish — 8](https://www.last.fm/music/Billie+Eilish/_/8)
-* [Ryan Oakes — Drinking About You](https://www.last.fm/music/Ryan+Oakes/_/Drinking+About+You)
-* [Packy — Like This](https://www.last.fm/music/Packy/_/Like+This)<!-- LASTFM:END -->
+* [9 Gramm — Город дыма](https://www.last.fm/music/9+Gramm/_/%D0%93%D0%BE%D1%80%D0%BE%D0%B4+%D0%B4%D1%8B%D0%BC%D0%B0)
+* [Headhaunter — Engage Thrusters](https://www.last.fm/music/Headhaunter/_/Engage+Thrusters)
+* [o k h o — Espresso](https://www.last.fm/music/o+k+h+o/_/Espresso)
+* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))
+* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
