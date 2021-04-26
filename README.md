@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Autograf — Sleepless In NYC](https://www.last.fm/music/Autograf/_/Sleepless+In+NYC)
+* [The Deli — 5:32PM](https://www.last.fm/music/The+Deli/_/5:32PM)
+* [Kill Bill: The Rapper — sleeptalking](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/sleeptalking)
 * [Unlike Pluto — JOLT](https://www.last.fm/music/Unlike+Pluto/_/JOLT)
-* [meltycanon — brittle (wake up)](https://www.last.fm/music/meltycanon/_/brittle+(wake+up))
-* [Rich Brian — See Me](https://www.last.fm/music/Rich+Brian/_/See+Me)
-* [TeddyLoid — Me!Me!Me!, Pt. 2](https://www.last.fm/music/TeddyLoid/_/Me!Me!Me!,+Pt.+2)
-* [knowmadic — Fade](https://www.last.fm/music/knowmadic/_/Fade)<!-- LASTFM:END -->
+* [meltycanon — brittle (wake up)](https://www.last.fm/music/meltycanon/_/brittle+(wake+up))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
