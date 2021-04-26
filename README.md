@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
+* [Billie Eilish — you should see me in a crown](https://www.last.fm/music/Billie+Eilish/_/you+should+see+me+in+a+crown)
 * [Eden — sex](https://www.last.fm/music/Eden/_/sex)
 * [half•alive — The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall)
-* [Germ — Real Rap](https://www.last.fm/music/Germ/_/Real+Rap)
-* [9 Gramm — Город дыма](https://www.last.fm/music/9+Gramm/_/%D0%93%D0%BE%D1%80%D0%BE%D0%B4+%D0%B4%D1%8B%D0%BC%D0%B0)
-* [Headhaunter — Engage Thrusters](https://www.last.fm/music/Headhaunter/_/Engage+Thrusters)<!-- LASTFM:END -->
+* [Germ — Real Rap](https://www.last.fm/music/Germ/_/Real+Rap)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
