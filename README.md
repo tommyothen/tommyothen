@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
+* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
+* [Eden — float](https://www.last.fm/music/Eden/_/float)
 * [Jorja Smith — Blue Lights](https://www.last.fm/music/Jorja+Smith/_/Blue+Lights)
-* [Moe Shop — Baby Pink](https://www.last.fm/music/Moe+Shop/_/Baby+Pink)
-* [Awake The Rapper — out.of.this.world](https://www.last.fm/music/Awake+The+Rapper/_/out.of.this.world)
-* [420 UNLOVABLE — Wii Tennis](https://www.last.fm/music/420+UNLOVABLE/_/Wii+Tennis)
-* [Eden — love; not wrong (brave)](https://www.last.fm/music/Eden/_/love;+not+wrong+(brave))<!-- LASTFM:END -->
+* [Moe Shop — Baby Pink](https://www.last.fm/music/Moe+Shop/_/Baby+Pink)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
