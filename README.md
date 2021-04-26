@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)
+* [Autograf — Simple (feat. Victoria Zaro)](https://www.last.fm/music/Autograf/_/Simple+(feat.+Victoria+Zaro))
 * [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
 * [Billie Eilish — you should see me in a crown](https://www.last.fm/music/Billie+Eilish/_/you+should+see+me+in+a+crown)
-* [Eden — sex](https://www.last.fm/music/Eden/_/sex)
-* [half•alive — The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall)
-* [Germ — Real Rap](https://www.last.fm/music/Germ/_/Real+Rap)<!-- LASTFM:END -->
+* [Eden — sex](https://www.last.fm/music/Eden/_/sex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
