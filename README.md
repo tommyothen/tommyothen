@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rich Brian — Little Prince (feat. NIKI)](https://www.last.fm/music/Rich+Brian/_/Little+Prince+(feat.+NIKI))
-* [Arizona Zervas — Roxanne](https://www.last.fm/music/Arizona+Zervas/_/Roxanne)
-* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)
-* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
-* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)<!-- LASTFM:END -->
+* [199X — Gillette](https://www.last.fm/music/199X/_/Gillette)
+* [TomppaBeats — like someone in love](https://www.last.fm/music/TomppaBeats/_/like+someone+in+love)
+* [knowmadic — spliff](https://www.last.fm/music/knowmadic/_/spliff)
+* [Tima Belorusskih — Я больше не напишу](https://www.last.fm/music/Tima+Belorusskih/_/%D0%AF+%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5+%D0%BD%D0%B5+%D0%BD%D0%B0%D0%BF%D0%B8%D1%88%D1%83)
+* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
