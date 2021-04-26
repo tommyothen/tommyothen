@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
-* [Jorja Smith — On My Mind (Jorja Smith X Preditah)](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+(Jorja+Smith+X+Preditah))
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
-* [GrafiC — Vagabond](https://www.last.fm/music/GrafiC/_/Vagabond)
-* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)<!-- LASTFM:END -->
+* [Rich Brian — Little Prince (feat. NIKI)](https://www.last.fm/music/Rich+Brian/_/Little+Prince+(feat.+NIKI))
+* [Arizona Zervas — Roxanne](https://www.last.fm/music/Arizona+Zervas/_/Roxanne)
+* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)
+* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
+* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
