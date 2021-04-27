@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [LOONA/yyxy — love4eva (feat. Grimes)](https://www.last.fm/music/LOONA%2Fyyxy/_/love4eva+(feat.+Grimes))
-* [JunoFlo — Acid Freestyle](https://www.last.fm/music/JunoFlo/_/Acid+Freestyle)
-* [Sunmi — Black Pearl](https://www.last.fm/music/Sunmi/_/Black+Pearl)
-* [BLACKPINK — PLAYING WITH FIRE](https://www.last.fm/music/BLACKPINK/_/PLAYING+WITH+FIRE)
-* [Exo — Obsession](https://www.last.fm/music/Exo/_/Obsession)<!-- LASTFM:END -->
+* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
+* [Lexie Liu — Manta](https://www.last.fm/music/Lexie+Liu/_/Manta)
+* [Loona — Love Letter](https://www.last.fm/music/Loona/_/Love+Letter)
+* [Nive — Tired](https://www.last.fm/music/Nive/_/Tired)
+* [Henry — Monster - English Version](https://www.last.fm/music/Henry/_/Monster+-+English+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
