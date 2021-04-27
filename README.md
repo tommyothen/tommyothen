@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shofu — Tom Nook](https://www.last.fm/music/Shofu/_/Tom+Nook)
+* [MIA GLADSTONE — LONELYASFCK](https://www.last.fm/music/MIA+GLADSTONE/_/LONELYASFCK)
+* [MONKEY MAJIK — BLiNK](https://www.last.fm/music/MONKEY+MAJIK/_/BLiNK)
 * [Kamiyada+ — 3 AM](https://www.last.fm/music/Kamiyada%252B/_/3+AM)
-* [Grandma — Bested](https://www.last.fm/music/Grandma/_/Bested)
-* [Puppet — Living in It](https://www.last.fm/music/Puppet/_/Living+in+It)
-* [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
-* [BIM — Non Fiction feat. No Buses](https://www.last.fm/music/BIM/_/Non+Fiction+feat.+No+Buses)<!-- LASTFM:END -->
+* [Grandma — Bested](https://www.last.fm/music/Grandma/_/Bested)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
