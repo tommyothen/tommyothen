@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Somi — Outta My Head](https://www.last.fm/music/Somi/_/Outta+My+Head)
-* [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)
-* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
-* [Woosung — FACE](https://www.last.fm/music/Woosung/_/FACE)
-* [DEAN — instagram](https://www.last.fm/music/DEAN/_/instagram)<!-- LASTFM:END -->
+* [Tiffany Young — Run For Your Life](https://www.last.fm/music/Tiffany+Young/_/Run+For+Your+Life)
+* [TWICE — Feel Special](https://www.last.fm/music/TWICE/_/Feel+Special)
+* [Lolo Zouaï — Caffeine](https://www.last.fm/music/Lolo+Zoua%C3%AF/_/Caffeine)
+* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)
+* [Rina Sawayama — Who?](https://www.last.fm/music/Rina+Sawayama/_/Who%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
