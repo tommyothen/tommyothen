@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Red Velvet - IRENE & SEULGI — Monster](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Monster)
-* [K/DA — THE BADDEST](https://www.last.fm/music/K%2FDA/_/THE+BADDEST)
-* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
-* [MAMAMOO — HIP](https://www.last.fm/music/MAMAMOO/_/HIP)
-* [Loona — favOriTe](https://www.last.fm/music/Loona/_/favOriTe)<!-- LASTFM:END -->
+* [TWICE — Feel Special](https://www.last.fm/music/TWICE/_/Feel+Special)
+* [BLACKPINK — Love To Hate Me](https://www.last.fm/music/BLACKPINK/_/Love+To+Hate+Me)
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [(G)I-DLE — Oh My God](https://www.last.fm/music/(G)I-DLE/_/Oh+My+God)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
