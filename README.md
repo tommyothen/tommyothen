@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Heize — We don't talk together (Prod. by SUGA)](https://www.last.fm/music/Heize/_/We+don%27t+talk+together+(Prod.+by+SUGA))
-* [Ikon — LOVE SCENARIO](https://www.last.fm/music/Ikon/_/LOVE+SCENARIO)
-* [Weeekly — After School](https://www.last.fm/music/Weeekly/_/After+School)
-* [BLACKPINK — DDU-DU DDU-DU](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU)
-* [88Rising — Midsummer Madness](https://www.last.fm/music/88Rising/_/Midsummer+Madness)<!-- LASTFM:END -->
+* [LOONA/yyxy — love4eva (feat. Grimes)](https://www.last.fm/music/LOONA%2Fyyxy/_/love4eva+(feat.+Grimes))
+* [JunoFlo — Acid Freestyle](https://www.last.fm/music/JunoFlo/_/Acid+Freestyle)
+* [Sunmi — Black Pearl](https://www.last.fm/music/Sunmi/_/Black+Pearl)
+* [BLACKPINK — PLAYING WITH FIRE](https://www.last.fm/music/BLACKPINK/_/PLAYING+WITH+FIRE)
+* [Exo — Obsession](https://www.last.fm/music/Exo/_/Obsession)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
