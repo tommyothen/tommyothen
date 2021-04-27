@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bibi — NABI](https://www.last.fm/music/Bibi/_/NABI)
+* [Kitty Purrnaz — cry.](https://www.last.fm/music/Kitty+Purrnaz/_/cry.)
+* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
 * [Loona — Butterfly](https://www.last.fm/music/Loona/_/Butterfly)
-* [Jay Park — K-TOWN](https://www.last.fm/music/Jay+Park/_/K-TOWN)
-* [BLACKPINK — Crazy Over You](https://www.last.fm/music/BLACKPINK/_/Crazy+Over+You)
-* [Sulli — Goblin](https://www.last.fm/music/Sulli/_/Goblin)
-* [DEAN — Breath](https://www.last.fm/music/DEAN/_/Breath)<!-- LASTFM:END -->
+* [Jay Park — K-TOWN](https://www.last.fm/music/Jay+Park/_/K-TOWN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
