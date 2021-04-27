@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Love Cherry Motion](https://www.last.fm/music/Loona/_/Love+Cherry+Motion)
+* [Nafla — Under the Ground (feat. Dean)](https://www.last.fm/music/Nafla/_/Under+the+Ground+(feat.+Dean))
+* [88Rising — Indigo](https://www.last.fm/music/88Rising/_/Indigo)
 * [Slayyyter — Hello Kitty](https://www.last.fm/music/Slayyyter/_/Hello+Kitty)
-* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
-* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
-* [Loona — Egoist (Olivia Hye)](https://www.last.fm/music/Loona/_/Egoist+(Olivia+Hye))
-* [LOOΠΔ / ODD EYE CIRCLE — Sweet Crazy Love](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Sweet+Crazy+Love)<!-- LASTFM:END -->
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
