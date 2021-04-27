@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
-* [Loona — Number 1](https://www.last.fm/music/Loona/_/Number+1)
-* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
-* [BLACKPINK — Ice Cream (with Selena Gomez)](https://www.last.fm/music/BLACKPINK/_/Ice+Cream+(with+Selena+Gomez))
-* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)<!-- LASTFM:END -->
+* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
+* [BLACKPINK — Bet You Wanna (feat. Cardi B)](https://www.last.fm/music/BLACKPINK/_/Bet+You+Wanna+(feat.+Cardi+B))
+* [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
+* [Shaun — Way Back Home (feat. Conor Maynard) - Sam Feldt Edit](https://www.last.fm/music/Shaun/_/Way+Back+Home+(feat.+Conor+Maynard)+-+Sam+Feldt+Edit)
+* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
