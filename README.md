@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)
-* [ALASKALASKA — Happyface](https://www.last.fm/music/ALASKALASKA/_/Happyface)
-* [AAAMYYY — 屍を越えてゆけ](https://www.last.fm/music/AAAMYYY/_/%E5%B1%8D%E3%82%92%E8%B6%8A%E3%81%88%E3%81%A6%E3%82%86%E3%81%91)
-* [Orchards — Be Here](https://www.last.fm/music/Orchards/_/Be+Here)
-* [Shinigami — stranger](https://www.last.fm/music/Shinigami/_/stranger)<!-- LASTFM:END -->
+* [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
+* [GrafiC — Vagabond](https://www.last.fm/music/GrafiC/_/Vagabond)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
