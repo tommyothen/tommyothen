@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
 * [Autograf — Sleepless In NYC](https://www.last.fm/music/Autograf/_/Sleepless+In+NYC)
 * [The Deli — 5:32PM](https://www.last.fm/music/The+Deli/_/5:32PM)
-* [Kill Bill: The Rapper — sleeptalking](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/sleeptalking)
-* [Unlike Pluto — JOLT](https://www.last.fm/music/Unlike+Pluto/_/JOLT)
-* [meltycanon — brittle (wake up)](https://www.last.fm/music/meltycanon/_/brittle+(wake+up))<!-- LASTFM:END -->
+* [Kill Bill: The Rapper — sleeptalking](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/sleeptalking)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
