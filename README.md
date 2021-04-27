@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
-* [Loona — 키스는 다음에](https://www.last.fm/music/Loona/_/%ED%82%A4%EC%8A%A4%EB%8A%94+%EB%8B%A4%EC%9D%8C%EC%97%90)
-* [Red Velvet — Psycho](https://www.last.fm/music/Red+Velvet/_/Psycho)
-* [DPR IAN — zombie pop](https://www.last.fm/music/DPR+IAN/_/zombie+pop)
-* [Hojean — Let Me](https://www.last.fm/music/Hojean/_/Let+Me)<!-- LASTFM:END -->
+* [Somi — Outta My Head](https://www.last.fm/music/Somi/_/Outta+My+Head)
+* [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)
+* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
+* [Woosung — FACE](https://www.last.fm/music/Woosung/_/FACE)
+* [DEAN — instagram](https://www.last.fm/music/DEAN/_/instagram)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
