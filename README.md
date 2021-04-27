@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tiffany Young — Run For Your Life](https://www.last.fm/music/Tiffany+Young/_/Run+For+Your+Life)
-* [TWICE — Feel Special](https://www.last.fm/music/TWICE/_/Feel+Special)
-* [Lolo Zouaï — Caffeine](https://www.last.fm/music/Lolo+Zoua%C3%AF/_/Caffeine)
-* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)
-* [Rina Sawayama — Who?](https://www.last.fm/music/Rina+Sawayama/_/Who%3F)<!-- LASTFM:END -->
+* [Heize — We don't talk together (Prod. by SUGA)](https://www.last.fm/music/Heize/_/We+don%27t+talk+together+(Prod.+by+SUGA))
+* [Ikon — LOVE SCENARIO](https://www.last.fm/music/Ikon/_/LOVE+SCENARIO)
+* [Weeekly — After School](https://www.last.fm/music/Weeekly/_/After+School)
+* [BLACKPINK — DDU-DU DDU-DU](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU)
+* [88Rising — Midsummer Madness](https://www.last.fm/music/88Rising/_/Midsummer+Madness)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
