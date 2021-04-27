@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NCT U — Make A Wish (Birthday Song)](https://www.last.fm/music/NCT+U/_/Make+A+Wish+(Birthday+Song))
+* [Hwa Sa — Maria](https://www.last.fm/music/Hwa+Sa/_/Maria)
 * [ITZY — CHERRY](https://www.last.fm/music/ITZY/_/CHERRY)
 * [Audrey Nuna — Comic Sans](https://www.last.fm/music/Audrey+Nuna/_/Comic+Sans)
-* [K/DA — I'LL SHOW YOU](https://www.last.fm/music/K%2FDA/_/I%27LL+SHOW+YOU)
-* [ZICO — Daredevil (Feat. Jvcki Wai, Yumdda)](https://www.last.fm/music/ZICO/_/Daredevil+(Feat.+Jvcki+Wai,+Yumdda))
-* [LAY — 蓮](https://www.last.fm/music/LAY/_/%E8%93%AE)<!-- LASTFM:END -->
+* [K/DA — I'LL SHOW YOU](https://www.last.fm/music/K%2FDA/_/I%27LL+SHOW+YOU)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
