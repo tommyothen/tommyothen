@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
+* [Loona — Number 1](https://www.last.fm/music/Loona/_/Number+1)
+* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
 * [BLACKPINK — Ice Cream (with Selena Gomez)](https://www.last.fm/music/BLACKPINK/_/Ice+Cream+(with+Selena+Gomez))
-* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
-* [Red Velvet — 러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)
-* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
-* [BewhY — DAMM GUT](https://www.last.fm/music/BewhY/_/DAMM+GUT)<!-- LASTFM:END -->
+* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
