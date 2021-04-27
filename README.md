@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
-* [Lexie Liu — Manta](https://www.last.fm/music/Lexie+Liu/_/Manta)
-* [Loona — Love Letter](https://www.last.fm/music/Loona/_/Love+Letter)
-* [Nive — Tired](https://www.last.fm/music/Nive/_/Tired)
-* [Henry — Monster - English Version](https://www.last.fm/music/Henry/_/Monster+-+English+Version)<!-- LASTFM:END -->
+* [LAY — 蓮](https://www.last.fm/music/LAY/_/%E8%93%AE)
+* [Chanmina — Doctor](https://www.last.fm/music/Chanmina/_/Doctor)
+* [(G)I-DLE — Oh my god - English Version](https://www.last.fm/music/(G)I-DLE/_/Oh+my+god+-+English+Version)
+* [Dumbfoundead — WASHED (PROD. BY SHAWN WASABI)](https://www.last.fm/music/Dumbfoundead/_/WASHED+(PROD.+BY+SHAWN+WASABI))
+* [LOOΠΔ / ODD EYE CIRCLE — Loonatic Eng. Ver.](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Loonatic+Eng.+Ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
