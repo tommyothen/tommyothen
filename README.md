@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [stargaze shelter — emulation (mode:totonee)](https://www.last.fm/music/stargaze+shelter/_/emulation+(mode:totonee))
-* [Polkadot Stingray — ICHIDAIJI](https://www.last.fm/music/Polkadot+Stingray/_/ICHIDAIJI)
-* [Sixteenleo — Overdue](https://www.last.fm/music/Sixteenleo/_/Overdue)
-* [Henry Young — Honestly](https://www.last.fm/music/Henry+Young/_/Honestly)
-* [Madge — Headshot](https://www.last.fm/music/Madge/_/Headshot)<!-- LASTFM:END -->
+* [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
+* [BIM — Non Fiction feat. No Buses](https://www.last.fm/music/BIM/_/Non+Fiction+feat.+No+Buses)
+* [ReptileLegit — No One Wants to Keep You](https://www.last.fm/music/ReptileLegit/_/No+One+Wants+to+Keep+You)
+* [Lubalin — long txts](https://www.last.fm/music/Lubalin/_/long+txts)
+* [stargaze shelter — emulation (mode:totonee)](https://www.last.fm/music/stargaze+shelter/_/emulation+(mode:totonee))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
