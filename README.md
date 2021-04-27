@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
-* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
-* [ITZY — WANNABE](https://www.last.fm/music/ITZY/_/WANNABE)
-* [Hojean — Memory](https://www.last.fm/music/Hojean/_/Memory)
-* [Loona — Eclipse](https://www.last.fm/music/Loona/_/Eclipse)<!-- LASTFM:END -->
+* [K/DA — THE BADDEST](https://www.last.fm/music/K%2FDA/_/THE+BADDEST)
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
+* [MAMAMOO — HIP](https://www.last.fm/music/MAMAMOO/_/HIP)
+* [Loona — favOriTe](https://www.last.fm/music/Loona/_/favOriTe)
+* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
