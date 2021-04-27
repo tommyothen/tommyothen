@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
-* [BLACKPINK — Bet You Wanna (feat. Cardi B)](https://www.last.fm/music/BLACKPINK/_/Bet+You+Wanna+(feat.+Cardi+B))
-* [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
-* [Shaun — Way Back Home (feat. Conor Maynard) - Sam Feldt Edit](https://www.last.fm/music/Shaun/_/Way+Back+Home+(feat.+Conor+Maynard)+-+Sam+Feldt+Edit)
-* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)<!-- LASTFM:END -->
+* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
+* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
+* [ITZY — WANNABE](https://www.last.fm/music/ITZY/_/WANNABE)
+* [Hojean — Memory](https://www.last.fm/music/Hojean/_/Memory)
+* [Loona — Eclipse](https://www.last.fm/music/Loona/_/Eclipse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
