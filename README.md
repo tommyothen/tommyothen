@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
 * [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
-* [GrafiC — Vagabond](https://www.last.fm/music/GrafiC/_/Vagabond)<!-- LASTFM:END -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
