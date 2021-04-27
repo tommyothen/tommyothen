@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [K/DA — I'LL SHOW YOU](https://www.last.fm/music/K%2FDA/_/I%27LL+SHOW+YOU)
+* [ZICO — Daredevil (Feat. Jvcki Wai, Yumdda)](https://www.last.fm/music/ZICO/_/Daredevil+(Feat.+Jvcki+Wai,+Yumdda))
 * [LAY — 蓮](https://www.last.fm/music/LAY/_/%E8%93%AE)
 * [Chanmina — Doctor](https://www.last.fm/music/Chanmina/_/Doctor)
-* [(G)I-DLE — Oh my god - English Version](https://www.last.fm/music/(G)I-DLE/_/Oh+my+god+-+English+Version)
-* [Dumbfoundead — WASHED (PROD. BY SHAWN WASABI)](https://www.last.fm/music/Dumbfoundead/_/WASHED+(PROD.+BY+SHAWN+WASABI))
-* [LOOΠΔ / ODD EYE CIRCLE — Loonatic Eng. Ver.](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Loonatic+Eng.+Ver.)<!-- LASTFM:END -->
+* [(G)I-DLE — Oh my god - English Version](https://www.last.fm/music/(G)I-DLE/_/Oh+my+god+-+English+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
