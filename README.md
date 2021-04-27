@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TWICE — Feel Special](https://www.last.fm/music/TWICE/_/Feel+Special)
-* [BLACKPINK — Love To Hate Me](https://www.last.fm/music/BLACKPINK/_/Love+To+Hate+Me)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [(G)I-DLE — Oh My God](https://www.last.fm/music/(G)I-DLE/_/Oh+My+God)<!-- LASTFM:END -->
+* [Sulli — Goblin](https://www.last.fm/music/Sulli/_/Goblin)
+* [DEAN — Breath](https://www.last.fm/music/DEAN/_/Breath)
+* [MAX — Blueberry Eyes (feat. SUGA of BTS)](https://www.last.fm/music/MAX/_/Blueberry+Eyes+(feat.+SUGA+of+BTS))
+* [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))
+* [TWICE — Feel Special](https://www.last.fm/music/TWICE/_/Feel+Special)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
