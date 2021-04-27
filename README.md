@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [sohayl ryder — POSTMAN](https://www.last.fm/music/sohayl+ryder/_/POSTMAN)
+* [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
+* [LCYTN — Ride](https://www.last.fm/music/LCYTN/_/Ride)
 * [Koutei Camera Girl Drei — Spree](https://www.last.fm/music/Koutei+Camera+Girl+Drei/_/Spree)
-* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)
-* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)
-* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)
-* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)<!-- LASTFM:END -->
+* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
