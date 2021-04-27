@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ITZY — CHERRY](https://www.last.fm/music/ITZY/_/CHERRY)
+* [Audrey Nuna — Comic Sans](https://www.last.fm/music/Audrey+Nuna/_/Comic+Sans)
 * [K/DA — I'LL SHOW YOU](https://www.last.fm/music/K%2FDA/_/I%27LL+SHOW+YOU)
 * [ZICO — Daredevil (Feat. Jvcki Wai, Yumdda)](https://www.last.fm/music/ZICO/_/Daredevil+(Feat.+Jvcki+Wai,+Yumdda))
-* [LAY — 蓮](https://www.last.fm/music/LAY/_/%E8%93%AE)
-* [Chanmina — Doctor](https://www.last.fm/music/Chanmina/_/Doctor)
-* [(G)I-DLE — Oh my god - English Version](https://www.last.fm/music/(G)I-DLE/_/Oh+my+god+-+English+Version)<!-- LASTFM:END -->
+* [LAY — 蓮](https://www.last.fm/music/LAY/_/%E8%93%AE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
