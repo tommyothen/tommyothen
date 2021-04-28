@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
+* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
 * [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
-* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
-* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
-* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))<!-- LASTFM:END -->
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
