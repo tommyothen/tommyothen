@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MOMOLAND — I’m So Hot](https://www.last.fm/music/MOMOLAND/_/I%E2%80%99m+So+Hot)
+* [NCT DREAM — Don’t Need Your Love](https://www.last.fm/music/NCT+DREAM/_/Don%E2%80%99t+Need+Your+Love)
 * [Wonder Girls — Why So Lonely](https://www.last.fm/music/Wonder+Girls/_/Why+So+Lonely)
 * [Stella Jang — Villain](https://www.last.fm/music/Stella+Jang/_/Villain)
-* [LAY — 蓮](https://www.last.fm/music/LAY/_/%E8%93%AE)
-* [GOT7 — Breath](https://www.last.fm/music/GOT7/_/Breath)
-* [Loona — Singing In The Rain](https://www.last.fm/music/Loona/_/Singing+In+The+Rain)<!-- LASTFM:END -->
+* [LAY — 蓮](https://www.last.fm/music/LAY/_/%E8%93%AE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
