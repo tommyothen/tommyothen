@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Suggi — uwu](https://www.last.fm/music/Suggi/_/uwu)
+* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)
+* [DEAN — instagram](https://www.last.fm/music/DEAN/_/instagram)
 * [Loona — Eclipse](https://www.last.fm/music/Loona/_/Eclipse)
-* [BLACKPINK — Don't Know What To Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+To+Do)
-* [Katie — Remember](https://www.last.fm/music/Katie/_/Remember)
-* [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)<!-- LASTFM:END -->
+* [BLACKPINK — Don't Know What To Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+To+Do)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
