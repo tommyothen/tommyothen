@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
+* [NCT — Baby Don’t Stop](https://www.last.fm/music/NCT/_/Baby+Don%E2%80%99t+Stop)
+* [Rina Sawayama — Cherry](https://www.last.fm/music/Rina+Sawayama/_/Cherry)
 * [TOMORROW X TOGETHER — Can't You See Me?](https://www.last.fm/music/TOMORROW+X+TOGETHER/_/Can%27t+You+See+Me%3F)
-* [CLC — BLACK DRESS](https://www.last.fm/music/CLC/_/BLACK+DRESS)
-* [Loona — Why Not?](https://www.last.fm/music/Loona/_/Why+Not%3F)
-* [DAY6 — Zombie - English Ver.](https://www.last.fm/music/DAY6/_/Zombie+-+English+Ver.)
-* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))<!-- LASTFM:END -->
+* [CLC — BLACK DRESS](https://www.last.fm/music/CLC/_/BLACK+DRESS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
