@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))
-* [GFRIEND — Apple](https://www.last.fm/music/GFRIEND/_/Apple)
-* [DPR LIVE — Action!](https://www.last.fm/music/DPR+LIVE/_/Action!)
-* [WayV — Love Talk](https://www.last.fm/music/WayV/_/Love+Talk)
-* [TOMORROW X TOGETHER — Our Summer](https://www.last.fm/music/TOMORROW+X+TOGETHER/_/Our+Summer)<!-- LASTFM:END -->
+* [TOMORROW X TOGETHER — Can't You See Me?](https://www.last.fm/music/TOMORROW+X+TOGETHER/_/Can%27t+You+See+Me%3F)
+* [CLC — BLACK DRESS](https://www.last.fm/music/CLC/_/BLACK+DRESS)
+* [Loona — Why Not?](https://www.last.fm/music/Loona/_/Why+Not%3F)
+* [DAY6 — Zombie - English Ver.](https://www.last.fm/music/DAY6/_/Zombie+-+English+Ver.)
+* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
