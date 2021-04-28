@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Gaho — Pink Walk](https://www.last.fm/music/Gaho/_/Pink+Walk)
-* [Suran — WINE (Feat.Changmo) (Prod. SUGA)](https://www.last.fm/music/Suran/_/WINE+(Feat.Changmo)+(Prod.+SUGA))
-* [(G)I-DLE — Uh-Oh](https://www.last.fm/music/(G)I-DLE/_/Uh-Oh)
-* [Hwa Sa — TWIT](https://www.last.fm/music/Hwa+Sa/_/TWIT)
-* [DPR LIVE — Martini Blue](https://www.last.fm/music/DPR+LIVE/_/Martini+Blue)<!-- LASTFM:END -->
+* [Sunmi — LALALAY 날라리](https://www.last.fm/music/Sunmi/_/LALALAY+%EB%82%A0%EB%9D%BC%EB%A6%AC)
+* [Rina Sawayama — Comme des Garçons (Like the Boys)](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+(Like+the+Boys))
+* [ITZY — ICY](https://www.last.fm/music/ITZY/_/ICY)
+* [Exo — Tempo](https://www.last.fm/music/Exo/_/Tempo)
+* [Gaho — Pink Walk](https://www.last.fm/music/Gaho/_/Pink+Walk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
