@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DAY6 — Chocolate](https://www.last.fm/music/DAY6/_/Chocolate)
+* [SUNMI — pporappippam 보라빛 밤](https://www.last.fm/music/SUNMI/_/pporappippam+%EB%B3%B4%EB%9D%BC%EB%B9%9B+%EB%B0%A4)
+* [dosii — fairy of shampoo](https://www.last.fm/music/dosii/_/fairy+of+shampoo)
 * [Cosmic Boy — Can I Love ? (feat. youra, Meego)](https://www.last.fm/music/Cosmic+Boy/_/Can+I+Love+%3F+(feat.+youra,+Meego))
-* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)
-* [April — Oh! my mistake](https://www.last.fm/music/April/_/Oh!+my+mistake)
-* [Sunmi — Noir 누아르](https://www.last.fm/music/Sunmi/_/Noir+%EB%88%84%EC%95%84%EB%A5%B4)
-* [Tabber — Honey!](https://www.last.fm/music/Tabber/_/Honey!)<!-- LASTFM:END -->
+* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
