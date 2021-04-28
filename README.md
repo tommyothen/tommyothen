@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Stylish](https://www.last.fm/music/Loona/_/Stylish)
-* [BLACKPINK — DDU-DU DDU-DU](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU)
-* [NCT 127 — Highway to Heaven - English Version](https://www.last.fm/music/NCT+127/_/Highway+to+Heaven+-+English+Version)
-* [Dress — hug & kiss](https://www.last.fm/music/Dress/_/hug+&+kiss)
-* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)<!-- LASTFM:END -->
+* [Sunmi — Black Pearl](https://www.last.fm/music/Sunmi/_/Black+Pearl)
+* [Tiffany Young — Run For Your Life](https://www.last.fm/music/Tiffany+Young/_/Run+For+Your+Life)
+* [Hojean — Memory](https://www.last.fm/music/Hojean/_/Memory)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [Loona — Stylish](https://www.last.fm/music/Loona/_/Stylish)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
