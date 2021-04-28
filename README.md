@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Butterfly](https://www.last.fm/music/Loona/_/Butterfly)
+* [BLACKPINK — Pretty Savage](https://www.last.fm/music/BLACKPINK/_/Pretty+Savage)
+* [LOOΠΔ / ODD EYE CIRCLE — Girl Front](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Girl+Front)
 * [Suggi — uwu](https://www.last.fm/music/Suggi/_/uwu)
-* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)
-* [DEAN — instagram](https://www.last.fm/music/DEAN/_/instagram)
-* [Loona — Eclipse](https://www.last.fm/music/Loona/_/Eclipse)
-* [BLACKPINK — Don't Know What To Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+To+Do)<!-- LASTFM:END -->
+* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
