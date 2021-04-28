@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
+* [Loona — One & Only (Go Won)](https://www.last.fm/music/Loona/_/One+&+Only+(Go+Won))
+* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
 * [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
-* [BAEKHYUN — UN Village](https://www.last.fm/music/BAEKHYUN/_/UN+Village)
-* [Yukika — Cherries Jubiles](https://www.last.fm/music/Yukika/_/Cherries+Jubiles)
-* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)
-* [Jvcki Wai — Fadeaway](https://www.last.fm/music/Jvcki+Wai/_/Fadeaway)<!-- LASTFM:END -->
+* [BAEKHYUN — UN Village](https://www.last.fm/music/BAEKHYUN/_/UN+Village)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
