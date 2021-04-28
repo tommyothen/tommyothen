@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jvcki Wai — Fadeaway](https://www.last.fm/music/Jvcki+Wai/_/Fadeaway)
+* [TAEMIN — WANT](https://www.last.fm/music/TAEMIN/_/WANT)
 * [Bloo — Nae tat](https://www.last.fm/music/Bloo/_/Nae+tat)
 * [ITZY — SURF](https://www.last.fm/music/ITZY/_/SURF)
-* [CLC — No](https://www.last.fm/music/CLC/_/No)
-* [Stray Kids — My Pace](https://www.last.fm/music/Stray+Kids/_/My+Pace)
-* [MONSTA X — WHO DO U LOVE? (feat. French Montana)](https://www.last.fm/music/MONSTA+X/_/WHO+DO+U+LOVE%3F+(feat.+French+Montana))<!-- LASTFM:END -->
+* [CLC — No](https://www.last.fm/music/CLC/_/No)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
