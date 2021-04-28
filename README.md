@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ITZY — TING TING TING (with Oliver Heldens)](https://www.last.fm/music/ITZY/_/TING+TING+TING+(with+Oliver+Heldens))
-* [TOMORROW X TOGETHER — CROWN](https://www.last.fm/music/TOMORROW+X+TOGETHER/_/CROWN)
-* [WayV — Love Talk - English Version](https://www.last.fm/music/WayV/_/Love+Talk+-+English+Version)
-* [Keshi — like i need u](https://www.last.fm/music/Keshi/_/like+i+need+u)
-* [Sunmi — LALALAY 날라리](https://www.last.fm/music/Sunmi/_/LALALAY+%EB%82%A0%EB%9D%BC%EB%A6%AC)<!-- LASTFM:END -->
+* [Stray Kids — My Pace](https://www.last.fm/music/Stray+Kids/_/My+Pace)
+* [MONSTA X — WHO DO U LOVE? (feat. French Montana)](https://www.last.fm/music/MONSTA+X/_/WHO+DO+U+LOVE%3F+(feat.+French+Montana))
+* [ONEWE — Q (feat. Hwa Sa)](https://www.last.fm/music/ONEWE/_/Q+(feat.+Hwa+Sa))
+* [Bobby — U MAD](https://www.last.fm/music/Bobby/_/U+MAD)
+* [ITZY — TING TING TING (with Oliver Heldens)](https://www.last.fm/music/ITZY/_/TING+TING+TING+(with+Oliver+Heldens))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
