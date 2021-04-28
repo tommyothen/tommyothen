@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wonder Girls — Why So Lonely](https://www.last.fm/music/Wonder+Girls/_/Why+So+Lonely)
+* [Stella Jang — Villain](https://www.last.fm/music/Stella+Jang/_/Villain)
 * [LAY — 蓮](https://www.last.fm/music/LAY/_/%E8%93%AE)
 * [GOT7 — Breath](https://www.last.fm/music/GOT7/_/Breath)
-* [Loona — Singing In The Rain](https://www.last.fm/music/Loona/_/Singing+In+The+Rain)
-* [LOOΠΔ / ODD EYE CIRCLE — LOONATIC](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/LOONATIC)
-* [JONGHYUN — Moon](https://www.last.fm/music/JONGHYUN/_/Moon)<!-- LASTFM:END -->
+* [Loona — Singing In The Rain](https://www.last.fm/music/Loona/_/Singing+In+The+Rain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
