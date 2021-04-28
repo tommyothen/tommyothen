@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Keshi — 2 soon](https://www.last.fm/music/Keshi/_/2+soon)
-* [Loona — Number 1](https://www.last.fm/music/Loona/_/Number+1)
-* [BLACKPINK — Love To Hate Me](https://www.last.fm/music/BLACKPINK/_/Love+To+Hate+Me)
-* [Chanmina — Doctor](https://www.last.fm/music/Chanmina/_/Doctor)
-* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)<!-- LASTFM:END -->
+* [Loona — Stylish](https://www.last.fm/music/Loona/_/Stylish)
+* [BLACKPINK — DDU-DU DDU-DU](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU)
+* [NCT 127 — Highway to Heaven - English Version](https://www.last.fm/music/NCT+127/_/Highway+to+Heaven+-+English+Version)
+* [Dress — hug & kiss](https://www.last.fm/music/Dress/_/hug+&+kiss)
+* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
