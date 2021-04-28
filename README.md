@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
 * [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
 * [DEAN — Put My Hands On You](https://www.last.fm/music/DEAN/_/Put+My+Hands+On+You)
 * [BLACKPINK — DDU-DU DDU-DU - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU+-+JP+Ver.%2F+BLACKPINK+2019-2020+WORLD+TOUR+IN+YOUR+AREA+-TOKYO+DOME-)
-* [NCT U — Make A Wish (Birthday Song)](https://www.last.fm/music/NCT+U/_/Make+A+Wish+(Birthday+Song))
-* [Hwa Sa — Maria](https://www.last.fm/music/Hwa+Sa/_/Maria)<!-- LASTFM:END -->
+* [NCT U — Make A Wish (Birthday Song)](https://www.last.fm/music/NCT+U/_/Make+A+Wish+(Birthday+Song))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
