@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sunmi — Black Pearl](https://www.last.fm/music/Sunmi/_/Black+Pearl)
-* [Tiffany Young — Run For Your Life](https://www.last.fm/music/Tiffany+Young/_/Run+For+Your+Life)
-* [Hojean — Memory](https://www.last.fm/music/Hojean/_/Memory)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [Loona — Stylish](https://www.last.fm/music/Loona/_/Stylish)<!-- LASTFM:END -->
+* [Exo — Love Shot](https://www.last.fm/music/Exo/_/Love+Shot)
+* [GWSN — the Aerialist (Wonderboy)](https://www.last.fm/music/GWSN/_/the+Aerialist+(Wonderboy))
+* [Loona — 365](https://www.last.fm/music/Loona/_/365)
+* [Villain — Manitto](https://www.last.fm/music/Villain/_/Manitto)
+* [Sunmi — Black Pearl](https://www.last.fm/music/Sunmi/_/Black+Pearl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
