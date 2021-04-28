@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kennie — Northern Lights](https://www.last.fm/music/Kennie/_/Northern+Lights)
-* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
-* [Stella Jang — Villain](https://www.last.fm/music/Stella+Jang/_/Villain)
-* [HAN YO HAN — TO ALL THE FAKE RAPSTARS](https://www.last.fm/music/HAN+YO+HAN/_/TO+ALL+THE+FAKE+RAPSTARS)
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)<!-- LASTFM:END -->
+* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
+* [George — Boat](https://www.last.fm/music/George/_/Boat)
+* [K/DA — DRUM GO DUM](https://www.last.fm/music/K%2FDA/_/DRUM+GO+DUM)
+* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
+* [Kennie — Northern Lights](https://www.last.fm/music/Kennie/_/Northern+Lights)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
