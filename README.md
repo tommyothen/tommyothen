@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [offonoff — Cigarette (Feat. Tablo, MISO)](https://www.last.fm/music/offonoff/_/Cigarette+(Feat.+Tablo,+MISO))
-* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
-* [(G)I-DLE — Oh my god - English Version](https://www.last.fm/music/(G)I-DLE/_/Oh+my+god+-+English+Version)
-* [Loona — favOriTe](https://www.last.fm/music/Loona/_/favOriTe)
-* [BLACKPINK — Lovesick Girls](https://www.last.fm/music/BLACKPINK/_/Lovesick+Girls)<!-- LASTFM:END -->
+* [Agust D — Daechwita](https://www.last.fm/music/Agust+D/_/Daechwita)
+* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
+* [Nive — Tired](https://www.last.fm/music/Nive/_/Tired)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
