@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [DEAN — Howlin' 404](https://www.last.fm/music/DEAN/_/Howlin%27+404)
-* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
-* [Woosung — FACE](https://www.last.fm/music/Woosung/_/FACE)
-* [Bibi — KAZINO](https://www.last.fm/music/Bibi/_/KAZINO)
-* [Loona — Butterfly](https://www.last.fm/music/Loona/_/Butterfly)<!-- LASTFM:END -->
+* [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)
+* [K/DA — THE BADDEST](https://www.last.fm/music/K%2FDA/_/THE+BADDEST)
+* [DPR CREAM — Color Drive](https://www.last.fm/music/DPR+CREAM/_/Color+Drive)
+* [Shaun — Way Back Home (feat. Conor Maynard) - Sam Feldt Edit](https://www.last.fm/music/Shaun/_/Way+Back+Home+(feat.+Conor+Maynard)+-+Sam+Feldt+Edit)
+* [Loona — Satellite](https://www.last.fm/music/Loona/_/Satellite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
