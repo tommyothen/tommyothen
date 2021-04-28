@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Suggi — uwu](https://www.last.fm/music/Suggi/_/uwu)
-* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
-* [Loona — Satellite](https://www.last.fm/music/Loona/_/Satellite)
-* [Bloo — Downtown Baby](https://www.last.fm/music/Bloo/_/Downtown+Baby)
-* [TOMORROW X TOGETHER — Blue Hour](https://www.last.fm/music/TOMORROW+X+TOGETHER/_/Blue+Hour)<!-- LASTFM:END -->
+* [Tabber — Honey!](https://www.last.fm/music/Tabber/_/Honey!)
+* [Audrey Nuna — Time](https://www.last.fm/music/Audrey+Nuna/_/Time)
+* [DPR CREAM — Color Drive](https://www.last.fm/music/DPR+CREAM/_/Color+Drive)
+* [True Damage — GIANTS](https://www.last.fm/music/True+Damage/_/GIANTS)
+* [Suggi — uwu](https://www.last.fm/music/Suggi/_/uwu)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
