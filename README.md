@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Exo — Love Shot](https://www.last.fm/music/Exo/_/Love+Shot)
-* [GWSN — the Aerialist (Wonderboy)](https://www.last.fm/music/GWSN/_/the+Aerialist+(Wonderboy))
-* [Loona — 365](https://www.last.fm/music/Loona/_/365)
-* [Villain — Manitto](https://www.last.fm/music/Villain/_/Manitto)
-* [Sunmi — Black Pearl](https://www.last.fm/music/Sunmi/_/Black+Pearl)<!-- LASTFM:END -->
+* [Loona — 키스는 다음에](https://www.last.fm/music/Loona/_/%ED%82%A4%EC%8A%A4%EB%8A%94+%EB%8B%A4%EC%9D%8C%EC%97%90)
+* [punchnello — Absinthe (Prod. by 0channel, 2xxx!)](https://www.last.fm/music/punchnello/_/Absinthe+(Prod.+by+0channel,+2xxx!))
+* [CL — +HWA+](https://www.last.fm/music/CL/_/%252BHWA%252B)
+* [Rina Sawayama — Bad Friend](https://www.last.fm/music/Rina+Sawayama/_/Bad+Friend)
+* [Exo — Love Shot](https://www.last.fm/music/Exo/_/Love+Shot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
