@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TOMORROW X TOGETHER — Our Summer](https://www.last.fm/music/TOMORROW+X+TOGETHER/_/Our+Summer)
-* [HyunA — BABE](https://www.last.fm/music/HyunA/_/BABE)
-* [WOODZ — DIFFERENT](https://www.last.fm/music/WOODZ/_/DIFFERENT)
-* [88Rising — La La Lost You](https://www.last.fm/music/88Rising/_/La+La+Lost+You)
-* [Troye Sivan — Strawberries & Cigarettes](https://www.last.fm/music/Troye+Sivan/_/Strawberries+&+Cigarettes)<!-- LASTFM:END -->
+* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))
+* [GFRIEND — Apple](https://www.last.fm/music/GFRIEND/_/Apple)
+* [DPR LIVE — Action!](https://www.last.fm/music/DPR+LIVE/_/Action!)
+* [WayV — Love Talk](https://www.last.fm/music/WayV/_/Love+Talk)
+* [TOMORROW X TOGETHER — Our Summer](https://www.last.fm/music/TOMORROW+X+TOGETHER/_/Our+Summer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
