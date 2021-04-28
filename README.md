@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
 * [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
 * [(G)I-DLE — HANN (Alone)](https://www.last.fm/music/(G)I-DLE/_/HANN+(Alone))
 * [Rolling Quartz — BLAZE](https://www.last.fm/music/Rolling+Quartz/_/BLAZE)
-* [Loona — 소년, 소녀](https://www.last.fm/music/Loona/_/%EC%86%8C%EB%85%84,+%EC%86%8C%EB%85%80)
-* [Sulli — Goblin](https://www.last.fm/music/Sulli/_/Goblin)<!-- LASTFM:END -->
+* [Loona — 소년, 소녀](https://www.last.fm/music/Loona/_/%EC%86%8C%EB%85%84,+%EC%86%8C%EB%85%80)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
