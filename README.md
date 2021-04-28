@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yukika — Cherries Jubiles](https://www.last.fm/music/Yukika/_/Cherries+Jubiles)
+* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)
 * [Jvcki Wai — Fadeaway](https://www.last.fm/music/Jvcki+Wai/_/Fadeaway)
 * [TAEMIN — WANT](https://www.last.fm/music/TAEMIN/_/WANT)
-* [Bloo — Nae tat](https://www.last.fm/music/Bloo/_/Nae+tat)
-* [ITZY — SURF](https://www.last.fm/music/ITZY/_/SURF)
-* [CLC — No](https://www.last.fm/music/CLC/_/No)<!-- LASTFM:END -->
+* [Bloo — Nae tat](https://www.last.fm/music/Bloo/_/Nae+tat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
