@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)
-* [K/DA — THE BADDEST](https://www.last.fm/music/K%2FDA/_/THE+BADDEST)
-* [DPR CREAM — Color Drive](https://www.last.fm/music/DPR+CREAM/_/Color+Drive)
-* [Shaun — Way Back Home (feat. Conor Maynard) - Sam Feldt Edit](https://www.last.fm/music/Shaun/_/Way+Back+Home+(feat.+Conor+Maynard)+-+Sam+Feldt+Edit)
-* [Loona — Satellite](https://www.last.fm/music/Loona/_/Satellite)<!-- LASTFM:END -->
+* [BLACKPINK — PLAYING WITH FIRE](https://www.last.fm/music/BLACKPINK/_/PLAYING+WITH+FIRE)
+* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
+* [SUNMI — TAIL](https://www.last.fm/music/SUNMI/_/TAIL)
+* [Yukika — NEON](https://www.last.fm/music/Yukika/_/NEON)
+* [MOMOLAND — BBoom BBoom](https://www.last.fm/music/MOMOLAND/_/BBoom+BBoom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
