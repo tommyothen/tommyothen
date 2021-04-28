@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Keshi — B.Y.S.](https://www.last.fm/music/Keshi/_/B.Y.S.)
+* [Suggi — fuck u, goodluck.](https://www.last.fm/music/Suggi/_/fuck+u,+goodluck.)
+* [DEAN — Pour Up](https://www.last.fm/music/DEAN/_/Pour+Up)
 * [LADIES' CODE — The Rain](https://www.last.fm/music/LADIES%27+CODE/_/The+Rain)
-* [Cosmic Boy — Can I Love ? (feat. youra, Meego)](https://www.last.fm/music/Cosmic+Boy/_/Can+I+Love+%3F+(feat.+youra,+Meego))
-* [Loona — Oh (Yes I Am)](https://www.last.fm/music/Loona/_/Oh+(Yes+I+Am))
-* [brb. — do me right](https://www.last.fm/music/brb./_/do+me+right)
-* [Nive — Who I Am](https://www.last.fm/music/Nive/_/Who+I+Am)<!-- LASTFM:END -->
+* [Cosmic Boy — Can I Love ? (feat. youra, Meego)](https://www.last.fm/music/Cosmic+Boy/_/Can+I+Love+%3F+(feat.+youra,+Meego))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
