@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [K/DA — DRUM GO DUM](https://www.last.fm/music/K%2FDA/_/DRUM+GO+DUM)
+* [(G)I-DLE — Oh My God](https://www.last.fm/music/(G)I-DLE/_/Oh+My+God)
+* [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))
 * [MOMOLAND — I’m So Hot](https://www.last.fm/music/MOMOLAND/_/I%E2%80%99m+So+Hot)
-* [NCT DREAM — Don’t Need Your Love](https://www.last.fm/music/NCT+DREAM/_/Don%E2%80%99t+Need+Your+Love)
-* [Wonder Girls — Why So Lonely](https://www.last.fm/music/Wonder+Girls/_/Why+So+Lonely)
-* [Stella Jang — Villain](https://www.last.fm/music/Stella+Jang/_/Villain)
-* [LAY — 蓮](https://www.last.fm/music/LAY/_/%E8%93%AE)<!-- LASTFM:END -->
+* [NCT DREAM — Don’t Need Your Love](https://www.last.fm/music/NCT+DREAM/_/Don%E2%80%99t+Need+Your+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
