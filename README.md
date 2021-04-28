@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BLACKPINK — PLAYING WITH FIRE](https://www.last.fm/music/BLACKPINK/_/PLAYING+WITH+FIRE)
-* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
-* [SUNMI — TAIL](https://www.last.fm/music/SUNMI/_/TAIL)
-* [Yukika — NEON](https://www.last.fm/music/Yukika/_/NEON)
-* [MOMOLAND — BBoom BBoom](https://www.last.fm/music/MOMOLAND/_/BBoom+BBoom)<!-- LASTFM:END -->
+* [offonoff — Cigarette (Feat. Tablo, MISO)](https://www.last.fm/music/offonoff/_/Cigarette+(Feat.+Tablo,+MISO))
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
+* [(G)I-DLE — Oh my god - English Version](https://www.last.fm/music/(G)I-DLE/_/Oh+my+god+-+English+Version)
+* [Loona — favOriTe](https://www.last.fm/music/Loona/_/favOriTe)
+* [BLACKPINK — Lovesick Girls](https://www.last.fm/music/BLACKPINK/_/Lovesick+Girls)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
