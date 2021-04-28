@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)
+* [Rina Sawayama — Akasaka Sad](https://www.last.fm/music/Rina+Sawayama/_/Akasaka+Sad)
+* [Everglow — DUN DUN](https://www.last.fm/music/Everglow/_/DUN+DUN)
 * [Somi — What You Waiting For](https://www.last.fm/music/Somi/_/What+You+Waiting+For)
-* [YEZI — 미묘](https://www.last.fm/music/YEZI/_/%EB%AF%B8%EB%AC%98)
-* [DAY6 — Chocolate](https://www.last.fm/music/DAY6/_/Chocolate)
-* [SUNMI — pporappippam 보라빛 밤](https://www.last.fm/music/SUNMI/_/pporappippam+%EB%B3%B4%EB%9D%BC%EB%B9%9B+%EB%B0%A4)
-* [dosii — fairy of shampoo](https://www.last.fm/music/dosii/_/fairy+of+shampoo)<!-- LASTFM:END -->
+* [YEZI — 미묘](https://www.last.fm/music/YEZI/_/%EB%AF%B8%EB%AC%98)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
