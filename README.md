@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Agust D — Daechwita](https://www.last.fm/music/Agust+D/_/Daechwita)
-* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
-* [Nive — Tired](https://www.last.fm/music/Nive/_/Tired)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)<!-- LASTFM:END -->
+* [DEAN — love](https://www.last.fm/music/DEAN/_/love)
+* [dosii — lovememore.](https://www.last.fm/music/dosii/_/lovememore.)
+* [Loona — Colors](https://www.last.fm/music/Loona/_/Colors)
+* [BLACKPINK — Crazy Over You](https://www.last.fm/music/BLACKPINK/_/Crazy+Over+You)
+* [DAY6 — Chocolate](https://www.last.fm/music/DAY6/_/Chocolate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
