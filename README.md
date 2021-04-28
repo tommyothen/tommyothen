@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bloo — Downtown Baby](https://www.last.fm/music/Bloo/_/Downtown+Baby)
+* [TOMORROW X TOGETHER — Blue Hour](https://www.last.fm/music/TOMORROW+X+TOGETHER/_/Blue+Hour)
 * [SE SO NEON — Midnight Train 심야행](https://www.last.fm/music/SE+SO+NEON/_/Midnight+Train+%EC%8B%AC%EC%95%BC%ED%96%89)
 * [WOODZ — Pool](https://www.last.fm/music/WOODZ/_/Pool)
-* [Amber Liu — Other People](https://www.last.fm/music/Amber+Liu/_/Other+People)
-* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
-* [NCT — Baby Don’t Stop](https://www.last.fm/music/NCT/_/Baby+Don%E2%80%99t+Stop)<!-- LASTFM:END -->
+* [Amber Liu — Other People](https://www.last.fm/music/Amber+Liu/_/Other+People)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
