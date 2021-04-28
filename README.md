@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MAMAMOO — gogobebe](https://www.last.fm/music/MAMAMOO/_/gogobebe)
-* [SLCHLD — she likes spring, I prefer winter](https://www.last.fm/music/SLCHLD/_/she+likes+spring,+I+prefer+winter)
-* [Corbyn — Criminal](https://www.last.fm/music/Corbyn/_/Criminal)
-* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)
-* [Rina Sawayama — Akasaka Sad](https://www.last.fm/music/Rina+Sawayama/_/Akasaka+Sad)<!-- LASTFM:END -->
+* [Hwa Sa — TWIT](https://www.last.fm/music/Hwa+Sa/_/TWIT)
+* [DPR LIVE — Martini Blue](https://www.last.fm/music/DPR+LIVE/_/Martini+Blue)
+* [ITZY — WANNABE](https://www.last.fm/music/ITZY/_/WANNABE)
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
+* [Bibi — Dingo X BIBI - she got it](https://www.last.fm/music/Bibi/_/Dingo+X+BIBI+-+she+got+it)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
