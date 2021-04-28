@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MAMAMOO — gogobebe](https://www.last.fm/music/MAMAMOO/_/gogobebe)
+* [SLCHLD — she likes spring, I prefer winter](https://www.last.fm/music/SLCHLD/_/she+likes+spring,+I+prefer+winter)
+* [Corbyn — Criminal](https://www.last.fm/music/Corbyn/_/Criminal)
 * [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)
-* [Rina Sawayama — Akasaka Sad](https://www.last.fm/music/Rina+Sawayama/_/Akasaka+Sad)
-* [Everglow — DUN DUN](https://www.last.fm/music/Everglow/_/DUN+DUN)
-* [Somi — What You Waiting For](https://www.last.fm/music/Somi/_/What+You+Waiting+For)
-* [YEZI — 미묘](https://www.last.fm/music/YEZI/_/%EB%AF%B8%EB%AC%98)<!-- LASTFM:END -->
+* [Rina Sawayama — Akasaka Sad](https://www.last.fm/music/Rina+Sawayama/_/Akasaka+Sad)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
