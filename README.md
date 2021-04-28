@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — Feel Special](https://www.last.fm/music/TWICE/_/Feel+Special)
+* [Solar — SPIT IT OUT](https://www.last.fm/music/Solar/_/SPIT+IT+OUT)
 * [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
 * [Hojean — Pick Up Your Phone](https://www.last.fm/music/Hojean/_/Pick+Up+Your+Phone)
-* [Stray Kids — God’s Menu](https://www.last.fm/music/Stray+Kids/_/God%E2%80%99s+Menu)
-* [Exo — Love Shot](https://www.last.fm/music/Exo/_/Love+Shot)
-* [Agust D — give it to me](https://www.last.fm/music/Agust+D/_/give+it+to+me)<!-- LASTFM:END -->
+* [Stray Kids — God’s Menu](https://www.last.fm/music/Stray+Kids/_/God%E2%80%99s+Menu)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
