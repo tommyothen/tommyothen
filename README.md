@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [88Rising — La La Lost You](https://www.last.fm/music/88Rising/_/La+La+Lost+You)
 * [Troye Sivan — Strawberries & Cigarettes](https://www.last.fm/music/Troye+Sivan/_/Strawberries+&+Cigarettes)
 * [Dreamcatcher — And there was no one left](https://www.last.fm/music/Dreamcatcher/_/And+there+was+no+one+left)
 * [Alextbh — Between](https://www.last.fm/music/Alextbh/_/Between)
-* [TWICE — Feel Special](https://www.last.fm/music/TWICE/_/Feel+Special)
-* [Solar — SPIT IT OUT](https://www.last.fm/music/Solar/_/SPIT+IT+OUT)<!-- LASTFM:END -->
+* [TWICE — Feel Special](https://www.last.fm/music/TWICE/_/Feel+Special)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
