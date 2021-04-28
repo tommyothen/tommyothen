@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tabber — Honey!](https://www.last.fm/music/Tabber/_/Honey!)
-* [Audrey Nuna — Time](https://www.last.fm/music/Audrey+Nuna/_/Time)
-* [DPR CREAM — Color Drive](https://www.last.fm/music/DPR+CREAM/_/Color+Drive)
-* [True Damage — GIANTS](https://www.last.fm/music/True+Damage/_/GIANTS)
-* [Suggi — uwu](https://www.last.fm/music/Suggi/_/uwu)<!-- LASTFM:END -->
+* [Cosmic Boy — Can I Love ? (feat. youra, Meego)](https://www.last.fm/music/Cosmic+Boy/_/Can+I+Love+%3F+(feat.+youra,+Meego))
+* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)
+* [April — Oh! my mistake](https://www.last.fm/music/April/_/Oh!+my+mistake)
+* [Sunmi — Noir 누아르](https://www.last.fm/music/Sunmi/_/Noir+%EB%88%84%EC%95%84%EB%A5%B4)
+* [Tabber — Honey!](https://www.last.fm/music/Tabber/_/Honey!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
