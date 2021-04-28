@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hwa Sa — TWIT](https://www.last.fm/music/Hwa+Sa/_/TWIT)
+* [Stray Kids — My Pace](https://www.last.fm/music/Stray+Kids/_/My+Pace)
 * [TAEMIN — MOVE](https://www.last.fm/music/TAEMIN/_/MOVE)
 * [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)
-* [Keshi — B.Y.S.](https://www.last.fm/music/Keshi/_/B.Y.S.)
-* [Suggi — fuck u, goodluck.](https://www.last.fm/music/Suggi/_/fuck+u,+goodluck.)
-* [DEAN — Pour Up](https://www.last.fm/music/DEAN/_/Pour+Up)<!-- LASTFM:END -->
+* [Keshi — B.Y.S.](https://www.last.fm/music/Keshi/_/B.Y.S.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
