@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))
+* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)
 * [Rina Sawayama — Who?](https://www.last.fm/music/Rina+Sawayama/_/Who%3F)
 * [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
-* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
-* [(G)I-DLE — HANN (Alone)](https://www.last.fm/music/(G)I-DLE/_/HANN+(Alone))
-* [Rolling Quartz — BLAZE](https://www.last.fm/music/Rolling+Quartz/_/BLAZE)<!-- LASTFM:END -->
+* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
