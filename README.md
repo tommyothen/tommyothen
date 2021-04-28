@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LADIES' CODE — The Rain](https://www.last.fm/music/LADIES%27+CODE/_/The+Rain)
+* [Cosmic Boy — Can I Love ? (feat. youra, Meego)](https://www.last.fm/music/Cosmic+Boy/_/Can+I+Love+%3F+(feat.+youra,+Meego))
+* [Loona — Oh (Yes I Am)](https://www.last.fm/music/Loona/_/Oh+(Yes+I+Am))
 * [brb. — do me right](https://www.last.fm/music/brb./_/do+me+right)
-* [Nive — Who I Am](https://www.last.fm/music/Nive/_/Who+I+Am)
-* [88Rising — Midsummer Madness](https://www.last.fm/music/88Rising/_/Midsummer+Madness)
-* [K/DA — DRUM GO DUM](https://www.last.fm/music/K%2FDA/_/DRUM+GO+DUM)
-* [(G)I-DLE — Oh My God](https://www.last.fm/music/(G)I-DLE/_/Oh+My+God)<!-- LASTFM:END -->
+* [Nive — Who I Am](https://www.last.fm/music/Nive/_/Who+I+Am)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
