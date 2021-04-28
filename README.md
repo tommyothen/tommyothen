@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [DEAN — love](https://www.last.fm/music/DEAN/_/love)
-* [dosii — lovememore.](https://www.last.fm/music/dosii/_/lovememore.)
-* [Loona — Colors](https://www.last.fm/music/Loona/_/Colors)
-* [BLACKPINK — Crazy Over You](https://www.last.fm/music/BLACKPINK/_/Crazy+Over+You)
-* [DAY6 — Chocolate](https://www.last.fm/music/DAY6/_/Chocolate)<!-- LASTFM:END -->
+* [Keshi — 2 soon](https://www.last.fm/music/Keshi/_/2+soon)
+* [Loona — Number 1](https://www.last.fm/music/Loona/_/Number+1)
+* [BLACKPINK — Love To Hate Me](https://www.last.fm/music/BLACKPINK/_/Love+To+Hate+Me)
+* [Chanmina — Doctor](https://www.last.fm/music/Chanmina/_/Doctor)
+* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
