@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LAY — 蓮](https://www.last.fm/music/LAY/_/%E8%93%AE)
+* [GOT7 — Breath](https://www.last.fm/music/GOT7/_/Breath)
 * [Loona — Singing In The Rain](https://www.last.fm/music/Loona/_/Singing+In+The+Rain)
 * [LOOΠΔ / ODD EYE CIRCLE — LOONATIC](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/LOONATIC)
-* [JONGHYUN — Moon](https://www.last.fm/music/JONGHYUN/_/Moon)
-* [Rina Sawayama — Take Me as I Am](https://www.last.fm/music/Rina+Sawayama/_/Take+Me+as+I+Am)
-* [Jay Park — The Purge](https://www.last.fm/music/Jay+Park/_/The+Purge)<!-- LASTFM:END -->
+* [JONGHYUN — Moon](https://www.last.fm/music/JONGHYUN/_/Moon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
