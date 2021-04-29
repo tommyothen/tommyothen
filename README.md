@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [D.A.N. — Chance](https://www.last.fm/music/D.A.N./_/Chance)
 * [Kaho Nakamura — Gum](https://www.last.fm/music/Kaho+Nakamura/_/Gum)
 * [Aseul — Always with you](https://www.last.fm/music/Aseul/_/Always+with+you)
 * [AAAMYYY — Utopia](https://www.last.fm/music/AAAMYYY/_/Utopia)
-* [THREE1989 — Kiss In The Sun](https://www.last.fm/music/THREE1989/_/Kiss+In+The+Sun)
-* [Lucky Kilimanjaro — Super Star](https://www.last.fm/music/Lucky+Kilimanjaro/_/Super+Star)<!-- LASTFM:END -->
+* [THREE1989 — Kiss In The Sun](https://www.last.fm/music/THREE1989/_/Kiss+In+The+Sun)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
