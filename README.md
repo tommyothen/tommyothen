@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [tricot — WARP](https://www.last.fm/music/tricot/_/WARP)
+* [yonige — 2月の水槽](https://www.last.fm/music/yonige/_/2%E6%9C%88%E3%81%AE%E6%B0%B4%E6%A7%BD)
+* [Shin Sakiura — NIGHT RUNNING](https://www.last.fm/music/Shin+Sakiura/_/NIGHT+RUNNING)
 * [Friday Night Plans — Plastic Love](https://www.last.fm/music/Friday+Night+Plans/_/Plastic+Love)
-* [DAOKO — 同じ夜](https://www.last.fm/music/DAOKO/_/%E5%90%8C%E3%81%98%E5%A4%9C)
-* [YonYon — Mirror (選択)](https://www.last.fm/music/YonYon/_/Mirror+(%E9%81%B8%E6%8A%9E))
-* [Sen Morimoto — Woof](https://www.last.fm/music/Sen+Morimoto/_/Woof)
-* [SHE IS SUMMER — Darling Darling](https://www.last.fm/music/SHE+IS+SUMMER/_/Darling+Darling)<!-- LASTFM:END -->
+* [DAOKO — 同じ夜](https://www.last.fm/music/DAOKO/_/%E5%90%8C%E3%81%98%E5%A4%9C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
