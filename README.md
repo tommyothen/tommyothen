@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [indigo la End — プレイバック - Remix by Metome](https://www.last.fm/music/indigo+la+End/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%90%E3%83%83%E3%82%AF+-+Remix+by+Metome)
+* [AAAMYYY — DAYZ](https://www.last.fm/music/AAAMYYY/_/DAYZ)
 * [ZOMBIE-CHANG — LEMONADE](https://www.last.fm/music/ZOMBIE-CHANG/_/LEMONADE)
 * [Mondo Grosso — KEMURI - Vocal:ACO](https://www.last.fm/music/Mondo+Grosso/_/KEMURI+-+Vocal:ACO)
-* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
-* [AAAMYYY — 屍を越えてゆけ](https://www.last.fm/music/AAAMYYY/_/%E5%B1%8D%E3%82%92%E8%B6%8A%E3%81%88%E3%81%A6%E3%82%86%E3%81%91)
-* [Orchards — Be Here](https://www.last.fm/music/Orchards/_/Be+Here)<!-- LASTFM:END -->
+* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
