@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sakanaction — ナイロンの糸](https://www.last.fm/music/Sakanaction/_/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B3%E3%81%AE%E7%B3%B8)
+* [For Tracy Hyde — Underwater Girl](https://www.last.fm/music/For+Tracy+Hyde/_/Underwater+Girl)
+* [OGRE YOU ASSHOLE — さわれないのに](https://www.last.fm/music/OGRE+YOU+ASSHOLE/_/%E3%81%95%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%E3%81%AE%E3%81%AB)
 * [Aseul — Paradise](https://www.last.fm/music/Aseul/_/Paradise)
-* [Shin Sakiura — NIGHT RUNNING](https://www.last.fm/music/Shin+Sakiura/_/NIGHT+RUNNING)
-* [Haruka Nakamura — Ria](https://www.last.fm/music/Haruka+Nakamura/_/Ria)
-* [MIIDA — Utopia](https://www.last.fm/music/MIIDA/_/Utopia)
-* [Yuko Ando — Shogeki](https://www.last.fm/music/Yuko+Ando/_/Shogeki)<!-- LASTFM:END -->
+* [Shin Sakiura — NIGHT RUNNING](https://www.last.fm/music/Shin+Sakiura/_/NIGHT+RUNNING)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
