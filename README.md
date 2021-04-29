@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MASS OF THE FERMENTING DREGS — ASAHINAGU](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/ASAHINAGU)
+* [Mondo Grosso — 惑星タントラ](https://www.last.fm/music/Mondo+Grosso/_/%E6%83%91%E6%98%9F%E3%82%BF%E3%83%B3%E3%83%88%E3%83%A9)
 * [Sen Morimoto — Woof](https://www.last.fm/music/Sen+Morimoto/_/Woof)
 * [AAAMYYY — 愛のため](https://www.last.fm/music/AAAMYYY/_/%E6%84%9B%E3%81%AE%E3%81%9F%E3%82%81)
-* [Yuragi — night is young](https://www.last.fm/music/Yuragi/_/night+is+young)
-* [NakamuraEmi — I](https://www.last.fm/music/NakamuraEmi/_/I)
-* [KinokoTeikoku — You Outside My Window](https://www.last.fm/music/KinokoTeikoku/_/You+Outside+My+Window)<!-- LASTFM:END -->
+* [Yuragi — night is young](https://www.last.fm/music/Yuragi/_/night+is+young)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
