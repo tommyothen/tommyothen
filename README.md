@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ohashi Trio — LOTUS](https://www.last.fm/music/Ohashi+Trio/_/LOTUS)
+* [chelmico — Limit](https://www.last.fm/music/chelmico/_/Limit)
+* [Mondo Grosso — ラビリンス](https://www.last.fm/music/Mondo+Grosso/_/%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9)
 * [Gesu No Kiwami Otome — sad but sweet](https://www.last.fm/music/Gesu+No+Kiwami+Otome/_/sad+but+sweet)
-* [KinokoTeikoku — 国道スロープ](https://www.last.fm/music/KinokoTeikoku/_/%E5%9B%BD%E9%81%93%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%97)
-* [indigo la End — プレイバック - Remix by Metome](https://www.last.fm/music/indigo+la+End/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%90%E3%83%83%E3%82%AF+-+Remix+by+Metome)
-* [AAAMYYY — DAYZ](https://www.last.fm/music/AAAMYYY/_/DAYZ)
-* [ZOMBIE-CHANG — LEMONADE](https://www.last.fm/music/ZOMBIE-CHANG/_/LEMONADE)<!-- LASTFM:END -->
+* [KinokoTeikoku — 国道スロープ](https://www.last.fm/music/KinokoTeikoku/_/%E5%9B%BD%E9%81%93%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%97)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
