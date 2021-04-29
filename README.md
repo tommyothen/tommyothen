@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Haruka Nakamura — Ria](https://www.last.fm/music/Haruka+Nakamura/_/Ria)
+* [MIIDA — Utopia](https://www.last.fm/music/MIIDA/_/Utopia)
 * [Yuko Ando — Shogeki](https://www.last.fm/music/Yuko+Ando/_/Shogeki)
 * [TOFUBEATS — 水星(Young & Fresh mix) feat. 仮谷せいら](https://www.last.fm/music/TOFUBEATS/_/%E6%B0%B4%E6%98%9F(Young+&+Fresh+mix)+feat.+%E4%BB%AE%E8%B0%B7%E3%81%9B%E3%81%84%E3%82%89)
-* [tricot — 真っ黒](https://www.last.fm/music/tricot/_/%E7%9C%9F%E3%81%A3%E9%BB%92)
-* [ぷにぷに電機 — Zansyo](https://www.last.fm/music/%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB%E9%9B%BB%E6%A9%9F/_/Zansyo)
-* [frasco — Dream](https://www.last.fm/music/frasco/_/Dream)<!-- LASTFM:END -->
+* [tricot — 真っ黒](https://www.last.fm/music/tricot/_/%E7%9C%9F%E3%81%A3%E9%BB%92)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
