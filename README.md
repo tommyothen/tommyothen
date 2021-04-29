@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wednesday Campanella — The Bamboo Princess](https://www.last.fm/music/Wednesday+Campanella/_/The+Bamboo+Princess)
+* [OGRE YOU ASSHOLE — バランス](https://www.last.fm/music/OGRE+YOU+ASSHOLE/_/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9)
+* [Soutaiseiriron — Neo-Future](https://www.last.fm/music/Soutaiseiriron/_/Neo-Future)
 * [D.A.N. — Chance](https://www.last.fm/music/D.A.N./_/Chance)
-* [Kaho Nakamura — Gum](https://www.last.fm/music/Kaho+Nakamura/_/Gum)
-* [Aseul — Always with you](https://www.last.fm/music/Aseul/_/Always+with+you)
-* [AAAMYYY — Utopia](https://www.last.fm/music/AAAMYYY/_/Utopia)
-* [THREE1989 — Kiss In The Sun](https://www.last.fm/music/THREE1989/_/Kiss+In+The+Sun)<!-- LASTFM:END -->
+* [Kaho Nakamura — Gum](https://www.last.fm/music/Kaho+Nakamura/_/Gum)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
