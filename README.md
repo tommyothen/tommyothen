@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sen Morimoto — Woof](https://www.last.fm/music/Sen+Morimoto/_/Woof)
+* [AAAMYYY — 愛のため](https://www.last.fm/music/AAAMYYY/_/%E6%84%9B%E3%81%AE%E3%81%9F%E3%82%81)
+* [Yuragi — night is young](https://www.last.fm/music/Yuragi/_/night+is+young)
 * [NakamuraEmi — I](https://www.last.fm/music/NakamuraEmi/_/I)
-* [KinokoTeikoku — You Outside My Window](https://www.last.fm/music/KinokoTeikoku/_/You+Outside+My+Window)
-* [Mondo Grosso — KEMURI - Vocal:ACO](https://www.last.fm/music/Mondo+Grosso/_/KEMURI+-+Vocal:ACO)
-* [Lucky Kilimanjaro — Super Star](https://www.last.fm/music/Lucky+Kilimanjaro/_/Super+Star)
-* [AAAMYYY — GAIA](https://www.last.fm/music/AAAMYYY/_/GAIA)<!-- LASTFM:END -->
+* [KinokoTeikoku — You Outside My Window](https://www.last.fm/music/KinokoTeikoku/_/You+Outside+My+Window)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
