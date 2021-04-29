@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yuko Ando — Tommy](https://www.last.fm/music/Yuko+Ando/_/Tommy)
+* [Kaho Nakamura — そのいのち](https://www.last.fm/music/Kaho+Nakamura/_/%E3%81%9D%E3%81%AE%E3%81%84%E3%81%AE%E3%81%A1)
+* [Sunny Day Service — Sayonara pool boy](https://www.last.fm/music/Sunny+Day+Service/_/Sayonara+pool+boy)
 * [Soutaiseiriron — Neo-Future](https://www.last.fm/music/Soutaiseiriron/_/Neo-Future)
-* [hakushi hasegawa — Sea Change](https://www.last.fm/music/hakushi+hasegawa/_/Sea+Change)
-* [D.A.N. — Aechmea](https://www.last.fm/music/D.A.N./_/Aechmea)
-* [tempalay — どうしよう](https://www.last.fm/music/tempalay/_/%E3%81%A9%E3%81%86%E3%81%97%E3%82%88%E3%81%86)
-* [Blu-Swing — クラゲ](https://www.last.fm/music/Blu-Swing/_/%E3%82%AF%E3%83%A9%E3%82%B2)<!-- LASTFM:END -->
+* [hakushi hasegawa — Sea Change](https://www.last.fm/music/hakushi+hasegawa/_/Sea+Change)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
