@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [yahyel — Hypnosis](https://www.last.fm/music/yahyel/_/Hypnosis)
+* [Kirinji — 時間がない](https://www.last.fm/music/Kirinji/_/%E6%99%82%E9%96%93%E3%81%8C%E3%81%AA%E3%81%84)
 * [tofubeats — Plastic Love](https://www.last.fm/music/tofubeats/_/Plastic+Love)
 * [MASS OF THE FERMENTING DREGS — No New World](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/No+New+World)
-* [mitsume — トニック・ラブ (tofubeats remix)](https://www.last.fm/music/mitsume/_/%E3%83%88%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A9%E3%83%96+(tofubeats+remix))
-* [Okada Takuro — Shore](https://www.last.fm/music/Okada+Takuro/_/Shore)
-* [YeYe — ゆらゆら](https://www.last.fm/music/YeYe/_/%E3%82%86%E3%82%89%E3%82%86%E3%82%89)<!-- LASTFM:END -->
+* [mitsume — トニック・ラブ (tofubeats remix)](https://www.last.fm/music/mitsume/_/%E3%83%88%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A9%E3%83%96+(tofubeats+remix))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
