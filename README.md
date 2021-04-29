@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [KinokoTeikoku — WHIREPOOL](https://www.last.fm/music/KinokoTeikoku/_/WHIREPOOL)
-* [Pasocom Music Club — hikari](https://www.last.fm/music/Pasocom+Music+Club/_/hikari)
-* [Mamiko Suzuki — Contact](https://www.last.fm/music/Mamiko+Suzuki/_/Contact)
-* [tricot — WARP](https://www.last.fm/music/tricot/_/WARP)
-* [tempalay — そなちね](https://www.last.fm/music/tempalay/_/%E3%81%9D%E3%81%AA%E3%81%A1%E3%81%AD)<!-- LASTFM:END -->
+* [PAELLAS — Horizon](https://www.last.fm/music/PAELLAS/_/Horizon)
+* [KinokoTeikoku — Flower Girl](https://www.last.fm/music/KinokoTeikoku/_/Flower+Girl)
+* [indigo la End — プレイバック - Remix by Metome](https://www.last.fm/music/indigo+la+End/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%90%E3%83%83%E3%82%AF+-+Remix+by+Metome)
+* [OGRE YOU ASSHOLE — バランス](https://www.last.fm/music/OGRE+YOU+ASSHOLE/_/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9)
+* [YonYon — Overflow(変身)](https://www.last.fm/music/YonYon/_/Overflow(%E5%A4%89%E8%BA%AB))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
