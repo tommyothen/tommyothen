@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KinokoTeikoku — WHIREPOOL](https://www.last.fm/music/KinokoTeikoku/_/WHIREPOOL)
+* [Pasocom Music Club — hikari](https://www.last.fm/music/Pasocom+Music+Club/_/hikari)
 * [Mamiko Suzuki — Contact](https://www.last.fm/music/Mamiko+Suzuki/_/Contact)
 * [tricot — WARP](https://www.last.fm/music/tricot/_/WARP)
-* [tempalay — そなちね](https://www.last.fm/music/tempalay/_/%E3%81%9D%E3%81%AA%E3%81%A1%E3%81%AD)
-* [Ohashi Trio — LOTUS](https://www.last.fm/music/Ohashi+Trio/_/LOTUS)
-* [Gesu No Kiwami Otome — はしゃぎすぎた街の中で僕は一人遠回りした](https://www.last.fm/music/Gesu+No+Kiwami+Otome/_/%E3%81%AF%E3%81%97%E3%82%83%E3%81%8E%E3%81%99%E3%81%8E%E3%81%9F%E8%A1%97%E3%81%AE%E4%B8%AD%E3%81%A7%E5%83%95%E3%81%AF%E4%B8%80%E4%BA%BA%E9%81%A0%E5%9B%9E%E3%82%8A%E3%81%97%E3%81%9F)<!-- LASTFM:END -->
+* [tempalay — そなちね](https://www.last.fm/music/tempalay/_/%E3%81%9D%E3%81%AA%E3%81%A1%E3%81%AD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
