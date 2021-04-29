@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Haruno — Broadcast](https://www.last.fm/music/Haruno/_/Broadcast)
+* [KinokoTeikoku — ロンググッドバイ](https://www.last.fm/music/KinokoTeikoku/_/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%B0%E3%83%83%E3%83%89%E3%83%90%E3%82%A4)
 * [odol — GREEN](https://www.last.fm/music/odol/_/GREEN)
 * [YonYon — Mirror (選択)](https://www.last.fm/music/YonYon/_/Mirror+(%E9%81%B8%E6%8A%9E))
-* [MASS OF THE FERMENTING DREGS — ASAHINAGU](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/ASAHINAGU)
-* [Mondo Grosso — 惑星タントラ](https://www.last.fm/music/Mondo+Grosso/_/%E6%83%91%E6%98%9F%E3%82%BF%E3%83%B3%E3%83%88%E3%83%A9)
-* [Sen Morimoto — Woof](https://www.last.fm/music/Sen+Morimoto/_/Woof)<!-- LASTFM:END -->
+* [MASS OF THE FERMENTING DREGS — ASAHINAGU](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/ASAHINAGU)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
