@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [THREE1989 — Kiss In The Sun](https://www.last.fm/music/THREE1989/_/Kiss+In+The+Sun)
+* [Lucky Kilimanjaro — Super Star](https://www.last.fm/music/Lucky+Kilimanjaro/_/Super+Star)
 * [indigo la End — 想いきり](https://www.last.fm/music/indigo+la+End/_/%E6%83%B3%E3%81%84%E3%81%8D%E3%82%8A)
 * [hakushi hasegawa — Cue](https://www.last.fm/music/hakushi+hasegawa/_/Cue)
-* [tricot — WARP](https://www.last.fm/music/tricot/_/WARP)
-* [yonige — 2月の水槽](https://www.last.fm/music/yonige/_/2%E6%9C%88%E3%81%AE%E6%B0%B4%E6%A7%BD)
-* [Shin Sakiura — NIGHT RUNNING](https://www.last.fm/music/Shin+Sakiura/_/NIGHT+RUNNING)<!-- LASTFM:END -->
+* [tricot — WARP](https://www.last.fm/music/tricot/_/WARP)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
