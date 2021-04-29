@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [D.A.N. — Chance](https://www.last.fm/music/D.A.N./_/Chance)
+* [Age Factory — CLOSE EYE](https://www.last.fm/music/Age+Factory/_/CLOSE+EYE)
 * [DAOKO — VOICE](https://www.last.fm/music/DAOKO/_/VOICE)
 * [Mondo Grosso — 偽りのシンパシー - Vocal:アイナ・ジ・エンド(BiSH)](https://www.last.fm/music/Mondo+Grosso/_/%E5%81%BD%E3%82%8A%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%91%E3%82%B7%E3%83%BC+-+Vocal:%E3%82%A2%E3%82%A4%E3%83%8A%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89(BiSH))
-* [indigo la End — 小粋なバイバイ](https://www.last.fm/music/indigo+la+End/_/%E5%B0%8F%E7%B2%8B%E3%81%AA%E3%83%90%E3%82%A4%E3%83%90%E3%82%A4)
-* [mitsume — Disco](https://www.last.fm/music/mitsume/_/Disco)
-* [Gesu No Kiwami Otome — 秘めない私](https://www.last.fm/music/Gesu+No+Kiwami+Otome/_/%E7%A7%98%E3%82%81%E3%81%AA%E3%81%84%E7%A7%81)<!-- LASTFM:END -->
+* [indigo la End — 小粋なバイバイ](https://www.last.fm/music/indigo+la+End/_/%E5%B0%8F%E7%B2%8B%E3%81%AA%E3%83%90%E3%82%A4%E3%83%90%E3%82%A4)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
