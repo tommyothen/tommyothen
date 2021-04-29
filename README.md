@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Wednesday Campanella — Aladdin](https://www.last.fm/music/Wednesday+Campanella/_/Aladdin)
-* [AAAMYYY — DAYZ](https://www.last.fm/music/AAAMYYY/_/DAYZ)
-* [80KIDZ — Two 3 Four](https://www.last.fm/music/80KIDZ/_/Two+3+Four)
-* [THE NOVEMBERS — Everything](https://www.last.fm/music/THE+NOVEMBERS/_/Everything)
-* [Oh Shu — Higashi Yoshino](https://www.last.fm/music/Oh+Shu/_/Higashi+Yoshino)<!-- LASTFM:END -->
+* [tricot — おまえ](https://www.last.fm/music/tricot/_/%E3%81%8A%E3%81%BE%E3%81%88)
+* [Yuragi — Horizon](https://www.last.fm/music/Yuragi/_/Horizon)
+* [DAOKO — さみしいかみさま](https://www.last.fm/music/DAOKO/_/%E3%81%95%E3%81%BF%E3%81%97%E3%81%84%E3%81%8B%E3%81%BF%E3%81%95%E3%81%BE)
+* [Aseul — Sandcastles 모래성](https://www.last.fm/music/Aseul/_/Sandcastles+%EB%AA%A8%EB%9E%98%EC%84%B1)
+* [Wednesday Campanella — Aladdin](https://www.last.fm/music/Wednesday+Campanella/_/Aladdin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
