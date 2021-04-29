@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Koutei Camera Girl Drei — Spree](https://www.last.fm/music/Koutei+Camera+Girl+Drei/_/Spree)
-* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)
-* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)
-* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)
-* [Noel — LOOPHOLE](https://www.last.fm/music/Noel/_/LOOPHOLE)<!-- LASTFM:END -->
+* [Dresage — HOLY](https://www.last.fm/music/Dresage/_/HOLY)
+* [sohayl ryder — POSTMAN](https://www.last.fm/music/sohayl+ryder/_/POSTMAN)
+* [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
+* [LCYTN — Ride](https://www.last.fm/music/LCYTN/_/Ride)
+* [Koutei Camera Girl Drei — Spree](https://www.last.fm/music/Koutei+Camera+Girl+Drei/_/Spree)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
