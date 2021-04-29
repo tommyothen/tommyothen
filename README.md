@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [VINXIS — Sidetracked Day](https://www.last.fm/music/VINXIS/_/Sidetracked+Day)
+* [Camellia — Exit This Earth's Atomosphere](https://www.last.fm/music/Camellia/_/Exit+This+Earth%27s+Atomosphere)
 * [XI — Blue Zenith](https://www.last.fm/music/XI/_/Blue+Zenith)
 * [Roth Bart Baron — けもののなまえ (feat.HANA)](https://www.last.fm/music/Roth+Bart+Baron/_/%E3%81%91%E3%82%82%E3%81%AE%E3%81%AE%E3%81%AA%E3%81%BE%E3%81%88+(feat.HANA))
-* [mitsume — ディレイ](https://www.last.fm/music/mitsume/_/%E3%83%87%E3%82%A3%E3%83%AC%E3%82%A4)
-* [ZOMBIE-CHANG — Don't Be so Mean](https://www.last.fm/music/ZOMBIE-CHANG/_/Don%27t+Be+so+Mean)
-* [KinokoTeikoku — 国道スロープ](https://www.last.fm/music/KinokoTeikoku/_/%E5%9B%BD%E9%81%93%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%97)<!-- LASTFM:END -->
+* [mitsume — ディレイ](https://www.last.fm/music/mitsume/_/%E3%83%87%E3%82%A3%E3%83%AC%E3%82%A4)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
