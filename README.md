@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [yahyel — TAO](https://www.last.fm/music/yahyel/_/TAO)
 * [Kaho Nakamura — Gum](https://www.last.fm/music/Kaho+Nakamura/_/Gum)
 * [Sweet William — Amaneki](https://www.last.fm/music/Sweet+William/_/Amaneki)
 * [tricot — サマーナイトタウン](https://www.last.fm/music/tricot/_/%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88%E3%82%BF%E3%82%A6%E3%83%B3)
-* [MASS OF THE FERMENTING DREGS — delusionalism](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/delusionalism)
-* [chelmico — N.E.S.](https://www.last.fm/music/chelmico/_/N.E.S.)<!-- LASTFM:END -->
+* [MASS OF THE FERMENTING DREGS — delusionalism](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/delusionalism)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
