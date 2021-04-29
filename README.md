@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Chai — Plastic Love](https://www.last.fm/music/Chai/_/Plastic+Love)
-* [Mega Shinnosuke — Japan](https://www.last.fm/music/Mega+Shinnosuke/_/Japan)
-* [DONGURIZU — nadja](https://www.last.fm/music/DONGURIZU/_/nadja)
-* [SHE IS SUMMER — CALL ME IN YOUR SUMMER](https://www.last.fm/music/SHE+IS+SUMMER/_/CALL+ME+IN+YOUR+SUMMER)
-* [indigo la End — 夜光虫](https://www.last.fm/music/indigo+la+End/_/%E5%A4%9C%E5%85%89%E8%99%AB)<!-- LASTFM:END -->
+* [Wednesday Campanella — Aladdin](https://www.last.fm/music/Wednesday+Campanella/_/Aladdin)
+* [AAAMYYY — DAYZ](https://www.last.fm/music/AAAMYYY/_/DAYZ)
+* [80KIDZ — Two 3 Four](https://www.last.fm/music/80KIDZ/_/Two+3+Four)
+* [THE NOVEMBERS — Everything](https://www.last.fm/music/THE+NOVEMBERS/_/Everything)
+* [Oh Shu — Higashi Yoshino](https://www.last.fm/music/Oh+Shu/_/Higashi+Yoshino)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
