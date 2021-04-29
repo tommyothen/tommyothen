@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NakamuraEmi — I](https://www.last.fm/music/NakamuraEmi/_/I)
+* [KinokoTeikoku — You Outside My Window](https://www.last.fm/music/KinokoTeikoku/_/You+Outside+My+Window)
 * [Mondo Grosso — KEMURI - Vocal:ACO](https://www.last.fm/music/Mondo+Grosso/_/KEMURI+-+Vocal:ACO)
 * [Lucky Kilimanjaro — Super Star](https://www.last.fm/music/Lucky+Kilimanjaro/_/Super+Star)
-* [AAAMYYY — GAIA](https://www.last.fm/music/AAAMYYY/_/GAIA)
-* [Yuragi — Soon](https://www.last.fm/music/Yuragi/_/Soon)
-* [Friday Night Plans — Plastic Love](https://www.last.fm/music/Friday+Night+Plans/_/Plastic+Love)<!-- LASTFM:END -->
+* [AAAMYYY — GAIA](https://www.last.fm/music/AAAMYYY/_/GAIA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
