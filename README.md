@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Wednesday Campanella — Melos](https://www.last.fm/music/Wednesday+Campanella/_/Melos)
-* [Kirinji — killer tune kills me](https://www.last.fm/music/Kirinji/_/killer+tune+kills+me)
-* [KinokoTeikoku — 退屈しのぎ](https://www.last.fm/music/KinokoTeikoku/_/%E9%80%80%E5%B1%88%E3%81%97%E3%81%AE%E3%81%8E)
-* [AAAMYYY — HOME](https://www.last.fm/music/AAAMYYY/_/HOME)
-* [Mondo Grosso — 惑星タントラ](https://www.last.fm/music/Mondo+Grosso/_/%E6%83%91%E6%98%9F%E3%82%BF%E3%83%B3%E3%83%88%E3%83%A9)<!-- LASTFM:END -->
+* [MASS OF THE FERMENTING DREGS — New Order](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/New+Order)
+* [Omoinotake — モラトリアム](https://www.last.fm/music/Omoinotake/_/%E3%83%A2%E3%83%A9%E3%83%88%E3%83%AA%E3%82%A2%E3%83%A0)
+* [BBHF — Bokurano Seikatsu](https://www.last.fm/music/BBHF/_/Bokurano+Seikatsu)
+* [OGRE YOU ASSHOLE — 動物的/人間的](https://www.last.fm/music/OGRE+YOU+ASSHOLE/_/%E5%8B%95%E7%89%A9%E7%9A%84%2F%E4%BA%BA%E9%96%93%E7%9A%84)
+* [Wednesday Campanella — Melos](https://www.last.fm/music/Wednesday+Campanella/_/Melos)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
