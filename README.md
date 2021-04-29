@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Orchards — Be Here](https://www.last.fm/music/Orchards/_/Be+Here)
+* [Shinigami — stranger](https://www.last.fm/music/Shinigami/_/stranger)
+* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
 * [Shofu — Tom Nook](https://www.last.fm/music/Shofu/_/Tom+Nook)
-* [MIA GLADSTONE — LONELYASFCK](https://www.last.fm/music/MIA+GLADSTONE/_/LONELYASFCK)
-* [MONKEY MAJIK — BLiNK](https://www.last.fm/music/MONKEY+MAJIK/_/BLiNK)
-* [Kamiyada+ — 3 AM](https://www.last.fm/music/Kamiyada%252B/_/3+AM)
-* [Grandma — Bested](https://www.last.fm/music/Grandma/_/Bested)<!-- LASTFM:END -->
+* [MIA GLADSTONE — LONELYASFCK](https://www.last.fm/music/MIA+GLADSTONE/_/LONELYASFCK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
