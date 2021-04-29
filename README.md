@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [THE NOVEMBERS — Cradle](https://www.last.fm/music/THE+NOVEMBERS/_/Cradle)
+* [Yakushimaru Etsuko — 惑星タントラ](https://www.last.fm/music/Yakushimaru+Etsuko/_/%E6%83%91%E6%98%9F%E3%82%BF%E3%83%B3%E3%83%88%E3%83%A9)
 * [AAAMYYY — HOME](https://www.last.fm/music/AAAMYYY/_/HOME)
 * [yonige — 2月の水槽](https://www.last.fm/music/yonige/_/2%E6%9C%88%E3%81%AE%E6%B0%B4%E6%A7%BD)
-* [yahyel — TAO](https://www.last.fm/music/yahyel/_/TAO)
-* [Kaho Nakamura — Gum](https://www.last.fm/music/Kaho+Nakamura/_/Gum)
-* [Sweet William — Amaneki](https://www.last.fm/music/Sweet+William/_/Amaneki)<!-- LASTFM:END -->
+* [yahyel — TAO](https://www.last.fm/music/yahyel/_/TAO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
