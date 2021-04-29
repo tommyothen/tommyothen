@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mondo Grosso — KEMURI - Vocal:ACO](https://www.last.fm/music/Mondo+Grosso/_/KEMURI+-+Vocal:ACO)
 * [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
 * [AAAMYYY — 屍を越えてゆけ](https://www.last.fm/music/AAAMYYY/_/%E5%B1%8D%E3%82%92%E8%B6%8A%E3%81%88%E3%81%A6%E3%82%86%E3%81%91)
 * [Orchards — Be Here](https://www.last.fm/music/Orchards/_/Be+Here)
-* [Shinigami — stranger](https://www.last.fm/music/Shinigami/_/stranger)
-* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)<!-- LASTFM:END -->
+* [Shinigami — stranger](https://www.last.fm/music/Shinigami/_/stranger)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
