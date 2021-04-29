@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZOMBIE-CHANG — Don't Be so Mean](https://www.last.fm/music/ZOMBIE-CHANG/_/Don%27t+Be+so+Mean)
+* [KinokoTeikoku — 国道スロープ](https://www.last.fm/music/KinokoTeikoku/_/%E5%9B%BD%E9%81%93%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%97)
+* [D.A.N. — Replica](https://www.last.fm/music/D.A.N./_/Replica)
 * [Izumi Makura — 棄てるなどして](https://www.last.fm/music/Izumi+Makura/_/%E6%A3%84%E3%81%A6%E3%82%8B%E3%81%AA%E3%81%A9%E3%81%97%E3%81%A6)
-* [Haruka Nakamura — Sad Premonition / Lilium](https://www.last.fm/music/Haruka+Nakamura/_/Sad+Premonition+%2F+Lilium)
-* [THE NOVEMBERS — 美しい火](https://www.last.fm/music/THE+NOVEMBERS/_/%E7%BE%8E%E3%81%97%E3%81%84%E7%81%AB)
-* [The fin. — Sapphire](https://www.last.fm/music/The+fin./_/Sapphire)
-* [Mei Ehara — 蓋なしの彼](https://www.last.fm/music/Mei+Ehara/_/%E8%93%8B%E3%81%AA%E3%81%97%E3%81%AE%E5%BD%BC)<!-- LASTFM:END -->
+* [Haruka Nakamura — Sad Premonition / Lilium](https://www.last.fm/music/Haruka+Nakamura/_/Sad+Premonition+%2F+Lilium)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
