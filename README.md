@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [tricot — おまえ](https://www.last.fm/music/tricot/_/%E3%81%8A%E3%81%BE%E3%81%88)
-* [Yuragi — Horizon](https://www.last.fm/music/Yuragi/_/Horizon)
-* [DAOKO — さみしいかみさま](https://www.last.fm/music/DAOKO/_/%E3%81%95%E3%81%BF%E3%81%97%E3%81%84%E3%81%8B%E3%81%BF%E3%81%95%E3%81%BE)
-* [Aseul — Sandcastles 모래성](https://www.last.fm/music/Aseul/_/Sandcastles+%EB%AA%A8%EB%9E%98%EC%84%B1)
-* [Wednesday Campanella — Aladdin](https://www.last.fm/music/Wednesday+Campanella/_/Aladdin)<!-- LASTFM:END -->
+* [Chai — NO MORE CAKE](https://www.last.fm/music/Chai/_/NO+MORE+CAKE)
+* [THE NOVEMBERS — 理解者](https://www.last.fm/music/THE+NOVEMBERS/_/%E7%90%86%E8%A7%A3%E8%80%85)
+* [Ghost like girlfriend — fallin'](https://www.last.fm/music/Ghost+like+girlfriend/_/fallin%27)
+* [BBHF — Retake](https://www.last.fm/music/BBHF/_/Retake)
+* [yahyel — Iron](https://www.last.fm/music/yahyel/_/Iron)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
