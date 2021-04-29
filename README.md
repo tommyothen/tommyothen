@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [相対性理論 — Moonlight Ginga](https://www.last.fm/music/%E7%9B%B8%E5%AF%BE%E6%80%A7%E7%90%86%E8%AB%96/_/Moonlight+Ginga)
+* [Izumi Makura — 棄てるなどして](https://www.last.fm/music/Izumi+Makura/_/%E6%A3%84%E3%81%A6%E3%82%8B%E3%81%AA%E3%81%A9%E3%81%97%E3%81%A6)
 * [KinokoTeikoku — Flower Girl](https://www.last.fm/music/KinokoTeikoku/_/Flower+Girl)
 * [tricot — potage](https://www.last.fm/music/tricot/_/potage)
-* [Ohashi Trio — LOTUS](https://www.last.fm/music/Ohashi+Trio/_/LOTUS)
-* [chelmico — Limit](https://www.last.fm/music/chelmico/_/Limit)
-* [Mondo Grosso — ラビリンス](https://www.last.fm/music/Mondo+Grosso/_/%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9)<!-- LASTFM:END -->
+* [Ohashi Trio — LOTUS](https://www.last.fm/music/Ohashi+Trio/_/LOTUS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
