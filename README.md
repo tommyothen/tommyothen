@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [AAAMYYY — GAIA](https://www.last.fm/music/AAAMYYY/_/GAIA)
+* [Yuragi — Soon](https://www.last.fm/music/Yuragi/_/Soon)
 * [Friday Night Plans — Plastic Love](https://www.last.fm/music/Friday+Night+Plans/_/Plastic+Love)
 * [Wednesday Campanella — The Bamboo Princess](https://www.last.fm/music/Wednesday+Campanella/_/The+Bamboo+Princess)
-* [Aseul — Always with you](https://www.last.fm/music/Aseul/_/Always+with+you)
-* [AAAMYYY — Utopia](https://www.last.fm/music/AAAMYYY/_/Utopia)
-* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)<!-- LASTFM:END -->
+* [Aseul — Always with you](https://www.last.fm/music/Aseul/_/Always+with+you)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
