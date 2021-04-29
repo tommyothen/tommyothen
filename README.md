@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [indigo la End — 夜光虫](https://www.last.fm/music/indigo+la+End/_/%E5%A4%9C%E5%85%89%E8%99%AB)
-* [Haruka Nakamura — lamp (feat. Nujabes)](https://www.last.fm/music/Haruka+Nakamura/_/lamp+(feat.+Nujabes))
-* [chelmico — Limit](https://www.last.fm/music/chelmico/_/Limit)
-* [tricot — potage](https://www.last.fm/music/tricot/_/potage)
-* [Yuko Ando — Tommy](https://www.last.fm/music/Yuko+Ando/_/Tommy)<!-- LASTFM:END -->
+* [Chai — Plastic Love](https://www.last.fm/music/Chai/_/Plastic+Love)
+* [Mega Shinnosuke — Japan](https://www.last.fm/music/Mega+Shinnosuke/_/Japan)
+* [DONGURIZU — nadja](https://www.last.fm/music/DONGURIZU/_/nadja)
+* [SHE IS SUMMER — CALL ME IN YOUR SUMMER](https://www.last.fm/music/SHE+IS+SUMMER/_/CALL+ME+IN+YOUR+SUMMER)
+* [indigo la End — 夜光虫](https://www.last.fm/music/indigo+la+End/_/%E5%A4%9C%E5%85%89%E8%99%AB)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
