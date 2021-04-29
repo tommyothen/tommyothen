@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wednesday Campanella — Melos](https://www.last.fm/music/Wednesday+Campanella/_/Melos)
+* [Kirinji — killer tune kills me](https://www.last.fm/music/Kirinji/_/killer+tune+kills+me)
+* [KinokoTeikoku — 退屈しのぎ](https://www.last.fm/music/KinokoTeikoku/_/%E9%80%80%E5%B1%88%E3%81%97%E3%81%AE%E3%81%8E)
 * [AAAMYYY — HOME](https://www.last.fm/music/AAAMYYY/_/HOME)
-* [Mondo Grosso — 惑星タントラ](https://www.last.fm/music/Mondo+Grosso/_/%E6%83%91%E6%98%9F%E3%82%BF%E3%83%B3%E3%83%88%E3%83%A9)
-* [Maika Loubté — Prismé](https://www.last.fm/music/Maika+Loubt%C3%A9/_/Prism%C3%A9)
-* [Wednesday Campanella — The Bamboo Princess](https://www.last.fm/music/Wednesday+Campanella/_/The+Bamboo+Princess)
-* [OGRE YOU ASSHOLE — バランス](https://www.last.fm/music/OGRE+YOU+ASSHOLE/_/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9)<!-- LASTFM:END -->
+* [Mondo Grosso — 惑星タントラ](https://www.last.fm/music/Mondo+Grosso/_/%E6%83%91%E6%98%9F%E3%82%BF%E3%83%B3%E3%83%88%E3%83%A9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
