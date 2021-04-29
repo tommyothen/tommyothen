@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Koxx — A Fool Moon Night](https://www.last.fm/music/The+Koxx/_/A+Fool+Moon+Night)
+* [RichaadEB — Flowering Night](https://www.last.fm/music/RichaadEB/_/Flowering+Night)
+* [Rameses B — Flaklypa](https://www.last.fm/music/Rameses+B/_/Flaklypa)
 * [DragonForce — Defenders](https://www.last.fm/music/DragonForce/_/Defenders)
-* [XI — Ascension to Heaven](https://www.last.fm/music/XI/_/Ascension+to+Heaven)
-* [Nanahira — Ange Du Blanc Pur](https://www.last.fm/music/Nanahira/_/Ange+Du+Blanc+Pur)
-* [THE ORAL CIGARETTES — 5150](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/5150)
-* [VINXIS — Sidetracked Day](https://www.last.fm/music/VINXIS/_/Sidetracked+Day)<!-- LASTFM:END -->
+* [XI — Ascension to Heaven](https://www.last.fm/music/XI/_/Ascension+to+Heaven)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
