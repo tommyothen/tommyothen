@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ZOMBIE-CHANG — TAKE ME AWAY FROM TOKYO](https://www.last.fm/music/ZOMBIE-CHANG/_/TAKE+ME+AWAY+FROM+TOKYO)
-* [Gesu No Kiwami Otome — 人生の針](https://www.last.fm/music/Gesu+No+Kiwami+Otome/_/%E4%BA%BA%E7%94%9F%E3%81%AE%E9%87%9D)
-* [hakushi hasegawa — Somoku](https://www.last.fm/music/hakushi+hasegawa/_/Somoku)
-* [mitsume — あこがれ](https://www.last.fm/music/mitsume/_/%E3%81%82%E3%81%93%E3%81%8C%E3%82%8C)
-* [D.A.N. — Chance](https://www.last.fm/music/D.A.N./_/Chance)<!-- LASTFM:END -->
+* [The fin. — Sapphire](https://www.last.fm/music/The+fin./_/Sapphire)
+* [Mei Ehara — 蓋なしの彼](https://www.last.fm/music/Mei+Ehara/_/%E8%93%8B%E3%81%AA%E3%81%97%E3%81%AE%E5%BD%BC)
+* [OGRE YOU ASSHOLE — また明日(Alternate Version)](https://www.last.fm/music/OGRE+YOU+ASSHOLE/_/%E3%81%BE%E3%81%9F%E6%98%8E%E6%97%A5(Alternate+Version))
+* [Sen Morimoto — Deep Down ft. AAAMYYY](https://www.last.fm/music/Sen+Morimoto/_/Deep+Down+ft.+AAAMYYY)
+* [THREE1989 — Kiss In The Sun](https://www.last.fm/music/THREE1989/_/Kiss+In+The+Sun)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
