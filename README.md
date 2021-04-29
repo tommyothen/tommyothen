@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [AAAMYYY — HOME](https://www.last.fm/music/AAAMYYY/_/HOME)
+* [Mondo Grosso — 惑星タントラ](https://www.last.fm/music/Mondo+Grosso/_/%E6%83%91%E6%98%9F%E3%82%BF%E3%83%B3%E3%83%88%E3%83%A9)
+* [Maika Loubté — Prismé](https://www.last.fm/music/Maika+Loubt%C3%A9/_/Prism%C3%A9)
 * [Wednesday Campanella — The Bamboo Princess](https://www.last.fm/music/Wednesday+Campanella/_/The+Bamboo+Princess)
-* [OGRE YOU ASSHOLE — バランス](https://www.last.fm/music/OGRE+YOU+ASSHOLE/_/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9)
-* [Soutaiseiriron — Neo-Future](https://www.last.fm/music/Soutaiseiriron/_/Neo-Future)
-* [D.A.N. — Chance](https://www.last.fm/music/D.A.N./_/Chance)
-* [Kaho Nakamura — Gum](https://www.last.fm/music/Kaho+Nakamura/_/Gum)<!-- LASTFM:END -->
+* [OGRE YOU ASSHOLE — バランス](https://www.last.fm/music/OGRE+YOU+ASSHOLE/_/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
