@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Izumi Makura — 棄てるなどして](https://www.last.fm/music/Izumi+Makura/_/%E6%A3%84%E3%81%A6%E3%82%8B%E3%81%AA%E3%81%A9%E3%81%97%E3%81%A6)
+* [Haruka Nakamura — Sad Premonition / Lilium](https://www.last.fm/music/Haruka+Nakamura/_/Sad+Premonition+%2F+Lilium)
+* [THE NOVEMBERS — 美しい火](https://www.last.fm/music/THE+NOVEMBERS/_/%E7%BE%8E%E3%81%97%E3%81%84%E7%81%AB)
 * [The fin. — Sapphire](https://www.last.fm/music/The+fin./_/Sapphire)
-* [Mei Ehara — 蓋なしの彼](https://www.last.fm/music/Mei+Ehara/_/%E8%93%8B%E3%81%AA%E3%81%97%E3%81%AE%E5%BD%BC)
-* [OGRE YOU ASSHOLE — また明日(Alternate Version)](https://www.last.fm/music/OGRE+YOU+ASSHOLE/_/%E3%81%BE%E3%81%9F%E6%98%8E%E6%97%A5(Alternate+Version))
-* [Sen Morimoto — Deep Down ft. AAAMYYY](https://www.last.fm/music/Sen+Morimoto/_/Deep+Down+ft.+AAAMYYY)
-* [THREE1989 — Kiss In The Sun](https://www.last.fm/music/THREE1989/_/Kiss+In+The+Sun)<!-- LASTFM:END -->
+* [Mei Ehara — 蓋なしの彼](https://www.last.fm/music/Mei+Ehara/_/%E8%93%8B%E3%81%AA%E3%81%97%E3%81%AE%E5%BD%BC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
