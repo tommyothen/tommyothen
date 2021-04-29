@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dresage — HOLY](https://www.last.fm/music/Dresage/_/HOLY)
-* [sohayl ryder — POSTMAN](https://www.last.fm/music/sohayl+ryder/_/POSTMAN)
-* [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
-* [LCYTN — Ride](https://www.last.fm/music/LCYTN/_/Ride)
-* [Koutei Camera Girl Drei — Spree](https://www.last.fm/music/Koutei+Camera+Girl+Drei/_/Spree)<!-- LASTFM:END -->
+* [Sixteenleo — Overdue](https://www.last.fm/music/Sixteenleo/_/Overdue)
+* [Henry Young — Honestly](https://www.last.fm/music/Henry+Young/_/Honestly)
+* [Madge — Headshot](https://www.last.fm/music/Madge/_/Headshot)
+* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
+* [Dresage — HOLY](https://www.last.fm/music/Dresage/_/HOLY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
