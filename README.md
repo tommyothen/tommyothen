@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [D.A.N. — Aechmea](https://www.last.fm/music/D.A.N./_/Aechmea)
+* [tempalay — どうしよう](https://www.last.fm/music/tempalay/_/%E3%81%A9%E3%81%86%E3%81%97%E3%82%88%E3%81%86)
+* [Blu-Swing — クラゲ](https://www.last.fm/music/Blu-Swing/_/%E3%82%AF%E3%83%A9%E3%82%B2)
 * [KinokoTeikoku — パラノイドパレード](https://www.last.fm/music/KinokoTeikoku/_/%E3%83%91%E3%83%A9%E3%83%8E%E3%82%A4%E3%83%89%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89)
-* [相対性理論 — Moonlight Ginga](https://www.last.fm/music/%E7%9B%B8%E5%AF%BE%E6%80%A7%E7%90%86%E8%AB%96/_/Moonlight+Ginga)
-* [City Your City — nude](https://www.last.fm/music/City+Your+City/_/nude)
-* [Maika Loubté — Mist](https://www.last.fm/music/Maika+Loubt%C3%A9/_/Mist)
-* [DAOKO — ゆめみてたのあたし](https://www.last.fm/music/DAOKO/_/%E3%82%86%E3%82%81%E3%81%BF%E3%81%A6%E3%81%9F%E3%81%AE%E3%81%82%E3%81%9F%E3%81%97)<!-- LASTFM:END -->
+* [相対性理論 — Moonlight Ginga](https://www.last.fm/music/%E7%9B%B8%E5%AF%BE%E6%80%A7%E7%90%86%E8%AB%96/_/Moonlight+Ginga)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
