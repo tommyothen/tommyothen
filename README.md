@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Soutaiseiriron — Neo-Future](https://www.last.fm/music/Soutaiseiriron/_/Neo-Future)
+* [hakushi hasegawa — Sea Change](https://www.last.fm/music/hakushi+hasegawa/_/Sea+Change)
 * [D.A.N. — Aechmea](https://www.last.fm/music/D.A.N./_/Aechmea)
 * [tempalay — どうしよう](https://www.last.fm/music/tempalay/_/%E3%81%A9%E3%81%86%E3%81%97%E3%82%88%E3%81%86)
-* [Blu-Swing — クラゲ](https://www.last.fm/music/Blu-Swing/_/%E3%82%AF%E3%83%A9%E3%82%B2)
-* [KinokoTeikoku — パラノイドパレード](https://www.last.fm/music/KinokoTeikoku/_/%E3%83%91%E3%83%A9%E3%83%8E%E3%82%A4%E3%83%89%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89)
-* [相対性理論 — Moonlight Ginga](https://www.last.fm/music/%E7%9B%B8%E5%AF%BE%E6%80%A7%E7%90%86%E8%AB%96/_/Moonlight+Ginga)<!-- LASTFM:END -->
+* [Blu-Swing — クラゲ](https://www.last.fm/music/Blu-Swing/_/%E3%82%AF%E3%83%A9%E3%82%B2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
