@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Okada Takuro — Shore](https://www.last.fm/music/Okada+Takuro/_/Shore)
 * [YeYe — ゆらゆら](https://www.last.fm/music/YeYe/_/%E3%82%86%E3%82%89%E3%82%86%E3%82%89)
 * [THE NOVEMBERS — Flower of Life](https://www.last.fm/music/THE+NOVEMBERS/_/Flower+of+Life)
 * [4s4ki — Your Dreamland](https://www.last.fm/music/4s4ki/_/Your+Dreamland)
-* [PAELLAS — Horizon](https://www.last.fm/music/PAELLAS/_/Horizon)
-* [KinokoTeikoku — Flower Girl](https://www.last.fm/music/KinokoTeikoku/_/Flower+Girl)<!-- LASTFM:END -->
+* [PAELLAS — Horizon](https://www.last.fm/music/PAELLAS/_/Horizon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
