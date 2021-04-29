@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [tricot — サマーナイトタウン](https://www.last.fm/music/tricot/_/%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88%E3%82%BF%E3%82%A6%E3%83%B3)
+* [MASS OF THE FERMENTING DREGS — delusionalism](https://www.last.fm/music/MASS+OF+THE+FERMENTING+DREGS/_/delusionalism)
 * [chelmico — N.E.S.](https://www.last.fm/music/chelmico/_/N.E.S.)
 * [BBHF — Simple](https://www.last.fm/music/BBHF/_/Simple)
-* [Gesu No Kiwami Otome — YDY](https://www.last.fm/music/Gesu+No+Kiwami+Otome/_/YDY)
-* [Sakanaction — ナイロンの糸](https://www.last.fm/music/Sakanaction/_/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B3%E3%81%AE%E7%B3%B8)
-* [For Tracy Hyde — Underwater Girl](https://www.last.fm/music/For+Tracy+Hyde/_/Underwater+Girl)<!-- LASTFM:END -->
+* [Gesu No Kiwami Otome — YDY](https://www.last.fm/music/Gesu+No+Kiwami+Otome/_/YDY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
