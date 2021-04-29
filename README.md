@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TOFUBEATS — 水星(Young & Fresh mix) feat. 仮谷せいら](https://www.last.fm/music/TOFUBEATS/_/%E6%B0%B4%E6%98%9F(Young+&+Fresh+mix)+feat.+%E4%BB%AE%E8%B0%B7%E3%81%9B%E3%81%84%E3%82%89)
+* [tricot — 真っ黒](https://www.last.fm/music/tricot/_/%E7%9C%9F%E3%81%A3%E9%BB%92)
 * [ぷにぷに電機 — Zansyo](https://www.last.fm/music/%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB%E9%9B%BB%E6%A9%9F/_/Zansyo)
 * [frasco — Dream](https://www.last.fm/music/frasco/_/Dream)
-* [yahyel — Hypnosis](https://www.last.fm/music/yahyel/_/Hypnosis)
-* [Kirinji — 時間がない](https://www.last.fm/music/Kirinji/_/%E6%99%82%E9%96%93%E3%81%8C%E3%81%AA%E3%81%84)
-* [tofubeats — Plastic Love](https://www.last.fm/music/tofubeats/_/Plastic+Love)<!-- LASTFM:END -->
+* [yahyel — Hypnosis](https://www.last.fm/music/yahyel/_/Hypnosis)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
