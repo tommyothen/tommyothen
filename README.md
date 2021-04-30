@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [NCT 127 — Regular - English Version](https://www.last.fm/music/NCT+127/_/Regular+-+English+Version)
-* [Alextbh — no space](https://www.last.fm/music/Alextbh/_/no+space)
-* [BLACKPINK — DDU-DU DDU-DU](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU)
-* [Keshi — 2 soon](https://www.last.fm/music/Keshi/_/2+soon)
-* [Loona — Eclipse](https://www.last.fm/music/Loona/_/Eclipse)<!-- LASTFM:END -->
+* [dosii — lovememore.](https://www.last.fm/music/dosii/_/lovememore.)
+* [Hoody — Hangang](https://www.last.fm/music/Hoody/_/Hangang)
+* [Loona — Butterfly](https://www.last.fm/music/Loona/_/Butterfly)
+* [Rina Sawayama — 10-20-40](https://www.last.fm/music/Rina+Sawayama/_/10-20-40)
+* [NCT 127 — Regular - English Version](https://www.last.fm/music/NCT+127/_/Regular+-+English+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
