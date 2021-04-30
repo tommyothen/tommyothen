@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — PLAYING WITH FIRE](https://www.last.fm/music/BLACKPINK/_/PLAYING+WITH+FIRE)
+* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
+* [Eric Nam — You're Sexy I'm Sexy](https://www.last.fm/music/Eric+Nam/_/You%27re+Sexy+I%27m+Sexy)
 * [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
-* [DAY6 — Zombie - English Ver.](https://www.last.fm/music/DAY6/_/Zombie+-+English+Ver.)
-* [Stray Kids — My Pace](https://www.last.fm/music/Stray+Kids/_/My+Pace)
-* [BLACKPINK — Crazy Over You](https://www.last.fm/music/BLACKPINK/_/Crazy+Over+You)
-* [Loona — favOriTe](https://www.last.fm/music/Loona/_/favOriTe)<!-- LASTFM:END -->
+* [DAY6 — Zombie - English Ver.](https://www.last.fm/music/DAY6/_/Zombie+-+English+Ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
