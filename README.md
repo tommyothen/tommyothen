@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tiffany Young — Run For Your Life](https://www.last.fm/music/Tiffany+Young/_/Run+For+Your+Life)
-* [TOMORROW X TOGETHER — New Rules](https://www.last.fm/music/TOMORROW+X+TOGETHER/_/New+Rules)
-* [Kid Milli — WHY DO FUCKBOIS HANG OUT ON THE NET](https://www.last.fm/music/Kid+Milli/_/WHY+DO+FUCKBOIS+HANG+OUT+ON+THE+NET)
-* [Bibi — Restless](https://www.last.fm/music/Bibi/_/Restless)
-* [BLACKPINK — Pretty Savage](https://www.last.fm/music/BLACKPINK/_/Pretty+Savage)<!-- LASTFM:END -->
+* [OOHYO — Butter Chicken](https://www.last.fm/music/OOHYO/_/Butter+Chicken)
+* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
+* [Exo — Obsession](https://www.last.fm/music/Exo/_/Obsession)
+* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
+* [Loona — Stylish](https://www.last.fm/music/Loona/_/Stylish)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
