@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Agust D — Daechwita](https://www.last.fm/music/Agust+D/_/Daechwita)
+* [Sulli — Goblin](https://www.last.fm/music/Sulli/_/Goblin)
+* [DAY6 — Chocolate](https://www.last.fm/music/DAY6/_/Chocolate)
 * [BLACKPINK — Don't Know What To Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+To+Do)
-* [Loona — 365](https://www.last.fm/music/Loona/_/365)
-* [Chanmina — Doctor](https://www.last.fm/music/Chanmina/_/Doctor)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)<!-- LASTFM:END -->
+* [Loona — 365](https://www.last.fm/music/Loona/_/365)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
