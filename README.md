@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [(G)I-DLE — HANN (Alone)](https://www.last.fm/music/(G)I-DLE/_/HANN+(Alone))
+* [Sulli — On The Moon](https://www.last.fm/music/Sulli/_/On+The+Moon)
+* [Alexa — Bomb - English Version](https://www.last.fm/music/Alexa/_/Bomb+-+English+Version)
 * [Eric Nam — I Don't Miss You](https://www.last.fm/music/Eric+Nam/_/I+Don%27t+Miss+You)
-* [Wonder Girls — Sweet & Easy](https://www.last.fm/music/Wonder+Girls/_/Sweet+&+Easy)
-* [TAEMIN — IDEA (理想)](https://www.last.fm/music/TAEMIN/_/IDEA+(%E7%90%86%E6%83%B3))
-* [IU — Jam Jam](https://www.last.fm/music/IU/_/Jam+Jam)
-* [Heize — First Sight](https://www.last.fm/music/Heize/_/First+Sight)<!-- LASTFM:END -->
+* [Wonder Girls — Sweet & Easy](https://www.last.fm/music/Wonder+Girls/_/Sweet+&+Easy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
