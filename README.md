@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))
-* [DPR LIVE — Gravity](https://www.last.fm/music/DPR+LIVE/_/Gravity)
-* [DeVita — EVITA!](https://www.last.fm/music/DeVita/_/EVITA!)
-* [Hyolyn — Dally (feat. Gray)](https://www.last.fm/music/Hyolyn/_/Dally+(feat.+Gray))
-* [BLACKPINK — Lovesick Girls](https://www.last.fm/music/BLACKPINK/_/Lovesick+Girls)<!-- LASTFM:END -->
+* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
+* [DAY6 — Zombie - English Ver.](https://www.last.fm/music/DAY6/_/Zombie+-+English+Ver.)
+* [Stray Kids — My Pace](https://www.last.fm/music/Stray+Kids/_/My+Pace)
+* [BLACKPINK — Crazy Over You](https://www.last.fm/music/BLACKPINK/_/Crazy+Over+You)
+* [Loona — favOriTe](https://www.last.fm/music/Loona/_/favOriTe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
