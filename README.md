@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [OOHYO — Butter Chicken](https://www.last.fm/music/OOHYO/_/Butter+Chicken)
-* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
-* [Exo — Obsession](https://www.last.fm/music/Exo/_/Obsession)
-* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
-* [Loona — Stylish](https://www.last.fm/music/Loona/_/Stylish)<!-- LASTFM:END -->
+* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))
+* [DPR LIVE — Gravity](https://www.last.fm/music/DPR+LIVE/_/Gravity)
+* [DeVita — EVITA!](https://www.last.fm/music/DeVita/_/EVITA!)
+* [Hyolyn — Dally (feat. Gray)](https://www.last.fm/music/Hyolyn/_/Dally+(feat.+Gray))
+* [BLACKPINK — Lovesick Girls](https://www.last.fm/music/BLACKPINK/_/Lovesick+Girls)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
