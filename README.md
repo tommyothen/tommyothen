@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
+* [MAMAMOO — HIP](https://www.last.fm/music/MAMAMOO/_/HIP)
 * [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
 * [(G)I-DLE — Oh My God](https://www.last.fm/music/(G)I-DLE/_/Oh+My+God)
-* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
-* [Solar — SPIT IT OUT](https://www.last.fm/music/Solar/_/SPIT+IT+OUT)
-* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)<!-- LASTFM:END -->
+* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
