@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Eclipse](https://www.last.fm/music/Loona/_/Eclipse)
-* [punchnello — Absinthe (Prod. by 0channel, 2xxx!)](https://www.last.fm/music/punchnello/_/Absinthe+(Prod.+by+0channel,+2xxx!))
-* [WayV — Love Talk](https://www.last.fm/music/WayV/_/Love+Talk)
-* [Winner — Hold](https://www.last.fm/music/Winner/_/Hold)
-* [TAEMIN — WANT](https://www.last.fm/music/TAEMIN/_/WANT)<!-- LASTFM:END -->
+* [NCT 127 — Regular - English Version](https://www.last.fm/music/NCT+127/_/Regular+-+English+Version)
+* [Alextbh — no space](https://www.last.fm/music/Alextbh/_/no+space)
+* [BLACKPINK — DDU-DU DDU-DU](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU)
+* [Keshi — 2 soon](https://www.last.fm/music/Keshi/_/2+soon)
+* [Loona — Eclipse](https://www.last.fm/music/Loona/_/Eclipse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
