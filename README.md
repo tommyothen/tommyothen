@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BLACKPINK — PLAYING WITH FIRE](https://www.last.fm/music/BLACKPINK/_/PLAYING+WITH+FIRE)
-* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
-* [Eric Nam — You're Sexy I'm Sexy](https://www.last.fm/music/Eric+Nam/_/You%27re+Sexy+I%27m+Sexy)
-* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
-* [DAY6 — Zombie - English Ver.](https://www.last.fm/music/DAY6/_/Zombie+-+English+Ver.)<!-- LASTFM:END -->
+* [Loona — Eclipse](https://www.last.fm/music/Loona/_/Eclipse)
+* [punchnello — Absinthe (Prod. by 0channel, 2xxx!)](https://www.last.fm/music/punchnello/_/Absinthe+(Prod.+by+0channel,+2xxx!))
+* [WayV — Love Talk](https://www.last.fm/music/WayV/_/Love+Talk)
+* [Winner — Hold](https://www.last.fm/music/Winner/_/Hold)
+* [TAEMIN — WANT](https://www.last.fm/music/TAEMIN/_/WANT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
