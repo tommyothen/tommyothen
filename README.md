@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZICO — SoulMate (feat. IU)](https://www.last.fm/music/ZICO/_/SoulMate+(feat.+IU))
+* [Rini — Out of the Blue](https://www.last.fm/music/Rini/_/Out+of+the+Blue)
 * [Colde — Control Me](https://www.last.fm/music/Colde/_/Control+Me)
 * [Wonder Girls — Why So Lonely](https://www.last.fm/music/Wonder+Girls/_/Why+So+Lonely)
-* [Justin Park — On the Low](https://www.last.fm/music/Justin+Park/_/On+the+Low)
-* [Everglow — LA DI DA](https://www.last.fm/music/Everglow/_/LA+DI+DA)
-* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)<!-- LASTFM:END -->
+* [Justin Park — On the Low](https://www.last.fm/music/Justin+Park/_/On+the+Low)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
