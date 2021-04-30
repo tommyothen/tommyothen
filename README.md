@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Keshi — 2 soon](https://www.last.fm/music/Keshi/_/2+soon)
-* [MONSTA X — FANTASIA](https://www.last.fm/music/MONSTA+X/_/FANTASIA)
-* [Demian — Cassette](https://www.last.fm/music/Demian/_/Cassette)
-* [Jessi — Who Dat B](https://www.last.fm/music/Jessi/_/Who+Dat+B)
-* [Exo — Monster](https://www.last.fm/music/Exo/_/Monster)<!-- LASTFM:END -->
+* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
+* [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
+* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
+* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
+* [SuperM — No Manners](https://www.last.fm/music/SuperM/_/No+Manners)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
