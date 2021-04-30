@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Demian — Cassette](https://www.last.fm/music/Demian/_/Cassette)
+* [Jessi — Who Dat B](https://www.last.fm/music/Jessi/_/Who+Dat+B)
+* [Exo — Monster](https://www.last.fm/music/Exo/_/Monster)
 * [(G)I-DLE — HANN (Alone)](https://www.last.fm/music/(G)I-DLE/_/HANN+(Alone))
-* [Sulli — On The Moon](https://www.last.fm/music/Sulli/_/On+The+Moon)
-* [Alexa — Bomb - English Version](https://www.last.fm/music/Alexa/_/Bomb+-+English+Version)
-* [Eric Nam — I Don't Miss You](https://www.last.fm/music/Eric+Nam/_/I+Don%27t+Miss+You)
-* [Wonder Girls — Sweet & Easy](https://www.last.fm/music/Wonder+Girls/_/Sweet+&+Easy)<!-- LASTFM:END -->
+* [Sulli — On The Moon](https://www.last.fm/music/Sulli/_/On+The+Moon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
