@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rina Sawayama — Tokyo Love Hotel](https://www.last.fm/music/Rina+Sawayama/_/Tokyo+Love+Hotel)
+* [Stray Kids — Back Door](https://www.last.fm/music/Stray+Kids/_/Back+Door)
+* [MONSTA X — LOVE U](https://www.last.fm/music/MONSTA+X/_/LOVE+U)
 * [dosii — lovememore.](https://www.last.fm/music/dosii/_/lovememore.)
-* [Hoody — Hangang](https://www.last.fm/music/Hoody/_/Hangang)
-* [Loona — Butterfly](https://www.last.fm/music/Loona/_/Butterfly)
-* [Rina Sawayama — 10-20-40](https://www.last.fm/music/Rina+Sawayama/_/10-20-40)
-* [NCT 127 — Regular - English Version](https://www.last.fm/music/NCT+127/_/Regular+-+English+Version)<!-- LASTFM:END -->
+* [Hoody — Hangang](https://www.last.fm/music/Hoody/_/Hangang)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
