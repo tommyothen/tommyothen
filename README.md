@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kid Milli — WHY DO FUCKBOIS HANG OUT ON THE NET](https://www.last.fm/music/Kid+Milli/_/WHY+DO+FUCKBOIS+HANG+OUT+ON+THE+NET)
 * [Bibi — Restless](https://www.last.fm/music/Bibi/_/Restless)
 * [BLACKPINK — Pretty Savage](https://www.last.fm/music/BLACKPINK/_/Pretty+Savage)
 * [Loona — Oh (Yes I Am)](https://www.last.fm/music/Loona/_/Oh+(Yes+I+Am))
-* [Villain — Manitto](https://www.last.fm/music/Villain/_/Manitto)
-* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)<!-- LASTFM:END -->
+* [Villain — Manitto](https://www.last.fm/music/Villain/_/Manitto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
