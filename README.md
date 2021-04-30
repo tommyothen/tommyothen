@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [April — Oh! my mistake](https://www.last.fm/music/April/_/Oh!+my+mistake)
-* [Hwa Sa — Maria](https://www.last.fm/music/Hwa+Sa/_/Maria)
-* [BLACKPINK — Love To Hate Me](https://www.last.fm/music/BLACKPINK/_/Love+To+Hate+Me)
-* [Keshi — 2 soon](https://www.last.fm/music/Keshi/_/2+soon)
-* [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))<!-- LASTFM:END -->
+* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
+* [MAMAMOO — HIP](https://www.last.fm/music/MAMAMOO/_/HIP)
+* [Loona — Number 1](https://www.last.fm/music/Loona/_/Number+1)
+* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
+* [April — Oh! my mistake](https://www.last.fm/music/April/_/Oh!+my+mistake)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
