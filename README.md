@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
+* [XI — FREEDOM DiVE↓](https://www.last.fm/music/XI/_/FREEDOM+DiVE%E2%86%93)
 * [Tristam — Frame of Mind](https://www.last.fm/music/Tristam/_/Frame+of+Mind)
 * [The Koxx — A Fool Moon Night](https://www.last.fm/music/The+Koxx/_/A+Fool+Moon+Night)
-* [RichaadEB — Flowering Night](https://www.last.fm/music/RichaadEB/_/Flowering+Night)
-* [Rameses B — Flaklypa](https://www.last.fm/music/Rameses+B/_/Flaklypa)
-* [DragonForce — Defenders](https://www.last.fm/music/DragonForce/_/Defenders)<!-- LASTFM:END -->
+* [RichaadEB — Flowering Night](https://www.last.fm/music/RichaadEB/_/Flowering+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
