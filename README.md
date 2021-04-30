@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR LIVE — Jam & Butterfly](https://www.last.fm/music/DPR+LIVE/_/Jam+&+Butterfly)
+* [BLACKPINK — You Never Know](https://www.last.fm/music/BLACKPINK/_/You+Never+Know)
 * [Loona — Egoist (Olivia Hye)](https://www.last.fm/music/Loona/_/Egoist+(Olivia+Hye))
 * [Shaun — Way Back Home (feat. Conor Maynard) - Sam Feldt Edit](https://www.last.fm/music/Shaun/_/Way+Back+Home+(feat.+Conor+Maynard)+-+Sam+Feldt+Edit)
-* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
-* [Katie — Remember](https://www.last.fm/music/Katie/_/Remember)
-* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)<!-- LASTFM:END -->
+* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
