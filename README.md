@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)
+* [Kennie — Northern Lights](https://www.last.fm/music/Kennie/_/Northern+Lights)
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
 * [OnlyOneOf — dOra maar](https://www.last.fm/music/OnlyOneOf/_/dOra+maar)
-* [BOL4 — Some](https://www.last.fm/music/BOL4/_/Some)
-* [CLC — No](https://www.last.fm/music/CLC/_/No)
-* [SUNMI — 24시간이 모자라](https://www.last.fm/music/SUNMI/_/24%EC%8B%9C%EA%B0%84%EC%9D%B4+%EB%AA%A8%EC%9E%90%EB%9D%BC)
-* [Bibi — Step?](https://www.last.fm/music/Bibi/_/Step%3F)<!-- LASTFM:END -->
+* [BOL4 — Some](https://www.last.fm/music/BOL4/_/Some)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
