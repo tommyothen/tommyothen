@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
-* [MAMAMOO — HIP](https://www.last.fm/music/MAMAMOO/_/HIP)
-* [Loona — Number 1](https://www.last.fm/music/Loona/_/Number+1)
-* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
-* [April — Oh! my mistake](https://www.last.fm/music/April/_/Oh!+my+mistake)<!-- LASTFM:END -->
+* [Bibi — Restless](https://www.last.fm/music/Bibi/_/Restless)
+* [BLACKPINK — Pretty Savage](https://www.last.fm/music/BLACKPINK/_/Pretty+Savage)
+* [Loona — Oh (Yes I Am)](https://www.last.fm/music/Loona/_/Oh+(Yes+I+Am))
+* [Villain — Manitto](https://www.last.fm/music/Villain/_/Manitto)
+* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
