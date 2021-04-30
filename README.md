@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Colors](https://www.last.fm/music/Loona/_/Colors)
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
 * [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
 * [K/DA — MORE](https://www.last.fm/music/K%2FDA/_/MORE)
-* [DPR LIVE — Jam & Butterfly](https://www.last.fm/music/DPR+LIVE/_/Jam+&+Butterfly)
-* [BLACKPINK — You Never Know](https://www.last.fm/music/BLACKPINK/_/You+Never+Know)
-* [Loona — Egoist (Olivia Hye)](https://www.last.fm/music/Loona/_/Egoist+(Olivia+Hye))<!-- LASTFM:END -->
+* [DPR LIVE — Jam & Butterfly](https://www.last.fm/music/DPR+LIVE/_/Jam+&+Butterfly)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
