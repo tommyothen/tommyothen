@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GFRIEND — Apple](https://www.last.fm/music/GFRIEND/_/Apple)
+* [TOMORROW X TOGETHER — CROWN](https://www.last.fm/music/TOMORROW+X+TOGETHER/_/CROWN)
+* [Loona — One & Only (Go Won)](https://www.last.fm/music/Loona/_/One+&+Only+(Go+Won))
 * [Rina Sawayama — Tokyo Love Hotel](https://www.last.fm/music/Rina+Sawayama/_/Tokyo+Love+Hotel)
-* [Stray Kids — Back Door](https://www.last.fm/music/Stray+Kids/_/Back+Door)
-* [MONSTA X — LOVE U](https://www.last.fm/music/MONSTA+X/_/LOVE+U)
-* [dosii — lovememore.](https://www.last.fm/music/dosii/_/lovememore.)
-* [Hoody — Hangang](https://www.last.fm/music/Hoody/_/Hangang)<!-- LASTFM:END -->
+* [Stray Kids — Back Door](https://www.last.fm/music/Stray+Kids/_/Back+Door)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
