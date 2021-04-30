@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))
-* [SLCHLD — she likes spring, I prefer winter](https://www.last.fm/music/SLCHLD/_/she+likes+spring,+I+prefer+winter)
-* [Bibi — KAZINO](https://www.last.fm/music/Bibi/_/KAZINO)
-* [Nafla — Under the Ground (feat. Dean)](https://www.last.fm/music/Nafla/_/Under+the+Ground+(feat.+Dean))
-* [88Rising — Midsummer Madness](https://www.last.fm/music/88Rising/_/Midsummer+Madness)<!-- LASTFM:END -->
+* [April — Oh! my mistake](https://www.last.fm/music/April/_/Oh!+my+mistake)
+* [Hwa Sa — Maria](https://www.last.fm/music/Hwa+Sa/_/Maria)
+* [BLACKPINK — Love To Hate Me](https://www.last.fm/music/BLACKPINK/_/Love+To+Hate+Me)
+* [Keshi — 2 soon](https://www.last.fm/music/Keshi/_/2+soon)
+* [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
