@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wonder Girls — Sweet & Easy](https://www.last.fm/music/Wonder+Girls/_/Sweet+&+Easy)
+* [TAEMIN — IDEA (理想)](https://www.last.fm/music/TAEMIN/_/IDEA+(%E7%90%86%E6%83%B3))
 * [IU — Jam Jam](https://www.last.fm/music/IU/_/Jam+Jam)
 * [Heize — First Sight](https://www.last.fm/music/Heize/_/First+Sight)
-* [NCT — BOSS](https://www.last.fm/music/NCT/_/BOSS)
-* [ZICO — SoulMate (feat. IU)](https://www.last.fm/music/ZICO/_/SoulMate+(feat.+IU))
-* [Rini — Out of the Blue](https://www.last.fm/music/Rini/_/Out+of+the+Blue)<!-- LASTFM:END -->
+* [NCT — BOSS](https://www.last.fm/music/NCT/_/BOSS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
