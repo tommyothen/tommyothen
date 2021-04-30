@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SUNMI — 24시간이 모자라](https://www.last.fm/music/SUNMI/_/24%EC%8B%9C%EA%B0%84%EC%9D%B4+%EB%AA%A8%EC%9E%90%EB%9D%BC)
+* [Bibi — Step?](https://www.last.fm/music/Bibi/_/Step%3F)
 * [Apink — %%(Eung Eung)](https://www.last.fm/music/Apink/_/%25%25(Eung+Eung))
 * [TWICE — I CAN'T STOP ME](https://www.last.fm/music/TWICE/_/I+CAN%27T+STOP+ME)
-* [Loona — 소년, 소녀](https://www.last.fm/music/Loona/_/%EC%86%8C%EB%85%84,+%EC%86%8C%EB%85%80)
-* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
-* [Everglow — Adios](https://www.last.fm/music/Everglow/_/Adios)<!-- LASTFM:END -->
+* [Loona — 소년, 소녀](https://www.last.fm/music/Loona/_/%EC%86%8C%EB%85%84,+%EC%86%8C%EB%85%80)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
