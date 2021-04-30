@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [88Rising — Midsummer Madness](https://www.last.fm/music/88Rising/_/Midsummer+Madness)
 * [BLACKPINK — Ice Cream (with Selena Gomez)](https://www.last.fm/music/BLACKPINK/_/Ice+Cream+(with+Selena+Gomez))
 * [Loona — Satellite](https://www.last.fm/music/Loona/_/Satellite)
 * [WayV — Love Talk - English Version](https://www.last.fm/music/WayV/_/Love+Talk+-+English+Version)
-* [Agust D — Daechwita](https://www.last.fm/music/Agust+D/_/Daechwita)
-* [Sulli — Goblin](https://www.last.fm/music/Sulli/_/Goblin)<!-- LASTFM:END -->
+* [Agust D — Daechwita](https://www.last.fm/music/Agust+D/_/Daechwita)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
