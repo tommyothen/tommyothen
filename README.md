@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [RODERICK PORTER — I Didn't Realize How Empty My Bed Was Until You Left](https://www.last.fm/music/RODERICK+PORTER/_/I+Didn%27t+Realize+How+Empty+My+Bed+Was+Until+You+Left)
+* [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
 * [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
-* [Conan Gray — Heather](https://www.last.fm/music/Conan+Gray/_/Heather)
-* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
-* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
-* [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)<!-- LASTFM:END -->
+* [Conan Gray — Heather](https://www.last.fm/music/Conan+Gray/_/Heather)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
