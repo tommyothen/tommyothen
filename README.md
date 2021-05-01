@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)
 * [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
 * [Feduk — Графэ и сиськи](https://www.last.fm/music/Feduk/_/%D0%93%D1%80%D0%B0%D1%84%D1%8D+%D0%B8+%D1%81%D0%B8%D1%81%D1%8C%D0%BA%D0%B8)
 * [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
-* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
-* [Kupla — Moudi Funk](https://www.last.fm/music/Kupla/_/Moudi+Funk)<!-- LASTFM:END -->
+* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
