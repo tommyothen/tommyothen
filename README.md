@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)
-* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
-* [Black Eyed Peas — I Gotta Feeling](https://www.last.fm/music/Black+Eyed+Peas/_/I+Gotta+Feeling)
-* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
-* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)<!-- LASTFM:END -->
+* [Dizzee Rascal — Bassline Junkie](https://www.last.fm/music/Dizzee+Rascal/_/Bassline+Junkie)
+* [Dizzee Rascal — Bonkers](https://www.last.fm/music/Dizzee+Rascal/_/Bonkers)
+* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
+* [Michael Bublé — Haven't Met You Yet](https://www.last.fm/music/Michael+Bubl%C3%A9/_/Haven%27t+Met+You+Yet)
+* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
