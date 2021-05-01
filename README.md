@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)
-* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
-* [Feduk — Графэ и сиськи](https://www.last.fm/music/Feduk/_/%D0%93%D1%80%D0%B0%D1%84%D1%8D+%D0%B8+%D1%81%D0%B8%D1%81%D1%8C%D0%BA%D0%B8)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
-* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)<!-- LASTFM:END -->
+* [Feduk — Скрытая злость](https://www.last.fm/music/Feduk/_/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F+%D0%B7%D0%BB%D0%BE%D1%81%D1%82%D1%8C)
+* [Joji — i don't wanna waste my time](https://www.last.fm/music/Joji/_/i+don%27t+wanna+waste+my+time)
+* [Tsundere Alley — Like My Love](https://www.last.fm/music/Tsundere+Alley/_/Like+My+Love)
+* [Tove Lo — disco tits](https://www.last.fm/music/Tove+Lo/_/disco+tits)
+* [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
