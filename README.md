@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eric Nam — This Is Not A Love Song](https://www.last.fm/music/Eric+Nam/_/This+Is+Not+A+Love+Song)
 * [MONSTA X — MIDDLE OF THE NIGHT](https://www.last.fm/music/MONSTA+X/_/MIDDLE+OF+THE+NIGHT)
 * [Dumbfoundead — WASHED (PROD. BY SHAWN WASABI)](https://www.last.fm/music/Dumbfoundead/_/WASHED+(PROD.+BY+SHAWN+WASABI))
 * [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
-* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
-* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)<!-- LASTFM:END -->
+* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
