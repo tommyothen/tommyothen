@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kupla — Moudi Funk](https://www.last.fm/music/Kupla/_/Moudi+Funk)
-* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
-* [bbno$ — pennies up](https://www.last.fm/music/bbno$/_/pennies+up)
-* [Bliss n Eso — Tear The Roof Off (feat. Watsky)](https://www.last.fm/music/Bliss+n+Eso/_/Tear+The+Roof+Off+(feat.+Watsky))
-* [Forrest. — Your Soul](https://www.last.fm/music/Forrest./_/Your+Soul)<!-- LASTFM:END -->
+* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
+* [Feduk — Графэ и сиськи](https://www.last.fm/music/Feduk/_/%D0%93%D1%80%D0%B0%D1%84%D1%8D+%D0%B8+%D1%81%D0%B8%D1%81%D1%8C%D0%BA%D0%B8)
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
+* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
+* [Kupla — Moudi Funk](https://www.last.fm/music/Kupla/_/Moudi+Funk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
