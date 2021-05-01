@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Far East Movement — Like A G6](https://www.last.fm/music/Far+East+Movement/_/Like+A+G6)
+* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
+* [Katy Perry — Last Friday Night (T.G.I.F.)](https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+(T.G.I.F.))
 * [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
-* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
-* [Carly Rae Jepsen — I Really Like You](https://www.last.fm/music/Carly+Rae+Jepsen/_/I+Really+Like+You)<!-- LASTFM:END -->
+* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
