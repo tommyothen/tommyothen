@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Feduk — Лишние встречи - Skit](https://www.last.fm/music/Feduk/_/%D0%9B%D0%B8%D1%88%D0%BD%D0%B8%D0%B5+%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8+-+Skit)
+* [bbno$ — bulletproof](https://www.last.fm/music/bbno$/_/bulletproof)
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
 * [Ghost Data — CELESTIAL BODIES](https://www.last.fm/music/Ghost+Data/_/CELESTIAL+BODIES)
-* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
-* [Westside Gravy — Hands Up High](https://www.last.fm/music/Westside+Gravy/_/Hands+Up+High)
-* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
-* [Hilltop Hoods — Cosby Sweater](https://www.last.fm/music/Hilltop+Hoods/_/Cosby+Sweater)<!-- LASTFM:END -->
+* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
