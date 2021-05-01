@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kupla — Moudi Funk](https://www.last.fm/music/Kupla/_/Moudi+Funk)
+* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
 * [bbno$ — pennies up](https://www.last.fm/music/bbno$/_/pennies+up)
 * [Bliss n Eso — Tear The Roof Off (feat. Watsky)](https://www.last.fm/music/Bliss+n+Eso/_/Tear+The+Roof+Off+(feat.+Watsky))
-* [Forrest. — Your Soul](https://www.last.fm/music/Forrest./_/Your+Soul)
-* [YUNG BAE — Holding Your Hand](https://www.last.fm/music/YUNG+BAE/_/Holding+Your+Hand)
-* [ROY PURDY — PINK AND GREEN](https://www.last.fm/music/ROY+PURDY/_/PINK+AND+GREEN)<!-- LASTFM:END -->
+* [Forrest. — Your Soul](https://www.last.fm/music/Forrest./_/Your+Soul)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
