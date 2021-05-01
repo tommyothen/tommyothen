@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)
+* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
 * [DAY6 — Shoot Me](https://www.last.fm/music/DAY6/_/Shoot+Me)
 * [Eric Nam — This Is Not A Love Song](https://www.last.fm/music/Eric+Nam/_/This+Is+Not+A+Love+Song)
-* [MONSTA X — MIDDLE OF THE NIGHT](https://www.last.fm/music/MONSTA+X/_/MIDDLE+OF+THE+NIGHT)
-* [Dumbfoundead — WASHED (PROD. BY SHAWN WASABI)](https://www.last.fm/music/Dumbfoundead/_/WASHED+(PROD.+BY+SHAWN+WASABI))
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)<!-- LASTFM:END -->
+* [MONSTA X — MIDDLE OF THE NIGHT](https://www.last.fm/music/MONSTA+X/_/MIDDLE+OF+THE+NIGHT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
