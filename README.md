@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [We Are Fury — Don't Forget (feat. Mariah Delage)](https://www.last.fm/music/We+Are+Fury/_/Don%27t+Forget+(feat.+Mariah+Delage))
-* [DROELOE — Looking Back](https://www.last.fm/music/DROELOE/_/Looking+Back)
-* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
-* [Antoha MC — Спорт-брат](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BF%D0%BE%D1%80%D1%82-%D0%B1%D1%80%D0%B0%D1%82)
-* [Elohim — Sensations - Whethan Remix](https://www.last.fm/music/Elohim/_/Sensations+-+Whethan+Remix)<!-- LASTFM:END -->
+* [Paramore — Still into You](https://www.last.fm/music/Paramore/_/Still+into+You)
+* [Far East Movement — Like A G6](https://www.last.fm/music/Far+East+Movement/_/Like+A+G6)
+* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
+* [Justin Stone — Bite My Tongue](https://www.last.fm/music/Justin+Stone/_/Bite+My+Tongue)
+* [We Are Fury — Don't Forget (feat. Mariah Delage)](https://www.last.fm/music/We+Are+Fury/_/Don%27t+Forget+(feat.+Mariah+Delage))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
