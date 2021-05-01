@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
+* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
 * [Daft Punk — Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit](https://www.last.fm/music/Daft+Punk/_/Get+Lucky+(feat.+Pharrell+Williams+&+Nile+Rodgers)+-+Radio+Edit)
 * [Mungo's Hi Fi — Did You Really Know](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Did+You+Really+Know)
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)<!-- LASTFM:END -->
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
