@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Westside Gravy — Hands Up High](https://www.last.fm/music/Westside+Gravy/_/Hands+Up+High)
+* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
 * [Hilltop Hoods — Cosby Sweater](https://www.last.fm/music/Hilltop+Hoods/_/Cosby+Sweater)
 * [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
-* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
-* [88Rising — Peach Jam](https://www.last.fm/music/88Rising/_/Peach+Jam)
-* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)<!-- LASTFM:END -->
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
