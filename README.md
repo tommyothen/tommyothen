@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
 * [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
 * [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
-* [Audrey Nuna — Comic Sans](https://www.last.fm/music/Audrey+Nuna/_/Comic+Sans)
-* [JOOBIS — Extra](https://www.last.fm/music/JOOBIS/_/Extra)
-* [Su Lee — Cocoa Butter Kisses](https://www.last.fm/music/Su+Lee/_/Cocoa+Butter+Kisses)<!-- LASTFM:END -->
+* [Audrey Nuna — Comic Sans](https://www.last.fm/music/Audrey+Nuna/_/Comic+Sans)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
