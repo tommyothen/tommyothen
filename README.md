@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Carly Rae Jepsen — I Really Like You](https://www.last.fm/music/Carly+Rae+Jepsen/_/I+Really+Like+You)
 * [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
 * [Paramore — Still into You](https://www.last.fm/music/Paramore/_/Still+into+You)
 * [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
-* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
+* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
