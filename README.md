@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
 * [nothing,nowhere. — nightmare](https://www.last.fm/music/nothing,nowhere./_/nightmare)
 * [nothing,nowhere. — blood (feat. KennyHoopla & JUDGE)](https://www.last.fm/music/nothing,nowhere./_/blood+(feat.+KennyHoopla+&+JUDGE))
 * [nothing,nowhere. — hammer](https://www.last.fm/music/nothing,nowhere./_/hammer)
-* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
-* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)<!-- LASTFM:END -->
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
