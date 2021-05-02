@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
+* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
 * [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
 * [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
-* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
-* [Black Eyed Peas — Meet Me Halfway](https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway)
-* [Paramore — Still into You](https://www.last.fm/music/Paramore/_/Still+into+You)<!-- LASTFM:END -->
+* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
