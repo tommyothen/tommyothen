@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)
-* [Cö shu Nie — FLARE - English version](https://www.last.fm/music/C%C3%B6+shu+Nie/_/FLARE+-+English+version)
-* [Kurt Travis — Easy Peasy](https://www.last.fm/music/Kurt+Travis/_/Easy+Peasy)
-* [RARE AKUMA — GANTZ!](https://www.last.fm/music/RARE+AKUMA/_/GANTZ!)
-* [Ben Yen — Animal Crossing (Freestyle)](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+(Freestyle))<!-- LASTFM:END -->
+* [the booyah! kids — idwtgtbt](https://www.last.fm/music/the+booyah!+kids/_/idwtgtbt)
+* [Super Whatevr — i wanna be cool. (feat. Lost Boy)](https://www.last.fm/music/Super+Whatevr/_/i+wanna+be+cool.+(feat.+Lost+Boy))
+* [Forests — Kawaii Hawaii](https://www.last.fm/music/Forests/_/Kawaii+Hawaii)
+* [Cat Company — Sad Dance](https://www.last.fm/music/Cat+Company/_/Sad+Dance)
+* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
