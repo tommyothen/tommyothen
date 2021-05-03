@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Forests — Kawaii Hawaii](https://www.last.fm/music/Forests/_/Kawaii+Hawaii)
-* [RITCHRD — PARIS](https://www.last.fm/music/RITCHRD/_/PARIS)
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
-* [Basshunter feat. DJ Mental Theos Bazzheadz — Now You're Gone - Video Edit](https://www.last.fm/music/Basshunter+feat.+DJ+Mental+Theos+Bazzheadz/_/Now+You%27re+Gone+-+Video+Edit)
-* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)<!-- LASTFM:END -->
+* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
+* [Cö shu Nie — FLARE - English version](https://www.last.fm/music/C%C3%B6+shu+Nie/_/FLARE+-+English+version)
+* [Bye Mugen — Honey Lemon](https://www.last.fm/music/Bye+Mugen/_/Honey+Lemon)
+* [Super Whatevr — i wanna be cool. (feat. Lost Boy)](https://www.last.fm/music/Super+Whatevr/_/i+wanna+be+cool.+(feat.+Lost+Boy))
+* [Forests — Kawaii Hawaii](https://www.last.fm/music/Forests/_/Kawaii+Hawaii)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
