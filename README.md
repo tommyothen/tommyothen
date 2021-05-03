@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Porter Robinson — Polygon Dust](https://www.last.fm/music/Porter+Robinson/_/Polygon+Dust)
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
-* [Lybra — Mazes](https://www.last.fm/music/Lybra/_/Mazes)
-* [Lani Rose — Warm Blanket](https://www.last.fm/music/Lani+Rose/_/Warm+Blanket)
-* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)<!-- LASTFM:END -->
+* [bbno$ — money conversation](https://www.last.fm/music/bbno$/_/money+conversation)
+* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
+* [Pendulum — Self vs Self (feat. In Flames)](https://www.last.fm/music/Pendulum/_/Self+vs+Self+(feat.+In+Flames))
+* [TERROR REID — DEAD TO ME](https://www.last.fm/music/TERROR+REID/_/DEAD+TO+ME)
+* [Aries — UR NOT PRECIOUS](https://www.last.fm/music/Aries/_/UR+NOT+PRECIOUS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
