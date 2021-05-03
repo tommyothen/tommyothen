@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Porter Robinson — Polygon Dust](https://www.last.fm/music/Porter+Robinson/_/Polygon+Dust)
+* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
+* [Lybra — Mazes](https://www.last.fm/music/Lybra/_/Mazes)
 * [Lani Rose — Warm Blanket](https://www.last.fm/music/Lani+Rose/_/Warm+Blanket)
-* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
-* [Cat Company — Sad Dance](https://www.last.fm/music/Cat+Company/_/Sad+Dance)
-* [the booyah! kids — idwtgtbt](https://www.last.fm/music/the+booyah!+kids/_/idwtgtbt)
-* [Fever The Ghost — Exoflash](https://www.last.fm/music/Fever+The+Ghost/_/Exoflash)<!-- LASTFM:END -->
+* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
