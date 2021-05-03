@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Forests — Kawaii Hawaii](https://www.last.fm/music/Forests/_/Kawaii+Hawaii)
+* [RITCHRD — PARIS](https://www.last.fm/music/RITCHRD/_/PARIS)
+* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
 * [Basshunter feat. DJ Mental Theos Bazzheadz — Now You're Gone - Video Edit](https://www.last.fm/music/Basshunter+feat.+DJ+Mental+Theos+Bazzheadz/_/Now+You%27re+Gone+-+Video+Edit)
-* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)
-* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
-* [Far East Movement — Like A G6](https://www.last.fm/music/Far+East+Movement/_/Like+A+G6)
-* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)<!-- LASTFM:END -->
+* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
