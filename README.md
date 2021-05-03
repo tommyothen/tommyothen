@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
 * [Jiwoo — Comme des Garçons](https://www.last.fm/music/Jiwoo/_/Comme+des+Gar%C3%A7ons)
-* [pinocchioP — What's Inside](https://www.last.fm/music/pinocchioP/_/What%27s+Inside)
-* [Headhaunter — A Perfect Date (To Die For)](https://www.last.fm/music/Headhaunter/_/A+Perfect+Date+(To+Die+For))
-* [ladiesmile — GOODMORNING!](https://www.last.fm/music/ladiesmile/_/GOODMORNING!)
-* [Suckerpunk — Without Me](https://www.last.fm/music/Suckerpunk/_/Without+Me)<!-- LASTFM:END -->
+* [pinocchioP — What's Inside](https://www.last.fm/music/pinocchioP/_/What%27s+Inside)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
