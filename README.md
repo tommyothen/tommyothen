@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [RARE AKUMA — GANTZ!](https://www.last.fm/music/RARE+AKUMA/_/GANTZ!)
+* [Bo En — my time](https://www.last.fm/music/Bo+En/_/my+time)
 * [the booyah! kids — idwtgtbt](https://www.last.fm/music/the+booyah!+kids/_/idwtgtbt)
 * [Bye Mugen — Honey Lemon](https://www.last.fm/music/Bye+Mugen/_/Honey+Lemon)
-* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)
-* [Kurt Travis — Easy Peasy](https://www.last.fm/music/Kurt+Travis/_/Easy+Peasy)
-* [pinocchioP — What's Inside](https://www.last.fm/music/pinocchioP/_/What%27s+Inside)<!-- LASTFM:END -->
+* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
