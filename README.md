@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)
-* [Getter — Forget It (feat. Oliver Tree)](https://www.last.fm/music/Getter/_/Forget+It+(feat.+Oliver+Tree))
-* [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
-* [Ghost Data — CELESTIAL BODIES](https://www.last.fm/music/Ghost+Data/_/CELESTIAL+BODIES)
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)<!-- LASTFM:END -->
+* [jdam — Problem](https://www.last.fm/music/jdam/_/Problem)
+* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
+* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
+* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
+* [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
