@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
-* [Cö shu Nie — FLARE - English version](https://www.last.fm/music/C%C3%B6+shu+Nie/_/FLARE+-+English+version)
-* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
-* [Pretoria — Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping)
-* [Suckerpunk — Without Me](https://www.last.fm/music/Suckerpunk/_/Without+Me)<!-- LASTFM:END -->
+* [Bye Mugen — Honey Lemon](https://www.last.fm/music/Bye+Mugen/_/Honey+Lemon)
+* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)
+* [Kurt Travis — Easy Peasy](https://www.last.fm/music/Kurt+Travis/_/Easy+Peasy)
+* [pinocchioP — What's Inside](https://www.last.fm/music/pinocchioP/_/What%27s+Inside)
+* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
