@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Headhaunter — A Perfect Date (To Die For)](https://www.last.fm/music/Headhaunter/_/A+Perfect+Date+(To+Die+For))
+* [ladiesmile — GOODMORNING!](https://www.last.fm/music/ladiesmile/_/GOODMORNING!)
+* [Suckerpunk — Without Me](https://www.last.fm/music/Suckerpunk/_/Without+Me)
 * [the booyah! kids — idwtgtbt](https://www.last.fm/music/the+booyah!+kids/_/idwtgtbt)
-* [Super Whatevr — i wanna be cool. (feat. Lost Boy)](https://www.last.fm/music/Super+Whatevr/_/i+wanna+be+cool.+(feat.+Lost+Boy))
-* [Forests — Kawaii Hawaii](https://www.last.fm/music/Forests/_/Kawaii+Hawaii)
-* [Cat Company — Sad Dance](https://www.last.fm/music/Cat+Company/_/Sad+Dance)
-* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)<!-- LASTFM:END -->
+* [Super Whatevr — i wanna be cool. (feat. Lost Boy)](https://www.last.fm/music/Super+Whatevr/_/i+wanna+be+cool.+(feat.+Lost+Boy))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
