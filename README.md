@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ben Yen — Animal Crossing (Freestyle)](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+(Freestyle))
-* [Lani Rose — Warm Blanket](https://www.last.fm/music/Lani+Rose/_/Warm+Blanket)
-* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
-* [marc indigo — soul searching](https://www.last.fm/music/marc+indigo/_/soul+searching)
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)<!-- LASTFM:END -->
+* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)
+* [Cö shu Nie — FLARE - English version](https://www.last.fm/music/C%C3%B6+shu+Nie/_/FLARE+-+English+version)
+* [Kurt Travis — Easy Peasy](https://www.last.fm/music/Kurt+Travis/_/Easy+Peasy)
+* [RARE AKUMA — GANTZ!](https://www.last.fm/music/RARE+AKUMA/_/GANTZ!)
+* [Ben Yen — Animal Crossing (Freestyle)](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+(Freestyle))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
