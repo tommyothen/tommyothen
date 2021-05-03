@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
+* [potsu — letting go](https://www.last.fm/music/potsu/_/letting+go)
 * [jdam — Problem](https://www.last.fm/music/jdam/_/Problem)
 * [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
-* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
-* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
-* [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)<!-- LASTFM:END -->
+* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
