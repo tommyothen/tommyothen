@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [the booyah! kids — idwtgtbt](https://www.last.fm/music/the+booyah!+kids/_/idwtgtbt)
 * [Bye Mugen — Honey Lemon](https://www.last.fm/music/Bye+Mugen/_/Honey+Lemon)
 * [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)
 * [Kurt Travis — Easy Peasy](https://www.last.fm/music/Kurt+Travis/_/Easy+Peasy)
-* [pinocchioP — What's Inside](https://www.last.fm/music/pinocchioP/_/What%27s+Inside)
-* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)<!-- LASTFM:END -->
+* [pinocchioP — What's Inside](https://www.last.fm/music/pinocchioP/_/What%27s+Inside)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
