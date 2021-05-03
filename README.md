@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cat Company — Sad Dance](https://www.last.fm/music/Cat+Company/_/Sad+Dance)
 * [the booyah! kids — idwtgtbt](https://www.last.fm/music/the+booyah!+kids/_/idwtgtbt)
 * [Fever The Ghost — Exoflash](https://www.last.fm/music/Fever+The+Ghost/_/Exoflash)
 * [ladiesmile — GOODMORNING!](https://www.last.fm/music/ladiesmile/_/GOODMORNING!)
-* [ZEI — Oceans of Liquor](https://www.last.fm/music/ZEI/_/Oceans+of+Liquor)
-* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)<!-- LASTFM:END -->
+* [ZEI — Oceans of Liquor](https://www.last.fm/music/ZEI/_/Oceans+of+Liquor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
