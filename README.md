@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [pinocchioP — What's Inside](https://www.last.fm/music/pinocchioP/_/What%27s+Inside)
-* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
-* [Bo En — my time](https://www.last.fm/music/Bo+En/_/my+time)
-* [Pretoria — Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping)
-* [Kurt Travis — Easy Peasy](https://www.last.fm/music/Kurt+Travis/_/Easy+Peasy)<!-- LASTFM:END -->
+* [the booyah! kids — idwtgtbt](https://www.last.fm/music/the+booyah!+kids/_/idwtgtbt)
+* [Fever The Ghost — Exoflash](https://www.last.fm/music/Fever+The+Ghost/_/Exoflash)
+* [ladiesmile — GOODMORNING!](https://www.last.fm/music/ladiesmile/_/GOODMORNING!)
+* [ZEI — Oceans of Liquor](https://www.last.fm/music/ZEI/_/Oceans+of+Liquor)
+* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
