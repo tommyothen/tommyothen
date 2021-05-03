@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [nohidea — sincerely, yours](https://www.last.fm/music/nohidea/_/sincerely,+yours)
-* [Sebastian Paul — SO DONE](https://www.last.fm/music/Sebastian+Paul/_/SO+DONE)
-* [Hieroglyphics — Make Your Move](https://www.last.fm/music/Hieroglyphics/_/Make+Your+Move)
-* [Eldzhey — Розовое вино](https://www.last.fm/music/Eldzhey/_/%D0%A0%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B5+%D0%B2%D0%B8%D0%BD%D0%BE)
-* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)<!-- LASTFM:END -->
+* [Oliver Tree — Do You Feel Me?](https://www.last.fm/music/Oliver+Tree/_/Do+You+Feel+Me%3F)
+* [88Rising — La Cienega](https://www.last.fm/music/88Rising/_/La+Cienega)
+* [Zanuda — Папиросы](https://www.last.fm/music/Zanuda/_/%D0%9F%D0%B0%D0%BF%D0%B8%D1%80%D0%BE%D1%81%D1%8B)
+* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)
+* [nohidea — sincerely, yours](https://www.last.fm/music/nohidea/_/sincerely,+yours)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
