@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
+* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)
 * [Dizzee Rascal — Bassline Junkie](https://www.last.fm/music/Dizzee+Rascal/_/Bassline+Junkie)
 * [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
-* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
-* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)
-* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)<!-- LASTFM:END -->
+* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
