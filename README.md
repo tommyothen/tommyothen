@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jid — Workin Out](https://www.last.fm/music/Jid/_/Workin+Out)
-* [21 Savage — a lot](https://www.last.fm/music/21+Savage/_/a+lot)
-* [Dreamcatcher — Full Moon](https://www.last.fm/music/Dreamcatcher/_/Full+Moon)
-* [Westside Gravy — 64](https://www.last.fm/music/Westside+Gravy/_/64)
-* [Zanuda — Папиросы](https://www.last.fm/music/Zanuda/_/%D0%9F%D0%B0%D0%BF%D0%B8%D1%80%D0%BE%D1%81%D1%8B)<!-- LASTFM:END -->
+* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
+* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [Jid — Workin Out](https://www.last.fm/music/Jid/_/Workin+Out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
