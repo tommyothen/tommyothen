@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)
+* [marc indigo — soul searching](https://www.last.fm/music/marc+indigo/_/soul+searching)
+* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
 * [RITCHRD — PARIS](https://www.last.fm/music/RITCHRD/_/PARIS)
-* [Yun Head — Cats on Mars](https://www.last.fm/music/Yun+Head/_/Cats+on+Mars)
-* [Pretoria — Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping)
-* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
-* [LongStoryShort — Lost Summer](https://www.last.fm/music/LongStoryShort/_/Lost+Summer)<!-- LASTFM:END -->
+* [Yun Head — Cats on Mars](https://www.last.fm/music/Yun+Head/_/Cats+on+Mars)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
