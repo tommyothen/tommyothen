@@ -28,7 +28,7 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
 * [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
 * [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
 * [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
