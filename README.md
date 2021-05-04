@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [Murcy — Wii Turn Up (Wii Menu Remix)](https://www.last.fm/music/Murcy/_/Wii+Turn+Up+(Wii+Menu+Remix))
-* [Qumu — Waluigi Pinball / Wario Stadium (From "Mario Kart DS")](https://www.last.fm/music/Qumu/_/Waluigi+Pinball+%2F+Wario+Stadium+(From+%22Mario+Kart+DS%22))
-* [Super Mario 64 — Slide - Original](https://www.last.fm/music/Super+Mario+64/_/Slide+-+Original)
-* [Arcade Player — Coconut Mall (From "Mario Kart Wii")](https://www.last.fm/music/Arcade+Player/_/Coconut+Mall+(From+%22Mario+Kart+Wii%22))<!-- LASTFM:END -->
+* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
+* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
+* [Retro Remix Revue — Super Mario Kart - Mario Circuit, Rainbow Road](https://www.last.fm/music/Retro+Remix+Revue/_/Super+Mario+Kart+-+Mario+Circuit,+Rainbow+Road)
+* [Matt Watson — No Nut November](https://www.last.fm/music/Matt+Watson/_/No+Nut+November)
+* [Shotgun Willy — Wendy](https://www.last.fm/music/Shotgun+Willy/_/Wendy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
