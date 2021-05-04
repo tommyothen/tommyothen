@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
-* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
-* [Arcade Player — Coconut Mall (From "Mario Kart Wii")](https://www.last.fm/music/Arcade+Player/_/Coconut+Mall+(From+%22Mario+Kart+Wii%22))
-* [Arcade Player — Coconut Mall (From "Mario Kart Wii")](https://www.last.fm/music/Arcade+Player/_/Coconut+Mall+(From+%22Mario+Kart+Wii%22))<!-- LASTFM:END -->
+* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
+* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
+* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
+* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
+* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
