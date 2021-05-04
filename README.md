@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ZEI — Oceans of Liquor](https://www.last.fm/music/ZEI/_/Oceans+of+Liquor)
-* [Fever The Ghost — Exoflash](https://www.last.fm/music/Fever+The+Ghost/_/Exoflash)
-* [Bye Mugen — Honey Lemon](https://www.last.fm/music/Bye+Mugen/_/Honey+Lemon)
-* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
-* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)<!-- LASTFM:END -->
+* [RITCHRD — PARIS](https://www.last.fm/music/RITCHRD/_/PARIS)
+* [Yun Head — Cats on Mars](https://www.last.fm/music/Yun+Head/_/Cats+on+Mars)
+* [Pretoria — Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping)
+* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
+* [LongStoryShort — Lost Summer](https://www.last.fm/music/LongStoryShort/_/Lost+Summer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
