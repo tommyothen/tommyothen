@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
+* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
 * [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
-* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)<!-- LASTFM:END -->
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
