@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [RARE AKUMA — GANTZ!](https://www.last.fm/music/RARE+AKUMA/_/GANTZ!)
+* [Ben Yen — Animal Crossing (Freestyle)](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+(Freestyle))
+* [Bo En — my time](https://www.last.fm/music/Bo+En/_/my+time)
 * [Lani Rose — Warm Blanket](https://www.last.fm/music/Lani+Rose/_/Warm+Blanket)
-* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
-* [marc indigo — soul searching](https://www.last.fm/music/marc+indigo/_/soul+searching)
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
-* [MF DOOM — Rapp Snitch Knishes (feat. Mr. Fantastik)](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes+(feat.+Mr.+Fantastik))<!-- LASTFM:END -->
+* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
