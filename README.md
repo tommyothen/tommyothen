@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
-* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))
-* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)
-* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
-* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)<!-- LASTFM:END -->
+* [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
