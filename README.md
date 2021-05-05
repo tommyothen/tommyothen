@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Paramore — Interlude: I'm Not Angry Anymore](https://www.last.fm/music/Paramore/_/Interlude:+I%27m+Not+Angry+Anymore)
-* [Paramore — The Only Exception](https://www.last.fm/music/Paramore/_/The+Only+Exception)
-* [Paramore — Ain't It Fun](https://www.last.fm/music/Paramore/_/Ain%27t+It+Fun)
-* [Paramore — Misery Business](https://www.last.fm/music/Paramore/_/Misery+Business)
-* [marc indigo — soul searching](https://www.last.fm/music/marc+indigo/_/soul+searching)<!-- LASTFM:END -->
+* [Varien — Blood Hunter](https://www.last.fm/music/Varien/_/Blood+Hunter)
+* [Varien — Can You Feel My Heart](https://www.last.fm/music/Varien/_/Can+You+Feel+My+Heart)
+* [Bring Me the Horizon — Can You Feel My Heart - Remix](https://www.last.fm/music/Bring+Me+the+Horizon/_/Can+You+Feel+My+Heart+-+Remix)
+* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
+* [Bring Me the Horizon — Throne](https://www.last.fm/music/Bring+Me+the+Horizon/_/Throne)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
