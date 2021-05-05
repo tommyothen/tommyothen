@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bring Me the Horizon — Follow You](https://www.last.fm/music/Bring+Me+the+Horizon/_/Follow+You)
-* [Bring Me the Horizon — Drown](https://www.last.fm/music/Bring+Me+the+Horizon/_/Drown)
 * [Bring Me the Horizon — Teardrops](https://www.last.fm/music/Bring+Me+the+Horizon/_/Teardrops)
-* [Bring Me the Horizon — 1x1 (feat. Nova Twins)](https://www.last.fm/music/Bring+Me+the+Horizon/_/1x1+(feat.+Nova+Twins))
-* [Bring Me the Horizon — Parasite Eve](https://www.last.fm/music/Bring+Me+the+Horizon/_/Parasite+Eve)<!-- LASTFM:END -->
+* [Bring Me the Horizon — Parasite Eve](https://www.last.fm/music/Bring+Me+the+Horizon/_/Parasite+Eve)
+* [Bring Me the Horizon — Dear Diary,](https://www.last.fm/music/Bring+Me+the+Horizon/_/Dear+Diary,)
+* [Bring Me the Horizon — True Friends](https://www.last.fm/music/Bring+Me+the+Horizon/_/True+Friends)
+* [Bring Me the Horizon — Happy Song](https://www.last.fm/music/Bring+Me+the+Horizon/_/Happy+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
