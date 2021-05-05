@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [marc indigo — soul searching](https://www.last.fm/music/marc+indigo/_/soul+searching)
-* [Headhaunter — A Perfect Date (To Die For)](https://www.last.fm/music/Headhaunter/_/A+Perfect+Date+(To+Die+For))
-* [RARE AKUMA — GANTZ!](https://www.last.fm/music/RARE+AKUMA/_/GANTZ!)
-* [Forests — Kawaii Hawaii](https://www.last.fm/music/Forests/_/Kawaii+Hawaii)
-* [Fever The Ghost — Exoflash](https://www.last.fm/music/Fever+The+Ghost/_/Exoflash)<!-- LASTFM:END -->
+* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
+* [Bo En — my time](https://www.last.fm/music/Bo+En/_/my+time)
+* [Lybra — Mazes](https://www.last.fm/music/Lybra/_/Mazes)
+* [Bye Mugen — Honey Lemon](https://www.last.fm/music/Bye+Mugen/_/Honey+Lemon)
+* [Kurt Travis — Easy Peasy](https://www.last.fm/music/Kurt+Travis/_/Easy+Peasy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
