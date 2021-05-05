@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
-* [Bo En — my time](https://www.last.fm/music/Bo+En/_/my+time)
-* [Lybra — Mazes](https://www.last.fm/music/Lybra/_/Mazes)
-* [Bye Mugen — Honey Lemon](https://www.last.fm/music/Bye+Mugen/_/Honey+Lemon)
-* [Kurt Travis — Easy Peasy](https://www.last.fm/music/Kurt+Travis/_/Easy+Peasy)<!-- LASTFM:END -->
+* [Pretoria — Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping)
+* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)
+* [Lani Rose — Warm Blanket](https://www.last.fm/music/Lani+Rose/_/Warm+Blanket)
+* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
+* [Ben Yen — Animal Crossing (Freestyle)](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+(Freestyle))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
