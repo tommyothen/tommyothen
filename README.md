@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
-* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)
-* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
-* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)<!-- LASTFM:END -->
+* [Paramore — Interlude: I'm Not Angry Anymore](https://www.last.fm/music/Paramore/_/Interlude:+I%27m+Not+Angry+Anymore)
+* [Paramore — The Only Exception](https://www.last.fm/music/Paramore/_/The+Only+Exception)
+* [Paramore — Ain't It Fun](https://www.last.fm/music/Paramore/_/Ain%27t+It+Fun)
+* [Paramore — Misery Business](https://www.last.fm/music/Paramore/_/Misery+Business)
+* [marc indigo — soul searching](https://www.last.fm/music/marc+indigo/_/soul+searching)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
