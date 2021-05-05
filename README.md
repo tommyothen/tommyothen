@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Varien — Blood Hunter](https://www.last.fm/music/Varien/_/Blood+Hunter)
-* [Varien — Can You Feel My Heart](https://www.last.fm/music/Varien/_/Can+You+Feel+My+Heart)
-* [Bring Me the Horizon — Can You Feel My Heart - Remix](https://www.last.fm/music/Bring+Me+the+Horizon/_/Can+You+Feel+My+Heart+-+Remix)
-* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
-* [Bring Me the Horizon — Throne](https://www.last.fm/music/Bring+Me+the+Horizon/_/Throne)<!-- LASTFM:END -->
+* [Bring Me the Horizon — Follow You](https://www.last.fm/music/Bring+Me+the+Horizon/_/Follow+You)
+* [Bring Me the Horizon — Drown](https://www.last.fm/music/Bring+Me+the+Horizon/_/Drown)
+* [Bring Me the Horizon — Teardrops](https://www.last.fm/music/Bring+Me+the+Horizon/_/Teardrops)
+* [Bring Me the Horizon — 1x1 (feat. Nova Twins)](https://www.last.fm/music/Bring+Me+the+Horizon/_/1x1+(feat.+Nova+Twins))
+* [Bring Me the Horizon — Parasite Eve](https://www.last.fm/music/Bring+Me+the+Horizon/_/Parasite+Eve)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
