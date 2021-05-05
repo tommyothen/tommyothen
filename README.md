@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
-* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
-* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
-* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
-* [marc indigo — soul searching](https://www.last.fm/music/marc+indigo/_/soul+searching)<!-- LASTFM:END -->
+* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
+* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
+* [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
+* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
+* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
