@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Pretoria — Keep Two-Stepping](https://www.last.fm/music/Pretoria/_/Keep+Two-Stepping)
-* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)
-* [Lani Rose — Warm Blanket](https://www.last.fm/music/Lani+Rose/_/Warm+Blanket)
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
-* [Ben Yen — Animal Crossing (Freestyle)](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+(Freestyle))<!-- LASTFM:END -->
+* [Cö shu Nie — FLARE - English version](https://www.last.fm/music/C%C3%B6+shu+Nie/_/FLARE+-+English+version)
+* [Suckerpunk — Without Me](https://www.last.fm/music/Suckerpunk/_/Without+Me)
+* [Super Whatevr — i wanna be cool. (feat. Lost Boy)](https://www.last.fm/music/Super+Whatevr/_/i+wanna+be+cool.+(feat.+Lost+Boy))
+* [LongStoryShort — Lost Summer](https://www.last.fm/music/LongStoryShort/_/Lost+Summer)
+* [Jiwoo — Comme des Garçons](https://www.last.fm/music/Jiwoo/_/Comme+des+Gar%C3%A7ons)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
