@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
+* [Ricky Montgomery — Mr Loverman](https://www.last.fm/music/Ricky+Montgomery/_/Mr+Loverman)
+* [Shayne Orok — Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://www.last.fm/music/Shayne+Orok/_/Fukashigi+no+Carte+-+Seishun+Buta+Yarou+wa+Bunny+Girl+Senpai+no+Yume+wo+Minai)
 * [WHOKILLEDXIX — Sick Duck](https://www.last.fm/music/WHOKILLEDXIX/_/Sick+Duck)
-* [Slayyyter — Daddy AF](https://www.last.fm/music/Slayyyter/_/Daddy+AF)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Rico Nasty — IPHONE](https://www.last.fm/music/Rico+Nasty/_/IPHONE)
-* [esthie — cotton candy skies](https://www.last.fm/music/esthie/_/cotton+candy+skies)<!-- LASTFM:END -->
+* [Slayyyter — Daddy AF](https://www.last.fm/music/Slayyyter/_/Daddy+AF)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
