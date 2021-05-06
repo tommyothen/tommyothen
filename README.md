@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
-* [Tally Hall — Hidden In The Sand](https://www.last.fm/music/Tally+Hall/_/Hidden+In+The+Sand)
-* [MesmoLate — Flyday Chinatown by Yasuha](https://www.last.fm/music/MesmoLate/_/Flyday+Chinatown+by+Yasuha)
-* [sub urban — Cirque](https://www.last.fm/music/sub+urban/_/Cirque)
-* [e boy — e-girl](https://www.last.fm/music/e+boy/_/e-girl)<!-- LASTFM:END -->
+* [Chase Atlantic — Okay](https://www.last.fm/music/Chase+Atlantic/_/Okay)
+* [girl in red — Girls](https://www.last.fm/music/girl+in+red/_/Girls)
+* [MeLoveMeAlot — You Can't Kill Me I'm Alive](https://www.last.fm/music/MeLoveMeAlot/_/You+Can%27t+Kill+Me+I%27m+Alive)
+* [Beach Bunny — Cloud 9](https://www.last.fm/music/Beach+Bunny/_/Cloud+9)
+* [Savage Ga$p — I'm drunk and I miss you too (feat. ilyTOMMY)](https://www.last.fm/music/Savage+Ga$p/_/I%27m+drunk+and+I+miss+you+too+(feat.+ilyTOMMY))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
