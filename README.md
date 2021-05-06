@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Corpse — agoraphobic](https://www.last.fm/music/Corpse/_/agoraphobic)
+* [Kira — Monster](https://www.last.fm/music/Kira/_/Monster)
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
 * [Kawai Sprite — M.I.L.F](https://www.last.fm/music/Kawai+Sprite/_/M.I.L.F)
-* [Freddie Dredd — All Alone](https://www.last.fm/music/Freddie+Dredd/_/All+Alone)
-* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
-* [Rico Nasty — Pussy Poppin (I Don't Really Talk Like This)](https://www.last.fm/music/Rico+Nasty/_/Pussy+Poppin+(I+Don%27t+Really+Talk+Like+This))
-* [Chase Atlantic — Slow Down](https://www.last.fm/music/Chase+Atlantic/_/Slow+Down)<!-- LASTFM:END -->
+* [Freddie Dredd — All Alone](https://www.last.fm/music/Freddie+Dredd/_/All+Alone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
