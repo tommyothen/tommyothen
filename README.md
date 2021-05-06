@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
 * [Cö shu Nie — FLARE - English version](https://www.last.fm/music/C%C3%B6+shu+Nie/_/FLARE+-+English+version)
 * [Suckerpunk — Without Me](https://www.last.fm/music/Suckerpunk/_/Without+Me)
 * [Super Whatevr — i wanna be cool. (feat. Lost Boy)](https://www.last.fm/music/Super+Whatevr/_/i+wanna+be+cool.+(feat.+Lost+Boy))
-* [LongStoryShort — Lost Summer](https://www.last.fm/music/LongStoryShort/_/Lost+Summer)
-* [Jiwoo — Comme des Garçons](https://www.last.fm/music/Jiwoo/_/Comme+des+Gar%C3%A7ons)<!-- LASTFM:END -->
+* [LongStoryShort — Lost Summer](https://www.last.fm/music/LongStoryShort/_/Lost+Summer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
