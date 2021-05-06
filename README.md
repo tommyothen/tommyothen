@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sunny Day Service — Sayonara pool boy](https://www.last.fm/music/Sunny+Day+Service/_/Sayonara+pool+boy)
-* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
-* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
-* [Rav — Lovedrug (Off That)](https://www.last.fm/music/Rav/_/Lovedrug+(Off+That))
-* [Yung Gravy — Mr. Clean](https://www.last.fm/music/Yung+Gravy/_/Mr.+Clean)<!-- LASTFM:END -->
+* [maeshima soshi — Found Me](https://www.last.fm/music/maeshima+soshi/_/Found+Me)
+* [Cemetery Drive — Basilisk](https://www.last.fm/music/Cemetery+Drive/_/Basilisk)
+* [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)
+* [Rav — "Geddit" or "The Commodity of Tenacity](https://www.last.fm/music/Rav/_/%22Geddit%22+or+%22The+Commodity+of+Tenacity)
+* [Taichi Mukai — SLOW DOWN](https://www.last.fm/music/Taichi+Mukai/_/SLOW+DOWN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
