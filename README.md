@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [100 gecs — money machine](https://www.last.fm/music/100+gecs/_/money+machine)
-* [Mother Mother — Hayloft](https://www.last.fm/music/Mother+Mother/_/Hayloft)
-* [Chase Atlantic — Friends](https://www.last.fm/music/Chase+Atlantic/_/Friends)<!-- LASTFM:END -->
+* [sub urban — Cirque](https://www.last.fm/music/sub+urban/_/Cirque)
+* [e boy — e-girl](https://www.last.fm/music/e+boy/_/e-girl)
+* [Mitski — Nobody](https://www.last.fm/music/Mitski/_/Nobody)
+* [Tiagz — They Call Me Tiago (Her Name Is Margo)](https://www.last.fm/music/Tiagz/_/They+Call+Me+Tiago+(Her+Name+Is+Margo))
+* [ilyTOMMY — Princess Bubblegum](https://www.last.fm/music/ilyTOMMY/_/Princess+Bubblegum)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
