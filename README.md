@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — Yung Gravity](https://www.last.fm/music/Yung+Gravy/_/Yung+Gravity)
 * [MONKEY MAJIK — 留学生](https://www.last.fm/music/MONKEY+MAJIK/_/%E7%95%99%E5%AD%A6%E7%94%9F)
 * [GIRLI — Neck Contour](https://www.last.fm/music/GIRLI/_/Neck+Contour)
 * [I Don't Like Mondays. — ENTERTAINER](https://www.last.fm/music/I+Don%27t+Like+Mondays./_/ENTERTAINER)
-* [Jarv & Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&+Thief/_/Slack-Jaw)
-* [Quadeca — I DON'T CARE](https://www.last.fm/music/Quadeca/_/I+DON%27T+CARE)<!-- LASTFM:END -->
+* [Jarv & Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&+Thief/_/Slack-Jaw)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
