@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rei Ami — RUNAWAY](https://www.last.fm/music/Rei+Ami/_/RUNAWAY)
+* [ilyTOMMY — Tunnel of Love](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love)
 * [Jvla — Such a Whore (Potato Remix)](https://www.last.fm/music/Jvla/_/Such+a+Whore+(Potato+Remix))
 * [poutyface — DEATHWISH](https://www.last.fm/music/poutyface/_/DEATHWISH)
-* [JT Music — Join Us for a Bite](https://www.last.fm/music/JT+Music/_/Join+Us+for+a+Bite)
-* [ヒソカ(CV:浪川大輔) — 狂想レクイエム](https://www.last.fm/music/%E3%83%92%E3%82%BD%E3%82%AB(CV:%E6%B5%AA%E5%B7%9D%E5%A4%A7%E8%BC%94)/_/%E7%8B%82%E6%83%B3%E3%83%AC%E3%82%AF%E3%82%A4%E3%82%A8%E3%83%A0)
-* [maretu — Mind Brand](https://www.last.fm/music/maretu/_/Mind+Brand)<!-- LASTFM:END -->
+* [JT Music — Join Us for a Bite](https://www.last.fm/music/JT+Music/_/Join+Us+for+a+Bite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
