@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Chase Atlantic — Into It](https://www.last.fm/music/Chase+Atlantic/_/Into+It)
-* [Penelope Scott — Cigarette Ahegao](https://www.last.fm/music/Penelope+Scott/_/Cigarette+Ahegao)
-* [Moe Shop — Notice](https://www.last.fm/music/Moe+Shop/_/Notice)
-* [Grlwood — I'm Yer Dad](https://www.last.fm/music/Grlwood/_/I%27m+Yer+Dad)
-* [Bo En — every day](https://www.last.fm/music/Bo+En/_/every+day)<!-- LASTFM:END -->
+* [Grlwood — Nice Guy](https://www.last.fm/music/Grlwood/_/Nice+Guy)
+* [Sir Chloe — Animal](https://www.last.fm/music/Sir+Chloe/_/Animal)
+* [Adventure Time — Good Little Girl (feat. Donald Glover, Madeleine Martin & Roz Ryan)](https://www.last.fm/music/Adventure+Time/_/Good+Little+Girl+(feat.+Donald+Glover,+Madeleine+Martin+&+Roz+Ryan))
+* [Jack Stauber's Micropop — Doctor](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Doctor)
+* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
