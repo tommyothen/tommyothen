@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Chase Atlantic — Okay](https://www.last.fm/music/Chase+Atlantic/_/Okay)
-* [girl in red — Girls](https://www.last.fm/music/girl+in+red/_/Girls)
-* [MeLoveMeAlot — You Can't Kill Me I'm Alive](https://www.last.fm/music/MeLoveMeAlot/_/You+Can%27t+Kill+Me+I%27m+Alive)
-* [Beach Bunny — Cloud 9](https://www.last.fm/music/Beach+Bunny/_/Cloud+9)
-* [Savage Ga$p — I'm drunk and I miss you too (feat. ilyTOMMY)](https://www.last.fm/music/Savage+Ga$p/_/I%27m+drunk+and+I+miss+you+too+(feat.+ilyTOMMY))<!-- LASTFM:END -->
+* [Chase Atlantic — Slow Down](https://www.last.fm/music/Chase+Atlantic/_/Slow+Down)
+* [Melanie Martinez — Play Date](https://www.last.fm/music/Melanie+Martinez/_/Play+Date)
+* [1NONLY — Bunny Girl](https://www.last.fm/music/1NONLY/_/Bunny+Girl)
+* [Destroy Boys — I Threw Glass At My Friend's Eyes And Now I'm On Probation](https://www.last.fm/music/Destroy+Boys/_/I+Threw+Glass+At+My+Friend%27s+Eyes+And+Now+I%27m+On+Probation)
+* [Dream — Roadtrip](https://www.last.fm/music/Dream/_/Roadtrip)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
