@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Introvert (feat. Joji)](https://www.last.fm/music/Rich+Brian/_/Introvert+(feat.+Joji))
+* [Poppy — X](https://www.last.fm/music/Poppy/_/X)
 * [Jakey — Not Dead Yet](https://www.last.fm/music/Jakey/_/Not+Dead+Yet)
 * [88Rising — Breathe](https://www.last.fm/music/88Rising/_/Breathe)
-* [Oliver Tree — Hurt](https://www.last.fm/music/Oliver+Tree/_/Hurt)
-* [AMpm — Pink Lemonade - feat. The Attire](https://www.last.fm/music/AMpm/_/Pink+Lemonade+-+feat.+The+Attire)
-* [Rich Brian — See Me](https://www.last.fm/music/Rich+Brian/_/See+Me)<!-- LASTFM:END -->
+* [Oliver Tree — Hurt](https://www.last.fm/music/Oliver+Tree/_/Hurt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
