@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [I Don't Like Mondays. — ENTERTAINER](https://www.last.fm/music/I+Don%27t+Like+Mondays./_/ENTERTAINER)
-* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
-* [Lil Memer — Dance Til Your Dead](https://www.last.fm/music/Lil+Memer/_/Dance+Til+Your+Dead)
-* [Rich Brian — Where Does the Time Go (feat. Joji)](https://www.last.fm/music/Rich+Brian/_/Where+Does+the+Time+Go+(feat.+Joji))
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
+* [Jakey — Not Dead Yet](https://www.last.fm/music/Jakey/_/Not+Dead+Yet)
+* [88Rising — Breathe](https://www.last.fm/music/88Rising/_/Breathe)
+* [Oliver Tree — Hurt](https://www.last.fm/music/Oliver+Tree/_/Hurt)
+* [AMpm — Pink Lemonade - feat. The Attire](https://www.last.fm/music/AMpm/_/Pink+Lemonade+-+feat.+The+Attire)
+* [Rich Brian — See Me](https://www.last.fm/music/Rich+Brian/_/See+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
