@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [centimillimental — キヅアト](https://www.last.fm/music/centimillimental/_/%E3%82%AD%E3%83%85%E3%82%A2%E3%83%88)
-* [IC3PEAK — Грустная сука](https://www.last.fm/music/IC3PEAK/_/%D0%93%D1%80%D1%83%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%81%D1%83%D0%BA%D0%B0)
-* [Rei Ami — RUNAWAY](https://www.last.fm/music/Rei+Ami/_/RUNAWAY)
-* [ilyTOMMY — Tunnel of Love](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love)
-* [Jvla — Such a Whore (Potato Remix)](https://www.last.fm/music/Jvla/_/Such+a+Whore+(Potato+Remix))<!-- LASTFM:END -->
+* [Clairo — Pretty Girl](https://www.last.fm/music/Clairo/_/Pretty+Girl)
+* [Rico Nasty — Rage](https://www.last.fm/music/Rico+Nasty/_/Rage)
+* [maretu — SIU](https://www.last.fm/music/maretu/_/SIU)
+* [Ayesha Erotica — Vacation Bible School](https://www.last.fm/music/Ayesha+Erotica/_/Vacation+Bible+School)
+* [Stray Kids — Back Door](https://www.last.fm/music/Stray+Kids/_/Back+Door)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
