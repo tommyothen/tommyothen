@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
+* [Tally Hall — Hidden In The Sand](https://www.last.fm/music/Tally+Hall/_/Hidden+In+The+Sand)
+* [MesmoLate — Flyday Chinatown by Yasuha](https://www.last.fm/music/MesmoLate/_/Flyday+Chinatown+by+Yasuha)
 * [sub urban — Cirque](https://www.last.fm/music/sub+urban/_/Cirque)
-* [e boy — e-girl](https://www.last.fm/music/e+boy/_/e-girl)
-* [Mitski — Nobody](https://www.last.fm/music/Mitski/_/Nobody)
-* [Tiagz — They Call Me Tiago (Her Name Is Margo)](https://www.last.fm/music/Tiagz/_/They+Call+Me+Tiago+(Her+Name+Is+Margo))
-* [ilyTOMMY — Princess Bubblegum](https://www.last.fm/music/ilyTOMMY/_/Princess+Bubblegum)<!-- LASTFM:END -->
+* [e boy — e-girl](https://www.last.fm/music/e+boy/_/e-girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
