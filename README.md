@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Five New Old — Don't Be Someone Else](https://www.last.fm/music/Five+New+Old/_/Don%27t+Be+Someone+Else)
+* [GIRLI — Hot Mess](https://www.last.fm/music/GIRLI/_/Hot+Mess)
 * [maeshima soshi — Found Me](https://www.last.fm/music/maeshima+soshi/_/Found+Me)
 * [Cemetery Drive — Basilisk](https://www.last.fm/music/Cemetery+Drive/_/Basilisk)
-* [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)
-* [Rav — "Geddit" or "The Commodity of Tenacity](https://www.last.fm/music/Rav/_/%22Geddit%22+or+%22The+Commodity+of+Tenacity)
-* [Taichi Mukai — SLOW DOWN](https://www.last.fm/music/Taichi+Mukai/_/SLOW+DOWN)<!-- LASTFM:END -->
+* [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
