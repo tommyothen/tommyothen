@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
-* [クラムボン — Imaginary Folklore](https://www.last.fm/music/%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%9C%E3%83%B3/_/Imaginary+Folklore)
-* [Rich Brian — Yellow (feat. Bekon)](https://www.last.fm/music/Rich+Brian/_/Yellow+(feat.+Bekon))
-* [GIRLI — Girl I Met On The Internet](https://www.last.fm/music/GIRLI/_/Girl+I+Met+On+The+Internet)
-* [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)<!-- LASTFM:END -->
+* [Quadeca — Uh Huh!](https://www.last.fm/music/Quadeca/_/Uh+Huh!)
+* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
+* [Poppy — I'm Poppy](https://www.last.fm/music/Poppy/_/I%27m+Poppy)
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
+* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
