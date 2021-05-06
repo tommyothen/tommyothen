@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Chase Atlantic — Slow Down](https://www.last.fm/music/Chase+Atlantic/_/Slow+Down)
-* [Melanie Martinez — Play Date](https://www.last.fm/music/Melanie+Martinez/_/Play+Date)
-* [1NONLY — Bunny Girl](https://www.last.fm/music/1NONLY/_/Bunny+Girl)
-* [Destroy Boys — I Threw Glass At My Friend's Eyes And Now I'm On Probation](https://www.last.fm/music/Destroy+Boys/_/I+Threw+Glass+At+My+Friend%27s+Eyes+And+Now+I%27m+On+Probation)
-* [Dream — Roadtrip](https://www.last.fm/music/Dream/_/Roadtrip)<!-- LASTFM:END -->
+* [Kawai Sprite — M.I.L.F](https://www.last.fm/music/Kawai+Sprite/_/M.I.L.F)
+* [Freddie Dredd — All Alone](https://www.last.fm/music/Freddie+Dredd/_/All+Alone)
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
+* [Rico Nasty — Pussy Poppin (I Don't Really Talk Like This)](https://www.last.fm/music/Rico+Nasty/_/Pussy+Poppin+(I+Don%27t+Really+Talk+Like+This))
+* [Chase Atlantic — Slow Down](https://www.last.fm/music/Chase+Atlantic/_/Slow+Down)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
