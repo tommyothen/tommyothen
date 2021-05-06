@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)
+* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
 * [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
 * [Friday Night Plans — HONDA](https://www.last.fm/music/Friday+Night+Plans/_/HONDA)
-* [TOFUBEATS — 水星(Young & Fresh mix) feat. 仮谷せいら](https://www.last.fm/music/TOFUBEATS/_/%E6%B0%B4%E6%98%9F(Young+&+Fresh+mix)+feat.+%E4%BB%AE%E8%B0%B7%E3%81%9B%E3%81%84%E3%82%89)
-* [Rich Brian — Introvert (feat. Joji)](https://www.last.fm/music/Rich+Brian/_/Introvert+(feat.+Joji))
-* [Poppy — X](https://www.last.fm/music/Poppy/_/X)<!-- LASTFM:END -->
+* [TOFUBEATS — 水星(Young & Fresh mix) feat. 仮谷せいら](https://www.last.fm/music/TOFUBEATS/_/%E6%B0%B4%E6%98%9F(Young+&+Fresh+mix)+feat.+%E4%BB%AE%E8%B0%B7%E3%81%9B%E3%81%84%E3%82%89)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
