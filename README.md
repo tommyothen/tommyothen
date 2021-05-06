@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Clairo — Pretty Girl](https://www.last.fm/music/Clairo/_/Pretty+Girl)
-* [Rico Nasty — Rage](https://www.last.fm/music/Rico+Nasty/_/Rage)
-* [maretu — SIU](https://www.last.fm/music/maretu/_/SIU)
-* [Ayesha Erotica — Vacation Bible School](https://www.last.fm/music/Ayesha+Erotica/_/Vacation+Bible+School)
-* [Stray Kids — Back Door](https://www.last.fm/music/Stray+Kids/_/Back+Door)<!-- LASTFM:END -->
+* [MC Virgins — Trap Anthem](https://www.last.fm/music/MC+Virgins/_/Trap+Anthem)
+* [Freddie Dredd — CHA CHA](https://www.last.fm/music/Freddie+Dredd/_/CHA+CHA)
+* [Beach Bunny — Prom Queen](https://www.last.fm/music/Beach+Bunny/_/Prom+Queen)
+* [Melanie Martinez — The Bakery](https://www.last.fm/music/Melanie+Martinez/_/The+Bakery)
+* [Shawn Wasabi — Burnt Rice (feat. Yung GEMMY)](https://www.last.fm/music/Shawn+Wasabi/_/Burnt+Rice+(feat.+Yung+GEMMY))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
