@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grlwood — I'm Yer Dad](https://www.last.fm/music/Grlwood/_/I%27m+Yer+Dad)
+* [Bo En — every day](https://www.last.fm/music/Bo+En/_/every+day)
 * [Corpse — agoraphobic](https://www.last.fm/music/Corpse/_/agoraphobic)
 * [Kira — Monster](https://www.last.fm/music/Kira/_/Monster)
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Kawai Sprite — M.I.L.F](https://www.last.fm/music/Kawai+Sprite/_/M.I.L.F)
-* [Freddie Dredd — All Alone](https://www.last.fm/music/Freddie+Dredd/_/All+Alone)<!-- LASTFM:END -->
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
