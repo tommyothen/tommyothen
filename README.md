@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [きくお — しかばねの踊り](https://www.last.fm/music/%E3%81%8D%E3%81%8F%E3%81%8A/_/%E3%81%97%E3%81%8B%E3%81%B0%E3%81%AD%E3%81%AE%E8%B8%8A%E3%82%8A)
+* [Reol — コノヨLoading...](https://www.last.fm/music/Reol/_/%E3%82%B3%E3%83%8E%E3%83%A8Loading...)
 * [Marina — Oh No!](https://www.last.fm/music/Marina/_/Oh+No!)
 * [Caravan Palace — Comics](https://www.last.fm/music/Caravan+Palace/_/Comics)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Moe Shop — Love Taste](https://www.last.fm/music/Moe+Shop/_/Love+Taste)
-* [Penelope Scott — Rät](https://www.last.fm/music/Penelope+Scott/_/R%C3%A4t)<!-- LASTFM:END -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
