@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — Voicemail](https://www.last.fm/music/Poppy/_/Voicemail)
-* [遠野高志 — Touch You](https://www.last.fm/music/%E9%81%A0%E9%87%8E%E9%AB%98%E5%BF%97/_/Touch+You)
-* [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))
-* [Ellise — 911](https://www.last.fm/music/Ellise/_/911)
-* [Ashnikko — Daisy](https://www.last.fm/music/Ashnikko/_/Daisy)<!-- LASTFM:END -->
+* [Mother Mother — Oh Ana](https://www.last.fm/music/Mother+Mother/_/Oh+Ana)
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
+* [Kensuke Ushio — Judgement](https://www.last.fm/music/Kensuke+Ushio/_/Judgement)
+* [Clairo — Hello?](https://www.last.fm/music/Clairo/_/Hello%3F)
+* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
