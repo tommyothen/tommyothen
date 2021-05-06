@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Quadeca — Uh Huh!](https://www.last.fm/music/Quadeca/_/Uh+Huh!)
-* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
-* [Poppy — I'm Poppy](https://www.last.fm/music/Poppy/_/I%27m+Poppy)
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
-* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)<!-- LASTFM:END -->
+* [I Don't Like Mondays. — ENTERTAINER](https://www.last.fm/music/I+Don%27t+Like+Mondays./_/ENTERTAINER)
+* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
+* [Lil Memer — Dance Til Your Dead](https://www.last.fm/music/Lil+Memer/_/Dance+Til+Your+Dead)
+* [Rich Brian — Where Does the Time Go (feat. Joji)](https://www.last.fm/music/Rich+Brian/_/Where+Does+the+Time+Go+(feat.+Joji))
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
