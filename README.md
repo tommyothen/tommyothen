@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grlwood — Nice Guy](https://www.last.fm/music/Grlwood/_/Nice+Guy)
-* [Sir Chloe — Animal](https://www.last.fm/music/Sir+Chloe/_/Animal)
-* [Adventure Time — Good Little Girl (feat. Donald Glover, Madeleine Martin & Roz Ryan)](https://www.last.fm/music/Adventure+Time/_/Good+Little+Girl+(feat.+Donald+Glover,+Madeleine+Martin+&+Roz+Ryan))
-* [Jack Stauber's Micropop — Doctor](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Doctor)
-* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)<!-- LASTFM:END -->
+* [Insane Clown Posse — My Axe](https://www.last.fm/music/Insane+Clown+Posse/_/My+Axe)
+* [Jack Stauber — Oh Klahoma](https://www.last.fm/music/Jack+Stauber/_/Oh+Klahoma)
+* [1 800 PAIN — HURT](https://www.last.fm/music/1+800+PAIN/_/HURT)
+* [100 gecs — ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]](https://www.last.fm/music/100+gecs/_/ringtone+(Remix)+%5Bfeat.+Charli+XCX,+Rico+Nasty,+Kero+Kero+Bonito%5D)
+* [p4rkr — i dont want that many friends in the first place](https://www.last.fm/music/p4rkr/_/i+dont+want+that+many+friends+in+the+first+place)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
