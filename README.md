@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
-* [Ricky Montgomery — Mr Loverman](https://www.last.fm/music/Ricky+Montgomery/_/Mr+Loverman)
-* [Shayne Orok — Fukashigi no Carte - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://www.last.fm/music/Shayne+Orok/_/Fukashigi+no+Carte+-+Seishun+Buta+Yarou+wa+Bunny+Girl+Senpai+no+Yume+wo+Minai)
-* [WHOKILLEDXIX — Sick Duck](https://www.last.fm/music/WHOKILLEDXIX/_/Sick+Duck)
-* [Slayyyter — Daddy AF](https://www.last.fm/music/Slayyyter/_/Daddy+AF)<!-- LASTFM:END -->
+* [Freddie Dredd — You Know](https://www.last.fm/music/Freddie+Dredd/_/You+Know)
+* [ilyTOMMY — Lavagirl](https://www.last.fm/music/ilyTOMMY/_/Lavagirl)
+* [100 gecs — stupid horse](https://www.last.fm/music/100+gecs/_/stupid+horse)
+* [稲葉曇 — Lost Umbrella](https://www.last.fm/music/%E7%A8%B2%E8%91%89%E6%9B%87/_/Lost+Umbrella)
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
