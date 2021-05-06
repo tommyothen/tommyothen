@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [KROI — HORN](https://www.last.fm/music/KROI/_/HORN)
-* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
-* [D-Real [愛] — Interstellar Love Story](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Interstellar+Love+Story)
-* [D-Real [愛] — Nerd Won't Stop](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Nerd+Won%27t+Stop)
-* [D-Real [愛] — Just Bought a Dragon Maid Straight Cash - D-Real [愛] Remix](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Just+Bought+a+Dragon+Maid+Straight+Cash+-+D-Real+%5B%E6%84%9B%5D+Remix)<!-- LASTFM:END -->
+* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
+* [Rav — Lovedrug (Off That)](https://www.last.fm/music/Rav/_/Lovedrug+(Off+That))
+* [Yung Gravy — Mr. Clean](https://www.last.fm/music/Yung+Gravy/_/Mr.+Clean)
+* [Charli XCX — Gone](https://www.last.fm/music/Charli+XCX/_/Gone)
+* [bbno$ — 3mo](https://www.last.fm/music/bbno$/_/3mo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
