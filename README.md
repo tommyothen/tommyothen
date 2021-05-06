@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Freddie Dredd — WEATHER](https://www.last.fm/music/Freddie+Dredd/_/WEATHER)
+* [Kim Petras — I Don't Want It at All](https://www.last.fm/music/Kim+Petras/_/I+Don%27t+Want+It+at+All)
+* [Smokepurpp — Audi.](https://www.last.fm/music/Smokepurpp/_/Audi.)
 * [AL-X the Great — Rocketman (feat. Atlas & Lando!)](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+(feat.+Atlas+&+Lando!))
-* [DBangz — Last Claim](https://www.last.fm/music/DBangz/_/Last+Claim)
-* [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
-* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)<!-- LASTFM:END -->
+* [DBangz — Last Claim](https://www.last.fm/music/DBangz/_/Last+Claim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
