@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Wilbur Soot — Your New Boyfriend](https://www.last.fm/music/Wilbur+Soot/_/Your+New+Boyfriend)
-* [Freddie Dredd — Opaul](https://www.last.fm/music/Freddie+Dredd/_/Opaul)
-* [Jvla — Such a Whore](https://www.last.fm/music/Jvla/_/Such+a+Whore)
-* [Coa White — akiba](https://www.last.fm/music/Coa+White/_/akiba)
-* [平野義久 — 奇術師のバイレ](https://www.last.fm/music/%E5%B9%B3%E9%87%8E%E7%BE%A9%E4%B9%85/_/%E5%A5%87%E8%A1%93%E5%B8%AB%E3%81%AE%E3%83%90%E3%82%A4%E3%83%AC)<!-- LASTFM:END -->
+* [Jvla — Such a Whore (Potato Remix)](https://www.last.fm/music/Jvla/_/Such+a+Whore+(Potato+Remix))
+* [poutyface — DEATHWISH](https://www.last.fm/music/poutyface/_/DEATHWISH)
+* [JT Music — Join Us for a Bite](https://www.last.fm/music/JT+Music/_/Join+Us+for+a+Bite)
+* [ヒソカ(CV:浪川大輔) — 狂想レクイエム](https://www.last.fm/music/%E3%83%92%E3%82%BD%E3%82%AB(CV:%E6%B5%AA%E5%B7%9D%E5%A4%A7%E8%BC%94)/_/%E7%8B%82%E6%83%B3%E3%83%AC%E3%82%AF%E3%82%A4%E3%82%A8%E3%83%A0)
+* [maretu — Mind Brand](https://www.last.fm/music/maretu/_/Mind+Brand)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
