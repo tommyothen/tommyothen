@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mother Mother — Oh Ana](https://www.last.fm/music/Mother+Mother/_/Oh+Ana)
-* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
-* [Kensuke Ushio — Judgement](https://www.last.fm/music/Kensuke+Ushio/_/Judgement)
-* [Clairo — Hello?](https://www.last.fm/music/Clairo/_/Hello%3F)
-* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)<!-- LASTFM:END -->
+* [Chase Atlantic — Swim](https://www.last.fm/music/Chase+Atlantic/_/Swim)
+* [ilyTOMMY — Tunnel of Love - Remix](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love+-+Remix)
+* [Caravan Palace — Aftermath](https://www.last.fm/music/Caravan+Palace/_/Aftermath)
+* [Tally Hall — The Bidding](https://www.last.fm/music/Tally+Hall/_/The+Bidding)
+* [Mother Mother — Oh Ana](https://www.last.fm/music/Mother+Mother/_/Oh+Ana)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
