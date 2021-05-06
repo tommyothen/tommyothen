@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [La Memerano — OI OI OI Bakugou](https://www.last.fm/music/La+Memerano/_/OI+OI+OI+Bakugou)
-* [Flo Milli — Not Friendly](https://www.last.fm/music/Flo+Milli/_/Not+Friendly)
-* [TryMeRee — I Adore Her](https://www.last.fm/music/TryMeRee/_/I+Adore+Her)
-* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
-* [Sewerslvt — Pretty Cvnt](https://www.last.fm/music/Sewerslvt/_/Pretty+Cvnt)<!-- LASTFM:END -->
+* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
+* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
+* [Moe Shop — Love Taste](https://www.last.fm/music/Moe+Shop/_/Love+Taste)
+* [きくお — しかばねの踊り](https://www.last.fm/music/%E3%81%8D%E3%81%8F%E3%81%8A/_/%E3%81%97%E3%81%8B%E3%81%B0%E3%81%AD%E3%81%AE%E8%B8%8A%E3%82%8A)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
