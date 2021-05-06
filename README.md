@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MC Virgins — Trap Anthem](https://www.last.fm/music/MC+Virgins/_/Trap+Anthem)
-* [Freddie Dredd — CHA CHA](https://www.last.fm/music/Freddie+Dredd/_/CHA+CHA)
-* [Beach Bunny — Prom Queen](https://www.last.fm/music/Beach+Bunny/_/Prom+Queen)
-* [Melanie Martinez — The Bakery](https://www.last.fm/music/Melanie+Martinez/_/The+Bakery)
-* [Shawn Wasabi — Burnt Rice (feat. Yung GEMMY)](https://www.last.fm/music/Shawn+Wasabi/_/Burnt+Rice+(feat.+Yung+GEMMY))<!-- LASTFM:END -->
+* [La Memerano — OI OI OI Bakugou](https://www.last.fm/music/La+Memerano/_/OI+OI+OI+Bakugou)
+* [Flo Milli — Not Friendly](https://www.last.fm/music/Flo+Milli/_/Not+Friendly)
+* [TryMeRee — I Adore Her](https://www.last.fm/music/TryMeRee/_/I+Adore+Her)
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
+* [Sewerslvt — Pretty Cvnt](https://www.last.fm/music/Sewerslvt/_/Pretty+Cvnt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
