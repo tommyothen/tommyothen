@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Chase Atlantic — Swim](https://www.last.fm/music/Chase+Atlantic/_/Swim)
-* [ilyTOMMY — Tunnel of Love - Remix](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love+-+Remix)
-* [Caravan Palace — Aftermath](https://www.last.fm/music/Caravan+Palace/_/Aftermath)
-* [Tally Hall — The Bidding](https://www.last.fm/music/Tally+Hall/_/The+Bidding)
-* [Mother Mother — Oh Ana](https://www.last.fm/music/Mother+Mother/_/Oh+Ana)<!-- LASTFM:END -->
+* [Marina — Oh No!](https://www.last.fm/music/Marina/_/Oh+No!)
+* [Caravan Palace — Comics](https://www.last.fm/music/Caravan+Palace/_/Comics)
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [Moe Shop — Love Taste](https://www.last.fm/music/Moe+Shop/_/Love+Taste)
+* [Penelope Scott — Rät](https://www.last.fm/music/Penelope+Scott/_/R%C3%A4t)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
