@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sunny Day Service — Sayonara pool boy](https://www.last.fm/music/Sunny+Day+Service/_/Sayonara+pool+boy)
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
 * [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
 * [Rav — Lovedrug (Off That)](https://www.last.fm/music/Rav/_/Lovedrug+(Off+That))
-* [Yung Gravy — Mr. Clean](https://www.last.fm/music/Yung+Gravy/_/Mr.+Clean)
-* [Charli XCX — Gone](https://www.last.fm/music/Charli+XCX/_/Gone)
-* [bbno$ — 3mo](https://www.last.fm/music/bbno$/_/3mo)<!-- LASTFM:END -->
+* [Yung Gravy — Mr. Clean](https://www.last.fm/music/Yung+Gravy/_/Mr.+Clean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
