@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Freddie Dredd — WEATHER](https://www.last.fm/music/Freddie+Dredd/_/WEATHER)
-* [Kim Petras — I Don't Want It at All](https://www.last.fm/music/Kim+Petras/_/I+Don%27t+Want+It+at+All)
-* [Smokepurpp — Audi.](https://www.last.fm/music/Smokepurpp/_/Audi.)
-* [AL-X the Great — Rocketman (feat. Atlas & Lando!)](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+(feat.+Atlas+&+Lando!))
-* [DBangz — Last Claim](https://www.last.fm/music/DBangz/_/Last+Claim)<!-- LASTFM:END -->
+* [KROI — HORN](https://www.last.fm/music/KROI/_/HORN)
+* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
+* [D-Real [愛] — Interstellar Love Story](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Interstellar+Love+Story)
+* [D-Real [愛] — Nerd Won't Stop](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Nerd+Won%27t+Stop)
+* [D-Real [愛] — Just Bought a Dragon Maid Straight Cash - D-Real [愛] Remix](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Just+Bought+a+Dragon+Maid+Straight+Cash+-+D-Real+%5B%E6%84%9B%5D+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
