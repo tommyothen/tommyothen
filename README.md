@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Freddie Dredd — You Know](https://www.last.fm/music/Freddie+Dredd/_/You+Know)
-* [ilyTOMMY — Lavagirl](https://www.last.fm/music/ilyTOMMY/_/Lavagirl)
-* [100 gecs — stupid horse](https://www.last.fm/music/100+gecs/_/stupid+horse)
-* [稲葉曇 — Lost Umbrella](https://www.last.fm/music/%E7%A8%B2%E8%91%89%E6%9B%87/_/Lost+Umbrella)
-* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)<!-- LASTFM:END -->
+* [Wilbur Soot — Your New Boyfriend](https://www.last.fm/music/Wilbur+Soot/_/Your+New+Boyfriend)
+* [Freddie Dredd — Opaul](https://www.last.fm/music/Freddie+Dredd/_/Opaul)
+* [Jvla — Such a Whore](https://www.last.fm/music/Jvla/_/Such+a+Whore)
+* [Coa White — akiba](https://www.last.fm/music/Coa+White/_/akiba)
+* [平野義久 — 奇術師のバイレ](https://www.last.fm/music/%E5%B9%B3%E9%87%8E%E7%BE%A9%E4%B9%85/_/%E5%A5%87%E8%A1%93%E5%B8%AB%E3%81%AE%E3%83%90%E3%82%A4%E3%83%AC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
