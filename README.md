@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Insane Clown Posse — My Axe](https://www.last.fm/music/Insane+Clown+Posse/_/My+Axe)
-* [Jack Stauber — Oh Klahoma](https://www.last.fm/music/Jack+Stauber/_/Oh+Klahoma)
-* [1 800 PAIN — HURT](https://www.last.fm/music/1+800+PAIN/_/HURT)
-* [100 gecs — ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]](https://www.last.fm/music/100+gecs/_/ringtone+(Remix)+%5Bfeat.+Charli+XCX,+Rico+Nasty,+Kero+Kero+Bonito%5D)
-* [p4rkr — i dont want that many friends in the first place](https://www.last.fm/music/p4rkr/_/i+dont+want+that+many+friends+in+the+first+place)<!-- LASTFM:END -->
+* [WHOKILLEDXIX — Sick Duck](https://www.last.fm/music/WHOKILLEDXIX/_/Sick+Duck)
+* [Slayyyter — Daddy AF](https://www.last.fm/music/Slayyyter/_/Daddy+AF)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [Rico Nasty — IPHONE](https://www.last.fm/music/Rico+Nasty/_/IPHONE)
+* [esthie — cotton candy skies](https://www.last.fm/music/esthie/_/cotton+candy+skies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
