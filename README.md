@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [G Flip — Queen](https://www.last.fm/music/G+Flip/_/Queen)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [mxmtoon — blame game](https://www.last.fm/music/mxmtoon/_/blame+game)
-* [mxmtoon — porcelain](https://www.last.fm/music/mxmtoon/_/porcelain)
-* [mxmtoon — dream of you - Chloe Lilac edit](https://www.last.fm/music/mxmtoon/_/dream+of+you+-+Chloe+Lilac+edit)<!-- LASTFM:END -->
+* [mxmtoon — ok on your own (feat. Carly Rae Jepsen)](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+(feat.+Carly+Rae+Jepsen))
+* [mxmtoon — 1-800-DATEME](https://www.last.fm/music/mxmtoon/_/1-800-DATEME)
+* [mxmtoon — 1, 2](https://www.last.fm/music/mxmtoon/_/1,+2)
+* [mxmtoon — My Way](https://www.last.fm/music/mxmtoon/_/My+Way)
+* [mxmtoon — fever dream - acoustic](https://www.last.fm/music/mxmtoon/_/fever+dream+-+acoustic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
