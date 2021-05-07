@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [boy pablo — Hey Girl](https://www.last.fm/music/boy+pablo/_/Hey+Girl)
-* [beabadoobee — If You Want To](https://www.last.fm/music/beabadoobee/_/If+You+Want+To)
-* [mxmtoon — i feel like chet](https://www.last.fm/music/mxmtoon/_/i+feel+like+chet)
-* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
-* [Wallows — Are You Bored Yet? (feat. Clairo)](https://www.last.fm/music/Wallows/_/Are+You+Bored+Yet%3F+(feat.+Clairo))<!-- LASTFM:END -->
+* [Noah Kahan — Pride (with mxmtoon)](https://www.last.fm/music/Noah+Kahan/_/Pride+(with+mxmtoon))
+* [mxmtoon — fever dream - Shawn Wasabi remix](https://www.last.fm/music/mxmtoon/_/fever+dream+-+Shawn+Wasabi+remix)
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
+* [mxmtoon — dream of you - acoustic](https://www.last.fm/music/mxmtoon/_/dream+of+you+-+acoustic)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
