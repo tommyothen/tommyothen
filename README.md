@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — unspoken words](https://www.last.fm/music/mxmtoon/_/unspoken+words)
+* [mxmtoon — suffice - acoustic](https://www.last.fm/music/mxmtoon/_/suffice+-+acoustic)
 * [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
 * [mxmtoon — asking for a friend](https://www.last.fm/music/mxmtoon/_/asking+for+a+friend)
-* [mxmtoon — dream of you](https://www.last.fm/music/mxmtoon/_/dream+of+you)
-* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
-* [mxmtoon — myrtle ave. - demo](https://www.last.fm/music/mxmtoon/_/myrtle+ave.+-+demo)<!-- LASTFM:END -->
+* [mxmtoon — dream of you](https://www.last.fm/music/mxmtoon/_/dream+of+you)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
