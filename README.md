@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [mxmtoon — temporary nothing](https://www.last.fm/music/mxmtoon/_/temporary+nothing)
-* [mxmtoon — blame game](https://www.last.fm/music/mxmtoon/_/blame+game)
-* [mxmtoon — asking for a friend](https://www.last.fm/music/mxmtoon/_/asking+for+a+friend)
-* [mxmtoon — prom dress - acoustic](https://www.last.fm/music/mxmtoon/_/prom+dress+-+acoustic)<!-- LASTFM:END -->
+* [mxmtoon — no faker](https://www.last.fm/music/mxmtoon/_/no+faker)
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
+* [mxmtoon — my ted talk](https://www.last.fm/music/mxmtoon/_/my+ted+talk)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
+* [mxmtoon — feelings are fatal - Tessa Violet edit](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal+-+Tessa+Violet+edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
