@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
-* [Cavetown — Devil Town](https://www.last.fm/music/Cavetown/_/Devil+Town)
-* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
-* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
-* [Chloe Moriondo — Silly Girl](https://www.last.fm/music/Chloe+Moriondo/_/Silly+Girl)<!-- LASTFM:END -->
+* [boy pablo — Hey Girl](https://www.last.fm/music/boy+pablo/_/Hey+Girl)
+* [beabadoobee — If You Want To](https://www.last.fm/music/beabadoobee/_/If+You+Want+To)
+* [mxmtoon — i feel like chet](https://www.last.fm/music/mxmtoon/_/i+feel+like+chet)
+* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
+* [Wallows — Are You Bored Yet? (feat. Clairo)](https://www.last.fm/music/Wallows/_/Are+You+Bored+Yet%3F+(feat.+Clairo))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
