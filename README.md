@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — 1, 2](https://www.last.fm/music/mxmtoon/_/1,+2)
-* [mxmtoon — feelings are fatal - Tessa Violet edit](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal+-+Tessa+Violet+edit)
-* [mxmtoon — high & dry - chloe moriondo & Shortly edit](https://www.last.fm/music/mxmtoon/_/high+&+dry+-+chloe+moriondo+&+Shortly+edit)
-* [mxmtoon — high & dry](https://www.last.fm/music/mxmtoon/_/high+&+dry)
-* [mxmtoon — unspoken words](https://www.last.fm/music/mxmtoon/_/unspoken+words)<!-- LASTFM:END -->
+* [mxmtoon — wallflower](https://www.last.fm/music/mxmtoon/_/wallflower)
+* [mxmtoon — dream of you](https://www.last.fm/music/mxmtoon/_/dream+of+you)
+* [mxmtoon — fever dream - Shawn Wasabi remix](https://www.last.fm/music/mxmtoon/_/fever+dream+-+Shawn+Wasabi+remix)
+* [mxmtoon — late nights](https://www.last.fm/music/mxmtoon/_/late+nights)
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
