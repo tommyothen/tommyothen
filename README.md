@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
-* [Noah Kahan — Pride (with mxmtoon)](https://www.last.fm/music/Noah+Kahan/_/Pride+(with+mxmtoon))
-* [mxmtoon — 1, 2 (feat. chloe moriondo)](https://www.last.fm/music/mxmtoon/_/1,+2+(feat.+chloe+moriondo))
-* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
-* [mxmtoon — no faker](https://www.last.fm/music/mxmtoon/_/no+faker)<!-- LASTFM:END -->
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
+* [mxmtoon — prom dress - demo](https://www.last.fm/music/mxmtoon/_/prom+dress+-+demo)
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [mxmtoon — i feel like chet](https://www.last.fm/music/mxmtoon/_/i+feel+like+chet)
+* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
