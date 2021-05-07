@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
-* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
-* [mxmtoon — stuck](https://www.last.fm/music/mxmtoon/_/stuck)
-* [mxmtoon — my ted talk - acoustic](https://www.last.fm/music/mxmtoon/_/my+ted+talk+-+acoustic)
-* [mxmtoon — wallflower](https://www.last.fm/music/mxmtoon/_/wallflower)<!-- LASTFM:END -->
+* [mxmtoon — myrtle ave. - demo](https://www.last.fm/music/mxmtoon/_/myrtle+ave.+-+demo)
+* [mxmtoon — bon iver - acoustic](https://www.last.fm/music/mxmtoon/_/bon+iver+-+acoustic)
+* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
+* [mxmtoon — birdie](https://www.last.fm/music/mxmtoon/_/birdie)
+* [llusion — walk but in a garden (with mxmtoon)](https://www.last.fm/music/llusion/_/walk+but+in+a+garden+(with+mxmtoon))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
