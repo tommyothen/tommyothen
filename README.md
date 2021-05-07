@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — myrtle ave. - demo](https://www.last.fm/music/mxmtoon/_/myrtle+ave.+-+demo)
+* [mxmtoon — first](https://www.last.fm/music/mxmtoon/_/first)
+* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [mxmtoon — high & dry - acoustic](https://www.last.fm/music/mxmtoon/_/high+&+dry+-+acoustic)
-* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
-* [mxmtoon — i miss you](https://www.last.fm/music/mxmtoon/_/i+miss+you)
-* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)<!-- LASTFM:END -->
+* [mxmtoon — high & dry - acoustic](https://www.last.fm/music/mxmtoon/_/high+&+dry+-+acoustic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
