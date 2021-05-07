@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
+* [mxmtoon — high & dry - acoustic](https://www.last.fm/music/mxmtoon/_/high+&+dry+-+acoustic)
 * [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
-* [mxmtoon — the idea of you](https://www.last.fm/music/mxmtoon/_/the+idea+of+you)
-* [mxmtoon — first](https://www.last.fm/music/mxmtoon/_/first)
+* [mxmtoon — i miss you](https://www.last.fm/music/mxmtoon/_/i+miss+you)
 * [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
