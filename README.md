@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
-* [mxmtoon — temporary nothing](https://www.last.fm/music/mxmtoon/_/temporary+nothing)
-* [mxmtoon — myrtle ave. - demo](https://www.last.fm/music/mxmtoon/_/myrtle+ave.+-+demo)
-* [mxmtoon — first](https://www.last.fm/music/mxmtoon/_/first)
-* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)<!-- LASTFM:END -->
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
+* [mxmtoon — dream of you - acoustic](https://www.last.fm/music/mxmtoon/_/dream+of+you+-+acoustic)
+* [mxmtoon — 1, 2 - acoustic](https://www.last.fm/music/mxmtoon/_/1,+2+-+acoustic)
+* [mxmtoon — asking for a friend](https://www.last.fm/music/mxmtoon/_/asking+for+a+friend)
+* [mxmtoon — unspoken words - acoustic](https://www.last.fm/music/mxmtoon/_/unspoken+words+-+acoustic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
