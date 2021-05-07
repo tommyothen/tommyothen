@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
-* [mxmtoon — dream of you - acoustic](https://www.last.fm/music/mxmtoon/_/dream+of+you+-+acoustic)
-* [mxmtoon — 1, 2 - acoustic](https://www.last.fm/music/mxmtoon/_/1,+2+-+acoustic)
-* [mxmtoon — asking for a friend](https://www.last.fm/music/mxmtoon/_/asking+for+a+friend)
-* [mxmtoon — unspoken words - acoustic](https://www.last.fm/music/mxmtoon/_/unspoken+words+-+acoustic)<!-- LASTFM:END -->
+* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
+* [Cavetown — Devil Town](https://www.last.fm/music/Cavetown/_/Devil+Town)
+* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
+* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
+* [Chloe Moriondo — Silly Girl](https://www.last.fm/music/Chloe+Moriondo/_/Silly+Girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
