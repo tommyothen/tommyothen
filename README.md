@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — stuck](https://www.last.fm/music/mxmtoon/_/stuck)
-* [mxmtoon — temporary nothing - Charlie Burg edit](https://www.last.fm/music/mxmtoon/_/temporary+nothing+-+Charlie+Burg+edit)
-* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
-* [mxmtoon — late nights - acoustic](https://www.last.fm/music/mxmtoon/_/late+nights+-+acoustic)
-* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)<!-- LASTFM:END -->
+* [mxmtoon — show and tell](https://www.last.fm/music/mxmtoon/_/show+and+tell)
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
+* [mxmtoon — fever dream - Shawn Wasabi remix](https://www.last.fm/music/mxmtoon/_/fever+dream+-+Shawn+Wasabi+remix)
+* [Ricky Montgomery — Line Without A Hook](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+A+Hook)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
