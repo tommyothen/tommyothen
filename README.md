@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Carter Ace — I Think I'm Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
-* [maeshima soshi — So Far](https://www.last.fm/music/maeshima+soshi/_/So+Far)
-* [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)
-* [Yung Gravy — Yung Gravity](https://www.last.fm/music/Yung+Gravy/_/Yung+Gravity)
-* [MONKEY MAJIK — 留学生](https://www.last.fm/music/MONKEY+MAJIK/_/%E7%95%99%E5%AD%A6%E7%94%9F)<!-- LASTFM:END -->
+* [Mega Shinnosuke — Midnight Routine](https://www.last.fm/music/Mega+Shinnosuke/_/Midnight+Routine)
+* [DedachiKenta — Catch Me If You Can (Fly Away)](https://www.last.fm/music/DedachiKenta/_/Catch+Me+If+You+Can+(Fly+Away))
+* [FUKKIT — Flash Bang](https://www.last.fm/music/FUKKIT/_/Flash+Bang)
+* [MANWOLVES — Sauce](https://www.last.fm/music/MANWOLVES/_/Sauce)
+* [Wonk — Rollin’](https://www.last.fm/music/Wonk/_/Rollin%E2%80%99)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
