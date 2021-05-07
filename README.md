@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — no faker](https://www.last.fm/music/mxmtoon/_/no+faker)
-* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
-* [mxmtoon — my ted talk](https://www.last.fm/music/mxmtoon/_/my+ted+talk)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [mxmtoon — feelings are fatal - Tessa Violet edit](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal+-+Tessa+Violet+edit)<!-- LASTFM:END -->
+* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
+* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
+* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
+* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
