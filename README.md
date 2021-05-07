@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — dream of you - Chloe Lilac edit](https://www.last.fm/music/mxmtoon/_/dream+of+you+-+Chloe+Lilac+edit)
-* [mxmtoon — wallflower](https://www.last.fm/music/mxmtoon/_/wallflower)
-* [mxmtoon — porcelain](https://www.last.fm/music/mxmtoon/_/porcelain)
+* [G Flip — Queen](https://www.last.fm/music/G+Flip/_/Queen)
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [mxmtoon — seasonal depression - acoustic](https://www.last.fm/music/mxmtoon/_/seasonal+depression+-+acoustic)<!-- LASTFM:END -->
+* [mxmtoon — blame game](https://www.last.fm/music/mxmtoon/_/blame+game)
+* [mxmtoon — porcelain](https://www.last.fm/music/mxmtoon/_/porcelain)
+* [mxmtoon — dream of you - Chloe Lilac edit](https://www.last.fm/music/mxmtoon/_/dream+of+you+-+Chloe+Lilac+edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
