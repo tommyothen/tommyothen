@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — show and tell](https://www.last.fm/music/mxmtoon/_/show+and+tell)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [mxmtoon — fever dream - Shawn Wasabi remix](https://www.last.fm/music/mxmtoon/_/fever+dream+-+Shawn+Wasabi+remix)
-* [Ricky Montgomery — Line Without A Hook](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+A+Hook)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
+* [mxmtoon — ok on your own - LilyPichu edit](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+-+LilyPichu+edit)
+* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
+* [mxmtoon — blame game - acoustic](https://www.last.fm/music/mxmtoon/_/blame+game+-+acoustic)
+* [mxmtoon — lessons - boyinblue remix](https://www.last.fm/music/mxmtoon/_/lessons+-+boyinblue+remix)
+* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
