@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Noah Kahan — Pride (with mxmtoon)](https://www.last.fm/music/Noah+Kahan/_/Pride+(with+mxmtoon))
-* [mxmtoon — fever dream - Shawn Wasabi remix](https://www.last.fm/music/mxmtoon/_/fever+dream+-+Shawn+Wasabi+remix)
-* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
-* [mxmtoon — dream of you - acoustic](https://www.last.fm/music/mxmtoon/_/dream+of+you+-+acoustic)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
+* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
+* [mxmtoon — the sideline](https://www.last.fm/music/mxmtoon/_/the+sideline)
+* [Ricky Montgomery — Line Without A Hook](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+A+Hook)
+* [mxmtoon — temporary nothing - Charlie Burg edit](https://www.last.fm/music/mxmtoon/_/temporary+nothing+-+Charlie+Burg+edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
