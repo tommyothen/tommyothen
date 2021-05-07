@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mega Shinnosuke — Midnight Routine](https://www.last.fm/music/Mega+Shinnosuke/_/Midnight+Routine)
-* [DedachiKenta — Catch Me If You Can (Fly Away)](https://www.last.fm/music/DedachiKenta/_/Catch+Me+If+You+Can+(Fly+Away))
-* [FUKKIT — Flash Bang](https://www.last.fm/music/FUKKIT/_/Flash+Bang)
-* [MANWOLVES — Sauce](https://www.last.fm/music/MANWOLVES/_/Sauce)
-* [Wonk — Rollin’](https://www.last.fm/music/Wonk/_/Rollin%E2%80%99)<!-- LASTFM:END -->
+* [mxmtoon — dream of you - Chloe Lilac edit](https://www.last.fm/music/mxmtoon/_/dream+of+you+-+Chloe+Lilac+edit)
+* [mxmtoon — wallflower](https://www.last.fm/music/mxmtoon/_/wallflower)
+* [mxmtoon — porcelain](https://www.last.fm/music/mxmtoon/_/porcelain)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
+* [mxmtoon — seasonal depression - acoustic](https://www.last.fm/music/mxmtoon/_/seasonal+depression+-+acoustic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
