@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — My Way](https://www.last.fm/music/mxmtoon/_/My+Way)
+* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)
 * [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
 * [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
-* [mxmtoon — the sideline](https://www.last.fm/music/mxmtoon/_/the+sideline)
-* [Ricky Montgomery — Line Without A Hook](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+A+Hook)
-* [mxmtoon — temporary nothing - Charlie Burg edit](https://www.last.fm/music/mxmtoon/_/temporary+nothing+-+Charlie+Burg+edit)<!-- LASTFM:END -->
+* [mxmtoon — the sideline](https://www.last.fm/music/mxmtoon/_/the+sideline)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
