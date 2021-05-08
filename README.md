@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
-* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)
-* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)<!-- LASTFM:END -->
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
+* [Shiggy Jr. — oyasumi](https://www.last.fm/music/Shiggy+Jr./_/oyasumi)
+* [Engelwood — Immaculate Taste](https://www.last.fm/music/Engelwood/_/Immaculate+Taste)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
