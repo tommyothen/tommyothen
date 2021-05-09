@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
-* [marc indigo — soul searching](https://www.last.fm/music/marc+indigo/_/soul+searching)
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
-* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
-* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)<!-- LASTFM:END -->
+* [Dumbfoundead — WASHED (PROD. BY SHAWN WASABI)](https://www.last.fm/music/Dumbfoundead/_/WASHED+(PROD.+BY+SHAWN+WASABI))
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
+* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
+* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
+* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
