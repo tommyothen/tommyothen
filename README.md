@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
 * [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
 * [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
 * [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
-* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)<!-- LASTFM:END -->
+* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
