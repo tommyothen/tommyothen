@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — untitled - acoustic](https://www.last.fm/music/mxmtoon/_/untitled+-+acoustic)
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [mxmtoon — wallflower](https://www.last.fm/music/mxmtoon/_/wallflower)
 * [mxmtoon — blame game - acoustic](https://www.last.fm/music/mxmtoon/_/blame+game+-+acoustic)
-* [mxmtoon — no faker](https://www.last.fm/music/mxmtoon/_/no+faker)
-* [G Flip — Queen](https://www.last.fm/music/G+Flip/_/Queen)
-* [mxmtoon — the idea of you](https://www.last.fm/music/mxmtoon/_/the+idea+of+you)
-* [Noah Kahan — Pride (with mxmtoon)](https://www.last.fm/music/Noah+Kahan/_/Pride+(with+mxmtoon))<!-- LASTFM:END -->
+* [mxmtoon — no faker](https://www.last.fm/music/mxmtoon/_/no+faker)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
