@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — late nights - Alexander 23 edit](https://www.last.fm/music/mxmtoon/_/late+nights+-+Alexander+23+edit)
-* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)
-* [mxmtoon — untitled](https://www.last.fm/music/mxmtoon/_/untitled)<!-- LASTFM:END -->
+* [mxmtoon — porcelain](https://www.last.fm/music/mxmtoon/_/porcelain)
+* [mxmtoon — bon iver - acoustic](https://www.last.fm/music/mxmtoon/_/bon+iver+-+acoustic)
+* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [mxmtoon — the sideline](https://www.last.fm/music/mxmtoon/_/the+sideline)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
