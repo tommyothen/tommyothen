@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — 1-800-DATEME](https://www.last.fm/music/mxmtoon/_/1-800-DATEME)
-* [mxmtoon — prom dress - acoustic](https://www.last.fm/music/mxmtoon/_/prom+dress+-+acoustic)
-* [mxmtoon — fever dream - Shawn Wasabi remix](https://www.last.fm/music/mxmtoon/_/fever+dream+-+Shawn+Wasabi+remix)
-* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
-* [mxmtoon — porcelain](https://www.last.fm/music/mxmtoon/_/porcelain)<!-- LASTFM:END -->
+* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
+* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
+* [mxmtoon — late nights - acoustic](https://www.last.fm/music/mxmtoon/_/late+nights+-+acoustic)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
+* [mxmtoon — birdie](https://www.last.fm/music/mxmtoon/_/birdie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
