@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
-* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
-* [mxmtoon — late nights - acoustic](https://www.last.fm/music/mxmtoon/_/late+nights+-+acoustic)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [mxmtoon — birdie](https://www.last.fm/music/mxmtoon/_/birdie)<!-- LASTFM:END -->
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
+* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
+* [mxmtoon — suffice - acoustic](https://www.last.fm/music/mxmtoon/_/suffice+-+acoustic)
+* [mxmtoon — blame game](https://www.last.fm/music/mxmtoon/_/blame+game)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
