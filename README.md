@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — asking for a friend](https://www.last.fm/music/mxmtoon/_/asking+for+a+friend)
-* [mxmtoon — don't play your card](https://www.last.fm/music/mxmtoon/_/don%27t+play+your+card)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [mxmtoon — i feel like chet](https://www.last.fm/music/mxmtoon/_/i+feel+like+chet)
-* [mxmtoon — almost home](https://www.last.fm/music/mxmtoon/_/almost+home)<!-- LASTFM:END -->
+* [mxmtoon — feelings are fatal - Tessa Violet edit](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal+-+Tessa+Violet+edit)
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
+* [mxmtoon — i feel like chet - khai dreams edit](https://www.last.fm/music/mxmtoon/_/i+feel+like+chet+-+khai+dreams+edit)
+* [llusion — walk but in a garden (with mxmtoon)](https://www.last.fm/music/llusion/_/walk+but+in+a+garden+(with+mxmtoon))
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
