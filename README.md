@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
 * [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
 * [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
 * [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
-* [mxmtoon — suffice - acoustic](https://www.last.fm/music/mxmtoon/_/suffice+-+acoustic)
-* [mxmtoon — blame game](https://www.last.fm/music/mxmtoon/_/blame+game)<!-- LASTFM:END -->
+* [mxmtoon — suffice - acoustic](https://www.last.fm/music/mxmtoon/_/suffice+-+acoustic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
