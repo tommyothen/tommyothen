@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
-* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
-* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
-* [Dumbfoundead — WASHED (PROD. BY SHAWN WASABI)](https://www.last.fm/music/Dumbfoundead/_/WASHED+(PROD.+BY+SHAWN+WASABI))
-* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)<!-- LASTFM:END -->
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
+* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
+* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
+* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
