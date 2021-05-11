@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Porter Robinson — Unfold](https://www.last.fm/music/Porter+Robinson/_/Unfold)
+* [Porter Robinson — Goodbye To A World](https://www.last.fm/music/Porter+Robinson/_/Goodbye+To+A+World)
+* [Porter Robinson — Shelter](https://www.last.fm/music/Porter+Robinson/_/Shelter)
 * [Stephen — Crossfire](https://www.last.fm/music/Stephen/_/Crossfire)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
-* [Billie Eilish — bury a friend](https://www.last.fm/music/Billie+Eilish/_/bury+a+friend)
-* [blackbear — idfc](https://www.last.fm/music/blackbear/_/idfc)<!-- LASTFM:END -->
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
