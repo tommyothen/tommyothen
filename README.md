@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Josh A — Hocus Pocus](https://www.last.fm/music/Josh+A/_/Hocus+Pocus)
-* [AL-X the Great — Rocketman (feat. Atlas & Lando!)](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+(feat.+Atlas+&+Lando!))
-* [XXXTentacion — Dead Inside (Interlude)](https://www.last.fm/music/XXXTentacion/_/Dead+Inside+(Interlude))
-* [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)
-* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)<!-- LASTFM:END -->
+* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
+* [D-Real [愛] — Zero Two](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Zero+Two)
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
+* [blackbear — chateau](https://www.last.fm/music/blackbear/_/chateau)
+* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
