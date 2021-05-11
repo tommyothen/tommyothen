@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Porter Robinson — Divinity - Odesza Remix](https://www.last.fm/music/Porter+Robinson/_/Divinity+-+Odesza+Remix)
-* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
-* [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
-* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
-* [deadman 死人 — POURING](https://www.last.fm/music/deadman+%E6%AD%BB%E4%BA%BA/_/POURING)<!-- LASTFM:END -->
+* [Josh A — Hocus Pocus](https://www.last.fm/music/Josh+A/_/Hocus+Pocus)
+* [AL-X the Great — Rocketman (feat. Atlas & Lando!)](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+(feat.+Atlas+&+Lando!))
+* [XXXTentacion — Dead Inside (Interlude)](https://www.last.fm/music/XXXTentacion/_/Dead+Inside+(Interlude))
+* [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)
+* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
