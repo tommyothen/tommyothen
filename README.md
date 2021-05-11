@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [8485 — 1:15](https://www.last.fm/music/8485/_/1:15)
-* [PepSparks — Broke](https://www.last.fm/music/PepSparks/_/Broke)
-* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
-* [Ernest rareberrg — Tearing Me Apart](https://www.last.fm/music/Ernest+rareberrg/_/Tearing+Me+Apart)
-* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)<!-- LASTFM:END -->
+* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)
+* [Culi. — Acid Tears](https://www.last.fm/music/Culi./_/Acid+Tears)
+* [Dios — Runaway](https://www.last.fm/music/Dios/_/Runaway)
+* [deadman 死人 — POURING](https://www.last.fm/music/deadman+%E6%AD%BB%E4%BA%BA/_/POURING)
+* [Monsune — 1998](https://www.last.fm/music/Monsune/_/1998)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
