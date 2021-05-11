@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — untitled - acoustic](https://www.last.fm/music/mxmtoon/_/untitled+-+acoustic)
+* [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
 * [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
-* [mxmtoon — wallflower](https://www.last.fm/music/mxmtoon/_/wallflower)
-* [mxmtoon — blame game - acoustic](https://www.last.fm/music/mxmtoon/_/blame+game+-+acoustic)
-* [mxmtoon — no faker](https://www.last.fm/music/mxmtoon/_/no+faker)<!-- LASTFM:END -->
+* [Carter Ace — I Think I'm Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
+* [Moxas — Kaioken X20 Flow](https://www.last.fm/music/Moxas/_/Kaioken+X20+Flow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
