@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ROY PURDY — Walk It out!](https://www.last.fm/music/ROY+PURDY/_/Walk+It+out!)
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
 * [ROY PURDY — GUACAMOLE](https://www.last.fm/music/ROY+PURDY/_/GUACAMOLE)
 * [ROY PURDY — Livin These Days](https://www.last.fm/music/ROY+PURDY/_/Livin+These+Days)
-* [ROY PURDY — PINK AND GREEN](https://www.last.fm/music/ROY+PURDY/_/PINK+AND+GREEN)
-* [ROY PURDY — Walk It out!](https://www.last.fm/music/ROY+PURDY/_/Walk+It+out!)
-* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)<!-- LASTFM:END -->
+* [ROY PURDY — PINK AND GREEN](https://www.last.fm/music/ROY+PURDY/_/PINK+AND+GREEN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
