@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
-* [D-Real [愛] — Zero Two](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Zero+Two)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
-* [blackbear — chateau](https://www.last.fm/music/blackbear/_/chateau)
-* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)<!-- LASTFM:END -->
+* [Rich Brian — Attention (feat. Offset)](https://www.last.fm/music/Rich+Brian/_/Attention+(feat.+Offset))
+* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)
+* [88Rising — History](https://www.last.fm/music/88Rising/_/History)
+* [DBangz — THICK NIGGAS AND ANIME TIDDIES](https://www.last.fm/music/DBangz/_/THICK+NIGGAS+AND+ANIME+TIDDIES)
+* [bbno$ — nursery](https://www.last.fm/music/bbno$/_/nursery)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
