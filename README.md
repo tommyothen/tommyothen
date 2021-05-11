@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
+* [Dominic Fike — Vampire](https://www.last.fm/music/Dominic+Fike/_/Vampire)
 * [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)
 * [Culi. — Acid Tears](https://www.last.fm/music/Culi./_/Acid+Tears)
-* [Dios — Runaway](https://www.last.fm/music/Dios/_/Runaway)
-* [deadman 死人 — POURING](https://www.last.fm/music/deadman+%E6%AD%BB%E4%BA%BA/_/POURING)
-* [Monsune — 1998](https://www.last.fm/music/Monsune/_/1998)<!-- LASTFM:END -->
+* [Dios — Runaway](https://www.last.fm/music/Dios/_/Runaway)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
