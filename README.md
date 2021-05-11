@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Porter Robinson — Divinity - Odesza Remix](https://www.last.fm/music/Porter+Robinson/_/Divinity+-+Odesza+Remix)
+* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
 * [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
 * [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
-* [deadman 死人 — POURING](https://www.last.fm/music/deadman+%E6%AD%BB%E4%BA%BA/_/POURING)
-* [belak — King K Rool](https://www.last.fm/music/belak/_/King+K+Rool)
-* [Lando! — bottled up!](https://www.last.fm/music/Lando!/_/bottled+up!)<!-- LASTFM:END -->
+* [deadman 死人 — POURING](https://www.last.fm/music/deadman+%E6%AD%BB%E4%BA%BA/_/POURING)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
