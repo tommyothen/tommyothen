@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rich Brian — Attention (feat. Offset)](https://www.last.fm/music/Rich+Brian/_/Attention+(feat.+Offset))
-* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)
-* [88Rising — History](https://www.last.fm/music/88Rising/_/History)
-* [DBangz — THICK NIGGAS AND ANIME TIDDIES](https://www.last.fm/music/DBangz/_/THICK+NIGGAS+AND+ANIME+TIDDIES)
-* [bbno$ — nursery](https://www.last.fm/music/bbno$/_/nursery)<!-- LASTFM:END -->
+* [Stephen — Crossfire](https://www.last.fm/music/Stephen/_/Crossfire)
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
+* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
+* [Billie Eilish — bury a friend](https://www.last.fm/music/Billie+Eilish/_/bury+a+friend)
+* [blackbear — idfc](https://www.last.fm/music/blackbear/_/idfc)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
