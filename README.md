@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camino 84 — Little Too Late](https://www.last.fm/music/Camino+84/_/Little+Too+Late)
 * [Khary — Anime Saga Ending](https://www.last.fm/music/Khary/_/Anime+Saga+Ending)
 * [The Beamish Brothers — Nostalgia](https://www.last.fm/music/The+Beamish+Brothers/_/Nostalgia)
 * [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
-* [Lando! — bottled up!](https://www.last.fm/music/Lando!/_/bottled+up!)
-* [Ibrahim — Sisyphus II](https://www.last.fm/music/Ibrahim/_/Sisyphus+II)<!-- LASTFM:END -->
+* [Lando! — bottled up!](https://www.last.fm/music/Lando!/_/bottled+up!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
