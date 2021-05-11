@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Porter Robinson — Musician](https://www.last.fm/music/Porter+Robinson/_/Musician)
-* [Porter Robinson — Lifelike](https://www.last.fm/music/Porter+Robinson/_/Lifelike)
-* [Porter Robinson — look at the sky](https://www.last.fm/music/Porter+Robinson/_/look+at+the+sky)
-* [Porter Robinson — Unfold](https://www.last.fm/music/Porter+Robinson/_/Unfold)
-* [Porter Robinson — Goodbye To A World](https://www.last.fm/music/Porter+Robinson/_/Goodbye+To+A+World)<!-- LASTFM:END -->
+* [Porter Robinson — Do-Re-Mi-Fa-So-La-Ti-Do](https://www.last.fm/music/Porter+Robinson/_/Do-Re-Mi-Fa-So-La-Ti-Do)
+* [Porter Robinson — Mother](https://www.last.fm/music/Porter+Robinson/_/Mother)
+* [Porter Robinson — Wind Tempos](https://www.last.fm/music/Porter+Robinson/_/Wind+Tempos)
+* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
+* [Porter Robinson — Musician](https://www.last.fm/music/Porter+Robinson/_/Musician)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
