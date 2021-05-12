@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Noax — Hostile](https://www.last.fm/music/Noax/_/Hostile)
-* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
-* [Eden — Circles](https://www.last.fm/music/Eden/_/Circles)
-* [Ekali — Blame](https://www.last.fm/music/Ekali/_/Blame)
-* [BROCKBEATS — magic smoke](https://www.last.fm/music/BROCKBEATS/_/magic+smoke)<!-- LASTFM:END -->
+* [bbno$ — money conversation](https://www.last.fm/music/bbno$/_/money+conversation)
+* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
+* [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)
+* [Taska Black — Dead Inside](https://www.last.fm/music/Taska+Black/_/Dead+Inside)
+* [Eden — and](https://www.last.fm/music/Eden/_/and)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
