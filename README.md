@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
+* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
 * [mxmtoon — porcelain](https://www.last.fm/music/mxmtoon/_/porcelain)
 * [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
-* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
-* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)<!-- LASTFM:END -->
+* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
