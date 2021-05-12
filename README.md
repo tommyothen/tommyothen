@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — ok on your own - LilyPichu edit](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+-+LilyPichu+edit)
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
 * [mxmtoon — lessons - boyinblue remix](https://www.last.fm/music/mxmtoon/_/lessons+-+boyinblue+remix)
 * [mxmtoon — almost home](https://www.last.fm/music/mxmtoon/_/almost+home)
-* [mxmtoon — 1, 2](https://www.last.fm/music/mxmtoon/_/1,+2)
-* [mxmtoon — the idea of you](https://www.last.fm/music/mxmtoon/_/the+idea+of+you)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
+* [mxmtoon — 1, 2](https://www.last.fm/music/mxmtoon/_/1,+2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
