@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Isaac Dunbar — scorton's creek - re-imagined by filous](https://www.last.fm/music/Isaac+Dunbar/_/scorton%27s+creek+-+re-imagined+by+filous)
-* [Yeule — Pixel Affection](https://www.last.fm/music/Yeule/_/Pixel+Affection)
-* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
-* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
-* [Ellise — Angels Don't Cry](https://www.last.fm/music/Ellise/_/Angels+Don%27t+Cry)<!-- LASTFM:END -->
+* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
+* [LoveLeo — HEAD OVER HEELS](https://www.last.fm/music/LoveLeo/_/HEAD+OVER+HEELS)
+* [Isaac Dunbar — scorton's creek - re-imagined by filous](https://www.last.fm/music/Isaac+Dunbar/_/scorton%27s+creek+-+re-imagined+by+filous)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
