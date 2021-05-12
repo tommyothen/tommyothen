@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — the idea of you](https://www.last.fm/music/mxmtoon/_/the+idea+of+you)
-* [mxmtoon — first](https://www.last.fm/music/mxmtoon/_/first)
-* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
-* [mxmtoon — untitled](https://www.last.fm/music/mxmtoon/_/untitled)
-* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)<!-- LASTFM:END -->
+* [G Flip — Queen](https://www.last.fm/music/G+Flip/_/Queen)
+* [mxmtoon — fever dream - acoustic](https://www.last.fm/music/mxmtoon/_/fever+dream+-+acoustic)
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
+* [mxmtoon — 1-800-DATEME](https://www.last.fm/music/mxmtoon/_/1-800-DATEME)
+* [mxmtoon — the idea of you](https://www.last.fm/music/mxmtoon/_/the+idea+of+you)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
