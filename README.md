@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Life of Hojj — Monday 월요일](https://www.last.fm/music/Life+of+Hojj/_/Monday+%EC%9B%94%EC%9A%94%EC%9D%BC)
-* [D-Real [愛] — Always You](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Always+You)
-* [Eldzhey — Розовое вино](https://www.last.fm/music/Eldzhey/_/%D0%A0%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B5+%D0%B2%D0%B8%D0%BD%D0%BE)
-* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
-* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)<!-- LASTFM:END -->
+* [Ekali — Blame](https://www.last.fm/music/Ekali/_/Blame)
+* [BROCKBEATS — magic smoke](https://www.last.fm/music/BROCKBEATS/_/magic+smoke)
+* [Germ — Real Rap](https://www.last.fm/music/Germ/_/Real+Rap)
+* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
+* [Life of Hojj — Monday 월요일](https://www.last.fm/music/Life+of+Hojj/_/Monday+%EC%9B%94%EC%9A%94%EC%9D%BC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
