@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dorian Electra — Man to Man](https://www.last.fm/music/Dorian+Electra/_/Man+to+Man)
-* [Rei Ami — RUNAWAY](https://www.last.fm/music/Rei+Ami/_/RUNAWAY)
-* [Rico Nasty — OHFR?](https://www.last.fm/music/Rico+Nasty/_/OHFR%3F)
-* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
-* [Ellise — Nightmares](https://www.last.fm/music/Ellise/_/Nightmares)<!-- LASTFM:END -->
+* [Isaac Dunbar — scorton's creek - re-imagined by filous](https://www.last.fm/music/Isaac+Dunbar/_/scorton%27s+creek+-+re-imagined+by+filous)
+* [Yeule — Pixel Affection](https://www.last.fm/music/Yeule/_/Pixel+Affection)
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
+* [Ellise — Angels Don't Cry](https://www.last.fm/music/Ellise/_/Angels+Don%27t+Cry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
