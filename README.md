@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
+* [Triple One — Autumn Collection](https://www.last.fm/music/Triple+One/_/Autumn+Collection)
 * [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
 * [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [Akintoye — Off My Back](https://www.last.fm/music/Akintoye/_/Off+My+Back)
-* [Myles Parrish — Kickback](https://www.last.fm/music/Myles+Parrish/_/Kickback)
-* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)<!-- LASTFM:END -->
+* [Akintoye — Off My Back](https://www.last.fm/music/Akintoye/_/Off+My+Back)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
