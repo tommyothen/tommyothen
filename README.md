@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — money conversation](https://www.last.fm/music/bbno$/_/money+conversation)
-* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
-* [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)
-* [Taska Black — Dead Inside](https://www.last.fm/music/Taska+Black/_/Dead+Inside)
-* [Eden — and](https://www.last.fm/music/Eden/_/and)<!-- LASTFM:END -->
+* [420 UNLOVABLE — Wii Tennis](https://www.last.fm/music/420+UNLOVABLE/_/Wii+Tennis)
+* [Andrew Huang — Summertime Feeling](https://www.last.fm/music/Andrew+Huang/_/Summertime+Feeling)
+* [FREEL — Табурет (з к/ф "Людина з табуретом")](https://www.last.fm/music/FREEL/_/%D0%A2%D0%B0%D0%B1%D1%83%D1%80%D0%B5%D1%82+(%D0%B7+%D0%BA%2F%D1%84+%22%D0%9B%D1%8E%D0%B4%D0%B8%D0%BD%D0%B0+%D0%B7+%D1%82%D0%B0%D0%B1%D1%83%D1%80%D0%B5%D1%82%D0%BE%D0%BC%22))
+* [Fusq — Perfume!](https://www.last.fm/music/Fusq/_/Perfume!)
+* [bbno$ — stucco](https://www.last.fm/music/bbno$/_/stucco)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
