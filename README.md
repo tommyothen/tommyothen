@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)
-* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
+* [Dorian Electra — Man to Man](https://www.last.fm/music/Dorian+Electra/_/Man+to+Man)
 * [Rei Ami — RUNAWAY](https://www.last.fm/music/Rei+Ami/_/RUNAWAY)
-* [Rei Ami — MAC & CHEESE](https://www.last.fm/music/Rei+Ami/_/MAC+&+CHEESE)
-* [Rei Ami — do it right (feat. Aminé)](https://www.last.fm/music/Rei+Ami/_/do+it+right+(feat.+Amin%C3%A9))<!-- LASTFM:END -->
+* [Rico Nasty — OHFR?](https://www.last.fm/music/Rico+Nasty/_/OHFR%3F)
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
+* [Ellise — Nightmares](https://www.last.fm/music/Ellise/_/Nightmares)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
