@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — fever dream - Shawn Wasabi remix](https://www.last.fm/music/mxmtoon/_/fever+dream+-+Shawn+Wasabi+remix)
+* [mxmtoon — blame game](https://www.last.fm/music/mxmtoon/_/blame+game)
 * [mxmtoon — prom dress - demo](https://www.last.fm/music/mxmtoon/_/prom+dress+-+demo)
 * [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
-* [Snavs — Murda](https://www.last.fm/music/Snavs/_/Murda)
-* [420 UNLOVABLE — Wii Tennis](https://www.last.fm/music/420+UNLOVABLE/_/Wii+Tennis)
-* [Andrew Huang — Summertime Feeling](https://www.last.fm/music/Andrew+Huang/_/Summertime+Feeling)<!-- LASTFM:END -->
+* [Snavs — Murda](https://www.last.fm/music/Snavs/_/Murda)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
