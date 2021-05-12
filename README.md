@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — ok on your own (feat. Carly Rae Jepsen)](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+(feat.+Carly+Rae+Jepsen))
-* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
-* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
-* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
-* [mxmtoon — porcelain](https://www.last.fm/music/mxmtoon/_/porcelain)<!-- LASTFM:END -->
+* [mxmtoon — high & dry - acoustic](https://www.last.fm/music/mxmtoon/_/high+&+dry+-+acoustic)
+* [mxmtoon — late nights - Alexander 23 edit](https://www.last.fm/music/mxmtoon/_/late+nights+-+Alexander+23+edit)
+* [mxmtoon — dream of you - Chloe Lilac edit](https://www.last.fm/music/mxmtoon/_/dream+of+you+-+Chloe+Lilac+edit)
+* [mxmtoon — hong kong](https://www.last.fm/music/mxmtoon/_/hong+kong)
+* [mxmtoon — ok on your own (feat. Carly Rae Jepsen)](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+(feat.+Carly+Rae+Jepsen))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
