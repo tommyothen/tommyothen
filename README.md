@@ -5,7 +5,7 @@
   "Age": 19,
   "Occupation": "Student",
   "Interests": ["Programming", "Games", "Anime"],
-  "Learning": ["Java", "Flutter"]
+  "Learning": ["React", "Flutter"]
 }
 ```
 
