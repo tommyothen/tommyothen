@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — ok on your own (feat. Carly Rae Jepsen)](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+(feat.+Carly+Rae+Jepsen))
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
 * [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
 * [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
-* [mxmtoon — porcelain](https://www.last.fm/music/mxmtoon/_/porcelain)
-* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
-* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)<!-- LASTFM:END -->
+* [mxmtoon — porcelain](https://www.last.fm/music/mxmtoon/_/porcelain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
