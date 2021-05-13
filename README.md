@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Beamish Brothers — Nostalgia](https://www.last.fm/music/The+Beamish+Brothers/_/Nostalgia)
+* [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
+* [Lando! — bottled up!](https://www.last.fm/music/Lando!/_/bottled+up!)
 * [Ibrahim — Sisyphus II](https://www.last.fm/music/Ibrahim/_/Sisyphus+II)
-* [Nick Leng — Lie Like Them](https://www.last.fm/music/Nick+Leng/_/Lie+Like+Them)
-* [Eve — Inochi No Tabekata](https://www.last.fm/music/Eve/_/Inochi+No+Tabekata)
-* [Dwilly — ugh!](https://www.last.fm/music/Dwilly/_/ugh!)
-* [Atwood — Careless](https://www.last.fm/music/Atwood/_/Careless)<!-- LASTFM:END -->
+* [Nick Leng — Lie Like Them](https://www.last.fm/music/Nick+Leng/_/Lie+Like+Them)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
