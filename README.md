@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ernest rareberrg — Tearing Me Apart](https://www.last.fm/music/Ernest+rareberrg/_/Tearing+Me+Apart)
+* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
+* [Ryan Leahan — Steal My Bike](https://www.last.fm/music/Ryan+Leahan/_/Steal+My+Bike)
 * [MANWOLVES — Reaper](https://www.last.fm/music/MANWOLVES/_/Reaper)
-* [Warren Hue — IMNOTIMPRESSED!](https://www.last.fm/music/Warren+Hue/_/IMNOTIMPRESSED!)
-* [Camino 84 — Little Too Late](https://www.last.fm/music/Camino+84/_/Little+Too+Late)
-* [Khary — Anime Saga Ending](https://www.last.fm/music/Khary/_/Anime+Saga+Ending)
-* [The Beamish Brothers — Nostalgia](https://www.last.fm/music/The+Beamish+Brothers/_/Nostalgia)<!-- LASTFM:END -->
+* [Warren Hue — IMNOTIMPRESSED!](https://www.last.fm/music/Warren+Hue/_/IMNOTIMPRESSED!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
