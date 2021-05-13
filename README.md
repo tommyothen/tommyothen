@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
-* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)
-* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))<!-- LASTFM:END -->
+* [Atwood — Careless](https://www.last.fm/music/Atwood/_/Careless)
+* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
+* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
+* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
