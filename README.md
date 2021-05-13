@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [8485 — 1:15](https://www.last.fm/music/8485/_/1:15)
-* [YOASOBI — 夜に駆ける](https://www.last.fm/music/YOASOBI/_/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B)
-* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
-* [ネクライトーキー — 北上のススメ](https://www.last.fm/music/%E3%83%8D%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88%E3%83%BC%E3%82%AD%E3%83%BC/_/%E5%8C%97%E4%B8%8A%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1)
-* [Ernest rareberrg — Tearing Me Apart](https://www.last.fm/music/Ernest+rareberrg/_/Tearing+Me+Apart)<!-- LASTFM:END -->
+* [Carly Rae Jepsen — Too Much](https://www.last.fm/music/Carly+Rae+Jepsen/_/Too+Much)
+* [Poppy — Time Is Up](https://www.last.fm/music/Poppy/_/Time+Is+Up)
+* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)
+* [tempalay — 春山淡冶にして笑うが如く](https://www.last.fm/music/tempalay/_/%E6%98%A5%E5%B1%B1%E6%B7%A1%E5%86%B6%E3%81%AB%E3%81%97%E3%81%A6%E7%AC%91%E3%81%86%E3%81%8C%E5%A6%82%E3%81%8F)
+* [8485 — 1:15](https://www.last.fm/music/8485/_/1:15)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
