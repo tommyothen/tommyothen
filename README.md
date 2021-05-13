@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
+* [Rich Brian — Yellow (feat. Bekon)](https://www.last.fm/music/Rich+Brian/_/Yellow+(feat.+Bekon))
+* [クラムボン — Imaginary Folklore](https://www.last.fm/music/%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%9C%E3%83%B3/_/Imaginary+Folklore)
 * [THREE1989 — Rambling Rose](https://www.last.fm/music/THREE1989/_/Rambling+Rose)
-* [Moxas — Kaioken X20 Flow](https://www.last.fm/music/Moxas/_/Kaioken+X20+Flow)
-* [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)
-* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
-* [Lucky Kilimanjaro — 太陽](https://www.last.fm/music/Lucky+Kilimanjaro/_/%E5%A4%AA%E9%99%BD)<!-- LASTFM:END -->
+* [Moxas — Kaioken X20 Flow](https://www.last.fm/music/Moxas/_/Kaioken+X20+Flow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
