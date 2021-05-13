@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
-* [marc indigo — soul searching](https://www.last.fm/music/marc+indigo/_/soul+searching)
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
-* [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)<!-- LASTFM:END -->
+* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)
+* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
+* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
+* [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
+* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
