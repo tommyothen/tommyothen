@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Atwood — Careless](https://www.last.fm/music/Atwood/_/Careless)
-* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
-* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
-* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
+* [Ibrahim — Sisyphus II](https://www.last.fm/music/Ibrahim/_/Sisyphus+II)
+* [Nick Leng — Lie Like Them](https://www.last.fm/music/Nick+Leng/_/Lie+Like+Them)
+* [Eve — Inochi No Tabekata](https://www.last.fm/music/Eve/_/Inochi+No+Tabekata)
+* [Dwilly — ugh!](https://www.last.fm/music/Dwilly/_/ugh!)
+* [Atwood — Careless](https://www.last.fm/music/Atwood/_/Careless)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
