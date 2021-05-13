@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [8485 — 1:15](https://www.last.fm/music/8485/_/1:15)
+* [YOASOBI — 夜に駆ける](https://www.last.fm/music/YOASOBI/_/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B)
 * [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
 * [ネクライトーキー — 北上のススメ](https://www.last.fm/music/%E3%83%8D%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88%E3%83%BC%E3%82%AD%E3%83%BC/_/%E5%8C%97%E4%B8%8A%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1)
-* [Ernest rareberrg — Tearing Me Apart](https://www.last.fm/music/Ernest+rareberrg/_/Tearing+Me+Apart)
-* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
-* [Ryan Leahan — Steal My Bike](https://www.last.fm/music/Ryan+Leahan/_/Steal+My+Bike)<!-- LASTFM:END -->
+* [Ernest rareberrg — Tearing Me Apart](https://www.last.fm/music/Ernest+rareberrg/_/Tearing+Me+Apart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
