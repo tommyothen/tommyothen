@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
+* [Lucky Kilimanjaro — 太陽](https://www.last.fm/music/Lucky+Kilimanjaro/_/%E5%A4%AA%E9%99%BD)
+* [Tendre — LIFE](https://www.last.fm/music/Tendre/_/LIFE)
 * [Carly Rae Jepsen — Too Much](https://www.last.fm/music/Carly+Rae+Jepsen/_/Too+Much)
-* [Poppy — Time Is Up](https://www.last.fm/music/Poppy/_/Time+Is+Up)
-* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)
-* [tempalay — 春山淡冶にして笑うが如く](https://www.last.fm/music/tempalay/_/%E6%98%A5%E5%B1%B1%E6%B7%A1%E5%86%B6%E3%81%AB%E3%81%97%E3%81%A6%E7%AC%91%E3%81%86%E3%81%8C%E5%A6%82%E3%81%8F)
-* [8485 — 1:15](https://www.last.fm/music/8485/_/1:15)<!-- LASTFM:END -->
+* [Poppy — Time Is Up](https://www.last.fm/music/Poppy/_/Time+Is+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
