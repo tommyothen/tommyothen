@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [THREE1989 — Rambling Rose](https://www.last.fm/music/THREE1989/_/Rambling+Rose)
+* [Moxas — Kaioken X20 Flow](https://www.last.fm/music/Moxas/_/Kaioken+X20+Flow)
+* [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)
 * [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
-* [Lucky Kilimanjaro — 太陽](https://www.last.fm/music/Lucky+Kilimanjaro/_/%E5%A4%AA%E9%99%BD)
-* [Tendre — LIFE](https://www.last.fm/music/Tendre/_/LIFE)
-* [Carly Rae Jepsen — Too Much](https://www.last.fm/music/Carly+Rae+Jepsen/_/Too+Much)
-* [Poppy — Time Is Up](https://www.last.fm/music/Poppy/_/Time+Is+Up)<!-- LASTFM:END -->
+* [Lucky Kilimanjaro — 太陽](https://www.last.fm/music/Lucky+Kilimanjaro/_/%E5%A4%AA%E9%99%BD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
