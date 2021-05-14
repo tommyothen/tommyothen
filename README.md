@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Thomas & Friends — Thomas Theme (Reprise)](https://www.last.fm/music/Thomas+&+Friends/_/Thomas+Theme+(Reprise))
-* [William Jacobs — Krusty Krab Spongebob Trap Remix Vine Theme](https://www.last.fm/music/William+Jacobs/_/Krusty+Krab+Spongebob+Trap+Remix+Vine+Theme)
-* [davay — Tri Poloski](https://www.last.fm/music/davay/_/Tri+Poloski)
-* [Günther — Ding Dong Song - Radio Edit](https://www.last.fm/music/G%C3%BCnther/_/Ding+Dong+Song+-+Radio+Edit)
-* [Sigmao — Epic Sax Guy](https://www.last.fm/music/Sigmao/_/Epic+Sax+Guy)<!-- LASTFM:END -->
+* [Stryker Pose — Super Mario Bros](https://www.last.fm/music/Stryker+Pose/_/Super+Mario+Bros)
+* [Gabriel Mercado — Air Horn](https://www.last.fm/music/Gabriel+Mercado/_/Air+Horn)
+* [Charlie's Angels — Seinfeld](https://www.last.fm/music/Charlie%27s+Angels/_/Seinfeld)
+* [SlackCircus — HEYYEYAAEYAAAEYAEYAA (Fabulous Secret Powers)](https://www.last.fm/music/SlackCircus/_/HEYYEYAAEYAAAEYAEYAA+(Fabulous+Secret+Powers))
+* [Thomas & Friends — Thomas Theme (Reprise)](https://www.last.fm/music/Thomas+&+Friends/_/Thomas+Theme+(Reprise))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
