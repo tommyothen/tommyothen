@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — high & dry](https://www.last.fm/music/mxmtoon/_/high+&+dry)
+* [mxmtoon — blame game](https://www.last.fm/music/mxmtoon/_/blame+game)
+* [mxmtoon — suffice](https://www.last.fm/music/mxmtoon/_/suffice)
 * [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
-* [mxmtoon — unspoken words](https://www.last.fm/music/mxmtoon/_/unspoken+words)
-* [mxmtoon — almost home](https://www.last.fm/music/mxmtoon/_/almost+home)
-* [mxmtoon — no faker](https://www.last.fm/music/mxmtoon/_/no+faker)
-* [mxmtoon — 1, 2](https://www.last.fm/music/mxmtoon/_/1,+2)<!-- LASTFM:END -->
+* [mxmtoon — unspoken words](https://www.last.fm/music/mxmtoon/_/unspoken+words)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
