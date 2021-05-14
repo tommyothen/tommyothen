@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
 * [mxmtoon — my ted talk](https://www.last.fm/music/mxmtoon/_/my+ted+talk)
 * [mxmtoon — high & dry](https://www.last.fm/music/mxmtoon/_/high+&+dry)
-* [mxmtoon — blame game](https://www.last.fm/music/mxmtoon/_/blame+game)
-* [mxmtoon — suffice](https://www.last.fm/music/mxmtoon/_/suffice)
-* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)<!-- LASTFM:END -->
+* [mxmtoon — blame game](https://www.last.fm/music/mxmtoon/_/blame+game)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
