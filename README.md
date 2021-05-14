@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sigmao — Epic Sax Guy](https://www.last.fm/music/Sigmao/_/Epic+Sax+Guy)
-* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)
-* [Hazel — I Love Poland - Chengdu Remix](https://www.last.fm/music/Hazel/_/I+Love+Poland+-+Chengdu+Remix)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)<!-- LASTFM:END -->
+* [Thomas & Friends — Thomas Theme (Reprise)](https://www.last.fm/music/Thomas+&+Friends/_/Thomas+Theme+(Reprise))
+* [William Jacobs — Krusty Krab Spongebob Trap Remix Vine Theme](https://www.last.fm/music/William+Jacobs/_/Krusty+Krab+Spongebob+Trap+Remix+Vine+Theme)
+* [davay — Tri Poloski](https://www.last.fm/music/davay/_/Tri+Poloski)
+* [Günther — Ding Dong Song - Radio Edit](https://www.last.fm/music/G%C3%BCnther/_/Ding+Dong+Song+-+Radio+Edit)
+* [Sigmao — Epic Sax Guy](https://www.last.fm/music/Sigmao/_/Epic+Sax+Guy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
