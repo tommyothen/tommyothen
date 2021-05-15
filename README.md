@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — laughing and not being normal](https://www.last.fm/music/Grimes/_/laughing+and+not+being+normal)
+* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
 * [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [Carter Ace — I Think I'm Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
-* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)<!-- LASTFM:END -->
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
+* [Grimes — laughing and not being normal](https://www.last.fm/music/Grimes/_/laughing+and+not+being+normal)
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
