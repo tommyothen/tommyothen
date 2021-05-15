@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [Hazel — I Love Poland - Chengdu Remix](https://www.last.fm/music/Hazel/_/I+Love+Poland+-+Chengdu+Remix)
-* [Tsuko G. — Deja Vu (Initial D)](https://www.last.fm/music/Tsuko+G./_/Deja+Vu+(Initial+D))<!-- LASTFM:END -->
+* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
+* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
+* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
