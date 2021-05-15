@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
 * [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
 * [Hazel — I Love Poland - Chengdu Remix](https://www.last.fm/music/Hazel/_/I+Love+Poland+-+Chengdu+Remix)
-* [Tsuko G. — Deja Vu (Initial D)](https://www.last.fm/music/Tsuko+G./_/Deja+Vu+(Initial+D))
-* [John Cena — The Time is Now](https://www.last.fm/music/John+Cena/_/The+Time+is+Now)
-* [Stryker Pose — Super Mario Bros](https://www.last.fm/music/Stryker+Pose/_/Super+Mario+Bros)<!-- LASTFM:END -->
+* [Tsuko G. — Deja Vu (Initial D)](https://www.last.fm/music/Tsuko+G./_/Deja+Vu+(Initial+D))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
