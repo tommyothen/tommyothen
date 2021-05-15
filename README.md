@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Carter Ace — I Think I'm Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
 * [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
 * [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
 * [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)<!-- LASTFM:END -->
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
