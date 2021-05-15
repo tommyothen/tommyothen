@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [Hazel — I Love Poland - Chengdu Remix](https://www.last.fm/music/Hazel/_/I+Love+Poland+-+Chengdu+Remix)
-* [Kim Petras — Personal Hell](https://www.last.fm/music/Kim+Petras/_/Personal+Hell)
-* [AMpm — more](https://www.last.fm/music/AMpm/_/more)
-* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)<!-- LASTFM:END -->
+* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
+* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
+* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
+* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
+* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
