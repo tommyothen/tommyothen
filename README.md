@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
-* [Ashnikko — Daisy](https://www.last.fm/music/Ashnikko/_/Daisy)
+* [Ashnikko — Good While It Lasted](https://www.last.fm/music/Ashnikko/_/Good+While+It+Lasted)
+* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
 * [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
-* [Ashnikko — Working Bitch](https://www.last.fm/music/Ashnikko/_/Working+Bitch)<!-- LASTFM:END -->
+* [Ashnikko — Little Boy](https://www.last.fm/music/Ashnikko/_/Little+Boy)
+* [Ashnikko — Drunk with My Friends](https://www.last.fm/music/Ashnikko/_/Drunk+with+My+Friends)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
