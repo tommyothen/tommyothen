@@ -31,8 +31,8 @@ Now Playing\
 * [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
 * [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
 * [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
-* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
-* [Ashnikko — Little Boy](https://www.last.fm/music/Ashnikko/_/Little+Boy)<!-- LASTFM:END -->
+* [Ashnikko — Clitoris! The Musical](https://www.last.fm/music/Ashnikko/_/Clitoris!+The+Musical)
+* [Ashnikko — Good While It Lasted](https://www.last.fm/music/Ashnikko/_/Good+While+It+Lasted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
