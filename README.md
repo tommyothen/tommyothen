@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — Invitation (feat. Kodie Shane)](https://www.last.fm/music/Ashnikko/_/Invitation+(feat.+Kodie+Shane))
-* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
-* [Ashnikko — Working Bitch](https://www.last.fm/music/Ashnikko/_/Working+Bitch)
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
-* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)<!-- LASTFM:END -->
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
+* [Ashnikko — Drunk with My Friends](https://www.last.fm/music/Ashnikko/_/Drunk+with+My+Friends)
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
+* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
