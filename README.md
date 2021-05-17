@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
 * [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
 * [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
-* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)
-* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
-* [Dumbfoundead — WASHED (PROD. BY SHAWN WASABI)](https://www.last.fm/music/Dumbfoundead/_/WASHED+(PROD.+BY+SHAWN+WASABI))<!-- LASTFM:END -->
+* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
