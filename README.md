@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [marc indigo — soul searching](https://www.last.fm/music/marc+indigo/_/soul+searching)
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
-* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
-* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
-* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)<!-- LASTFM:END -->
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
+* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
+* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
+* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
+* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
