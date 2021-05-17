@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)
-* [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
-* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)<!-- LASTFM:END -->
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
+* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
+* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
