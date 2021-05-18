@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
 * [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
 * [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
 * [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [Hazel — I Love Poland - Chengdu Remix](https://www.last.fm/music/Hazel/_/I+Love+Poland+-+Chengdu+Remix)<!-- LASTFM:END -->
+* [Hazel — I Love Poland - Chengdu Remix](https://www.last.fm/music/Hazel/_/I+Love+Poland+-+Chengdu+Remix)
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
