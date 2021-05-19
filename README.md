@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [nothing,nowhere. — ORNAMENT](https://www.last.fm/music/nothing,nowhere./_/ORNAMENT)
-* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
-* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
-* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
-* [Cum — SAPOL Killing Spree](https://www.last.fm/music/Cum/_/SAPOL+Killing+Spree)<!-- LASTFM:END -->
+* [WASTEDJU — "e-girl"](https://www.last.fm/music/WASTEDJU/_/%22e-girl%22)
+* [Papaya & Friends — SKIM MILK](https://www.last.fm/music/Papaya+&+Friends/_/SKIM+MILK)
+* [Tomtsu — Tongue Tied](https://www.last.fm/music/Tomtsu/_/Tongue+Tied)
+* [Vincente Void — Common Ground (feat. Damien Cane)](https://www.last.fm/music/Vincente+Void/_/Common+Ground+(feat.+Damien+Cane))
+* [nothing,nowhere. — ORNAMENT](https://www.last.fm/music/nothing,nowhere./_/ORNAMENT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
