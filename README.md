@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)
-* [Mr.Tree — Sacred Elements](https://www.last.fm/music/Mr.Tree/_/Sacred+Elements)
-* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
-* [Chow Mane — Sorry](https://www.last.fm/music/Chow+Mane/_/Sorry)
-* [ceo@business.net — blah blah blah](https://www.last.fm/music/ceo@business.net/_/blah+blah+blah)<!-- LASTFM:END -->
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
+* [tsuki — Oxygen](https://www.last.fm/music/tsuki/_/Oxygen)
+* [Huron John — Yoko](https://www.last.fm/music/Huron+John/_/Yoko)
+* [esperr. — Did I Stutter?](https://www.last.fm/music/esperr./_/Did+I+Stutter%3F)
+* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
