@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [WASTEDJU — "e-girl"](https://www.last.fm/music/WASTEDJU/_/%22e-girl%22)
-* [Papaya & Friends — SKIM MILK](https://www.last.fm/music/Papaya+&+Friends/_/SKIM+MILK)
-* [Tomtsu — Tongue Tied](https://www.last.fm/music/Tomtsu/_/Tongue+Tied)
-* [Vincente Void — Common Ground (feat. Damien Cane)](https://www.last.fm/music/Vincente+Void/_/Common+Ground+(feat.+Damien+Cane))
-* [nothing,nowhere. — ORNAMENT](https://www.last.fm/music/nothing,nowhere./_/ORNAMENT)<!-- LASTFM:END -->
+* [ceo@business.net — blah blah blah](https://www.last.fm/music/ceo@business.net/_/blah+blah+blah)
+* [Omarr — Water](https://www.last.fm/music/Omarr/_/Water)
+* [Caravan Palace — Melancolia](https://www.last.fm/music/Caravan+Palace/_/Melancolia)
+* [The Rare Occasions — Mercy Mercy](https://www.last.fm/music/The+Rare+Occasions/_/Mercy+Mercy)
+* [WASTEDJU — "e-girl"](https://www.last.fm/music/WASTEDJU/_/%22e-girl%22)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
