@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [WASTEDJU — "e-girl"](https://www.last.fm/music/WASTEDJU/_/%22e-girl%22)
-* [Papaya & Friends — SKIM MILK](https://www.last.fm/music/Papaya+&+Friends/_/SKIM+MILK)
-* [Tomtsu — Tongue Tied](https://www.last.fm/music/Tomtsu/_/Tongue+Tied)
-* [Vincente Void — Common Ground (feat. Damien Cane)](https://www.last.fm/music/Vincente+Void/_/Common+Ground+(feat.+Damien+Cane))
-* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))<!-- LASTFM:END -->
+* [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
+* [Qumu — Bubblegum K.K. (From "Animal Crossing: New Leaf")](https://www.last.fm/music/Qumu/_/Bubblegum+K.K.+(From+%22Animal+Crossing:+New+Leaf%22))
+* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)
+* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)
+* [WASTEDJU — "e-girl"](https://www.last.fm/music/WASTEDJU/_/%22e-girl%22)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
