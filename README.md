@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nothing,nowhere. — ORNAMENT](https://www.last.fm/music/nothing,nowhere./_/ORNAMENT)
+* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
+* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
 * [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
-* [Cum — SAPOL Killing Spree](https://www.last.fm/music/Cum/_/SAPOL+Killing+Spree)
-* [nothing,nowhere. — dread](https://www.last.fm/music/nothing,nowhere./_/dread)
-* [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
-* [Qumu — Bubblegum K.K. (From "Animal Crossing: New Leaf")](https://www.last.fm/music/Qumu/_/Bubblegum+K.K.+(From+%22Animal+Crossing:+New+Leaf%22))<!-- LASTFM:END -->
+* [Cum — SAPOL Killing Spree](https://www.last.fm/music/Cum/_/SAPOL+Killing+Spree)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
