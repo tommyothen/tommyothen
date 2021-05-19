@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ceo@business.net — blah blah blah](https://www.last.fm/music/ceo@business.net/_/blah+blah+blah)
-* [Omarr — Water](https://www.last.fm/music/Omarr/_/Water)
-* [Caravan Palace — Melancolia](https://www.last.fm/music/Caravan+Palace/_/Melancolia)
-* [The Rare Occasions — Mercy Mercy](https://www.last.fm/music/The+Rare+Occasions/_/Mercy+Mercy)
-* [WASTEDJU — "e-girl"](https://www.last.fm/music/WASTEDJU/_/%22e-girl%22)<!-- LASTFM:END -->
+* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)
+* [Mr.Tree — Sacred Elements](https://www.last.fm/music/Mr.Tree/_/Sacred+Elements)
+* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
+* [Chow Mane — Sorry](https://www.last.fm/music/Chow+Mane/_/Sorry)
+* [ceo@business.net — blah blah blah](https://www.last.fm/music/ceo@business.net/_/blah+blah+blah)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
