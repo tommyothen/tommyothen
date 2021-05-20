@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [NILFRUITS — Traffic Jam](https://www.last.fm/music/NILFRUITS/_/Traffic+Jam)
-* [LoveLeo — HEAD OVER HEELS](https://www.last.fm/music/LoveLeo/_/HEAD+OVER+HEELS)
-* [Shawn Wasabi — HALO HALO - REMIX (feat. Guapdad 4000 and Chevy)](https://www.last.fm/music/Shawn+Wasabi/_/HALO+HALO+-+REMIX+(feat.+Guapdad+4000+and+Chevy))
-* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
-* [tsuki — Oxygen](https://www.last.fm/music/tsuki/_/Oxygen)<!-- LASTFM:END -->
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
+* [Poppy — I'm Poppy](https://www.last.fm/music/Poppy/_/I%27m+Poppy)
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
+* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
+* [NILFRUITS — Traffic Jam](https://www.last.fm/music/NILFRUITS/_/Traffic+Jam)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
