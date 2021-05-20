@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NILFRUITS — Traffic Jam](https://www.last.fm/music/NILFRUITS/_/Traffic+Jam)
+* [LoveLeo — HEAD OVER HEELS](https://www.last.fm/music/LoveLeo/_/HEAD+OVER+HEELS)
+* [Shawn Wasabi — HALO HALO - REMIX (feat. Guapdad 4000 and Chevy)](https://www.last.fm/music/Shawn+Wasabi/_/HALO+HALO+-+REMIX+(feat.+Guapdad+4000+and+Chevy))
 * [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
-* [tsuki — Oxygen](https://www.last.fm/music/tsuki/_/Oxygen)
-* [Huron John — Yoko](https://www.last.fm/music/Huron+John/_/Yoko)
-* [esperr. — Did I Stutter?](https://www.last.fm/music/esperr./_/Did+I+Stutter%3F)
-* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)<!-- LASTFM:END -->
+* [tsuki — Oxygen](https://www.last.fm/music/tsuki/_/Oxygen)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
