@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Caravan Palace — Melancolia](https://www.last.fm/music/Caravan+Palace/_/Melancolia)
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
+* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
 * [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
-* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
-* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)<!-- LASTFM:END -->
+* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
