@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Clay K Slider — Supalonely](https://www.last.fm/music/Clay+K+Slider/_/Supalonely)
 * [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
 * [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
 * [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
-* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
-* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)<!-- LASTFM:END -->
+* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
