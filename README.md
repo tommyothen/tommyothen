@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
-* [Dumbfoundead — WASHED (PROD. BY SHAWN WASABI)](https://www.last.fm/music/Dumbfoundead/_/WASHED+(PROD.+BY+SHAWN+WASABI))
-* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
-* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)
-* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)<!-- LASTFM:END -->
+* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)
+* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))
+* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
+* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
+* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
