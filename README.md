@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Oliver Tree — Enemy](https://www.last.fm/music/Oliver+Tree/_/Enemy)
+* [Yarmak — Гни свою линию](https://www.last.fm/music/Yarmak/_/%D0%93%D0%BD%D0%B8+%D1%81%D0%B2%D0%BE%D1%8E+%D0%BB%D0%B8%D0%BD%D0%B8%D1%8E)
+* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
 * [c0nv0 — December](https://www.last.fm/music/c0nv0/_/December)
-* [emune — Bonfire](https://www.last.fm/music/emune/_/Bonfire)
-* [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)
-* [Shaun — Way Back Home (feat. Conor Maynard) - Sam Feldt Edit](https://www.last.fm/music/Shaun/_/Way+Back+Home+(feat.+Conor+Maynard)+-+Sam+Feldt+Edit)
-* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)<!-- LASTFM:END -->
+* [emune — Bonfire](https://www.last.fm/music/emune/_/Bonfire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
