@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rich Brian — Yellow (feat. Bekon)](https://www.last.fm/music/Rich+Brian/_/Yellow+(feat.+Bekon))
-* [Tokyo Machine — PLAY - Chime Remix](https://www.last.fm/music/Tokyo+Machine/_/PLAY+-+Chime+Remix)
-* [Feduk — Bassline Bitches](https://www.last.fm/music/Feduk/_/Bassline+Bitches)
-* [Oliver Tree — Enemy](https://www.last.fm/music/Oliver+Tree/_/Enemy)
-* [Yarmak — Гни свою линию](https://www.last.fm/music/Yarmak/_/%D0%93%D0%BD%D0%B8+%D1%81%D0%B2%D0%BE%D1%8E+%D0%BB%D0%B8%D0%BD%D0%B8%D1%8E)<!-- LASTFM:END -->
+* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
+* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
+* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
+* [D-Real [愛] — Coast Ghost](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Coast+Ghost)
+* [potsu — I'm Closing My Eyes](https://www.last.fm/music/potsu/_/I%27m+Closing+My+Eyes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
