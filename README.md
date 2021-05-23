@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)
+* [Red Velvet - IRENE & SEULGI — Naughty - Demicat Remix](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty+-+Demicat+Remix)
+* [Red Velvet - IRENE & SEULGI — Naughty - Demicat Remix](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty+-+Demicat+Remix)
 * [Red Velvet - IRENE & SEULGI — Uncover (Sung by SEULGI) - Bonus Track](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Uncover+(Sung+by+SEULGI)+-+Bonus+Track)
-* [Red Velvet - IRENE & SEULGI — Diamond](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Diamond)
-* [Red Velvet - IRENE & SEULGI — Jelly](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Jelly)
-* [Red Velvet - IRENE & SEULGI — Feel Good](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Feel+Good)
-* [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)<!-- LASTFM:END -->
+* [Red Velvet - IRENE & SEULGI — Diamond](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Diamond)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
