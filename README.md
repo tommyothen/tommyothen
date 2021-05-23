@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
+* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
 * [Dizzee Rascal — Bassline Junkie](https://www.last.fm/music/Dizzee+Rascal/_/Bassline+Junkie)
-* [Basshunter feat. DJ Mental Theos Bazzheadz — Now You're Gone - Video Edit](https://www.last.fm/music/Basshunter+feat.+DJ+Mental+Theos+Bazzheadz/_/Now+You%27re+Gone+-+Video+Edit)
 * [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
-* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
-* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)<!-- LASTFM:END -->
+* [Paramore — Still into You](https://www.last.fm/music/Paramore/_/Still+into+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
