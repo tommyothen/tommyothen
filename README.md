@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Antoha MC — Спорт-брат](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BF%D0%BE%D1%80%D1%82-%D0%B1%D1%80%D0%B0%D1%82)
+* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
+* [BROCKHAMPTON — 1999 WILDFIRE](https://www.last.fm/music/BROCKHAMPTON/_/1999+WILDFIRE)
 * [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
-* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
-* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
-* [D-Real [愛] — Coast Ghost](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Coast+Ghost)
-* [potsu — I'm Closing My Eyes](https://www.last.fm/music/potsu/_/I%27m+Closing+My+Eyes)<!-- LASTFM:END -->
+* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
