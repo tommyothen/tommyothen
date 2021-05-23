@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shaun — Way Back Home (feat. Conor Maynard) - Sam Feldt Edit](https://www.last.fm/music/Shaun/_/Way+Back+Home+(feat.+Conor+Maynard)+-+Sam+Feldt+Edit)
+* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)
+* [Her's — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)
 * [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)
-* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
-* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
-* [Dizzee Rascal — Bonkers](https://www.last.fm/music/Dizzee+Rascal/_/Bonkers)
-* [Paramore — Still into You](https://www.last.fm/music/Paramore/_/Still+into+You)<!-- LASTFM:END -->
+* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
