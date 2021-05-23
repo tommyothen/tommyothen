@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
+* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
 * [Red Velvet - IRENE & SEULGI — Naughty - Demicat Remix](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty+-+Demicat+Remix)
-* [Red Velvet - IRENE & SEULGI — Uncover (Sung by SEULGI) - Bonus Track](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Uncover+(Sung+by+SEULGI)+-+Bonus+Track)
-* [Red Velvet - IRENE & SEULGI — Diamond](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Diamond)
-* [Red Velvet - IRENE & SEULGI — Jelly](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Jelly)
-* [Red Velvet - IRENE & SEULGI — Feel Good](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Feel+Good)<!-- LASTFM:END -->
+* [Red Velvet - IRENE & SEULGI — Uncover (Sung by SEULGI) - Bonus Track](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Uncover+(Sung+by+SEULGI)+-+Bonus+Track)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
