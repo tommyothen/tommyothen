@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Clay K Slider — Pumped Up Kicks](https://www.last.fm/music/Clay+K+Slider/_/Pumped+Up+Kicks)
-* [Ben Briggs — K.K. Cruisin'](https://www.last.fm/music/Ben+Briggs/_/K.K.+Cruisin%27)
+* [Clay K Slider — Yoru Ni Kakeru](https://www.last.fm/music/Clay+K+Slider/_/Yoru+Ni+Kakeru)
+* [Clay K Slider — Say So](https://www.last.fm/music/Clay+K+Slider/_/Say+So)
 * [Qumu — Bubblegum K.K. (From "Animal Crossing: New Leaf")](https://www.last.fm/music/Qumu/_/Bubblegum+K.K.+(From+%22Animal+Crossing:+New+Leaf%22))
-* [Clay K Slider — Mr. Blue Sky](https://www.last.fm/music/Clay+K+Slider/_/Mr.+Blue+Sky)
-* [Mesmonium — K.K. Cruisin'](https://www.last.fm/music/Mesmonium/_/K.K.+Cruisin%27)<!-- LASTFM:END -->
+* [Clay K Slider — Supalonely](https://www.last.fm/music/Clay+K+Slider/_/Supalonely)
+* [Clay K Slider — Bad Guy](https://www.last.fm/music/Clay+K+Slider/_/Bad+Guy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
