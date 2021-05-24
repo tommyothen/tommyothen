@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Austenyo — Off-Kilter](https://www.last.fm/music/Austenyo/_/Off-Kilter)
-* [Im_naku — Stagestruck](https://www.last.fm/music/Im_naku/_/Stagestruck)
-* [Cook Thugless — Bad Luck](https://www.last.fm/music/Cook+Thugless/_/Bad+Luck)
-* [Carson Elliott — Say So](https://www.last.fm/music/Carson+Elliott/_/Say+So)
-* [Hovey Benjamin — Bangs (I Got Bangs)](https://www.last.fm/music/Hovey+Benjamin/_/Bangs+(I+Got+Bangs))<!-- LASTFM:END -->
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
+* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
+* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
+* [Caravan Palace — Melancolia](https://www.last.fm/music/Caravan+Palace/_/Melancolia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
