@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
-* [Caravan Palace — Melancolia](https://www.last.fm/music/Caravan+Palace/_/Melancolia)
-* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
-* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
-* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))<!-- LASTFM:END -->
+* [Clay K Slider — Pumped Up Kicks](https://www.last.fm/music/Clay+K+Slider/_/Pumped+Up+Kicks)
+* [Ben Briggs — K.K. Cruisin'](https://www.last.fm/music/Ben+Briggs/_/K.K.+Cruisin%27)
+* [Qumu — Bubblegum K.K. (From "Animal Crossing: New Leaf")](https://www.last.fm/music/Qumu/_/Bubblegum+K.K.+(From+%22Animal+Crossing:+New+Leaf%22))
+* [Clay K Slider — Mr. Blue Sky](https://www.last.fm/music/Clay+K+Slider/_/Mr.+Blue+Sky)
+* [Mesmonium — K.K. Cruisin'](https://www.last.fm/music/Mesmonium/_/K.K.+Cruisin%27)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
