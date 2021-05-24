@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Clay K Slider — Bakamitai](https://www.last.fm/music/Clay+K+Slider/_/Bakamitai)
 * [Clay K Slider — Can't Help Falling In Love](https://www.last.fm/music/Clay+K+Slider/_/Can%27t+Help+Falling+In+Love)
 * [YOASOBI — 夜に駆ける](https://www.last.fm/music/YOASOBI/_/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B)
 * [Rainych — Yoru ni Kakeru](https://www.last.fm/music/Rainych/_/Yoru+ni+Kakeru)
-* [Clay K Slider — Gurenge](https://www.last.fm/music/Clay+K+Slider/_/Gurenge)
-* [Clay K Slider — Yoru Ni Kakeru](https://www.last.fm/music/Clay+K+Slider/_/Yoru+Ni+Kakeru)<!-- LASTFM:END -->
+* [Clay K Slider — Gurenge](https://www.last.fm/music/Clay+K+Slider/_/Gurenge)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
