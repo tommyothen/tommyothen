@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Antoha MC — Спорт-брат](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BF%D0%BE%D1%80%D1%82-%D0%B1%D1%80%D0%B0%D1%82)
-* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
-* [BROCKHAMPTON — 1999 WILDFIRE](https://www.last.fm/music/BROCKHAMPTON/_/1999+WILDFIRE)
-* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
-* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)<!-- LASTFM:END -->
+* [Austenyo — Off-Kilter](https://www.last.fm/music/Austenyo/_/Off-Kilter)
+* [Im_naku — Stagestruck](https://www.last.fm/music/Im_naku/_/Stagestruck)
+* [Cook Thugless — Bad Luck](https://www.last.fm/music/Cook+Thugless/_/Bad+Luck)
+* [Carson Elliott — Say So](https://www.last.fm/music/Carson+Elliott/_/Say+So)
+* [Hovey Benjamin — Bangs (I Got Bangs)](https://www.last.fm/music/Hovey+Benjamin/_/Bangs+(I+Got+Bangs))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
