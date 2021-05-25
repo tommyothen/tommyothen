@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jalen Tyree — The Devils Reunion](https://www.last.fm/music/Jalen+Tyree/_/The+Devils+Reunion)
-* [The Pillows — Thank you, my twilight (Fool on cool version)](https://www.last.fm/music/The+Pillows/_/Thank+you,+my+twilight+(Fool+on+cool+version))
-* [cxltgod — FTC](https://www.last.fm/music/cxltgod/_/FTC)
-* [RealLiveAnimals — Sucks](https://www.last.fm/music/RealLiveAnimals/_/Sucks)
-* [Hovey Benjamin — Bangs (I Got Bangs)](https://www.last.fm/music/Hovey+Benjamin/_/Bangs+(I+Got+Bangs))<!-- LASTFM:END -->
+* [Animal Band — Mv1](https://www.last.fm/music/Animal+Band/_/Mv1)
+* [Austenyo — Off-Kilter](https://www.last.fm/music/Austenyo/_/Off-Kilter)
+* [Cuno — TOKYO 2020/1995](https://www.last.fm/music/Cuno/_/TOKYO+2020%2F1995)
+* [Marcioz — Mate Um Bonito Hoje Mesmo!](https://www.last.fm/music/Marcioz/_/Mate+Um+Bonito+Hoje+Mesmo!)
+* [YFU BABY — I'm Shy](https://www.last.fm/music/YFU+BABY/_/I%27m+Shy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
