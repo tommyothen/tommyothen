@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Madi — Pity Party](https://www.last.fm/music/Madi/_/Pity+Party)
-* [Animal Band — Mv1](https://www.last.fm/music/Animal+Band/_/Mv1)
-* [Austenyo — Off-Kilter](https://www.last.fm/music/Austenyo/_/Off-Kilter)
-* [Cuno — TOKYO 2020/1995](https://www.last.fm/music/Cuno/_/TOKYO+2020%2F1995)
-* [Marcioz — Mate Um Bonito Hoje Mesmo!](https://www.last.fm/music/Marcioz/_/Mate+Um+Bonito+Hoje+Mesmo!)<!-- LASTFM:END -->
+* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
+* [Kavka Shishido — ラヴコリーダ](https://www.last.fm/music/Kavka+Shishido/_/%E3%83%A9%E3%83%B4%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%80)
+* [She — Shotgun](https://www.last.fm/music/She/_/Shotgun)
+* [Hessam — Love Yourself](https://www.last.fm/music/Hessam/_/Love+Yourself)
+* [マクロスMACROSS 82-99 — 『82.99 F.M』](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/%E3%80%8E82.99+F.M%E3%80%8F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
