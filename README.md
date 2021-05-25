@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Clay K Slider — Adore You](https://www.last.fm/music/Clay+K+Slider/_/Adore+You)
-* [Clay K Slider — Rockstar](https://www.last.fm/music/Clay+K+Slider/_/Rockstar)
-* [Clay K Slider — Plastic Love](https://www.last.fm/music/Clay+K+Slider/_/Plastic+Love)
-* [Clay K Slider — Omae Wa Mou](https://www.last.fm/music/Clay+K+Slider/_/Omae+Wa+Mou)
-* [Clay K Slider — Dynamite](https://www.last.fm/music/Clay+K+Slider/_/Dynamite)<!-- LASTFM:END -->
+* [Kavka Shishido — ラヴコリーダ](https://www.last.fm/music/Kavka+Shishido/_/%E3%83%A9%E3%83%B4%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%80)
+* [She — Shotgun](https://www.last.fm/music/She/_/Shotgun)
+* [Hessam — Love Yourself](https://www.last.fm/music/Hessam/_/Love+Yourself)
+* [マクロスMACROSS 82-99 — 『82.99 F.M』](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/%E3%80%8E82.99+F.M%E3%80%8F)
+* [Otaku Ongaku — Shiki No Uta (Samurai Champloo)](https://www.last.fm/music/Otaku+Ongaku/_/Shiki+No+Uta+(Samurai+Champloo))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
