@@ -31,8 +31,8 @@ Now Playing\
 * [Lil Nas X — Montero (Call Me By Your Name)](https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name))
 * [Lil Nas X — Montero (Call Me By Your Name)](https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name))
 * [Lil Nas X — Montero (Call Me By Your Name)](https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name))
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
-* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))<!-- LASTFM:END -->
+* [Lil Nas X — Montero (Call Me By Your Name)](https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name))
+* [Lil Nas X — Montero (Call Me By Your Name)](https://www.last.fm/music/Lil+Nas+X/_/Montero+(Call+Me+By+Your+Name))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
