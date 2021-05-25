@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Madi — Pity Party](https://www.last.fm/music/Madi/_/Pity+Party)
 * [Animal Band — Mv1](https://www.last.fm/music/Animal+Band/_/Mv1)
 * [Austenyo — Off-Kilter](https://www.last.fm/music/Austenyo/_/Off-Kilter)
 * [Cuno — TOKYO 2020/1995](https://www.last.fm/music/Cuno/_/TOKYO+2020%2F1995)
-* [Marcioz — Mate Um Bonito Hoje Mesmo!](https://www.last.fm/music/Marcioz/_/Mate+Um+Bonito+Hoje+Mesmo!)
-* [YFU BABY — I'm Shy](https://www.last.fm/music/YFU+BABY/_/I%27m+Shy)<!-- LASTFM:END -->
+* [Marcioz — Mate Um Bonito Hoje Mesmo!](https://www.last.fm/music/Marcioz/_/Mate+Um+Bonito+Hoje+Mesmo!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
