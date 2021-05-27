@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Allie X — Downtown](https://www.last.fm/music/Allie+X/_/Downtown)
-* [Chromatics — Running Up That Hill](https://www.last.fm/music/Chromatics/_/Running+Up+That+Hill)
-* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
-* [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
-* [Perfume Genius — Jason](https://www.last.fm/music/Perfume+Genius/_/Jason)<!-- LASTFM:END -->
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
+* [Allie X — Paper Love](https://www.last.fm/music/Allie+X/_/Paper+Love)
+* [Grimes — REALiTi](https://www.last.fm/music/Grimes/_/REALiTi)
+* [Rina Sawayama — Comme des Garçons (Like the Boys)](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+(Like+the+Boys))
+* [Tennis — Need Your Love](https://www.last.fm/music/Tennis/_/Need+Your+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
