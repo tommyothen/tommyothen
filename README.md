@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
-* [Doja Cat — Streets - Silhouette Remix](https://www.last.fm/music/Doja+Cat/_/Streets+-+Silhouette+Remix)
-* [Ariana Grande — 34+35](https://www.last.fm/music/Ariana+Grande/_/34%252B35)
-* [Rico Nasty — OHFR?](https://www.last.fm/music/Rico+Nasty/_/OHFR%3F)
-* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))<!-- LASTFM:END -->
+* [Hessam — Love Yourself](https://www.last.fm/music/Hessam/_/Love+Yourself)
+* [RealLiveAnimals — Sucks](https://www.last.fm/music/RealLiveAnimals/_/Sucks)
+* [Madi — Pity Party](https://www.last.fm/music/Madi/_/Pity+Party)
+* [Dayglow — Close to You](https://www.last.fm/music/Dayglow/_/Close+to+You)
+* [Ariana Grande — 34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix](https://www.last.fm/music/Ariana+Grande/_/34%252B35+Remix+(feat.+Doja+Cat,+Megan+Thee+Stallion)+-+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
