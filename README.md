@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cuno — TOKYO 2020/1995](https://www.last.fm/music/Cuno/_/TOKYO+2020%2F1995)
-* [Haru Nemuri — Kick In The World](https://www.last.fm/music/Haru+Nemuri/_/Kick+In+The+World)
-* [DPR LIVE — Gravity](https://www.last.fm/music/DPR+LIVE/_/Gravity)
-* [マクロスMACROSS 82-99 — 『82.99 F.M』](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/%E3%80%8E82.99+F.M%E3%80%8F)
-* [Ellzo — Sunday Sauce](https://www.last.fm/music/Ellzo/_/Sunday+Sauce)<!-- LASTFM:END -->
+* [Carson Elliott — Say So](https://www.last.fm/music/Carson+Elliott/_/Say+So)
+* [ZUTOMAYO — お勉強しといてよ](https://www.last.fm/music/ZUTOMAYO/_/%E3%81%8A%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%A8%E3%81%84%E3%81%A6%E3%82%88)
+* [Jalen Tyree — The Devils Reunion](https://www.last.fm/music/Jalen+Tyree/_/The+Devils+Reunion)
+* [MOL$ — SEKAI](https://www.last.fm/music/MOL$/_/SEKAI)
+* [cxltgod — FTC](https://www.last.fm/music/cxltgod/_/FTC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
