@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — My Name is Dark - Algorithm Mix](https://www.last.fm/music/Grimes/_/My+Name+is+Dark+-+Algorithm+Mix)
-* [Sky Ferreira — Everything Is Embarrassing](https://www.last.fm/music/Sky+Ferreira/_/Everything+Is+Embarrassing)
+* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
+* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
+* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
 * [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Purity Ring — Begin Again](https://www.last.fm/music/Purity+Ring/_/Begin+Again)
-* [Grimes — Violence - REZZ Remix](https://www.last.fm/music/Grimes/_/Violence+-+REZZ+Remix)<!-- LASTFM:END -->
+* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
