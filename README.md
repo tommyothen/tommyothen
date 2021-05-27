@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Allie X — Devil I Know](https://www.last.fm/music/Allie+X/_/Devil+I+Know)
-* [Health — BODY/PRISON](https://www.last.fm/music/Health/_/BODY%2FPRISON)
-* [Phantogram — You Don’t Get Me High Anymore](https://www.last.fm/music/Phantogram/_/You+Don%E2%80%99t+Get+Me+High+Anymore)
-* [Grimes — Butterfly](https://www.last.fm/music/Grimes/_/Butterfly)
-* [Shygirl — BB](https://www.last.fm/music/Shygirl/_/BB)<!-- LASTFM:END -->
+* [Slayyyter — Clouds](https://www.last.fm/music/Slayyyter/_/Clouds)
+* [Grouper — Poison Tree](https://www.last.fm/music/Grouper/_/Poison+Tree)
+* [Grimes — SCREAM](https://www.last.fm/music/Grimes/_/SCREAM)
+* [Charli XCX — 1999](https://www.last.fm/music/Charli+XCX/_/1999)
+* [Perfume Genius — Without You](https://www.last.fm/music/Perfume+Genius/_/Without+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
