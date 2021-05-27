@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
-* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)<!-- LASTFM:END -->
+* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
+* [Doja Cat — Streets - Silhouette Remix](https://www.last.fm/music/Doja+Cat/_/Streets+-+Silhouette+Remix)
+* [Ariana Grande — 34+35](https://www.last.fm/music/Ariana+Grande/_/34%252B35)
+* [Rico Nasty — OHFR?](https://www.last.fm/music/Rico+Nasty/_/OHFR%3F)
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
