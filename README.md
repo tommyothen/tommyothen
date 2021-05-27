@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — My Name is Dark - Algorithm Mix](https://www.last.fm/music/Grimes/_/My+Name+is+Dark+-+Algorithm+Mix)
 * [Sky Ferreira — Everything Is Embarrassing](https://www.last.fm/music/Sky+Ferreira/_/Everything+Is+Embarrassing)
 * [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
 * [Purity Ring — Begin Again](https://www.last.fm/music/Purity+Ring/_/Begin+Again)
-* [Grimes — Violence - REZZ Remix](https://www.last.fm/music/Grimes/_/Violence+-+REZZ+Remix)
-* [Washed Out — New Theory](https://www.last.fm/music/Washed+Out/_/New+Theory)<!-- LASTFM:END -->
+* [Grimes — Violence - REZZ Remix](https://www.last.fm/music/Grimes/_/Violence+-+REZZ+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
