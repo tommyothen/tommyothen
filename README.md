@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)
-* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
-* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
-* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)<!-- LASTFM:END -->
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
+* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
+* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
