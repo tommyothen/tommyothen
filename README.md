@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
-* [Allie X — Paper Love](https://www.last.fm/music/Allie+X/_/Paper+Love)
-* [Grimes — REALiTi](https://www.last.fm/music/Grimes/_/REALiTi)
-* [Rina Sawayama — Comme des Garçons (Like the Boys)](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+(Like+the+Boys))
-* [Tennis — Need Your Love](https://www.last.fm/music/Tennis/_/Need+Your+Love)<!-- LASTFM:END -->
+* [Allie X — Devil I Know](https://www.last.fm/music/Allie+X/_/Devil+I+Know)
+* [Health — BODY/PRISON](https://www.last.fm/music/Health/_/BODY%2FPRISON)
+* [Phantogram — You Don’t Get Me High Anymore](https://www.last.fm/music/Phantogram/_/You+Don%E2%80%99t+Get+Me+High+Anymore)
+* [Grimes — Butterfly](https://www.last.fm/music/Grimes/_/Butterfly)
+* [Shygirl — BB](https://www.last.fm/music/Shygirl/_/BB)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
