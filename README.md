@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
+* [Limbo — Wishes](https://www.last.fm/music/Limbo/_/Wishes)
+* [Hessam — Love Yourself](https://www.last.fm/music/Hessam/_/Love+Yourself)
 * [RealLiveAnimals — Sucks](https://www.last.fm/music/RealLiveAnimals/_/Sucks)
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
-* [The Pillows — Thank you, my twilight (Fool on cool version)](https://www.last.fm/music/The+Pillows/_/Thank+you,+my+twilight+(Fool+on+cool+version))
-* [Otaku Ongaku — Shiki No Uta (Samurai Champloo)](https://www.last.fm/music/Otaku+Ongaku/_/Shiki+No+Uta+(Samurai+Champloo))
-* [Bryce Bishop — Winter](https://www.last.fm/music/Bryce+Bishop/_/Winter)<!-- LASTFM:END -->
+* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
