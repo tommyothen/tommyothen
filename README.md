@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Slayyyter — Clouds](https://www.last.fm/music/Slayyyter/_/Clouds)
-* [Grouper — Poison Tree](https://www.last.fm/music/Grouper/_/Poison+Tree)
-* [Grimes — SCREAM](https://www.last.fm/music/Grimes/_/SCREAM)
-* [Charli XCX — 1999](https://www.last.fm/music/Charli+XCX/_/1999)
-* [Perfume Genius — Without You](https://www.last.fm/music/Perfume+Genius/_/Without+You)<!-- LASTFM:END -->
+* [Sky Ferreira — Everything Is Embarrassing](https://www.last.fm/music/Sky+Ferreira/_/Everything+Is+Embarrassing)
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
+* [Purity Ring — Begin Again](https://www.last.fm/music/Purity+Ring/_/Begin+Again)
+* [Grimes — Violence - REZZ Remix](https://www.last.fm/music/Grimes/_/Violence+-+REZZ+Remix)
+* [Washed Out — New Theory](https://www.last.fm/music/Washed+Out/_/New+Theory)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
