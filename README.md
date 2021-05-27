@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
-* [Limbo — Wishes](https://www.last.fm/music/Limbo/_/Wishes)
-* [Hessam — Love Yourself](https://www.last.fm/music/Hessam/_/Love+Yourself)
-* [RealLiveAnimals — Sucks](https://www.last.fm/music/RealLiveAnimals/_/Sucks)
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))<!-- LASTFM:END -->
+* [333 — Wild Place](https://www.last.fm/music/333/_/Wild+Place)
+* [YFU BABY — I'm Shy](https://www.last.fm/music/YFU+BABY/_/I%27m+Shy)
+* [Cook Thugless — Bad Luck](https://www.last.fm/music/Cook+Thugless/_/Bad+Luck)
+* [Marcioz — Mate Um Bonito Hoje Mesmo!](https://www.last.fm/music/Marcioz/_/Mate+Um+Bonito+Hoje+Mesmo!)
+* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
