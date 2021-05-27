@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hessam — Love Yourself](https://www.last.fm/music/Hessam/_/Love+Yourself)
-* [RealLiveAnimals — Sucks](https://www.last.fm/music/RealLiveAnimals/_/Sucks)
-* [Madi — Pity Party](https://www.last.fm/music/Madi/_/Pity+Party)
-* [Dayglow — Close to You](https://www.last.fm/music/Dayglow/_/Close+to+You)
-* [Ariana Grande — 34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix](https://www.last.fm/music/Ariana+Grande/_/34%252B35+Remix+(feat.+Doja+Cat,+Megan+Thee+Stallion)+-+Remix)<!-- LASTFM:END -->
+* [333 — Wild Place](https://www.last.fm/music/333/_/Wild+Place)
+* [YFU BABY — I'm Shy](https://www.last.fm/music/YFU+BABY/_/I%27m+Shy)
+* [Cook Thugless — Bad Luck](https://www.last.fm/music/Cook+Thugless/_/Bad+Luck)
+* [Coletta — Blossom](https://www.last.fm/music/Coletta/_/Blossom)
+* [Marcioz — Mate Um Bonito Hoje Mesmo!](https://www.last.fm/music/Marcioz/_/Mate+Um+Bonito+Hoje+Mesmo!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
