@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [RealLiveAnimals — Sucks](https://www.last.fm/music/RealLiveAnimals/_/Sucks)
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
-* [Bryce Bishop — Winter](https://www.last.fm/music/Bryce+Bishop/_/Winter)<!-- LASTFM:END -->
+* [DPR LIVE — Gravity](https://www.last.fm/music/DPR+LIVE/_/Gravity)
+* [マクロスMACROSS 82-99 — 『82.99 F.M』](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/%E3%80%8E82.99+F.M%E3%80%8F)
+* [Ellzo — Sunday Sauce](https://www.last.fm/music/Ellzo/_/Sunday+Sauce)
+* [Hovey Benjamin — Bangs (I Got Bangs)](https://www.last.fm/music/Hovey+Benjamin/_/Bangs+(I+Got+Bangs))
+* [Austenyo — Off-Kilter](https://www.last.fm/music/Austenyo/_/Off-Kilter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
