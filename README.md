@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ZUTOMAYO — お勉強しといてよ](https://www.last.fm/music/ZUTOMAYO/_/%E3%81%8A%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%A8%E3%81%84%E3%81%A6%E3%82%88)
-* [MOL$ — SEKAI](https://www.last.fm/music/MOL$/_/SEKAI)
-* [DPR LIVE — Gravity](https://www.last.fm/music/DPR+LIVE/_/Gravity)
-* [マクロスMACROSS 82-99 — 『82.99 F.M』](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/%E3%80%8E82.99+F.M%E3%80%8F)
-* [Ellzo — Sunday Sauce](https://www.last.fm/music/Ellzo/_/Sunday+Sauce)<!-- LASTFM:END -->
+* [Bryce Bishop — Winter](https://www.last.fm/music/Bryce+Bishop/_/Winter)
+* [She — Shotgun](https://www.last.fm/music/She/_/Shotgun)
+* [TryMeRee — I Adore Her](https://www.last.fm/music/TryMeRee/_/I+Adore+Her)
+* [Kavka Shishido — ラヴコリーダ](https://www.last.fm/music/Kavka+Shishido/_/%E3%83%A9%E3%83%B4%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%80)
+* [Animal Band — Mv1](https://www.last.fm/music/Animal+Band/_/Mv1)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
