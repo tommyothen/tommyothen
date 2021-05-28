@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [333 — Wild Place](https://www.last.fm/music/333/_/Wild+Place)
-* [YFU BABY — I'm Shy](https://www.last.fm/music/YFU+BABY/_/I%27m+Shy)
-* [Cook Thugless — Bad Luck](https://www.last.fm/music/Cook+Thugless/_/Bad+Luck)
-* [Marcioz — Mate Um Bonito Hoje Mesmo!](https://www.last.fm/music/Marcioz/_/Mate+Um+Bonito+Hoje+Mesmo!)
-* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)<!-- LASTFM:END -->
+* [マクロスMACROSS 82-99 — 『82.99 F.M』](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/%E3%80%8E82.99+F.M%E3%80%8F)
+* [Ellzo — Sunday Sauce](https://www.last.fm/music/Ellzo/_/Sunday+Sauce)
+* [Hovey Benjamin — Bangs (I Got Bangs)](https://www.last.fm/music/Hovey+Benjamin/_/Bangs+(I+Got+Bangs))
+* [Austenyo — Off-Kilter](https://www.last.fm/music/Austenyo/_/Off-Kilter)
+* [Im_naku — Stagestruck](https://www.last.fm/music/Im_naku/_/Stagestruck)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
