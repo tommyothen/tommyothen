@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
-* [London Voices — Cantina Band - From "Star Wars: A New Hope"](https://www.last.fm/music/London+Voices/_/Cantina+Band+-+From+%22Star+Wars:+A+New+Hope%22)
-* [Riton — Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit](https://www.last.fm/music/Riton/_/Friday+(feat.+Mufasa+&+Hypeman)+-+Dopamine+Re-Edit)
 * [Hilltop Hoods — Cosby Sweater](https://www.last.fm/music/Hilltop+Hoods/_/Cosby+Sweater)
-* [Pixies — Where Is My Mind?](https://www.last.fm/music/Pixies/_/Where+Is+My+Mind%3F)<!-- LASTFM:END -->
+* [Cyndi Lauper — Girls Just Want to Have Fun](https://www.last.fm/music/Cyndi+Lauper/_/Girls+Just+Want+to+Have+Fun)
+* [NIKØTIN — Dej Si To Nahlas](https://www.last.fm/music/NIK%C3%98TIN/_/Dej+Si+To+Nahlas)
+* [NIKØTIN — Dej si tu kouli](https://www.last.fm/music/NIK%C3%98TIN/_/Dej+si+tu+kouli)
+* [Psycho Rhyme — Rhyme Up](https://www.last.fm/music/Psycho+Rhyme/_/Rhyme+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
