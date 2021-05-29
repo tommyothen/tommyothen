@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
-* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
-* [A Day to Remember — Mr. Highway's Thinking About the End](https://www.last.fm/music/A+Day+to+Remember/_/Mr.+Highway%27s+Thinking+About+the+End)
-* [Paramore — Part II](https://www.last.fm/music/Paramore/_/Part+II)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
+* [Black Eyed Peas — I Gotta Feeling](https://www.last.fm/music/Black+Eyed+Peas/_/I+Gotta+Feeling)
+* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
+* [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)
+* [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)
+* [Tate McRae — you broke me first - Luca Schreiner Remix](https://www.last.fm/music/Tate+McRae/_/you+broke+me+first+-+Luca+Schreiner+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
