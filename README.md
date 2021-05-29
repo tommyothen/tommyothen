@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eskimo Callboy — Hypa Hypa](https://www.last.fm/music/Eskimo+Callboy/_/Hypa+Hypa)
-* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
-* [Caravan Palace — Melancolia](https://www.last.fm/music/Caravan+Palace/_/Melancolia)
-* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
-* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)<!-- LASTFM:END -->
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
+* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
+* [A Day to Remember — Mr. Highway's Thinking About the End](https://www.last.fm/music/A+Day+to+Remember/_/Mr.+Highway%27s+Thinking+About+the+End)
+* [Paramore — Part II](https://www.last.fm/music/Paramore/_/Part+II)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
