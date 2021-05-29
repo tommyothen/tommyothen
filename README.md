@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
-* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
-* [DBangz — THICK NIGGAS AND ANIME TIDDIES](https://www.last.fm/music/DBangz/_/THICK+NIGGAS+AND+ANIME+TIDDIES)
-* [The Prodigy — Omen](https://www.last.fm/music/The+Prodigy/_/Omen)
-* [Michael Bublé — Haven't Met You Yet](https://www.last.fm/music/Michael+Bubl%C3%A9/_/Haven%27t+Met+You+Yet)<!-- LASTFM:END -->
+* [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
+* [London Voices — Cantina Band - From "Star Wars: A New Hope"](https://www.last.fm/music/London+Voices/_/Cantina+Band+-+From+%22Star+Wars:+A+New+Hope%22)
+* [Riton — Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit](https://www.last.fm/music/Riton/_/Friday+(feat.+Mufasa+&+Hypeman)+-+Dopamine+Re-Edit)
+* [Hilltop Hoods — Cosby Sweater](https://www.last.fm/music/Hilltop+Hoods/_/Cosby+Sweater)
+* [Pixies — Where Is My Mind?](https://www.last.fm/music/Pixies/_/Where+Is+My+Mind%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
