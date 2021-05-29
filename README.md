@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hilltop Hoods — Cosby Sweater](https://www.last.fm/music/Hilltop+Hoods/_/Cosby+Sweater)
-* [Cyndi Lauper — Girls Just Want to Have Fun](https://www.last.fm/music/Cyndi+Lauper/_/Girls+Just+Want+to+Have+Fun)
-* [NIKØTIN — Dej Si To Nahlas](https://www.last.fm/music/NIK%C3%98TIN/_/Dej+Si+To+Nahlas)
-* [NIKØTIN — Dej si tu kouli](https://www.last.fm/music/NIK%C3%98TIN/_/Dej+si+tu+kouli)
-* [Psycho Rhyme — Rhyme Up](https://www.last.fm/music/Psycho+Rhyme/_/Rhyme+Up)<!-- LASTFM:END -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Eden — Billie Jean](https://www.last.fm/music/Eden/_/Billie+Jean)
+* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
+* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
+* [Eden — XO](https://www.last.fm/music/Eden/_/XO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
