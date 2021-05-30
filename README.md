@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [majiko — Kokoronashi](https://www.last.fm/music/majiko/_/Kokoronashi)
+* [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)
+* [Tsuko G. — Gas Gas Gas (Initial D)](https://www.last.fm/music/Tsuko+G./_/Gas+Gas+Gas+(Initial+D))
+* [Majiko — Kokoronashi](https://www.last.fm/music/Majiko/_/Kokoronashi)
 * [Jarv & Thief — The Beat](https://www.last.fm/music/Jarv+&+Thief/_/The+Beat)
-* [Khamsin — My Way](https://www.last.fm/music/Khamsin/_/My+Way)
-* [Tia — Deal with the devil](https://www.last.fm/music/Tia/_/Deal+with+the+devil)
-* [Cro — Victoria's Secret](https://www.last.fm/music/Cro/_/Victoria%27s+Secret)<!-- LASTFM:END -->
+* [Khamsin — My Way](https://www.last.fm/music/Khamsin/_/My+Way)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
