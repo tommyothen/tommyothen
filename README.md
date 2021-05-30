@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Labrinth — Earthquake (feat. Tinie Tempah)](https://www.last.fm/music/Labrinth/_/Earthquake+(feat.+Tinie+Tempah))
 * [Oliver Tree — Let Me Down](https://www.last.fm/music/Oliver+Tree/_/Let+Me+Down)
 * [Yung Gravy — The Boys Are Back in Town](https://www.last.fm/music/Yung+Gravy/_/The+Boys+Are+Back+in+Town)
 * [I DONT KNOW HOW BUT THEY FOUND ME — Do It All The Time](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Do+It+All+The+Time)
-* [Eminem — The Real Slim Shady](https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady)
-* [Deca — Mammon's Mantra](https://www.last.fm/music/Deca/_/Mammon%27s+Mantra)<!-- LASTFM:END -->
+* [Eminem — The Real Slim Shady](https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
