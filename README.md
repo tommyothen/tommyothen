@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Deca — Mammon's Mantra](https://www.last.fm/music/Deca/_/Mammon%27s+Mantra)
+* [Sebastian Paul — TROJAN HORSE](https://www.last.fm/music/Sebastian+Paul/_/TROJAN+HORSE)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [Eden — Billie Jean](https://www.last.fm/music/Eden/_/Billie+Jean)
-* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
-* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
-* [Eden — XO](https://www.last.fm/music/Eden/_/XO)<!-- LASTFM:END -->
+* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
