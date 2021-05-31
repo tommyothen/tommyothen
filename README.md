@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Paramore — Stop This Song (Love Sick Melody)](https://www.last.fm/music/Paramore/_/Stop+This+Song+(Love+Sick+Melody))
-* [Paramore — When It Rains - Live at the Congress Theatre, Chicago, IL, 8/12/2008](https://www.last.fm/music/Paramore/_/When+It+Rains+-+Live+at+the+Congress+Theatre,+Chicago,+IL,+8%2F12%2F2008)
-* [Paramore — Now](https://www.last.fm/music/Paramore/_/Now)
-* [Paramore — Hate to See Your Heart Break](https://www.last.fm/music/Paramore/_/Hate+to+See+Your+Heart+Break)
-* [Paramore — Careful](https://www.last.fm/music/Paramore/_/Careful)<!-- LASTFM:END -->
+* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
+* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
+* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
