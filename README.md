@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Michael Bublé — Haven't Met You Yet](https://www.last.fm/music/Michael+Bubl%C3%A9/_/Haven%27t+Met+You+Yet)
-* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
-* [Her Ex — Her Spirit AKA 1 Samuel 16 Verse 7 AKA I'd Kiss Your Pentagram Tattoos](https://www.last.fm/music/Her+Ex/_/Her+Spirit+AKA+1+Samuel+16+Verse+7+AKA+I%27d+Kiss+Your+Pentagram+Tattoos)
-* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
+* [Paramore — Stop This Song (Love Sick Melody)](https://www.last.fm/music/Paramore/_/Stop+This+Song+(Love+Sick+Melody))
+* [Paramore — When It Rains - Live at the Congress Theatre, Chicago, IL, 8/12/2008](https://www.last.fm/music/Paramore/_/When+It+Rains+-+Live+at+the+Congress+Theatre,+Chicago,+IL,+8%2F12%2F2008)
+* [Paramore — Now](https://www.last.fm/music/Paramore/_/Now)
+* [Paramore — Hate to See Your Heart Break](https://www.last.fm/music/Paramore/_/Hate+to+See+Your+Heart+Break)
+* [Paramore — Careful](https://www.last.fm/music/Paramore/_/Careful)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
