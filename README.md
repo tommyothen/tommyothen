@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
-* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
-* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
-* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))<!-- LASTFM:END -->
+* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)
+* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)
+* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)
+* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)
+* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
