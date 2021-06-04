@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
-* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [Noah Kahan — Pride (with mxmtoon)](https://www.last.fm/music/Noah+Kahan/_/Pride+(with+mxmtoon))<!-- LASTFM:END -->
+* [mxmtoon — no faker](https://www.last.fm/music/mxmtoon/_/no+faker)
+* [mxmtoon — 1, 2](https://www.last.fm/music/mxmtoon/_/1,+2)
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
+* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
+* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
