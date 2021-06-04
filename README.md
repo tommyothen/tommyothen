@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jack Stauber's Micropop — Two Time](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Two+Time)
-* [llusion — walk but in a garden (with mxmtoon)](https://www.last.fm/music/llusion/_/walk+but+in+a+garden+(with+mxmtoon))
-* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)
-* [Shawn Wasabi — ANIMAL CROSSING](https://www.last.fm/music/Shawn+Wasabi/_/ANIMAL+CROSSING)
-* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)<!-- LASTFM:END -->
+* [park bird — If I Could Ride a Bike](https://www.last.fm/music/park+bird/_/If+I+Could+Ride+a+Bike)
+* [mxmtoon — ok on your own (feat. Carly Rae Jepsen)](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+(feat.+Carly+Rae+Jepsen))
+* [FINNEAS — I Don't Miss You at All](https://www.last.fm/music/FINNEAS/_/I+Don%27t+Miss+You+at+All)
+* [Brye — LEMONS (with Cavetown)](https://www.last.fm/music/Brye/_/LEMONS+(with+Cavetown))
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
