@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
+* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
 * [Dizzee Rascal — Bonkers](https://www.last.fm/music/Dizzee+Rascal/_/Bonkers)
-* [Black Eyed Peas — I Gotta Feeling](https://www.last.fm/music/Black+Eyed+Peas/_/I+Gotta+Feeling)
-* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)
-* [Far East Movement — Like A G6](https://www.last.fm/music/Far+East+Movement/_/Like+A+G6)
-* [Katy Perry — Last Friday Night (T.G.I.F.)](https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+(T.G.I.F.))<!-- LASTFM:END -->
+* [Black Eyed Peas — I Gotta Feeling](https://www.last.fm/music/Black+Eyed+Peas/_/I+Gotta+Feeling)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
