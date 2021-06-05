@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Paramore — Still into You](https://www.last.fm/music/Paramore/_/Still+into+You)
+* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
+* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
 * [Rich Brian — Love In My Pocket](https://www.last.fm/music/Rich+Brian/_/Love+In+My+Pocket)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [DJ Khalil — Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)](https://www.last.fm/music/DJ+Khalil/_/Elevate+(feat.+Denzel+Curry,+YBN+Cordae,+SwaVay,+Trevor+Rich))
-* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
 * [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
