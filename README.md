@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)
-* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)<!-- LASTFM:END -->
+* [D-Real [愛] — Interstellar Love Story](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Interstellar+Love+Story)
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
+* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
+* [Josh A — Chasing You](https://www.last.fm/music/Josh+A/_/Chasing+You)
+* [bbno$ — moneytalk](https://www.last.fm/music/bbno$/_/moneytalk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
