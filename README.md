@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
-* [YUNG BAE — Slam Jam!](https://www.last.fm/music/YUNG+BAE/_/Slam+Jam!)
-* [Flamingosis — Sunset Park](https://www.last.fm/music/Flamingosis/_/Sunset+Park)
-* [Osvaldorio — Lotus](https://www.last.fm/music/Osvaldorio/_/Lotus)
-* [D-Real [愛] — Interstellar Love Story](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Interstellar+Love+Story)<!-- LASTFM:END -->
+* [Rich Brian — Love In My Pocket](https://www.last.fm/music/Rich+Brian/_/Love+In+My+Pocket)
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
+* [DJ Khalil — Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)](https://www.last.fm/music/DJ+Khalil/_/Elevate+(feat.+Denzel+Curry,+YBN+Cordae,+SwaVay,+Trevor+Rich))
+* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
