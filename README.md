@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [B.o.B — Airplanes (feat. Hayley Williams)](https://www.last.fm/music/B.o.B/_/Airplanes+(feat.+Hayley+Williams))
+* [Mike Posner — Cooler Than Me](https://www.last.fm/music/Mike+Posner/_/Cooler+Than+Me)
+* [Pink Floyd — Another Brick In The Wall - 2001 Remastered Version](https://www.last.fm/music/Pink+Floyd/_/Another+Brick+In+The+Wall+-+2001+Remastered+Version)
 * [Daft Punk — Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit](https://www.last.fm/music/Daft+Punk/_/Get+Lucky+(feat.+Pharrell+Williams+&+Nile+Rodgers)+-+Radio+Edit)
-* [Jason Derülo — Ridin' Solo](https://www.last.fm/music/Jason+Der%C3%BClo/_/Ridin%27+Solo)
-* [JAY-Z — Empire State of Mind](https://www.last.fm/music/JAY-Z/_/Empire+State+of+Mind)
-* [Estelle — American Boy](https://www.last.fm/music/Estelle/_/American+Boy)
-* [Stevie Wonder — Superstition - Single Version](https://www.last.fm/music/Stevie+Wonder/_/Superstition+-+Single+Version)<!-- LASTFM:END -->
+* [Jason Derülo — Ridin' Solo](https://www.last.fm/music/Jason+Der%C3%BClo/_/Ridin%27+Solo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
