@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
 * [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
 * [Avrumi Berko — Hora 2](https://www.last.fm/music/Avrumi+Berko/_/Hora+2)
-* [Avrumi Berko — Hora 4](https://www.last.fm/music/Avrumi+Berko/_/Hora+4)
-* [Avrumi Berko — Hora 1](https://www.last.fm/music/Avrumi+Berko/_/Hora+1)<!-- LASTFM:END -->
+* [Avrumi Berko — Hora 4](https://www.last.fm/music/Avrumi+Berko/_/Hora+4)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
