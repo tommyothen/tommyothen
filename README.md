@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Elvis Presley — A Little Less Conversation](https://www.last.fm/music/Elvis+Presley/_/A+Little+Less+Conversation)
-* [Max Coveri — Running in the 90's](https://www.last.fm/music/Max+Coveri/_/Running+in+the+90%27s)
-* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
-* [Daft Punk — Lose Yourself to Dance (feat. Pharrell Williams)](https://www.last.fm/music/Daft+Punk/_/Lose+Yourself+to+Dance+(feat.+Pharrell+Williams))
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
+* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
+* [Kavka Shishido — ラヴコリーダ](https://www.last.fm/music/Kavka+Shishido/_/%E3%83%A9%E3%83%B4%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%80)
+* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
+* [Mexican Institute of Sound — El Antídoto](https://www.last.fm/music/Mexican+Institute+of+Sound/_/El+Ant%C3%ADdoto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
