@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sean Kingston — Beautiful Girls](https://www.last.fm/music/Sean+Kingston/_/Beautiful+Girls)
+* [OutKast — Hey Ya!](https://www.last.fm/music/OutKast/_/Hey+Ya!)
 * [Usher — DJ Got Us Fallin' in Love (feat. Pitbull)](https://www.last.fm/music/Usher/_/DJ+Got+Us+Fallin%27+in+Love+(feat.+Pitbull))
 * [M.I.A. — Paper Planes](https://www.last.fm/music/M.I.A./_/Paper+Planes)
-* [B.o.B — Airplanes (feat. Hayley Williams)](https://www.last.fm/music/B.o.B/_/Airplanes+(feat.+Hayley+Williams))
-* [Mike Posner — Cooler Than Me](https://www.last.fm/music/Mike+Posner/_/Cooler+Than+Me)
-* [Pink Floyd — Another Brick In The Wall - 2001 Remastered Version](https://www.last.fm/music/Pink+Floyd/_/Another+Brick+In+The+Wall+-+2001+Remastered+Version)<!-- LASTFM:END -->
+* [B.o.B — Airplanes (feat. Hayley Williams)](https://www.last.fm/music/B.o.B/_/Airplanes+(feat.+Hayley+Williams))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
