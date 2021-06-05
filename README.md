@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [park bird — If I Could Ride a Bike](https://www.last.fm/music/park+bird/_/If+I+Could+Ride+a+Bike)
-* [mxmtoon — ok on your own (feat. Carly Rae Jepsen)](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+(feat.+Carly+Rae+Jepsen))
-* [FINNEAS — I Don't Miss You at All](https://www.last.fm/music/FINNEAS/_/I+Don%27t+Miss+You+at+All)
-* [Brye — LEMONS (with Cavetown)](https://www.last.fm/music/Brye/_/LEMONS+(with+Cavetown))
-* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)<!-- LASTFM:END -->
+* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
+* [Caravan Palace — Melancolia](https://www.last.fm/music/Caravan+Palace/_/Melancolia)
+* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Beach Bunny — Painkiller](https://www.last.fm/music/Beach+Bunny/_/Painkiller)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
