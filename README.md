@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Stevie Wonder — Superstition - Single Version](https://www.last.fm/music/Stevie+Wonder/_/Superstition+-+Single+Version)
-* [Caravan Palace — Melancolia](https://www.last.fm/music/Caravan+Palace/_/Melancolia)
-* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
-* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
-* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)<!-- LASTFM:END -->
+* [Daft Punk — Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit](https://www.last.fm/music/Daft+Punk/_/Get+Lucky+(feat.+Pharrell+Williams+&+Nile+Rodgers)+-+Radio+Edit)
+* [Jason Derülo — Ridin' Solo](https://www.last.fm/music/Jason+Der%C3%BClo/_/Ridin%27+Solo)
+* [JAY-Z — Empire State of Mind](https://www.last.fm/music/JAY-Z/_/Empire+State+of+Mind)
+* [Estelle — American Boy](https://www.last.fm/music/Estelle/_/American+Boy)
+* [Stevie Wonder — Superstition - Single Version](https://www.last.fm/music/Stevie+Wonder/_/Superstition+-+Single+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
