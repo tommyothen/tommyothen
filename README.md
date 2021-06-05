@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sean Kingston — Beautiful Girls](https://www.last.fm/music/Sean+Kingston/_/Beautiful+Girls)
-* [OutKast — Hey Ya!](https://www.last.fm/music/OutKast/_/Hey+Ya!)
-* [Usher — DJ Got Us Fallin' in Love (feat. Pitbull)](https://www.last.fm/music/Usher/_/DJ+Got+Us+Fallin%27+in+Love+(feat.+Pitbull))
-* [M.I.A. — Paper Planes](https://www.last.fm/music/M.I.A./_/Paper+Planes)
-* [B.o.B — Airplanes (feat. Hayley Williams)](https://www.last.fm/music/B.o.B/_/Airplanes+(feat.+Hayley+Williams))<!-- LASTFM:END -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
+* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
