@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
 * [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
 * [Marina — Bubblegum Bitch](https://www.last.fm/music/Marina/_/Bubblegum+Bitch)
-* [Poppy — Voicemail](https://www.last.fm/music/Poppy/_/Voicemail)
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
-* [Poppy — Concrete](https://www.last.fm/music/Poppy/_/Concrete)<!-- LASTFM:END -->
+* [Poppy — Voicemail](https://www.last.fm/music/Poppy/_/Voicemail)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
