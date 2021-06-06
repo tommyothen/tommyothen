@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Thai Massage Music — Bamboo Flute](https://www.last.fm/music/Thai+Massage+Music/_/Bamboo+Flute)
+* [Thai Massage Music — Relaxing Thai Spa](https://www.last.fm/music/Thai+Massage+Music/_/Relaxing+Thai+Spa)
+* [Thai Massage Music — Relaxing Thai Spa](https://www.last.fm/music/Thai+Massage+Music/_/Relaxing+Thai+Spa)
 * [Jarv & Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&+Thief/_/Slack-Jaw)
-* [Lil Peep — Star Shopping](https://www.last.fm/music/Lil+Peep/_/Star+Shopping)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
+* [Lil Peep — Star Shopping](https://www.last.fm/music/Lil+Peep/_/Star+Shopping)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
