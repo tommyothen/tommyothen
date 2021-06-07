@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
+* [Poppy — I'm Poppy](https://www.last.fm/music/Poppy/_/I%27m+Poppy)
 * [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
 * [Poppy — Anything Like Me](https://www.last.fm/music/Poppy/_/Anything+Like+Me)
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
-* [Poppy — Concrete](https://www.last.fm/music/Poppy/_/Concrete)
-* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)<!-- LASTFM:END -->
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
