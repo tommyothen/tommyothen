@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hieroglyphics — Powers That Be](https://www.last.fm/music/Hieroglyphics/_/Powers+That+Be)
-* [Piff Marti — Boys Do Cry.](https://www.last.fm/music/Piff+Marti/_/Boys+Do+Cry.)
-* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)<!-- LASTFM:END -->
+* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)
+* [Bring Me the Horizon — Oh No](https://www.last.fm/music/Bring+Me+the+Horizon/_/Oh+No)
+* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
+* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)
+* [London Voices — Cantina Band - From "Star Wars: A New Hope"](https://www.last.fm/music/London+Voices/_/Cantina+Band+-+From+%22Star+Wars:+A+New+Hope%22)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
