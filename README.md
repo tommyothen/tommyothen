@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — X](https://www.last.fm/music/Poppy/_/X)
-* [Rina Sawayama — Bad Friend](https://www.last.fm/music/Rina+Sawayama/_/Bad+Friend)
-* [Poppy — Don't Go Outside](https://www.last.fm/music/Poppy/_/Don%27t+Go+Outside)
-* [maretu — Coin Locker Baby](https://www.last.fm/music/maretu/_/Coin+Locker+Baby)
-* [Poppy — Nothing I Need](https://www.last.fm/music/Poppy/_/Nothing+I+Need)<!-- LASTFM:END -->
+* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))
+* [Poppy — Iconic](https://www.last.fm/music/Poppy/_/Iconic)
+* [Rina Sawayama — XS](https://www.last.fm/music/Rina+Sawayama/_/XS)
+* [Poppy — Bleep Bloop](https://www.last.fm/music/Poppy/_/Bleep+Bloop)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
