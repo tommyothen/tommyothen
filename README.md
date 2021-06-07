@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Rina Sawayama — STFU!](https://www.last.fm/music/Rina+Sawayama/_/STFU!)
-* [Poppy — Bite Your Teeth](https://www.last.fm/music/Poppy/_/Bite+Your+Teeth)<!-- LASTFM:END -->
+* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
+* [maretu — SIU](https://www.last.fm/music/maretu/_/SIU)
+* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
