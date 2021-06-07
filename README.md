@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Thai Massage Music — Midnight Sea](https://www.last.fm/music/Thai+Massage+Music/_/Midnight+Sea)
+* [Thai Massage Music — Midnight Sea](https://www.last.fm/music/Thai+Massage+Music/_/Midnight+Sea)
+* [Thai Massage Music — Midnight Sea](https://www.last.fm/music/Thai+Massage+Music/_/Midnight+Sea)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Thai Massage Music — Bamboo Flute](https://www.last.fm/music/Thai+Massage+Music/_/Bamboo+Flute)
-* [Thai Massage Music — Relaxing Thai Spa](https://www.last.fm/music/Thai+Massage+Music/_/Relaxing+Thai+Spa)
-* [Thai Massage Music — Relaxing Thai Spa](https://www.last.fm/music/Thai+Massage+Music/_/Relaxing+Thai+Spa)
-* [Jarv & Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&+Thief/_/Slack-Jaw)<!-- LASTFM:END -->
+* [Thai Massage Music — Bamboo Flute](https://www.last.fm/music/Thai+Massage+Music/_/Bamboo+Flute)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
