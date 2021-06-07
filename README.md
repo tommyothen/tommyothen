@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))
-* [Poppy — Iconic](https://www.last.fm/music/Poppy/_/Iconic)
-* [Rina Sawayama — XS](https://www.last.fm/music/Rina+Sawayama/_/XS)
-* [Poppy — Bleep Bloop](https://www.last.fm/music/Poppy/_/Bleep+Bloop)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
+* [Poppy — Sit / Stay](https://www.last.fm/music/Poppy/_/Sit+%2F+Stay)
+* [maretu — Uminaoshi](https://www.last.fm/music/maretu/_/Uminaoshi)
+* [Poppy — Sick of the Sun](https://www.last.fm/music/Poppy/_/Sick+of+the+Sun)
+* [Grimes — REALiTi](https://www.last.fm/music/Grimes/_/REALiTi)
+* [Poppy — Scary Mask](https://www.last.fm/music/Poppy/_/Scary+Mask)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
