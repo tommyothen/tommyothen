@@ -31,8 +31,8 @@ Now Playing\
 * [Thai Massage Music — Midnight Sea](https://www.last.fm/music/Thai+Massage+Music/_/Midnight+Sea)
 * [Thai Massage Music — Midnight Sea](https://www.last.fm/music/Thai+Massage+Music/_/Midnight+Sea)
 * [Thai Massage Music — Midnight Sea](https://www.last.fm/music/Thai+Massage+Music/_/Midnight+Sea)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Thai Massage Music — Bamboo Flute](https://www.last.fm/music/Thai+Massage+Music/_/Bamboo+Flute)<!-- LASTFM:END -->
+* [Thai Massage Music — Midnight Sea](https://www.last.fm/music/Thai+Massage+Music/_/Midnight+Sea)
+* [Thai Massage Music — Midnight Sea](https://www.last.fm/music/Thai+Massage+Music/_/Midnight+Sea)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
