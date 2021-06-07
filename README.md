@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)
-* [Bring Me the Horizon — Oh No](https://www.last.fm/music/Bring+Me+the+Horizon/_/Oh+No)
-* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
-* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)
-* [London Voices — Cantina Band - From "Star Wars: A New Hope"](https://www.last.fm/music/London+Voices/_/Cantina+Band+-+From+%22Star+Wars:+A+New+Hope%22)<!-- LASTFM:END -->
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
+* [Mike Posner — Cooler Than Me](https://www.last.fm/music/Mike+Posner/_/Cooler+Than+Me)
+* [Earth, Wind & Fire — September](https://www.last.fm/music/Earth,+Wind+&+Fire/_/September)
+* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
