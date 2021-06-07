@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Thai Massage Music — Midnight Sea](https://www.last.fm/music/Thai+Massage+Music/_/Midnight+Sea)
-* [Thai Massage Music — Midnight Sea](https://www.last.fm/music/Thai+Massage+Music/_/Midnight+Sea)
-* [Thai Massage Music — Midnight Sea](https://www.last.fm/music/Thai+Massage+Music/_/Midnight+Sea)
-* [Thai Massage Music — Midnight Sea](https://www.last.fm/music/Thai+Massage+Music/_/Midnight+Sea)
-* [Thai Massage Music — Midnight Sea](https://www.last.fm/music/Thai+Massage+Music/_/Midnight+Sea)<!-- LASTFM:END -->
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
+* [Poppy — Anything Like Me](https://www.last.fm/music/Poppy/_/Anything+Like+Me)
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
+* [Poppy — Concrete](https://www.last.fm/music/Poppy/_/Concrete)
+* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
