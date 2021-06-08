@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
-* [Poppy — Sit / Stay](https://www.last.fm/music/Poppy/_/Sit+%2F+Stay)
-* [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)
-* [Arca — Self Defense](https://www.last.fm/music/Arca/_/Self+Defense)
-* [Poppy — Sick of the Sun](https://www.last.fm/music/Poppy/_/Sick+of+the+Sun)<!-- LASTFM:END -->
+* [Poppy — Iconic](https://www.last.fm/music/Poppy/_/Iconic)
+* [Poppy — Don't Ask](https://www.last.fm/music/Poppy/_/Don%27t+Ask)
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [Rei Ami — RUNAWAY](https://www.last.fm/music/Rei+Ami/_/RUNAWAY)
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
