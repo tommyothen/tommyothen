@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Peachy! — Amsterdam](https://www.last.fm/music/Peachy!/_/Amsterdam)
-* [Axiliya — Distance](https://www.last.fm/music/Axiliya/_/Distance)
-* [American Teleport — Can You Feel the Love Tonight](https://www.last.fm/music/American+Teleport/_/Can+You+Feel+the+Love+Tonight)
-* [Roach — Emerald Eyes](https://www.last.fm/music/Roach/_/Emerald+Eyes)
-* [galdive — Cloud](https://www.last.fm/music/galdive/_/Cloud)<!-- LASTFM:END -->
+* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
+* [Axiliya — Will U Be My Valentine?](https://www.last.fm/music/Axiliya/_/Will+U+Be+My+Valentine%3F)
+* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
+* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
+* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
