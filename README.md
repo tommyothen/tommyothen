@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [LilyPichu — Dreamy Night](https://www.last.fm/music/LilyPichu/_/Dreamy+Night)
-* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)
-* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)
-* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)<!-- LASTFM:END -->
+* [Axiliya — Never Felt So Faded](https://www.last.fm/music/Axiliya/_/Never+Felt+So+Faded)
+* [BLVK — air](https://www.last.fm/music/BLVK/_/air)
+* [Axiliya — You Don't Know Me](https://www.last.fm/music/Axiliya/_/You+Don%27t+Know+Me)
+* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
+* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
