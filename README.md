@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Immature Couture](https://www.last.fm/music/Poppy/_/Immature+Couture)
+* [Arca — Calor](https://www.last.fm/music/Arca/_/Calor)
 * [Kim Petras — Massacre](https://www.last.fm/music/Kim+Petras/_/Massacre)
 * [Poppy — Scream](https://www.last.fm/music/Poppy/_/Scream)
-* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
-* [Poppy — Khaos x4](https://www.last.fm/music/Poppy/_/Khaos+x4)
-* [Arca — Anger](https://www.last.fm/music/Arca/_/Anger)<!-- LASTFM:END -->
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
