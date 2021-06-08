@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Balming Tiger — Armadillo (feat. Omega Sapien & Byung un)](https://www.last.fm/music/Balming+Tiger/_/Armadillo+(feat.+Omega+Sapien+&+Byung+un))
+* [Benny Benassi — Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz](https://www.last.fm/music/Benny+Benassi/_/Satisfaction+(Isak+Original+Extended)+-+Benny+Benassi+Presents+The+Biz)
 * [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
 * [Red Hot Chili Peppers — Can't Stop](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Can%27t+Stop)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Chase & Status — Count On Me](https://www.last.fm/music/Chase+&+Status/_/Count+On+Me)
-* [Philip Bailey — Easy Lover](https://www.last.fm/music/Philip+Bailey/_/Easy+Lover)<!-- LASTFM:END -->
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
