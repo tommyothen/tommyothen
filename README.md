@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ibrahim — Land of Petals](https://www.last.fm/music/Ibrahim/_/Land+of+Petals)
-* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
-* [Osvaldorio — Lotus](https://www.last.fm/music/Osvaldorio/_/Lotus)
-* [BLVK — withu](https://www.last.fm/music/BLVK/_/withu)
-* [Cautious Clay — Cheesin'](https://www.last.fm/music/Cautious+Clay/_/Cheesin%27)<!-- LASTFM:END -->
+* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)
+* [galdive — Maybe I](https://www.last.fm/music/galdive/_/Maybe+I)
+* [Ford. — Lazy Sad](https://www.last.fm/music/Ford./_/Lazy+Sad)
+* [BLVK — under the trees](https://www.last.fm/music/BLVK/_/under+the+trees)
+* [Peachy! — Amore](https://www.last.fm/music/Peachy!/_/Amore)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
