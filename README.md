@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Balming Tiger — Armadillo (feat. Omega Sapien & Byung un)](https://www.last.fm/music/Balming+Tiger/_/Armadillo+(feat.+Omega+Sapien+&+Byung+un))
-* [Benny Benassi — Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz](https://www.last.fm/music/Benny+Benassi/_/Satisfaction+(Isak+Original+Extended)+-+Benny+Benassi+Presents+The+Biz)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
-* [Red Hot Chili Peppers — Can't Stop](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Can%27t+Stop)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
+* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
+* [Kavka Shishido — ラヴコリーダ](https://www.last.fm/music/Kavka+Shishido/_/%E3%83%A9%E3%83%B4%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%80)
+* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
