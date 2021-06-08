@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jack Stauber — Buttercup](https://www.last.fm/music/Jack+Stauber/_/Buttercup)
-* [Coolio — Gangsta's Paradise](https://www.last.fm/music/Coolio/_/Gangsta%27s+Paradise)
-* [Labrinth — Earthquake (feat. Tinie Tempah)](https://www.last.fm/music/Labrinth/_/Earthquake+(feat.+Tinie+Tempah))
-* [Yung Gravy — The Boys Are Back in Town](https://www.last.fm/music/Yung+Gravy/_/The+Boys+Are+Back+in+Town)
-* [slowthai — Doorman](https://www.last.fm/music/slowthai/_/Doorman)<!-- LASTFM:END -->
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
+* [Red Hot Chili Peppers — Can't Stop](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Can%27t+Stop)
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
+* [Chase & Status — Count On Me](https://www.last.fm/music/Chase+&+Status/_/Count+On+Me)
+* [Philip Bailey — Easy Lover](https://www.last.fm/music/Philip+Bailey/_/Easy+Lover)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
