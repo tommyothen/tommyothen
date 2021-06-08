@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ibrahim — Bullet Train Fantasy](https://www.last.fm/music/Ibrahim/_/Bullet+Train+Fantasy)
-* [Ibrahim — sleeping in the postmeridian sky](https://www.last.fm/music/Ibrahim/_/sleeping+in+the+postmeridian+sky)
-* [Vansire — Set Piece](https://www.last.fm/music/Vansire/_/Set+Piece)
-* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)
-* [Axiliya — Will U Be My Valentine?](https://www.last.fm/music/Axiliya/_/Will+U+Be+My+Valentine%3F)<!-- LASTFM:END -->
+* [Peachy! — Amsterdam](https://www.last.fm/music/Peachy!/_/Amsterdam)
+* [Axiliya — Distance](https://www.last.fm/music/Axiliya/_/Distance)
+* [American Teleport — Can You Feel the Love Tonight](https://www.last.fm/music/American+Teleport/_/Can+You+Feel+the+Love+Tonight)
+* [Roach — Emerald Eyes](https://www.last.fm/music/Roach/_/Emerald+Eyes)
+* [galdive — Cloud](https://www.last.fm/music/galdive/_/Cloud)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
