@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
-* [Bren Joy — Sweet (feat. Landon Sears)](https://www.last.fm/music/Bren+Joy/_/Sweet+(feat.+Landon+Sears))
-* [galdive — Fond Adieu](https://www.last.fm/music/galdive/_/Fond+Adieu)
-* [Ford. — Lazy Sad](https://www.last.fm/music/Ford./_/Lazy+Sad)
-* [Peachy! — Amore](https://www.last.fm/music/Peachy!/_/Amore)<!-- LASTFM:END -->
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
+* [LilyPichu — Dreamy Night](https://www.last.fm/music/LilyPichu/_/Dreamy+Night)
+* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)
+* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)
+* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
