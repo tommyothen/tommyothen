@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ibrahim — a world at peace](https://www.last.fm/music/Ibrahim/_/a+world+at+peace)
-* [Vansire — Set Piece](https://www.last.fm/music/Vansire/_/Set+Piece)
-* [American Teleport — Can You Feel the Love Tonight](https://www.last.fm/music/American+Teleport/_/Can+You+Feel+the+Love+Tonight)
-* [Peachy! — $orries](https://www.last.fm/music/Peachy!/_/$orries)
-* [KidStrange — You And I](https://www.last.fm/music/KidStrange/_/You+And+I)<!-- LASTFM:END -->
+* [90sFlav — Wish You Still Felt This Way](https://www.last.fm/music/90sFlav/_/Wish+You+Still+Felt+This+Way)
+* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)
+* [BLVK — under the trees](https://www.last.fm/music/BLVK/_/under+the+trees)
+* [galdive — Sorbet](https://www.last.fm/music/galdive/_/Sorbet)
+* [Ibrahim — a world at peace](https://www.last.fm/music/Ibrahim/_/a+world+at+peace)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
