@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — Immature Couture](https://www.last.fm/music/Poppy/_/Immature+Couture)
-* [Arca — Calor](https://www.last.fm/music/Arca/_/Calor)
-* [Kim Petras — Massacre](https://www.last.fm/music/Kim+Petras/_/Massacre)
-* [Poppy — Scream](https://www.last.fm/music/Poppy/_/Scream)
-* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)<!-- LASTFM:END -->
+* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
+* [Poppy — Bite Your Teeth](https://www.last.fm/music/Poppy/_/Bite+Your+Teeth)
+* [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
+* [Poppy — Immature Couture](https://www.last.fm/music/Poppy/_/Immature+Couture)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
