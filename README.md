@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BLVK — Divine](https://www.last.fm/music/BLVK/_/Divine)
-* [Axiliya — Abyss Walker](https://www.last.fm/music/Axiliya/_/Abyss+Walker)
-* [Axiliya — I Really Hate U](https://www.last.fm/music/Axiliya/_/I+Really+Hate+U)
-* [KidStrange — You And I](https://www.last.fm/music/KidStrange/_/You+And+I)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)<!-- LASTFM:END -->
+* [BLVK — withu](https://www.last.fm/music/BLVK/_/withu)
+* [Cautious Clay — Cheesin'](https://www.last.fm/music/Cautious+Clay/_/Cheesin%27)
+* [BLVK — If Feathers Could Float to Heaven](https://www.last.fm/music/BLVK/_/If+Feathers+Could+Float+to+Heaven)
+* [galdive — Sorbet](https://www.last.fm/music/galdive/_/Sorbet)
+* [Axiliya — You Don't Know Me](https://www.last.fm/music/Axiliya/_/You+Don%27t+Know+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
