@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [90sFlav — Wish You Still Felt This Way](https://www.last.fm/music/90sFlav/_/Wish+You+Still+Felt+This+Way)
-* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)
-* [BLVK — under the trees](https://www.last.fm/music/BLVK/_/under+the+trees)
-* [galdive — Sorbet](https://www.last.fm/music/galdive/_/Sorbet)
-* [Ibrahim — a world at peace](https://www.last.fm/music/Ibrahim/_/a+world+at+peace)<!-- LASTFM:END -->
+* [Peachy! — Amore](https://www.last.fm/music/Peachy!/_/Amore)
+* [BLVK — If Feathers Could Float to Heaven](https://www.last.fm/music/BLVK/_/If+Feathers+Could+Float+to+Heaven)
+* [galdive — Maybe I](https://www.last.fm/music/galdive/_/Maybe+I)
+* [Ibrahim — Bullet Train Fantasy](https://www.last.fm/music/Ibrahim/_/Bullet+Train+Fantasy)
+* [90sFlav — Wish You Still Felt This Way](https://www.last.fm/music/90sFlav/_/Wish+You+Still+Felt+This+Way)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
