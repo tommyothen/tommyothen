@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Peachy! — Amsterdam](https://www.last.fm/music/Peachy!/_/Amsterdam)
-* [Roach — Emerald Eyes](https://www.last.fm/music/Roach/_/Emerald+Eyes)
-* [BLVK — withu](https://www.last.fm/music/BLVK/_/withu)
-* [Axiliya — Distance](https://www.last.fm/music/Axiliya/_/Distance)
-* [galdive — Cloud](https://www.last.fm/music/galdive/_/Cloud)<!-- LASTFM:END -->
+* [Ibrahim — Land of Petals](https://www.last.fm/music/Ibrahim/_/Land+of+Petals)
+* [Axiliya — Blue](https://www.last.fm/music/Axiliya/_/Blue)
+* [Cautious Clay — Cheesin'](https://www.last.fm/music/Cautious+Clay/_/Cheesin%27)
+* [Axiliya — Never Felt So Faded](https://www.last.fm/music/Axiliya/_/Never+Felt+So+Faded)
+* [Peachy! — Amsterdam](https://www.last.fm/music/Peachy!/_/Amsterdam)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
