@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [KidStrange — You And I](https://www.last.fm/music/KidStrange/_/You+And+I)
-* [BLVK — Divine](https://www.last.fm/music/BLVK/_/Divine)
-* [Axiliya — kisses on my neck](https://www.last.fm/music/Axiliya/_/kisses+on+my+neck)
-* [Osvaldorio — Lotus](https://www.last.fm/music/Osvaldorio/_/Lotus)
-* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)<!-- LASTFM:END -->
+* [Ibrahim — a world at peace](https://www.last.fm/music/Ibrahim/_/a+world+at+peace)
+* [Vansire — Set Piece](https://www.last.fm/music/Vansire/_/Set+Piece)
+* [American Teleport — Can You Feel the Love Tonight](https://www.last.fm/music/American+Teleport/_/Can+You+Feel+the+Love+Tonight)
+* [Peachy! — $orries](https://www.last.fm/music/Peachy!/_/$orries)
+* [KidStrange — You And I](https://www.last.fm/music/KidStrange/_/You+And+I)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
