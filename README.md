@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [Mike Posner — Cooler Than Me](https://www.last.fm/music/Mike+Posner/_/Cooler+Than+Me)
-* [Earth, Wind & Fire — September](https://www.last.fm/music/Earth,+Wind+&+Fire/_/September)
-* [Leonz — Among Us - Trap Remix](https://www.last.fm/music/Leonz/_/Among+Us+-+Trap+Remix)<!-- LASTFM:END -->
+* [Jack Stauber — Buttercup](https://www.last.fm/music/Jack+Stauber/_/Buttercup)
+* [Coolio — Gangsta's Paradise](https://www.last.fm/music/Coolio/_/Gangsta%27s+Paradise)
+* [Labrinth — Earthquake (feat. Tinie Tempah)](https://www.last.fm/music/Labrinth/_/Earthquake+(feat.+Tinie+Tempah))
+* [Yung Gravy — The Boys Are Back in Town](https://www.last.fm/music/Yung+Gravy/_/The+Boys+Are+Back+in+Town)
+* [slowthai — Doorman](https://www.last.fm/music/slowthai/_/Doorman)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
