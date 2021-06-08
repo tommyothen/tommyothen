@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
-* [Axiliya — Will U Be My Valentine?](https://www.last.fm/music/Axiliya/_/Will+U+Be+My+Valentine%3F)
-* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
-* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
-* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)<!-- LASTFM:END -->
+* [Ciki — Syndrome](https://www.last.fm/music/Ciki/_/Syndrome)
+* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
+* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)
+* [LilyPichu — Dreamy Night](https://www.last.fm/music/LilyPichu/_/Dreamy+Night)
+* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
