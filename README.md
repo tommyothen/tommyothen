@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — Bleep Bloop](https://www.last.fm/music/Poppy/_/Bleep+Bloop)
-* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))
-* [Ashnikko — Working Bitch](https://www.last.fm/music/Ashnikko/_/Working+Bitch)
-* [Poppy — X](https://www.last.fm/music/Poppy/_/X)
-* [Dark Cat — Bubble Tea](https://www.last.fm/music/Dark+Cat/_/Bubble+Tea)<!-- LASTFM:END -->
+* [Arca — Self Defense](https://www.last.fm/music/Arca/_/Self+Defense)
+* [Poppy — Sick of the Sun](https://www.last.fm/music/Poppy/_/Sick+of+the+Sun)
+* [Rei Ami — do it right (feat. Aminé)](https://www.last.fm/music/Rei+Ami/_/do+it+right+(feat.+Amin%C3%A9))
+* [Arca — Time](https://www.last.fm/music/Arca/_/Time)
+* [Poppy — Bleep Bloop](https://www.last.fm/music/Poppy/_/Bleep+Bloop)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
