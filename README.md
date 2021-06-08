@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ibrahim — dancing in the scintillation](https://www.last.fm/music/Ibrahim/_/dancing+in+the+scintillation)
-* [Axiliya — I Really Hate U](https://www.last.fm/music/Axiliya/_/I+Really+Hate+U)
-* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
-* [Axiliya — Will U Be My Valentine?](https://www.last.fm/music/Axiliya/_/Will+U+Be+My+Valentine%3F)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)<!-- LASTFM:END -->
+* [Peachy! — Amsterdam](https://www.last.fm/music/Peachy!/_/Amsterdam)
+* [Roach — Emerald Eyes](https://www.last.fm/music/Roach/_/Emerald+Eyes)
+* [BLVK — withu](https://www.last.fm/music/BLVK/_/withu)
+* [Axiliya — Distance](https://www.last.fm/music/Axiliya/_/Distance)
+* [galdive — Cloud](https://www.last.fm/music/galdive/_/Cloud)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
