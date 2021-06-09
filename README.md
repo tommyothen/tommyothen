@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
-* [Poppy — Voicemail](https://www.last.fm/music/Poppy/_/Voicemail)
-* [Rei Ami — RUNAWAY](https://www.last.fm/music/Rei+Ami/_/RUNAWAY)
-* [Poppy — Immature Couture](https://www.last.fm/music/Poppy/_/Immature+Couture)
-* [Arca — Time](https://www.last.fm/music/Arca/_/Time)<!-- LASTFM:END -->
+* [Poppy — Concrete](https://www.last.fm/music/Poppy/_/Concrete)
+* [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)
+* [Poppy — If It Bleeds](https://www.last.fm/music/Poppy/_/If+It+Bleeds)
+* [Poppy — Don't Go Outside](https://www.last.fm/music/Poppy/_/Don%27t+Go+Outside)
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
