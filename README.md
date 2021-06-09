@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Marvin Gaye — Ain't No Mountain High Enough](https://www.last.fm/music/Marvin+Gaye/_/Ain%27t+No+Mountain+High+Enough)
-* [SWMRS — Palm Trees](https://www.last.fm/music/SWMRS/_/Palm+Trees)
-* [Cherry Glazerr — Daddi](https://www.last.fm/music/Cherry+Glazerr/_/Daddi)
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)<!-- LASTFM:END -->
+* [Rise Against — Savior](https://www.last.fm/music/Rise+Against/_/Savior)
+* [George Ezra — Shotgun](https://www.last.fm/music/George+Ezra/_/Shotgun)
+* [Eminem — 'Till I Collapse](https://www.last.fm/music/Eminem/_/%27Till+I+Collapse)
+* [Everything Everything — No Reptiles](https://www.last.fm/music/Everything+Everything/_/No+Reptiles)
+* [Marvin Gaye — Ain't No Mountain High Enough](https://www.last.fm/music/Marvin+Gaye/_/Ain%27t+No+Mountain+High+Enough)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
