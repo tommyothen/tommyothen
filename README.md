@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Voicemail](https://www.last.fm/music/Poppy/_/Voicemail)
+* [Poppy — Time Is Up](https://www.last.fm/music/Poppy/_/Time+Is+Up)
+* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
 * [Poppy — Nothing I Need](https://www.last.fm/music/Poppy/_/Nothing+I+Need)
-* [Arca — Time](https://www.last.fm/music/Arca/_/Time)
-* [Poppy — Anything Like Me](https://www.last.fm/music/Poppy/_/Anything+Like+Me)
-* [Poppy — Sit / Stay](https://www.last.fm/music/Poppy/_/Sit+%2F+Stay)
-* [Poppy — Sick of the Sun](https://www.last.fm/music/Poppy/_/Sick+of+the+Sun)<!-- LASTFM:END -->
+* [Arca — Time](https://www.last.fm/music/Arca/_/Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
