@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
+* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
+* [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)
 * [Loona — favOriTe](https://www.last.fm/music/Loona/_/favOriTe)
-* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)<!-- LASTFM:END -->
+* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
