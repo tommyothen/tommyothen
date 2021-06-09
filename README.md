@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))
-* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
-* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
-* [Poppy — Concrete](https://www.last.fm/music/Poppy/_/Concrete)
-* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)<!-- LASTFM:END -->
+* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
+* [Loona — Satellite](https://www.last.fm/music/Loona/_/Satellite)
+* [Azealia Banks — 1991](https://www.last.fm/music/Azealia+Banks/_/1991)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
