@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [sub urban — Freak (feat. REI AMI)](https://www.last.fm/music/sub+urban/_/Freak+(feat.+REI+AMI))
+* [Poppy — Iconic](https://www.last.fm/music/Poppy/_/Iconic)
+* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)
 * [Rei Ami — do it right (feat. Aminé)](https://www.last.fm/music/Rei+Ami/_/do+it+right+(feat.+Amin%C3%A9))
-* [Poppy — Khaos x4](https://www.last.fm/music/Poppy/_/Khaos+x4)
-* [Arca — Brokeup](https://www.last.fm/music/Arca/_/Brokeup)
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
-* [Poppy — X](https://www.last.fm/music/Poppy/_/X)<!-- LASTFM:END -->
+* [Poppy — Khaos x4](https://www.last.fm/music/Poppy/_/Khaos+x4)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
