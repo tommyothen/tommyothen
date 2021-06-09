@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
-* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
-* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
-* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
-* [Arca — Anger](https://www.last.fm/music/Arca/_/Anger)<!-- LASTFM:END -->
+* [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)
+* [Carly Rae Jepsen — I Really Like You](https://www.last.fm/music/Carly+Rae+Jepsen/_/I+Really+Like+You)
+* [Poppy — I'm Poppy](https://www.last.fm/music/Poppy/_/I%27m+Poppy)
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
+* [Venti — Hai Domo](https://www.last.fm/music/Venti/_/Hai+Domo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
