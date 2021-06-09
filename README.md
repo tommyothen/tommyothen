@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))
-* [Tia — Deal with the devil](https://www.last.fm/music/Tia/_/Deal+with+the+devil)
-* [Loona — Love Cherry Motion](https://www.last.fm/music/Loona/_/Love+Cherry+Motion)
-* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)<!-- LASTFM:END -->
+* [Loona — Oh (Yes I Am)](https://www.last.fm/music/Loona/_/Oh+(Yes+I+Am))
+* [Ghost Data — CELESTIAL BODIES](https://www.last.fm/music/Ghost+Data/_/CELESTIAL+BODIES)
+* [Poppy — X](https://www.last.fm/music/Poppy/_/X)
+* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
+* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
