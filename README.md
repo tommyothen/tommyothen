@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — If It Bleeds](https://www.last.fm/music/Poppy/_/If+It+Bleeds)
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
+* [Poppy — Bite Your Teeth](https://www.last.fm/music/Poppy/_/Bite+Your+Teeth)
 * [100 gecs — money machine](https://www.last.fm/music/100+gecs/_/money+machine)
-* [100 gecs — bloodstains](https://www.last.fm/music/100+gecs/_/bloodstains)
-* [Poppy — I'm Poppy](https://www.last.fm/music/Poppy/_/I%27m+Poppy)
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
-* [Poppy — Voicemail](https://www.last.fm/music/Poppy/_/Voicemail)<!-- LASTFM:END -->
+* [100 gecs — bloodstains](https://www.last.fm/music/100+gecs/_/bloodstains)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
