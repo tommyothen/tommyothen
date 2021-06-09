@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Red Velvet — 러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)
+* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
+* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
 * [Loona — Oh (Yes I Am)](https://www.last.fm/music/Loona/_/Oh+(Yes+I+Am))
-* [Ghost Data — CELESTIAL BODIES](https://www.last.fm/music/Ghost+Data/_/CELESTIAL+BODIES)
-* [Poppy — X](https://www.last.fm/music/Poppy/_/X)
-* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
-* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))<!-- LASTFM:END -->
+* [Ghost Data — CELESTIAL BODIES](https://www.last.fm/music/Ghost+Data/_/CELESTIAL+BODIES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
