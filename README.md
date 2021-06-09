@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — I'm Poppy](https://www.last.fm/music/Poppy/_/I%27m+Poppy)
-* [Arca — Brokeup](https://www.last.fm/music/Arca/_/Brokeup)
-* [Poppy — Nothing I Need](https://www.last.fm/music/Poppy/_/Nothing+I+Need)
-* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
-* [Poppy — Don't Go Outside](https://www.last.fm/music/Poppy/_/Don%27t+Go+Outside)<!-- LASTFM:END -->
+* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
+* [Poppy — I'm Poppy](https://www.last.fm/music/Poppy/_/I%27m+Poppy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
