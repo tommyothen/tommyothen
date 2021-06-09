@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Arca — Calor](https://www.last.fm/music/Arca/_/Calor)
+* [Poppy — Nothing I Need](https://www.last.fm/music/Poppy/_/Nothing+I+Need)
+* [Kim Petras — Personal Hell](https://www.last.fm/music/Kim+Petras/_/Personal+Hell)
 * [Poppy — Khaos x4](https://www.last.fm/music/Poppy/_/Khaos+x4)
-* [Calvin Harris — One Kiss (with Dua Lipa)](https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa))
-* [Poppy — Sit / Stay](https://www.last.fm/music/Poppy/_/Sit+%2F+Stay)
-* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
-* [Poppy — Anything Like Me](https://www.last.fm/music/Poppy/_/Anything+Like+Me)<!-- LASTFM:END -->
+* [Calvin Harris — One Kiss (with Dua Lipa)](https://www.last.fm/music/Calvin+Harris/_/One+Kiss+(with+Dua+Lipa))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
