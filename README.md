@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
+* [Poppy — Don't Go Outside](https://www.last.fm/music/Poppy/_/Don%27t+Go+Outside)
 * [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
 * [Poppy — Bite Your Teeth](https://www.last.fm/music/Poppy/_/Bite+Your+Teeth)
-* [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)
-* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
-* [Poppy — Immature Couture](https://www.last.fm/music/Poppy/_/Immature+Couture)<!-- LASTFM:END -->
+* [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
