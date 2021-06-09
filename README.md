@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — Time Is Up](https://www.last.fm/music/Poppy/_/Time+Is+Up)
-* [Poppy — Scream](https://www.last.fm/music/Poppy/_/Scream)
-* [Ashnikko — Working Bitch](https://www.last.fm/music/Ashnikko/_/Working+Bitch)
-* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
-* [Rei Ami — do it right (feat. Aminé)](https://www.last.fm/music/Rei+Ami/_/do+it+right+(feat.+Amin%C3%A9))<!-- LASTFM:END -->
+* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
+* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
+* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
+* [Arca — Anger](https://www.last.fm/music/Arca/_/Anger)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
