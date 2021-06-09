@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cherry Glazerr — Stupid Fish](https://www.last.fm/music/Cherry+Glazerr/_/Stupid+Fish)
+* [Avicii — Hey Brother](https://www.last.fm/music/Avicii/_/Hey+Brother)
 * [Rise Against — Savior](https://www.last.fm/music/Rise+Against/_/Savior)
 * [George Ezra — Shotgun](https://www.last.fm/music/George+Ezra/_/Shotgun)
-* [Eminem — 'Till I Collapse](https://www.last.fm/music/Eminem/_/%27Till+I+Collapse)
-* [Everything Everything — No Reptiles](https://www.last.fm/music/Everything+Everything/_/No+Reptiles)
-* [Marvin Gaye — Ain't No Mountain High Enough](https://www.last.fm/music/Marvin+Gaye/_/Ain%27t+No+Mountain+High+Enough)<!-- LASTFM:END -->
+* [Eminem — 'Till I Collapse](https://www.last.fm/music/Eminem/_/%27Till+I+Collapse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
