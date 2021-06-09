@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dorian Electra — Man to Man](https://www.last.fm/music/Dorian+Electra/_/Man+to+Man)
-* [Sir Chloe — Animal](https://www.last.fm/music/Sir+Chloe/_/Animal)
-* [Ellise — Lilith](https://www.last.fm/music/Ellise/_/Lilith)
-* [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)
-* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))<!-- LASTFM:END -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Mitski — Nobody](https://www.last.fm/music/Mitski/_/Nobody)
+* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))
+* [Jazmin Bean — Saccharine](https://www.last.fm/music/Jazmin+Bean/_/Saccharine)
+* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
