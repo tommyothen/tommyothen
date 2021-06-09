@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
+* [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)
+* [100 gecs — stupid horse](https://www.last.fm/music/100+gecs/_/stupid+horse)
 * [Rei Ami — RUNAWAY](https://www.last.fm/music/Rei+Ami/_/RUNAWAY)
-* [Kim Petras — Massacre](https://www.last.fm/music/Kim+Petras/_/Massacre)
-* [Poppy — Bleep Bloop](https://www.last.fm/music/Poppy/_/Bleep+Bloop)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Poppy — Scream](https://www.last.fm/music/Poppy/_/Scream)<!-- LASTFM:END -->
+* [Kim Petras — Massacre](https://www.last.fm/music/Kim+Petras/_/Massacre)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
