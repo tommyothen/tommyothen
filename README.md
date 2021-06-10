@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
+* [maretu — Coin Locker Baby](https://www.last.fm/music/maretu/_/Coin+Locker+Baby)
+* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
 * [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
-* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)<!-- LASTFM:END -->
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
