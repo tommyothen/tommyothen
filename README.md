@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — Pin](https://www.last.fm/music/Grimes/_/Pin)
-* [Grimes — Easily](https://www.last.fm/music/Grimes/_/Easily)
-* [Grimes — Artangels](https://www.last.fm/music/Grimes/_/Artangels)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [Grimes — Belly of the Beat](https://www.last.fm/music/Grimes/_/Belly+of+the+Beat)<!-- LASTFM:END -->
+* [Grimes — Butterfly](https://www.last.fm/music/Grimes/_/Butterfly)
+* [Grimes — Life in the Vivid Dream](https://www.last.fm/music/Grimes/_/Life+in+the+Vivid+Dream)
+* [Grimes — Venus Fly](https://www.last.fm/music/Grimes/_/Venus+Fly)
+* [Grimes — World Princess Part II](https://www.last.fm/music/Grimes/_/World+Princess+Part+II)
+* [Grimes — REALiTi](https://www.last.fm/music/Grimes/_/REALiTi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
