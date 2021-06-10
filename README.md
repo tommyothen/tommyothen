@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
+* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
 * [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
 * [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)
-* [marc indigo — soul searching](https://www.last.fm/music/marc+indigo/_/soul+searching)
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)<!-- LASTFM:END -->
+* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
