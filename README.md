@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shygirl — BB](https://www.last.fm/music/Shygirl/_/BB)
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
 * [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
 * [Health — Feel Nothing](https://www.last.fm/music/Health/_/Feel+Nothing)
-* [Phantogram — Black Out Days - Future Islands Remix](https://www.last.fm/music/Phantogram/_/Black+Out+Days+-+Future+Islands+Remix)
-* [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
+* [Phantogram — Black Out Days - Future Islands Remix](https://www.last.fm/music/Phantogram/_/Black+Out+Days+-+Future+Islands+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
