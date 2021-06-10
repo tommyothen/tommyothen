@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — Butterfly](https://www.last.fm/music/Grimes/_/Butterfly)
-* [Grimes — Life in the Vivid Dream](https://www.last.fm/music/Grimes/_/Life+in+the+Vivid+Dream)
-* [Grimes — Venus Fly](https://www.last.fm/music/Grimes/_/Venus+Fly)
-* [Grimes — World Princess Part II](https://www.last.fm/music/Grimes/_/World+Princess+Part+II)
-* [Grimes — REALiTi](https://www.last.fm/music/Grimes/_/REALiTi)<!-- LASTFM:END -->
+* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
+* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
+* [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
+* [Grimes — Butterfly](https://www.last.fm/music/Grimes/_/Butterfly)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
