@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Grimes — California](https://www.last.fm/music/Grimes/_/California)
-* [Grimes — laughing and not being normal](https://www.last.fm/music/Grimes/_/laughing+and+not+being+normal)
-* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
-* [Kavka Shishido — ラヴコリーダ](https://www.last.fm/music/Kavka+Shishido/_/%E3%83%A9%E3%83%B4%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%80)<!-- LASTFM:END -->
+* [Grimes — Pin](https://www.last.fm/music/Grimes/_/Pin)
+* [Grimes — Easily](https://www.last.fm/music/Grimes/_/Easily)
+* [Grimes — Artangels](https://www.last.fm/music/Grimes/_/Artangels)
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
+* [Grimes — Belly of the Beat](https://www.last.fm/music/Grimes/_/Belly+of+the+Beat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
