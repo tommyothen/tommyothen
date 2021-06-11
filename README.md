@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
+* [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)
+* [Kim Petras — Personal Hell](https://www.last.fm/music/Kim+Petras/_/Personal+Hell)
 * [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)
-* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
-* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
-* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)<!-- LASTFM:END -->
+* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
