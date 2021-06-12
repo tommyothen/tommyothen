@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kaiyko — A Flame Out in the Wind](https://www.last.fm/music/Kaiyko/_/A+Flame+Out+in+the+Wind)
+* [nothing,nowhere. — Skully](https://www.last.fm/music/nothing,nowhere./_/Skully)
+* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)
 * [mxmtoon — show and tell](https://www.last.fm/music/mxmtoon/_/show+and+tell)
-* [mxmtoon — asking for a friend](https://www.last.fm/music/mxmtoon/_/asking+for+a+friend)
-* [mxmtoon — wallflower](https://www.last.fm/music/mxmtoon/_/wallflower)
-* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
-* [mxmtoon — ok on your own (feat. Carly Rae Jepsen)](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+(feat.+Carly+Rae+Jepsen))<!-- LASTFM:END -->
+* [mxmtoon — asking for a friend](https://www.last.fm/music/mxmtoon/_/asking+for+a+friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
