@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)
-* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
-* [Eden — Interlude](https://www.last.fm/music/Eden/_/Interlude)
-* [Yakkle — 愛密集](https://www.last.fm/music/Yakkle/_/%E6%84%9B%E5%AF%86%E9%9B%86)
-* [Jack Harlow — ROTTEN (feat. EST Gee)](https://www.last.fm/music/Jack+Harlow/_/ROTTEN+(feat.+EST+Gee))<!-- LASTFM:END -->
+* [Call Me Karizma — Monster (Under My Bed)](https://www.last.fm/music/Call+Me+Karizma/_/Monster+(Under+My+Bed))
+* [TWICE — SIGNAL - Japanese ver.](https://www.last.fm/music/TWICE/_/SIGNAL+-+Japanese+ver.)
+* [The Seige — Demons](https://www.last.fm/music/The+Seige/_/Demons)
+* [Feduk — Я не могу понять](https://www.last.fm/music/Feduk/_/%D0%AF+%D0%BD%D0%B5+%D0%BC%D0%BE%D0%B3%D1%83+%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D1%8C)
+* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
