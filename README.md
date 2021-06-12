@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Call Me Karizma — Monster (Under My Bed)](https://www.last.fm/music/Call+Me+Karizma/_/Monster+(Under+My+Bed))
-* [TWICE — SIGNAL - Japanese ver.](https://www.last.fm/music/TWICE/_/SIGNAL+-+Japanese+ver.)
-* [The Seige — Demons](https://www.last.fm/music/The+Seige/_/Demons)
-* [Feduk — Я не могу понять](https://www.last.fm/music/Feduk/_/%D0%AF+%D0%BD%D0%B5+%D0%BC%D0%BE%D0%B3%D1%83+%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D1%8C)
-* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)<!-- LASTFM:END -->
+* [Moow — Reconcilation](https://www.last.fm/music/Moow/_/Reconcilation)
+* [Neanderthal — Hurt Your Lover](https://www.last.fm/music/Neanderthal/_/Hurt+Your+Lover)
+* [Billie Eilish — i love you](https://www.last.fm/music/Billie+Eilish/_/i+love+you)
+* [Duckwrth — I'M DEAD](https://www.last.fm/music/Duckwrth/_/I%27M+DEAD)
+* [Call Me Karizma — Monster (Under My Bed)](https://www.last.fm/music/Call+Me+Karizma/_/Monster+(Under+My+Bed))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
