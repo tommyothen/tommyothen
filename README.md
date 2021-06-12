@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
+* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
+* [Jeremy Zucker — better off](https://www.last.fm/music/Jeremy+Zucker/_/better+off)
 * [Moow — Reconcilation](https://www.last.fm/music/Moow/_/Reconcilation)
-* [Neanderthal — Hurt Your Lover](https://www.last.fm/music/Neanderthal/_/Hurt+Your+Lover)
-* [Billie Eilish — i love you](https://www.last.fm/music/Billie+Eilish/_/i+love+you)
-* [Duckwrth — I'M DEAD](https://www.last.fm/music/Duckwrth/_/I%27M+DEAD)
-* [Call Me Karizma — Monster (Under My Bed)](https://www.last.fm/music/Call+Me+Karizma/_/Monster+(Under+My+Bed))<!-- LASTFM:END -->
+* [Neanderthal — Hurt Your Lover](https://www.last.fm/music/Neanderthal/_/Hurt+Your+Lover)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
