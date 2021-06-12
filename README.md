@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)<!-- LASTFM:END -->
+* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
+* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
+* [Tyto Grey — Runaway](https://www.last.fm/music/Tyto+Grey/_/Runaway)
+* [Headhaunter — Engage Thrusters](https://www.last.fm/music/Headhaunter/_/Engage+Thrusters)
+* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
