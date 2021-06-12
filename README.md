@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Housecall — Summer](https://www.last.fm/music/Housecall/_/Summer)
+* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
+* [Kinneret — Spaceship Race!](https://www.last.fm/music/Kinneret/_/Spaceship+Race!)
 * [Stephen — I Never Stay In Love](https://www.last.fm/music/Stephen/_/I+Never+Stay+In+Love)
-* [Mag.Lo — WHO AM I?](https://www.last.fm/music/Mag.Lo/_/WHO+AM+I%3F)
-* [Cezur III — BOA](https://www.last.fm/music/Cezur+III/_/BOA)
-* [wordsbyjuni — Who Are You Doing This For?](https://www.last.fm/music/wordsbyjuni/_/Who+Are+You+Doing+This+For%3F)
-* [Again&again — hours](https://www.last.fm/music/Again&again/_/hours)<!-- LASTFM:END -->
+* [Mag.Lo — WHO AM I?](https://www.last.fm/music/Mag.Lo/_/WHO+AM+I%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
