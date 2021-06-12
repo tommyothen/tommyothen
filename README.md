@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Call Me Karizma — Nails](https://www.last.fm/music/Call+Me+Karizma/_/Nails)
+* [nothing,nowhere. — never meant (cover) - one take](https://www.last.fm/music/nothing,nowhere./_/never+meant+(cover)+-+one+take)
 * [Kaiyko — A Flame Out in the Wind](https://www.last.fm/music/Kaiyko/_/A+Flame+Out+in+the+Wind)
 * [nothing,nowhere. — Skully](https://www.last.fm/music/nothing,nowhere./_/Skully)
-* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)
-* [mxmtoon — show and tell](https://www.last.fm/music/mxmtoon/_/show+and+tell)
-* [mxmtoon — asking for a friend](https://www.last.fm/music/mxmtoon/_/asking+for+a+friend)<!-- LASTFM:END -->
+* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
