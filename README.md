@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jack Harlow — ROTTEN (feat. EST Gee)](https://www.last.fm/music/Jack+Harlow/_/ROTTEN+(feat.+EST+Gee))
-* [Saib — Little Indian](https://www.last.fm/music/Saib/_/Little+Indian)
-* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
-* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
-* [Tyto Grey — Runaway](https://www.last.fm/music/Tyto+Grey/_/Runaway)<!-- LASTFM:END -->
+* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)
+* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
+* [Eden — Interlude](https://www.last.fm/music/Eden/_/Interlude)
+* [Yakkle — 愛密集](https://www.last.fm/music/Yakkle/_/%E6%84%9B%E5%AF%86%E9%9B%86)
+* [Jack Harlow — ROTTEN (feat. EST Gee)](https://www.last.fm/music/Jack+Harlow/_/ROTTEN+(feat.+EST+Gee))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
