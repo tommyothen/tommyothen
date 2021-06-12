@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
-* [guccihighwaters — rock bottom (feat. nothing,nowhere.)](https://www.last.fm/music/guccihighwaters/_/rock+bottom+(feat.+nothing,nowhere.))
-* [lund — Rx Luv](https://www.last.fm/music/lund/_/Rx+Luv)
-* [Guardin — hope again](https://www.last.fm/music/Guardin/_/hope+again)
-* [kennyhoopla — Plastic Door//](https://www.last.fm/music/kennyhoopla/_/Plastic+Door%2F%2F)<!-- LASTFM:END -->
+* [lund — Reckless](https://www.last.fm/music/lund/_/Reckless)
+* [Stand Atlantic — deathwish (feat. nothing,nowhere.)](https://www.last.fm/music/Stand+Atlantic/_/deathwish+(feat.+nothing,nowhere.))
+* [nothing,nowhere. — nightmare](https://www.last.fm/music/nothing,nowhere./_/nightmare)
+* [nothing,nowhere. — lights (4444)](https://www.last.fm/music/nothing,nowhere./_/lights+(4444))
+* [lund — Alone](https://www.last.fm/music/lund/_/Alone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
