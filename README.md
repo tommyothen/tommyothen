@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Xan Griffin — Searching](https://www.last.fm/music/Xan+Griffin/_/Searching)
-* [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)
-* [RADWIMPS — Hyperventilation](https://www.last.fm/music/RADWIMPS/_/Hyperventilation)
-* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
-* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)<!-- LASTFM:END -->
+* [Again&again — hours](https://www.last.fm/music/Again&again/_/hours)
+* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
+* [Elroy — ANGEL 9](https://www.last.fm/music/Elroy/_/ANGEL+9)
+* [JKuch — Data Loss](https://www.last.fm/music/JKuch/_/Data+Loss)
+* [2ToneDisco — Shoelaces](https://www.last.fm/music/2ToneDisco/_/Shoelaces)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
