@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [lund — Reckless](https://www.last.fm/music/lund/_/Reckless)
-* [Stand Atlantic — deathwish (feat. nothing,nowhere.)](https://www.last.fm/music/Stand+Atlantic/_/deathwish+(feat.+nothing,nowhere.))
-* [nothing,nowhere. — nightmare](https://www.last.fm/music/nothing,nowhere./_/nightmare)
-* [nothing,nowhere. — lights (4444)](https://www.last.fm/music/nothing,nowhere./_/lights+(4444))
-* [lund — Alone](https://www.last.fm/music/lund/_/Alone)<!-- LASTFM:END -->
+* [nothing,nowhere. — barely bleeding](https://www.last.fm/music/nothing,nowhere./_/barely+bleeding)
+* [nothing,nowhere. — sayer](https://www.last.fm/music/nothing,nowhere./_/sayer)
+* [Guardin — solitary](https://www.last.fm/music/Guardin/_/solitary)
+* [Sum 41 — Catching Fire (feat. nothing,nowhere.)](https://www.last.fm/music/Sum+41/_/Catching+Fire+(feat.+nothing,nowhere.))
+* [Guardin — in my sleep](https://www.last.fm/music/Guardin/_/in+my+sleep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
