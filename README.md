@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)
-* [Sad Canadian Boy — Hello Kitty Glock](https://www.last.fm/music/Sad+Canadian+Boy/_/Hello+Kitty+Glock)
-* [sacha online — PRAY](https://www.last.fm/music/sacha+online/_/PRAY)
-* [ATARASHII GAKKO! — NAINAINAI](https://www.last.fm/music/ATARASHII+GAKKO!/_/NAINAINAI)
-* [Biffe — Bubbaloo](https://www.last.fm/music/Biffe/_/Bubbaloo)<!-- LASTFM:END -->
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
+* [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
