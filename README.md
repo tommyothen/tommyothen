@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sad Canadian Boy — Hello Kitty Glock](https://www.last.fm/music/Sad+Canadian+Boy/_/Hello+Kitty+Glock)
+* [sacha online — PRAY](https://www.last.fm/music/sacha+online/_/PRAY)
 * [ATARASHII GAKKO! — NAINAINAI](https://www.last.fm/music/ATARASHII+GAKKO!/_/NAINAINAI)
 * [Biffe — Bubbaloo](https://www.last.fm/music/Biffe/_/Bubbaloo)
-* [Jenna Holiday — Egoist](https://www.last.fm/music/Jenna+Holiday/_/Egoist)
-* [Mannequin Online — So Cool](https://www.last.fm/music/Mannequin+Online/_/So+Cool)
-* [MASEWONDER — I don’t care (feat. YANU)](https://www.last.fm/music/MASEWONDER/_/I+don%E2%80%99t+care+(feat.+YANU))<!-- LASTFM:END -->
+* [Jenna Holiday — Egoist](https://www.last.fm/music/Jenna+Holiday/_/Egoist)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
