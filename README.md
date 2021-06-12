@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
+* [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)
+* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)
 * [nothing,nowhere. — barely bleeding](https://www.last.fm/music/nothing,nowhere./_/barely+bleeding)
-* [nothing,nowhere. — sayer](https://www.last.fm/music/nothing,nowhere./_/sayer)
-* [Guardin — solitary](https://www.last.fm/music/Guardin/_/solitary)
-* [Sum 41 — Catching Fire (feat. nothing,nowhere.)](https://www.last.fm/music/Sum+41/_/Catching+Fire+(feat.+nothing,nowhere.))
-* [Guardin — in my sleep](https://www.last.fm/music/Guardin/_/in+my+sleep)<!-- LASTFM:END -->
+* [nothing,nowhere. — sayer](https://www.last.fm/music/nothing,nowhere./_/sayer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
