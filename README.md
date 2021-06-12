@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ATARASHII GAKKO! — NAINAINAI](https://www.last.fm/music/ATARASHII+GAKKO!/_/NAINAINAI)
+* [Biffe — Bubbaloo](https://www.last.fm/music/Biffe/_/Bubbaloo)
+* [Jenna Holiday — Egoist](https://www.last.fm/music/Jenna+Holiday/_/Egoist)
 * [Mannequin Online — So Cool](https://www.last.fm/music/Mannequin+Online/_/So+Cool)
-* [MASEWONDER — I don’t care (feat. YANU)](https://www.last.fm/music/MASEWONDER/_/I+don%E2%80%99t+care+(feat.+YANU))
-* [マドロスMERCURY — カップケーキブレーク](https://www.last.fm/music/%E3%83%9E%E3%83%89%E3%83%AD%E3%82%B9MERCURY/_/%E3%82%AB%E3%83%83%E3%83%97%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AF)
-* [Sugar&Co. — tape/stop/night](https://www.last.fm/music/Sugar&Co./_/tape%2Fstop%2Fnight)
-* [Kevin J Dill — Kirby](https://www.last.fm/music/Kevin+J+Dill/_/Kirby)<!-- LASTFM:END -->
+* [MASEWONDER — I don’t care (feat. YANU)](https://www.last.fm/music/MASEWONDER/_/I+don%E2%80%99t+care+(feat.+YANU))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
