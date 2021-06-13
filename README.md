@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Niki — Sugarplum Elegy](https://www.last.fm/music/Niki/_/Sugarplum+Elegy)
+* [D-Real [愛] — Always You](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Always+You)
 * [Rich Brian — Love In My Pocket](https://www.last.fm/music/Rich+Brian/_/Love+In+My+Pocket)
 * [Eldzhey — Розовое вино](https://www.last.fm/music/Eldzhey/_/%D0%A0%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B5+%D0%B2%D0%B8%D0%BD%D0%BE)
-* [Ben Beal — PERCH](https://www.last.fm/music/Ben+Beal/_/PERCH)
-* [sophie meiers — Evil Presence](https://www.last.fm/music/sophie+meiers/_/Evil+Presence)
-* [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)<!-- LASTFM:END -->
+* [Ben Beal — PERCH](https://www.last.fm/music/Ben+Beal/_/PERCH)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
