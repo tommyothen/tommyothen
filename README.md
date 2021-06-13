@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Conan Gray — Heather](https://www.last.fm/music/Conan+Gray/_/Heather)
+* [Kendrick Lamar — All the Stars (with SZA)](https://www.last.fm/music/Kendrick+Lamar/_/All+the+Stars+(with+SZA))
+* [Gleb — motorest](https://www.last.fm/music/Gleb/_/motorest)
 * [BROCKHAMPTON — ZIPPER](https://www.last.fm/music/BROCKHAMPTON/_/ZIPPER)
-* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
-* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
-* [Labrinth — Earthquake (feat. Tinie Tempah)](https://www.last.fm/music/Labrinth/_/Earthquake+(feat.+Tinie+Tempah))
-* [The Midnight — Days of Thunder](https://www.last.fm/music/The+Midnight/_/Days+of+Thunder)<!-- LASTFM:END -->
+* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
