@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Big Data — Dangerous (feat. Joywave) - Oliver Remix](https://www.last.fm/music/Big+Data/_/Dangerous+(feat.+Joywave)+-+Oliver+Remix)
+* [Phantogram — Don't Move](https://www.last.fm/music/Phantogram/_/Don%27t+Move)
 * [The Neighbourhood — Sweater Weather - Young Saab Remix](https://www.last.fm/music/The+Neighbourhood/_/Sweater+Weather+-+Young+Saab+Remix)
 * [Taylor Swift — the lakes - bonus track](https://www.last.fm/music/Taylor+Swift/_/the+lakes+-+bonus+track)
-* [K.Flay — High Enough - RAC Remix](https://www.last.fm/music/K.Flay/_/High+Enough+-+RAC+Remix)
-* [Taylor Swift — right where you left me - bonus track](https://www.last.fm/music/Taylor+Swift/_/right+where+you+left+me+-+bonus+track)
-* [Labrinth — All For Us - from the HBO Original Series Euphoria](https://www.last.fm/music/Labrinth/_/All+For+Us+-+from+the+HBO+Original+Series+Euphoria)<!-- LASTFM:END -->
+* [K.Flay — High Enough - RAC Remix](https://www.last.fm/music/K.Flay/_/High+Enough+-+RAC+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
