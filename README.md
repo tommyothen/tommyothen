@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Courteeners — Not Nineteen Forever](https://www.last.fm/music/The+Courteeners/_/Not+Nineteen+Forever)
+* [Griff — Black Hole](https://www.last.fm/music/Griff/_/Black+Hole)
+* [Rina Sawayama — Cherry](https://www.last.fm/music/Rina+Sawayama/_/Cherry)
 * [Conan Gray — Heather](https://www.last.fm/music/Conan+Gray/_/Heather)
-* [Kendrick Lamar — All the Stars (with SZA)](https://www.last.fm/music/Kendrick+Lamar/_/All+the+Stars+(with+SZA))
-* [Gleb — motorest](https://www.last.fm/music/Gleb/_/motorest)
-* [BROCKHAMPTON — ZIPPER](https://www.last.fm/music/BROCKHAMPTON/_/ZIPPER)
-* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)<!-- LASTFM:END -->
+* [Kendrick Lamar — All the Stars (with SZA)](https://www.last.fm/music/Kendrick+Lamar/_/All+the+Stars+(with+SZA))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
