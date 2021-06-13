@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
 * [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)
-* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)<!-- LASTFM:END -->
+* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
