@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)
+* [Halogen — U Got That](https://www.last.fm/music/Halogen/_/U+Got+That)
 * [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
 * [Michael Bublé — Haven't Met You Yet](https://www.last.fm/music/Michael+Bubl%C3%A9/_/Haven%27t+Met+You+Yet)
-* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
-* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
-* [Pitbull — Hotel Room Service](https://www.last.fm/music/Pitbull/_/Hotel+Room+Service)<!-- LASTFM:END -->
+* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
