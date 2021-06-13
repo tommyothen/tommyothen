@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)
-* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
-* [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
-* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)<!-- LASTFM:END -->
+* [Black Eyed Peas — I Gotta Feeling](https://www.last.fm/music/Black+Eyed+Peas/_/I+Gotta+Feeling)
+* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)
+* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
+* [OutKast — Hey Ya!](https://www.last.fm/music/OutKast/_/Hey+Ya!)
+* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
