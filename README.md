@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Neighbourhood — Stargazing](https://www.last.fm/music/The+Neighbourhood/_/Stargazing)
+* [Metric — Black Sheep - Brie Larson Vocal Version](https://www.last.fm/music/Metric/_/Black+Sheep+-+Brie+Larson+Vocal+Version)
 * [The Courteeners — Not Nineteen Forever](https://www.last.fm/music/The+Courteeners/_/Not+Nineteen+Forever)
 * [Griff — Black Hole](https://www.last.fm/music/Griff/_/Black+Hole)
-* [Rina Sawayama — Cherry](https://www.last.fm/music/Rina+Sawayama/_/Cherry)
-* [Conan Gray — Heather](https://www.last.fm/music/Conan+Gray/_/Heather)
-* [Kendrick Lamar — All the Stars (with SZA)](https://www.last.fm/music/Kendrick+Lamar/_/All+the+Stars+(with+SZA))<!-- LASTFM:END -->
+* [Rina Sawayama — Cherry](https://www.last.fm/music/Rina+Sawayama/_/Cherry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
