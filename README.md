@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — right where you left me - bonus track](https://www.last.fm/music/Taylor+Swift/_/right+where+you+left+me+-+bonus+track)
+* [Labrinth — All For Us - from the HBO Original Series Euphoria](https://www.last.fm/music/Labrinth/_/All+For+Us+-+from+the+HBO+Original+Series+Euphoria)
+* [Everything Everything — Distant Past](https://www.last.fm/music/Everything+Everything/_/Distant+Past)
 * [Phantogram — Black Out Days - Future Islands Remix](https://www.last.fm/music/Phantogram/_/Black+Out+Days+-+Future+Islands+Remix)
-* [Lennon Stella — Kissing Other People](https://www.last.fm/music/Lennon+Stella/_/Kissing+Other+People)
-* [Sara Kays — Remember That Night?](https://www.last.fm/music/Sara+Kays/_/Remember+That+Night%3F)
-* [Her's — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)
-* [The Neighbourhood — Stargazing](https://www.last.fm/music/The+Neighbourhood/_/Stargazing)<!-- LASTFM:END -->
+* [Lennon Stella — Kissing Other People](https://www.last.fm/music/Lennon+Stella/_/Kissing+Other+People)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
