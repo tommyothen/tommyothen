@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Whethan — When I'm Down](https://www.last.fm/music/Whethan/_/When+I%27m+Down)
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Backstreet Boys — I Want It That Way](https://www.last.fm/music/Backstreet+Boys/_/I+Want+It+That+Way)
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)<!-- LASTFM:END -->
+* [Ben Beal — PERCH](https://www.last.fm/music/Ben+Beal/_/PERCH)
+* [sophie meiers — Evil Presence](https://www.last.fm/music/sophie+meiers/_/Evil+Presence)
+* [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)
+* [Joji — Bitter Fuck](https://www.last.fm/music/Joji/_/Bitter+Fuck)
+* [Whethan — When I'm Down](https://www.last.fm/music/Whethan/_/When+I%27m+Down)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
