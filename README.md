@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Neighbourhood — Sweater Weather - Young Saab Remix](https://www.last.fm/music/The+Neighbourhood/_/Sweater+Weather+-+Young+Saab+Remix)
+* [Taylor Swift — the lakes - bonus track](https://www.last.fm/music/Taylor+Swift/_/the+lakes+-+bonus+track)
+* [K.Flay — High Enough - RAC Remix](https://www.last.fm/music/K.Flay/_/High+Enough+-+RAC+Remix)
 * [Taylor Swift — right where you left me - bonus track](https://www.last.fm/music/Taylor+Swift/_/right+where+you+left+me+-+bonus+track)
-* [Labrinth — All For Us - from the HBO Original Series Euphoria](https://www.last.fm/music/Labrinth/_/All+For+Us+-+from+the+HBO+Original+Series+Euphoria)
-* [Everything Everything — Distant Past](https://www.last.fm/music/Everything+Everything/_/Distant+Past)
-* [Phantogram — Black Out Days - Future Islands Remix](https://www.last.fm/music/Phantogram/_/Black+Out+Days+-+Future+Islands+Remix)
-* [Lennon Stella — Kissing Other People](https://www.last.fm/music/Lennon+Stella/_/Kissing+Other+People)<!-- LASTFM:END -->
+* [Labrinth — All For Us - from the HBO Original Series Euphoria](https://www.last.fm/music/Labrinth/_/All+For+Us+-+from+the+HBO+Original+Series+Euphoria)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
