@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
+* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
 * [Labrinth — Earthquake (feat. Tinie Tempah)](https://www.last.fm/music/Labrinth/_/Earthquake+(feat.+Tinie+Tempah))
 * [The Midnight — Days of Thunder](https://www.last.fm/music/The+Midnight/_/Days+of+Thunder)
-* [Surf Curse — Freaks](https://www.last.fm/music/Surf+Curse/_/Freaks)
-* [Niki — Sugarplum Elegy](https://www.last.fm/music/Niki/_/Sugarplum+Elegy)
-* [D-Real [愛] — Always You](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Always+You)<!-- LASTFM:END -->
+* [Surf Curse — Freaks](https://www.last.fm/music/Surf+Curse/_/Freaks)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
