@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lennon Stella — Kissing Other People](https://www.last.fm/music/Lennon+Stella/_/Kissing+Other+People)
+* [Sara Kays — Remember That Night?](https://www.last.fm/music/Sara+Kays/_/Remember+That+Night%3F)
 * [Her's — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)
 * [The Neighbourhood — Stargazing](https://www.last.fm/music/The+Neighbourhood/_/Stargazing)
-* [Metric — Black Sheep - Brie Larson Vocal Version](https://www.last.fm/music/Metric/_/Black+Sheep+-+Brie+Larson+Vocal+Version)
-* [The Courteeners — Not Nineteen Forever](https://www.last.fm/music/The+Courteeners/_/Not+Nineteen+Forever)
-* [Griff — Black Hole](https://www.last.fm/music/Griff/_/Black+Hole)<!-- LASTFM:END -->
+* [Metric — Black Sheep - Brie Larson Vocal Version](https://www.last.fm/music/Metric/_/Black+Sheep+-+Brie+Larson+Vocal+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
