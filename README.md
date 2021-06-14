@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sebastian Paul — TROJAN HORSE](https://www.last.fm/music/Sebastian+Paul/_/TROJAN+HORSE)
-* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)
-* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)
-* [TWICE — FAKE & TRUE](https://www.last.fm/music/TWICE/_/FAKE+&+TRUE)
-* [TeddyLoid — Me!Me!Me!, Pt. 2](https://www.last.fm/music/TeddyLoid/_/Me!Me!Me!,+Pt.+2)<!-- LASTFM:END -->
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
+* [Kuwago — Let's start](https://www.last.fm/music/Kuwago/_/Let%27s+start)
+* [Hyper Potions — Maboroshi](https://www.last.fm/music/Hyper+Potions/_/Maboroshi)
+* [Pham — Movements (feat. Yung Fusion)](https://www.last.fm/music/Pham/_/Movements+(feat.+Yung+Fusion))
+* [Sebastian Paul — TROJAN HORSE](https://www.last.fm/music/Sebastian+Paul/_/TROJAN+HORSE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
