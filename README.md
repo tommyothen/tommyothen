@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)
-* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [Rainych — Say So - Japanese Version](https://www.last.fm/music/Rainych/_/Say+So+-+Japanese+Version)
-* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)<!-- LASTFM:END -->
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
+* [Engelwood — Immaculate Taste](https://www.last.fm/music/Engelwood/_/Immaculate+Taste)
+* [Moxas — Kaioken X20 Flow](https://www.last.fm/music/Moxas/_/Kaioken+X20+Flow)
+* [Home — We're Finally Landing](https://www.last.fm/music/Home/_/We%27re+Finally+Landing)
+* [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
