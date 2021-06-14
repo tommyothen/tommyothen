@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shoffy — I Can't Help](https://www.last.fm/music/Shoffy/_/I+Can%27t+Help)
+* [Sullivan King — Don't Care](https://www.last.fm/music/Sullivan+King/_/Don%27t+Care)
 * [CHUNG HA — Stay Tonight](https://www.last.fm/music/CHUNG+HA/_/Stay+Tonight)
 * [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
-* [Guardin — demons in my orbit](https://www.last.fm/music/Guardin/_/demons+in+my+orbit)
-* [Elohim — Sensations - Whethan Remix](https://www.last.fm/music/Elohim/_/Sensations+-+Whethan+Remix)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
+* [Guardin — demons in my orbit](https://www.last.fm/music/Guardin/_/demons+in+my+orbit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
