@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [boy pablo — Feeling Lonely](https://www.last.fm/music/boy+pablo/_/Feeling+Lonely)
-* [Noel — LOOPHOLE](https://www.last.fm/music/Noel/_/LOOPHOLE)
-* [demxntia — why do i try](https://www.last.fm/music/demxntia/_/why+do+i+try)
-* [zach farache — lets just stay here](https://www.last.fm/music/zach+farache/_/lets+just+stay+here)
-* [knowmadic — spliff](https://www.last.fm/music/knowmadic/_/spliff)<!-- LASTFM:END -->
+* [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)
+* [Rav — And That's Me](https://www.last.fm/music/Rav/_/And+That%27s+Me)
+* [Rich Brian — Occupied](https://www.last.fm/music/Rich+Brian/_/Occupied)
+* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
+* [boy pablo — Feeling Lonely](https://www.last.fm/music/boy+pablo/_/Feeling+Lonely)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
