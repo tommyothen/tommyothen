@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Yellow (feat. Bekon)](https://www.last.fm/music/Rich+Brian/_/Yellow+(feat.+Bekon))
+* [Daniel Caesar — Violet](https://www.last.fm/music/Daniel+Caesar/_/Violet)
 * [UMI — Butterfly](https://www.last.fm/music/UMI/_/Butterfly)
 * [Drake — Dreams Money Can Buy](https://www.last.fm/music/Drake/_/Dreams+Money+Can+Buy)
-* [Sabrina Claudio — Frozen](https://www.last.fm/music/Sabrina+Claudio/_/Frozen)
-* [Bravo — When You're Gone](https://www.last.fm/music/Bravo/_/When+You%27re+Gone)
-* [Post Malone — Circles](https://www.last.fm/music/Post+Malone/_/Circles)<!-- LASTFM:END -->
+* [Sabrina Claudio — Frozen](https://www.last.fm/music/Sabrina+Claudio/_/Frozen)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
