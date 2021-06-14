@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [blackbear — Short Kings Anthem](https://www.last.fm/music/blackbear/_/Short+Kings+Anthem)
-* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)
-* [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)
-* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
-* [Shoffy — I Can't Help](https://www.last.fm/music/Shoffy/_/I+Can%27t+Help)<!-- LASTFM:END -->
+* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
+* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
+* [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)
+* [Billie Eilish — my strange addiction](https://www.last.fm/music/Billie+Eilish/_/my+strange+addiction)
+* [blackbear — Short Kings Anthem](https://www.last.fm/music/blackbear/_/Short+Kings+Anthem)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
