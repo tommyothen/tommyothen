@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TeddyLoid — Me!Me!Me!, Pt. 2](https://www.last.fm/music/TeddyLoid/_/Me!Me!Me!,+Pt.+2)
+* [Ark Patrol — Let Go](https://www.last.fm/music/Ark+Patrol/_/Let+Go)
 * [Guardin — i think you're really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)
 * [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)
-* [Bad Meets Evil — Lighters](https://www.last.fm/music/Bad+Meets+Evil/_/Lighters)
-* [Rich Brian — Yellow (feat. Bekon)](https://www.last.fm/music/Rich+Brian/_/Yellow+(feat.+Bekon))
-* [Daniel Caesar — Violet](https://www.last.fm/music/Daniel+Caesar/_/Violet)<!-- LASTFM:END -->
+* [Bad Meets Evil — Lighters](https://www.last.fm/music/Bad+Meets+Evil/_/Lighters)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
