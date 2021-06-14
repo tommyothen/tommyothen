@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [knowmadic — spliff](https://www.last.fm/music/knowmadic/_/spliff)
-* [rei brown — Landing On Mars](https://www.last.fm/music/rei+brown/_/Landing+On+Mars)
-* [Billie Eilish — when the party's over](https://www.last.fm/music/Billie+Eilish/_/when+the+party%27s+over)
-* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)
-* [FREEL — Чорний Дим](https://www.last.fm/music/FREEL/_/%D0%A7%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+%D0%94%D0%B8%D0%BC)<!-- LASTFM:END -->
+* [boy pablo — Feeling Lonely](https://www.last.fm/music/boy+pablo/_/Feeling+Lonely)
+* [Noel — LOOPHOLE](https://www.last.fm/music/Noel/_/LOOPHOLE)
+* [demxntia — why do i try](https://www.last.fm/music/demxntia/_/why+do+i+try)
+* [zach farache — lets just stay here](https://www.last.fm/music/zach+farache/_/lets+just+stay+here)
+* [knowmadic — spliff](https://www.last.fm/music/knowmadic/_/spliff)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
