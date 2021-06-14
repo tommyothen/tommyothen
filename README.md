@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
 * [Anamanaguchi — Miku - Japanese Version](https://www.last.fm/music/Anamanaguchi/_/Miku+-+Japanese+Version)
 * [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
 * [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
-* [Hobo Johnson — Peach Scone](https://www.last.fm/music/Hobo+Johnson/_/Peach+Scone)
-* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)<!-- LASTFM:END -->
+* [Hobo Johnson — Peach Scone](https://www.last.fm/music/Hobo+Johnson/_/Peach+Scone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
