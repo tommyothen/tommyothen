@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)
+* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
 * [Rainych — Say So - Japanese Version](https://www.last.fm/music/Rainych/_/Say+So+-+Japanese+Version)
-* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
-* [Tyler, The Creator — I THINK](https://www.last.fm/music/Tyler,+The+Creator/_/I+THINK)
-* [PINK GUY — Fried Noodles (Getter Remix)](https://www.last.fm/music/PINK+GUY/_/Fried+Noodles+(Getter+Remix))
-* [Tiny Meat Gang — Super Xan](https://www.last.fm/music/Tiny+Meat+Gang/_/Super+Xan)<!-- LASTFM:END -->
+* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
