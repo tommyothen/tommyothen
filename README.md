@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Guardin — i think you're really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)
+* [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)
+* [Bad Meets Evil — Lighters](https://www.last.fm/music/Bad+Meets+Evil/_/Lighters)
 * [Rich Brian — Yellow (feat. Bekon)](https://www.last.fm/music/Rich+Brian/_/Yellow+(feat.+Bekon))
-* [Daniel Caesar — Violet](https://www.last.fm/music/Daniel+Caesar/_/Violet)
-* [UMI — Butterfly](https://www.last.fm/music/UMI/_/Butterfly)
-* [Drake — Dreams Money Can Buy](https://www.last.fm/music/Drake/_/Dreams+Money+Can+Buy)
-* [Sabrina Claudio — Frozen](https://www.last.fm/music/Sabrina+Claudio/_/Frozen)<!-- LASTFM:END -->
+* [Daniel Caesar — Violet](https://www.last.fm/music/Daniel+Caesar/_/Violet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
