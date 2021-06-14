@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FREEL — Чорний Дим](https://www.last.fm/music/FREEL/_/%D0%A7%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+%D0%94%D0%B8%D0%BC)
 * [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
 * [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
 * [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)
-* [Billie Eilish — my strange addiction](https://www.last.fm/music/Billie+Eilish/_/my+strange+addiction)
-* [blackbear — Short Kings Anthem](https://www.last.fm/music/blackbear/_/Short+Kings+Anthem)<!-- LASTFM:END -->
+* [Billie Eilish — my strange addiction](https://www.last.fm/music/Billie+Eilish/_/my+strange+addiction)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
