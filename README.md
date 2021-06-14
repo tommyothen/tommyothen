@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Justin Stone — Bite My Tongue](https://www.last.fm/music/Justin+Stone/_/Bite+My+Tongue)
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
 * [DAOKO — さみしいかみさま](https://www.last.fm/music/DAOKO/_/%E3%81%95%E3%81%BF%E3%81%97%E3%81%84%E3%81%8B%E3%81%BF%E3%81%95%E3%81%BE)
 * [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
-* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
-* [Akintoye — Off My Back](https://www.last.fm/music/Akintoye/_/Off+My+Back)<!-- LASTFM:END -->
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
