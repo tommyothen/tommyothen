@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
+* [D-Real [愛] — Until Next Time...](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Until+Next+Time...)
 * [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
 * [Lykke Li — sex money feelings die - slowed version](https://www.last.fm/music/Lykke+Li/_/sex+money+feelings+die+-+slowed+version)
-* [Crystal Castles — Char](https://www.last.fm/music/Crystal+Castles/_/Char)
-* [Fleetwood Mac — Go Your Own Way - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Go+Your+Own+Way+-+2004+Remaster)
-* [Big Data — Dangerous (feat. Joywave) - Oliver Remix](https://www.last.fm/music/Big+Data/_/Dangerous+(feat.+Joywave)+-+Oliver+Remix)<!-- LASTFM:END -->
+* [Crystal Castles — Char](https://www.last.fm/music/Crystal+Castles/_/Char)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
