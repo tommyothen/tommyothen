@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Moe Shop — Natural](https://www.last.fm/music/Moe+Shop/_/Natural)
+* [Tima Belorusskih — Незабудка](https://www.last.fm/music/Tima+Belorusskih/_/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B1%D1%83%D0%B4%D0%BA%D0%B0)
+* [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)
 * [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)
-* [Rav — And That's Me](https://www.last.fm/music/Rav/_/And+That%27s+Me)
-* [Rich Brian — Occupied](https://www.last.fm/music/Rich+Brian/_/Occupied)
-* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
-* [boy pablo — Feeling Lonely](https://www.last.fm/music/boy+pablo/_/Feeling+Lonely)<!-- LASTFM:END -->
+* [Rav — And That's Me](https://www.last.fm/music/Rav/_/And+That%27s+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
