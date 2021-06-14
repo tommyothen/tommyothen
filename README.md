@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Akintoye — Off My Back](https://www.last.fm/music/Akintoye/_/Off+My+Back)
+* [Flux Pavilion — Pull The Trigger - Maduk Remix](https://www.last.fm/music/Flux+Pavilion/_/Pull+The+Trigger+-+Maduk+Remix)
+* [YUC'e — Sunset Tea Cup](https://www.last.fm/music/YUC%27e/_/Sunset+Tea+Cup)
 * [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
-* [Kuwago — Let's start](https://www.last.fm/music/Kuwago/_/Let%27s+start)
-* [Hyper Potions — Maboroshi](https://www.last.fm/music/Hyper+Potions/_/Maboroshi)
-* [Pham — Movements (feat. Yung Fusion)](https://www.last.fm/music/Pham/_/Movements+(feat.+Yung+Fusion))
-* [Sebastian Paul — TROJAN HORSE](https://www.last.fm/music/Sebastian+Paul/_/TROJAN+HORSE)<!-- LASTFM:END -->
+* [Kuwago — Let's start](https://www.last.fm/music/Kuwago/_/Let%27s+start)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
