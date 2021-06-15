@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))
-* [Sweater Beats — Take Me To Eterna](https://www.last.fm/music/Sweater+Beats/_/Take+Me+To+Eterna)
-* [Elohim — Uglykid (feat. Elohim)](https://www.last.fm/music/Elohim/_/Uglykid+(feat.+Elohim))
-* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
-* [DROELOE — Sunburn](https://www.last.fm/music/DROELOE/_/Sunburn)<!-- LASTFM:END -->
+* [Diplo — Color Blind](https://www.last.fm/music/Diplo/_/Color+Blind)
+* [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
+* [Clarx — Voodoo People](https://www.last.fm/music/Clarx/_/Voodoo+People)
+* [The Neighbourhood — Cry Baby](https://www.last.fm/music/The+Neighbourhood/_/Cry+Baby)
+* [Solace — Silver Spoons](https://www.last.fm/music/Solace/_/Silver+Spoons)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
