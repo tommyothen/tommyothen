@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Airospace — Sunshine Eternl_we're Better As Friends](https://www.last.fm/music/Airospace/_/Sunshine+Eternl_we%27re+Better+As+Friends)
 * [JERHELL — Ice Cream -](https://www.last.fm/music/JERHELL/_/Ice+Cream+-)
 * [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)
 * [Younger Hunger — Dead Inside](https://www.last.fm/music/Younger+Hunger/_/Dead+Inside)
-* [REOL — drop pop candy (feat. ギガ)](https://www.last.fm/music/REOL/_/drop+pop+candy+(feat.+%E3%82%AE%E3%82%AC))
-* [Fein — Culling](https://www.last.fm/music/Fein/_/Culling)<!-- LASTFM:END -->
+* [REOL — drop pop candy (feat. ギガ)](https://www.last.fm/music/REOL/_/drop+pop+candy+(feat.+%E3%82%AE%E3%82%AC))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
