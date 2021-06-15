@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Courier Club — Soapbox Sunday](https://www.last.fm/music/Courier+Club/_/Soapbox+Sunday)
+* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
+* [The Seafloor Cinema — Find Yourself](https://www.last.fm/music/The+Seafloor+Cinema/_/Find+Yourself)
 * [Ofrin — Mythologica](https://www.last.fm/music/Ofrin/_/Mythologica)
-* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
-* [eyeamki — Great! Big! Party!](https://www.last.fm/music/eyeamki/_/Great!+Big!+Party!)
-* [KUURO — She's Got a Gun](https://www.last.fm/music/KUURO/_/She%27s+Got+a+Gun)
-* [Kesh Kesh — Just Drank Some Bleach](https://www.last.fm/music/Kesh+Kesh/_/Just+Drank+Some+Bleach)<!-- LASTFM:END -->
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
