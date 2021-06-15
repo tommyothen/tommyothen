@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)
 * [PRINCESSBRI — Chaos](https://www.last.fm/music/PRINCESSBRI/_/Chaos)
 * [Value Select — Hit me with your car](https://www.last.fm/music/Value+Select/_/Hit+me+with+your+car)
 * [Andrew Huang — Sparkle Mountain](https://www.last.fm/music/Andrew+Huang/_/Sparkle+Mountain)
-* [Semiset — Space](https://www.last.fm/music/Semiset/_/Space)
-* [Courier Club — Soapbox Sunday](https://www.last.fm/music/Courier+Club/_/Soapbox+Sunday)<!-- LASTFM:END -->
+* [Semiset — Space](https://www.last.fm/music/Semiset/_/Space)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
