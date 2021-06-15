@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jorja Smith — On My Mind (Jorja Smith X Preditah)](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+(Jorja+Smith+X+Preditah))
+* [Hermitude — The Buzz (feat. Mataya & Young Tapz)](https://www.last.fm/music/Hermitude/_/The+Buzz+(feat.+Mataya+&+Young+Tapz))
 * [Diplo — Color Blind](https://www.last.fm/music/Diplo/_/Color+Blind)
 * [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
-* [Clarx — Voodoo People](https://www.last.fm/music/Clarx/_/Voodoo+People)
-* [The Neighbourhood — Cry Baby](https://www.last.fm/music/The+Neighbourhood/_/Cry+Baby)
-* [Solace — Silver Spoons](https://www.last.fm/music/Solace/_/Silver+Spoons)<!-- LASTFM:END -->
+* [Clarx — Voodoo People](https://www.last.fm/music/Clarx/_/Voodoo+People)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
