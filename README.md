@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
 * [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
 * [Poppy — Dark Dark World](https://www.last.fm/music/Poppy/_/Dark+Dark+World)
 * [Poppy — Breeders](https://www.last.fm/music/Poppy/_/Breeders)
-* [Poppy — CUE](https://www.last.fm/music/Poppy/_/CUE)
-* [Poppy — Say Cheese](https://www.last.fm/music/Poppy/_/Say+Cheese)<!-- LASTFM:END -->
+* [Poppy — CUE](https://www.last.fm/music/Poppy/_/CUE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
