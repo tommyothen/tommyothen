@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
+* [Poppy — Anything Like Me](https://www.last.fm/music/Poppy/_/Anything+Like+Me)
 * [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
 * [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Poppy — Concrete](https://www.last.fm/music/Poppy/_/Concrete)
-* [Poppy — Concrete](https://www.last.fm/music/Poppy/_/Concrete)
-* [Poppy — X](https://www.last.fm/music/Poppy/_/X)<!-- LASTFM:END -->
+* [Poppy — Concrete](https://www.last.fm/music/Poppy/_/Concrete)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
