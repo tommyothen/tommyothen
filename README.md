@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ofrin — Mythologica](https://www.last.fm/music/Ofrin/_/Mythologica)
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
+* [eyeamki — Great! Big! Party!](https://www.last.fm/music/eyeamki/_/Great!+Big!+Party!)
 * [KUURO — She's Got a Gun](https://www.last.fm/music/KUURO/_/She%27s+Got+a+Gun)
-* [Kesh Kesh — Just Drank Some Bleach](https://www.last.fm/music/Kesh+Kesh/_/Just+Drank+Some+Bleach)
-* [satomoka — melt bitter](https://www.last.fm/music/satomoka/_/melt+bitter)
-* [OSQUELLO — Piece of Shit](https://www.last.fm/music/OSQUELLO/_/Piece+of+Shit)
-* [Chills — Stuck at Home](https://www.last.fm/music/Chills/_/Stuck+at+Home)<!-- LASTFM:END -->
+* [Kesh Kesh — Just Drank Some Bleach](https://www.last.fm/music/Kesh+Kesh/_/Just+Drank+Some+Bleach)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
