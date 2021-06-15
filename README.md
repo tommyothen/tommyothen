@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rain Man — Habit - T-Mass Remix](https://www.last.fm/music/Rain+Man/_/Habit+-+T-Mass+Remix)
+* [KUURO — Afraid of the Dark](https://www.last.fm/music/KUURO/_/Afraid+of+the+Dark)
+* [luvbird — Dawn Amble](https://www.last.fm/music/luvbird/_/Dawn+Amble)
 * [Home — Resonance](https://www.last.fm/music/Home/_/Resonance)
-* [Varien — Mirai Sekai - Continuous Mix](https://www.last.fm/music/Varien/_/Mirai+Sekai+-+Continuous+Mix)
-* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
-* [Anamanaguchi — Miku - Japanese Version](https://www.last.fm/music/Anamanaguchi/_/Miku+-+Japanese+Version)
-* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)<!-- LASTFM:END -->
+* [Varien — Mirai Sekai - Continuous Mix](https://www.last.fm/music/Varien/_/Mirai+Sekai+-+Continuous+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
