@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [Poppy — Dark Dark World](https://www.last.fm/music/Poppy/_/Dark+Dark+World)
+* [Poppy — Breeders](https://www.last.fm/music/Poppy/_/Breeders)
 * [Poppy — CUE](https://www.last.fm/music/Poppy/_/CUE)
-* [Poppy — Say Cheese](https://www.last.fm/music/Poppy/_/Say+Cheese)
-* [Poppy — EAT](https://www.last.fm/music/Poppy/_/EAT)
-* [Poppy — Scream](https://www.last.fm/music/Poppy/_/Scream)
-* [Poppy — Don't Ask](https://www.last.fm/music/Poppy/_/Don%27t+Ask)<!-- LASTFM:END -->
+* [Poppy — Say Cheese](https://www.last.fm/music/Poppy/_/Say+Cheese)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
