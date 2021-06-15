@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jorja Smith — On My Mind (Jorja Smith X Preditah)](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+(Jorja+Smith+X+Preditah))
-* [Hermitude — The Buzz (feat. Mataya & Young Tapz)](https://www.last.fm/music/Hermitude/_/The+Buzz+(feat.+Mataya+&+Young+Tapz))
-* [Diplo — Color Blind](https://www.last.fm/music/Diplo/_/Color+Blind)
-* [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
-* [Clarx — Voodoo People](https://www.last.fm/music/Clarx/_/Voodoo+People)<!-- LASTFM:END -->
+* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
+* [Feduk — Канифоль (feat. Nokanifol)](https://www.last.fm/music/Feduk/_/%D0%9A%D0%B0%D0%BD%D0%B8%D1%84%D0%BE%D0%BB%D1%8C+(feat.+Nokanifol))
+* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
+* [Saib — Snow](https://www.last.fm/music/Saib/_/Snow)
+* [Jorja Smith — On My Mind (Jorja Smith X Preditah)](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+(Jorja+Smith+X+Preditah))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
