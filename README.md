@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Chills — Stuck at Home](https://www.last.fm/music/Chills/_/Stuck+at+Home)
-* [LOOΠΔ / ODD EYE CIRCLE — LOONATIC - Eng. Ver.](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/LOONATIC+-+Eng.+Ver.)
-* [Charlie Burg — Avalanche](https://www.last.fm/music/Charlie+Burg/_/Avalanche)
-* [The Happy Children — Bubblegum](https://www.last.fm/music/The+Happy+Children/_/Bubblegum)
-* [Matt Watson — Come Over](https://www.last.fm/music/Matt+Watson/_/Come+Over)<!-- LASTFM:END -->
+* [KUURO — She's Got a Gun](https://www.last.fm/music/KUURO/_/She%27s+Got+a+Gun)
+* [Kesh Kesh — Just Drank Some Bleach](https://www.last.fm/music/Kesh+Kesh/_/Just+Drank+Some+Bleach)
+* [satomoka — melt bitter](https://www.last.fm/music/satomoka/_/melt+bitter)
+* [OSQUELLO — Piece of Shit](https://www.last.fm/music/OSQUELLO/_/Piece+of+Shit)
+* [Chills — Stuck at Home](https://www.last.fm/music/Chills/_/Stuck+at+Home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
