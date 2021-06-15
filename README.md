@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
 * [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)
 * [PRINCESSBRI — Chaos](https://www.last.fm/music/PRINCESSBRI/_/Chaos)
-* [Value Select — Hit me with your car](https://www.last.fm/music/Value+Select/_/Hit+me+with+your+car)
-* [Andrew Huang — Sparkle Mountain](https://www.last.fm/music/Andrew+Huang/_/Sparkle+Mountain)
-* [Semiset — Space](https://www.last.fm/music/Semiset/_/Space)<!-- LASTFM:END -->
+* [Value Select — Hit me with your car](https://www.last.fm/music/Value+Select/_/Hit+me+with+your+car)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
