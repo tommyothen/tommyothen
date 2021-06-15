@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Airospace — Sunshine Eternl_we're Better As Friends](https://www.last.fm/music/Airospace/_/Sunshine+Eternl_we%27re+Better+As+Friends)
-* [JERHELL — Ice Cream -](https://www.last.fm/music/JERHELL/_/Ice+Cream+-)
-* [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)
-* [Younger Hunger — Dead Inside](https://www.last.fm/music/Younger+Hunger/_/Dead+Inside)
-* [REOL — drop pop candy (feat. ギガ)](https://www.last.fm/music/REOL/_/drop+pop+candy+(feat.+%E3%82%AE%E3%82%AC))<!-- LASTFM:END -->
+* [Chills — Stuck at Home](https://www.last.fm/music/Chills/_/Stuck+at+Home)
+* [LOOΠΔ / ODD EYE CIRCLE — LOONATIC - Eng. Ver.](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/LOONATIC+-+Eng.+Ver.)
+* [Charlie Burg — Avalanche](https://www.last.fm/music/Charlie+Burg/_/Avalanche)
+* [The Happy Children — Bubblegum](https://www.last.fm/music/The+Happy+Children/_/Bubblegum)
+* [Matt Watson — Come Over](https://www.last.fm/music/Matt+Watson/_/Come+Over)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
