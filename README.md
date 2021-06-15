@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rain Man — Habit - T-Mass Remix](https://www.last.fm/music/Rain+Man/_/Habit+-+T-Mass+Remix)
-* [KUURO — Afraid of the Dark](https://www.last.fm/music/KUURO/_/Afraid+of+the+Dark)
-* [luvbird — Dawn Amble](https://www.last.fm/music/luvbird/_/Dawn+Amble)
-* [Home — Resonance](https://www.last.fm/music/Home/_/Resonance)
-* [Varien — Mirai Sekai - Continuous Mix](https://www.last.fm/music/Varien/_/Mirai+Sekai+-+Continuous+Mix)<!-- LASTFM:END -->
+* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))
+* [Sweater Beats — Take Me To Eterna](https://www.last.fm/music/Sweater+Beats/_/Take+Me+To+Eterna)
+* [Elohim — Uglykid (feat. Elohim)](https://www.last.fm/music/Elohim/_/Uglykid+(feat.+Elohim))
+* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
+* [DROELOE — Sunburn](https://www.last.fm/music/DROELOE/_/Sunburn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
