@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)
+* [Poppy — Don't Ask](https://www.last.fm/music/Poppy/_/Don%27t+Ask)
+* [Poppy — Khaos x4](https://www.last.fm/music/Poppy/_/Khaos+x4)
 * [Poppy — Bleep Bloop](https://www.last.fm/music/Poppy/_/Bleep+Bloop)
-* [Poppy — If It Bleeds](https://www.last.fm/music/Poppy/_/If+It+Bleeds)
-* [Poppy — Don't Go Outside](https://www.last.fm/music/Poppy/_/Don%27t+Go+Outside)
-* [Poppy — Sick of the Sun](https://www.last.fm/music/Poppy/_/Sick+of+the+Sun)
-* [Poppy — Bite Your Teeth](https://www.last.fm/music/Poppy/_/Bite+Your+Teeth)<!-- LASTFM:END -->
+* [Poppy — If It Bleeds](https://www.last.fm/music/Poppy/_/If+It+Bleeds)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
