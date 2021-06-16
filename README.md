@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
 * [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)
-* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
-* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
-* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)<!-- LASTFM:END -->
+* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
