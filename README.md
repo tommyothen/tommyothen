@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)
-* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
-* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
-* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))<!-- LASTFM:END -->
+* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
+* [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
