@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
+* [Au/Ra — Ghost](https://www.last.fm/music/Au%2FRa/_/Ghost)
+* [sub urban — Freak (feat. REI AMI)](https://www.last.fm/music/sub+urban/_/Freak+(feat.+REI+AMI))
 * [Au/Ra — Panic Room](https://www.last.fm/music/Au%2FRa/_/Panic+Room)
-* [XYLØ — yes & no](https://www.last.fm/music/XYL%C3%98/_/yes+&+no)
-* [Call Me Karizma — Rebels](https://www.last.fm/music/Call+Me+Karizma/_/Rebels)
-* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
-* [Unlike Pluto — Revenge, And a Little More](https://www.last.fm/music/Unlike+Pluto/_/Revenge,+And+a+Little+More)<!-- LASTFM:END -->
+* [XYLØ — yes & no](https://www.last.fm/music/XYL%C3%98/_/yes+&+no)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
