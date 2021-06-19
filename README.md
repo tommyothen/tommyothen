@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XYLØ — ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)
-* [Ashnikko — Daisy](https://www.last.fm/music/Ashnikko/_/Daisy)
-* [Royal & the Serpent — Weddings & Funerals](https://www.last.fm/music/Royal+&+the+Serpent/_/Weddings+&+Funerals)
-* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
-* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))<!-- LASTFM:END -->
+* [Au/Ra — Panic Room](https://www.last.fm/music/Au%2FRa/_/Panic+Room)
+* [XYLØ — yes & no](https://www.last.fm/music/XYL%C3%98/_/yes+&+no)
+* [Call Me Karizma — Rebels](https://www.last.fm/music/Call+Me+Karizma/_/Rebels)
+* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
+* [Unlike Pluto — Revenge, And a Little More](https://www.last.fm/music/Unlike+Pluto/_/Revenge,+And+a+Little+More)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
