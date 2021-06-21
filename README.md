@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
+* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
 * [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
 * [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)<!-- LASTFM:END -->
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
