@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kim Petras — Personal Hell](https://www.last.fm/music/Kim+Petras/_/Personal+Hell)
-* [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)
-* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
-* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
-* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)<!-- LASTFM:END -->
+* [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)
+* [XYLØ — yes & no](https://www.last.fm/music/XYL%C3%98/_/yes+&+no)
+* [Royal & the Serpent — i can't get high](https://www.last.fm/music/Royal+&+the+Serpent/_/i+can%27t+get+high)
+* [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)
+* [Kim Petras — Personal Hell](https://www.last.fm/music/Kim+Petras/_/Personal+Hell)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
