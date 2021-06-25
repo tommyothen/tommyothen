@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Evil Exes — Black Sheep (From Scott Pilgrim vs. The World)](https://www.last.fm/music/The+Evil+Exes/_/Black+Sheep+(From+Scott+Pilgrim+vs.+The+World))
 * [Poppy — X](https://www.last.fm/music/Poppy/_/X)
 * [Allie X — Susie Save Your Love](https://www.last.fm/music/Allie+X/_/Susie+Save+Your+Love)
 * [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
-* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
-* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)<!-- LASTFM:END -->
+* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
