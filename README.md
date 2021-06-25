@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [XYLØ — yes & no](https://www.last.fm/music/XYL%C3%98/_/yes+&+no)
-* [XYLØ — yes & no](https://www.last.fm/music/XYL%C3%98/_/yes+&+no)<!-- LASTFM:END -->
+* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
+* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
