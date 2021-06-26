@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
+* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
 * [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
 * [Rich Brian — The Sailor](https://www.last.fm/music/Rich+Brian/_/The+Sailor)
-* [William Bolton — Dream at Night](https://www.last.fm/music/William+Bolton/_/Dream+at+Night)
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
-* [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)<!-- LASTFM:END -->
+* [William Bolton — Dream at Night](https://www.last.fm/music/William+Bolton/_/Dream+at+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
