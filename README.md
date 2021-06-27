@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [DJ Khalil — Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)](https://www.last.fm/music/DJ+Khalil/_/Elevate+(feat.+Denzel+Curry,+YBN+Cordae,+SwaVay,+Trevor+Rich))
-* [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)
-* [Jakey — Not Dead Yet](https://www.last.fm/music/Jakey/_/Not+Dead+Yet)
-* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
-* [knowmadic — spliff](https://www.last.fm/music/knowmadic/_/spliff)<!-- LASTFM:END -->
+* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
+* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)
+* [Khary — Jolly Roger](https://www.last.fm/music/Khary/_/Jolly+Roger)
+* [Rich Brian — No Worries](https://www.last.fm/music/Rich+Brian/_/No+Worries)
+* [DJ Khalil — Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)](https://www.last.fm/music/DJ+Khalil/_/Elevate+(feat.+Denzel+Curry,+YBN+Cordae,+SwaVay,+Trevor+Rich))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
