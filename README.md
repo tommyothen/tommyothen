@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grandson — Best Friends](https://www.last.fm/music/Grandson/_/Best+Friends)
-* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
-* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
-* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)<!-- LASTFM:END -->
+* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
+* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
+* [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
+* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
+* [Grandson — Best Friends](https://www.last.fm/music/Grandson/_/Best+Friends)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
