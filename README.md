@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
+* [サクラSakura-Lee — lay it on me](https://www.last.fm/music/%E3%82%B5%E3%82%AF%E3%83%A9Sakura-Lee/_/lay+it+on+me)
 * [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
 * [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
-* [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
-* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
-* [Grandson — Best Friends](https://www.last.fm/music/Grandson/_/Best+Friends)<!-- LASTFM:END -->
+* [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
