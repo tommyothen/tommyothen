@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
+* [LilyPichu — Dreamy Night](https://www.last.fm/music/LilyPichu/_/Dreamy+Night)
 * [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
 * [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
-* [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
-* [サクラSakura-Lee — lay it on me](https://www.last.fm/music/%E3%82%B5%E3%82%AF%E3%83%A9Sakura-Lee/_/lay+it+on+me)
-* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)<!-- LASTFM:END -->
+* [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
