@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
+* [The Evil Exes — Black Sheep (From Scott Pilgrim vs. The World)](https://www.last.fm/music/The+Evil+Exes/_/Black+Sheep+(From+Scott+Pilgrim+vs.+The+World))
 * [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
 * [Jarv & Thief — Lady Killer](https://www.last.fm/music/Jarv+&+Thief/_/Lady+Killer)
-* [Jarv & Thief — Lady Killer](https://www.last.fm/music/Jarv+&+Thief/_/Lady+Killer)
-* [khai dreams — Find My Way](https://www.last.fm/music/khai+dreams/_/Find+My+Way)
-* [Freddie Dredd — OH DARLING](https://www.last.fm/music/Freddie+Dredd/_/OH+DARLING)<!-- LASTFM:END -->
+* [Jarv & Thief — Lady Killer](https://www.last.fm/music/Jarv+&+Thief/_/Lady+Killer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
