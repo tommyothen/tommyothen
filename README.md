@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
 * [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)
 * [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
 * [Hey Violet — O.D.D.](https://www.last.fm/music/Hey+Violet/_/O.D.D.)
-* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
-* [Hey Violet — Break My Heart](https://www.last.fm/music/Hey+Violet/_/Break+My+Heart)<!-- LASTFM:END -->
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
