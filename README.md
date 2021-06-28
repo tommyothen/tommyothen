@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
+* [Allie X — Susie Save Your Love](https://www.last.fm/music/Allie+X/_/Susie+Save+Your+Love)
 * [The Evil Exes — Black Sheep (From Scott Pilgrim vs. The World)](https://www.last.fm/music/The+Evil+Exes/_/Black+Sheep+(From+Scott+Pilgrim+vs.+The+World))
 * [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
-* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
-* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
-* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)<!-- LASTFM:END -->
+* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
