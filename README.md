@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NAKANI — MOSS](https://www.last.fm/music/NAKANI/_/MOSS)
+* [WEEDMANE — SUICIDE YEAR](https://www.last.fm/music/WEEDMANE/_/SUICIDE+YEAR)
+* [Kaito Shoma — Scary Garry](https://www.last.fm/music/Kaito+Shoma/_/Scary+Garry)
 * [PlayaPhonk — KERAUNOS](https://www.last.fm/music/PlayaPhonk/_/KERAUNOS)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)<!-- LASTFM:END -->
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
