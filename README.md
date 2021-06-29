@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
+* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
 * [NAKANI — MOSS](https://www.last.fm/music/NAKANI/_/MOSS)
 * [WEEDMANE — SUICIDE YEAR](https://www.last.fm/music/WEEDMANE/_/SUICIDE+YEAR)
-* [Kaito Shoma — Scary Garry](https://www.last.fm/music/Kaito+Shoma/_/Scary+Garry)
-* [PlayaPhonk — KERAUNOS](https://www.last.fm/music/PlayaPhonk/_/KERAUNOS)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
+* [Kaito Shoma — Scary Garry](https://www.last.fm/music/Kaito+Shoma/_/Scary+Garry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
