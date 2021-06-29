@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)
+* [Allie X — Susie Save Your Love](https://www.last.fm/music/Allie+X/_/Susie+Save+Your+Love)
 * [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
 * [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
-* [NAKANI — MOSS](https://www.last.fm/music/NAKANI/_/MOSS)
-* [WEEDMANE — SUICIDE YEAR](https://www.last.fm/music/WEEDMANE/_/SUICIDE+YEAR)
-* [Kaito Shoma — Scary Garry](https://www.last.fm/music/Kaito+Shoma/_/Scary+Garry)<!-- LASTFM:END -->
+* [NAKANI — MOSS](https://www.last.fm/music/NAKANI/_/MOSS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
