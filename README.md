@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Problems](https://www.last.fm/music/Hey+Violet/_/Problems)
+* [Hey Violet — Dear Love - Stripped](https://www.last.fm/music/Hey+Violet/_/Dear+Love+-+Stripped)
+* [Hey Violet — This Is Me Breaking Up With You](https://www.last.fm/music/Hey+Violet/_/This+Is+Me+Breaking+Up+With+You)
 * [Hey Violet — Like Lovers Do](https://www.last.fm/music/Hey+Violet/_/Like+Lovers+Do)
-* [Hey Violet — Where Have You Been (All My Night)](https://www.last.fm/music/Hey+Violet/_/Where+Have+You+Been+(All+My+Night))
-* [Hey Violet — Unholy](https://www.last.fm/music/Hey+Violet/_/Unholy)
-* [Hey Violet — Fuqboi](https://www.last.fm/music/Hey+Violet/_/Fuqboi)
-* [Hey Violet — All We Ever Wanted](https://www.last.fm/music/Hey+Violet/_/All+We+Ever+Wanted)<!-- LASTFM:END -->
+* [Hey Violet — Where Have You Been (All My Night)](https://www.last.fm/music/Hey+Violet/_/Where+Have+You+Been+(All+My+Night))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
