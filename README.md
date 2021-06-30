@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Like Lovers Do](https://www.last.fm/music/Hey+Violet/_/Like+Lovers+Do)
+* [Hey Violet — Queen Of The Night](https://www.last.fm/music/Hey+Violet/_/Queen+Of+The+Night)
+* [Hey Violet — Unholy](https://www.last.fm/music/Hey+Violet/_/Unholy)
 * [Hey Violet — Fuqboi](https://www.last.fm/music/Hey+Violet/_/Fuqboi)
-* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
-* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
-* [Hey Violet — O.D.D.](https://www.last.fm/music/Hey+Violet/_/O.D.D.)
-* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)<!-- LASTFM:END -->
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
