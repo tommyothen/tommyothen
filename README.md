@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Fuqboi](https://www.last.fm/music/Hey+Violet/_/Fuqboi)
+* [Hey Violet — All We Ever Wanted](https://www.last.fm/music/Hey+Violet/_/All+We+Ever+Wanted)
 * [Hey Violet — O.D.D.](https://www.last.fm/music/Hey+Violet/_/O.D.D.)
 * [Hey Violet — My Consequence](https://www.last.fm/music/Hey+Violet/_/My+Consequence)
-* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
-* [Hey Violet — Guys My Age](https://www.last.fm/music/Hey+Violet/_/Guys+My+Age)
-* [Hey Violet — Brand New Moves](https://www.last.fm/music/Hey+Violet/_/Brand+New+Moves)<!-- LASTFM:END -->
+* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
