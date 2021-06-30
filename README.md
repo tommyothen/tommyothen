@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
 * [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
 * [Hey Violet — Problems](https://www.last.fm/music/Hey+Violet/_/Problems)
-* [Hey Violet — Dear Love - Stripped](https://www.last.fm/music/Hey+Violet/_/Dear+Love+-+Stripped)
-* [Hey Violet — This Is Me Breaking Up With You](https://www.last.fm/music/Hey+Violet/_/This+Is+Me+Breaking+Up+With+You)
-* [Hey Violet — Like Lovers Do](https://www.last.fm/music/Hey+Violet/_/Like+Lovers+Do)<!-- LASTFM:END -->
+* [Hey Violet — Dear Love - Stripped](https://www.last.fm/music/Hey+Violet/_/Dear+Love+-+Stripped)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
