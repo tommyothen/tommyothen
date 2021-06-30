@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
+* [Hey Violet — Guys My Age](https://www.last.fm/music/Hey+Violet/_/Guys+My+Age)
 * [Hey Violet — Brand New Moves](https://www.last.fm/music/Hey+Violet/_/Brand+New+Moves)
 * [Hey Violet — Break My Heart](https://www.last.fm/music/Hey+Violet/_/Break+My+Heart)
-* [Hey Violet — Break My Heart](https://www.last.fm/music/Hey+Violet/_/Break+My+Heart)
-* [Hey Violet — Like Lovers Do](https://www.last.fm/music/Hey+Violet/_/Like+Lovers+Do)
-* [Hey Violet — Queen Of The Night](https://www.last.fm/music/Hey+Violet/_/Queen+Of+The+Night)<!-- LASTFM:END -->
+* [Hey Violet — Break My Heart](https://www.last.fm/music/Hey+Violet/_/Break+My+Heart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
