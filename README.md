@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
 * [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
-* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
-* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))<!-- LASTFM:END -->
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
+* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
