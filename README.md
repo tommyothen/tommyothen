@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
+* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
 * [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
-* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
-* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
