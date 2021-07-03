@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fliptrix — The Poltergeist](https://www.last.fm/music/Fliptrix/_/The+Poltergeist)
+* [The Four Owls — Honour Codes](https://www.last.fm/music/The+Four+Owls/_/Honour+Codes)
 * [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
 * [Mick Jenkins — Communicate](https://www.last.fm/music/Mick+Jenkins/_/Communicate)
-* [Klaxons — Golden Skans](https://www.last.fm/music/Klaxons/_/Golden+Skans)
-* [The Strokes — Someday](https://www.last.fm/music/The+Strokes/_/Someday)
-* [Modest Mouse — Float On](https://www.last.fm/music/Modest+Mouse/_/Float+On)<!-- LASTFM:END -->
+* [Klaxons — Golden Skans](https://www.last.fm/music/Klaxons/_/Golden+Skans)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
