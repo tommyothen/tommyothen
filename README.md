@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
+* [Mick Jenkins — Communicate](https://www.last.fm/music/Mick+Jenkins/_/Communicate)
 * [Klaxons — Golden Skans](https://www.last.fm/music/Klaxons/_/Golden+Skans)
 * [The Strokes — Someday](https://www.last.fm/music/The+Strokes/_/Someday)
-* [Modest Mouse — Float On](https://www.last.fm/music/Modest+Mouse/_/Float+On)
-* [Yung Gravy — Rotisserie](https://www.last.fm/music/Yung+Gravy/_/Rotisserie)
-* [Billie Eilish — Bad Guy](https://www.last.fm/music/Billie+Eilish/_/Bad+Guy)<!-- LASTFM:END -->
+* [Modest Mouse — Float On](https://www.last.fm/music/Modest+Mouse/_/Float+On)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
