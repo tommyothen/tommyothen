@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Within Destruction — Plague of Immortality 2.0](https://www.last.fm/music/Within+Destruction/_/Plague+of+Immortality+2.0)
+* [Within Destruction — YŌKAI](https://www.last.fm/music/Within+Destruction/_/Y%C5%8CKAI)
 * [RARE AKUMA — RAGING FISTS](https://www.last.fm/music/RARE+AKUMA/_/RAGING+FISTS)
 * [Ski Mask the Slump God — GONE (interlude)](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/GONE+(interlude))
-* [Ski Mask the Slump God — Catch Me Outside](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/Catch+Me+Outside)
-* [XXXTentacion — Look at Me!](https://www.last.fm/music/XXXTentacion/_/Look+at+Me!)
-* [XXXTentacion — YuNg BrAtZ](https://www.last.fm/music/XXXTentacion/_/YuNg+BrAtZ)<!-- LASTFM:END -->
+* [Ski Mask the Slump God — Catch Me Outside](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/Catch+Me+Outside)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
