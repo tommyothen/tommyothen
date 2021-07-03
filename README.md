@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
+* [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)
+* [Weezer — Blue Dream](https://www.last.fm/music/Weezer/_/Blue+Dream)
 * [Weezer — Island in the Sun](https://www.last.fm/music/Weezer/_/Island+in+the+Sun)
-* [Weezer — 1 More Hit](https://www.last.fm/music/Weezer/_/1+More+Hit)
-* [Within Destruction — Plague of Immortality 2.0](https://www.last.fm/music/Within+Destruction/_/Plague+of+Immortality+2.0)
-* [Within Destruction — YŌKAI](https://www.last.fm/music/Within+Destruction/_/Y%C5%8CKAI)
-* [RARE AKUMA — RAGING FISTS](https://www.last.fm/music/RARE+AKUMA/_/RAGING+FISTS)<!-- LASTFM:END -->
+* [Weezer — 1 More Hit](https://www.last.fm/music/Weezer/_/1+More+Hit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
