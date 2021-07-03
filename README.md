@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Klaxons — Golden Skans](https://www.last.fm/music/Klaxons/_/Golden+Skans)
+* [The Strokes — Someday](https://www.last.fm/music/The+Strokes/_/Someday)
 * [Modest Mouse — Float On](https://www.last.fm/music/Modest+Mouse/_/Float+On)
 * [Yung Gravy — Rotisserie](https://www.last.fm/music/Yung+Gravy/_/Rotisserie)
-* [Billie Eilish — Bad Guy](https://www.last.fm/music/Billie+Eilish/_/Bad+Guy)
-* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
-* [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)<!-- LASTFM:END -->
+* [Billie Eilish — Bad Guy](https://www.last.fm/music/Billie+Eilish/_/Bad+Guy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
