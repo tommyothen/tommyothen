@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Weezer — Island in the Sun](https://www.last.fm/music/Weezer/_/Island+in+the+Sun)
+* [Weezer — 1 More Hit](https://www.last.fm/music/Weezer/_/1+More+Hit)
 * [Within Destruction — Plague of Immortality 2.0](https://www.last.fm/music/Within+Destruction/_/Plague+of+Immortality+2.0)
 * [Within Destruction — YŌKAI](https://www.last.fm/music/Within+Destruction/_/Y%C5%8CKAI)
-* [RARE AKUMA — RAGING FISTS](https://www.last.fm/music/RARE+AKUMA/_/RAGING+FISTS)
-* [Ski Mask the Slump God — GONE (interlude)](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/GONE+(interlude))
-* [Ski Mask the Slump God — Catch Me Outside](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/Catch+Me+Outside)<!-- LASTFM:END -->
+* [RARE AKUMA — RAGING FISTS](https://www.last.fm/music/RARE+AKUMA/_/RAGING+FISTS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
