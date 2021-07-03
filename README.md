@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [RARE AKUMA — RAGING FISTS](https://www.last.fm/music/RARE+AKUMA/_/RAGING+FISTS)
+* [Ski Mask the Slump God — GONE (interlude)](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/GONE+(interlude))
 * [Ski Mask the Slump God — Catch Me Outside](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/Catch+Me+Outside)
 * [XXXTentacion — Look at Me!](https://www.last.fm/music/XXXTentacion/_/Look+at+Me!)
-* [XXXTentacion — YuNg BrAtZ](https://www.last.fm/music/XXXTentacion/_/YuNg+BrAtZ)
-* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)<!-- LASTFM:END -->
+* [XXXTentacion — YuNg BrAtZ](https://www.last.fm/music/XXXTentacion/_/YuNg+BrAtZ)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
