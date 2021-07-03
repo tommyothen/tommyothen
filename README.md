@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
 * [Verb T — The Morning Process](https://www.last.fm/music/Verb+T/_/The+Morning+Process)
 * [Leaf Dog — Some People Say](https://www.last.fm/music/Leaf+Dog/_/Some+People+Say)
-* [Verb T — Good Evening](https://www.last.fm/music/Verb+T/_/Good+Evening)
-* [Fliptrix — The Poltergeist](https://www.last.fm/music/Fliptrix/_/The+Poltergeist)
-* [The Four Owls — Honour Codes](https://www.last.fm/music/The+Four+Owls/_/Honour+Codes)<!-- LASTFM:END -->
+* [Verb T — Good Evening](https://www.last.fm/music/Verb+T/_/Good+Evening)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
