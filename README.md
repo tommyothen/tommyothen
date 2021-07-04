@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ieuan — Key Your Car](https://www.last.fm/music/Ieuan/_/Key+Your+Car)
+* [キタニタツヤ — Sad Girl](https://www.last.fm/music/%E3%82%AD%E3%82%BF%E3%83%8B%E3%82%BF%E3%83%84%E3%83%A4/_/Sad+Girl)
 * [Lady Gaga — Replay](https://www.last.fm/music/Lady+Gaga/_/Replay)
 * [Isaac Dunbar — comme des garçons (like the boys)](https://www.last.fm/music/Isaac+Dunbar/_/comme+des+gar%C3%A7ons+(like+the+boys))
-* [Kevin Walkman — WasteUrTime](https://www.last.fm/music/Kevin+Walkman/_/WasteUrTime)
-* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
-* [Isaac Dunbar — onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy)<!-- LASTFM:END -->
+* [Kevin Walkman — WasteUrTime](https://www.last.fm/music/Kevin+Walkman/_/WasteUrTime)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
