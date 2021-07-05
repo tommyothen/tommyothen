@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Isaac Dunbar — onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy)
+* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
 * [Infected Mushroom — Spitfire](https://www.last.fm/music/Infected+Mushroom/_/Spitfire)
 * [Isaac Dunbar — onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy)
-* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
-* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
-* [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)<!-- LASTFM:END -->
+* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
