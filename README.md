@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
+* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
 * [Isaac Dunbar — onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy)
 * [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
-* [Infected Mushroom — Spitfire](https://www.last.fm/music/Infected+Mushroom/_/Spitfire)
-* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)<!-- LASTFM:END -->
+* [Isaac Dunbar — onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
