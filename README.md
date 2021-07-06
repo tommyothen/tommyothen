@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Isaac Dunbar — comme des garçons (like the boys)](https://www.last.fm/music/Isaac+Dunbar/_/comme+des+gar%C3%A7ons+(like+the+boys))
+* [Royal & the Serpent — i can't get high](https://www.last.fm/music/Royal+&+the+Serpent/_/i+can%27t+get+high)
 * [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
 * [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
-* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
-* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)
-* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)<!-- LASTFM:END -->
+* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
