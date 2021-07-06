@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
+* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
+* [Rad Cat — Diamond (with Gloria Kim)](https://www.last.fm/music/Rad+Cat/_/Diamond+(with+Gloria+Kim))
 * [Tiffany Day — TWFNO](https://www.last.fm/music/Tiffany+Day/_/TWFNO)
-* [zheani — Lava](https://www.last.fm/music/zheani/_/Lava)
-* [Ricky Himself — SCREAM!](https://www.last.fm/music/Ricky+Himself/_/SCREAM!)
-* [Wrenn — Psychosexual](https://www.last.fm/music/Wrenn/_/Psychosexual)
-* [Lokoy — Malibu](https://www.last.fm/music/Lokoy/_/Malibu)<!-- LASTFM:END -->
+* [zheani — Lava](https://www.last.fm/music/zheani/_/Lava)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
