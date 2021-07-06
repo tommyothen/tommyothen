@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tiffany Day — TWFNO](https://www.last.fm/music/Tiffany+Day/_/TWFNO)
+* [zheani — Lava](https://www.last.fm/music/zheani/_/Lava)
+* [Ricky Himself — SCREAM!](https://www.last.fm/music/Ricky+Himself/_/SCREAM!)
 * [Wrenn — Psychosexual](https://www.last.fm/music/Wrenn/_/Psychosexual)
-* [Lokoy — Malibu](https://www.last.fm/music/Lokoy/_/Malibu)
-* [Aaron Shadrow — Her Name](https://www.last.fm/music/Aaron+Shadrow/_/Her+Name)
-* [Kira — Digital Girl](https://www.last.fm/music/Kira/_/Digital+Girl)
-* [Ieuan — Key Your Car](https://www.last.fm/music/Ieuan/_/Key+Your+Car)<!-- LASTFM:END -->
+* [Lokoy — Malibu](https://www.last.fm/music/Lokoy/_/Malibu)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
