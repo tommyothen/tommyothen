@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Isaac Dunbar — onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy)
+* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
+* [Within Destruction — YŌKAI](https://www.last.fm/music/Within+Destruction/_/Y%C5%8CKAI)
 * [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
-* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
-* [Rad Cat — Diamond (with Gloria Kim)](https://www.last.fm/music/Rad+Cat/_/Diamond+(with+Gloria+Kim))
-* [Tiffany Day — TWFNO](https://www.last.fm/music/Tiffany+Day/_/TWFNO)
-* [zheani — Lava](https://www.last.fm/music/zheani/_/Lava)<!-- LASTFM:END -->
+* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
