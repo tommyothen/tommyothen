@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Isaac Dunbar — onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy)
 * [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
-* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
 * [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
-* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)<!-- LASTFM:END -->
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
+* [Isaac Dunbar — onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
