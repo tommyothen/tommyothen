@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Isaac Dunbar — onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy)
+* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
+* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
 * [Sophie — JUST LIKE WE NEVER SAID GOODBYE](https://www.last.fm/music/Sophie/_/JUST+LIKE+WE+NEVER+SAID+GOODBYE)
-* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
-* [Charli XCX — Vroom Vroom](https://www.last.fm/music/Charli+XCX/_/Vroom+Vroom)
-* [Sweet Trip — Dsco](https://www.last.fm/music/Sweet+Trip/_/Dsco)
-* [Sweet Trip — Tekka](https://www.last.fm/music/Sweet+Trip/_/Tekka)<!-- LASTFM:END -->
+* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
