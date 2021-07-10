@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
-* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
-* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)
-* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)<!-- LASTFM:END -->
+* [Isaac Dunbar — onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy)
+* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
+* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
+* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
