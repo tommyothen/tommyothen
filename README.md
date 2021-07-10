@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
+* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
 * [Follies & Vices — Red Wine](https://www.last.fm/music/Follies+&+Vices/_/Red+Wine)
-* [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)
-* [XYLØ — yes & no](https://www.last.fm/music/XYL%C3%98/_/yes+&+no)
-* [sub urban — Freak (feat. REI AMI)](https://www.last.fm/music/sub+urban/_/Freak+(feat.+REI+AMI))
-* [Royal & the Serpent — i can't get high](https://www.last.fm/music/Royal+&+the+Serpent/_/i+can%27t+get+high)<!-- LASTFM:END -->
+* [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
