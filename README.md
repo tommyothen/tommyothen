@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
+* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
 * [Poppy — Bleep Bloop](https://www.last.fm/music/Poppy/_/Bleep+Bloop)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [Isaac Dunbar — onion boy](https://www.last.fm/music/Isaac+Dunbar/_/onion+boy)
-* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)<!-- LASTFM:END -->
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
