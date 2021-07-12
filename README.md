@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — Kisaragi](https://www.last.fm/music/Camellia/_/Kisaragi)
+* [Camellia — We Magicians Still Alive in 2021](https://www.last.fm/music/Camellia/_/We+Magicians+Still+Alive+in+2021)
+* [Camellia — WYSI -When You See It-](https://www.last.fm/music/Camellia/_/WYSI+-When+You+See+It-)
 * [Camellia — FINAL BLENDERMAN APPEARED.](https://www.last.fm/music/Camellia/_/FINAL+BLENDERMAN+APPEARED.)
-* [Camellia — Tentaclar Aliens' Epic Extraterretterrestrial Jungle Dance Party Inside Of A Super-Ultra-Mega-Gigantic U.F.O., It Maybe U.U.F.O., Silently Flying Over Illinois St.](https://www.last.fm/music/Camellia/_/Tentaclar+Aliens%27+Epic+Extraterretterrestrial+Jungle+Dance+Party+Inside+Of+A+Super-Ultra-Mega-Gigantic+U.F.O.,+It+Maybe+U.U.F.O.,+Silently+Flying+Over+Illinois+St.)
-* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
-* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)<!-- LASTFM:END -->
+* [Camellia — Tentaclar Aliens' Epic Extraterretterrestrial Jungle Dance Party Inside Of A Super-Ultra-Mega-Gigantic U.F.O., It Maybe U.U.F.O., Silently Flying Over Illinois St.](https://www.last.fm/music/Camellia/_/Tentaclar+Aliens%27+Epic+Extraterretterrestrial+Jungle+Dance+Party+Inside+Of+A+Super-Ultra-Mega-Gigantic+U.F.O.,+It+Maybe+U.U.F.O.,+Silently+Flying+Over+Illinois+St.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
