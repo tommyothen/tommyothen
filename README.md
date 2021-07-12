@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
+* [Camellia — POLYBIUS GB SPEEDRUN -Glitchless 100% WR in 0:03:57-](https://www.last.fm/music/Camellia/_/POLYBIUS+GB+SPEEDRUN+-Glitchless+100%25+WR+in+0:03:57-)
 * [Camellia — KillerToy](https://www.last.fm/music/Camellia/_/KillerToy)
 * [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)
-* [Camellia — Electromagnetic Stealth Girl Born In Philadelphia](https://www.last.fm/music/Camellia/_/Electromagnetic+Stealth+Girl+Born+In+Philadelphia)
-* [Camellia — Labyrinth in Kowloon: Walled World](https://www.last.fm/music/Camellia/_/Labyrinth+in+Kowloon:+Walled+World)
-* [Camellia — (The) Red * Room](https://www.last.fm/music/Camellia/_/(The)+Red+*+Room)<!-- LASTFM:END -->
+* [Camellia — Electromagnetic Stealth Girl Born In Philadelphia](https://www.last.fm/music/Camellia/_/Electromagnetic+Stealth+Girl+Born+In+Philadelphia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
