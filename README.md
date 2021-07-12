@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — t / a/n / a/s / i/n / n](https://www.last.fm/music/Camellia/_/t+%2F+a%2Fn+%2F+a%2Fs+%2F+i%2Fn+%2F+n)
+* [Camellia — ZOMBIE CIRCUS](https://www.last.fm/music/Camellia/_/ZOMBIE+CIRCUS)
 * [Camellia — THE MUZZLE FACING - Long muzzled version](https://www.last.fm/music/Camellia/_/THE+MUZZLE+FACING+-+Long+muzzled+version)
 * [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)
-* [Camellia — SLIME INCIDENT](https://www.last.fm/music/Camellia/_/SLIME+INCIDENT)
-* [Camellia — Bermuda Triangle](https://www.last.fm/music/Camellia/_/Bermuda+Triangle)
-* [Camellia — Kisaragi](https://www.last.fm/music/Camellia/_/Kisaragi)<!-- LASTFM:END -->
+* [Camellia — SLIME INCIDENT](https://www.last.fm/music/Camellia/_/SLIME+INCIDENT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
