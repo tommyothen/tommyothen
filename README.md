@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — "Delta":For The Delta](https://www.last.fm/music/Camellia/_/%22Delta%22:For+The+Delta)
 * [Psyqui — 就寝御礼](https://www.last.fm/music/Psyqui/_/%E5%B0%B1%E5%AF%9D%E5%BE%A1%E7%A4%BC)
 * [Camellia — Looking for Edge of Ground](https://www.last.fm/music/Camellia/_/Looking+for+Edge+of+Ground)
 * [Camellia — #1f1e33 - #00102g version](https://www.last.fm/music/Camellia/_/%231f1e33+-+%2300102g+version)
-* [Camellia — Hello (BPM) 2021](https://www.last.fm/music/Camellia/_/Hello+(BPM)+2021)
-* [Camellia — ΩΩPARTS](https://www.last.fm/music/Camellia/_/%CE%A9%CE%A9PARTS)<!-- LASTFM:END -->
+* [Camellia — Hello (BPM) 2021](https://www.last.fm/music/Camellia/_/Hello+(BPM)+2021)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
