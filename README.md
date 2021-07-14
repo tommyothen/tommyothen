@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — Labyrinth in Kowloon: Walled World](https://www.last.fm/music/Camellia/_/Labyrinth+in+Kowloon:+Walled+World)
+* [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)
+* [Camellia — POLYBIUS GB SPEEDRUN -Glitchless 100% WR in 0:03:57-](https://www.last.fm/music/Camellia/_/POLYBIUS+GB+SPEEDRUN+-Glitchless+100%25+WR+in+0:03:57-)
 * [Camellia — SLIME INCIDENT](https://www.last.fm/music/Camellia/_/SLIME+INCIDENT)
-* [Camellia — THE MUZZLE FACING - Long muzzled version](https://www.last.fm/music/Camellia/_/THE+MUZZLE+FACING+-+Long+muzzled+version)
-* [Camellia — GHOUL](https://www.last.fm/music/Camellia/_/GHOUL)
-* [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)
-* [Camellia — Looking for Edge of Ground](https://www.last.fm/music/Camellia/_/Looking+for+Edge+of+Ground)<!-- LASTFM:END -->
+* [Camellia — THE MUZZLE FACING - Long muzzled version](https://www.last.fm/music/Camellia/_/THE+MUZZLE+FACING+-+Long+muzzled+version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
