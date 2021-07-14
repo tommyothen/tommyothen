@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)
 * [THE ORAL CIGARETTES — Mouiikai?](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Mouiikai%3F)
 * [Camellia — POLYBIUS GB SPEEDRUN -Glitchless 100% WR in 0:03:57-](https://www.last.fm/music/Camellia/_/POLYBIUS+GB+SPEEDRUN+-Glitchless+100%25+WR+in+0:03:57-)
 * [Camellia — SLIME INCIDENT](https://www.last.fm/music/Camellia/_/SLIME+INCIDENT)
-* [Camellia — SLIME INCIDENT](https://www.last.fm/music/Camellia/_/SLIME+INCIDENT)
-* [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)<!-- LASTFM:END -->
+* [Camellia — SLIME INCIDENT](https://www.last.fm/music/Camellia/_/SLIME+INCIDENT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
