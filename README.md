@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)
 * [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
 * [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
 * [Grimes — Violence - REZZ Remix](https://www.last.fm/music/Grimes/_/Violence+-+REZZ+Remix)
-* [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)<!-- LASTFM:END -->
+* [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
