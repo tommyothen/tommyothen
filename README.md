@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Camellia — Looking for Edge of Ground](https://www.last.fm/music/Camellia/_/Looking+for+Edge+of+Ground)
+* [Camellia — Looking for Edge of Ground](https://www.last.fm/music/Camellia/_/Looking+for+Edge+of+Ground)
 * [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
 * [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
-* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)
-* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)<!-- LASTFM:END -->
+* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
