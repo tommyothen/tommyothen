@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Paramore — Rose-Colored Boy](https://www.last.fm/music/Paramore/_/Rose-Colored+Boy)
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
+* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
 * [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
-* [Oliver Tree — Let Me Down](https://www.last.fm/music/Oliver+Tree/_/Let+Me+Down)
-* [Dbmk — Rot](https://www.last.fm/music/Dbmk/_/Rot)
-* [Ghostemane — Death by Dishonor](https://www.last.fm/music/Ghostemane/_/Death+by+Dishonor)
-* [Akintoye — At the Cookout](https://www.last.fm/music/Akintoye/_/At+the+Cookout)<!-- LASTFM:END -->
+* [Oliver Tree — Let Me Down](https://www.last.fm/music/Oliver+Tree/_/Let+Me+Down)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
