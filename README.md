@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Akintoye — At the Cookout](https://www.last.fm/music/Akintoye/_/At+the+Cookout)
-* [Killstation — Extinction](https://www.last.fm/music/Killstation/_/Extinction)
-* [Tyler, The Creator — See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))
-* [Stereophonics — Dakota](https://www.last.fm/music/Stereophonics/_/Dakota)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
+* [Oliver Tree — Let Me Down](https://www.last.fm/music/Oliver+Tree/_/Let+Me+Down)
+* [Dbmk — Rot](https://www.last.fm/music/Dbmk/_/Rot)
+* [Ghostemane — Death by Dishonor](https://www.last.fm/music/Ghostemane/_/Death+by+Dishonor)
+* [Akintoye — At the Cookout](https://www.last.fm/music/Akintoye/_/At+the+Cookout)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
