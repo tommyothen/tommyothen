@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
-* [Tyler, The Creator — I THINK](https://www.last.fm/music/Tyler,+The+Creator/_/I+THINK)
-* [MAX — Love Me Less (feat. Quinn XCII)](https://www.last.fm/music/MAX/_/Love+Me+Less+(feat.+Quinn+XCII))<!-- LASTFM:END -->
+* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
