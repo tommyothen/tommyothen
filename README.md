@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, The Creator — I Ain't Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)
+* [Archive — Bullets](https://www.last.fm/music/Archive/_/Bullets)
+* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
 * [M83 — Midnight City](https://www.last.fm/music/M83/_/Midnight+City)
-* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
-* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
-* [MGMT — When You Die](https://www.last.fm/music/MGMT/_/When+You+Die)
-* [Sebastian Paul — INDULGE](https://www.last.fm/music/Sebastian+Paul/_/INDULGE)<!-- LASTFM:END -->
+* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
