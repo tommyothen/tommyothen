@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
 * [Tyler, The Creator — I THINK](https://www.last.fm/music/Tyler,+The+Creator/_/I+THINK)
 * [MAX — Love Me Less (feat. Quinn XCII)](https://www.last.fm/music/MAX/_/Love+Me+Less+(feat.+Quinn+XCII))
-* [MAX — Blueberry Eyes (feat. SUGA of BTS)](https://www.last.fm/music/MAX/_/Blueberry+Eyes+(feat.+SUGA+of+BTS))
-* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))<!-- LASTFM:END -->
+* [MAX — Blueberry Eyes (feat. SUGA of BTS)](https://www.last.fm/music/MAX/_/Blueberry+Eyes+(feat.+SUGA+of+BTS))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
