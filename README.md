@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Paramore — Rose-Colored Boy](https://www.last.fm/music/Paramore/_/Rose-Colored+Boy)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
-* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
-* [Oliver Tree — Let Me Down](https://www.last.fm/music/Oliver+Tree/_/Let+Me+Down)<!-- LASTFM:END -->
+* [M83 — Midnight City](https://www.last.fm/music/M83/_/Midnight+City)
+* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
+* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
+* [MGMT — When You Die](https://www.last.fm/music/MGMT/_/When+You+Die)
+* [Sebastian Paul — INDULGE](https://www.last.fm/music/Sebastian+Paul/_/INDULGE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
