@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
+* [Tyler, The Creator — I THINK](https://www.last.fm/music/Tyler,+The+Creator/_/I+THINK)
 * [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
 * [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
-* [Tate McRae — you broke me first - Luca Schreiner Remix](https://www.last.fm/music/Tate+McRae/_/you+broke+me+first+-+Luca+Schreiner+Remix)
-* [Rich Brian — Introvert (feat. Joji)](https://www.last.fm/music/Rich+Brian/_/Introvert+(feat.+Joji))
-* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)<!-- LASTFM:END -->
+* [Tate McRae — you broke me first - Luca Schreiner Remix](https://www.last.fm/music/Tate+McRae/_/you+broke+me+first+-+Luca+Schreiner+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
