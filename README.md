@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
 * [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
 * [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
-* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)<!-- LASTFM:END -->
+* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
