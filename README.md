@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
 * [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
 * [Tate McRae — you broke me first - Luca Schreiner Remix](https://www.last.fm/music/Tate+McRae/_/you+broke+me+first+-+Luca+Schreiner+Remix)
 * [Rich Brian — Introvert (feat. Joji)](https://www.last.fm/music/Rich+Brian/_/Introvert+(feat.+Joji))
-* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)
-* [Desired — Sunshine City](https://www.last.fm/music/Desired/_/Sunshine+City)<!-- LASTFM:END -->
+* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
