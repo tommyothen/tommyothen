@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Quadeca — Uh Huh!](https://www.last.fm/music/Quadeca/_/Uh+Huh!)
+* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
 * [ilyTOMMY — Tunnel of Love - Remix](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love+-+Remix)
 * [Germ — Real Rap](https://www.last.fm/music/Germ/_/Real+Rap)
-* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
-* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
-* [Sebastian Paul — INDULGE](https://www.last.fm/music/Sebastian+Paul/_/INDULGE)<!-- LASTFM:END -->
+* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
