@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dirtyphonics — Navigator](https://www.last.fm/music/Dirtyphonics/_/Navigator)
+* [Adam Jensen — Bad Luck](https://www.last.fm/music/Adam+Jensen/_/Bad+Luck)
 * [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)
 * [johnny balik — Honey](https://www.last.fm/music/johnny+balik/_/Honey)
-* [YUNG BAE — Bad Boy](https://www.last.fm/music/YUNG+BAE/_/Bad+Boy)
-* [Rich Brian — Rapapapa (feat. RZA)](https://www.last.fm/music/Rich+Brian/_/Rapapapa+(feat.+RZA))
-* [Josh A — Late Nights @ Studio](https://www.last.fm/music/Josh+A/_/Late+Nights+@+Studio)<!-- LASTFM:END -->
+* [YUNG BAE — Bad Boy](https://www.last.fm/music/YUNG+BAE/_/Bad+Boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
