@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
+* [Eevee — that real good](https://www.last.fm/music/Eevee/_/that+real+good)
+* [Kanye West — Lift Yourself](https://www.last.fm/music/Kanye+West/_/Lift+Yourself)
 * [YUNG BAE — Holding Your Hand](https://www.last.fm/music/YUNG+BAE/_/Holding+Your+Hand)
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Tima Belorusskih — Витаминка](https://www.last.fm/music/Tima+Belorusskih/_/%D0%92%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%BA%D0%B0)
-* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
