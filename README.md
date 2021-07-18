@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
-* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
-* [Dirtyphonics — Navigator](https://www.last.fm/music/Dirtyphonics/_/Navigator)
-* [Adam Jensen — Bad Luck](https://www.last.fm/music/Adam+Jensen/_/Bad+Luck)
-* [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)<!-- LASTFM:END -->
+* [Desired — Sunshine City](https://www.last.fm/music/Desired/_/Sunshine+City)
+* [Jarv & Thief — Lady Killer](https://www.last.fm/music/Jarv+&+Thief/_/Lady+Killer)
+* [Porter Robinson — Flicker](https://www.last.fm/music/Porter+Robinson/_/Flicker)
+* [Rich Brian — Love In My Pocket](https://www.last.fm/music/Rich+Brian/_/Love+In+My+Pocket)
+* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
