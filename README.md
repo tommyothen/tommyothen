@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
+* [MAX — Blueberry Eyes (feat. SUGA of BTS)](https://www.last.fm/music/MAX/_/Blueberry+Eyes+(feat.+SUGA+of+BTS))
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
 * [Camellia — SLIME INCIDENT](https://www.last.fm/music/Camellia/_/SLIME+INCIDENT)
-* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)<!-- LASTFM:END -->
+* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
