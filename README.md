@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
+* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
+* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
-* [XYLØ — yes & no](https://www.last.fm/music/XYL%C3%98/_/yes+&+no)
-* [sub urban — Freak (feat. REI AMI)](https://www.last.fm/music/sub+urban/_/Freak+(feat.+REI+AMI))
-* [Royal & the Serpent — i can't get high](https://www.last.fm/music/Royal+&+the+Serpent/_/i+can%27t+get+high)<!-- LASTFM:END -->
+* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
