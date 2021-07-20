@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
+* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
 * [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
 * [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
-* [Yu-Peng Chen — Rex Incognito](https://www.last.fm/music/Yu-Peng+Chen/_/Rex+Incognito)
-* [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
+* [Yu-Peng Chen — Rex Incognito](https://www.last.fm/music/Yu-Peng+Chen/_/Rex+Incognito)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
