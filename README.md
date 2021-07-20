@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
 * [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
 * [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
 * [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
-* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)<!-- LASTFM:END -->
+* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
