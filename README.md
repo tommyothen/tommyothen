@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
+* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
 * [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
-* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)<!-- LASTFM:END -->
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
