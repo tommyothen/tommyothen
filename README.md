@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
 * [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)
-* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))
-* [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
-* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
-* [Natasha Bedingfield — Unwritten](https://www.last.fm/music/Natasha+Bedingfield/_/Unwritten)<!-- LASTFM:END -->
+* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
