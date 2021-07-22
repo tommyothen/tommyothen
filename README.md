@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iamnotshane — What A Perfect Day For Crying](https://www.last.fm/music/iamnotshane/_/What+A+Perfect+Day+For+Crying)
+* [Tiffi — drive by](https://www.last.fm/music/Tiffi/_/drive+by)
 * [Seraphine — All The Things She Said](https://www.last.fm/music/Seraphine/_/All+The+Things+She+Said)
 * [Upsahl — Wish You'd Make Me Cry](https://www.last.fm/music/Upsahl/_/Wish+You%27d+Make+Me+Cry)
-* [Juliana Chahayed — Violins](https://www.last.fm/music/Juliana+Chahayed/_/Violins)
-* [Mia Rodriguez — Emotion](https://www.last.fm/music/Mia+Rodriguez/_/Emotion)
-* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)<!-- LASTFM:END -->
+* [Juliana Chahayed — Violins](https://www.last.fm/music/Juliana+Chahayed/_/Violins)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
