@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
 * [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
 * [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
 * [Post Malone — Goodbyes (feat. Young Thug)](https://www.last.fm/music/Post+Malone/_/Goodbyes+(feat.+Young+Thug))
-* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
-* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))<!-- LASTFM:END -->
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
