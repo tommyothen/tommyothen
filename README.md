@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tobey Lynn — SUNFLOWER GIRL](https://www.last.fm/music/Tobey+Lynn/_/SUNFLOWER+GIRL)
-* [Froglady — Temporary](https://www.last.fm/music/Froglady/_/Temporary)
-* [SuperKnova — Serotonin Serenade](https://www.last.fm/music/SuperKnova/_/Serotonin+Serenade)
-* [Animal Sun — Girl in Blue](https://www.last.fm/music/Animal+Sun/_/Girl+in+Blue)
-* [Daren — ilovethatforme](https://www.last.fm/music/Daren/_/ilovethatforme)<!-- LASTFM:END -->
+* [Rebecca Black — Sweetheart](https://www.last.fm/music/Rebecca+Black/_/Sweetheart)
+* [Dylan Gardner — Spotlight](https://www.last.fm/music/Dylan+Gardner/_/Spotlight)
+* [Chloe Ho — Here's to Coming Out](https://www.last.fm/music/Chloe+Ho/_/Here%27s+to+Coming+Out)
+* [Sizzy Rocket — I Know What U Like (feat. chloe mk)](https://www.last.fm/music/Sizzy+Rocket/_/I+Know+What+U+Like+(feat.+chloe+mk))
+* [Ängie — Dust](https://www.last.fm/music/%C3%84ngie/_/Dust)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
