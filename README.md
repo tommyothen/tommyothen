@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Stef — hi, my name is lonely.](https://www.last.fm/music/Stef/_/hi,+my+name+is+lonely.)
-* [Chav — Patient Zero](https://www.last.fm/music/Chav/_/Patient+Zero)
-* [ufo ufo — Strange Clouds](https://www.last.fm/music/ufo+ufo/_/Strange+Clouds)
-* [GIRLI — Pink](https://www.last.fm/music/GIRLI/_/Pink)
-* [Mystery Skulls — Soul on Fire](https://www.last.fm/music/Mystery+Skulls/_/Soul+on+Fire)<!-- LASTFM:END -->
+* [Tobey Lynn — SUNFLOWER GIRL](https://www.last.fm/music/Tobey+Lynn/_/SUNFLOWER+GIRL)
+* [Froglady — Temporary](https://www.last.fm/music/Froglady/_/Temporary)
+* [SuperKnova — Serotonin Serenade](https://www.last.fm/music/SuperKnova/_/Serotonin+Serenade)
+* [Animal Sun — Girl in Blue](https://www.last.fm/music/Animal+Sun/_/Girl+in+Blue)
+* [Daren — ilovethatforme](https://www.last.fm/music/Daren/_/ilovethatforme)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
