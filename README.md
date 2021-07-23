@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mystery Skulls — Soul on Fire](https://www.last.fm/music/Mystery+Skulls/_/Soul+on+Fire)
+* [Kazuo — RED BLACK](https://www.last.fm/music/Kazuo/_/RED+BLACK)
+* [City Girl — Wishing on You](https://www.last.fm/music/City+Girl/_/Wishing+on+You)
 * [iamnotshane — What A Perfect Day For Crying](https://www.last.fm/music/iamnotshane/_/What+A+Perfect+Day+For+Crying)
-* [Tiffi — drive by](https://www.last.fm/music/Tiffi/_/drive+by)
-* [Seraphine — All The Things She Said](https://www.last.fm/music/Seraphine/_/All+The+Things+She+Said)
-* [Upsahl — Wish You'd Make Me Cry](https://www.last.fm/music/Upsahl/_/Wish+You%27d+Make+Me+Cry)
-* [Juliana Chahayed — Violins](https://www.last.fm/music/Juliana+Chahayed/_/Violins)<!-- LASTFM:END -->
+* [Tiffi — drive by](https://www.last.fm/music/Tiffi/_/drive+by)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
