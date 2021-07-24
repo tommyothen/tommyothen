@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Protostar — Overdrive](https://www.last.fm/music/Protostar/_/Overdrive)
+* [Hobo Johnson — Father](https://www.last.fm/music/Hobo+Johnson/_/Father)
 * [Dirtyphonics — Hammer](https://www.last.fm/music/Dirtyphonics/_/Hammer)
 * [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
-* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
-* [Blankz — Nakama](https://www.last.fm/music/Blankz/_/Nakama)
-* [Knapsack — Nothing Less](https://www.last.fm/music/Knapsack/_/Nothing+Less)<!-- LASTFM:END -->
+* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
