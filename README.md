@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Two Door Cinema Club — Sun](https://www.last.fm/music/Two+Door+Cinema+Club/_/Sun)
+* [Miraie — Happy Sugar Life](https://www.last.fm/music/Miraie/_/Happy+Sugar+Life)
+* [88Rising — Gold Coast](https://www.last.fm/music/88Rising/_/Gold+Coast)
 * [bbno$ — doubles](https://www.last.fm/music/bbno$/_/doubles)
-* [Sebastian Paul — ON SOME HIGH](https://www.last.fm/music/Sebastian+Paul/_/ON+SOME+HIGH)
-* [Swum — Rick N Morty](https://www.last.fm/music/Swum/_/Rick+N+Morty)
-* [Rav — And That's Me](https://www.last.fm/music/Rav/_/And+That%27s+Me)
-* [D-Real [愛] — Until Next Time...](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Until+Next+Time...)<!-- LASTFM:END -->
+* [Sebastian Paul — ON SOME HIGH](https://www.last.fm/music/Sebastian+Paul/_/ON+SOME+HIGH)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
