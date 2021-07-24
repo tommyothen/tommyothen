@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
-* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
-* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
-* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)<!-- LASTFM:END -->
+* [bbno$ — nursery](https://www.last.fm/music/bbno$/_/nursery)
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
+* [Oliver Tree — Miracle Man](https://www.last.fm/music/Oliver+Tree/_/Miracle+Man)
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
