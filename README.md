@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)
-* [Jarv & Thief — The Beat](https://www.last.fm/music/Jarv+&+Thief/_/The+Beat)
-* [Dark Cat — Bubble Tea](https://www.last.fm/music/Dark+Cat/_/Bubble+Tea)
-* [Pusher — Sober](https://www.last.fm/music/Pusher/_/Sober)
-* [Kupla — Saudade](https://www.last.fm/music/Kupla/_/Saudade)<!-- LASTFM:END -->
+* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)
+* [L.Dre — Across the Country](https://www.last.fm/music/L.Dre/_/Across+the+Country)
+* [Lofi.Samurai — dearest](https://www.last.fm/music/Lofi.Samurai/_/dearest)
+* [Niki — move!](https://www.last.fm/music/Niki/_/move!)
+* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
