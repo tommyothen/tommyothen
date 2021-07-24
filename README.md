@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Swum — Rick N Morty](https://www.last.fm/music/Swum/_/Rick+N+Morty)
+* [Rav — And That's Me](https://www.last.fm/music/Rav/_/And+That%27s+Me)
 * [D-Real [愛] — Until Next Time...](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Until+Next+Time...)
 * [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
-* [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)
-* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)
-* [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)<!-- LASTFM:END -->
+* [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
