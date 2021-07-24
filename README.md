@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dark Cat — Bubble Tea](https://www.last.fm/music/Dark+Cat/_/Bubble+Tea)
+* [Pusher — Sober](https://www.last.fm/music/Pusher/_/Sober)
 * [Kupla — Saudade](https://www.last.fm/music/Kupla/_/Saudade)
 * [Packy — Like This](https://www.last.fm/music/Packy/_/Like+This)
-* [Quadeca — Ego Death](https://www.last.fm/music/Quadeca/_/Ego+Death)
-* [Joji — Gimme Love](https://www.last.fm/music/Joji/_/Gimme+Love)
-* [Prismo — Stronger](https://www.last.fm/music/Prismo/_/Stronger)<!-- LASTFM:END -->
+* [Quadeca — Ego Death](https://www.last.fm/music/Quadeca/_/Ego+Death)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
