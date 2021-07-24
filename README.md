@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Quadeca — Ego Death](https://www.last.fm/music/Quadeca/_/Ego+Death)
+* [Joji — Gimme Love](https://www.last.fm/music/Joji/_/Gimme+Love)
 * [Prismo — Stronger](https://www.last.fm/music/Prismo/_/Stronger)
 * [Headhaunter — Intergalasstic II](https://www.last.fm/music/Headhaunter/_/Intergalasstic+II)
-* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
-* [rei brown — give me nurture](https://www.last.fm/music/rei+brown/_/give+me+nurture)
-* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)<!-- LASTFM:END -->
+* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
