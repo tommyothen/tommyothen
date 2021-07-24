@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
+* [Blankz — Nakama](https://www.last.fm/music/Blankz/_/Nakama)
 * [Knapsack — Nothing Less](https://www.last.fm/music/Knapsack/_/Nothing+Less)
 * [Neovaii — Should've Started](https://www.last.fm/music/Neovaii/_/Should%27ve+Started)
-* [Rich Brian — Chaos](https://www.last.fm/music/Rich+Brian/_/Chaos)
-* [Westside Gravy — 64](https://www.last.fm/music/Westside+Gravy/_/64)
-* [Tyto Grey — Runaway](https://www.last.fm/music/Tyto+Grey/_/Runaway)<!-- LASTFM:END -->
+* [Rich Brian — Chaos](https://www.last.fm/music/Rich+Brian/_/Chaos)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
