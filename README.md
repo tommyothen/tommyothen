@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Prismo — Stronger](https://www.last.fm/music/Prismo/_/Stronger)
+* [Headhaunter — Intergalasstic II](https://www.last.fm/music/Headhaunter/_/Intergalasstic+II)
 * [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
 * [rei brown — give me nurture](https://www.last.fm/music/rei+brown/_/give+me+nurture)
-* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
-* [Rich Brian — Love In My Pocket](https://www.last.fm/music/Rich+Brian/_/Love+In+My+Pocket)
-* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)<!-- LASTFM:END -->
+* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
