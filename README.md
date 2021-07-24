@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)
+* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
+* [Antoha MC — Спорт-брат](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BF%D0%BE%D1%80%D1%82-%D0%B1%D1%80%D0%B0%D1%82)
 * [Yung Gravy — Rotisserie](https://www.last.fm/music/Yung+Gravy/_/Rotisserie)
-* [Unlike Pluto — No Scrubs](https://www.last.fm/music/Unlike+Pluto/_/No+Scrubs)
-* [Dreamville — Under the Sun (with J. Cole & Lute feat. DaBaby)](https://www.last.fm/music/Dreamville/_/Under+the+Sun+(with+J.+Cole+&+Lute+feat.+DaBaby))
-* [Samsa — Superlative Heroes](https://www.last.fm/music/Samsa/_/Superlative+Heroes)
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))<!-- LASTFM:END -->
+* [Unlike Pluto — No Scrubs](https://www.last.fm/music/Unlike+Pluto/_/No+Scrubs)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
