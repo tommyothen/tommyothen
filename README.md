@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Oliver Tree — Upside Down](https://www.last.fm/music/Oliver+Tree/_/Upside+Down)
+* [Inzo — Overthinker](https://www.last.fm/music/Inzo/_/Overthinker)
 * [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
 * [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
-* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
-* [Dreamcatcher — Fly high](https://www.last.fm/music/Dreamcatcher/_/Fly+high)
-* [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)<!-- LASTFM:END -->
+* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
