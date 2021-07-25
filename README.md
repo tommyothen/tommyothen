@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, The Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+The+Creator/_/EARFQUAKE)
+* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
 * [Fliptrix — Monday To Sunday](https://www.last.fm/music/Fliptrix/_/Monday+To+Sunday)
 * [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)
-* [Guardin — i think you're really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)
-* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
-* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))<!-- LASTFM:END -->
+* [Guardin — i think you're really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
