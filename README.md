@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ayase — happy ender](https://www.last.fm/music/ayase/_/happy+ender)
+* [johnny balik — Honey](https://www.last.fm/music/johnny+balik/_/Honey)
 * [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)
 * [blackbear — idfc](https://www.last.fm/music/blackbear/_/idfc)
-* [JinSang — affection](https://www.last.fm/music/JinSang/_/affection)
-* [Savage Ga$p — flaming hot cheetos](https://www.last.fm/music/Savage+Ga$p/_/flaming+hot+cheetos)
-* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)<!-- LASTFM:END -->
+* [JinSang — affection](https://www.last.fm/music/JinSang/_/affection)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
