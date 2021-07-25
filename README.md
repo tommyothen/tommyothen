@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
 * [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)
 * [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)
 * [Far Out — Origin](https://www.last.fm/music/Far+Out/_/Origin)
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [Infected Mushroom — Spitfire](https://www.last.fm/music/Infected+Mushroom/_/Spitfire)<!-- LASTFM:END -->
+* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
