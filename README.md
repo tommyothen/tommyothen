@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
 * [Snail's house — hot milk](https://www.last.fm/music/Snail%27s+house/_/hot+milk)
-* [Solace — Silver Spoons](https://www.last.fm/music/Solace/_/Silver+Spoons)
-* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
-* [Logic — Homicide (feat. Eminem)](https://www.last.fm/music/Logic/_/Homicide+(feat.+Eminem))<!-- LASTFM:END -->
+* [Solace — Silver Spoons](https://www.last.fm/music/Solace/_/Silver+Spoons)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
