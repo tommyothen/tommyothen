@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Solace — Silver Spoons](https://www.last.fm/music/Solace/_/Silver+Spoons)
+* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
 * [Logic — Homicide (feat. Eminem)](https://www.last.fm/music/Logic/_/Homicide+(feat.+Eminem))
 * [Fliptrix — You'll Never Change](https://www.last.fm/music/Fliptrix/_/You%27ll+Never+Change)
-* [Elohim — Uglykid (feat. Elohim)](https://www.last.fm/music/Elohim/_/Uglykid+(feat.+Elohim))
-* [Desired — Sunshine City](https://www.last.fm/music/Desired/_/Sunshine+City)
-* [Haywyre — Let Me Hear That](https://www.last.fm/music/Haywyre/_/Let+Me+Hear+That)<!-- LASTFM:END -->
+* [Elohim — Uglykid (feat. Elohim)](https://www.last.fm/music/Elohim/_/Uglykid+(feat.+Elohim))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
