@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
+* [Eminem — Godzilla (feat. Juice WRLD)](https://www.last.fm/music/Eminem/_/Godzilla+(feat.+Juice+WRLD))
 * [Two Door Cinema Club — Something Good Can Work](https://www.last.fm/music/Two+Door+Cinema+Club/_/Something+Good+Can+Work)
 * [bbno$ — too easy](https://www.last.fm/music/bbno$/_/too+easy)
-* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
-* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
-* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)<!-- LASTFM:END -->
+* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
