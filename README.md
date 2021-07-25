@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dark Cat — Hot Chocolate](https://www.last.fm/music/Dark+Cat/_/Hot+Chocolate)
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
 * [ayase — happy ender](https://www.last.fm/music/ayase/_/happy+ender)
 * [johnny balik — Honey](https://www.last.fm/music/johnny+balik/_/Honey)
-* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)
-* [blackbear — idfc](https://www.last.fm/music/blackbear/_/idfc)
-* [JinSang — affection](https://www.last.fm/music/JinSang/_/affection)<!-- LASTFM:END -->
+* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
