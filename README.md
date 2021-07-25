@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Desired — Sunshine City](https://www.last.fm/music/Desired/_/Sunshine+City)
+* [Haywyre — Let Me Hear That](https://www.last.fm/music/Haywyre/_/Let+Me+Hear+That)
+* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
 * [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
-* [Majiko — Kokoronashi](https://www.last.fm/music/Majiko/_/Kokoronashi)
-* [Eminem — Godzilla (feat. Juice WRLD)](https://www.last.fm/music/Eminem/_/Godzilla+(feat.+Juice+WRLD))
-* [Headhaunter — Intergalasstic II](https://www.last.fm/music/Headhaunter/_/Intergalasstic+II)
-* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)<!-- LASTFM:END -->
+* [Majiko — Kokoronashi](https://www.last.fm/music/Majiko/_/Kokoronashi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
