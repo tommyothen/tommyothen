@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dreamcatcher — GOOD NIGHT](https://www.last.fm/music/Dreamcatcher/_/GOOD+NIGHT)
-* [Rich Brian — Rapapapa (feat. RZA)](https://www.last.fm/music/Rich+Brian/_/Rapapapa+(feat.+RZA))
-* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)
-* [Todd Helder — Ride It](https://www.last.fm/music/Todd+Helder/_/Ride+It)
-* [Haywyre — Let Me Hear That](https://www.last.fm/music/Haywyre/_/Let+Me+Hear+That)<!-- LASTFM:END -->
+* [bbno$ — pennies up](https://www.last.fm/music/bbno$/_/pennies+up)
+* [Swum — Rick N Morty](https://www.last.fm/music/Swum/_/Rick+N+Morty)
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [Yung Gravy — Knockout](https://www.last.fm/music/Yung+Gravy/_/Knockout)
+* [Dreamcatcher — GOOD NIGHT](https://www.last.fm/music/Dreamcatcher/_/GOOD+NIGHT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
