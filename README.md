@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
+* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
 * [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
-* [BoxPlot — Tramontane](https://www.last.fm/music/BoxPlot/_/Tramontane)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [Rich Brian — Where Does the Time Go (feat. Joji)](https://www.last.fm/music/Rich+Brian/_/Where+Does+the+Time+Go+(feat.+Joji))
-* [Samsa — Burfi](https://www.last.fm/music/Samsa/_/Burfi)<!-- LASTFM:END -->
+* [BoxPlot — Tramontane](https://www.last.fm/music/BoxPlot/_/Tramontane)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
