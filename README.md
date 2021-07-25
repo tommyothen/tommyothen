@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)
+* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
 * [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)
-* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [Protostar — Overdrive](https://www.last.fm/music/Protostar/_/Overdrive)
-* [Hobo Johnson — Father](https://www.last.fm/music/Hobo+Johnson/_/Father)
-* [Dirtyphonics — Hammer](https://www.last.fm/music/Dirtyphonics/_/Hammer)<!-- LASTFM:END -->
+* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
