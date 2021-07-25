@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Moe Shop — Baby Pink](https://www.last.fm/music/Moe+Shop/_/Baby+Pink)
 * [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
 * [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
 * [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
-* [Rich Brian — Vacant](https://www.last.fm/music/Rich+Brian/_/Vacant)
-* [Snails — Front 2 Back](https://www.last.fm/music/Snails/_/Front+2+Back)<!-- LASTFM:END -->
+* [Rich Brian — Vacant](https://www.last.fm/music/Rich+Brian/_/Vacant)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
