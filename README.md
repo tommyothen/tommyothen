@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Haywyre — Let Me Hear That](https://www.last.fm/music/Haywyre/_/Let+Me+Hear+That)
+* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
+* [Ugly Heroes — Graves](https://www.last.fm/music/Ugly+Heroes/_/Graves)
 * [Moe Shop — Baby Pink](https://www.last.fm/music/Moe+Shop/_/Baby+Pink)
-* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
-* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
-* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
-* [Rich Brian — Vacant](https://www.last.fm/music/Rich+Brian/_/Vacant)<!-- LASTFM:END -->
+* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
