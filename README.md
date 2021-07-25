@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)
+* [Rainych — Yoru ni Kakeru](https://www.last.fm/music/Rainych/_/Yoru+ni+Kakeru)
 * [Slipknot — Dead Memories](https://www.last.fm/music/Slipknot/_/Dead+Memories)
 * [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
-* [MAX — Blueberry Eyes (feat. SUGA of BTS)](https://www.last.fm/music/MAX/_/Blueberry+Eyes+(feat.+SUGA+of+BTS))
-* [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)
-* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)<!-- LASTFM:END -->
+* [MAX — Blueberry Eyes (feat. SUGA of BTS)](https://www.last.fm/music/MAX/_/Blueberry+Eyes+(feat.+SUGA+of+BTS))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
