@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
+* [BoxPlot — Tramontane](https://www.last.fm/music/BoxPlot/_/Tramontane)
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
 * [Rich Brian — Where Does the Time Go (feat. Joji)](https://www.last.fm/music/Rich+Brian/_/Where+Does+the+Time+Go+(feat.+Joji))
-* [Samsa — Burfi](https://www.last.fm/music/Samsa/_/Burfi)
-* [Feduk — Моряк](https://www.last.fm/music/Feduk/_/%D0%9C%D0%BE%D1%80%D1%8F%D0%BA)
-* [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
-* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)<!-- LASTFM:END -->
+* [Samsa — Burfi](https://www.last.fm/music/Samsa/_/Burfi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
