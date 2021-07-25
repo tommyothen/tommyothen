@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
+* [Majiko — Kokoronashi](https://www.last.fm/music/Majiko/_/Kokoronashi)
 * [Eminem — Godzilla (feat. Juice WRLD)](https://www.last.fm/music/Eminem/_/Godzilla+(feat.+Juice+WRLD))
 * [Headhaunter — Intergalasstic II](https://www.last.fm/music/Headhaunter/_/Intergalasstic+II)
-* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
-* [potsu — I'm Closing My Eyes](https://www.last.fm/music/potsu/_/I%27m+Closing+My+Eyes)
-* [9 Gramm — Рапапам](https://www.last.fm/music/9+Gramm/_/%D0%A0%D0%B0%D0%BF%D0%B0%D0%BF%D0%B0%D0%BC)<!-- LASTFM:END -->
+* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
