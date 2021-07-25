@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
+* [Snail's house — hot milk](https://www.last.fm/music/Snail%27s+house/_/hot+milk)
 * [Solace — Silver Spoons](https://www.last.fm/music/Solace/_/Silver+Spoons)
 * [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
-* [Logic — Homicide (feat. Eminem)](https://www.last.fm/music/Logic/_/Homicide+(feat.+Eminem))
-* [Fliptrix — You'll Never Change](https://www.last.fm/music/Fliptrix/_/You%27ll+Never+Change)
-* [Elohim — Uglykid (feat. Elohim)](https://www.last.fm/music/Elohim/_/Uglykid+(feat.+Elohim))<!-- LASTFM:END -->
+* [Logic — Homicide (feat. Eminem)](https://www.last.fm/music/Logic/_/Homicide+(feat.+Eminem))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
