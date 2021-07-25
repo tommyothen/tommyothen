@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)
 * [Jarv & Thief — The Beat](https://www.last.fm/music/Jarv+&+Thief/_/The+Beat)
 * [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
-* [Snail's house — hot milk](https://www.last.fm/music/Snail%27s+house/_/hot+milk)<!-- LASTFM:END -->
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
