@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [potsu — I'm Closing My Eyes](https://www.last.fm/music/potsu/_/I%27m+Closing+My+Eyes)
+* [9 Gramm — Рапапам](https://www.last.fm/music/9+Gramm/_/%D0%A0%D0%B0%D0%BF%D0%B0%D0%BF%D0%B0%D0%BC)
 * [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
 * [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)
-* [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)
-* [Far Out — Origin](https://www.last.fm/music/Far+Out/_/Origin)
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)<!-- LASTFM:END -->
+* [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
