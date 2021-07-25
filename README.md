@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YUNG BAE — Must Be Love](https://www.last.fm/music/YUNG+BAE/_/Must+Be+Love)
+* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)
+* [Ashnikko — Deal With It (feat. Kelis)](https://www.last.fm/music/Ashnikko/_/Deal+With+It+(feat.+Kelis))
 * [Oliver Tree — Upside Down](https://www.last.fm/music/Oliver+Tree/_/Upside+Down)
-* [Inzo — Overthinker](https://www.last.fm/music/Inzo/_/Overthinker)
-* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
-* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
-* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)<!-- LASTFM:END -->
+* [Inzo — Overthinker](https://www.last.fm/music/Inzo/_/Overthinker)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
