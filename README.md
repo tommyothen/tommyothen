@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Noisestorm — This Feeling](https://www.last.fm/music/Noisestorm/_/This+Feeling)
+* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
 * [Kazuo — MOM SAID NO](https://www.last.fm/music/Kazuo/_/MOM+SAID+NO)
 * [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)
-* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
-* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)
-* [Elohim — Sensations - Whethan Remix](https://www.last.fm/music/Elohim/_/Sensations+-+Whethan+Remix)<!-- LASTFM:END -->
+* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
