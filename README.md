@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — pouch](https://www.last.fm/music/bbno$/_/pouch)
+* [Billie Eilish — bellyache](https://www.last.fm/music/Billie+Eilish/_/bellyache)
+* [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)
 * [Rich Brian — Chaos](https://www.last.fm/music/Rich+Brian/_/Chaos)
-* [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)
-* [Rich Brian — Vacant](https://www.last.fm/music/Rich+Brian/_/Vacant)
-* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
-* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)<!-- LASTFM:END -->
+* [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
