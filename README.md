@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Royal & the Serpent — Weddings & Funerals](https://www.last.fm/music/Royal+&+the+Serpent/_/Weddings+&+Funerals)
+* [Rich Brian — Rapapapa (feat. RZA)](https://www.last.fm/music/Rich+Brian/_/Rapapapa+(feat.+RZA))
 * [Anamanaguchi — Miku - Japanese Version](https://www.last.fm/music/Anamanaguchi/_/Miku+-+Japanese+Version)
 * [Feduk — Знаки](https://www.last.fm/music/Feduk/_/%D0%97%D0%BD%D0%B0%D0%BA%D0%B8)
-* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
-* [D-Real [愛] — Zero Two](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Zero+Two)
-* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)<!-- LASTFM:END -->
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
