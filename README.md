@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [EarthGang — Meditate (feat. J.I.D.)](https://www.last.fm/music/EarthGang/_/Meditate+(feat.+J.I.D.))
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [Jorja Smith — On My Mind (Jorja Smith X Preditah)](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+(Jorja+Smith+X+Preditah))
 * [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
-* [Noisestorm — This Feeling](https://www.last.fm/music/Noisestorm/_/This+Feeling)
-* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)<!-- LASTFM:END -->
+* [Noisestorm — This Feeling](https://www.last.fm/music/Noisestorm/_/This+Feeling)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
