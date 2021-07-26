@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
+* [Flume — Insane (feat. Moon Holiday)](https://www.last.fm/music/Flume/_/Insane+(feat.+Moon+Holiday))
 * [Niki — Sugarplum Elegy](https://www.last.fm/music/Niki/_/Sugarplum+Elegy)
 * [Billie Eilish — bury a friend](https://www.last.fm/music/Billie+Eilish/_/bury+a+friend)
-* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
-* [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)
-* [Jorja Smith — On My Mind (Jorja Smith X Preditah)](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+(Jorja+Smith+X+Preditah))<!-- LASTFM:END -->
+* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
