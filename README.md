@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kazuo — MOM SAID NO](https://www.last.fm/music/Kazuo/_/MOM+SAID+NO)
+* [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)
+* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
 * [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)
-* [Elohim — Sensations - Whethan Remix](https://www.last.fm/music/Elohim/_/Sensations+-+Whethan+Remix)
-* [Kill Bill: The Rapper — Black Coffee](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Black+Coffee)
-* [Rich Brian — The Sailor](https://www.last.fm/music/Rich+Brian/_/The+Sailor)
-* [bbno$ — pouch](https://www.last.fm/music/bbno$/_/pouch)<!-- LASTFM:END -->
+* [Elohim — Sensations - Whethan Remix](https://www.last.fm/music/Elohim/_/Sensations+-+Whethan+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
