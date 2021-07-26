@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
+* [rei brown — Street Fighter](https://www.last.fm/music/rei+brown/_/Street+Fighter)
 * [Krewella — Alibi (Far Out Remix)](https://www.last.fm/music/Krewella/_/Alibi+(Far+Out+Remix))
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
-* [Royal & the Serpent — Weddings & Funerals](https://www.last.fm/music/Royal+&+the+Serpent/_/Weddings+&+Funerals)
-* [Rich Brian — Rapapapa (feat. RZA)](https://www.last.fm/music/Rich+Brian/_/Rapapapa+(feat.+RZA))<!-- LASTFM:END -->
+* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
