@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Tresspass](https://www.last.fm/music/Rich+Brian/_/Tresspass)
+* [AcesToAces — memory lane](https://www.last.fm/music/AcesToAces/_/memory+lane)
 * [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)
 * [Aiobahn — ここにいる (Stephen Walking Remix)](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+(Stephen+Walking+Remix))
-* [Varien — Can You Feel My Heart](https://www.last.fm/music/Varien/_/Can+You+Feel+My+Heart)
-* [EarthGang — Meditate (feat. J.I.D.)](https://www.last.fm/music/EarthGang/_/Meditate+(feat.+J.I.D.))
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
+* [Varien — Can You Feel My Heart](https://www.last.fm/music/Varien/_/Can+You+Feel+My+Heart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
