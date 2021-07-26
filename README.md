@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — stucco](https://www.last.fm/music/bbno$/_/stucco)
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
+* [Anderson .Paak — Come Down](https://www.last.fm/music/Anderson+.Paak/_/Come+Down)
 * [bbno$ — pennies up](https://www.last.fm/music/bbno$/_/pennies+up)
-* [Swum — Rick N Morty](https://www.last.fm/music/Swum/_/Rick+N+Morty)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Yung Gravy — Knockout](https://www.last.fm/music/Yung+Gravy/_/Knockout)
-* [Dreamcatcher — GOOD NIGHT](https://www.last.fm/music/Dreamcatcher/_/GOOD+NIGHT)<!-- LASTFM:END -->
+* [Swum — Rick N Morty](https://www.last.fm/music/Swum/_/Rick+N+Morty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
