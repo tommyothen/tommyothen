@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)
+* [Jorja Smith — On My Mind (Jorja Smith X Preditah)](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+(Jorja+Smith+X+Preditah))
 * [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
 * [rei brown — Street Fighter](https://www.last.fm/music/rei+brown/_/Street+Fighter)
-* [Krewella — Alibi (Far Out Remix)](https://www.last.fm/music/Krewella/_/Alibi+(Far+Out+Remix))
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)<!-- LASTFM:END -->
+* [Krewella — Alibi (Far Out Remix)](https://www.last.fm/music/Krewella/_/Alibi+(Far+Out+Remix))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
