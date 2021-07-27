@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
-* [King Kavalier — Bad Drugs](https://www.last.fm/music/King+Kavalier/_/Bad+Drugs)
-* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
-* [Moe Shop — Superstar](https://www.last.fm/music/Moe+Shop/_/Superstar)
-* [Rich Brian — Tresspass](https://www.last.fm/music/Rich+Brian/_/Tresspass)<!-- LASTFM:END -->
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
+* [Yarmak — Я не люблю](https://www.last.fm/music/Yarmak/_/%D0%AF+%D0%BD%D0%B5+%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E)
+* [D-Real [愛] — Until Next Time...](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Until+Next+Time...)
+* [Eden — and](https://www.last.fm/music/Eden/_/and)
+* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
