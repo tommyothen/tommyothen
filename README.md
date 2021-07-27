@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
+* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)
+* [Kill Bill: The Rapper — About Last Night...](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/About+Last+Night...)
 * [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
-* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)
-* [City Girl — Endless and Artificial](https://www.last.fm/music/City+Girl/_/Endless+and+Artificial)
-* [Public Theatre — Anime Intro](https://www.last.fm/music/Public+Theatre/_/Anime+Intro)
-* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)<!-- LASTFM:END -->
+* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
