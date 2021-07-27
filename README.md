@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
 * [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
 * [Yarmak — Я не люблю](https://www.last.fm/music/Yarmak/_/%D0%AF+%D0%BD%D0%B5+%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E)
 * [D-Real [愛] — Until Next Time...](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Until+Next+Time...)
-* [Eden — and](https://www.last.fm/music/Eden/_/and)
-* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)<!-- LASTFM:END -->
+* [Eden — and](https://www.last.fm/music/Eden/_/and)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
