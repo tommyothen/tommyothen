@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [King Kavalier — Bad Drugs](https://www.last.fm/music/King+Kavalier/_/Bad+Drugs)
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
+* [I DONT KNOW HOW BUT THEY FOUND ME — Leave Me Alone](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Leave+Me+Alone)
 * [bbno$ — dont tell me shit](https://www.last.fm/music/bbno$/_/dont+tell+me+shit)
-* [Kupla — Saudade](https://www.last.fm/music/Kupla/_/Saudade)
-* [yunomi — Bamboo Disco](https://www.last.fm/music/yunomi/_/Bamboo+Disco)
-* [Superfly — 覚醒](https://www.last.fm/music/Superfly/_/%E8%A6%9A%E9%86%92)
-* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)<!-- LASTFM:END -->
+* [Kupla — Saudade](https://www.last.fm/music/Kupla/_/Saudade)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
