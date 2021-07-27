@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Packy — Like This](https://www.last.fm/music/Packy/_/Like+This)
+* [Saib — Snow](https://www.last.fm/music/Saib/_/Snow)
 * [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
 * [eli filosov [ p h i l o ] — pallet](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/pallet)
-* [King Kavalier — Bad Drugs](https://www.last.fm/music/King+Kavalier/_/Bad+Drugs)
-* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
-* [I DONT KNOW HOW BUT THEY FOUND ME — Leave Me Alone](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Leave+Me+Alone)<!-- LASTFM:END -->
+* [King Kavalier — Bad Drugs](https://www.last.fm/music/King+Kavalier/_/Bad+Drugs)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
