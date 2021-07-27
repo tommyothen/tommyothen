@@ -36,7 +36,7 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
-* [Yakusoku no Neverland - TV](https://myanimelist.net/anime/37779/Yakusoku_no_Neverland) - Plan to Watch - 6 of 12 episodes
+* [Yakusoku no Neverland - TV](https://myanimelist.net/anime/37779/Yakusoku_no_Neverland) - Completed - 12 of 12 episodes
 * [Mob Psycho 100 - TV](https://myanimelist.net/anime/32182/Mob_Psycho_100) - Completed - 12 of 12 episodes
 * [Lucky☆Star - TV](https://myanimelist.net/anime/1887/Lucky☆Star) - Completed - 24 of 24 episodes
 * [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - TV](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai) - Watching - 1 of 13 episodes
