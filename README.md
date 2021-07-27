@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
+* [King Kavalier — Bad Drugs](https://www.last.fm/music/King+Kavalier/_/Bad+Drugs)
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
 * [Moe Shop — Superstar](https://www.last.fm/music/Moe+Shop/_/Superstar)
-* [Rich Brian — Tresspass](https://www.last.fm/music/Rich+Brian/_/Tresspass)
-* [AcesToAces — memory lane](https://www.last.fm/music/AcesToAces/_/memory+lane)
-* [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)
-* [Aiobahn — ここにいる (Stephen Walking Remix)](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+(Stephen+Walking+Remix))<!-- LASTFM:END -->
+* [Rich Brian — Tresspass](https://www.last.fm/music/Rich+Brian/_/Tresspass)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
