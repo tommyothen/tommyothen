@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Rapapapa (feat. RZA)](https://www.last.fm/music/Rich+Brian/_/Rapapapa+(feat.+RZA))
+* [88Rising — Indigo](https://www.last.fm/music/88Rising/_/Indigo)
 * [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)
-* [Majiko — Kokoronashi](https://www.last.fm/music/Majiko/_/Kokoronashi)
-* [Night Tempo — ShortCake](https://www.last.fm/music/Night+Tempo/_/ShortCake)<!-- LASTFM:END -->
+* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
