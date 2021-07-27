@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Majiko — Kokoronashi](https://www.last.fm/music/Majiko/_/Kokoronashi)
+* [Night Tempo — ShortCake](https://www.last.fm/music/Night+Tempo/_/ShortCake)
 * [Chase & Status — End Credits](https://www.last.fm/music/Chase+&+Status/_/End+Credits)
 * [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
-* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)<!-- LASTFM:END -->
+* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
