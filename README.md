@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
+* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
+* [Fliptrix — Monday To Sunday](https://www.last.fm/music/Fliptrix/_/Monday+To+Sunday)
 * [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
-* [Prop Dylan — Can you imagine](https://www.last.fm/music/Prop+Dylan/_/Can+you+imagine)
-* [Rich Brian — Rapapapa (feat. RZA)](https://www.last.fm/music/Rich+Brian/_/Rapapapa+(feat.+RZA))<!-- LASTFM:END -->
+* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
