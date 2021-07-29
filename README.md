@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [love-sadKiD — Vinyl](https://www.last.fm/music/love-sadKiD/_/Vinyl)
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
 * [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)
 * [Billie Eilish — ilomilo](https://www.last.fm/music/Billie+Eilish/_/ilomilo)
-* [nothing,nowhere. — blood (feat. KennyHoopla & JUDGE)](https://www.last.fm/music/nothing,nowhere./_/blood+(feat.+KennyHoopla+&+JUDGE))
-* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
-* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)<!-- LASTFM:END -->
+* [nothing,nowhere. — blood (feat. KennyHoopla & JUDGE)](https://www.last.fm/music/nothing,nowhere./_/blood+(feat.+KennyHoopla+&+JUDGE))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
