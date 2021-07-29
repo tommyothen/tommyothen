@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)
-* [Sebastian Paul — TROJAN HORSE](https://www.last.fm/music/Sebastian+Paul/_/TROJAN+HORSE)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)<!-- LASTFM:END -->
+* [The Tech Thieves — Flowers](https://www.last.fm/music/The+Tech+Thieves/_/Flowers)
+* [Samsa — Burfi](https://www.last.fm/music/Samsa/_/Burfi)
+* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
+* [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)
+* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
