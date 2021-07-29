@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mark Ronson — Uptown Funk (feat. Bruno Mars)](https://www.last.fm/music/Mark+Ronson/_/Uptown+Funk+(feat.+Bruno+Mars))
-* [Natasha Bedingfield — Unwritten](https://www.last.fm/music/Natasha+Bedingfield/_/Unwritten)
-* [Nicki Minaj — Starships](https://www.last.fm/music/Nicki+Minaj/_/Starships)
-* [lil ricefield — HOHO!](https://www.last.fm/music/lil+ricefield/_/HOHO!)
-* [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)<!-- LASTFM:END -->
+* [Oliver Tree — Movement](https://www.last.fm/music/Oliver+Tree/_/Movement)
+* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
+* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))
+* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)
+* [Mark Ronson — Uptown Funk (feat. Bruno Mars)](https://www.last.fm/music/Mark+Ronson/_/Uptown+Funk+(feat.+Bruno+Mars))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
