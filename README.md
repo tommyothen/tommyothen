@@ -31,8 +31,8 @@ Now Playing\
 * [Mark Ronson — Uptown Funk (feat. Bruno Mars)](https://www.last.fm/music/Mark+Ronson/_/Uptown+Funk+(feat.+Bruno+Mars))
 * [Natasha Bedingfield — Unwritten](https://www.last.fm/music/Natasha+Bedingfield/_/Unwritten)
 * [Nicki Minaj — Starships](https://www.last.fm/music/Nicki+Minaj/_/Starships)
-* [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)
-* [love-sadKiD — Vinyl](https://www.last.fm/music/love-sadKiD/_/Vinyl)<!-- LASTFM:END -->
+* [lil ricefield — HOHO!](https://www.last.fm/music/lil+ricefield/_/HOHO!)
+* [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
