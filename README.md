@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tate McRae — you broke me first - Luca Schreiner Remix](https://www.last.fm/music/Tate+McRae/_/you+broke+me+first+-+Luca+Schreiner+Remix)
 * [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
 * [Bliss n Eso — Tear The Roof Off (feat. Watsky)](https://www.last.fm/music/Bliss+n+Eso/_/Tear+The+Roof+Off+(feat.+Watsky))
 * [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
-* [OUTR3ACH — Worth It](https://www.last.fm/music/OUTR3ACH/_/Worth+It)
-* [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)<!-- LASTFM:END -->
+* [OUTR3ACH — Worth It](https://www.last.fm/music/OUTR3ACH/_/Worth+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
