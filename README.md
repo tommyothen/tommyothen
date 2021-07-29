@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [OUTR3ACH — Worth It](https://www.last.fm/music/OUTR3ACH/_/Worth+It)
+* [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)
 * [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
 * [Oliver Tree — Movement](https://www.last.fm/music/Oliver+Tree/_/Movement)
-* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
-* [Ashnikko — Daisy 2.0 (feat. Hatsune Miku)](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+(feat.+Hatsune+Miku))
-* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)<!-- LASTFM:END -->
+* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
