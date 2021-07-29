@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [The Tech Thieves — Flowers](https://www.last.fm/music/The+Tech+Thieves/_/Flowers)
-* [Samsa — Burfi](https://www.last.fm/music/Samsa/_/Burfi)
-* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
-* [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)
-* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)<!-- LASTFM:END -->
+* [nothing,nowhere. — blood (feat. KennyHoopla & JUDGE)](https://www.last.fm/music/nothing,nowhere./_/blood+(feat.+KennyHoopla+&+JUDGE))
+* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
+* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
+* [YUNG BAE — Holding Your Hand](https://www.last.fm/music/YUNG+BAE/_/Holding+Your+Hand)
+* [The Deli — 5:32PM](https://www.last.fm/music/The+Deli/_/5:32PM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
