@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
+* [Bliss n Eso — Tear The Roof Off (feat. Watsky)](https://www.last.fm/music/Bliss+n+Eso/_/Tear+The+Roof+Off+(feat.+Watsky))
+* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
 * [OUTR3ACH — Worth It](https://www.last.fm/music/OUTR3ACH/_/Worth+It)
-* [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)
-* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
-* [Oliver Tree — Movement](https://www.last.fm/music/Oliver+Tree/_/Movement)
-* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)<!-- LASTFM:END -->
+* [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
