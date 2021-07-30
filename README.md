@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [rei brown — Street Fighter](https://www.last.fm/music/rei+brown/_/Street+Fighter)
 * [Eden — 02:09](https://www.last.fm/music/Eden/_/02:09)
 * [Sub Focus — Desire (with Dimension)](https://www.last.fm/music/Sub+Focus/_/Desire+(with+Dimension))
 * [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
-* [Rich Brian — Vacant](https://www.last.fm/music/Rich+Brian/_/Vacant)
-* [Jakey — Not Dead Yet](https://www.last.fm/music/Jakey/_/Not+Dead+Yet)<!-- LASTFM:END -->
+* [Rich Brian — Vacant](https://www.last.fm/music/Rich+Brian/_/Vacant)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
