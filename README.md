@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
-* [Magic Circuit — Slip](https://www.last.fm/music/Magic+Circuit/_/Slip)
-* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
-* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
-* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))<!-- LASTFM:END -->
+* [idealism — Controlla](https://www.last.fm/music/idealism/_/Controlla)
+* [MISSIO — Temple Priest (feat. Paul Wall & Kota the Friend)](https://www.last.fm/music/MISSIO/_/Temple+Priest+(feat.+Paul+Wall+&+Kota+the+Friend))
+* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)
+* [Getter — Forget It (feat. Oliver Tree)](https://www.last.fm/music/Getter/_/Forget+It+(feat.+Oliver+Tree))
+* [nothing,nowhere. — blood (feat. KennyHoopla & JUDGE)](https://www.last.fm/music/nothing,nowhere./_/blood+(feat.+KennyHoopla+&+JUDGE))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
