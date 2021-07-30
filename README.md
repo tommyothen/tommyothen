@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dumbfoundead — WASHED (PROD. BY SHAWN WASABI)](https://www.last.fm/music/Dumbfoundead/_/WASHED+(PROD.+BY+SHAWN+WASABI))
 * [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
 * [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)
 * [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
-* [Cao White — Hai Domo](https://www.last.fm/music/Cao+White/_/Hai+Domo)
-* [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)<!-- LASTFM:END -->
+* [Cao White — Hai Domo](https://www.last.fm/music/Cao+White/_/Hai+Domo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
