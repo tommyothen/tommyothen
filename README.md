@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Guardin — suffocate](https://www.last.fm/music/Guardin/_/suffocate)
+* [Gleb — motorest](https://www.last.fm/music/Gleb/_/motorest)
 * [rei brown — Street Fighter](https://www.last.fm/music/rei+brown/_/Street+Fighter)
 * [Eden — 02:09](https://www.last.fm/music/Eden/_/02:09)
-* [Sub Focus — Desire (with Dimension)](https://www.last.fm/music/Sub+Focus/_/Desire+(with+Dimension))
-* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
-* [Rich Brian — Vacant](https://www.last.fm/music/Rich+Brian/_/Vacant)<!-- LASTFM:END -->
+* [Sub Focus — Desire (with Dimension)](https://www.last.fm/music/Sub+Focus/_/Desire+(with+Dimension))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
