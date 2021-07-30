@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
+* [Ciki — Syndrome](https://www.last.fm/music/Ciki/_/Syndrome)
 * [idealism — Controlla](https://www.last.fm/music/idealism/_/Controlla)
-* [MISSIO — Temple Priest (feat. Paul Wall & Kota the Friend)](https://www.last.fm/music/MISSIO/_/Temple+Priest+(feat.+Paul+Wall+&+Kota+the+Friend))
-* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)
-* [Getter — Forget It (feat. Oliver Tree)](https://www.last.fm/music/Getter/_/Forget+It+(feat.+Oliver+Tree))
-* [nothing,nowhere. — blood (feat. KennyHoopla & JUDGE)](https://www.last.fm/music/nothing,nowhere./_/blood+(feat.+KennyHoopla+&+JUDGE))<!-- LASTFM:END -->
+* [MISSIO — Temple Priest (feat. Paul Wall & Kota the Friend)](https://www.last.fm/music/MISSIO/_/Temple+Priest+(feat.+Paul+Wall+&+Kota+the+Friend))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
