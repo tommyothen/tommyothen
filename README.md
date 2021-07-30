@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tokyo Machine — PLAY - Chime Remix](https://www.last.fm/music/Tokyo+Machine/_/PLAY+-+Chime+Remix)
+* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
+* [Eden Project — drowning.](https://www.last.fm/music/Eden+Project/_/drowning.)
 * [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
-* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
-* [Ciki — Syndrome](https://www.last.fm/music/Ciki/_/Syndrome)
-* [idealism — Controlla](https://www.last.fm/music/idealism/_/Controlla)
-* [MISSIO — Temple Priest (feat. Paul Wall & Kota the Friend)](https://www.last.fm/music/MISSIO/_/Temple+Priest+(feat.+Paul+Wall+&+Kota+the+Friend))<!-- LASTFM:END -->
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
