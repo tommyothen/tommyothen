@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)
+* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
+* [Cao White — Hai Domo](https://www.last.fm/music/Cao+White/_/Hai+Domo)
 * [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
-* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
-* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)<!-- LASTFM:END -->
+* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
