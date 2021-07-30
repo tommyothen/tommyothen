@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [K.A.A.N. — Phoenix](https://www.last.fm/music/K.A.A.N./_/Phoenix)
 * [Dirtyphonics — Hammer](https://www.last.fm/music/Dirtyphonics/_/Hammer)
 * [Aries — Racecar](https://www.last.fm/music/Aries/_/Racecar)
 * [Billie Eilish — all the good girls go to hell](https://www.last.fm/music/Billie+Eilish/_/all+the+good+girls+go+to+hell)
-* [Guardin — suffocate](https://www.last.fm/music/Guardin/_/suffocate)
-* [Gleb — motorest](https://www.last.fm/music/Gleb/_/motorest)<!-- LASTFM:END -->
+* [Guardin — suffocate](https://www.last.fm/music/Guardin/_/suffocate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
