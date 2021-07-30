@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
+* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
 * [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
 * [Tate McRae — you broke me first - Luca Schreiner Remix](https://www.last.fm/music/Tate+McRae/_/you+broke+me+first+-+Luca+Schreiner+Remix)
-* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
-* [Bliss n Eso — Tear The Roof Off (feat. Watsky)](https://www.last.fm/music/Bliss+n+Eso/_/Tear+The+Roof+Off+(feat.+Watsky))
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)<!-- LASTFM:END -->
+* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
