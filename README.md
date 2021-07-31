@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
 * [mxmtoon — fever dream - Shawn Wasabi remix](https://www.last.fm/music/mxmtoon/_/fever+dream+-+Shawn+Wasabi+remix)
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
 * [mxmtoon — lessons - boyinblue remix](https://www.last.fm/music/mxmtoon/_/lessons+-+boyinblue+remix)
-* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
-* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)<!-- LASTFM:END -->
+* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
