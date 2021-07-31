@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — asking for a friend](https://www.last.fm/music/mxmtoon/_/asking+for+a+friend)
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [mxmtoon — ok on your own (feat. Carly Rae Jepsen)](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+(feat.+Carly+Rae+Jepsen))
 * [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
-* [mxmtoon — i feel like chet - khai dreams edit](https://www.last.fm/music/mxmtoon/_/i+feel+like+chet+-+khai+dreams+edit)
-* [mxmtoon — blame game](https://www.last.fm/music/mxmtoon/_/blame+game)
-* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
-* [mxmtoon — fever dream - Shawn Wasabi remix](https://www.last.fm/music/mxmtoon/_/fever+dream+-+Shawn+Wasabi+remix)<!-- LASTFM:END -->
+* [mxmtoon — i feel like chet - khai dreams edit](https://www.last.fm/music/mxmtoon/_/i+feel+like+chet+-+khai+dreams+edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
