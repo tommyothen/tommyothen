@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
 * [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
-* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
-* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
-* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
-* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)<!-- LASTFM:END -->
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
