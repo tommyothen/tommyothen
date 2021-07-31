@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)
-* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
-* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
-* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)<!-- LASTFM:END -->
+* [稲葉曇 — ラグトレイン](https://www.last.fm/music/%E7%A8%B2%E8%91%89%E6%9B%87/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
+* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
+* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
