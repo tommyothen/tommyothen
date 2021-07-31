@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
+* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
 * [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [88Rising — Gold Coast](https://www.last.fm/music/88Rising/_/Gold+Coast)
-* [Rav — Lovedrug (Off That)](https://www.last.fm/music/Rav/_/Lovedrug+(Off+That))
-* [Jackson Wang — TITANIC (feat. Rich Brian)](https://www.last.fm/music/Jackson+Wang/_/TITANIC+(feat.+Rich+Brian))<!-- LASTFM:END -->
+* [88Rising — Gold Coast](https://www.last.fm/music/88Rising/_/Gold+Coast)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
