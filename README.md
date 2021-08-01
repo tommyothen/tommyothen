@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eurythmics — Sweet Dreams (Are Made of This) - Remastered](https://www.last.fm/music/Eurythmics/_/Sweet+Dreams+(Are+Made+of+This)+-+Remastered)
+* [The Libertines — Don't Look Back into the Sun](https://www.last.fm/music/The+Libertines/_/Don%27t+Look+Back+into+the+Sun)
 * [The Buggles — Video Killed the Radio Star](https://www.last.fm/music/The+Buggles/_/Video+Killed+the+Radio+Star)
 * [Nirvana — About a Girl](https://www.last.fm/music/Nirvana/_/About+a+Girl)
-* [Yuvan Shankar Raja — Unakkulle Mirugam](https://www.last.fm/music/Yuvan+Shankar+Raja/_/Unakkulle+Mirugam)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
+* [Yuvan Shankar Raja — Unakkulle Mirugam](https://www.last.fm/music/Yuvan+Shankar+Raja/_/Unakkulle+Mirugam)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
