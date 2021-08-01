@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — the idea of you](https://www.last.fm/music/mxmtoon/_/the+idea+of+you)
-* [mxmtoon — unspoken words](https://www.last.fm/music/mxmtoon/_/unspoken+words)
-* [mxmtoon — high & dry - chloe moriondo & Shortly edit](https://www.last.fm/music/mxmtoon/_/high+&+dry+-+chloe+moriondo+&+Shortly+edit)
-* [mxmtoon — my ted talk - acoustic](https://www.last.fm/music/mxmtoon/_/my+ted+talk+-+acoustic)
-* [mxmtoon — show and tell](https://www.last.fm/music/mxmtoon/_/show+and+tell)<!-- LASTFM:END -->
+* [mxmtoon — ok on your own - LilyPichu edit](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+-+LilyPichu+edit)
+* [mxmtoon — My Way](https://www.last.fm/music/mxmtoon/_/My+Way)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
+* [mxmtoon — suffice - acoustic](https://www.last.fm/music/mxmtoon/_/suffice+-+acoustic)
+* [mxmtoon — the idea of you](https://www.last.fm/music/mxmtoon/_/the+idea+of+you)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
