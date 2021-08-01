@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Noah Kahan — Pride (with mxmtoon)](https://www.last.fm/music/Noah+Kahan/_/Pride+(with+mxmtoon))
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [mxmtoon — dream of you - Chloe Lilac edit](https://www.last.fm/music/mxmtoon/_/dream+of+you+-+Chloe+Lilac+edit)
 * [mxmtoon — no faker](https://www.last.fm/music/mxmtoon/_/no+faker)
-* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)<!-- LASTFM:END -->
+* [mxmtoon — high & dry - acoustic](https://www.last.fm/music/mxmtoon/_/high+&+dry+-+acoustic)
+* [mxmtoon — the idea of you](https://www.last.fm/music/mxmtoon/_/the+idea+of+you)
+* [Noah Kahan — Pride (with mxmtoon)](https://www.last.fm/music/Noah+Kahan/_/Pride+(with+mxmtoon))
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
