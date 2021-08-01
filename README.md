@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [mxmtoon — asking for a friend](https://www.last.fm/music/mxmtoon/_/asking+for+a+friend)
 * [mxmtoon — untitled - acoustic](https://www.last.fm/music/mxmtoon/_/untitled+-+acoustic)
 * [mxmtoon — ok on your own (feat. Carly Rae Jepsen)](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+(feat.+Carly+Rae+Jepsen))
-* [mxmtoon — high & dry](https://www.last.fm/music/mxmtoon/_/high+&+dry)
-* [mxmtoon — birdie](https://www.last.fm/music/mxmtoon/_/birdie)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)<!-- LASTFM:END -->
+* [mxmtoon — high & dry](https://www.last.fm/music/mxmtoon/_/high+&+dry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
