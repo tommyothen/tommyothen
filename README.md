@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — suffice](https://www.last.fm/music/mxmtoon/_/suffice)
+* [Ricky Montgomery — Line Without A Hook](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+A+Hook)
 * [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)
 * [mxmtoon — lessons - boyinblue remix](https://www.last.fm/music/mxmtoon/_/lessons+-+boyinblue+remix)
-* [mxmtoon — almost home](https://www.last.fm/music/mxmtoon/_/almost+home)
-* [mxmtoon — seasonal depression - acoustic](https://www.last.fm/music/mxmtoon/_/seasonal+depression+-+acoustic)
-* [mxmtoon — no faker](https://www.last.fm/music/mxmtoon/_/no+faker)<!-- LASTFM:END -->
+* [mxmtoon — almost home](https://www.last.fm/music/mxmtoon/_/almost+home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
