@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Kooks — Naïve](https://www.last.fm/music/The+Kooks/_/Na%C3%AFve)
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
 * [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
 * [The Wombats — Jump Into the Fog](https://www.last.fm/music/The+Wombats/_/Jump+Into+the+Fog)
-* [The Hunna — She's Casual](https://www.last.fm/music/The+Hunna/_/She%27s+Casual)
-* [XYLØ — yes & no](https://www.last.fm/music/XYL%C3%98/_/yes+&+no)
-* [AMpm — more](https://www.last.fm/music/AMpm/_/more)<!-- LASTFM:END -->
+* [The Hunna — She's Casual](https://www.last.fm/music/The+Hunna/_/She%27s+Casual)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
