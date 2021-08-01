@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
+* [mxmtoon — the sideline](https://www.last.fm/music/mxmtoon/_/the+sideline)
+* [mxmtoon — late nights - Alexander 23 edit](https://www.last.fm/music/mxmtoon/_/late+nights+-+Alexander+23+edit)
 * [Noah Kahan — Pride (with mxmtoon)](https://www.last.fm/music/Noah+Kahan/_/Pride+(with+mxmtoon))
-* [mxmtoon — almost home](https://www.last.fm/music/mxmtoon/_/almost+home)
-* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
-* [mxmtoon — please don't](https://www.last.fm/music/mxmtoon/_/please+don%27t)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)<!-- LASTFM:END -->
+* [mxmtoon — almost home](https://www.last.fm/music/mxmtoon/_/almost+home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
