@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)
+* [Fhin — But Now A Warm Feel Is Running](https://www.last.fm/music/Fhin/_/But+Now+A+Warm+Feel+Is+Running)
 * [blackbear — Short Kings Anthem](https://www.last.fm/music/blackbear/_/Short+Kings+Anthem)
 * [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
-* [Getter — Forget It (feat. Oliver Tree)](https://www.last.fm/music/Getter/_/Forget+It+(feat.+Oliver+Tree))
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
-* [Quadeca — Uh Huh!](https://www.last.fm/music/Quadeca/_/Uh+Huh!)<!-- LASTFM:END -->
+* [Getter — Forget It (feat. Oliver Tree)](https://www.last.fm/music/Getter/_/Forget+It+(feat.+Oliver+Tree))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
