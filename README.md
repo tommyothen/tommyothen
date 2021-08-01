@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rex Orange County — A Song About Being Sad](https://www.last.fm/music/Rex+Orange+County/_/A+Song+About+Being+Sad)
+* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
 * [Sundara Karma — She Said](https://www.last.fm/music/Sundara+Karma/_/She+Said)
 * [The Kooks — Naïve](https://www.last.fm/music/The+Kooks/_/Na%C3%AFve)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
-* [The Wombats — Jump Into the Fog](https://www.last.fm/music/The+Wombats/_/Jump+Into+the+Fog)<!-- LASTFM:END -->
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
