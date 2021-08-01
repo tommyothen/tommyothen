@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — unspoken words - acoustic](https://www.last.fm/music/mxmtoon/_/unspoken+words+-+acoustic)
+* [mxmtoon — fever dream - acoustic](https://www.last.fm/music/mxmtoon/_/fever+dream+-+acoustic)
 * [mxmtoon — late nights - acoustic](https://www.last.fm/music/mxmtoon/_/late+nights+-+acoustic)
 * [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
-* [mxmtoon — ok on your own - LilyPichu edit](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+-+LilyPichu+edit)
-* [mxmtoon — My Way](https://www.last.fm/music/mxmtoon/_/My+Way)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
+* [mxmtoon — ok on your own - LilyPichu edit](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+-+LilyPichu+edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
