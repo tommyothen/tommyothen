@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
 * [Foals — My Number](https://www.last.fm/music/Foals/_/My+Number)
 * [Lil Peep — Falling Down - Bonus Track](https://www.last.fm/music/Lil+Peep/_/Falling+Down+-+Bonus+Track)
-* [Lil Peep — Sex With My Ex](https://www.last.fm/music/Lil+Peep/_/Sex+With+My+Ex)
-* [Allie X — Susie Save Your Love](https://www.last.fm/music/Allie+X/_/Susie+Save+Your+Love)
-* [Circa Waves — T-Shirt Weather](https://www.last.fm/music/Circa+Waves/_/T-Shirt+Weather)<!-- LASTFM:END -->
+* [Lil Peep — Sex With My Ex](https://www.last.fm/music/Lil+Peep/_/Sex+With+My+Ex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
