@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
+* [The Wombats — Jump Into the Fog](https://www.last.fm/music/The+Wombats/_/Jump+Into+the+Fog)
 * [The Hunna — She's Casual](https://www.last.fm/music/The+Hunna/_/She%27s+Casual)
 * [XYLØ — yes & no](https://www.last.fm/music/XYL%C3%98/_/yes+&+no)
-* [AMpm — more](https://www.last.fm/music/AMpm/_/more)
-* [BURNOUT SYNDROMES — ヒカリアレ-Moonlight Version- - moonlight version](https://www.last.fm/music/BURNOUT+SYNDROMES/_/%E3%83%92%E3%82%AB%E3%83%AA%E3%82%A2%E3%83%AC-Moonlight+Version-+-+moonlight+version)
-* [TWICE — SIGNAL - Japanese ver.](https://www.last.fm/music/TWICE/_/SIGNAL+-+Japanese+ver.)<!-- LASTFM:END -->
+* [AMpm — more](https://www.last.fm/music/AMpm/_/more)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
