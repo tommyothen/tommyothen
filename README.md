@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billie Eilish — ocean eyes](https://www.last.fm/music/Billie+Eilish/_/ocean+eyes)
+* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
 * [Rex Orange County — A Song About Being Sad](https://www.last.fm/music/Rex+Orange+County/_/A+Song+About+Being+Sad)
 * [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
-* [Sundara Karma — She Said](https://www.last.fm/music/Sundara+Karma/_/She+Said)
-* [The Kooks — Naïve](https://www.last.fm/music/The+Kooks/_/Na%C3%AFve)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)<!-- LASTFM:END -->
+* [Sundara Karma — She Said](https://www.last.fm/music/Sundara+Karma/_/She+Said)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
