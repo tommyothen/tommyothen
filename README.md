@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — high & dry - chloe moriondo & Shortly edit](https://www.last.fm/music/mxmtoon/_/high+&+dry+-+chloe+moriondo+&+Shortly+edit)
+* [mxmtoon — my ted talk - acoustic](https://www.last.fm/music/mxmtoon/_/my+ted+talk+-+acoustic)
+* [mxmtoon — show and tell](https://www.last.fm/music/mxmtoon/_/show+and+tell)
 * [mxmtoon — blame game](https://www.last.fm/music/mxmtoon/_/blame+game)
-* [mxmtoon — suffice](https://www.last.fm/music/mxmtoon/_/suffice)
-* [Ricky Montgomery — Line Without A Hook](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+A+Hook)
-* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)
-* [mxmtoon — lessons - boyinblue remix](https://www.last.fm/music/mxmtoon/_/lessons+-+boyinblue+remix)<!-- LASTFM:END -->
+* [mxmtoon — suffice](https://www.last.fm/music/mxmtoon/_/suffice)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
