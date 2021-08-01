@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — temporary nothing](https://www.last.fm/music/mxmtoon/_/temporary+nothing)
+* [Noah Kahan — Pride (with mxmtoon)](https://www.last.fm/music/Noah+Kahan/_/Pride+(with+mxmtoon))
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
 * [mxmtoon — don't play your card](https://www.last.fm/music/mxmtoon/_/don%27t+play+your+card)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
-* [The Knack — My Sharona - Single Version](https://www.last.fm/music/The+Knack/_/My+Sharona+-+Single+Version)
-* [Electric Light Orchestra — Mr. Blue Sky](https://www.last.fm/music/Electric+Light+Orchestra/_/Mr.+Blue+Sky)
-* [Eurythmics — Sweet Dreams (Are Made of This) - Remastered](https://www.last.fm/music/Eurythmics/_/Sweet+Dreams+(Are+Made+of+This)+-+Remastered)<!-- LASTFM:END -->
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
