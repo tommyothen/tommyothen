@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — the idea of you](https://www.last.fm/music/mxmtoon/_/the+idea+of+you)
+* [mxmtoon — unspoken words](https://www.last.fm/music/mxmtoon/_/unspoken+words)
 * [mxmtoon — high & dry - chloe moriondo & Shortly edit](https://www.last.fm/music/mxmtoon/_/high+&+dry+-+chloe+moriondo+&+Shortly+edit)
 * [mxmtoon — my ted talk - acoustic](https://www.last.fm/music/mxmtoon/_/my+ted+talk+-+acoustic)
-* [mxmtoon — show and tell](https://www.last.fm/music/mxmtoon/_/show+and+tell)
-* [mxmtoon — blame game](https://www.last.fm/music/mxmtoon/_/blame+game)
-* [mxmtoon — suffice](https://www.last.fm/music/mxmtoon/_/suffice)<!-- LASTFM:END -->
+* [mxmtoon — show and tell](https://www.last.fm/music/mxmtoon/_/show+and+tell)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
