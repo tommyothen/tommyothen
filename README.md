@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — asking for a friend](https://www.last.fm/music/mxmtoon/_/asking+for+a+friend)
-* [mxmtoon — ok on your own (feat. Carly Rae Jepsen)](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+(feat.+Carly+Rae+Jepsen))
-* [mxmtoon — unspoken words - acoustic](https://www.last.fm/music/mxmtoon/_/unspoken+words+-+acoustic)
-* [mxmtoon — fever dream - acoustic](https://www.last.fm/music/mxmtoon/_/fever+dream+-+acoustic)
-* [mxmtoon — late nights - acoustic](https://www.last.fm/music/mxmtoon/_/late+nights+-+acoustic)<!-- LASTFM:END -->
+* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
+* [mxmtoon — fever dream - Shawn Wasabi remix](https://www.last.fm/music/mxmtoon/_/fever+dream+-+Shawn+Wasabi+remix)
+* [llusion — walk but in a garden (with mxmtoon)](https://www.last.fm/music/llusion/_/walk+but+in+a+garden+(with+mxmtoon))
+* [mxmtoon — 1, 2](https://www.last.fm/music/mxmtoon/_/1,+2)
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
