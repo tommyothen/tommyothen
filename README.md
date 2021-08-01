@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
 * [Frank Ocean — Ivy](https://www.last.fm/music/Frank+Ocean/_/Ivy)
 * [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
 * [The Neighbourhood — Daddy Issues](https://www.last.fm/music/The+Neighbourhood/_/Daddy+Issues)
-* [Billie Eilish — ocean eyes](https://www.last.fm/music/Billie+Eilish/_/ocean+eyes)
-* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)<!-- LASTFM:END -->
+* [Billie Eilish — ocean eyes](https://www.last.fm/music/Billie+Eilish/_/ocean+eyes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
