@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jid — Workin Out](https://www.last.fm/music/Jid/_/Workin+Out)
 * [Haywyre — Let Me Hear That](https://www.last.fm/music/Haywyre/_/Let+Me+Hear+That)
 * [Just Juice — Coast](https://www.last.fm/music/Just+Juice/_/Coast)
 * [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
-* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
-* [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)<!-- LASTFM:END -->
+* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
