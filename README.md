@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KANA-BOON — シルエット](https://www.last.fm/music/KANA-BOON/_/%E3%82%B7%E3%83%AB%E3%82%A8%E3%83%83%E3%83%88)
+* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
+* [Rex Orange County — Pluto Projector](https://www.last.fm/music/Rex+Orange+County/_/Pluto+Projector)
 * [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
-* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
-* [Foals — My Number](https://www.last.fm/music/Foals/_/My+Number)
-* [Lil Peep — Falling Down - Bonus Track](https://www.last.fm/music/Lil+Peep/_/Falling+Down+-+Bonus+Track)
-* [Lil Peep — Sex With My Ex](https://www.last.fm/music/Lil+Peep/_/Sex+With+My+Ex)<!-- LASTFM:END -->
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
