@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [D-Real [愛] — Coast Ghost](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Coast+Ghost)
 * [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
 * [Tokyo Machine — PLAY - Chime Remix](https://www.last.fm/music/Tokyo+Machine/_/PLAY+-+Chime+Remix)
 * [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
-* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
-* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)<!-- LASTFM:END -->
+* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
