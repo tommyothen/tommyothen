@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — porcelain](https://www.last.fm/music/mxmtoon/_/porcelain)
-* [mxmtoon — wallflower](https://www.last.fm/music/mxmtoon/_/wallflower)
-* [mxmtoon — dream of you](https://www.last.fm/music/mxmtoon/_/dream+of+you)
-* [mxmtoon — 1-800-DATEME](https://www.last.fm/music/mxmtoon/_/1-800-DATEME)
-* [mxmtoon — birdie](https://www.last.fm/music/mxmtoon/_/birdie)<!-- LASTFM:END -->
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
+* [mxmtoon — the sideline](https://www.last.fm/music/mxmtoon/_/the+sideline)
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
+* [mxmtoon — porcelain](https://www.last.fm/music/mxmtoon/_/porcelain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
