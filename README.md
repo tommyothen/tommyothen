@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — porcelain](https://www.last.fm/music/mxmtoon/_/porcelain)
+* [mxmtoon — wallflower](https://www.last.fm/music/mxmtoon/_/wallflower)
 * [mxmtoon — dream of you](https://www.last.fm/music/mxmtoon/_/dream+of+you)
 * [mxmtoon — 1-800-DATEME](https://www.last.fm/music/mxmtoon/_/1-800-DATEME)
-* [mxmtoon — birdie](https://www.last.fm/music/mxmtoon/_/birdie)
-* [mxmtoon — 1-800-DATEME](https://www.last.fm/music/mxmtoon/_/1-800-DATEME)
-* [mxmtoon — hong kong](https://www.last.fm/music/mxmtoon/_/hong+kong)<!-- LASTFM:END -->
+* [mxmtoon — birdie](https://www.last.fm/music/mxmtoon/_/birdie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
