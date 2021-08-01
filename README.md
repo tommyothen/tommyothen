@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frank Ocean — Ivy](https://www.last.fm/music/Frank+Ocean/_/Ivy)
+* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
+* [The Neighbourhood — Daddy Issues](https://www.last.fm/music/The+Neighbourhood/_/Daddy+Issues)
 * [Billie Eilish — ocean eyes](https://www.last.fm/music/Billie+Eilish/_/ocean+eyes)
-* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
-* [Rex Orange County — A Song About Being Sad](https://www.last.fm/music/Rex+Orange+County/_/A+Song+About+Being+Sad)
-* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
-* [Sundara Karma — She Said](https://www.last.fm/music/Sundara+Karma/_/She+Said)<!-- LASTFM:END -->
+* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
