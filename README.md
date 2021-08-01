@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — high & dry](https://www.last.fm/music/mxmtoon/_/high+&+dry)
+* [mxmtoon — birdie](https://www.last.fm/music/mxmtoon/_/birdie)
 * [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
 * [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
-* [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)
-* [Jid — Workin Out](https://www.last.fm/music/Jid/_/Workin+Out)
-* [Haywyre — Let Me Hear That](https://www.last.fm/music/Haywyre/_/Let+Me+Hear+That)<!-- LASTFM:END -->
+* [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
