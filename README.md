@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — birdie](https://www.last.fm/music/mxmtoon/_/birdie)
-* [mxmtoon — late nights - acoustic](https://www.last.fm/music/mxmtoon/_/late+nights+-+acoustic)
-* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
-* [mxmtoon — wallflower](https://www.last.fm/music/mxmtoon/_/wallflower)
-* [mxmtoon — lessons - boyinblue remix](https://www.last.fm/music/mxmtoon/_/lessons+-+boyinblue+remix)<!-- LASTFM:END -->
+* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [mxmtoon — temporary nothing - Charlie Burg edit](https://www.last.fm/music/mxmtoon/_/temporary+nothing+-+Charlie+Burg+edit)
+* [mxmtoon — untitled - acoustic](https://www.last.fm/music/mxmtoon/_/untitled+-+acoustic)
+* [mxmtoon — i miss you](https://www.last.fm/music/mxmtoon/_/i+miss+you)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
