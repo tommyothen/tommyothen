@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — ok on your own - LilyPichu edit](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+-+LilyPichu+edit)
-* [mxmtoon — i feel like chet](https://www.last.fm/music/mxmtoon/_/i+feel+like+chet)
-* [mxmtoon — asking for a friend](https://www.last.fm/music/mxmtoon/_/asking+for+a+friend)
-* [mxmtoon — ok on your own (feat. Carly Rae Jepsen)](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+(feat.+Carly+Rae+Jepsen))
-* [llusion — walk but in a garden (with mxmtoon)](https://www.last.fm/music/llusion/_/walk+but+in+a+garden+(with+mxmtoon))<!-- LASTFM:END -->
+* [mxmtoon — untitled - acoustic](https://www.last.fm/music/mxmtoon/_/untitled+-+acoustic)
+* [mxmtoon — untitled](https://www.last.fm/music/mxmtoon/_/untitled)
+* [mxmtoon — birdie](https://www.last.fm/music/mxmtoon/_/birdie)
+* [mxmtoon — fever dream - Shawn Wasabi remix](https://www.last.fm/music/mxmtoon/_/fever+dream+-+Shawn+Wasabi+remix)
+* [mxmtoon — ok on your own - LilyPichu edit](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+-+LilyPichu+edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
