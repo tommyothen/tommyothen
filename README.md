@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — my ted talk](https://www.last.fm/music/mxmtoon/_/my+ted+talk)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
 * [mxmtoon — late nights](https://www.last.fm/music/mxmtoon/_/late+nights)
 * [llusion — walk but in a garden (with mxmtoon)](https://www.last.fm/music/llusion/_/walk+but+in+a+garden+(with+mxmtoon))
-* [mxmtoon — My Way](https://www.last.fm/music/mxmtoon/_/My+Way)
-* [mxmtoon — don't play your card](https://www.last.fm/music/mxmtoon/_/don%27t+play+your+card)
-* [mxmtoon — fever dream - acoustic](https://www.last.fm/music/mxmtoon/_/fever+dream+-+acoustic)<!-- LASTFM:END -->
+* [mxmtoon — My Way](https://www.last.fm/music/mxmtoon/_/My+Way)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
