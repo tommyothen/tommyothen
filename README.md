@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — birdie](https://www.last.fm/music/mxmtoon/_/birdie)
+* [mxmtoon — late nights - acoustic](https://www.last.fm/music/mxmtoon/_/late+nights+-+acoustic)
 * [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
 * [mxmtoon — wallflower](https://www.last.fm/music/mxmtoon/_/wallflower)
-* [mxmtoon — lessons - boyinblue remix](https://www.last.fm/music/mxmtoon/_/lessons+-+boyinblue+remix)
-* [mxmtoon — please don't](https://www.last.fm/music/mxmtoon/_/please+don%27t)
-* [mxmtoon — prom dress - acoustic](https://www.last.fm/music/mxmtoon/_/prom+dress+-+acoustic)<!-- LASTFM:END -->
+* [mxmtoon — lessons - boyinblue remix](https://www.last.fm/music/mxmtoon/_/lessons+-+boyinblue+remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
