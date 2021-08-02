@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
-* [mxmtoon — bon iver - acoustic](https://www.last.fm/music/mxmtoon/_/bon+iver+-+acoustic)
-* [mxmtoon — my ted talk](https://www.last.fm/music/mxmtoon/_/my+ted+talk)
+* [G Flip — Queen](https://www.last.fm/music/G+Flip/_/Queen)
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [mxmtoon — late nights](https://www.last.fm/music/mxmtoon/_/late+nights)<!-- LASTFM:END -->
+* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
+* [mxmtoon — bon iver - acoustic](https://www.last.fm/music/mxmtoon/_/bon+iver+-+acoustic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
