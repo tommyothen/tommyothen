@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — untitled - acoustic](https://www.last.fm/music/mxmtoon/_/untitled+-+acoustic)
-* [mxmtoon — untitled](https://www.last.fm/music/mxmtoon/_/untitled)
-* [mxmtoon — birdie](https://www.last.fm/music/mxmtoon/_/birdie)
-* [mxmtoon — fever dream - Shawn Wasabi remix](https://www.last.fm/music/mxmtoon/_/fever+dream+-+Shawn+Wasabi+remix)
-* [mxmtoon — ok on your own - LilyPichu edit](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+-+LilyPichu+edit)<!-- LASTFM:END -->
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [mxmtoon — the sideline](https://www.last.fm/music/mxmtoon/_/the+sideline)
+* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
+* [mxmtoon — blame game](https://www.last.fm/music/mxmtoon/_/blame+game)
+* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
