@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
 * [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
 * [Poppy — Flux](https://www.last.fm/music/Poppy/_/Flux)
-* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
-* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
-* [Akintoye — Off My Back](https://www.last.fm/music/Akintoye/_/Off+My+Back)<!-- LASTFM:END -->
+* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
