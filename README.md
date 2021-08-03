@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kazuo — RED BLACK](https://www.last.fm/music/Kazuo/_/RED+BLACK)
-* [mxmtoon — wallflower](https://www.last.fm/music/mxmtoon/_/wallflower)
-* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
-* [mxmtoon — ok on your own (feat. Carly Rae Jepsen)](https://www.last.fm/music/mxmtoon/_/ok+on+your+own+(feat.+Carly+Rae+Jepsen))
-* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)<!-- LASTFM:END -->
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
+* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)
+* [Kazuo — JAP GOD](https://www.last.fm/music/Kazuo/_/JAP+GOD)
+* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
+* [Kazuo — RED BLACK](https://www.last.fm/music/Kazuo/_/RED+BLACK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
