@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zamir — on the move](https://www.last.fm/music/Zamir/_/on+the+move)
+* [MIYAVI — I’m So](https://www.last.fm/music/MIYAVI/_/I%E2%80%99m+So)
 * [Kamil — Bakugo!](https://www.last.fm/music/Kamil/_/Bakugo!)
 * [Kazuo — FUJI](https://www.last.fm/music/Kazuo/_/FUJI)
-* [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)
-* [Vincent Augustus — I Think I'm Tired](https://www.last.fm/music/Vincent+Augustus/_/I+Think+I%27m+Tired)
-* [Dedboii Kez — Oh!](https://www.last.fm/music/Dedboii+Kez/_/Oh!)<!-- LASTFM:END -->
+* [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
