@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kazuo — 88RISING](https://www.last.fm/music/Kazuo/_/88RISING)
+* [Kazuo — ICHIBAN](https://www.last.fm/music/Kazuo/_/ICHIBAN)
+* [Shawn Wasabi — Squeez®](https://www.last.fm/music/Shawn+Wasabi/_/Squeez%C2%AE)
 * [Hobo Johnson — Subaru Crosstrek XV](https://www.last.fm/music/Hobo+Johnson/_/Subaru+Crosstrek+XV)
-* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
-* [Airospace — andromeda](https://www.last.fm/music/Airospace/_/andromeda)
-* [Tiny Meat Gang — Walk Man](https://www.last.fm/music/Tiny+Meat+Gang/_/Walk+Man)
-* [DEMONDICE — You're an Ace, Kid](https://www.last.fm/music/DEMONDICE/_/You%27re+an+Ace,+Kid)<!-- LASTFM:END -->
+* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
