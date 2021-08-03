@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kazuo — RED BLACK](https://www.last.fm/music/Kazuo/_/RED+BLACK)
 * [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
 * [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
 * [mxmtoon — unspoken words - acoustic](https://www.last.fm/music/mxmtoon/_/unspoken+words+-+acoustic)
-* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
-* [G Flip — Queen](https://www.last.fm/music/G+Flip/_/Queen)<!-- LASTFM:END -->
+* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
