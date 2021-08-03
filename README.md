@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Colliding With Mars — my mom doesn't believe in me](https://www.last.fm/music/Colliding+With+Mars/_/my+mom+doesn%27t+believe+in+me)
+* [Watsky — Mean Ass Drunk](https://www.last.fm/music/Watsky/_/Mean+Ass+Drunk)
 * [Thiago — hot on my heels](https://www.last.fm/music/Thiago/_/hot+on+my+heels)
 * [REOL — drop pop candy (feat. ギガ)](https://www.last.fm/music/REOL/_/drop+pop+candy+(feat.+%E3%82%AE%E3%82%AC))
-* [JustWarrenPeace — Blue (Interlude)](https://www.last.fm/music/JustWarrenPeace/_/Blue+(Interlude))
-* [Jakey — Not Dead Yet](https://www.last.fm/music/Jakey/_/Not+Dead+Yet)
-* [TTS Rav — Run It](https://www.last.fm/music/TTS+Rav/_/Run+It)<!-- LASTFM:END -->
+* [JustWarrenPeace — Blue (Interlude)](https://www.last.fm/music/JustWarrenPeace/_/Blue+(Interlude))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
