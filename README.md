@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kazuo — ARIGATO](https://www.last.fm/music/Kazuo/_/ARIGATO)
+* [tobi lou — Buff Baby](https://www.last.fm/music/tobi+lou/_/Buff+Baby)
 * [MIYAVI — In Crowd](https://www.last.fm/music/MIYAVI/_/In+Crowd)
 * [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
-* [Hobo Johnson — Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story)
-* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)
-* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)<!-- LASTFM:END -->
+* [Hobo Johnson — Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
