@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hobo Johnson — Subaru Crosstrek XV](https://www.last.fm/music/Hobo+Johnson/_/Subaru+Crosstrek+XV)
+* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
+* [Airospace — andromeda](https://www.last.fm/music/Airospace/_/andromeda)
 * [Tiny Meat Gang — Walk Man](https://www.last.fm/music/Tiny+Meat+Gang/_/Walk+Man)
-* [DEMONDICE — You're an Ace, Kid](https://www.last.fm/music/DEMONDICE/_/You%27re+an+Ace,+Kid)
-* [Colliding With Mars — my mom doesn't believe in me](https://www.last.fm/music/Colliding+With+Mars/_/my+mom+doesn%27t+believe+in+me)
-* [Watsky — Mean Ass Drunk](https://www.last.fm/music/Watsky/_/Mean+Ass+Drunk)
-* [Thiago — hot on my heels](https://www.last.fm/music/Thiago/_/hot+on+my+heels)<!-- LASTFM:END -->
+* [DEMONDICE — You're an Ace, Kid](https://www.last.fm/music/DEMONDICE/_/You%27re+an+Ace,+Kid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
