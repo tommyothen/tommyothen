@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — unspoken words - acoustic](https://www.last.fm/music/mxmtoon/_/unspoken+words+-+acoustic)
 * [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
 * [G Flip — Queen](https://www.last.fm/music/G+Flip/_/Queen)
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
-* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)<!-- LASTFM:END -->
+* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
