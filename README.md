@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kazuo — 88RISING](https://www.last.fm/music/Kazuo/_/88RISING)
-* [Kazuo — ICHIBAN](https://www.last.fm/music/Kazuo/_/ICHIBAN)
-* [Shawn Wasabi — Squeez®](https://www.last.fm/music/Shawn+Wasabi/_/Squeez%C2%AE)
-* [Hobo Johnson — Subaru Crosstrek XV](https://www.last.fm/music/Hobo+Johnson/_/Subaru+Crosstrek+XV)
-* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)<!-- LASTFM:END -->
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
+* [brakence — dropout (w/ blackbear)](https://www.last.fm/music/brakence/_/dropout+(w%2F+blackbear))
+* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)
+* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)
+* [Kazuo — 88RISING](https://www.last.fm/music/Kazuo/_/88RISING)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
