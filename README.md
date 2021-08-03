@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Boba Boyz — Thai Tea Trippin'](https://www.last.fm/music/Boba+Boyz/_/Thai+Tea+Trippin%27)
+* [Belaganas — Punks](https://www.last.fm/music/Belaganas/_/Punks)
 * [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
 * [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)
-* [Kazuo — JAP GOD](https://www.last.fm/music/Kazuo/_/JAP+GOD)
-* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
-* [Kazuo — RED BLACK](https://www.last.fm/music/Kazuo/_/RED+BLACK)<!-- LASTFM:END -->
+* [Kazuo — JAP GOD](https://www.last.fm/music/Kazuo/_/JAP+GOD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
