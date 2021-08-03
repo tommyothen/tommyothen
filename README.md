@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Kazuo — RED BLACK](https://www.last.fm/music/Kazuo/_/RED+BLACK)
 * [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
+* [Kazuo — RED BLACK](https://www.last.fm/music/Kazuo/_/RED+BLACK)
 * [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
-* [mxmtoon — unspoken words - acoustic](https://www.last.fm/music/mxmtoon/_/unspoken+words+-+acoustic)
-* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)<!-- LASTFM:END -->
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
