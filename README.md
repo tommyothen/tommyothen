@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Colliding With Mars — my mom doesn't believe in me](https://www.last.fm/music/Colliding+With+Mars/_/my+mom+doesn%27t+believe+in+me)
+* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
 * [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
 * [brakence — dropout (w/ blackbear)](https://www.last.fm/music/brakence/_/dropout+(w%2F+blackbear))
-* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)
-* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)
-* [Kazuo — 88RISING](https://www.last.fm/music/Kazuo/_/88RISING)<!-- LASTFM:END -->
+* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
