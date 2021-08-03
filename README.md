@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hobo Johnson — Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story)
+* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
 * [Samsa — Burfi](https://www.last.fm/music/Samsa/_/Burfi)
-* [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)
-* [Boba Boyz — Thai Tea Trippin'](https://www.last.fm/music/Boba+Boyz/_/Thai+Tea+Trippin%27)
-* [Belaganas — Punks](https://www.last.fm/music/Belaganas/_/Punks)
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)<!-- LASTFM:END -->
+* [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
