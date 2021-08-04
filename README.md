@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kiro Akiyama — Caffeine](https://www.last.fm/music/Kiro+Akiyama/_/Caffeine)
-* [Cody・Lee(李) — 我愛你](https://www.last.fm/music/Cody%E3%83%BBLee(%E6%9D%8E)/_/%E6%88%91%E6%84%9B%E4%BD%A0)
-* [Tis Tis — Another](https://www.last.fm/music/Tis+Tis/_/Another)
-* [Coin — Cemetery](https://www.last.fm/music/Coin/_/Cemetery)
-* [Eyas — Circling](https://www.last.fm/music/Eyas/_/Circling)<!-- LASTFM:END -->
+* [Phebe Starr — Ice Tea Liberace](https://www.last.fm/music/Phebe+Starr/_/Ice+Tea+Liberace)
+* [nalba — 3%](https://www.last.fm/music/nalba/_/3%25)
+* [HOLYCHILD — Raining Romance](https://www.last.fm/music/HOLYCHILD/_/Raining+Romance)
+* [Willow — t r a n s p a r e n t s o u l feat. Travis Barker](https://www.last.fm/music/Willow/_/t+r+a+n+s+p+a+r+e+n+t+s+o+u+l+feat.+Travis+Barker)
+* [Miss Benny — One Damn Good Mistake](https://www.last.fm/music/Miss+Benny/_/One+Damn+Good+Mistake)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
