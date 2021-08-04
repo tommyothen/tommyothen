@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Arizona Zervas — Roxanne](https://www.last.fm/music/Arizona+Zervas/_/Roxanne)
+* [Atlas — BROKEN BEARINGS](https://www.last.fm/music/Atlas/_/BROKEN+BEARINGS)
 * [Ally Hills — Not Now](https://www.last.fm/music/Ally+Hills/_/Not+Now)
 * [Miranda Glory — Pisces](https://www.last.fm/music/Miranda+Glory/_/Pisces)
-* [wavvyboi — phantom](https://www.last.fm/music/wavvyboi/_/phantom)
-* [FINNEAS — I Don't Miss You at All](https://www.last.fm/music/FINNEAS/_/I+Don%27t+Miss+You+at+All)
-* [Brye — Lemons - Demo](https://www.last.fm/music/Brye/_/Lemons+-+Demo)<!-- LASTFM:END -->
+* [wavvyboi — phantom](https://www.last.fm/music/wavvyboi/_/phantom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
