@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cody・Lee(李) — 我愛你](https://www.last.fm/music/Cody%E3%83%BBLee(%E6%9D%8E)/_/%E6%88%91%E6%84%9B%E4%BD%A0)
+* [Tis Tis — Another](https://www.last.fm/music/Tis+Tis/_/Another)
 * [Coin — Cemetery](https://www.last.fm/music/Coin/_/Cemetery)
 * [Eyas — Circling](https://www.last.fm/music/Eyas/_/Circling)
-* [Au/Ra — Ideas](https://www.last.fm/music/Au%2FRa/_/Ideas)
-* [Weathers — C'est La Vie](https://www.last.fm/music/Weathers/_/C%27est+La+Vie)
-* [Elliot Lee — Pink (Freak)](https://www.last.fm/music/Elliot+Lee/_/Pink+(Freak))<!-- LASTFM:END -->
+* [Au/Ra — Ideas](https://www.last.fm/music/Au%2FRa/_/Ideas)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
