@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PVRIS — Dead Weight](https://www.last.fm/music/PVRIS/_/Dead+Weight)
 * [Danny gonzalez — My Dad Is Rich](https://www.last.fm/music/Danny+gonzalez/_/My+Dad+Is+Rich)
 * [fig — Ma Huggies](https://www.last.fm/music/fig/_/Ma+Huggies)
 * [Harry Teardrop — Strawberry](https://www.last.fm/music/Harry+Teardrop/_/Strawberry)
-* [So!YoON! — Fntsy (feat. Jvcki Wai)](https://www.last.fm/music/So!YoON!/_/Fntsy+(feat.+Jvcki+Wai))
-* [NOT THE MAIN CHARACTERS — Murder Party](https://www.last.fm/music/NOT+THE+MAIN+CHARACTERS/_/Murder+Party)<!-- LASTFM:END -->
+* [So!YoON! — Fntsy (feat. Jvcki Wai)](https://www.last.fm/music/So!YoON!/_/Fntsy+(feat.+Jvcki+Wai))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
