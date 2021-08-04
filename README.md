@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kiro Akiyama — Caffeine](https://www.last.fm/music/Kiro+Akiyama/_/Caffeine)
 * [Cody・Lee(李) — 我愛你](https://www.last.fm/music/Cody%E3%83%BBLee(%E6%9D%8E)/_/%E6%88%91%E6%84%9B%E4%BD%A0)
 * [Tis Tis — Another](https://www.last.fm/music/Tis+Tis/_/Another)
 * [Coin — Cemetery](https://www.last.fm/music/Coin/_/Cemetery)
-* [Eyas — Circling](https://www.last.fm/music/Eyas/_/Circling)
-* [Au/Ra — Ideas](https://www.last.fm/music/Au%2FRa/_/Ideas)<!-- LASTFM:END -->
+* [Eyas — Circling](https://www.last.fm/music/Eyas/_/Circling)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
