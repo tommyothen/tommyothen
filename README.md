@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Freddie Dredd — Evil fantasy](https://www.last.fm/music/Freddie+Dredd/_/Evil+fantasy)
+* [Shaun — Way Back Home (feat. Conor Maynard) - Sam Feldt Edit](https://www.last.fm/music/Shaun/_/Way+Back+Home+(feat.+Conor+Maynard)+-+Sam+Feldt+Edit)
+* [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)
 * [D-Real [愛] — Until Next Time...](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Until+Next+Time...)
-* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
-* [Marcus D — Dionysus](https://www.last.fm/music/Marcus+D/_/Dionysus)
-* [SAGUN — I'll Keep You Safe](https://www.last.fm/music/SAGUN/_/I%27ll+Keep+You+Safe)
-* [bbno$ — bad girl](https://www.last.fm/music/bbno$/_/bad+girl)<!-- LASTFM:END -->
+* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
