@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Marcus D — Dionysus](https://www.last.fm/music/Marcus+D/_/Dionysus)
+* [SAGUN — I'll Keep You Safe](https://www.last.fm/music/SAGUN/_/I%27ll+Keep+You+Safe)
 * [bbno$ — bad girl](https://www.last.fm/music/bbno$/_/bad+girl)
 * [Omniboi — Amnesia](https://www.last.fm/music/Omniboi/_/Amnesia)
-* [Royal & the Serpent — Weddings & Funerals](https://www.last.fm/music/Royal+&+the+Serpent/_/Weddings+&+Funerals)
-* [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)
-* [Joji — YEAH RIGHT](https://www.last.fm/music/Joji/_/YEAH+RIGHT)<!-- LASTFM:END -->
+* [Royal & the Serpent — Weddings & Funerals](https://www.last.fm/music/Royal+&+the+Serpent/_/Weddings+&+Funerals)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
