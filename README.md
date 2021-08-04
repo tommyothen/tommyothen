@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)
+* [Joji — YEAH RIGHT](https://www.last.fm/music/Joji/_/YEAH+RIGHT)
+* [Tyler, The Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+The+Creator/_/EARFQUAKE)
 * [Loco — Don’t](https://www.last.fm/music/Loco/_/Don%E2%80%99t)
-* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
-* [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
-* [ilyTOMMY — Tunnel of Love - Remix](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love+-+Remix)
-* [Feduk — Я не могу понять](https://www.last.fm/music/Feduk/_/%D0%AF+%D0%BD%D0%B5+%D0%BC%D0%BE%D0%B3%D1%83+%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D1%8C)<!-- LASTFM:END -->
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
