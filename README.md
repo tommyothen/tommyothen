@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Unlike Pluto — Revenge, And a Little More](https://www.last.fm/music/Unlike+Pluto/_/Revenge,+And+a+Little+More)
+* [YUNG BAE — Must Be Love](https://www.last.fm/music/YUNG+BAE/_/Must+Be+Love)
+* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
 * [Atwood — Best Friends](https://www.last.fm/music/Atwood/_/Best+Friends)
-* [yunomi — Wakusei Rabbit](https://www.last.fm/music/yunomi/_/Wakusei+Rabbit)
-* [XYLØ — ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)
-* [Bearson — Go to Sleep (feat. Kailee Morgue) (feat. Kailee Morgue) - Oshi Remix](https://www.last.fm/music/Bearson/_/Go+to+Sleep+(feat.+Kailee+Morgue)+(feat.+Kailee+Morgue)+-+Oshi+Remix)
-* [Chase & Status — End Credits](https://www.last.fm/music/Chase+&+Status/_/End+Credits)<!-- LASTFM:END -->
+* [yunomi — Wakusei Rabbit](https://www.last.fm/music/yunomi/_/Wakusei+Rabbit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
