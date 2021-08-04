@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kazuo — ICHIBAN](https://www.last.fm/music/Kazuo/_/ICHIBAN)
+* [Ivan B — Our Time Together (feat. Marie Elizabeth)](https://www.last.fm/music/Ivan+B/_/Our+Time+Together+(feat.+Marie+Elizabeth))
 * [Arizona Zervas — Roxanne](https://www.last.fm/music/Arizona+Zervas/_/Roxanne)
 * [Atlas — BROKEN BEARINGS](https://www.last.fm/music/Atlas/_/BROKEN+BEARINGS)
-* [Ally Hills — Not Now](https://www.last.fm/music/Ally+Hills/_/Not+Now)
-* [Miranda Glory — Pisces](https://www.last.fm/music/Miranda+Glory/_/Pisces)
-* [wavvyboi — phantom](https://www.last.fm/music/wavvyboi/_/phantom)<!-- LASTFM:END -->
+* [Ally Hills — Not Now](https://www.last.fm/music/Ally+Hills/_/Not+Now)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
