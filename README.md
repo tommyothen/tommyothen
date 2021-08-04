@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Au/Ra — Ideas](https://www.last.fm/music/Au%2FRa/_/Ideas)
+* [Weathers — C'est La Vie](https://www.last.fm/music/Weathers/_/C%27est+La+Vie)
 * [Elliot Lee — Pink (Freak)](https://www.last.fm/music/Elliot+Lee/_/Pink+(Freak))
 * [Mazie — no friends](https://www.last.fm/music/Mazie/_/no+friends)
-* [Waterparks — Turbulent](https://www.last.fm/music/Waterparks/_/Turbulent)
-* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
-* [Camellia — SLIME INCIDENT](https://www.last.fm/music/Camellia/_/SLIME+INCIDENT)<!-- LASTFM:END -->
+* [Waterparks — Turbulent](https://www.last.fm/music/Waterparks/_/Turbulent)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
