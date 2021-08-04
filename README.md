@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loco — Don’t](https://www.last.fm/music/Loco/_/Don%E2%80%99t)
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
+* [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
 * [ilyTOMMY — Tunnel of Love - Remix](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love+-+Remix)
-* [Feduk — Я не могу понять](https://www.last.fm/music/Feduk/_/%D0%AF+%D0%BD%D0%B5+%D0%BC%D0%BE%D0%B3%D1%83+%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D1%8C)
-* [Kazuo — ICHIBAN](https://www.last.fm/music/Kazuo/_/ICHIBAN)
-* [Ivan B — Our Time Together (feat. Marie Elizabeth)](https://www.last.fm/music/Ivan+B/_/Our+Time+Together+(feat.+Marie+Elizabeth))
-* [Arizona Zervas — Roxanne](https://www.last.fm/music/Arizona+Zervas/_/Roxanne)<!-- LASTFM:END -->
+* [Feduk — Я не могу понять](https://www.last.fm/music/Feduk/_/%D0%AF+%D0%BD%D0%B5+%D0%BC%D0%BE%D0%B3%D1%83+%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D1%8C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
