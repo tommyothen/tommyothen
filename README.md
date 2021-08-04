@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)
 * [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
 * [Dumbfoundead — WASHED (PROD. BY SHAWN WASABI)](https://www.last.fm/music/Dumbfoundead/_/WASHED+(PROD.+BY+SHAWN+WASABI))
 * [Colliding With Mars — my mom doesn't believe in me](https://www.last.fm/music/Colliding+With+Mars/_/my+mom+doesn%27t+believe+in+me)
-* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)<!-- LASTFM:END -->
+* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
