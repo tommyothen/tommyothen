@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eva Grace — Goes Like (Do Do Do)](https://www.last.fm/music/Eva+Grace/_/Goes+Like+(Do+Do+Do))
+* [Cloudy June — Pretty Pills For Broken Hearts](https://www.last.fm/music/Cloudy+June/_/Pretty+Pills+For+Broken+Hearts)
 * [Sløtface — Slumber](https://www.last.fm/music/Sl%C3%B8tface/_/Slumber)
 * [PVRIS — Dead Weight](https://www.last.fm/music/PVRIS/_/Dead+Weight)
-* [Danny gonzalez — My Dad Is Rich](https://www.last.fm/music/Danny+gonzalez/_/My+Dad+Is+Rich)
-* [fig — Ma Huggies](https://www.last.fm/music/fig/_/Ma+Huggies)
-* [Harry Teardrop — Strawberry](https://www.last.fm/music/Harry+Teardrop/_/Strawberry)<!-- LASTFM:END -->
+* [Danny gonzalez — My Dad Is Rich](https://www.last.fm/music/Danny+gonzalez/_/My+Dad+Is+Rich)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
