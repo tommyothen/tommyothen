@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — My Name is Dark - Algorithm Mix](https://www.last.fm/music/Grimes/_/My+Name+is+Dark+-+Algorithm+Mix)
 * [Grimes — Darkseid](https://www.last.fm/music/Grimes/_/Darkseid)
 * [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
 * [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)
-* [Grimes — New Gods](https://www.last.fm/music/Grimes/_/New+Gods)
-* [Grimes — Violence - Club Mix](https://www.last.fm/music/Grimes/_/Violence+-+Club+Mix)<!-- LASTFM:END -->
+* [Grimes — New Gods](https://www.last.fm/music/Grimes/_/New+Gods)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
