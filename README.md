@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
+* [88Rising — La Cienega](https://www.last.fm/music/88Rising/_/La+Cienega)
 * [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
 * [Far Out — Rise](https://www.last.fm/music/Far+Out/_/Rise)
-* [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)
-* [Guardin — demons in my orbit](https://www.last.fm/music/Guardin/_/demons+in+my+orbit)
-* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)<!-- LASTFM:END -->
+* [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
