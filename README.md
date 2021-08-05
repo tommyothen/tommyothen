@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
+* [Dreamcatcher — Fly high](https://www.last.fm/music/Dreamcatcher/_/Fly+high)
 * [Unlike Pluto — Revenge, And a Little More](https://www.last.fm/music/Unlike+Pluto/_/Revenge,+And+a+Little+More)
 * [YUNG BAE — Must Be Love](https://www.last.fm/music/YUNG+BAE/_/Must+Be+Love)
-* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
-* [Atwood — Best Friends](https://www.last.fm/music/Atwood/_/Best+Friends)
-* [yunomi — Wakusei Rabbit](https://www.last.fm/music/yunomi/_/Wakusei+Rabbit)<!-- LASTFM:END -->
+* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
