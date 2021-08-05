@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
 * [Grimes — IDORU - Algorithm Mix](https://www.last.fm/music/Grimes/_/IDORU+-+Algorithm+Mix)
 * [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
 * [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [Grimes — My Name is Dark - Algorithm Mix](https://www.last.fm/music/Grimes/_/My+Name+is+Dark+-+Algorithm+Mix)
-* [Grimes — Darkseid](https://www.last.fm/music/Grimes/_/Darkseid)<!-- LASTFM:END -->
+* [Grimes — My Name is Dark - Algorithm Mix](https://www.last.fm/music/Grimes/_/My+Name+is+Dark+-+Algorithm+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
