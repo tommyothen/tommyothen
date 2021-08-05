@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
+* [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)
 * [Just A Gent — Rolling Dice](https://www.last.fm/music/Just+A+Gent/_/Rolling+Dice)
 * [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
-* [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [Grimes — Before the fever](https://www.last.fm/music/Grimes/_/Before+the+fever)<!-- LASTFM:END -->
+* [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
