@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Caladan](https://www.last.fm/music/Grimes/_/Caladan)
+* [Caroline Polachek — Door](https://www.last.fm/music/Caroline+Polachek/_/Door)
 * [Grimes — Nightmusic](https://www.last.fm/music/Grimes/_/Nightmusic)
 * [Cults — Always Forever](https://www.last.fm/music/Cults/_/Always+Forever)
-* [Grimes — Entropy](https://www.last.fm/music/Grimes/_/Entropy)
-* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
-* [Grimes — Zoal, Face Dancer](https://www.last.fm/music/Grimes/_/Zoal,+Face+Dancer)<!-- LASTFM:END -->
+* [Grimes — Entropy](https://www.last.fm/music/Grimes/_/Entropy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
