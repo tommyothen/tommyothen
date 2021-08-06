@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
+* [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)
 * [Grimes — Caladan](https://www.last.fm/music/Grimes/_/Caladan)
 * [Caroline Polachek — Door](https://www.last.fm/music/Caroline+Polachek/_/Door)
-* [Grimes — Nightmusic](https://www.last.fm/music/Grimes/_/Nightmusic)
-* [Cults — Always Forever](https://www.last.fm/music/Cults/_/Always+Forever)
-* [Grimes — Entropy](https://www.last.fm/music/Grimes/_/Entropy)<!-- LASTFM:END -->
+* [Grimes — Nightmusic](https://www.last.fm/music/Grimes/_/Nightmusic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
