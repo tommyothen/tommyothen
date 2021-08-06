@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Nightmusic](https://www.last.fm/music/Grimes/_/Nightmusic)
 * [Cults — Always Forever](https://www.last.fm/music/Cults/_/Always+Forever)
 * [Grimes — Entropy](https://www.last.fm/music/Grimes/_/Entropy)
 * [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
-* [Grimes — Zoal, Face Dancer](https://www.last.fm/music/Grimes/_/Zoal,+Face+Dancer)
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)<!-- LASTFM:END -->
+* [Grimes — Zoal, Face Dancer](https://www.last.fm/music/Grimes/_/Zoal,+Face+Dancer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
