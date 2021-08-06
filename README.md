@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kim Petras — Party Till I Die](https://www.last.fm/music/Kim+Petras/_/Party+Till+I+Die)
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
+* [Charli XCX — Tears (feat. Caroline Polachek)](https://www.last.fm/music/Charli+XCX/_/Tears+(feat.+Caroline+Polachek))
 * [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)
-* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
-* [Camellia — (The) Red * Room](https://www.last.fm/music/Camellia/_/(The)+Red+*+Room)<!-- LASTFM:END -->
+* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
