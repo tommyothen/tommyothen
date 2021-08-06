@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
 * [Rina Sawayama — Bees & Honey - Bonus Track](https://www.last.fm/music/Rina+Sawayama/_/Bees+&+Honey+-+Bonus+Track)
 * [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
 * [Kim Petras — Party Till I Die](https://www.last.fm/music/Kim+Petras/_/Party+Till+I+Die)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [Charli XCX — Tears (feat. Caroline Polachek)](https://www.last.fm/music/Charli+XCX/_/Tears+(feat.+Caroline+Polachek))<!-- LASTFM:END -->
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
