@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Zoal, Face Dancer](https://www.last.fm/music/Grimes/_/Zoal,+Face+Dancer)
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
+* [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
 * [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
-* [Janelle Monáe — Pynk (feat. Grimes)](https://www.last.fm/music/Janelle+Mon%C3%A1e/_/Pynk+(feat.+Grimes))
-* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
-* [Grimes — Delicate Weapon](https://www.last.fm/music/Grimes/_/Delicate+Weapon)
-* [J. Cole — She Knows (feat. Amber Coffman & Cults)](https://www.last.fm/music/J.+Cole/_/She+Knows+(feat.+Amber+Coffman+&+Cults))<!-- LASTFM:END -->
+* [Janelle Monáe — Pynk (feat. Grimes)](https://www.last.fm/music/Janelle+Mon%C3%A1e/_/Pynk+(feat.+Grimes))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
