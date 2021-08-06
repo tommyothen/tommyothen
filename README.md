@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Caroline Polachek — Hit Me Where It Hurts](https://www.last.fm/music/Caroline+Polachek/_/Hit+Me+Where+It+Hurts)
+* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
+* [Cults — Gilded Lily](https://www.last.fm/music/Cults/_/Gilded+Lily)
 * [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Poppy — Don't Go Outside](https://www.last.fm/music/Poppy/_/Don%27t+Go+Outside)
-* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
-* [Rina Sawayama — Bees & Honey - Bonus Track](https://www.last.fm/music/Rina+Sawayama/_/Bees+&+Honey+-+Bonus+Track)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)<!-- LASTFM:END -->
+* [Poppy — Don't Go Outside](https://www.last.fm/music/Poppy/_/Don%27t+Go+Outside)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
