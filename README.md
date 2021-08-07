@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sebastian Paul — INDULGE](https://www.last.fm/music/Sebastian+Paul/_/INDULGE)
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
 * [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
 * [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
-* [XYLØ — yes & no](https://www.last.fm/music/XYL%C3%98/_/yes+&+no)
-* [sub urban — Freak (feat. REI AMI)](https://www.last.fm/music/sub+urban/_/Freak+(feat.+REI+AMI))
-* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)<!-- LASTFM:END -->
+* [XYLØ — yes & no](https://www.last.fm/music/XYL%C3%98/_/yes+&+no)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
