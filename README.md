@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [love-sadKiD — Prequel](https://www.last.fm/music/love-sadKiD/_/Prequel)
+* [Grant Schaffer — Seeing Colors](https://www.last.fm/music/Grant+Schaffer/_/Seeing+Colors)
 * [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)
 * [love-sadKiD — Vinyl](https://www.last.fm/music/love-sadKiD/_/Vinyl)
-* [love-sadKiD — That Girl](https://www.last.fm/music/love-sadKiD/_/That+Girl)
-* [love-sadKiD — Stalemate](https://www.last.fm/music/love-sadKiD/_/Stalemate)
-* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)<!-- LASTFM:END -->
+* [love-sadKiD — That Girl](https://www.last.fm/music/love-sadKiD/_/That+Girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
