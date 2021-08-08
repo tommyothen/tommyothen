@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Axiliya — You Don't Know Me](https://www.last.fm/music/Axiliya/_/You+Don%27t+Know+Me)
+* [Axiliya — Distance](https://www.last.fm/music/Axiliya/_/Distance)
+* [Axiliya — Never Felt So Faded](https://www.last.fm/music/Axiliya/_/Never+Felt+So+Faded)
 * [Axiliya — Blue](https://www.last.fm/music/Axiliya/_/Blue)
-* [Axiliya — I Really Hate U](https://www.last.fm/music/Axiliya/_/I+Really+Hate+U)
-* [Axiliya — Will U Be My Valentine?](https://www.last.fm/music/Axiliya/_/Will+U+Be+My+Valentine%3F)
-* [Axiliya — kisses on my neck](https://www.last.fm/music/Axiliya/_/kisses+on+my+neck)
-* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)<!-- LASTFM:END -->
+* [Axiliya — I Really Hate U](https://www.last.fm/music/Axiliya/_/I+Really+Hate+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
