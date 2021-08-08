@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
-* [Axiliya — Trials & Tribulations](https://www.last.fm/music/Axiliya/_/Trials+&+Tribulations)
-* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)
-* [galdive — Nescience](https://www.last.fm/music/galdive/_/Nescience)
+* [Axiliya — Blue](https://www.last.fm/music/Axiliya/_/Blue)
+* [Axiliya — I Really Hate U](https://www.last.fm/music/Axiliya/_/I+Really+Hate+U)
+* [Axiliya — Will U Be My Valentine?](https://www.last.fm/music/Axiliya/_/Will+U+Be+My+Valentine%3F)
+* [Axiliya — kisses on my neck](https://www.last.fm/music/Axiliya/_/kisses+on+my+neck)
 * [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
