@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [love-sadKiD — Ephemeral](https://www.last.fm/music/love-sadKiD/_/Ephemeral)
-* [love-sadKiD — Growth](https://www.last.fm/music/love-sadKiD/_/Growth)
-* [love-sadKiD — Hopscotch](https://www.last.fm/music/love-sadKiD/_/Hopscotch)
-* [love-sadKiD — Poison Ivy](https://www.last.fm/music/love-sadKiD/_/Poison+Ivy)
-* [love-sadKiD — Habits](https://www.last.fm/music/love-sadKiD/_/Habits)<!-- LASTFM:END -->
+* [galdive — Nescience](https://www.last.fm/music/galdive/_/Nescience)
+* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
+* [Axiliya — Trials & Tribulations](https://www.last.fm/music/Axiliya/_/Trials+&+Tribulations)
+* [love-sadKiD — relief](https://www.last.fm/music/love-sadKiD/_/relief)
+* [love-sadKiD — Idk What](https://www.last.fm/music/love-sadKiD/_/Idk+What)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
