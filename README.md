@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [galdive — Nescience](https://www.last.fm/music/galdive/_/Nescience)
 * [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
 * [Axiliya — Trials & Tribulations](https://www.last.fm/music/Axiliya/_/Trials+&+Tribulations)
-* [love-sadKiD — relief](https://www.last.fm/music/love-sadKiD/_/relief)
-* [love-sadKiD — Idk What](https://www.last.fm/music/love-sadKiD/_/Idk+What)<!-- LASTFM:END -->
+* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)
+* [galdive — Nescience](https://www.last.fm/music/galdive/_/Nescience)
+* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
