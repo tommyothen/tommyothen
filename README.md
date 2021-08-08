@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [love-sadKiD — Hopscotch](https://www.last.fm/music/love-sadKiD/_/Hopscotch)
+* [love-sadKiD — Poison Ivy](https://www.last.fm/music/love-sadKiD/_/Poison+Ivy)
+* [love-sadKiD — Habits](https://www.last.fm/music/love-sadKiD/_/Habits)
 * [love-sadKiD — TA/PE](https://www.last.fm/music/love-sadKiD/_/TA%2FPE)
-* [love-sadKiD — Peachy](https://www.last.fm/music/love-sadKiD/_/Peachy)
-* [love-sadKiD — Prequel](https://www.last.fm/music/love-sadKiD/_/Prequel)
-* [Grant Schaffer — Seeing Colors](https://www.last.fm/music/Grant+Schaffer/_/Seeing+Colors)
-* [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)<!-- LASTFM:END -->
+* [love-sadKiD — Peachy](https://www.last.fm/music/love-sadKiD/_/Peachy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
