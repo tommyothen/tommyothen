@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)
+* [love-sadKiD — Vinyl](https://www.last.fm/music/love-sadKiD/_/Vinyl)
 * [love-sadKiD — That Girl](https://www.last.fm/music/love-sadKiD/_/That+Girl)
 * [love-sadKiD — Stalemate](https://www.last.fm/music/love-sadKiD/_/Stalemate)
-* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)
-* [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)
-* [love-sadKiD — Cash](https://www.last.fm/music/love-sadKiD/_/Cash)<!-- LASTFM:END -->
+* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
