@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
-* [Grimes — Darkseid](https://www.last.fm/music/Grimes/_/Darkseid)
-* [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)
-* [Grimes — So Heavy I Fell Through the Earth - Art Mix](https://www.last.fm/music/Grimes/_/So+Heavy+I+Fell+Through+the+Earth+-+Art+Mix)
-* [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)<!-- LASTFM:END -->
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
+* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)
+* [mxmtoon — don't play your card](https://www.last.fm/music/mxmtoon/_/don%27t+play+your+card)
+* [mxmtoon — 1, 2 (feat. chloe moriondo)](https://www.last.fm/music/mxmtoon/_/1,+2+(feat.+chloe+moriondo))
+* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
