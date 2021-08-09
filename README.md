@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [POORSTACY — Don't Look At Me](https://www.last.fm/music/POORSTACY/_/Don%27t+Look+At+Me)
+* [Acid Ghost — Summer is Here](https://www.last.fm/music/Acid+Ghost/_/Summer+is+Here)
+* [Tyler, The Creator — CORSO](https://www.last.fm/music/Tyler,+The+Creator/_/CORSO)
 * [Tyler, The Creator — LUMBERJACK](https://www.last.fm/music/Tyler,+The+Creator/_/LUMBERJACK)
-* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
-* [ScHoolboy Q — Collard Greens](https://www.last.fm/music/ScHoolboy+Q/_/Collard+Greens)
-* [Bring Me the Horizon — Antivist](https://www.last.fm/music/Bring+Me+the+Horizon/_/Antivist)
 * [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
