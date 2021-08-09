@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Disasterpiece](https://www.last.fm/music/Slipknot/_/Disasterpiece)
 * [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
 * [Slipknot — Get This](https://www.last.fm/music/Slipknot/_/Get+This)
 * [The Neighbourhood — Sweater Weather](https://www.last.fm/music/The+Neighbourhood/_/Sweater+Weather)
-* [Hazel — I Love Poland - Chengdu Remix](https://www.last.fm/music/Hazel/_/I+Love+Poland+-+Chengdu+Remix)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)<!-- LASTFM:END -->
+* [Hazel — I Love Poland - Chengdu Remix](https://www.last.fm/music/Hazel/_/I+Love+Poland+-+Chengdu+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
