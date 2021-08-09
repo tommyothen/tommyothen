@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bring Me the Horizon — Antivist](https://www.last.fm/music/Bring+Me+the+Horizon/_/Antivist)
+* [Tyler, The Creator — LUMBERJACK](https://www.last.fm/music/Tyler,+The+Creator/_/LUMBERJACK)
 * [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
-* [$uicideboy$ — Runnin' Thru the 7th with My Woadies](https://www.last.fm/music/$uicideboy$/_/Runnin%27+Thru+the+7th+with+My+Woadies)
-* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
-* [$uicideboy$ — PARIS](https://www.last.fm/music/$uicideboy$/_/PARIS)<!-- LASTFM:END -->
+* [ScHoolboy Q — Collard Greens](https://www.last.fm/music/ScHoolboy+Q/_/Collard+Greens)
+* [Bring Me the Horizon — Antivist](https://www.last.fm/music/Bring+Me+the+Horizon/_/Antivist)
+* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
