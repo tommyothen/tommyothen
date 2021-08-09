@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Eyeless](https://www.last.fm/music/Slipknot/_/Eyeless)
+* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
 * [Within Destruction — YŌKAI](https://www.last.fm/music/Within+Destruction/_/Y%C5%8CKAI)
 * [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
-* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)
-* [mxmtoon — don't play your card](https://www.last.fm/music/mxmtoon/_/don%27t+play+your+card)
-* [mxmtoon — 1, 2 (feat. chloe moriondo)](https://www.last.fm/music/mxmtoon/_/1,+2+(feat.+chloe+moriondo))<!-- LASTFM:END -->
+* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
