@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
 * [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)
 * [Axiliya — Distance](https://www.last.fm/music/Axiliya/_/Distance)
 * [Axiliya — Abyss Walker](https://www.last.fm/music/Axiliya/_/Abyss+Walker)
-* [Axiliya — Hazel Eyes](https://www.last.fm/music/Axiliya/_/Hazel+Eyes)
-* [Axiliya — Blue](https://www.last.fm/music/Axiliya/_/Blue)<!-- LASTFM:END -->
+* [Axiliya — Hazel Eyes](https://www.last.fm/music/Axiliya/_/Hazel+Eyes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
