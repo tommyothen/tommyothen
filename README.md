@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
+* [$uicideboy$ — Runnin' Thru the 7th with My Woadies](https://www.last.fm/music/$uicideboy$/_/Runnin%27+Thru+the+7th+with+My+Woadies)
+* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
 * [$uicideboy$ — PARIS](https://www.last.fm/music/$uicideboy$/_/PARIS)
-* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
-* [Ramirez — Cuban Links](https://www.last.fm/music/Ramirez/_/Cuban+Links)
-* [Yung Gravy — The Boys Are Back in Town](https://www.last.fm/music/Yung+Gravy/_/The+Boys+Are+Back+in+Town)
-* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))<!-- LASTFM:END -->
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
