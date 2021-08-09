@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ramirez — Cuban Links](https://www.last.fm/music/Ramirez/_/Cuban+Links)
 * [Yung Gravy — The Boys Are Back in Town](https://www.last.fm/music/Yung+Gravy/_/The+Boys+Are+Back+in+Town)
 * [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
 * [Bring Me the Horizon — Ludens](https://www.last.fm/music/Bring+Me+the+Horizon/_/Ludens)
-* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
-* [Slipknot — Solway Firth](https://www.last.fm/music/Slipknot/_/Solway+Firth)<!-- LASTFM:END -->
+* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
