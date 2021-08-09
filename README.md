@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
-* [Slipknot — Surfacing](https://www.last.fm/music/Slipknot/_/Surfacing)
-* [Bring Me the Horizon — Oh No](https://www.last.fm/music/Bring+Me+the+Horizon/_/Oh+No)
-* [Porter Robinson — Get Your Wish - DJ NOT PORTER ROBINSON Remix](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish+-+DJ+NOT+PORTER+ROBINSON+Remix)
-* [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)<!-- LASTFM:END -->
+* [Hazel — I Love Poland - Chengdu Remix](https://www.last.fm/music/Hazel/_/I+Love+Poland+-+Chengdu+Remix)
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
+* [Su Lee — Cocoa Butter Kisses](https://www.last.fm/music/Su+Lee/_/Cocoa+Butter+Kisses)
+* [JetsonMade — I WANNA SEE SOME ASS (feat. jetsonmade)](https://www.last.fm/music/JetsonMade/_/I+WANNA+SEE+SOME+ASS+(feat.+jetsonmade))
+* [Arcade Player — Coconut Mall (From "Mario Kart Wii")](https://www.last.fm/music/Arcade+Player/_/Coconut+Mall+(From+%22Mario+Kart+Wii%22))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
