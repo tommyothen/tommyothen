@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
-* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)
-* [Axiliya — Distance](https://www.last.fm/music/Axiliya/_/Distance)
-* [Axiliya — Abyss Walker](https://www.last.fm/music/Axiliya/_/Abyss+Walker)
-* [Axiliya — Hazel Eyes](https://www.last.fm/music/Axiliya/_/Hazel+Eyes)<!-- LASTFM:END -->
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
+* [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
+* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
