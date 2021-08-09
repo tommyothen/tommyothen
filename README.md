@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [POORSTACY — Don't Look At Me](https://www.last.fm/music/POORSTACY/_/Don%27t+Look+At+Me)
-* [Acid Ghost — Summer is Here](https://www.last.fm/music/Acid+Ghost/_/Summer+is+Here)
-* [Tyler, The Creator — CORSO](https://www.last.fm/music/Tyler,+The+Creator/_/CORSO)
-* [Tyler, The Creator — LUMBERJACK](https://www.last.fm/music/Tyler,+The+Creator/_/LUMBERJACK)
-* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)<!-- LASTFM:END -->
+* [Tiny Meat Gang — Broke Bitch](https://www.last.fm/music/Tiny+Meat+Gang/_/Broke+Bitch)
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
+* [$uicideboy$ — YOU'RE NOW TUNING INTO 66.6 FM WITH DJ RAPTURE (THE HOTTEST HOUR OF THE EVENING)](https://www.last.fm/music/$uicideboy$/_/YOU%27RE+NOW+TUNING+INTO+66.6+FM+WITH+DJ+RAPTURE+(THE+HOTTEST+HOUR+OF+THE+EVENING))
+* [$uicideboy$ — Whoa, I'm Woeful](https://www.last.fm/music/$uicideboy$/_/Whoa,+I%27m+Woeful)
+* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
