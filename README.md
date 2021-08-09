@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)
-* [A$AP Rocky — Excuse Me](https://www.last.fm/music/A$AP+Rocky/_/Excuse+Me)
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
-* [tobi lou — I Was Sad Last Night I'm OK Now](https://www.last.fm/music/tobi+lou/_/I+Was+Sad+Last+Night+I%27m+OK+Now)
-* [Tiny Meat Gang — Broke Bitch](https://www.last.fm/music/Tiny+Meat+Gang/_/Broke+Bitch)<!-- LASTFM:END -->
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
+* [Slipknot — Surfacing](https://www.last.fm/music/Slipknot/_/Surfacing)
+* [Bring Me the Horizon — Oh No](https://www.last.fm/music/Bring+Me+the+Horizon/_/Oh+No)
+* [Porter Robinson — Get Your Wish - DJ NOT PORTER ROBINSON Remix](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish+-+DJ+NOT+PORTER+ROBINSON+Remix)
+* [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
