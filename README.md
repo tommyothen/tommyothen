@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
+* [Antoha MC — Спорт-брат](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BF%D0%BE%D1%80%D1%82-%D0%B1%D1%80%D0%B0%D1%82)
+* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
 * [Adele — Hometown Glory - High Contrast Remix](https://www.last.fm/music/Adele/_/Hometown+Glory+-+High+Contrast+Remix)
-* [I_O — Something](https://www.last.fm/music/I_O/_/Something)
-* [Channel Tres — Topdown](https://www.last.fm/music/Channel+Tres/_/Topdown)
-* [Armin van Buuren — Mr. Navigator - i_o Remix](https://www.last.fm/music/Armin+van+Buuren/_/Mr.+Navigator+-+i_o+Remix)
-* [I_O — Rave 444](https://www.last.fm/music/I_O/_/Rave+444)<!-- LASTFM:END -->
+* [I_O — Something](https://www.last.fm/music/I_O/_/Something)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
