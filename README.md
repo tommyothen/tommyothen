@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bring Me the Horizon — Happy Song](https://www.last.fm/music/Bring+Me+the+Horizon/_/Happy+Song)
-* [bbno$ — golden rule](https://www.last.fm/music/bbno$/_/golden+rule)
-* [Bring Me the Horizon — Can You Feel My Heart](https://www.last.fm/music/Bring+Me+the+Horizon/_/Can+You+Feel+My+Heart)
-* [Slipknot — Disasterpiece](https://www.last.fm/music/Slipknot/_/Disasterpiece)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)<!-- LASTFM:END -->
+* [AMpm — more](https://www.last.fm/music/AMpm/_/more)
+* [Billy Marchiafava — Disco Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Disco+Type+Beat)
+* [Pouya — Superman Is Dead](https://www.last.fm/music/Pouya/_/Superman+Is+Dead)
+* [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)
+* [Bring Me the Horizon — Happy Song](https://www.last.fm/music/Bring+Me+the+Horizon/_/Happy+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
