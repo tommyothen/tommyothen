@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [I_O — Rave 444](https://www.last.fm/music/I_O/_/Rave+444)
-* [Grimes — Violence - Club Mix](https://www.last.fm/music/Grimes/_/Violence+-+Club+Mix)
-* [Tyler, The Creator — Yonkers](https://www.last.fm/music/Tyler,+The+Creator/_/Yonkers)
-* [Kanye West — Black Skinhead](https://www.last.fm/music/Kanye+West/_/Black+Skinhead)
-* [Paramore — Part II](https://www.last.fm/music/Paramore/_/Part+II)<!-- LASTFM:END -->
+* [Adele — Hometown Glory - High Contrast Remix](https://www.last.fm/music/Adele/_/Hometown+Glory+-+High+Contrast+Remix)
+* [I_O — Something](https://www.last.fm/music/I_O/_/Something)
+* [Channel Tres — Topdown](https://www.last.fm/music/Channel+Tres/_/Topdown)
+* [Armin van Buuren — Mr. Navigator - i_o Remix](https://www.last.fm/music/Armin+van+Buuren/_/Mr.+Navigator+-+i_o+Remix)
+* [I_O — Rave 444](https://www.last.fm/music/I_O/_/Rave+444)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
