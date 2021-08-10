@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Headhaunter — Engage Thrusters](https://www.last.fm/music/Headhaunter/_/Engage+Thrusters)
-* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)
-* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
-* [bbno$ — run this shit](https://www.last.fm/music/bbno$/_/run+this+shit)
-* [bbno$ — imma](https://www.last.fm/music/bbno$/_/imma)<!-- LASTFM:END -->
+* [Paramore — Part II](https://www.last.fm/music/Paramore/_/Part+II)
+* [PawPaw Rod — HIT EM WHERE IT HURTS](https://www.last.fm/music/PawPaw+Rod/_/HIT+EM+WHERE+IT+HURTS)
+* [Joji — Run](https://www.last.fm/music/Joji/_/Run)
+* [420 UNLOVABLE — Wii Tennis](https://www.last.fm/music/420+UNLOVABLE/_/Wii+Tennis)
+* [CURTIS WATERS — Stunnin' (feat. Harm Franklin)](https://www.last.fm/music/CURTIS+WATERS/_/Stunnin%27+(feat.+Harm+Franklin))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
