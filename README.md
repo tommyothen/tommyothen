@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rex Orange County — Edition](https://www.last.fm/music/Rex+Orange+County/_/Edition)
-* [Bakar — Ctrl Alt Del](https://www.last.fm/music/Bakar/_/Ctrl+Alt+Del)
-* [Kanye West — I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)
-* [AMpm — more](https://www.last.fm/music/AMpm/_/more)
-* [Billy Marchiafava — Disco Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Disco+Type+Beat)<!-- LASTFM:END -->
+* [I_O — Rave 444](https://www.last.fm/music/I_O/_/Rave+444)
+* [Grimes — Violence - Club Mix](https://www.last.fm/music/Grimes/_/Violence+-+Club+Mix)
+* [Tyler, The Creator — Yonkers](https://www.last.fm/music/Tyler,+The+Creator/_/Yonkers)
+* [Kanye West — Black Skinhead](https://www.last.fm/music/Kanye+West/_/Black+Skinhead)
+* [Paramore — Part II](https://www.last.fm/music/Paramore/_/Part+II)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
