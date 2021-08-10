@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rex Orange County — Edition](https://www.last.fm/music/Rex+Orange+County/_/Edition)
+* [Bakar — Ctrl Alt Del](https://www.last.fm/music/Bakar/_/Ctrl+Alt+Del)
+* [Kanye West — I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)
 * [AMpm — more](https://www.last.fm/music/AMpm/_/more)
-* [Billy Marchiafava — Disco Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Disco+Type+Beat)
-* [Pouya — Superman Is Dead](https://www.last.fm/music/Pouya/_/Superman+Is+Dead)
-* [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)
-* [Bring Me the Horizon — Happy Song](https://www.last.fm/music/Bring+Me+the+Horizon/_/Happy+Song)<!-- LASTFM:END -->
+* [Billy Marchiafava — Disco Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Disco+Type+Beat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
