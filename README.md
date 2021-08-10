@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
 * [Kendrick Lamar — Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)
 * [Jid — Workin’ Out - A Colors Show](https://www.last.fm/music/Jid/_/Workin%E2%80%99+Out+-+A+Colors+Show)
 * [Skepta — Shutdown](https://www.last.fm/music/Skepta/_/Shutdown)
-* [Apathy — Stop What Ya Doin' (feat. Celph Titled & DJ Premier)](https://www.last.fm/music/Apathy/_/Stop+What+Ya+Doin%27+(feat.+Celph+Titled+&+DJ+Premier))
-* [Mexican Institute of Sound — El Antídoto](https://www.last.fm/music/Mexican+Institute+of+Sound/_/El+Ant%C3%ADdoto)<!-- LASTFM:END -->
+* [Apathy — Stop What Ya Doin' (feat. Celph Titled & DJ Premier)](https://www.last.fm/music/Apathy/_/Stop+What+Ya+Doin%27+(feat.+Celph+Titled+&+DJ+Premier))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
