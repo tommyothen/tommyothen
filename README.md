@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Royal & the Serpent — Weddings & Funerals](https://www.last.fm/music/Royal+&+the+Serpent/_/Weddings+&+Funerals)
-* [Pouya — Superman Is Dead](https://www.last.fm/music/Pouya/_/Superman+Is+Dead)
-* [blackbear — idfc](https://www.last.fm/music/blackbear/_/idfc)
-* [lil ricefield — HOHO!](https://www.last.fm/music/lil+ricefield/_/HOHO!)
-* [88Rising — History](https://www.last.fm/music/88Rising/_/History)<!-- LASTFM:END -->
+* [bbno$ — run this shit](https://www.last.fm/music/bbno$/_/run+this+shit)
+* [bbno$ — imma](https://www.last.fm/music/bbno$/_/imma)
+* [Aries — Racecar](https://www.last.fm/music/Aries/_/Racecar)
+* [ROY PURDY — Walk It out!](https://www.last.fm/music/ROY+PURDY/_/Walk+It+out!)
+* [Royal & the Serpent — Weddings & Funerals](https://www.last.fm/music/Royal+&+the+Serpent/_/Weddings+&+Funerals)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
