@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Headhaunter — Engage Thrusters](https://www.last.fm/music/Headhaunter/_/Engage+Thrusters)
+* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)
+* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
 * [bbno$ — run this shit](https://www.last.fm/music/bbno$/_/run+this+shit)
-* [bbno$ — imma](https://www.last.fm/music/bbno$/_/imma)
-* [Aries — Racecar](https://www.last.fm/music/Aries/_/Racecar)
-* [ROY PURDY — Walk It out!](https://www.last.fm/music/ROY+PURDY/_/Walk+It+out!)
-* [Royal & the Serpent — Weddings & Funerals](https://www.last.fm/music/Royal+&+the+Serpent/_/Weddings+&+Funerals)<!-- LASTFM:END -->
+* [bbno$ — imma](https://www.last.fm/music/bbno$/_/imma)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
