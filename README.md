@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
-* [Purity Ring — stardew](https://www.last.fm/music/Purity+Ring/_/stardew)
-* [Allie X — Susie Save Your Love](https://www.last.fm/music/Allie+X/_/Susie+Save+Your+Love)
-* [Magdalena Bay — Ghost](https://www.last.fm/music/Magdalena+Bay/_/Ghost)
-* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)<!-- LASTFM:END -->
+* [Kendrick Lamar — Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)
+* [Jid — Workin’ Out - A Colors Show](https://www.last.fm/music/Jid/_/Workin%E2%80%99+Out+-+A+Colors+Show)
+* [Skepta — Shutdown](https://www.last.fm/music/Skepta/_/Shutdown)
+* [Apathy — Stop What Ya Doin' (feat. Celph Titled & DJ Premier)](https://www.last.fm/music/Apathy/_/Stop+What+Ya+Doin%27+(feat.+Celph+Titled+&+DJ+Premier))
+* [Mexican Institute of Sound — El Antídoto](https://www.last.fm/music/Mexican+Institute+of+Sound/_/El+Ant%C3%ADdoto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
