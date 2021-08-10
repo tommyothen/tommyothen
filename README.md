@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [lil ricefield — HOHO!](https://www.last.fm/music/lil+ricefield/_/HOHO!)
+* [88Rising — History](https://www.last.fm/music/88Rising/_/History)
 * [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
 * [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
-* [Kendrick Lamar — Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)
-* [Jid — Workin’ Out - A Colors Show](https://www.last.fm/music/Jid/_/Workin%E2%80%99+Out+-+A+Colors+Show)
-* [Skepta — Shutdown](https://www.last.fm/music/Skepta/_/Shutdown)<!-- LASTFM:END -->
+* [Kendrick Lamar — Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
