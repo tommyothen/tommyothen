@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
 * [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
 * [mxmtoon — suffice](https://www.last.fm/music/mxmtoon/_/suffice)
-* [mxmtoon — 1, 2 (feat. chloe moriondo)](https://www.last.fm/music/mxmtoon/_/1,+2+(feat.+chloe+moriondo))
-* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
-* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)<!-- LASTFM:END -->
+* [mxmtoon — 1, 2 (feat. chloe moriondo)](https://www.last.fm/music/mxmtoon/_/1,+2+(feat.+chloe+moriondo))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
