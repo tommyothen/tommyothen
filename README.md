@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — edamame (feat. Rich Brian)](https://www.last.fm/music/bbno$/_/edamame+(feat.+Rich+Brian))
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
 * [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)
 * [Fine Young Cannibals — Good Thing](https://www.last.fm/music/Fine+Young+Cannibals/_/Good+Thing)
-* [Billy Joel — We Didn't Start the Fire](https://www.last.fm/music/Billy+Joel/_/We+Didn%27t+Start+the+Fire)
-* [Oasis — The Importance of Being Idle](https://www.last.fm/music/Oasis/_/The+Importance+of+Being+Idle)
-* [Florence + the Machine — You've Got the Love](https://www.last.fm/music/Florence+%252B+the+Machine/_/You%27ve+Got+the+Love)<!-- LASTFM:END -->
+* [Billy Joel — We Didn't Start the Fire](https://www.last.fm/music/Billy+Joel/_/We+Didn%27t+Start+the+Fire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
