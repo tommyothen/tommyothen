@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
+* [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
 * [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [Grimes — IDORU](https://www.last.fm/music/Grimes/_/IDORU)
-* [Grimes — Venus Fly](https://www.last.fm/music/Grimes/_/Venus+Fly)
-* [Grimes — Darkseid](https://www.last.fm/music/Grimes/_/Darkseid)<!-- LASTFM:END -->
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
