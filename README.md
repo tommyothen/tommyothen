@@ -31,8 +31,8 @@ Now Playing\
 * [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
 * [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
 * [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
-* [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)<!-- LASTFM:END -->
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))
+* [Ricky Montgomery — Line Without a Hook (feat. mxmtoon)](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+(feat.+mxmtoon))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
