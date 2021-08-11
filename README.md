@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fine Young Cannibals — Good Thing](https://www.last.fm/music/Fine+Young+Cannibals/_/Good+Thing)
+* [Billy Joel — We Didn't Start the Fire](https://www.last.fm/music/Billy+Joel/_/We+Didn%27t+Start+the+Fire)
+* [Oasis — The Importance of Being Idle](https://www.last.fm/music/Oasis/_/The+Importance+of+Being+Idle)
 * [Florence + the Machine — You've Got the Love](https://www.last.fm/music/Florence+%252B+the+Machine/_/You%27ve+Got+the+Love)
-* [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)
-* [Paramore — Part II](https://www.last.fm/music/Paramore/_/Part+II)
-* [PawPaw Rod — HIT EM WHERE IT HURTS](https://www.last.fm/music/PawPaw+Rod/_/HIT+EM+WHERE+IT+HURTS)
-* [Joji — Run](https://www.last.fm/music/Joji/_/Run)<!-- LASTFM:END -->
+* [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
