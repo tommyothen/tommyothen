@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Florence + the Machine — You've Got the Love](https://www.last.fm/music/Florence+%252B+the+Machine/_/You%27ve+Got+the+Love)
+* [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)
 * [Paramore — Part II](https://www.last.fm/music/Paramore/_/Part+II)
 * [PawPaw Rod — HIT EM WHERE IT HURTS](https://www.last.fm/music/PawPaw+Rod/_/HIT+EM+WHERE+IT+HURTS)
-* [Joji — Run](https://www.last.fm/music/Joji/_/Run)
-* [420 UNLOVABLE — Wii Tennis](https://www.last.fm/music/420+UNLOVABLE/_/Wii+Tennis)
-* [CURTIS WATERS — Stunnin' (feat. Harm Franklin)](https://www.last.fm/music/CURTIS+WATERS/_/Stunnin%27+(feat.+Harm+Franklin))<!-- LASTFM:END -->
+* [Joji — Run](https://www.last.fm/music/Joji/_/Run)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
