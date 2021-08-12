@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Kids](https://www.last.fm/music/Rich+Brian/_/Kids)
+* [bbno$ — jurassic](https://www.last.fm/music/bbno$/_/jurassic)
+* [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)
 * [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)
-* [[bsd.u] — French Inhale](https://www.last.fm/music/%5Bbsd.u%5D/_/French+Inhale)
-* [Rich Brian — Cold](https://www.last.fm/music/Rich+Brian/_/Cold)
-* [Marcus D — Dionysus](https://www.last.fm/music/Marcus+D/_/Dionysus)
-* [yunomi — Bamboo Disco](https://www.last.fm/music/yunomi/_/Bamboo+Disco)<!-- LASTFM:END -->
+* [[bsd.u] — French Inhale](https://www.last.fm/music/%5Bbsd.u%5D/_/French+Inhale)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
