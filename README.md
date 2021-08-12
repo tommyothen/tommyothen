@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
+* [Feduk — Моряк](https://www.last.fm/music/Feduk/_/%D0%9C%D0%BE%D1%80%D1%8F%D0%BA)
+* [Rich Brian — No Worries](https://www.last.fm/music/Rich+Brian/_/No+Worries)
 * [Rich Brian — Kids](https://www.last.fm/music/Rich+Brian/_/Kids)
-* [bbno$ — jurassic](https://www.last.fm/music/bbno$/_/jurassic)
-* [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)
-* [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)
-* [[bsd.u] — French Inhale](https://www.last.fm/music/%5Bbsd.u%5D/_/French+Inhale)<!-- LASTFM:END -->
+* [bbno$ — jurassic](https://www.last.fm/music/bbno$/_/jurassic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
