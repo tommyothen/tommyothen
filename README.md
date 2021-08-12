@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kanye West — Lift Yourself](https://www.last.fm/music/Kanye+West/_/Lift+Yourself)
+* [Loco — Don’t](https://www.last.fm/music/Loco/_/Don%E2%80%99t)
 * [galdive — Nescience](https://www.last.fm/music/galdive/_/Nescience)
 * [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
-* [Oliver Tree — I'm Gone](https://www.last.fm/music/Oliver+Tree/_/I%27m+Gone)
-* [eli filosov [ p h i l o ] — pallet](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/pallet)
-* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)<!-- LASTFM:END -->
+* [Oliver Tree — I'm Gone](https://www.last.fm/music/Oliver+Tree/_/I%27m+Gone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
