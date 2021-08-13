@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
-* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
-* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
-* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
-* [Rei Ami — SNOWCONE](https://www.last.fm/music/Rei+Ami/_/SNOWCONE)<!-- LASTFM:END -->
+* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
+* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
+* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
