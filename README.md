@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Niki — move!](https://www.last.fm/music/Niki/_/move!)
 * [Prop Dylan — Can you imagine](https://www.last.fm/music/Prop+Dylan/_/Can+you+imagine)
 * [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
 * [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
-* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
