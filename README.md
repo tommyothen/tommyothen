@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)
+* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
 * [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
-* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
-* [Engelwood — crystal dolphin](https://www.last.fm/music/Engelwood/_/crystal+dolphin)
-* [Rejjie Snow — Egyptian Luvr (feat. Aminé and Dana Williams)](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr+(feat.+Amin%C3%A9+and+Dana+Williams))
-* [Niki — move!](https://www.last.fm/music/Niki/_/move!)<!-- LASTFM:END -->
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
