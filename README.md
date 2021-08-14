@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
 * [Engelwood — crystal dolphin](https://www.last.fm/music/Engelwood/_/crystal+dolphin)
 * [Rejjie Snow — Egyptian Luvr (feat. Aminé and Dana Williams)](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr+(feat.+Amin%C3%A9+and+Dana+Williams))
-* [Niki — move!](https://www.last.fm/music/Niki/_/move!)
-* [Prop Dylan — Can you imagine](https://www.last.fm/music/Prop+Dylan/_/Can+you+imagine)
-* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)<!-- LASTFM:END -->
+* [Niki — move!](https://www.last.fm/music/Niki/_/move!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
