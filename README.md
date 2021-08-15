@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden Project — drowning.](https://www.last.fm/music/Eden+Project/_/drowning.)
+* [Yung Gravy — Buttered Up](https://www.last.fm/music/Yung+Gravy/_/Buttered+Up)
 * [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
 * [Shahmen — Mark](https://www.last.fm/music/Shahmen/_/Mark)
-* [Freddie Dredd — OH DARLING](https://www.last.fm/music/Freddie+Dredd/_/OH+DARLING)
-* [Post Malone — Goodbyes (feat. Young Thug)](https://www.last.fm/music/Post+Malone/_/Goodbyes+(feat.+Young+Thug))
-* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)<!-- LASTFM:END -->
+* [Freddie Dredd — OH DARLING](https://www.last.fm/music/Freddie+Dredd/_/OH+DARLING)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
