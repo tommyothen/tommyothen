@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
+* [Dreamcatcher — Fly high](https://www.last.fm/music/Dreamcatcher/_/Fly+high)
+* [khai dreams — Travels](https://www.last.fm/music/khai+dreams/_/Travels)
 * [Eden Project — drowning.](https://www.last.fm/music/Eden+Project/_/drowning.)
-* [Yung Gravy — Buttered Up](https://www.last.fm/music/Yung+Gravy/_/Buttered+Up)
-* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
-* [Shahmen — Mark](https://www.last.fm/music/Shahmen/_/Mark)
-* [Freddie Dredd — OH DARLING](https://www.last.fm/music/Freddie+Dredd/_/OH+DARLING)<!-- LASTFM:END -->
+* [Yung Gravy — Buttered Up](https://www.last.fm/music/Yung+Gravy/_/Buttered+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
