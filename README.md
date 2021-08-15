@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
 * [Purity Ring — stardew](https://www.last.fm/music/Purity+Ring/_/stardew)
 * [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [marc indigo — soul searching](https://www.last.fm/music/marc+indigo/_/soul+searching)
-* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
-* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)<!-- LASTFM:END -->
+* [marc indigo — soul searching](https://www.last.fm/music/marc+indigo/_/soul+searching)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
