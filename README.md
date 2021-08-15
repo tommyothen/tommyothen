@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
+* [Shahmen — Mark](https://www.last.fm/music/Shahmen/_/Mark)
+* [Freddie Dredd — OH DARLING](https://www.last.fm/music/Freddie+Dredd/_/OH+DARLING)
 * [Post Malone — Goodbyes (feat. Young Thug)](https://www.last.fm/music/Post+Malone/_/Goodbyes+(feat.+Young+Thug))
-* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
-* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [Headhaunter — Intergalasstic II](https://www.last.fm/music/Headhaunter/_/Intergalasstic+II)
-* [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)<!-- LASTFM:END -->
+* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
