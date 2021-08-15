@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ghost Data — CELESTIAL BODIES](https://www.last.fm/music/Ghost+Data/_/CELESTIAL+BODIES)
+* [Grant — The Edge](https://www.last.fm/music/Grant/_/The+Edge)
 * [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
 * [Dreamcatcher — Fly high](https://www.last.fm/music/Dreamcatcher/_/Fly+high)
-* [khai dreams — Travels](https://www.last.fm/music/khai+dreams/_/Travels)
-* [Eden Project — drowning.](https://www.last.fm/music/Eden+Project/_/drowning.)
-* [Yung Gravy — Buttered Up](https://www.last.fm/music/Yung+Gravy/_/Buttered+Up)<!-- LASTFM:END -->
+* [khai dreams — Travels](https://www.last.fm/music/khai+dreams/_/Travels)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
