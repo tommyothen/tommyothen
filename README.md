@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Don't Ask](https://www.last.fm/music/Poppy/_/Don%27t+Ask)
+* [Poppy — Sit / Stay](https://www.last.fm/music/Poppy/_/Sit+%2F+Stay)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [Poppy — Bleach Blonde Baby](https://www.last.fm/music/Poppy/_/Bleach+Blonde+Baby)
-* [Poppy — Metal](https://www.last.fm/music/Poppy/_/Metal)
-* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
-* [G Flip — Queen](https://www.last.fm/music/G+Flip/_/Queen)
-* [mxmtoon — 1-800-DATEME](https://www.last.fm/music/mxmtoon/_/1-800-DATEME)<!-- LASTFM:END -->
+* [Poppy — Metal](https://www.last.fm/music/Poppy/_/Metal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
