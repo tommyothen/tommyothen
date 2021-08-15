@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Flux](https://www.last.fm/music/Poppy/_/Flux)
 * [Poppy — Lowlife](https://www.last.fm/music/Poppy/_/Lowlife)
 * [Poppy — Say Cheese](https://www.last.fm/music/Poppy/_/Say+Cheese)
 * [Poppy — Don't Ask](https://www.last.fm/music/Poppy/_/Don%27t+Ask)
-* [Poppy — Sit / Stay](https://www.last.fm/music/Poppy/_/Sit+%2F+Stay)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
+* [Poppy — Sit / Stay](https://www.last.fm/music/Poppy/_/Sit+%2F+Stay)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
