@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
+* [Headhaunter — Intergalasstic II](https://www.last.fm/music/Headhaunter/_/Intergalasstic+II)
 * [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)
 * [Oliver Tree — I'm Gone](https://www.last.fm/music/Oliver+Tree/_/I%27m+Gone)
-* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
-* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
-* [Within Destruction — YŌKAI](https://www.last.fm/music/Within+Destruction/_/Y%C5%8CKAI)<!-- LASTFM:END -->
+* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
