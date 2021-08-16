@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
 * [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
 * [Clarx — Voodoo People](https://www.last.fm/music/Clarx/_/Voodoo+People)
 * [Taska Black — Dead Inside](https://www.last.fm/music/Taska+Black/_/Dead+Inside)
-* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
-* [Dirtyphonics — Hammer](https://www.last.fm/music/Dirtyphonics/_/Hammer)<!-- LASTFM:END -->
+* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
