@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
 * [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
-* [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
 * [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
-* [Clarx — Voodoo People](https://www.last.fm/music/Clarx/_/Voodoo+People)<!-- LASTFM:END -->
+* [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
+* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
