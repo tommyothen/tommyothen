@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
+* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
+* [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
 * [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
-* [Grimes — My Name is Dark - Algorithm Mix](https://www.last.fm/music/Grimes/_/My+Name+is+Dark+-+Algorithm+Mix)
-* [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
-* [Grimes — Darkseid - Richie Hawtin Remix](https://www.last.fm/music/Grimes/_/Darkseid+-+Richie+Hawtin+Remix)<!-- LASTFM:END -->
+* [Grimes — My Name is Dark - Algorithm Mix](https://www.last.fm/music/Grimes/_/My+Name+is+Dark+-+Algorithm+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
