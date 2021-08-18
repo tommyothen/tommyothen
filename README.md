@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
+* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
 * [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
 * [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
-* [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
-* [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)<!-- LASTFM:END -->
+* [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
