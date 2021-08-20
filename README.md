@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Amen](https://www.last.fm/music/Rich+Brian/_/Amen)
+* [Far Out — Origin](https://www.last.fm/music/Far+Out/_/Origin)
 * [Grandson — Best Friends](https://www.last.fm/music/Grandson/_/Best+Friends)
 * [Sebastian Paul — VANILLA](https://www.last.fm/music/Sebastian+Paul/_/VANILLA)
-* [A D M B — Just A Day](https://www.last.fm/music/A+D+M+B/_/Just+A+Day)
-* [Keepitinside — No Sleep](https://www.last.fm/music/Keepitinside/_/No+Sleep)
-* [Hobo Johnson — Peach Scone](https://www.last.fm/music/Hobo+Johnson/_/Peach+Scone)<!-- LASTFM:END -->
+* [A D M B — Just A Day](https://www.last.fm/music/A+D+M+B/_/Just+A+Day)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
