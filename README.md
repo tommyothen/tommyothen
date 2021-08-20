@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)
+* [Kill Bill: The Rapper — Black Coffee](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Black+Coffee)
 * [Ski Mask the Slump God — The Human Centipede](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/The+Human+Centipede)
 * [Lemaitre — Higher](https://www.last.fm/music/Lemaitre/_/Higher)
-* [Rich Brian — Flight](https://www.last.fm/music/Rich+Brian/_/Flight)
-* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
-* [Virtual Riot — In My Head](https://www.last.fm/music/Virtual+Riot/_/In+My+Head)<!-- LASTFM:END -->
+* [Rich Brian — Flight](https://www.last.fm/music/Rich+Brian/_/Flight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
