@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Destiny Rogers — Euphoria](https://www.last.fm/music/Destiny+Rogers/_/Euphoria)
+* [Post Malone — Goodbyes (feat. Young Thug)](https://www.last.fm/music/Post+Malone/_/Goodbyes+(feat.+Young+Thug))
+* [eli filosov [ p h i l o ] — oneofone_rwrk](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/oneofone_rwrk)
 * [Jack Harlow — ROTTEN (feat. EST Gee)](https://www.last.fm/music/Jack+Harlow/_/ROTTEN+(feat.+EST+Gee))
-* [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)
-* [Caroline Konstnar — The Birthday Song](https://www.last.fm/music/Caroline+Konstnar/_/The+Birthday+Song)
-* [Colliding With Mars — Mental Breakdown In Slow Motion](https://www.last.fm/music/Colliding+With+Mars/_/Mental+Breakdown+In+Slow+Motion)
-* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)<!-- LASTFM:END -->
+* [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
