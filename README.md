@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
+* [DJ Khalil — Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)](https://www.last.fm/music/DJ+Khalil/_/Elevate+(feat.+Denzel+Curry,+YBN+Cordae,+SwaVay,+Trevor+Rich))
+* [Mercy X — Caught Fire](https://www.last.fm/music/Mercy+X/_/Caught+Fire)
 * [Yung Gravy — Early Afternoon Stroll](https://www.last.fm/music/Yung+Gravy/_/Early+Afternoon+Stroll)
-* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
-* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
-* [lund — Nintey-Six](https://www.last.fm/music/lund/_/Nintey-Six)
-* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)<!-- LASTFM:END -->
+* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
