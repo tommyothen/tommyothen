@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [lund — Nintey-Six](https://www.last.fm/music/lund/_/Nintey-Six)
+* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
 * [slowthai — terms (feat. Dominic Fike & Denzel Curry)](https://www.last.fm/music/slowthai/_/terms+(feat.+Dominic+Fike+&+Denzel+Curry))
 * [Great Good Fine OK — Take It or Leave It](https://www.last.fm/music/Great+Good+Fine+OK/_/Take+It+or+Leave+It)
-* [Atlas — WAVES](https://www.last.fm/music/Atlas/_/WAVES)
-* [Tiny Meat Gang — Stay Safe](https://www.last.fm/music/Tiny+Meat+Gang/_/Stay+Safe)
-* [sapientdream — walls](https://www.last.fm/music/sapientdream/_/walls)<!-- LASTFM:END -->
+* [Atlas — WAVES](https://www.last.fm/music/Atlas/_/WAVES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
