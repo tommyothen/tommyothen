@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
-* [Guardin — i think you're really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)
-* [knowmadic — spliff](https://www.last.fm/music/knowmadic/_/spliff)
-* [[bsd.u] — the grind](https://www.last.fm/music/%5Bbsd.u%5D/_/the+grind)
-* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)<!-- LASTFM:END -->
+* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
+* [稲葉曇 — ラグトレイン](https://www.last.fm/music/%E7%A8%B2%E8%91%89%E6%9B%87/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
+* [Jarv & Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&+Thief/_/Slack-Jaw)
+* [ASCA — RESISTER](https://www.last.fm/music/ASCA/_/RESISTER)
+* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
