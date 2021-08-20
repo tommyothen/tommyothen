@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rav — "Geddit" or "The Commodity of Tenacity](https://www.last.fm/music/Rav/_/%22Geddit%22+or+%22The+Commodity+of+Tenacity)
 * [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
 * [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)
 * [Tyto Grey — Runaway](https://www.last.fm/music/Tyto+Grey/_/Runaway)
-* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)<!-- LASTFM:END -->
+* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
