@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
+* [Marcus D — Dionysus](https://www.last.fm/music/Marcus+D/_/Dionysus)
 * [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)
 * [yunomi — ジェリーフィッシュ (feat. ローラーガール)](https://www.last.fm/music/yunomi/_/%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5+(feat.+%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB))
-* [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)
-* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
-* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)<!-- LASTFM:END -->
+* [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
