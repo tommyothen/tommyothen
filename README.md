@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billie Eilish — goodbye](https://www.last.fm/music/Billie+Eilish/_/goodbye)
+* [Sebastian Paul — ON SOME HIGH](https://www.last.fm/music/Sebastian+Paul/_/ON+SOME+HIGH)
 * [Duckwrth — I'M DEAD](https://www.last.fm/music/Duckwrth/_/I%27M+DEAD)
 * [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
-* [88Rising — Midsummer Madness](https://www.last.fm/music/88Rising/_/Midsummer+Madness)
-* [c0nv0 — Doubts](https://www.last.fm/music/c0nv0/_/Doubts)
-* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)<!-- LASTFM:END -->
+* [88Rising — Midsummer Madness](https://www.last.fm/music/88Rising/_/Midsummer+Madness)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
