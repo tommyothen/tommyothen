@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tennyson — Body Language (feat. Aloe Blacc)](https://www.last.fm/music/Tennyson/_/Body+Language+(feat.+Aloe+Blacc))
+* [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
+* [EL SPEAKER — Never Gonna Catch Me](https://www.last.fm/music/EL+SPEAKER/_/Never+Gonna+Catch+Me)
 * [Ryan Caraveo — Bang](https://www.last.fm/music/Ryan+Caraveo/_/Bang)
-* [Oliver Tree — Do You Feel Me?](https://www.last.fm/music/Oliver+Tree/_/Do+You+Feel+Me%3F)
-* [Akintoye — At the Cookout](https://www.last.fm/music/Akintoye/_/At+the+Cookout)
-* [Pendulum — Self vs Self (feat. In Flames)](https://www.last.fm/music/Pendulum/_/Self+vs+Self+(feat.+In+Flames))
-* [MAX — Blueberry Eyes (feat. SUGA of BTS)](https://www.last.fm/music/MAX/_/Blueberry+Eyes+(feat.+SUGA+of+BTS))<!-- LASTFM:END -->
+* [Oliver Tree — Do You Feel Me?](https://www.last.fm/music/Oliver+Tree/_/Do+You+Feel+Me%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
