@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Duckwrth — I'M DEAD](https://www.last.fm/music/Duckwrth/_/I%27M+DEAD)
 * [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
 * [88Rising — Midsummer Madness](https://www.last.fm/music/88Rising/_/Midsummer+Madness)
 * [c0nv0 — Doubts](https://www.last.fm/music/c0nv0/_/Doubts)
-* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
-* [Marcus D — Dionysus](https://www.last.fm/music/Marcus+D/_/Dionysus)<!-- LASTFM:END -->
+* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
