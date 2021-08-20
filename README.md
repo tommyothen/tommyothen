@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Riot — Disorder (Rebirth)](https://www.last.fm/music/Riot/_/Disorder+(Rebirth))
+* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
 * [slushii — Luv U Need U](https://www.last.fm/music/slushii/_/Luv+U+Need+U)
 * [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
-* [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)
-* [Westside Gravy — 64](https://www.last.fm/music/Westside+Gravy/_/64)
-* [gianni & kyle — tension](https://www.last.fm/music/gianni+&+kyle/_/tension)<!-- LASTFM:END -->
+* [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
