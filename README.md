@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [88Rising — Gold Coast](https://www.last.fm/music/88Rising/_/Gold+Coast)
+* [YUNG BAE — Fly With Me](https://www.last.fm/music/YUNG+BAE/_/Fly+With+Me)
 * [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)
 * [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)
-* [khai dreams — Find My Way](https://www.last.fm/music/khai+dreams/_/Find+My+Way)
-* [Billie Eilish — goodbye](https://www.last.fm/music/Billie+Eilish/_/goodbye)
-* [Sebastian Paul — ON SOME HIGH](https://www.last.fm/music/Sebastian+Paul/_/ON+SOME+HIGH)<!-- LASTFM:END -->
+* [khai dreams — Find My Way](https://www.last.fm/music/khai+dreams/_/Find+My+Way)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
