@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — roo doo](https://www.last.fm/music/bbno$/_/roo+doo)
+* [BROCKBEATS — magic smoke](https://www.last.fm/music/BROCKBEATS/_/magic+smoke)
+* [Prismo — In My Mind](https://www.last.fm/music/Prismo/_/In+My+Mind)
 * [Moxas — Kaioken X20 Flow](https://www.last.fm/music/Moxas/_/Kaioken+X20+Flow)
-* [sleepdealer — Escape](https://www.last.fm/music/sleepdealer/_/Escape)
-* [88Rising — Gold Coast](https://www.last.fm/music/88Rising/_/Gold+Coast)
-* [YUNG BAE — Fly With Me](https://www.last.fm/music/YUNG+BAE/_/Fly+With+Me)
-* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)<!-- LASTFM:END -->
+* [sleepdealer — Escape](https://www.last.fm/music/sleepdealer/_/Escape)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
