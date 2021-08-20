@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
+* [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)
 * [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
 * [Vincent Augustus — I Think I'm Tired](https://www.last.fm/music/Vincent+Augustus/_/I+Think+I%27m+Tired)
-* [Sullivan King — Don't Care](https://www.last.fm/music/Sullivan+King/_/Don%27t+Care)
-* [XYLØ — yes & no](https://www.last.fm/music/XYL%C3%98/_/yes+&+no)
-* [Rich Brian — See Me](https://www.last.fm/music/Rich+Brian/_/See+Me)<!-- LASTFM:END -->
+* [Sullivan King — Don't Care](https://www.last.fm/music/Sullivan+King/_/Don%27t+Care)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
