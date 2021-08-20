@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Virtual Riot — In My Head](https://www.last.fm/music/Virtual+Riot/_/In+My+Head)
+* [Riot — Overkill](https://www.last.fm/music/Riot/_/Overkill)
+* [Yarmak — Мечта](https://www.last.fm/music/Yarmak/_/%D0%9C%D0%B5%D1%87%D1%82%D0%B0)
 * [Riot — Disorder (Rebirth)](https://www.last.fm/music/Riot/_/Disorder+(Rebirth))
-* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
-* [slushii — Luv U Need U](https://www.last.fm/music/slushii/_/Luv+U+Need+U)
-* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
-* [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)<!-- LASTFM:END -->
+* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
