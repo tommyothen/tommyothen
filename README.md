@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
-* [Chase & Status — Control](https://www.last.fm/music/Chase+&+Status/_/Control)
-* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
-* [Tyler, The Creator — I THINK](https://www.last.fm/music/Tyler,+The+Creator/_/I+THINK)
-* [Oliver Tree — Cheapskate](https://www.last.fm/music/Oliver+Tree/_/Cheapskate)<!-- LASTFM:END -->
+* [brakence — dropout (w/ blackbear)](https://www.last.fm/music/brakence/_/dropout+(w%2F+blackbear))
+* [Desired — Sunshine City](https://www.last.fm/music/Desired/_/Sunshine+City)
+* [Call Me Karizma — Monster (Under My Bed)](https://www.last.fm/music/Call+Me+Karizma/_/Monster+(Under+My+Bed))
+* [Todd Helder — Ride It](https://www.last.fm/music/Todd+Helder/_/Ride+It)
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
