@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Caroline Konstnar — The Birthday Song](https://www.last.fm/music/Caroline+Konstnar/_/The+Birthday+Song)
+* [Colliding With Mars — Mental Breakdown In Slow Motion](https://www.last.fm/music/Colliding+With+Mars/_/Mental+Breakdown+In+Slow+Motion)
 * [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
 * [Sarcastic Sounds — Dead Dreams](https://www.last.fm/music/Sarcastic+Sounds/_/Dead+Dreams)
-* [Cao White — Hai Domo](https://www.last.fm/music/Cao+White/_/Hai+Domo)
-* [love-sadKiD — Vinyl](https://www.last.fm/music/love-sadKiD/_/Vinyl)
-* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)<!-- LASTFM:END -->
+* [Cao White — Hai Domo](https://www.last.fm/music/Cao+White/_/Hai+Domo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
