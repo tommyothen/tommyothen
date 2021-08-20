@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
-* [Grady — Garden](https://www.last.fm/music/Grady/_/Garden)
-* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
-* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
-* [Dreamcatcher — YOU AND I](https://www.last.fm/music/Dreamcatcher/_/YOU+AND+I)<!-- LASTFM:END -->
+* [galdive — Nescience](https://www.last.fm/music/galdive/_/Nescience)
+* [Pouya — Torch](https://www.last.fm/music/Pouya/_/Torch)
+* [Oliver Tree — Let Me Down](https://www.last.fm/music/Oliver+Tree/_/Let+Me+Down)
+* [Yakkle — 愛密集](https://www.last.fm/music/Yakkle/_/%E6%84%9B%E5%AF%86%E9%9B%86)
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
