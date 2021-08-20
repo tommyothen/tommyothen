@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [yunomi — Wakusei Rabbit](https://www.last.fm/music/yunomi/_/Wakusei+Rabbit)
+* [bbno$ — pouch](https://www.last.fm/music/bbno$/_/pouch)
 * [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)
 * [Desired — Broken Heart](https://www.last.fm/music/Desired/_/Broken+Heart)
-* [Cal Scruby — Not That Deep](https://www.last.fm/music/Cal+Scruby/_/Not+That+Deep)
-* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)
-* [Kill Bill: The Rapper — Black Coffee](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Black+Coffee)<!-- LASTFM:END -->
+* [Cal Scruby — Not That Deep](https://www.last.fm/music/Cal+Scruby/_/Not+That+Deep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
