@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
-* [The Seige — Demons](https://www.last.fm/music/The+Seige/_/Demons)
-* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
-* [Rav — And That's Me](https://www.last.fm/music/Rav/_/And+That%27s+Me)
-* [brakence — dropout (w/ blackbear)](https://www.last.fm/music/brakence/_/dropout+(w%2F+blackbear))<!-- LASTFM:END -->
+* [Red Velvet — 러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)
+* [Yakkle — 愛密集](https://www.last.fm/music/Yakkle/_/%E6%84%9B%E5%AF%86%E9%9B%86)
+* [NF — Leave Me Alone](https://www.last.fm/music/NF/_/Leave+Me+Alone)
+* [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
+* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
