@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cao White — Hai Domo](https://www.last.fm/music/Cao+White/_/Hai+Domo)
+* [love-sadKiD — Vinyl](https://www.last.fm/music/love-sadKiD/_/Vinyl)
+* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)
 * [bbno$ — roo doo](https://www.last.fm/music/bbno$/_/roo+doo)
-* [BROCKBEATS — magic smoke](https://www.last.fm/music/BROCKBEATS/_/magic+smoke)
-* [Prismo — In My Mind](https://www.last.fm/music/Prismo/_/In+My+Mind)
-* [Moxas — Kaioken X20 Flow](https://www.last.fm/music/Moxas/_/Kaioken+X20+Flow)
-* [sleepdealer — Escape](https://www.last.fm/music/sleepdealer/_/Escape)<!-- LASTFM:END -->
+* [BROCKBEATS — magic smoke](https://www.last.fm/music/BROCKBEATS/_/magic+smoke)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
