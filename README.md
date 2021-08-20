@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ski Mask the Slump God — The Human Centipede](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/The+Human+Centipede)
+* [Lemaitre — Higher](https://www.last.fm/music/Lemaitre/_/Higher)
 * [Rich Brian — Flight](https://www.last.fm/music/Rich+Brian/_/Flight)
 * [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
-* [Virtual Riot — In My Head](https://www.last.fm/music/Virtual+Riot/_/In+My+Head)
-* [Riot — Overkill](https://www.last.fm/music/Riot/_/Overkill)
-* [Yarmak — Мечта](https://www.last.fm/music/Yarmak/_/%D0%9C%D0%B5%D1%87%D1%82%D0%B0)<!-- LASTFM:END -->
+* [Virtual Riot — In My Head](https://www.last.fm/music/Virtual+Riot/_/In+My+Head)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
