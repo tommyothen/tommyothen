@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tennyson — Body Language (feat. Aloe Blacc)](https://www.last.fm/music/Tennyson/_/Body+Language+(feat.+Aloe+Blacc))
-* [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
-* [EL SPEAKER — Never Gonna Catch Me](https://www.last.fm/music/EL+SPEAKER/_/Never+Gonna+Catch+Me)
-* [Ryan Caraveo — Bang](https://www.last.fm/music/Ryan+Caraveo/_/Bang)
-* [Oliver Tree — Do You Feel Me?](https://www.last.fm/music/Oliver+Tree/_/Do+You+Feel+Me%3F)<!-- LASTFM:END -->
+* [Kim Petras — Personal Hell](https://www.last.fm/music/Kim+Petras/_/Personal+Hell)
+* [nothing,nowhere. — hammer](https://www.last.fm/music/nothing,nowhere./_/hammer)
+* [TomppaBeats — like someone in love](https://www.last.fm/music/TomppaBeats/_/like+someone+in+love)
+* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)
+* [Tennyson — Body Language (feat. Aloe Blacc)](https://www.last.fm/music/Tennyson/_/Body+Language+(feat.+Aloe+Blacc))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
