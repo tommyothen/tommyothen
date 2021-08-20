@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [gianni & kyle — tension](https://www.last.fm/music/gianni+&+kyle/_/tension)
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
+* [Tyler, The Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+The+Creator/_/EARFQUAKE)
 * [Rich Brian — Amen](https://www.last.fm/music/Rich+Brian/_/Amen)
-* [Far Out — Origin](https://www.last.fm/music/Far+Out/_/Origin)
-* [Grandson — Best Friends](https://www.last.fm/music/Grandson/_/Best+Friends)
-* [Sebastian Paul — VANILLA](https://www.last.fm/music/Sebastian+Paul/_/VANILLA)
-* [A D M B — Just A Day](https://www.last.fm/music/A+D+M+B/_/Just+A+Day)<!-- LASTFM:END -->
+* [Far Out — Origin](https://www.last.fm/music/Far+Out/_/Origin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
