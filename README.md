@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
+* [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
 * [Ruel — Dazed & Confused](https://www.last.fm/music/Ruel/_/Dazed+&+Confused)
 * [bbno$ — pennies up](https://www.last.fm/music/bbno$/_/pennies+up)
-* [galdive — Nescience](https://www.last.fm/music/galdive/_/Nescience)
-* [Pouya — Torch](https://www.last.fm/music/Pouya/_/Torch)
-* [Oliver Tree — Let Me Down](https://www.last.fm/music/Oliver+Tree/_/Let+Me+Down)<!-- LASTFM:END -->
+* [galdive — Nescience](https://www.last.fm/music/galdive/_/Nescience)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
