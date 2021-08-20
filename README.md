@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
+* [Chase & Status — Control](https://www.last.fm/music/Chase+&+Status/_/Control)
+* [smle — Haunted](https://www.last.fm/music/smle/_/Haunted)
 * [Tyler, The Creator — I THINK](https://www.last.fm/music/Tyler,+The+Creator/_/I+THINK)
-* [Oliver Tree — Cheapskate](https://www.last.fm/music/Oliver+Tree/_/Cheapskate)
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)<!-- LASTFM:END -->
+* [Oliver Tree — Cheapskate](https://www.last.fm/music/Oliver+Tree/_/Cheapskate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
