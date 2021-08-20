@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyto Grey — Runaway](https://www.last.fm/music/Tyto+Grey/_/Runaway)
+* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
 * [Yung Gravy — Rotisserie](https://www.last.fm/music/Yung+Gravy/_/Rotisserie)
-* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)
-* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
-* [swimcoach — runaway](https://www.last.fm/music/swimcoach/_/runaway)
-* [Grandson — Blood // Water](https://www.last.fm/music/Grandson/_/Blood+%2F%2F+Water)<!-- LASTFM:END -->
+* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
