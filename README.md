@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dreamcatcher — YOU AND I](https://www.last.fm/music/Dreamcatcher/_/YOU+AND+I)
-* [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
-* [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
-* [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)<!-- LASTFM:END -->
+* [Rei Ami — DICTATOR](https://www.last.fm/music/Rei+Ami/_/DICTATOR)
+* [Grady — Garden](https://www.last.fm/music/Grady/_/Garden)
+* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
+* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
+* [Dreamcatcher — YOU AND I](https://www.last.fm/music/Dreamcatcher/_/YOU+AND+I)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
