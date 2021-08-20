@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grandson — Blood // Water](https://www.last.fm/music/Grandson/_/Blood+%2F%2F+Water)
+* [Varien — Mirai Sekai - Continuous Mix](https://www.last.fm/music/Varien/_/Mirai+Sekai+-+Continuous+Mix)
 * [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
 * [Kazuo — MOM SAID NO](https://www.last.fm/music/Kazuo/_/MOM+SAID+NO)
-* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
-* [Snails — Front 2 Back](https://www.last.fm/music/Snails/_/Front+2+Back)
-* [NF — The Search](https://www.last.fm/music/NF/_/The+Search)<!-- LASTFM:END -->
+* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
