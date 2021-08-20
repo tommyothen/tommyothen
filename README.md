@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
+* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)
+* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
 * [Ashnikko — Cry (feat. Grimes)](https://www.last.fm/music/Ashnikko/_/Cry+(feat.+Grimes))
-* [EarthGang — Meditate (feat. J.I.D.)](https://www.last.fm/music/EarthGang/_/Meditate+(feat.+J.I.D.))
-* [Eevee — viola](https://www.last.fm/music/Eevee/_/viola)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [Saib — Snow](https://www.last.fm/music/Saib/_/Snow)<!-- LASTFM:END -->
+* [EarthGang — Meditate (feat. J.I.D.)](https://www.last.fm/music/EarthGang/_/Meditate+(feat.+J.I.D.))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
