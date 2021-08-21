@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kim Petras — <demons>](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
+* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
+* [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)
 * [Carter Ace — I Think I'm Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
-* [Kim Petras — Personal Hell](https://www.last.fm/music/Kim+Petras/_/Personal+Hell)
-* [AMpm — more](https://www.last.fm/music/AMpm/_/more)
-* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
-* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)<!-- LASTFM:END -->
+* [Kim Petras — Personal Hell](https://www.last.fm/music/Kim+Petras/_/Personal+Hell)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
