@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
 * [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
 * [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
-* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
-* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
-* [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)<!-- LASTFM:END -->
+* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
