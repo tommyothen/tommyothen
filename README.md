@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Caravan Palace — Melancolia](https://www.last.fm/music/Caravan+Palace/_/Melancolia)
 * [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)
-* [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))
 * [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
