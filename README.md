@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
+* [Princess Nokia — Gemini](https://www.last.fm/music/Princess+Nokia/_/Gemini)
 * [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
 * [Cobrah — GOOD PUSS](https://www.last.fm/music/Cobrah/_/GOOD+PUSS)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [Kim Petras — Personal Hell](https://www.last.fm/music/Kim+Petras/_/Personal+Hell)
-* [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)<!-- LASTFM:END -->
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
