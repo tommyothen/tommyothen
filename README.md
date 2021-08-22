@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [J. Cole — m y . l i f e (with 21 Savage & Morray)](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+(with+21+Savage+&+Morray))
 * [Kendrick Lamar — Backseat Freestyle](https://www.last.fm/music/Kendrick+Lamar/_/Backseat+Freestyle)
 * [Kendrick Lamar — King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)
 * [J. Cole — Change](https://www.last.fm/music/J.+Cole/_/Change)
-* [J. Cole — Wet Dreamz](https://www.last.fm/music/J.+Cole/_/Wet+Dreamz)
-* [J. Cole — m y . l i f e (with 21 Savage & Morray)](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+(with+21+Savage+&+Morray))<!-- LASTFM:END -->
+* [J. Cole — Wet Dreamz](https://www.last.fm/music/J.+Cole/_/Wet+Dreamz)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
