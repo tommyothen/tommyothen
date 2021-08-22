@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Dicky — Professional Rapper (feat. Snoop Dogg)](https://www.last.fm/music/Lil+Dicky/_/Professional+Rapper+(feat.+Snoop+Dogg))
 * [D-Real [愛] — Interstellar Love Story](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Interstellar+Love+Story)
 * [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
 * [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
-* [Miraie — Back to 2d](https://www.last.fm/music/Miraie/_/Back+to+2d)<!-- LASTFM:END -->
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
