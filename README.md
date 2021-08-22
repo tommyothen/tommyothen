@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — Entropy](https://www.last.fm/music/Grimes/_/Entropy)
-* [Beach House — PPP](https://www.last.fm/music/Beach+House/_/PPP)
-* [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
+* [Bleachers — Take Me Away (feat. Grimes)](https://www.last.fm/music/Bleachers/_/Take+Me+Away+(feat.+Grimes))
+* [Princess Nokia — Wavy](https://www.last.fm/music/Princess+Nokia/_/Wavy)
+* [Janelle Monáe — Pynk (feat. Grimes) - King Topher Remix](https://www.last.fm/music/Janelle+Mon%C3%A1e/_/Pynk+(feat.+Grimes)+-+King+Topher+Remix)
+* [Cobrah — U KNOW ME](https://www.last.fm/music/Cobrah/_/U+KNOW+ME)
+* [Grimes — Entropy](https://www.last.fm/music/Grimes/_/Entropy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
