@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))
 * [Bleachers — Take Me Away (feat. Grimes)](https://www.last.fm/music/Bleachers/_/Take+Me+Away+(feat.+Grimes))
 * [Princess Nokia — Wavy](https://www.last.fm/music/Princess+Nokia/_/Wavy)
 * [Janelle Monáe — Pynk (feat. Grimes) - King Topher Remix](https://www.last.fm/music/Janelle+Mon%C3%A1e/_/Pynk+(feat.+Grimes)+-+King+Topher+Remix)
-* [Cobrah — U KNOW ME](https://www.last.fm/music/Cobrah/_/U+KNOW+ME)
-* [Grimes — Entropy](https://www.last.fm/music/Grimes/_/Entropy)<!-- LASTFM:END -->
+* [Cobrah — U KNOW ME](https://www.last.fm/music/Cobrah/_/U+KNOW+ME)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
