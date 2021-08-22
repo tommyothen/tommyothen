@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jeezy — American Dream (feat. J. Cole, Kendrick Lamar)](https://www.last.fm/music/Jeezy/_/American+Dream+(feat.+J.+Cole,+Kendrick+Lamar))
+* [J. Cole — m y . l i f e (with 21 Savage & Morray)](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+(with+21+Savage+&+Morray))
 * [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))
 * [J. Cole — m y . l i f e (with 21 Savage & Morray)](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+(with+21+Savage+&+Morray))
-* [Allie X — Love Me Wrong](https://www.last.fm/music/Allie+X/_/Love+Me+Wrong)
-* [J. Cole — m y . l i f e (with 21 Savage & Morray)](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+(with+21+Savage+&+Morray))
-* [J. Cole — m y . l i f e (with 21 Savage & Morray)](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+(with+21+Savage+&+Morray))<!-- LASTFM:END -->
+* [Allie X — Love Me Wrong](https://www.last.fm/music/Allie+X/_/Love+Me+Wrong)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
