@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jeezy — American Dream (feat. J. Cole, Kendrick Lamar)](https://www.last.fm/music/Jeezy/_/American+Dream+(feat.+J.+Cole,+Kendrick+Lamar))
 * [J. Cole — m y . l i f e (with 21 Savage & Morray)](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+(with+21+Savage+&+Morray))
 * [21 Savage — a lot](https://www.last.fm/music/21+Savage/_/a+lot)
 * [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)
-* [Lil Dicky — Professional Rapper (feat. Snoop Dogg)](https://www.last.fm/music/Lil+Dicky/_/Professional+Rapper+(feat.+Snoop+Dogg))
-* [D-Real [愛] — Interstellar Love Story](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Interstellar+Love+Story)<!-- LASTFM:END -->
+* [Lil Dicky — Professional Rapper (feat. Snoop Dogg)](https://www.last.fm/music/Lil+Dicky/_/Professional+Rapper+(feat.+Snoop+Dogg))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
