@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
 * [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))
 * [J. Cole — m y . l i f e (with 21 Savage & Morray)](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+(with+21+Savage+&+Morray))
-* [J. Cole — p r i d e . i s . t h e . d e v i l (with Lil Baby)](https://www.last.fm/music/J.+Cole/_/p+r+i+d+e+.+i+s+.+t+h+e+.+d+e+v+i+l+(with+Lil+Baby))
-* [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)<!-- LASTFM:END -->
+* [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
+* [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))
+* [J. Cole — m y . l i f e (with 21 Savage & Morray)](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+(with+21+Savage+&+Morray))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
