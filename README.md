@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — THE MUZZLE FACING - Long muzzled version](https://www.last.fm/music/Camellia/_/THE+MUZZLE+FACING+-+Long+muzzled+version)
 * [Camellia — Spin Eternally](https://www.last.fm/music/Camellia/_/Spin+Eternally)
 * [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)
 * [Camellia — Spin Eternally](https://www.last.fm/music/Camellia/_/Spin+Eternally)
-* [Camellia — POLYBIUS GB SPEEDRUN -Glitchless 100% WR in 0:03:57-](https://www.last.fm/music/Camellia/_/POLYBIUS+GB+SPEEDRUN+-Glitchless+100%25+WR+in+0:03:57-)
-* [Camellia — Spin Eternally](https://www.last.fm/music/Camellia/_/Spin+Eternally)<!-- LASTFM:END -->
+* [Camellia — POLYBIUS GB SPEEDRUN -Glitchless 100% WR in 0:03:57-](https://www.last.fm/music/Camellia/_/POLYBIUS+GB+SPEEDRUN+-Glitchless+100%25+WR+in+0:03:57-)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
