@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
 * [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))
 * [J. Cole — m y . l i f e (with 21 Savage & Morray)](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+(with+21+Savage+&+Morray))
 * [J. Cole — m y . l i f e (with 21 Savage & Morray)](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+(with+21+Savage+&+Morray))
-* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
-* [J. Cole — m y . l i f e (with 21 Savage & Morray)](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+(with+21+Savage+&+Morray))<!-- LASTFM:END -->
+* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
