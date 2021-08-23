@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Camellia — Spin Eternally](https://www.last.fm/music/Camellia/_/Spin+Eternally)
+* [Camellia — Spin Eternally](https://www.last.fm/music/Camellia/_/Spin+Eternally)
 * [Camellia — ΩΩPARTS](https://www.last.fm/music/Camellia/_/%CE%A9%CE%A9PARTS)
 * [Camellia — GHOUL](https://www.last.fm/music/Camellia/_/GHOUL)
-* [Camellia — We Magicians Still Alive in 2021](https://www.last.fm/music/Camellia/_/We+Magicians+Still+Alive+in+2021)
-* [Galneryus — Raise My Sword](https://www.last.fm/music/Galneryus/_/Raise+My+Sword)<!-- LASTFM:END -->
+* [Camellia — We Magicians Still Alive in 2021](https://www.last.fm/music/Camellia/_/We+Magicians+Still+Alive+in+2021)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
