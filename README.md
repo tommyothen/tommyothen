@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
 * [YUNG BAE — YEBISU - Yung Bae Edit](https://www.last.fm/music/YUNG+BAE/_/YEBISU+-+Yung+Bae+Edit)
 * [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
 * [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
-* [Kendrick Lamar — King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)
 * [Kendrick Lamar — King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
