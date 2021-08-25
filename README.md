@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tsuko G. — Gas Gas Gas (Initial D)](https://www.last.fm/music/Tsuko+G./_/Gas+Gas+Gas+(Initial+D))
-* [Moow — Reconcilation](https://www.last.fm/music/Moow/_/Reconcilation)
-* [Dreamcatcher — Fly high](https://www.last.fm/music/Dreamcatcher/_/Fly+high)
-* [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)
-* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)<!-- LASTFM:END -->
+* [nothing,nowhere. — hammer](https://www.last.fm/music/nothing,nowhere./_/hammer)
+* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)
+* [Varien — Can You Feel My Heart](https://www.last.fm/music/Varien/_/Can+You+Feel+My+Heart)
+* [Cal Scruby — Not That Deep](https://www.last.fm/music/Cal+Scruby/_/Not+That+Deep)
+* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
