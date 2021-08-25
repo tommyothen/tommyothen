@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kill Bill: The Rapper — Black Coffee](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Black+Coffee)
+* [The Qemists — Run You](https://www.last.fm/music/The+Qemists/_/Run+You)
 * [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
 * [420 UNLOVABLE — Wii Tennis](https://www.last.fm/music/420+UNLOVABLE/_/Wii+Tennis)
-* [K.A.A.N. — Phoenix](https://www.last.fm/music/K.A.A.N./_/Phoenix)
-* [Myles Parrish — Kickback](https://www.last.fm/music/Myles+Parrish/_/Kickback)
-* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)<!-- LASTFM:END -->
+* [K.A.A.N. — Phoenix](https://www.last.fm/music/K.A.A.N./_/Phoenix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
