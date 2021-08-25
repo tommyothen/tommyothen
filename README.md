@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shawn Wasabi — Squeez®](https://www.last.fm/music/Shawn+Wasabi/_/Squeez%C2%AE)
+* [ABSRDST — Imaginary Friend](https://www.last.fm/music/ABSRDST/_/Imaginary+Friend)
 * [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
 * [Stonebank — The Government](https://www.last.fm/music/Stonebank/_/The+Government)
-* [Taska Black — In Your Eyes](https://www.last.fm/music/Taska+Black/_/In+Your+Eyes)
-* [Kill Bill: The Rapper — Black Coffee](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Black+Coffee)
-* [The Qemists — Run You](https://www.last.fm/music/The+Qemists/_/Run+You)<!-- LASTFM:END -->
+* [Taska Black — In Your Eyes](https://www.last.fm/music/Taska+Black/_/In+Your+Eyes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
