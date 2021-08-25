@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)
-* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
-* [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
-* [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))
-* [J. Cole — m y . l i f e (with 21 Savage & Morray)](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+(with+21+Savage+&+Morray))<!-- LASTFM:END -->
+* [Oliver Tree — Do You Feel Me?](https://www.last.fm/music/Oliver+Tree/_/Do+You+Feel+Me%3F)
+* [Oliver Tree — All That](https://www.last.fm/music/Oliver+Tree/_/All+That)
+* [khai dreams — Find My Way](https://www.last.fm/music/khai+dreams/_/Find+My+Way)
+* [Jarv & Thief — The Beat](https://www.last.fm/music/Jarv+&+Thief/_/The+Beat)
+* [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
