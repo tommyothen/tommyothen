@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
+* [Stonebank — The Government](https://www.last.fm/music/Stonebank/_/The+Government)
 * [Taska Black — In Your Eyes](https://www.last.fm/music/Taska+Black/_/In+Your+Eyes)
 * [Kill Bill: The Rapper — Black Coffee](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Black+Coffee)
-* [The Qemists — Run You](https://www.last.fm/music/The+Qemists/_/Run+You)
-* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
-* [420 UNLOVABLE — Wii Tennis](https://www.last.fm/music/420+UNLOVABLE/_/Wii+Tennis)<!-- LASTFM:END -->
+* [The Qemists — Run You](https://www.last.fm/music/The+Qemists/_/Run+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
