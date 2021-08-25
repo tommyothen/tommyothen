@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
+* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
 * [Freddie Dredd — Evil fantasy](https://www.last.fm/music/Freddie+Dredd/_/Evil+fantasy)
 * [Her's — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)
-* [Duckwrth — Super Bounce](https://www.last.fm/music/Duckwrth/_/Super+Bounce)
-* [Kendrick Lamar — Backseat Freestyle](https://www.last.fm/music/Kendrick+Lamar/_/Backseat+Freestyle)
-* [Ryan Oakes — Drinking About You](https://www.last.fm/music/Ryan+Oakes/_/Drinking+About+You)<!-- LASTFM:END -->
+* [Duckwrth — Super Bounce](https://www.last.fm/music/Duckwrth/_/Super+Bounce)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
