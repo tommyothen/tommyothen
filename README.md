@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
+* [420 UNLOVABLE — Wii Tennis](https://www.last.fm/music/420+UNLOVABLE/_/Wii+Tennis)
+* [K.A.A.N. — Phoenix](https://www.last.fm/music/K.A.A.N./_/Phoenix)
 * [Myles Parrish — Kickback](https://www.last.fm/music/Myles+Parrish/_/Kickback)
-* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
-* [Freddie Dredd — Evil fantasy](https://www.last.fm/music/Freddie+Dredd/_/Evil+fantasy)<!-- LASTFM:END -->
+* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
