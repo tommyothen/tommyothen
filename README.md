@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [love-sadKiD — Paris](https://www.last.fm/music/love-sadKiD/_/Paris)
+* [Lil Dicky — Professional Rapper (feat. Snoop Dogg)](https://www.last.fm/music/Lil+Dicky/_/Professional+Rapper+(feat.+Snoop+Dogg))
 * [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)
 * [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
-* [love-sadKiD — Paris](https://www.last.fm/music/love-sadKiD/_/Paris)
-* [Shawn Wasabi — Squeez®](https://www.last.fm/music/Shawn+Wasabi/_/Squeez%C2%AE)
-* [ABSRDST — Imaginary Friend](https://www.last.fm/music/ABSRDST/_/Imaginary+Friend)<!-- LASTFM:END -->
+* [love-sadKiD — Paris](https://www.last.fm/music/love-sadKiD/_/Paris)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
