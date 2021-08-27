@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chase & Status — End Credits](https://www.last.fm/music/Chase+&+Status/_/End+Credits)
+* [Eden — and](https://www.last.fm/music/Eden/_/and)
+* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)
 * [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)
-* [Pouya — life? ... lol](https://www.last.fm/music/Pouya/_/life%3F+...+lol)
-* [Camellia — GHOUL](https://www.last.fm/music/Camellia/_/GHOUL)
-* [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)
-* [Camellia — Looking for Edge of Ground](https://www.last.fm/music/Camellia/_/Looking+for+Edge+of+Ground)<!-- LASTFM:END -->
+* [Pouya — life? ... lol](https://www.last.fm/music/Pouya/_/life%3F+...+lol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
