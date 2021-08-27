@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grant — The Edge](https://www.last.fm/music/Grant/_/The+Edge)
+* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
 * [Chase & Status — End Credits](https://www.last.fm/music/Chase+&+Status/_/End+Credits)
 * [Eden — and](https://www.last.fm/music/Eden/_/and)
-* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)
-* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)
-* [Pouya — life? ... lol](https://www.last.fm/music/Pouya/_/life%3F+...+lol)<!-- LASTFM:END -->
+* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
