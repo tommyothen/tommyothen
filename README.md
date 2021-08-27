@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tyler, The Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+The+Creator/_/EARFQUAKE)
-* [ABSRDST — Imaginary Friend](https://www.last.fm/music/ABSRDST/_/Imaginary+Friend)
-* [Saib — Snow](https://www.last.fm/music/Saib/_/Snow)
-* [Oliver Tree — Bury Me Alive](https://www.last.fm/music/Oliver+Tree/_/Bury+Me+Alive)
-* [Rainych — Say So - Japanese Version](https://www.last.fm/music/Rainych/_/Say+So+-+Japanese+Version)<!-- LASTFM:END -->
+* [Royal & the Serpent — Weddings & Funerals](https://www.last.fm/music/Royal+&+the+Serpent/_/Weddings+&+Funerals)
+* [Tokyo Machine — PLAY - Chime Remix](https://www.last.fm/music/Tokyo+Machine/_/PLAY+-+Chime+Remix)
+* [Sub Focus — Solar System](https://www.last.fm/music/Sub+Focus/_/Solar+System)
+* [swimcoach — runaway](https://www.last.fm/music/swimcoach/_/runaway)
+* [Thoreau — Afraid](https://www.last.fm/music/Thoreau/_/Afraid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
