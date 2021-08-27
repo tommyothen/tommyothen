@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Varien — Can You Feel My Heart](https://www.last.fm/music/Varien/_/Can+You+Feel+My+Heart)
+* [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)
 * [Tsundere Alley — Like My Love](https://www.last.fm/music/Tsundere+Alley/_/Like+My+Love)
 * [Infected Mushroom — Spitfire](https://www.last.fm/music/Infected+Mushroom/_/Spitfire)
-* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
-* [William Black — Daydreamer](https://www.last.fm/music/William+Black/_/Daydreamer)
-* [EarthGang — Meditate (feat. J.I.D.)](https://www.last.fm/music/EarthGang/_/Meditate+(feat.+J.I.D.))<!-- LASTFM:END -->
+* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
