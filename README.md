@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yarmak — Молодая кровь](https://www.last.fm/music/Yarmak/_/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F+%D0%BA%D1%80%D0%BE%D0%B2%D1%8C)
-* [Eden Project — The Fire](https://www.last.fm/music/Eden+Project/_/The+Fire)
-* [khai dreams — All I Need](https://www.last.fm/music/khai+dreams/_/All+I+Need)
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
-* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)<!-- LASTFM:END -->
+* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
+* [nothing,nowhere. — dread](https://www.last.fm/music/nothing,nowhere./_/dread)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Samsa — Burfi](https://www.last.fm/music/Samsa/_/Burfi)
+* [Yarmak — Молодая кровь](https://www.last.fm/music/Yarmak/_/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F+%D0%BA%D1%80%D0%BE%D0%B2%D1%8C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
