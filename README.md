@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
+* [Oliver Tree — Movement](https://www.last.fm/music/Oliver+Tree/_/Movement)
+* [Shahmen — Dirt](https://www.last.fm/music/Shahmen/_/Dirt)
 * [Grant — The Edge](https://www.last.fm/music/Grant/_/The+Edge)
-* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
-* [Chase & Status — End Credits](https://www.last.fm/music/Chase+&+Status/_/End+Credits)
-* [Eden — and](https://www.last.fm/music/Eden/_/and)
-* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)<!-- LASTFM:END -->
+* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
