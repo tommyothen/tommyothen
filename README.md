@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rainych — Say So - Japanese Version](https://www.last.fm/music/Rainych/_/Say+So+-+Japanese+Version)
+* [Red Hot Chili Peppers — Dark Necessities](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Dark+Necessities)
 * [Flux Pavilion — Pull The Trigger - Maduk Remix](https://www.last.fm/music/Flux+Pavilion/_/Pull+The+Trigger+-+Maduk+Remix)
 * [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)
-* [Joji — Gimme Love](https://www.last.fm/music/Joji/_/Gimme+Love)
-* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
-* [Easy Life — Nightmares](https://www.last.fm/music/Easy+Life/_/Nightmares)<!-- LASTFM:END -->
+* [Joji — Gimme Love](https://www.last.fm/music/Joji/_/Gimme+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
