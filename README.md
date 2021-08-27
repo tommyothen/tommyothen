@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
-* [nothing,nowhere. — dread](https://www.last.fm/music/nothing,nowhere./_/dread)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Samsa — Burfi](https://www.last.fm/music/Samsa/_/Burfi)
-* [Yarmak — Молодая кровь](https://www.last.fm/music/Yarmak/_/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F+%D0%BA%D1%80%D0%BE%D0%B2%D1%8C)<!-- LASTFM:END -->
+* [deadman 死人 — Omae Wa Mou](https://www.last.fm/music/deadman+%E6%AD%BB%E4%BA%BA/_/Omae+Wa+Mou)
+* [Rich Brian — Yellow (feat. Bekon)](https://www.last.fm/music/Rich+Brian/_/Yellow+(feat.+Bekon))
+* [Two Door Cinema Club — Something Good Can Work](https://www.last.fm/music/Two+Door+Cinema+Club/_/Something+Good+Can+Work)
+* [Rich Brian — No Worries](https://www.last.fm/music/Rich+Brian/_/No+Worries)
+* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
