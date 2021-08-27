@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [23.exe — ochatime](https://www.last.fm/music/23.exe/_/ochatime)
-* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
-* [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)
-* [Varien — Can You Feel My Heart](https://www.last.fm/music/Varien/_/Can+You+Feel+My+Heart)
-* [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)<!-- LASTFM:END -->
+* [nohidea — sincerely, yours](https://www.last.fm/music/nohidea/_/sincerely,+yours)
+* [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)
+* [Anamanaguchi — Miku - Japanese Version](https://www.last.fm/music/Anamanaguchi/_/Miku+-+Japanese+Version)
+* [Justin Stone — Bite My Tongue](https://www.last.fm/music/Justin+Stone/_/Bite+My+Tongue)
+* [23.exe — ochatime](https://www.last.fm/music/23.exe/_/ochatime)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
