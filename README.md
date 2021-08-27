@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [EarthGang — Meditate (feat. J.I.D.)](https://www.last.fm/music/EarthGang/_/Meditate+(feat.+J.I.D.))
+* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
+* [William Black — Daydreamer](https://www.last.fm/music/William+Black/_/Daydreamer)
+* [EARTHGANG — Meditate (feat. J.I.D.)](https://www.last.fm/music/EARTHGANG/_/Meditate+(feat.+J.I.D.))
 * [BROCKBEATS — magic smoke](https://www.last.fm/music/BROCKBEATS/_/magic+smoke)
-* [Vincent Augustus — I Think I'm Tired](https://www.last.fm/music/Vincent+Augustus/_/I+Think+I%27m+Tired)
-* [Stonebank — To The Top](https://www.last.fm/music/Stonebank/_/To+The+Top)
-* [potsu — I'm Closing My Eyes](https://www.last.fm/music/potsu/_/I%27m+Closing+My+Eyes)<!-- LASTFM:END -->
+* [Vincent Augustus — I Think I'm Tired](https://www.last.fm/music/Vincent+Augustus/_/I+Think+I%27m+Tired)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
