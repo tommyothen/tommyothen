@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Guardin — creature - Sawce Remix](https://www.last.fm/music/Guardin/_/creature+-+Sawce+Remix)
+* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
 * [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)
 * [Jarv & Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&+Thief/_/Slack-Jaw)
-* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
-* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
-* [love-sadKiD — Cash](https://www.last.fm/music/love-sadKiD/_/Cash)<!-- LASTFM:END -->
+* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
