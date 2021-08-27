@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)
+* [Joji — Gimme Love](https://www.last.fm/music/Joji/_/Gimme+Love)
 * [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
 * [Easy Life — Nightmares](https://www.last.fm/music/Easy+Life/_/Nightmares)
-* [Wowkie Da — 陽光彩虹小白馬](https://www.last.fm/music/Wowkie+Da/_/%E9%99%BD%E5%85%89%E5%BD%A9%E8%99%B9%E5%B0%8F%E7%99%BD%E9%A6%AC)
-* [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)
-* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)<!-- LASTFM:END -->
+* [Wowkie Da — 陽光彩虹小白馬](https://www.last.fm/music/Wowkie+Da/_/%E9%99%BD%E5%85%89%E5%BD%A9%E8%99%B9%E5%B0%8F%E7%99%BD%E9%A6%AC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
