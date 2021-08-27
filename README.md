@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
+* [Darren Ang — Lake (From "Pokémon DPPt")](https://www.last.fm/music/Darren+Ang/_/Lake+(From+%22Pok%C3%A9mon+DPPt%22))
+* [D-Real [愛] — Candy](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Candy)
 * [AMpm — more](https://www.last.fm/music/AMpm/_/more)
-* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
-* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [Guardin — creature - Sawce Remix](https://www.last.fm/music/Guardin/_/creature+-+Sawce+Remix)<!-- LASTFM:END -->
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
