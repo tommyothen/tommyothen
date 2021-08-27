@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [AMpm — more](https://www.last.fm/music/AMpm/_/more)
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
 * [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
 * [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [Guardin — creature - Sawce Remix](https://www.last.fm/music/Guardin/_/creature+-+Sawce+Remix)
-* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
-* [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)<!-- LASTFM:END -->
+* [Guardin — creature - Sawce Remix](https://www.last.fm/music/Guardin/_/creature+-+Sawce+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
