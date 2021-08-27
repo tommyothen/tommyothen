@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [nohidea — sincerely, yours](https://www.last.fm/music/nohidea/_/sincerely,+yours)
-* [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)
-* [Anamanaguchi — Miku - Japanese Version](https://www.last.fm/music/Anamanaguchi/_/Miku+-+Japanese+Version)
-* [Justin Stone — Bite My Tongue](https://www.last.fm/music/Justin+Stone/_/Bite+My+Tongue)
-* [23.exe — ochatime](https://www.last.fm/music/23.exe/_/ochatime)<!-- LASTFM:END -->
+* [Katie — Remember](https://www.last.fm/music/Katie/_/Remember)
+* [Guardin — demons in my orbit](https://www.last.fm/music/Guardin/_/demons+in+my+orbit)
+* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)
+* [zach farache — lets just stay here](https://www.last.fm/music/zach+farache/_/lets+just+stay+here)
+* [rei brown — Landing On Mars](https://www.last.fm/music/rei+brown/_/Landing+On+Mars)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
