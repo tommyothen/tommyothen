@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [blackbear — chateau](https://www.last.fm/music/blackbear/_/chateau)
 * [88Rising — La Cienega](https://www.last.fm/music/88Rising/_/La+Cienega)
 * [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)
 * [D-Real [愛] — Until Next Time...](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Until+Next+Time...)
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [Darren Ang — Lake (From "Pokémon DPPt")](https://www.last.fm/music/Darren+Ang/_/Lake+(From+%22Pok%C3%A9mon+DPPt%22))<!-- LASTFM:END -->
+* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
