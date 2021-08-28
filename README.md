@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))
+* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
 * [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
 * [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
-* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)<!-- LASTFM:END -->
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
