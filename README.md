@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Danny Brown — Ain't it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)
+* [Death Grips — You Might Think He Loves You for Your Money But I Know What He Really Loves You for It's Your Brand New Leopard Skin Pillbox Hat](https://www.last.fm/music/Death+Grips/_/You+Might+Think+He+Loves+You+for+Your+Money+But+I+Know+What+He+Really+Loves+You+for+It%27s+Your+Brand+New+Leopard+Skin+Pillbox+Hat)
 * [Tyler, The Creator — I Ain't Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)
 * [Death Grips — No Love](https://www.last.fm/music/Death+Grips/_/No+Love)
-* [Death Grips — Hacker](https://www.last.fm/music/Death+Grips/_/Hacker)
-* [Death Grips — I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)
-* [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)<!-- LASTFM:END -->
+* [Death Grips — Hacker](https://www.last.fm/music/Death+Grips/_/Hacker)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
