@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [$uicideboy$ — PARIS](https://www.last.fm/music/$uicideboy$/_/PARIS)
 * [$uicideboy$ — KILL YOURSELF (Part III)](https://www.last.fm/music/$uicideboy$/_/KILL+YOURSELF+(Part+III))
 * [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
 * [JPEGMAFIA — Jesus Forgive Me, I Am a Thot](https://www.last.fm/music/JPEGMAFIA/_/Jesus+Forgive+Me,+I+Am+a+Thot)
-* [Kero Kero Bonito — It's Bugsnax!](https://www.last.fm/music/Kero+Kero+Bonito/_/It%27s+Bugsnax!)
-* [Danny Brown — Ain't it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)<!-- LASTFM:END -->
+* [Kero Kero Bonito — It's Bugsnax!](https://www.last.fm/music/Kero+Kero+Bonito/_/It%27s+Bugsnax!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
