@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Danny Brown — Ain't it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)
-* [Death Grips — You Might Think He Loves You for Your Money But I Know What He Really Loves You for It's Your Brand New Leopard Skin Pillbox Hat](https://www.last.fm/music/Death+Grips/_/You+Might+Think+He+Loves+You+for+Your+Money+But+I+Know+What+He+Really+Loves+You+for+It%27s+Your+Brand+New+Leopard+Skin+Pillbox+Hat)
-* [Tyler, The Creator — I Ain't Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)
-* [Death Grips — No Love](https://www.last.fm/music/Death+Grips/_/No+Love)
-* [Death Grips — Hacker](https://www.last.fm/music/Death+Grips/_/Hacker)<!-- LASTFM:END -->
+* [$uicideboy$ — KILL YOURSELF (Part III)](https://www.last.fm/music/$uicideboy$/_/KILL+YOURSELF+(Part+III))
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
+* [JPEGMAFIA — Jesus Forgive Me, I Am a Thot](https://www.last.fm/music/JPEGMAFIA/_/Jesus+Forgive+Me,+I+Am+a+Thot)
+* [Kero Kero Bonito — It's Bugsnax!](https://www.last.fm/music/Kero+Kero+Bonito/_/It%27s+Bugsnax!)
+* [Danny Brown — Ain't it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
