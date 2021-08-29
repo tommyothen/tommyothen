@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
+* [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)
+* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
 * [Softwilly — COWBOY BLUEBALLS](https://www.last.fm/music/Softwilly/_/COWBOY+BLUEBALLS)
-* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)
-* [Kendrick Lamar — King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)
-* [$uicideboy$ — PARIS](https://www.last.fm/music/$uicideboy$/_/PARIS)
-* [$uicideboy$ — KILL YOURSELF (Part III)](https://www.last.fm/music/$uicideboy$/_/KILL+YOURSELF+(Part+III))<!-- LASTFM:END -->
+* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
