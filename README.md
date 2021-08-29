@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Death Grips — I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)
 * [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)
 * [Vistas — Retrospect - Single Version](https://www.last.fm/music/Vistas/_/Retrospect+-+Single+Version)
 * [Diverseddie — Sparkling Clean](https://www.last.fm/music/Diverseddie/_/Sparkling+Clean)
-* [Lil Soda Boi — plug me in](https://www.last.fm/music/Lil+Soda+Boi/_/plug+me+in)
-* [Yeule — Pretty Bones](https://www.last.fm/music/Yeule/_/Pretty+Bones)<!-- LASTFM:END -->
+* [Lil Soda Boi — plug me in](https://www.last.fm/music/Lil+Soda+Boi/_/plug+me+in)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
