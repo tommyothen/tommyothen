@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
+* [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)
+* [Boba Boyz — Thai Tea Trippin'](https://www.last.fm/music/Boba+Boyz/_/Thai+Tea+Trippin%27)
 * [Fliptrix — Monday To Sunday](https://www.last.fm/music/Fliptrix/_/Monday+To+Sunday)
-* [Fliptrix — Graffiti Won't Die](https://www.last.fm/music/Fliptrix/_/Graffiti+Won%27t+Die)
-* [Lil Dicky — Professional Rapper (feat. Snoop Dogg)](https://www.last.fm/music/Lil+Dicky/_/Professional+Rapper+(feat.+Snoop+Dogg))
-* [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)
-* [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)<!-- LASTFM:END -->
+* [Fliptrix — Graffiti Won't Die](https://www.last.fm/music/Fliptrix/_/Graffiti+Won%27t+Die)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
