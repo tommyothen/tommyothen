@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Geoxor — Ephemeral](https://www.last.fm/music/Geoxor/_/Ephemeral)
+* [Glaive — bastard](https://www.last.fm/music/Glaive/_/bastard)
 * [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
 * [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
-* [Snail's house — I secretly love u](https://www.last.fm/music/Snail%27s+house/_/I+secretly+love+u)
-* [AlsoJakob — NEW FRIENDS](https://www.last.fm/music/AlsoJakob/_/NEW+FRIENDS)
-* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)<!-- LASTFM:END -->
+* [Snail's house — I secretly love u](https://www.last.fm/music/Snail%27s+house/_/I+secretly+love+u)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
