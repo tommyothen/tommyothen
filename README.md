@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — #FreeRobuxIfYouShareSong_draft_v2](https://www.last.fm/music/Softwilly/_/%23FreeRobuxIfYouShareSong_draft_v2)
+* [Glaive — dnd](https://www.last.fm/music/Glaive/_/dnd)
+* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
 * [Rxseboy — I'm So Good at Lying (feat. Powfu & Thomas Reid)](https://www.last.fm/music/Rxseboy/_/I%27m+So+Good+at+Lying+(feat.+Powfu+&+Thomas+Reid))
-* [Moxas — my bad](https://www.last.fm/music/Moxas/_/my+bad)
-* [Softwilly — Homiesexual](https://www.last.fm/music/Softwilly/_/Homiesexual)
-* [Wilbur Soot — Your New Boyfriend](https://www.last.fm/music/Wilbur+Soot/_/Your+New+Boyfriend)
-* [Glaive — fuck this town](https://www.last.fm/music/Glaive/_/fuck+this+town)<!-- LASTFM:END -->
+* [Moxas — my bad](https://www.last.fm/music/Moxas/_/my+bad)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
