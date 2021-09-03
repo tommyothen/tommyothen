@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))
-* [Loona — PTT (Paint The Town)](https://www.last.fm/music/Loona/_/PTT+(Paint+The+Town))
-* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
-* [Kavka Shishido — ラヴコリーダ](https://www.last.fm/music/Kavka+Shishido/_/%E3%83%A9%E3%83%B4%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%80)
-* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)<!-- LASTFM:END -->
+* [Loona — WOW](https://www.last.fm/music/Loona/_/WOW)
+* [Loona — Dance On My Own](https://www.last.fm/music/Loona/_/Dance+On+My+Own)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [Loona — Why Not?](https://www.last.fm/music/Loona/_/Why+Not%3F)
+* [Loona — Heart Attack (츄)](https://www.last.fm/music/Loona/_/Heart+Attack+(%EC%B8%84))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
