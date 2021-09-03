@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Be Honest](https://www.last.fm/music/Loona/_/Be+Honest)
+* [Loona — WOW](https://www.last.fm/music/Loona/_/WOW)
 * [Loona — PTT (Paint The Town)](https://www.last.fm/music/Loona/_/PTT+(Paint+The+Town))
 * [Loona — &](https://www.last.fm/music/Loona/_/&)
-* [Loona — PTT(Paint The Town) - Japanese Ver.](https://www.last.fm/music/Loona/_/PTT(Paint+The+Town)+-+Japanese+Ver.)
-* [Loona — Not Friends (Sung by HeeJin, Kim Lip, JinSoul, Yves) (Prod. RYAN JHUN)](https://www.last.fm/music/Loona/_/Not+Friends+(Sung+by+HeeJin,+Kim+Lip,+JinSoul,+Yves)+(Prod.+RYAN+JHUN))
-* [Loona — + +](https://www.last.fm/music/Loona/_/%252B+%252B)<!-- LASTFM:END -->
+* [Loona — PTT(Paint The Town) - Japanese Ver.](https://www.last.fm/music/Loona/_/PTT(Paint+The+Town)+-+Japanese+Ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
