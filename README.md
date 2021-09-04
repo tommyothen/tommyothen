@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Why Not?](https://www.last.fm/music/Loona/_/Why+Not%3F)
-* [Loona — 12:00](https://www.last.fm/music/Loona/_/12:00)
-* [Loona — U R](https://www.last.fm/music/Loona/_/U+R)
-* [Loona — A Different Night](https://www.last.fm/music/Loona/_/A+Different+Night)
-* [Loona — Dance On My Own](https://www.last.fm/music/Loona/_/Dance+On+My+Own)<!-- LASTFM:END -->
+* [Loona — OOPS!](https://www.last.fm/music/Loona/_/OOPS!)
+* [Loona — Hide & Seek](https://www.last.fm/music/Loona/_/Hide+&+Seek)
+* [Loona — Universe](https://www.last.fm/music/Loona/_/Universe)
+* [Loona — Fall Again](https://www.last.fm/music/Loona/_/Fall+Again)
+* [Loona — Voice](https://www.last.fm/music/Loona/_/Voice)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
