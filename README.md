@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — You'll miss me when I'm not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
+* [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)
 * [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
 * [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
-* [Loona — Star (Voice English Ver.)](https://www.last.fm/music/Loona/_/Star+(Voice+English+Ver.))
-* [Loona — OOPS!](https://www.last.fm/music/Loona/_/OOPS!)
-* [Loona — Hide & Seek](https://www.last.fm/music/Loona/_/Hide+&+Seek)<!-- LASTFM:END -->
+* [Loona — Star (Voice English Ver.)](https://www.last.fm/music/Loona/_/Star+(Voice+English+Ver.))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
