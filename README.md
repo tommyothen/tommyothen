@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Exmiranda — Fresh Fro](https://www.last.fm/music/Exmiranda/_/Fresh+Fro)
+* [Evergreen — Gemini](https://www.last.fm/music/Evergreen/_/Gemini)
+* [Origami Button — Oil & Water](https://www.last.fm/music/Origami+Button/_/Oil+&+Water)
 * [Lim Kim — YELLOW](https://www.last.fm/music/Lim+Kim/_/YELLOW)
-* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
-* [The Haunt — Cigarettes & Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&+Feelings)
-* [CVLTE — Happy. (feat. 釈迦坊主)](https://www.last.fm/music/CVLTE/_/Happy.+(feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB))
-* [Titanic Sinclair — Scorpio](https://www.last.fm/music/Titanic+Sinclair/_/Scorpio)<!-- LASTFM:END -->
+* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
