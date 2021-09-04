@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Dance On My Own](https://www.last.fm/music/Loona/_/Dance+On+My+Own)
-* [Loona — Be Honest](https://www.last.fm/music/Loona/_/Be+Honest)
-* [Loona — WOW](https://www.last.fm/music/Loona/_/WOW)
-* [Loona — PTT (Paint The Town)](https://www.last.fm/music/Loona/_/PTT+(Paint+The+Town))
-* [Loona — &](https://www.last.fm/music/Loona/_/&)<!-- LASTFM:END -->
+* [Loona — Why Not?](https://www.last.fm/music/Loona/_/Why+Not%3F)
+* [Loona — 12:00](https://www.last.fm/music/Loona/_/12:00)
+* [Loona — U R](https://www.last.fm/music/Loona/_/U+R)
+* [Loona — A Different Night](https://www.last.fm/music/Loona/_/A+Different+Night)
+* [Loona — Dance On My Own](https://www.last.fm/music/Loona/_/Dance+On+My+Own)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
