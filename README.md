@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Haunt — Cigarettes & Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&+Feelings)
+* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
+* [Lewis Grant — Big Break](https://www.last.fm/music/Lewis+Grant/_/Big+Break)
 * [Exmiranda — Fresh Fro](https://www.last.fm/music/Exmiranda/_/Fresh+Fro)
-* [Evergreen — Gemini](https://www.last.fm/music/Evergreen/_/Gemini)
-* [Origami Button — Oil & Water](https://www.last.fm/music/Origami+Button/_/Oil+&+Water)
-* [Lim Kim — YELLOW](https://www.last.fm/music/Lim+Kim/_/YELLOW)
-* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)<!-- LASTFM:END -->
+* [Evergreen — Gemini](https://www.last.fm/music/Evergreen/_/Gemini)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
