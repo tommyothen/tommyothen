@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
+* [Billie Eilish — bad guy](https://www.last.fm/music/Billie+Eilish/_/bad+guy)
 * [Jorja Smith — On My Mind (Jorja Smith X Preditah)](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+(Jorja+Smith+X+Preditah))
 * [Tia — Deal with the devil](https://www.last.fm/music/Tia/_/Deal+with+the+devil)
-* [Rich Brian — Enemies](https://www.last.fm/music/Rich+Brian/_/Enemies)
-* [Mungo's Hi Fi — Babylon Raid](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Babylon+Raid)
-* [Eden — and](https://www.last.fm/music/Eden/_/and)<!-- LASTFM:END -->
+* [Rich Brian — Enemies](https://www.last.fm/music/Rich+Brian/_/Enemies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
