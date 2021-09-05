@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rainych — Yoru ni Kakeru](https://www.last.fm/music/Rainych/_/Yoru+ni+Kakeru)
+* [Aiobahn — ここにいる (Stephen Walking Remix)](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+(Stephen+Walking+Remix))
 * [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
 * [Sebastian Paul — ON SOME HIGH](https://www.last.fm/music/Sebastian+Paul/_/ON+SOME+HIGH)
-* [Yungtown — Late Night Thoughts](https://www.last.fm/music/Yungtown/_/Late+Night+Thoughts)
-* [Antoha MC — Ритм сердца (Original)](https://www.last.fm/music/Antoha+MC/_/%D0%A0%D0%B8%D1%82%D0%BC+%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B0+(Original))
-* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)<!-- LASTFM:END -->
+* [Yungtown — Late Night Thoughts](https://www.last.fm/music/Yungtown/_/Late+Night+Thoughts)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
