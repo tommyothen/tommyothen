@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
+* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
 * [Rich Brian — See Me](https://www.last.fm/music/Rich+Brian/_/See+Me)
 * [Yung Gravy — Mr. Clean](https://www.last.fm/music/Yung+Gravy/_/Mr.+Clean)
-* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
-* [Rainych — Yoru ni Kakeru](https://www.last.fm/music/Rainych/_/Yoru+ni+Kakeru)
-* [Aiobahn — ここにいる (Stephen Walking Remix)](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+(Stephen+Walking+Remix))<!-- LASTFM:END -->
+* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
