@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Haunt — Cigarettes & Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&+Feelings)
 * [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
 * [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
 * [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
-* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
-* [Camellia — Looking for Edge of Ground](https://www.last.fm/music/Camellia/_/Looking+for+Edge+of+Ground)<!-- LASTFM:END -->
+* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
