@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bennytheghost — Papercut](https://www.last.fm/music/bennytheghost/_/Papercut)
+* [Lexie Liu — 有吗炒面 ALGTR](https://www.last.fm/music/Lexie+Liu/_/%E6%9C%89%E5%90%97%E7%82%92%E9%9D%A2+ALGTR)
+* [Madison Rose — rainbow phone.](https://www.last.fm/music/Madison+Rose/_/rainbow+phone.)
 * [Between Friends — iloveyou](https://www.last.fm/music/Between+Friends/_/iloveyou)
-* [Aidan Alexander — Guts](https://www.last.fm/music/Aidan+Alexander/_/Guts)
-* [The Wrecks — Fvck Somebody](https://www.last.fm/music/The+Wrecks/_/Fvck+Somebody)
-* [Jhameel — Feisty (remix)](https://www.last.fm/music/Jhameel/_/Feisty+(remix))
-* [Chase Atlantic — Heaven and Back](https://www.last.fm/music/Chase+Atlantic/_/Heaven+and+Back)<!-- LASTFM:END -->
+* [Aidan Alexander — Guts](https://www.last.fm/music/Aidan+Alexander/_/Guts)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
