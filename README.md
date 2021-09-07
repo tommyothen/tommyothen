@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bibi — Binu](https://www.last.fm/music/Bibi/_/Binu)
+* [Tulips Ballad — I Fade Away](https://www.last.fm/music/Tulips+Ballad/_/I+Fade+Away)
+* [The True Blue — God Complex](https://www.last.fm/music/The+True+Blue/_/God+Complex)
 * [ericdoa — ifhy](https://www.last.fm/music/ericdoa/_/ifhy)
-* [KO aka Koala — go die!](https://www.last.fm/music/KO+aka+Koala/_/go+die!)
-* [Dear Evergreen — Restart](https://www.last.fm/music/Dear+Evergreen/_/Restart)
-* [ORIGINAL GOD — Fight Night](https://www.last.fm/music/ORIGINAL+GOD/_/Fight+Night)
-* [Gemini Aaliyah — PRETTY PSYCHO](https://www.last.fm/music/Gemini+Aaliyah/_/PRETTY+PSYCHO)<!-- LASTFM:END -->
+* [KO aka Koala — go die!](https://www.last.fm/music/KO+aka+Koala/_/go+die!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
