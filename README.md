@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jhameel — Feisty (remix)](https://www.last.fm/music/Jhameel/_/Feisty+(remix))
+* [Chase Atlantic — Heaven and Back](https://www.last.fm/music/Chase+Atlantic/_/Heaven+and+Back)
 * [Boylife — church](https://www.last.fm/music/Boylife/_/church)
 * [Deborah's Child — Margaret's Hymn](https://www.last.fm/music/Deborah%27s+Child/_/Margaret%27s+Hymn)
-* [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))
-* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
-* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)<!-- LASTFM:END -->
+* [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
