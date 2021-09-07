@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Daniel Olsén — Dead of Night](https://www.last.fm/music/Daniel+Ols%C3%A9n/_/Dead+of+Night)
 * [Jasmine Sokko — 嘘](https://www.last.fm/music/Jasmine+Sokko/_/%E5%98%98)
 * [Last Dinosaurs — Flying](https://www.last.fm/music/Last+Dinosaurs/_/Flying)
 * [SPACEGIRL GEMMY — HMU](https://www.last.fm/music/SPACEGIRL+GEMMY/_/HMU)
-* [six impala — Toy Car](https://www.last.fm/music/six+impala/_/Toy+Car)
-* [Pastelle — Numb](https://www.last.fm/music/Pastelle/_/Numb)<!-- LASTFM:END -->
+* [six impala — Toy Car](https://www.last.fm/music/six+impala/_/Toy+Car)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
