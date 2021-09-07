@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bennytheghost — Papercut](https://www.last.fm/music/bennytheghost/_/Papercut)
-* [Lexie Liu — 有吗炒面 ALGTR](https://www.last.fm/music/Lexie+Liu/_/%E6%9C%89%E5%90%97%E7%82%92%E9%9D%A2+ALGTR)
-* [Madison Rose — rainbow phone.](https://www.last.fm/music/Madison+Rose/_/rainbow+phone.)
-* [Between Friends — iloveyou](https://www.last.fm/music/Between+Friends/_/iloveyou)
-* [Aidan Alexander — Guts](https://www.last.fm/music/Aidan+Alexander/_/Guts)<!-- LASTFM:END -->
+* [ericdoa — ifhy](https://www.last.fm/music/ericdoa/_/ifhy)
+* [KO aka Koala — go die!](https://www.last.fm/music/KO+aka+Koala/_/go+die!)
+* [Dear Evergreen — Restart](https://www.last.fm/music/Dear+Evergreen/_/Restart)
+* [ORIGINAL GOD — Fight Night](https://www.last.fm/music/ORIGINAL+GOD/_/Fight+Night)
+* [Gemini Aaliyah — PRETTY PSYCHO](https://www.last.fm/music/Gemini+Aaliyah/_/PRETTY+PSYCHO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
