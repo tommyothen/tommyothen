@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kreayshawn — Missing Kitty](https://www.last.fm/music/Kreayshawn/_/Missing+Kitty)
 * [Maddie Jay — I Got You](https://www.last.fm/music/Maddie+Jay/_/I+Got+You)
 * [Daniel Olsén — Dead of Night](https://www.last.fm/music/Daniel+Ols%C3%A9n/_/Dead+of+Night)
 * [Jasmine Sokko — 嘘](https://www.last.fm/music/Jasmine+Sokko/_/%E5%98%98)
-* [Last Dinosaurs — Flying](https://www.last.fm/music/Last+Dinosaurs/_/Flying)
-* [SPACEGIRL GEMMY — HMU](https://www.last.fm/music/SPACEGIRL+GEMMY/_/HMU)<!-- LASTFM:END -->
+* [Last Dinosaurs — Flying](https://www.last.fm/music/Last+Dinosaurs/_/Flying)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
