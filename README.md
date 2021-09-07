@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sampa the Great — Energy](https://www.last.fm/music/Sampa+the+Great/_/Energy)
 * [Mach-Hommy — The Stellar Ray Theory](https://www.last.fm/music/Mach-Hommy/_/The+Stellar+Ray+Theory)
 * [Biig Piig — Shh](https://www.last.fm/music/Biig+Piig/_/Shh)
 * [Little Simz — Never Make Promises - Interlude](https://www.last.fm/music/Little+Simz/_/Never+Make+Promises+-+Interlude)
-* [slowthai — CANCELLED (feat. Skepta)](https://www.last.fm/music/slowthai/_/CANCELLED+(feat.+Skepta))
-* [Sampa the Great — F E M A L E](https://www.last.fm/music/Sampa+the+Great/_/F+E+M+A+L+E)<!-- LASTFM:END -->
+* [slowthai — CANCELLED (feat. Skepta)](https://www.last.fm/music/slowthai/_/CANCELLED+(feat.+Skepta))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
