@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Between Friends — iloveyou](https://www.last.fm/music/Between+Friends/_/iloveyou)
+* [Aidan Alexander — Guts](https://www.last.fm/music/Aidan+Alexander/_/Guts)
+* [The Wrecks — Fvck Somebody](https://www.last.fm/music/The+Wrecks/_/Fvck+Somebody)
 * [Jhameel — Feisty (remix)](https://www.last.fm/music/Jhameel/_/Feisty+(remix))
-* [Chase Atlantic — Heaven and Back](https://www.last.fm/music/Chase+Atlantic/_/Heaven+and+Back)
-* [Boylife — church](https://www.last.fm/music/Boylife/_/church)
-* [Deborah's Child — Margaret's Hymn](https://www.last.fm/music/Deborah%27s+Child/_/Margaret%27s+Hymn)
-* [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))<!-- LASTFM:END -->
+* [Chase Atlantic — Heaven and Back](https://www.last.fm/music/Chase+Atlantic/_/Heaven+and+Back)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
