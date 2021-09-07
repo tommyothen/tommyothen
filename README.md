@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sampa the Great — F E M A L E](https://www.last.fm/music/Sampa+the+Great/_/F+E+M+A+L+E)
+* [Tkay Maidza — You Sad](https://www.last.fm/music/Tkay+Maidza/_/You+Sad)
 * [Tierra Whack — Pretty Ugly](https://www.last.fm/music/Tierra+Whack/_/Pretty+Ugly)
 * [Little Simz — Selfish](https://www.last.fm/music/Little+Simz/_/Selfish)
-* [slowthai — terms (feat. Dominic Fike & Denzel Curry)](https://www.last.fm/music/slowthai/_/terms+(feat.+Dominic+Fike+&+Denzel+Curry))
-* [Little Simz — Venom](https://www.last.fm/music/Little+Simz/_/Venom)
-* [Kreayshawn — Missing Kitty](https://www.last.fm/music/Kreayshawn/_/Missing+Kitty)<!-- LASTFM:END -->
+* [slowthai — terms (feat. Dominic Fike & Denzel Curry)](https://www.last.fm/music/slowthai/_/terms+(feat.+Dominic+Fike+&+Denzel+Curry))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
