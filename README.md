@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sampa the Great — Energy](https://www.last.fm/music/Sampa+the+Great/_/Energy)
-* [Mach-Hommy — The Stellar Ray Theory](https://www.last.fm/music/Mach-Hommy/_/The+Stellar+Ray+Theory)
-* [Biig Piig — Shh](https://www.last.fm/music/Biig+Piig/_/Shh)
-* [Little Simz — Never Make Promises - Interlude](https://www.last.fm/music/Little+Simz/_/Never+Make+Promises+-+Interlude)
-* [slowthai — CANCELLED (feat. Skepta)](https://www.last.fm/music/slowthai/_/CANCELLED+(feat.+Skepta))<!-- LASTFM:END -->
+* [The Haunt — Cigarettes & Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&+Feelings)
+* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
+* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
+* [Zedd — The Middle](https://www.last.fm/music/Zedd/_/The+Middle)
+* [Sampa the Great — Energy](https://www.last.fm/music/Sampa+the+Great/_/Energy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
