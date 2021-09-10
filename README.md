@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
+* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
 * [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
 * [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
-* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
-* [Within Destruction — Yōkai](https://www.last.fm/music/Within+Destruction/_/Y%C5%8Dkai)
-* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)<!-- LASTFM:END -->
+* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
