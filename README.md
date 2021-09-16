@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
 * [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
 * [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
 * [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
-* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
-* [Tom Misch — Disco Yes](https://www.last.fm/music/Tom+Misch/_/Disco+Yes)<!-- LASTFM:END -->
+* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
