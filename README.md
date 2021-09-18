@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DAVA — ASOS](https://www.last.fm/music/DAVA/_/ASOS)
+* [Dear Me — Criss Cross Applesauce](https://www.last.fm/music/Dear+Me/_/Criss+Cross+Applesauce)
+* [ADOY — Porter](https://www.last.fm/music/ADOY/_/Porter)
 * [beabadoobee — If You Want To](https://www.last.fm/music/beabadoobee/_/If+You+Want+To)
-* [pLasterbrain — Modal Shanghai](https://www.last.fm/music/pLasterbrain/_/Modal+Shanghai)
-* [Daysormay — Role Model](https://www.last.fm/music/Daysormay/_/Role+Model)
-* [Glass Animals — Take A Slice](https://www.last.fm/music/Glass+Animals/_/Take+A+Slice)
-* [Lyldoll — New Love](https://www.last.fm/music/Lyldoll/_/New+Love)<!-- LASTFM:END -->
+* [pLasterbrain — Modal Shanghai](https://www.last.fm/music/pLasterbrain/_/Modal+Shanghai)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
