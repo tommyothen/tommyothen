@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dylan Brady — I'll Make You Miss Me All The Time](https://www.last.fm/music/Dylan+Brady/_/I%27ll+Make+You+Miss+Me+All+The+Time)
+* [annella — Trouble](https://www.last.fm/music/annella/_/Trouble)
 * [Blu Detiger — Tangerine](https://www.last.fm/music/Blu+Detiger/_/Tangerine)
 * [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
-* [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)
-* [DAVA — ASOS](https://www.last.fm/music/DAVA/_/ASOS)
-* [Dear Me — Criss Cross Applesauce](https://www.last.fm/music/Dear+Me/_/Criss+Cross+Applesauce)<!-- LASTFM:END -->
+* [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
