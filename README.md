@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lyldoll — New Love](https://www.last.fm/music/Lyldoll/_/New+Love)
+* [Valiant Vermin — Warm Coke](https://www.last.fm/music/Valiant+Vermin/_/Warm+Coke)
 * [Baybe — rosalie](https://www.last.fm/music/Baybe/_/rosalie)
 * [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)
-* [DAVA — ASOS](https://www.last.fm/music/DAVA/_/ASOS)
-* [Dear Me — Criss Cross Applesauce](https://www.last.fm/music/Dear+Me/_/Criss+Cross+Applesauce)
-* [ADOY — Porter](https://www.last.fm/music/ADOY/_/Porter)<!-- LASTFM:END -->
+* [DAVA — ASOS](https://www.last.fm/music/DAVA/_/ASOS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
