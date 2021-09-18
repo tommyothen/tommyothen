@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DAOKO — 御伽の街](https://www.last.fm/music/DAOKO/_/%E5%BE%A1%E4%BC%BD%E3%81%AE%E8%A1%97)
+* [Eddie Benjamin — Fuck My Friends](https://www.last.fm/music/Eddie+Benjamin/_/Fuck+My+Friends)
 * [Vylet Pony — Everything Glimmer](https://www.last.fm/music/Vylet+Pony/_/Everything+Glimmer)
 * [Catbamboo — Crave](https://www.last.fm/music/Catbamboo/_/Crave)
-* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
-* [NOT A TOY — Quit Quitting](https://www.last.fm/music/NOT+A+TOY/_/Quit+Quitting)
-* [BLACKSTARKIDS — TOO DEPRESSED 4 SEX](https://www.last.fm/music/BLACKSTARKIDS/_/TOO+DEPRESSED+4+SEX)<!-- LASTFM:END -->
+* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
