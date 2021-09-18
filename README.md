@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [pLasterbrain — Modal Shanghai](https://www.last.fm/music/pLasterbrain/_/Modal+Shanghai)
+* [Daysormay — Role Model](https://www.last.fm/music/Daysormay/_/Role+Model)
 * [Glass Animals — Take A Slice](https://www.last.fm/music/Glass+Animals/_/Take+A+Slice)
 * [Lyldoll — New Love](https://www.last.fm/music/Lyldoll/_/New+Love)
-* [Valiant Vermin — Warm Coke](https://www.last.fm/music/Valiant+Vermin/_/Warm+Coke)
-* [Baybe — rosalie](https://www.last.fm/music/Baybe/_/rosalie)
-* [YukoEXE — Media High](https://www.last.fm/music/YukoEXE/_/Media+High)<!-- LASTFM:END -->
+* [Valiant Vermin — Warm Coke](https://www.last.fm/music/Valiant+Vermin/_/Warm+Coke)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
