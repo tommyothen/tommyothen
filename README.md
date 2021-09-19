@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Machine Gun Kelly — DAYWALKER! (feat. Corpse)](https://www.last.fm/music/Machine+Gun+Kelly/_/DAYWALKER!+(feat.+Corpse))
-* [Machine Gun Kelly — DAYWALKER! (feat. Corpse)](https://www.last.fm/music/Machine+Gun+Kelly/_/DAYWALKER!+(feat.+Corpse))
-* [Sad Night Dynamite — Killshot](https://www.last.fm/music/Sad+Night+Dynamite/_/Killshot)
-* [Dead Robot — Vampire](https://www.last.fm/music/Dead+Robot/_/Vampire)
-* [Dylan Brady — I'll Make You Miss Me All The Time](https://www.last.fm/music/Dylan+Brady/_/I%27ll+Make+You+Miss+Me+All+The+Time)<!-- LASTFM:END -->
+* [Catbamboo — Crave](https://www.last.fm/music/Catbamboo/_/Crave)
+* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
+* [NOT A TOY — Quit Quitting](https://www.last.fm/music/NOT+A+TOY/_/Quit+Quitting)
+* [BLACKSTARKIDS — TOO DEPRESSED 4 SEX](https://www.last.fm/music/BLACKSTARKIDS/_/TOO+DEPRESSED+4+SEX)
+* [Slush Puppy — EAT SPIT! (feat. Royal & the Serpent)](https://www.last.fm/music/Slush+Puppy/_/EAT+SPIT!+(feat.+Royal+&+the+Serpent))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
