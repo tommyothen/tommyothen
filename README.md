@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Catbamboo — Crave](https://www.last.fm/music/Catbamboo/_/Crave)
-* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
-* [NOT A TOY — Quit Quitting](https://www.last.fm/music/NOT+A+TOY/_/Quit+Quitting)
-* [BLACKSTARKIDS — TOO DEPRESSED 4 SEX](https://www.last.fm/music/BLACKSTARKIDS/_/TOO+DEPRESSED+4+SEX)
-* [Slush Puppy — EAT SPIT! (feat. Royal & the Serpent)](https://www.last.fm/music/Slush+Puppy/_/EAT+SPIT!+(feat.+Royal+&+the+Serpent))<!-- LASTFM:END -->
+* [YukoEXE — Media High](https://www.last.fm/music/YukoEXE/_/Media+High)
+* [LAKE VINCE — TREELINES](https://www.last.fm/music/LAKE+VINCE/_/TREELINES)
+* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
+* [I Met A Yeti — Blue-Eyes White Yeti](https://www.last.fm/music/I+Met+A+Yeti/_/Blue-Eyes+White+Yeti)
+* [DAOKO — 御伽の街](https://www.last.fm/music/DAOKO/_/%E5%BE%A1%E4%BC%BD%E3%81%AE%E8%A1%97)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
