@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
 * [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
 * [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
 * [Daysormay — Role Model](https://www.last.fm/music/Daysormay/_/Role+Model)
-* [Glass Animals — Take A Slice](https://www.last.fm/music/Glass+Animals/_/Take+A+Slice)
-* [Lyldoll — New Love](https://www.last.fm/music/Lyldoll/_/New+Love)<!-- LASTFM:END -->
+* [Glass Animals — Take A Slice](https://www.last.fm/music/Glass+Animals/_/Take+A+Slice)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
