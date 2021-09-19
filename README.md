@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blu Detiger — Tangerine](https://www.last.fm/music/Blu+Detiger/_/Tangerine)
+* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
+* [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)
 * [DAVA — ASOS](https://www.last.fm/music/DAVA/_/ASOS)
-* [Dear Me — Criss Cross Applesauce](https://www.last.fm/music/Dear+Me/_/Criss+Cross+Applesauce)
-* [ADOY — Porter](https://www.last.fm/music/ADOY/_/Porter)
-* [beabadoobee — If You Want To](https://www.last.fm/music/beabadoobee/_/If+You+Want+To)
-* [pLasterbrain — Modal Shanghai](https://www.last.fm/music/pLasterbrain/_/Modal+Shanghai)<!-- LASTFM:END -->
+* [Dear Me — Criss Cross Applesauce](https://www.last.fm/music/Dear+Me/_/Criss+Cross+Applesauce)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
