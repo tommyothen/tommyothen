@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Gurldoll — Burn My Flesh Away](https://www.last.fm/music/Gurldoll/_/Burn+My+Flesh+Away)
-* [Sebii — POSErr](https://www.last.fm/music/Sebii/_/POSErr)
-* [luvseat — TANTRUM](https://www.last.fm/music/luvseat/_/TANTRUM)
-* [CAKE POP — Black Rum](https://www.last.fm/music/CAKE+POP/_/Black+Rum)
-* [PRINCESSBRI — Chaos](https://www.last.fm/music/PRINCESSBRI/_/Chaos)<!-- LASTFM:END -->
+* [Cabbage — White Claw Wasted](https://www.last.fm/music/Cabbage/_/White+Claw+Wasted)
+* [d0llywood1 — petite & fertile](https://www.last.fm/music/d0llywood1/_/petite+&+fertile)
+* [David Shawty — KISS MY OWN DICK](https://www.last.fm/music/David+Shawty/_/KISS+MY+OWN+DICK)
+* [PiNKii — Hard Candy](https://www.last.fm/music/PiNKii/_/Hard+Candy)
+* [Gurldoll — Burn My Flesh Away](https://www.last.fm/music/Gurldoll/_/Burn+My+Flesh+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
