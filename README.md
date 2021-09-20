@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cabbage — White Claw Wasted](https://www.last.fm/music/Cabbage/_/White+Claw+Wasted)
-* [d0llywood1 — petite & fertile](https://www.last.fm/music/d0llywood1/_/petite+&+fertile)
-* [David Shawty — KISS MY OWN DICK](https://www.last.fm/music/David+Shawty/_/KISS+MY+OWN+DICK)
-* [PiNKii — Hard Candy](https://www.last.fm/music/PiNKii/_/Hard+Candy)
-* [Gurldoll — Burn My Flesh Away](https://www.last.fm/music/Gurldoll/_/Burn+My+Flesh+Away)<!-- LASTFM:END -->
+* [DAINE — dainecore](https://www.last.fm/music/DAINE/_/dainecore)
+* [Funeral — TENSION](https://www.last.fm/music/Funeral/_/TENSION)
+* [PiNKii — Fuck 4Chan](https://www.last.fm/music/PiNKii/_/Fuck+4Chan)
+* [ericdoa — back n forth](https://www.last.fm/music/ericdoa/_/back+n+forth)
+* [OSNO1 — A Conversation I Overheard](https://www.last.fm/music/OSNO1/_/A+Conversation+I+Overheard)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
