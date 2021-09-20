@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [blackwinterwells — OMEN](https://www.last.fm/music/blackwinterwells/_/OMEN)
+* [recovery girl — physical touch](https://www.last.fm/music/recovery+girl/_/physical+touch)
+* [DeLorean Black — It Girl](https://www.last.fm/music/DeLorean+Black/_/It+Girl)
 * [ericdoa — fantasize](https://www.last.fm/music/ericdoa/_/fantasize)
-* [PiNKii — Not Ur Boo!](https://www.last.fm/music/PiNKii/_/Not+Ur+Boo!)
-* [Alice Longyu Gao — 100 Boyfriends](https://www.last.fm/music/Alice+Longyu+Gao/_/100+Boyfriends)
-* [blackwinterwells — IRIS](https://www.last.fm/music/blackwinterwells/_/IRIS)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
+* [PiNKii — Not Ur Boo!](https://www.last.fm/music/PiNKii/_/Not+Ur+Boo!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
