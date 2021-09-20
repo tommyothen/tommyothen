@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rey — Virtual Reality](https://www.last.fm/music/Rey/_/Virtual+Reality)
-* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)
-* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
-* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
-* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)<!-- LASTFM:END -->
+* [ericdoa — fantasize](https://www.last.fm/music/ericdoa/_/fantasize)
+* [PiNKii — Not Ur Boo!](https://www.last.fm/music/PiNKii/_/Not+Ur+Boo!)
+* [Alice Longyu Gao — 100 Boyfriends](https://www.last.fm/music/Alice+Longyu+Gao/_/100+Boyfriends)
+* [blackwinterwells — IRIS](https://www.last.fm/music/blackwinterwells/_/IRIS)
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
