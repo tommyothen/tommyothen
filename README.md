@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [DAINE — dainecore](https://www.last.fm/music/DAINE/_/dainecore)
-* [Funeral — TENSION](https://www.last.fm/music/Funeral/_/TENSION)
-* [PiNKii — Fuck 4Chan](https://www.last.fm/music/PiNKii/_/Fuck+4Chan)
-* [ericdoa — back n forth](https://www.last.fm/music/ericdoa/_/back+n+forth)
-* [OSNO1 — A Conversation I Overheard](https://www.last.fm/music/OSNO1/_/A+Conversation+I+Overheard)<!-- LASTFM:END -->
+* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
+* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
+* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
+* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
