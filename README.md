@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
+* [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)
 * [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
 * [d0llywood1 — petite & fertile](https://www.last.fm/music/d0llywood1/_/petite+&+fertile)
-* [David Shawty — KISS MY OWN DICK](https://www.last.fm/music/David+Shawty/_/KISS+MY+OWN+DICK)
-* [PiNKii — Hard Candy](https://www.last.fm/music/PiNKii/_/Hard+Candy)
-* [Gurldoll — Burn My Flesh Away](https://www.last.fm/music/Gurldoll/_/Burn+My+Flesh+Away)<!-- LASTFM:END -->
+* [David Shawty — KISS MY OWN DICK](https://www.last.fm/music/David+Shawty/_/KISS+MY+OWN+DICK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
