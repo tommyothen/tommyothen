@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
+* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
 * [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
 * [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))
-* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
-* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)<!-- LASTFM:END -->
+* [Doja Cat — Get Into It (Yuh)](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
