@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)
+* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
+* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
 * [blackwinterwells — OMEN](https://www.last.fm/music/blackwinterwells/_/OMEN)
-* [recovery girl — physical touch](https://www.last.fm/music/recovery+girl/_/physical+touch)
-* [DeLorean Black — It Girl](https://www.last.fm/music/DeLorean+Black/_/It+Girl)
-* [ericdoa — fantasize](https://www.last.fm/music/ericdoa/_/fantasize)
-* [PiNKii — Not Ur Boo!](https://www.last.fm/music/PiNKii/_/Not+Ur+Boo!)<!-- LASTFM:END -->
+* [recovery girl — physical touch](https://www.last.fm/music/recovery+girl/_/physical+touch)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
