@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
-* [blackwinterwells — OMEN](https://www.last.fm/music/blackwinterwells/_/OMEN)
-* [recovery girl — physical touch](https://www.last.fm/music/recovery+girl/_/physical+touch)
-* [DeLorean Black — It Girl](https://www.last.fm/music/DeLorean+Black/_/It+Girl)
-* [ericdoa — fantasize](https://www.last.fm/music/ericdoa/_/fantasize)<!-- LASTFM:END -->
+* [luvseat — TANTRUM](https://www.last.fm/music/luvseat/_/TANTRUM)
+* [CAKE POP — Black Rum](https://www.last.fm/music/CAKE+POP/_/Black+Rum)
+* [PRINCESSBRI — Chaos](https://www.last.fm/music/PRINCESSBRI/_/Chaos)
+* [PiNKii — Star☆Power](https://www.last.fm/music/PiNKii/_/Star%E2%98%86Power)
+* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
