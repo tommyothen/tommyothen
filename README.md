@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Machine Gun Kelly — DAYWALKER! (feat. Corpse)](https://www.last.fm/music/Machine+Gun+Kelly/_/DAYWALKER!+(feat.+Corpse))
+* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
+* [SIMULAT3DHUMAN — slow dance // endless nights](https://www.last.fm/music/SIMULAT3DHUMAN/_/slow+dance+%2F%2F+endless+nights)
 * [SIMULAT3DHUMAN — Pity Party for My Nostalgic Memories](https://www.last.fm/music/SIMULAT3DHUMAN/_/Pity+Party+for+My+Nostalgic+Memories)
-* [SIMULAT3DHUMAN — BABYLON](https://www.last.fm/music/SIMULAT3DHUMAN/_/BABYLON)
-* [SIMULAT3DHUMAN — AOKIGAHARA BLUNTS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AOKIGAHARA+BLUNTS)
-* [SIMULAT3DHUMAN — shadows//bedroom](https://www.last.fm/music/SIMULAT3DHUMAN/_/shadows%2F%2Fbedroom)
-* [SIMULAT3DHUMAN — FLASHBANG](https://www.last.fm/music/SIMULAT3DHUMAN/_/FLASHBANG)<!-- LASTFM:END -->
+* [SIMULAT3DHUMAN — BABYLON](https://www.last.fm/music/SIMULAT3DHUMAN/_/BABYLON)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
