@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SIMULAT3DHUMAN — Pity Party for My Nostalgic Memories](https://www.last.fm/music/SIMULAT3DHUMAN/_/Pity+Party+for+My+Nostalgic+Memories)
+* [SIMULAT3DHUMAN — BABYLON](https://www.last.fm/music/SIMULAT3DHUMAN/_/BABYLON)
 * [SIMULAT3DHUMAN — AOKIGAHARA BLUNTS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AOKIGAHARA+BLUNTS)
 * [SIMULAT3DHUMAN — shadows//bedroom](https://www.last.fm/music/SIMULAT3DHUMAN/_/shadows%2F%2Fbedroom)
-* [SIMULAT3DHUMAN — FLASHBANG](https://www.last.fm/music/SIMULAT3DHUMAN/_/FLASHBANG)
-* [SIMULAT3DHUMAN — CYBER GOTH RAVE](https://www.last.fm/music/SIMULAT3DHUMAN/_/CYBER+GOTH+RAVE)
-* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)<!-- LASTFM:END -->
+* [SIMULAT3DHUMAN — FLASHBANG](https://www.last.fm/music/SIMULAT3DHUMAN/_/FLASHBANG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
