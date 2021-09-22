@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lilianna Wilde — White Rabbit (Jawster Remix)](https://www.last.fm/music/Lilianna+Wilde/_/White+Rabbit+(Jawster+Remix))
 * [Ryan Woods — Bad Texter](https://www.last.fm/music/Ryan+Woods/_/Bad+Texter)
 * [Maude Latour — Furniture](https://www.last.fm/music/Maude+Latour/_/Furniture)
 * [Bree Runway — LITTLE NOKIA (feat. Rico Nasty) - REMIX / BONUS TRACK](https://www.last.fm/music/Bree+Runway/_/LITTLE+NOKIA+(feat.+Rico+Nasty)+-+REMIX+%2F+BONUS+TRACK)
-* [Leoš Janáček — String Quartet No. 1 'Kreutzer Sonata': String Quartet No. 1 'Kreutzer Sonata': I. Adagio. Con moto](https://www.last.fm/music/Leo%C5%A1+Jan%C3%A1%C4%8Dek/_/String+Quartet+No.+1+%27Kreutzer+Sonata%27:+String+Quartet+No.+1+%27Kreutzer+Sonata%27:+I.+Adagio.+Con+moto)
-* [Max Wassen — Remedy](https://www.last.fm/music/Max+Wassen/_/Remedy)<!-- LASTFM:END -->
+* [Leoš Janáček — String Quartet No. 1 'Kreutzer Sonata': String Quartet No. 1 'Kreutzer Sonata': I. Adagio. Con moto](https://www.last.fm/music/Leo%C5%A1+Jan%C3%A1%C4%8Dek/_/String+Quartet+No.+1+%27Kreutzer+Sonata%27:+String+Quartet+No.+1+%27Kreutzer+Sonata%27:+I.+Adagio.+Con+moto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
