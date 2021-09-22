@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
 * [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
 * [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [TransViolet — Don't Say You Love Me](https://www.last.fm/music/TransViolet/_/Don%27t+Say+You+Love+Me)
-* [Cailin Russo — Declaration](https://www.last.fm/music/Cailin+Russo/_/Declaration)<!-- LASTFM:END -->
+* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
+* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
