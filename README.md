@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TransViolet — Don't Say You Love Me](https://www.last.fm/music/TransViolet/_/Don%27t+Say+You+Love+Me)
 * [Cailin Russo — Declaration](https://www.last.fm/music/Cailin+Russo/_/Declaration)
 * [Randa — Heatwave](https://www.last.fm/music/Randa/_/Heatwave)
 * [ULTRA RARE OPERATING SYSTEM — Sometimes I hear Howlin' in my head - NAVI Edit](https://www.last.fm/music/ULTRA+RARE+OPERATING+SYSTEM/_/Sometimes+I+hear+Howlin%27+in+my+head+-+NAVI+Edit)
-* [KinokoTeikoku — ロンググッドバイ](https://www.last.fm/music/KinokoTeikoku/_/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%B0%E3%83%83%E3%83%89%E3%83%90%E3%82%A4)
-* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)<!-- LASTFM:END -->
+* [KinokoTeikoku — ロンググッドバイ](https://www.last.fm/music/KinokoTeikoku/_/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%B0%E3%83%83%E3%83%89%E3%83%90%E3%82%A4)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
