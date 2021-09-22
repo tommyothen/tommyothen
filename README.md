@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
+* [Savannah Saturn — Sorry About Your Car](https://www.last.fm/music/Savannah+Saturn/_/Sorry+About+Your+Car)
+* [Alissic — Like](https://www.last.fm/music/Alissic/_/Like)
 * [abbot — Heartbreak](https://www.last.fm/music/abbot/_/Heartbreak)
-* [chelmico — EXIT](https://www.last.fm/music/chelmico/_/EXIT)
-* [June — Something To Lose](https://www.last.fm/music/June/_/Something+To+Lose)
-* [Su Lee — Bitches in My Head](https://www.last.fm/music/Su+Lee/_/Bitches+in+My+Head)
-* [MIYAVI — U.G.L.Y.](https://www.last.fm/music/MIYAVI/_/U.G.L.Y.)<!-- LASTFM:END -->
+* [chelmico — EXIT](https://www.last.fm/music/chelmico/_/EXIT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
