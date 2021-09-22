@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
-* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)<!-- LASTFM:END -->
+* [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)
+* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
+* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
+* [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)
+* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
