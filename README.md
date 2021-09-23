@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KinokoTeikoku — ロンググッドバイ](https://www.last.fm/music/KinokoTeikoku/_/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%B0%E3%83%83%E3%83%89%E3%83%90%E3%82%A4)
 * [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
 * [OOHYO — Brave - Single Cut Version](https://www.last.fm/music/OOHYO/_/Brave+-+Single+Cut+Version)
 * [Lilianna Wilde — White Rabbit (Jawster Remix)](https://www.last.fm/music/Lilianna+Wilde/_/White+Rabbit+(Jawster+Remix))
-* [Ryan Woods — Bad Texter](https://www.last.fm/music/Ryan+Woods/_/Bad+Texter)
-* [Maude Latour — Furniture](https://www.last.fm/music/Maude+Latour/_/Furniture)<!-- LASTFM:END -->
+* [Ryan Woods — Bad Texter](https://www.last.fm/music/Ryan+Woods/_/Bad+Texter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
