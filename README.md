@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Fallen Pine — Common Sense](https://www.last.fm/music/Fallen+Pine/_/Common+Sense)
-* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
-* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
-* [Savannah Saturn — Sorry About Your Car](https://www.last.fm/music/Savannah+Saturn/_/Sorry+About+Your+Car)
-* [Alissic — Like](https://www.last.fm/music/Alissic/_/Like)<!-- LASTFM:END -->
+* [Ryan Woods — Bad Texter](https://www.last.fm/music/Ryan+Woods/_/Bad+Texter)
+* [Maude Latour — Furniture](https://www.last.fm/music/Maude+Latour/_/Furniture)
+* [Bree Runway — LITTLE NOKIA (feat. Rico Nasty) - REMIX / BONUS TRACK](https://www.last.fm/music/Bree+Runway/_/LITTLE+NOKIA+(feat.+Rico+Nasty)+-+REMIX+%2F+BONUS+TRACK)
+* [Leoš Janáček — String Quartet No. 1 'Kreutzer Sonata': String Quartet No. 1 'Kreutzer Sonata': I. Adagio. Con moto](https://www.last.fm/music/Leo%C5%A1+Jan%C3%A1%C4%8Dek/_/String+Quartet+No.+1+%27Kreutzer+Sonata%27:+String+Quartet+No.+1+%27Kreutzer+Sonata%27:+I.+Adagio.+Con+moto)
+* [Max Wassen — Remedy](https://www.last.fm/music/Max+Wassen/_/Remedy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
