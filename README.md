@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MLMA — Do You Love Me?](https://www.last.fm/music/MLMA/_/Do+You+Love+Me%3F)
+* [Yvette Young — Cars and Girls](https://www.last.fm/music/Yvette+Young/_/Cars+and+Girls)
 * [Strawberry Girls — Mini Ripper](https://www.last.fm/music/Strawberry+Girls/_/Mini+Ripper)
 * [Eyedi — Caffeine](https://www.last.fm/music/Eyedi/_/Caffeine)
-* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)
-* [Fallen Pine — Common Sense](https://www.last.fm/music/Fallen+Pine/_/Common+Sense)
-* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)<!-- LASTFM:END -->
+* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
