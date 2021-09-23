@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
+* [OOHYO — Brave - Single Cut Version](https://www.last.fm/music/OOHYO/_/Brave+-+Single+Cut+Version)
+* [Lilianna Wilde — White Rabbit (Jawster Remix)](https://www.last.fm/music/Lilianna+Wilde/_/White+Rabbit+(Jawster+Remix))
 * [Ryan Woods — Bad Texter](https://www.last.fm/music/Ryan+Woods/_/Bad+Texter)
-* [Maude Latour — Furniture](https://www.last.fm/music/Maude+Latour/_/Furniture)
-* [Bree Runway — LITTLE NOKIA (feat. Rico Nasty) - REMIX / BONUS TRACK](https://www.last.fm/music/Bree+Runway/_/LITTLE+NOKIA+(feat.+Rico+Nasty)+-+REMIX+%2F+BONUS+TRACK)
-* [Max Wassen — Remedy](https://www.last.fm/music/Max+Wassen/_/Remedy)
-* [NOah Davis — Tea](https://www.last.fm/music/NOah+Davis/_/Tea)<!-- LASTFM:END -->
+* [Maude Latour — Furniture](https://www.last.fm/music/Maude+Latour/_/Furniture)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
