@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [hasegawa — In Heat - Hasegawa Remix](https://www.last.fm/music/hasegawa/_/In+Heat+-+Hasegawa+Remix)
+* [Faithless — Insomnia - Radio edit](https://www.last.fm/music/Faithless/_/Insomnia+-+Radio+edit)
 * [Channel Tres — Topdown](https://www.last.fm/music/Channel+Tres/_/Topdown)
 * [Easy Life — Nightmares](https://www.last.fm/music/Easy+Life/_/Nightmares)
-* [Estelle — American Boy](https://www.last.fm/music/Estelle/_/American+Boy)
-* [Dizzee Rascal — Bonkers](https://www.last.fm/music/Dizzee+Rascal/_/Bonkers)
-* [Dizzee Rascal — Bassline Junkie](https://www.last.fm/music/Dizzee+Rascal/_/Bassline+Junkie)<!-- LASTFM:END -->
+* [Estelle — American Boy](https://www.last.fm/music/Estelle/_/American+Boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
