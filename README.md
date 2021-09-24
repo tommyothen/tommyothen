@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
+* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)
 * [Softwilly — B.O.Y.S.N.E.X.T.D.O.O.R.](https://www.last.fm/music/Softwilly/_/B.O.Y.S.N.E.X.T.D.O.O.R.)
 * [Kodak Black — MoshPit (feat. Juice WRLD)](https://www.last.fm/music/Kodak+Black/_/MoshPit+(feat.+Juice+WRLD))
-* [Queen — Bohemian Rhapsody](https://www.last.fm/music/Queen/_/Bohemian+Rhapsody)
-* [Gucci Mane — Wake Up in the Sky](https://www.last.fm/music/Gucci+Mane/_/Wake+Up+in+the+Sky)
-* [hasegawa — In Heat - Hasegawa Remix](https://www.last.fm/music/hasegawa/_/In+Heat+-+Hasegawa+Remix)<!-- LASTFM:END -->
+* [Queen — Bohemian Rhapsody](https://www.last.fm/music/Queen/_/Bohemian+Rhapsody)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
