@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
+* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
+* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
 * [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
-* [Kevin Walkman — its alright :)](https://www.last.fm/music/Kevin+Walkman/_/its+alright+:))
-* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
-* [Freestyle Fellowship — Sunshine Men](https://www.last.fm/music/Freestyle+Fellowship/_/Sunshine+Men)
-* [Isaac Dunbar — pink party](https://www.last.fm/music/Isaac+Dunbar/_/pink+party)<!-- LASTFM:END -->
+* [Kevin Walkman — its alright :)](https://www.last.fm/music/Kevin+Walkman/_/its+alright+:))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
