@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)
 * [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
-* [Kanye West — Lift Yourself](https://www.last.fm/music/Kanye+West/_/Lift+Yourself)
-* [ULTRA RARE OPERATING SYSTEM — Sometimes I hear Howlin' in my head - NAVI Edit](https://www.last.fm/music/ULTRA+RARE+OPERATING+SYSTEM/_/Sometimes+I+hear+Howlin%27+in+my+head+-+NAVI+Edit)
-* [KinokoTeikoku — ロンググッドバイ](https://www.last.fm/music/KinokoTeikoku/_/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%B0%E3%83%83%E3%83%89%E3%83%90%E3%82%A4)<!-- LASTFM:END -->
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
+* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
