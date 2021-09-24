@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
+* [Kevin Walkman — its alright :)](https://www.last.fm/music/Kevin+Walkman/_/its+alright+:))
 * [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
 * [Freestyle Fellowship — Sunshine Men](https://www.last.fm/music/Freestyle+Fellowship/_/Sunshine+Men)
-* [Isaac Dunbar — pink party](https://www.last.fm/music/Isaac+Dunbar/_/pink+party)
-* [SUPERFRUIT — GUY.exe](https://www.last.fm/music/SUPERFRUIT/_/GUY.exe)
-* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)<!-- LASTFM:END -->
+* [Isaac Dunbar — pink party](https://www.last.fm/music/Isaac+Dunbar/_/pink+party)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
