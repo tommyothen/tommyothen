@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Calvin Harris — Acceptable in the 80's](https://www.last.fm/music/Calvin+Harris/_/Acceptable+in+the+80%27s)
 * [FEDUK — Знаки](https://www.last.fm/music/FEDUK/_/%D0%97%D0%BD%D0%B0%D0%BA%D0%B8)
 * [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [Isaac Dunbar — fan behavior](https://www.last.fm/music/Isaac+Dunbar/_/fan+behavior)
-* [ROY PURDY — PINK AND GREEN](https://www.last.fm/music/ROY+PURDY/_/PINK+AND+GREEN)<!-- LASTFM:END -->
+* [Isaac Dunbar — fan behavior](https://www.last.fm/music/Isaac+Dunbar/_/fan+behavior)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
