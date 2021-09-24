@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Isaac Dunbar — pink party](https://www.last.fm/music/Isaac+Dunbar/_/pink+party)
+* [SUPERFRUIT — GUY.exe](https://www.last.fm/music/SUPERFRUIT/_/GUY.exe)
 * [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
 * [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [100 gecs — ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]](https://www.last.fm/music/100+gecs/_/ringtone+(Remix)+%5Bfeat.+Charli+XCX,+Rico+Nasty,+Kero+Kero+Bonito%5D)
-* [100 gecs — money machine](https://www.last.fm/music/100+gecs/_/money+machine)<!-- LASTFM:END -->
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
