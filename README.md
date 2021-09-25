@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Oasis — The Importance of Being Idle](https://www.last.fm/music/Oasis/_/The+Importance+of+Being+Idle)
+* [Labrinth — Mount Everest](https://www.last.fm/music/Labrinth/_/Mount+Everest)
 * [Thundercat — Funny Thing](https://www.last.fm/music/Thundercat/_/Funny+Thing)
 * [Duckwrth — I'M DEAD](https://www.last.fm/music/Duckwrth/_/I%27M+DEAD)
-* [Madeon — Miracle](https://www.last.fm/music/Madeon/_/Miracle)
-* [Brick+Mortar — Terrible Things](https://www.last.fm/music/Brick%252BMortar/_/Terrible+Things)
-* [PawPaw Rod — HIT EM WHERE IT HURTS](https://www.last.fm/music/PawPaw+Rod/_/HIT+EM+WHERE+IT+HURTS)<!-- LASTFM:END -->
+* [Madeon — Miracle](https://www.last.fm/music/Madeon/_/Miracle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
