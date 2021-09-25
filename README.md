@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Madeon — Miracle](https://www.last.fm/music/Madeon/_/Miracle)
+* [Brick+Mortar — Terrible Things](https://www.last.fm/music/Brick%252BMortar/_/Terrible+Things)
 * [PawPaw Rod — HIT EM WHERE IT HURTS](https://www.last.fm/music/PawPaw+Rod/_/HIT+EM+WHERE+IT+HURTS)
 * [Dream Mclean — AMERI - EVERYONE YOU KNOW Remix](https://www.last.fm/music/Dream+Mclean/_/AMERI+-+EVERYONE+YOU+KNOW+Remix)
-* [Rina Sawayama — Cherry](https://www.last.fm/music/Rina+Sawayama/_/Cherry)
-* [Grandson — Dirty](https://www.last.fm/music/Grandson/_/Dirty)
-* [Kanye West — I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)<!-- LASTFM:END -->
+* [Rina Sawayama — Cherry](https://www.last.fm/music/Rina+Sawayama/_/Cherry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
