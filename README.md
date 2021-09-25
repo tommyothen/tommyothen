@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
+* [June — Something To Lose](https://www.last.fm/music/June/_/Something+To+Lose)
 * [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)
 * [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
-* [Declan McKenna — Brazil](https://www.last.fm/music/Declan+McKenna/_/Brazil)
-* [Calvin Harris — Acceptable in the 80's](https://www.last.fm/music/Calvin+Harris/_/Acceptable+in+the+80%27s)
-* [FEDUK — Знаки](https://www.last.fm/music/FEDUK/_/%D0%97%D0%BD%D0%B0%D0%BA%D0%B8)<!-- LASTFM:END -->
+* [Declan McKenna — Brazil](https://www.last.fm/music/Declan+McKenna/_/Brazil)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
