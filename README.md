@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [RODERICK PORTER — I Didn't Realize How Empty My Bed Was Until You Left](https://www.last.fm/music/RODERICK+PORTER/_/I+Didn%27t+Realize+How+Empty+My+Bed+Was+Until+You+Left)
+* [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)
+* [BROCKHAMPTON — GOLD](https://www.last.fm/music/BROCKHAMPTON/_/GOLD)
 * [Ryan Woods — Bad Texter](https://www.last.fm/music/Ryan+Woods/_/Bad+Texter)
-* [Remi Wolf — Disco Man](https://www.last.fm/music/Remi+Wolf/_/Disco+Man)
-* [Isaac Dunbar — fan behavior](https://www.last.fm/music/Isaac+Dunbar/_/fan+behavior)
-* [Maude Latour — Furniture](https://www.last.fm/music/Maude+Latour/_/Furniture)
-* [Bree Runway — LITTLE NOKIA (feat. Rico Nasty) - REMIX / BONUS TRACK](https://www.last.fm/music/Bree+Runway/_/LITTLE+NOKIA+(feat.+Rico+Nasty)+-+REMIX+%2F+BONUS+TRACK)<!-- LASTFM:END -->
+* [Remi Wolf — Disco Man](https://www.last.fm/music/Remi+Wolf/_/Disco+Man)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
