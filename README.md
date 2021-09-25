@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Isaac Dunbar — fan behavior](https://www.last.fm/music/Isaac+Dunbar/_/fan+behavior)
+* [Maude Latour — Furniture](https://www.last.fm/music/Maude+Latour/_/Furniture)
 * [Bree Runway — LITTLE NOKIA (feat. Rico Nasty) - REMIX / BONUS TRACK](https://www.last.fm/music/Bree+Runway/_/LITTLE+NOKIA+(feat.+Rico+Nasty)+-+REMIX+%2F+BONUS+TRACK)
 * [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
-* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
-* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
+* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
