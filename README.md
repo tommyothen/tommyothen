@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ULTRA RARE OPERATING SYSTEM — Sometimes I hear Howlin' in my head - NAVI Edit](https://www.last.fm/music/ULTRA+RARE+OPERATING+SYSTEM/_/Sometimes+I+hear+Howlin%27+in+my+head+-+NAVI+Edit)
+* [KinokoTeikoku — ロンググッドバイ](https://www.last.fm/music/KinokoTeikoku/_/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%B0%E3%83%83%E3%83%89%E3%83%90%E3%82%A4)
 * [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
 * [OOHYO — Brave - Single Cut Version](https://www.last.fm/music/OOHYO/_/Brave+-+Single+Cut+Version)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [Clay K Slider — God's Plan](https://www.last.fm/music/Clay+K+Slider/_/God%27s+Plan)
-* [Oliver Tree — Life Goes On](https://www.last.fm/music/Oliver+Tree/_/Life+Goes+On)<!-- LASTFM:END -->
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
