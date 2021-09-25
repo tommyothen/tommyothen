@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Paramore — Ain't It Fun](https://www.last.fm/music/Paramore/_/Ain%27t+It+Fun)
+* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
 * [Kero Kero Bonito — Flamingo](https://www.last.fm/music/Kero+Kero+Bonito/_/Flamingo)
 * [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
-* [Dizzee Rascal — Bonkers](https://www.last.fm/music/Dizzee+Rascal/_/Bonkers)
-* [JPEGMAFIA — BALD! REMIX](https://www.last.fm/music/JPEGMAFIA/_/BALD!+REMIX)
-* [Oasis — The Importance of Being Idle](https://www.last.fm/music/Oasis/_/The+Importance+of+Being+Idle)<!-- LASTFM:END -->
+* [Dizzee Rascal — Bonkers](https://www.last.fm/music/Dizzee+Rascal/_/Bonkers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
