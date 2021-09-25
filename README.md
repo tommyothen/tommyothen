@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PawPaw Rod — HIT EM WHERE IT HURTS](https://www.last.fm/music/PawPaw+Rod/_/HIT+EM+WHERE+IT+HURTS)
+* [Dream Mclean — AMERI - EVERYONE YOU KNOW Remix](https://www.last.fm/music/Dream+Mclean/_/AMERI+-+EVERYONE+YOU+KNOW+Remix)
+* [Rina Sawayama — Cherry](https://www.last.fm/music/Rina+Sawayama/_/Cherry)
 * [Grandson — Dirty](https://www.last.fm/music/Grandson/_/Dirty)
-* [Kanye West — I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)
-* [Eyedi — Caffeine](https://www.last.fm/music/Eyedi/_/Caffeine)
-* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)
-* [Fallen Pine — Common Sense](https://www.last.fm/music/Fallen+Pine/_/Common+Sense)<!-- LASTFM:END -->
+* [Kanye West — I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
