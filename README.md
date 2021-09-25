@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
+* [Clay K Slider — God's Plan](https://www.last.fm/music/Clay+K+Slider/_/God%27s+Plan)
 * [Oliver Tree — Life Goes On](https://www.last.fm/music/Oliver+Tree/_/Life+Goes+On)
 * [Lilianna Wilde — White Rabbit (Jawster Remix)](https://www.last.fm/music/Lilianna+Wilde/_/White+Rabbit+(Jawster+Remix))
-* [slowthai — Doorman](https://www.last.fm/music/slowthai/_/Doorman)
-* [M83 — Midnight City](https://www.last.fm/music/M83/_/Midnight+City)
-* [RODERICK PORTER — I Didn't Realize How Empty My Bed Was Until You Left](https://www.last.fm/music/RODERICK+PORTER/_/I+Didn%27t+Realize+How+Empty+My+Bed+Was+Until+You+Left)<!-- LASTFM:END -->
+* [slowthai — Doorman](https://www.last.fm/music/slowthai/_/Doorman)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
