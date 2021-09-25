@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
+* [OOHYO — Brave - Single Cut Version](https://www.last.fm/music/OOHYO/_/Brave+-+Single+Cut+Version)
 * [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
 * [Clay K Slider — God's Plan](https://www.last.fm/music/Clay+K+Slider/_/God%27s+Plan)
-* [Oliver Tree — Life Goes On](https://www.last.fm/music/Oliver+Tree/_/Life+Goes+On)
-* [Lilianna Wilde — White Rabbit (Jawster Remix)](https://www.last.fm/music/Lilianna+Wilde/_/White+Rabbit+(Jawster+Remix))
-* [slowthai — Doorman](https://www.last.fm/music/slowthai/_/Doorman)<!-- LASTFM:END -->
+* [Oliver Tree — Life Goes On](https://www.last.fm/music/Oliver+Tree/_/Life+Goes+On)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
