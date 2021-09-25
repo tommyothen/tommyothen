@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [RODERICK PORTER — I Didn't Realize How Empty My Bed Was Until You Left](https://www.last.fm/music/RODERICK+PORTER/_/I+Didn%27t+Realize+How+Empty+My+Bed+Was+Until+You+Left)
-* [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)
-* [BROCKHAMPTON — GOLD](https://www.last.fm/music/BROCKHAMPTON/_/GOLD)
-* [Ryan Woods — Bad Texter](https://www.last.fm/music/Ryan+Woods/_/Bad+Texter)
-* [Remi Wolf — Disco Man](https://www.last.fm/music/Remi+Wolf/_/Disco+Man)<!-- LASTFM:END -->
+* [Oliver Tree — Life Goes On](https://www.last.fm/music/Oliver+Tree/_/Life+Goes+On)
+* [Lilianna Wilde — White Rabbit (Jawster Remix)](https://www.last.fm/music/Lilianna+Wilde/_/White+Rabbit+(Jawster+Remix))
+* [slowthai — Doorman](https://www.last.fm/music/slowthai/_/Doorman)
+* [M83 — Midnight City](https://www.last.fm/music/M83/_/Midnight+City)
+* [RODERICK PORTER — I Didn't Realize How Empty My Bed Was Until You Left](https://www.last.fm/music/RODERICK+PORTER/_/I+Didn%27t+Realize+How+Empty+My+Bed+Was+Until+You+Left)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
