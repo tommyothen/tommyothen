@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yeule — Pocky Boy](https://www.last.fm/music/Yeule/_/Pocky+Boy)
 * [Bali Baby — Elastic](https://www.last.fm/music/Bali+Baby/_/Elastic)
 * [Kitty — Last Minute](https://www.last.fm/music/Kitty/_/Last+Minute)
 * [REI AMI — SNOWCONE](https://www.last.fm/music/REI+AMI/_/SNOWCONE)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Jazmin Bean — Saccharine](https://www.last.fm/music/Jazmin+Bean/_/Saccharine)<!-- LASTFM:END -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
