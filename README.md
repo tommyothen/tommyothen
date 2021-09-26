@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bali Baby — Elastic](https://www.last.fm/music/Bali+Baby/_/Elastic)
+* [Kitty — Last Minute](https://www.last.fm/music/Kitty/_/Last+Minute)
+* [REI AMI — SNOWCONE](https://www.last.fm/music/REI+AMI/_/SNOWCONE)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Jazmin Bean — Saccharine](https://www.last.fm/music/Jazmin+Bean/_/Saccharine)
-* [Bali Baby — Banana Klip](https://www.last.fm/music/Bali+Baby/_/Banana+Klip)
-* [Slayyyter — Hello Kitty](https://www.last.fm/music/Slayyyter/_/Hello+Kitty)
-* [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)<!-- LASTFM:END -->
+* [Jazmin Bean — Saccharine](https://www.last.fm/music/Jazmin+Bean/_/Saccharine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
