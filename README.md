@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yameii Online — Baby my phone](https://www.last.fm/music/Yameii+Online/_/Baby+my+phone)
+* [Jazmin Bean — Yandere](https://www.last.fm/music/Jazmin+Bean/_/Yandere)
 * [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
 * [Bali Baby — Iggady Remix](https://www.last.fm/music/Bali+Baby/_/Iggady+Remix)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
-* [Kreayshawn — Missing Kitty](https://www.last.fm/music/Kreayshawn/_/Missing+Kitty)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
