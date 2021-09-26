@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kilo Kish — NICE OUT](https://www.last.fm/music/Kilo+Kish/_/NICE+OUT)
-* [Slayyyter — Alone](https://www.last.fm/music/Slayyyter/_/Alone)
-* [Sophie — Immaterial](https://www.last.fm/music/Sophie/_/Immaterial)
-* [Iyla — Strings](https://www.last.fm/music/Iyla/_/Strings)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
+* [oaf1 — ilove urr girl](https://www.last.fm/music/oaf1/_/ilove+urr+girl)
+* [Kitty — Scout Finch Bitch](https://www.last.fm/music/Kitty/_/Scout+Finch+Bitch)
+* [Poppy — I'm Poppy](https://www.last.fm/music/Poppy/_/I%27m+Poppy)
+* [Alice Longyu Gao — Rich Bitch Juice - Laura Les Remix](https://www.last.fm/music/Alice+Longyu+Gao/_/Rich+Bitch+Juice+-+Laura+Les+Remix)
+* [Kilo Kish — NICE OUT](https://www.last.fm/music/Kilo+Kish/_/NICE+OUT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
