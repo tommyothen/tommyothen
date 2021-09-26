@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
-* [Qveen Herby — Sugar Daddy](https://www.last.fm/music/Qveen+Herby/_/Sugar+Daddy)
-* [Bali Baby — Elastic](https://www.last.fm/music/Bali+Baby/_/Elastic)
-* [Cobrah — U KNOW ME](https://www.last.fm/music/Cobrah/_/U+KNOW+ME)
-* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)<!-- LASTFM:END -->
+* [p4rkr — jealousy is a bitch. i hate her](https://www.last.fm/music/p4rkr/_/jealousy+is+a+bitch.+i+hate+her)
+* [Bree Runway — What Do I Tell My Friends?](https://www.last.fm/music/Bree+Runway/_/What+Do+I+Tell+My+Friends%3F)
+* [REI AMI — RUNAWAY](https://www.last.fm/music/REI+AMI/_/RUNAWAY)
+* [Jazmin Bean — I'm a Slave 4 U](https://www.last.fm/music/Jazmin+Bean/_/I%27m+a+Slave+4+U)
+* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
