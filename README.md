@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Framed — uhh](https://www.last.fm/music/Framed/_/uhh)
+* [Yeule — Pretty Bones](https://www.last.fm/music/Yeule/_/Pretty+Bones)
 * [siouxxie — Masquerade](https://www.last.fm/music/siouxxie/_/Masquerade)
 * [Jazmin Bean — Worldwide Torture](https://www.last.fm/music/Jazmin+Bean/_/Worldwide+Torture)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Elita — Introverted](https://www.last.fm/music/Elita/_/Introverted)
-* [p4rkr — jealousy is a bitch. i hate her](https://www.last.fm/music/p4rkr/_/jealousy+is+a+bitch.+i+hate+her)<!-- LASTFM:END -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
