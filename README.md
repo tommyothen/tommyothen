@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jazmin Bean — R U Looking 4 Me Now](https://www.last.fm/music/Jazmin+Bean/_/R+U+Looking+4+Me+Now)
+* [p4rkr — jealousy is a bitch. i hate her](https://www.last.fm/music/p4rkr/_/jealousy+is+a+bitch.+i+hate+her)
 * [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
 * [Kreayshawn — Go Hard (La.La.La)](https://www.last.fm/music/Kreayshawn/_/Go+Hard+(La.La.La))
-* [PRINCESSBRI — AM I DREAMING?](https://www.last.fm/music/PRINCESSBRI/_/AM+I+DREAMING%3F)
-* [100 gecs — money machine](https://www.last.fm/music/100+gecs/_/money+machine)
-* [That Kid — Dial Tone](https://www.last.fm/music/That+Kid/_/Dial+Tone)<!-- LASTFM:END -->
+* [PRINCESSBRI — AM I DREAMING?](https://www.last.fm/music/PRINCESSBRI/_/AM+I+DREAMING%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
