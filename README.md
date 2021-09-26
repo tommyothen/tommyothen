@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
+* [Kreayshawn — Go Hard (La.La.La)](https://www.last.fm/music/Kreayshawn/_/Go+Hard+(La.La.La))
 * [PRINCESSBRI — AM I DREAMING?](https://www.last.fm/music/PRINCESSBRI/_/AM+I+DREAMING%3F)
 * [100 gecs — money machine](https://www.last.fm/music/100+gecs/_/money+machine)
-* [That Kid — Dial Tone](https://www.last.fm/music/That+Kid/_/Dial+Tone)
-* [BigKlit — FSU](https://www.last.fm/music/BigKlit/_/FSU)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)<!-- LASTFM:END -->
+* [That Kid — Dial Tone](https://www.last.fm/music/That+Kid/_/Dial+Tone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
