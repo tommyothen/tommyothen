@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
+* [Charli XCX — Unlock it (Lock It) - feat. Kim Petras and Jay Park](https://www.last.fm/music/Charli+XCX/_/Unlock+it+(Lock+It)+-+feat.+Kim+Petras+and+Jay+Park)
 * [PRINCESSBRI — Chaos](https://www.last.fm/music/PRINCESSBRI/_/Chaos)
 * [Bree Runway — What Do I Tell My Friends?](https://www.last.fm/music/Bree+Runway/_/What+Do+I+Tell+My+Friends%3F)
-* [Jazmin Bean — R U Looking 4 Me Now](https://www.last.fm/music/Jazmin+Bean/_/R+U+Looking+4+Me+Now)
-* [p4rkr — jealousy is a bitch. i hate her](https://www.last.fm/music/p4rkr/_/jealousy+is+a+bitch.+i+hate+her)
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)<!-- LASTFM:END -->
+* [Jazmin Bean — R U Looking 4 Me Now](https://www.last.fm/music/Jazmin+Bean/_/R+U+Looking+4+Me+Now)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
