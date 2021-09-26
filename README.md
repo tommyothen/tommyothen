@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Slayyyter — Daddy AF](https://www.last.fm/music/Slayyyter/_/Daddy+AF)
-* [REI AMI — RUNAWAY](https://www.last.fm/music/REI+AMI/_/RUNAWAY)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Yameii Online — Baby my phone](https://www.last.fm/music/Yameii+Online/_/Baby+my+phone)
-* [Jazmin Bean — Yandere](https://www.last.fm/music/Jazmin+Bean/_/Yandere)<!-- LASTFM:END -->
+* [BigKlit — FSU](https://www.last.fm/music/BigKlit/_/FSU)
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
+* [punkinloveee — freak show](https://www.last.fm/music/punkinloveee/_/freak+show)
+* [Jazmin Bean — Worldwide Torture](https://www.last.fm/music/Jazmin+Bean/_/Worldwide+Torture)
+* [Slayyyter — Daddy AF](https://www.last.fm/music/Slayyyter/_/Daddy+AF)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
