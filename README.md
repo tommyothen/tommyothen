@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)
+* [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
 * [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
 * [Bali Baby — Iggady Remix](https://www.last.fm/music/Bali+Baby/_/Iggady+Remix)
-* [Iyla — Strings](https://www.last.fm/music/Iyla/_/Strings)
-* [Coco & Clair Clair — Pop Star](https://www.last.fm/music/Coco+&+Clair+Clair/_/Pop+Star)
-* [REI AMI — SNOWCONE](https://www.last.fm/music/REI+AMI/_/SNOWCONE)<!-- LASTFM:END -->
+* [Iyla — Strings](https://www.last.fm/music/Iyla/_/Strings)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
