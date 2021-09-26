@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
+* [Qveen Herby — Sugar Daddy](https://www.last.fm/music/Qveen+Herby/_/Sugar+Daddy)
 * [Bali Baby — Elastic](https://www.last.fm/music/Bali+Baby/_/Elastic)
 * [Cobrah — U KNOW ME](https://www.last.fm/music/Cobrah/_/U+KNOW+ME)
-* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)
-* [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
+* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
