@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
+* [June — Something To Lose](https://www.last.fm/music/June/_/Something+To+Lose)
 * [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)
 * [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
-* [Fine Young Cannibals — Good Thing](https://www.last.fm/music/Fine+Young+Cannibals/_/Good+Thing)
-* [PRISAM — Happy Birthday - Hardstyle Remix](https://www.last.fm/music/PRISAM/_/Happy+Birthday+-+Hardstyle+Remix)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)<!-- LASTFM:END -->
+* [Fine Young Cannibals — Good Thing](https://www.last.fm/music/Fine+Young+Cannibals/_/Good+Thing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
