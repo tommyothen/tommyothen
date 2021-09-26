@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Coco & Clair Clair — Pop Star](https://www.last.fm/music/Coco+&+Clair+Clair/_/Pop+Star)
+* [REI AMI — SNOWCONE](https://www.last.fm/music/REI+AMI/_/SNOWCONE)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
 * [Bali Baby — Banana Klip](https://www.last.fm/music/Bali+Baby/_/Banana+Klip)
-* [Charli XCX — Vroom Vroom](https://www.last.fm/music/Charli+XCX/_/Vroom+Vroom)
-* [Coco & Clair Clair — Pop Star](https://www.last.fm/music/Coco+&+Clair+Clair/_/Pop+Star)
-* [ppcocaine — Hugh Hefner](https://www.last.fm/music/ppcocaine/_/Hugh+Hefner)<!-- LASTFM:END -->
+* [Charli XCX — Vroom Vroom](https://www.last.fm/music/Charli+XCX/_/Vroom+Vroom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
