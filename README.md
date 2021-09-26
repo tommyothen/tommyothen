@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kilo Kish — NICE OUT](https://www.last.fm/music/Kilo+Kish/_/NICE+OUT)
+* [Slayyyter — Alone](https://www.last.fm/music/Slayyyter/_/Alone)
 * [Sophie — Immaterial](https://www.last.fm/music/Sophie/_/Immaterial)
 * [Iyla — Strings](https://www.last.fm/music/Iyla/_/Strings)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
-* [Charli XCX — Unlock it (Lock It) - feat. Kim Petras and Jay Park](https://www.last.fm/music/Charli+XCX/_/Unlock+it+(Lock+It)+-+feat.+Kim+Petras+and+Jay+Park)
-* [PRINCESSBRI — Chaos](https://www.last.fm/music/PRINCESSBRI/_/Chaos)<!-- LASTFM:END -->
+* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
