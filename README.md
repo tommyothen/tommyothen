@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PRINCESSBRI — AM I DREAMING?](https://www.last.fm/music/PRINCESSBRI/_/AM+I+DREAMING%3F)
+* [100 gecs — money machine](https://www.last.fm/music/100+gecs/_/money+machine)
+* [That Kid — Dial Tone](https://www.last.fm/music/That+Kid/_/Dial+Tone)
 * [BigKlit — FSU](https://www.last.fm/music/BigKlit/_/FSU)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [punkinloveee — freak show](https://www.last.fm/music/punkinloveee/_/freak+show)
-* [Jazmin Bean — Worldwide Torture](https://www.last.fm/music/Jazmin+Bean/_/Worldwide+Torture)
-* [Slayyyter — Daddy AF](https://www.last.fm/music/Slayyyter/_/Daddy+AF)<!-- LASTFM:END -->
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
