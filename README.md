@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
 * [Doechii — Yucky Blucky Fruitcake](https://www.last.fm/music/Doechii/_/Yucky+Blucky+Fruitcake)
 * [Jazmin Bean — Yandere](https://www.last.fm/music/Jazmin+Bean/_/Yandere)
-* [Slayyyter — BFF](https://www.last.fm/music/Slayyyter/_/BFF)
-* [Alex Mali — Facts Only](https://www.last.fm/music/Alex+Mali/_/Facts+Only)
-* [Cookiee Kawaii — Violin (feat. Dear Silas)](https://www.last.fm/music/Cookiee+Kawaii/_/Violin+(feat.+Dear+Silas))<!-- LASTFM:END -->
+* [Slayyyter — BFF](https://www.last.fm/music/Slayyyter/_/BFF)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
