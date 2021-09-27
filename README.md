@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
 * [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
 * [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
-* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)
-* [Softwilly — B.O.Y.S.N.E.X.T.D.O.O.R.](https://www.last.fm/music/Softwilly/_/B.O.Y.S.N.E.X.T.D.O.O.R.)
-* [Softwilly — #FreeRobuxIfYouShareSong_draft_v2](https://www.last.fm/music/Softwilly/_/%23FreeRobuxIfYouShareSong_draft_v2)<!-- LASTFM:END -->
+* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
