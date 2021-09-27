@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
 * [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
 * [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
 * [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
-* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
-* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)<!-- LASTFM:END -->
+* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
