@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Trannieboi — Sertraline Gang - 3AM Remix](https://www.last.fm/music/Trannieboi/_/Sertraline+Gang+-+3AM+Remix)
+* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
 * [BABYMETAL — Syncopation - METAL GALAXY WORLD TOUR IN JAPAN EXTRA SHOW](https://www.last.fm/music/BABYMETAL/_/Syncopation+-+METAL+GALAXY+WORLD+TOUR+IN+JAPAN+EXTRA+SHOW)
 * [BABYMETAL — BxMxC - METAL GALAXY WORLD TOUR IN JAPAN EXTRA SHOW](https://www.last.fm/music/BABYMETAL/_/BxMxC+-+METAL+GALAXY+WORLD+TOUR+IN+JAPAN+EXTRA+SHOW)
-* [BABYMETAL — Kagerou - METAL GALAXY WORLD TOUR IN JAPAN EXTRA SHOW](https://www.last.fm/music/BABYMETAL/_/Kagerou+-+METAL+GALAXY+WORLD+TOUR+IN+JAPAN+EXTRA+SHOW)
-* [BABYMETAL — KARATE - METAL GALAXY WORLD TOUR IN JAPAN EXTRA SHOW](https://www.last.fm/music/BABYMETAL/_/KARATE+-+METAL+GALAXY+WORLD+TOUR+IN+JAPAN+EXTRA+SHOW)
-* [BABYMETAL — PA PA YA!! - METAL GALAXY WORLD TOUR IN JAPAN EXTRA SHOW](https://www.last.fm/music/BABYMETAL/_/PA+PA+YA!!+-+METAL+GALAXY+WORLD+TOUR+IN+JAPAN+EXTRA+SHOW)<!-- LASTFM:END -->
+* [BABYMETAL — Kagerou - METAL GALAXY WORLD TOUR IN JAPAN EXTRA SHOW](https://www.last.fm/music/BABYMETAL/_/Kagerou+-+METAL+GALAXY+WORLD+TOUR+IN+JAPAN+EXTRA+SHOW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
