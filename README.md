@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [oaf1 — poster](https://www.last.fm/music/oaf1/_/poster)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Kitty — Last Minute](https://www.last.fm/music/Kitty/_/Last+Minute)
-* [Framed — uhh](https://www.last.fm/music/Framed/_/uhh)
-* [Yeule — Pretty Bones](https://www.last.fm/music/Yeule/_/Pretty+Bones)<!-- LASTFM:END -->
+* [Slayyyter — BFF](https://www.last.fm/music/Slayyyter/_/BFF)
+* [Alex Mali — Facts Only](https://www.last.fm/music/Alex+Mali/_/Facts+Only)
+* [Cookiee Kawaii — Violin (feat. Dear Silas)](https://www.last.fm/music/Cookiee+Kawaii/_/Violin+(feat.+Dear+Silas))
+* [Jazmin Bean — Princess Castle](https://www.last.fm/music/Jazmin+Bean/_/Princess+Castle)
+* [oaf1 — poster](https://www.last.fm/music/oaf1/_/poster)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
