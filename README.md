@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
+* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
 * [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
 * [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
-* [Camellia — Looking for Edge of Ground](https://www.last.fm/music/Camellia/_/Looking+for+Edge+of+Ground)
-* [Sebastian Paul — INDULGE](https://www.last.fm/music/Sebastian+Paul/_/INDULGE)
-* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)<!-- LASTFM:END -->
+* [Camellia — Looking for Edge of Ground](https://www.last.fm/music/Camellia/_/Looking+for+Edge+of+Ground)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
