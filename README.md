@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Seven Lions — Sojourn](https://www.last.fm/music/Seven+Lions/_/Sojourn)
+* [San Holo — Honest](https://www.last.fm/music/San+Holo/_/Honest)
 * [Slander — Back To U](https://www.last.fm/music/Slander/_/Back+To+U)
 * [William Black — Deep End](https://www.last.fm/music/William+Black/_/Deep+End)
-* [Madeon — THE PRINCE](https://www.last.fm/music/Madeon/_/THE+PRINCE)
-* [Seven Lions — Slow Dive](https://www.last.fm/music/Seven+Lions/_/Slow+Dive)
-* [Dion Timmer — Shiawase](https://www.last.fm/music/Dion+Timmer/_/Shiawase)<!-- LASTFM:END -->
+* [Madeon — THE PRINCE](https://www.last.fm/music/Madeon/_/THE+PRINCE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
