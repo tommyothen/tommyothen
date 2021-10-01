@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Madeon — THE PRINCE](https://www.last.fm/music/Madeon/_/THE+PRINCE)
 * [Seven Lions — Slow Dive](https://www.last.fm/music/Seven+Lions/_/Slow+Dive)
 * [Dion Timmer — Shiawase](https://www.last.fm/music/Dion+Timmer/_/Shiawase)
 * [Said The Sky — Show & Tell](https://www.last.fm/music/Said+The+Sky/_/Show+&+Tell)
-* [Slander — Better Than Heaven](https://www.last.fm/music/Slander/_/Better+Than+Heaven)
-* [crankdat — Wobble](https://www.last.fm/music/crankdat/_/Wobble)<!-- LASTFM:END -->
+* [Slander — Better Than Heaven](https://www.last.fm/music/Slander/_/Better+Than+Heaven)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
