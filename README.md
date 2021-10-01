@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
+* [Armors — Doa](https://www.last.fm/music/Armors/_/Doa)
+* [WHOKILLEDXIX — Bratz Doll](https://www.last.fm/music/WHOKILLEDXIX/_/Bratz+Doll)
 * [Metric — Black Sheep - Brie Larson Vocal Version](https://www.last.fm/music/Metric/_/Black+Sheep+-+Brie+Larson+Vocal+Version)
-* [Astra King — Silver](https://www.last.fm/music/Astra+King/_/Silver)
-* [Unlike Pluto — Stay And Decay](https://www.last.fm/music/Unlike+Pluto/_/Stay+And+Decay)
-* [Iglooghost — Amu](https://www.last.fm/music/Iglooghost/_/Amu)
-* [Hitchhiker — Sugar](https://www.last.fm/music/Hitchhiker/_/Sugar)<!-- LASTFM:END -->
+* [Astra King — Silver](https://www.last.fm/music/Astra+King/_/Silver)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
