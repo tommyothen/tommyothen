@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [crankdat — Wobble](https://www.last.fm/music/crankdat/_/Wobble)
+* [Seven Lions — Rescue Me](https://www.last.fm/music/Seven+Lions/_/Rescue+Me)
 * [Blastoyz — Pantheon](https://www.last.fm/music/Blastoyz/_/Pantheon)
 * [BABYMETAL — BxMxC](https://www.last.fm/music/BABYMETAL/_/BxMxC)
-* [Chester Lockhart — Bound](https://www.last.fm/music/Chester+Lockhart/_/Bound)
-* [Left Boy — Nothing Will Be the Same (Sweet Dreams) (Father of God)](https://www.last.fm/music/Left+Boy/_/Nothing+Will+Be+the+Same+(Sweet+Dreams)+(Father+of+God))
-* [Kirara — Worries](https://www.last.fm/music/Kirara/_/Worries)<!-- LASTFM:END -->
+* [Chester Lockhart — Bound](https://www.last.fm/music/Chester+Lockhart/_/Bound)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
