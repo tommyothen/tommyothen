@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Said The Sky — Show & Tell](https://www.last.fm/music/Said+The+Sky/_/Show+&+Tell)
+* [Slander — Better Than Heaven](https://www.last.fm/music/Slander/_/Better+Than+Heaven)
 * [crankdat — Wobble](https://www.last.fm/music/crankdat/_/Wobble)
 * [Seven Lions — Rescue Me](https://www.last.fm/music/Seven+Lions/_/Rescue+Me)
-* [Blastoyz — Pantheon](https://www.last.fm/music/Blastoyz/_/Pantheon)
-* [BABYMETAL — BxMxC](https://www.last.fm/music/BABYMETAL/_/BxMxC)
-* [Chester Lockhart — Bound](https://www.last.fm/music/Chester+Lockhart/_/Bound)<!-- LASTFM:END -->
+* [Blastoyz — Pantheon](https://www.last.fm/music/Blastoyz/_/Pantheon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
