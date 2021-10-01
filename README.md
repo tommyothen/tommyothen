@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
+* [half•alive — What's Wrong](https://www.last.fm/music/half%E2%80%A2alive/_/What%27s+Wrong)
 * [LICK DROP — Faint](https://www.last.fm/music/LICK+DROP/_/Faint)
 * [Moe Shop — Notice](https://www.last.fm/music/Moe+Shop/_/Notice)
-* [SUGR? — Oh, Death](https://www.last.fm/music/SUGR%3F/_/Oh,+Death)
-* [MISOGI — Monopink Dream, 2001](https://www.last.fm/music/MISOGI/_/Monopink+Dream,+2001)
-* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)<!-- LASTFM:END -->
+* [SUGR? — Oh, Death](https://www.last.fm/music/SUGR%3F/_/Oh,+Death)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
