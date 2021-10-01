@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slander — Kneel Before Me](https://www.last.fm/music/Slander/_/Kneel+Before+Me)
 * [Zeds Dead — Stars Tonight](https://www.last.fm/music/Zeds+Dead/_/Stars+Tonight)
 * [Rezz — Taste Of You (feat. Dove Cameron)](https://www.last.fm/music/Rezz/_/Taste+Of+You+(feat.+Dove+Cameron))
 * [Madeon — La Lune (feat. Dan Smith)](https://www.last.fm/music/Madeon/_/La+Lune+(feat.+Dan+Smith))
-* [Seven Lions — Foolish Of Me (feat. Jonathan Mendelsohn)](https://www.last.fm/music/Seven+Lions/_/Foolish+Of+Me+(feat.+Jonathan+Mendelsohn))
-* [Krewella — New World](https://www.last.fm/music/Krewella/_/New+World)<!-- LASTFM:END -->
+* [Seven Lions — Foolish Of Me (feat. Jonathan Mendelsohn)](https://www.last.fm/music/Seven+Lions/_/Foolish+Of+Me+(feat.+Jonathan+Mendelsohn))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
