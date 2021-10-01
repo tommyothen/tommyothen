@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LICK DROP — Faint](https://www.last.fm/music/LICK+DROP/_/Faint)
+* [Moe Shop — Notice](https://www.last.fm/music/Moe+Shop/_/Notice)
+* [SUGR? — Oh, Death](https://www.last.fm/music/SUGR%3F/_/Oh,+Death)
 * [MISOGI — Monopink Dream, 2001](https://www.last.fm/music/MISOGI/_/Monopink+Dream,+2001)
-* [BABYMETAL — BxMxC](https://www.last.fm/music/BABYMETAL/_/BxMxC)
-* [Chester Lockhart — Bound](https://www.last.fm/music/Chester+Lockhart/_/Bound)
-* [Left Boy — Nothing Will Be the Same (Sweet Dreams) (Father of God)](https://www.last.fm/music/Left+Boy/_/Nothing+Will+Be+the+Same+(Sweet+Dreams)+(Father+of+God))
-* [Kirara — Worries](https://www.last.fm/music/Kirara/_/Worries)<!-- LASTFM:END -->
+* [BABYMETAL — BxMxC](https://www.last.fm/music/BABYMETAL/_/BxMxC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
