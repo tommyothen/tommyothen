@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Madeon — Pay No Mind (feat. Passion Pit)](https://www.last.fm/music/Madeon/_/Pay+No+Mind+(feat.+Passion+Pit))
+* [slushii — Luv U Need U](https://www.last.fm/music/slushii/_/Luv+U+Need+U)
 * [Krewella — Goddess](https://www.last.fm/music/Krewella/_/Goddess)
 * [Seven Lions — Summer Of The Occult](https://www.last.fm/music/Seven+Lions/_/Summer+Of+The+Occult)
-* [Slander — Kneel Before Me](https://www.last.fm/music/Slander/_/Kneel+Before+Me)
-* [Zeds Dead — Stars Tonight](https://www.last.fm/music/Zeds+Dead/_/Stars+Tonight)
-* [Rezz — Taste Of You (feat. Dove Cameron)](https://www.last.fm/music/Rezz/_/Taste+Of+You+(feat.+Dove+Cameron))<!-- LASTFM:END -->
+* [Slander — Kneel Before Me](https://www.last.fm/music/Slander/_/Kneel+Before+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
