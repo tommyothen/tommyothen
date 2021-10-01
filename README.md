@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Seven Lions — Foolish Of Me (feat. Jonathan Mendelsohn)](https://www.last.fm/music/Seven+Lions/_/Foolish+Of+Me+(feat.+Jonathan+Mendelsohn))
+* [Krewella — New World](https://www.last.fm/music/Krewella/_/New+World)
 * [William Black — Butterflies](https://www.last.fm/music/William+Black/_/Butterflies)
 * [slushii — Valhalla](https://www.last.fm/music/slushii/_/Valhalla)
-* [Rezz — Edge](https://www.last.fm/music/Rezz/_/Edge)
-* [Seven Lions — Sojourn](https://www.last.fm/music/Seven+Lions/_/Sojourn)
-* [San Holo — Honest](https://www.last.fm/music/San+Holo/_/Honest)<!-- LASTFM:END -->
+* [Rezz — Edge](https://www.last.fm/music/Rezz/_/Edge)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
