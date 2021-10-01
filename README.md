@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pussy Riot — PANIC ATTACK](https://www.last.fm/music/Pussy+Riot/_/PANIC+ATTACK)
+* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
 * [Full Tac — Baby Let Me Know](https://www.last.fm/music/Full+Tac/_/Baby+Let+Me+Know)
 * [Internet Girl — Bitter](https://www.last.fm/music/Internet+Girl/_/Bitter)
-* [OFK — Follow/Unfollow](https://www.last.fm/music/OFK/_/Follow%2FUnfollow)
-* [twst — Girl On Your TV](https://www.last.fm/music/twst/_/Girl+On+Your+TV)
-* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)<!-- LASTFM:END -->
+* [OFK — Follow/Unfollow](https://www.last.fm/music/OFK/_/Follow%2FUnfollow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
