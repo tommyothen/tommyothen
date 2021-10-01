@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
+* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
+* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
 * [Tritonal — Getaway - Koven Remix](https://www.last.fm/music/Tritonal/_/Getaway+-+Koven+Remix)
-* [Kasbo — Shut The World Out](https://www.last.fm/music/Kasbo/_/Shut+The+World+Out)
-* [Seven Lions — Freesol](https://www.last.fm/music/Seven+Lions/_/Freesol)
-* [Audien — Crazy Love](https://www.last.fm/music/Audien/_/Crazy+Love)
-* [Madeon — Pay No Mind (feat. Passion Pit)](https://www.last.fm/music/Madeon/_/Pay+No+Mind+(feat.+Passion+Pit))<!-- LASTFM:END -->
+* [Kasbo — Shut The World Out](https://www.last.fm/music/Kasbo/_/Shut+The+World+Out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
