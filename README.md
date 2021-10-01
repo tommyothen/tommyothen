@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chester Lockhart — Bound](https://www.last.fm/music/Chester+Lockhart/_/Bound)
+* [Left Boy — Nothing Will Be the Same (Sweet Dreams) (Father of God)](https://www.last.fm/music/Left+Boy/_/Nothing+Will+Be+the+Same+(Sweet+Dreams)+(Father+of+God))
+* [Kirara — Worries](https://www.last.fm/music/Kirara/_/Worries)
 * [Leat'eq — Tokyo - Bubblegum](https://www.last.fm/music/Leat%27eq/_/Tokyo+-+Bubblegum)
-* [chouchou merged syrups. — 何度も](https://www.last.fm/music/chouchou+merged+syrups./_/%E4%BD%95%E5%BA%A6%E3%82%82)
-* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
-* [Armors — Doa](https://www.last.fm/music/Armors/_/Doa)
-* [WHOKILLEDXIX — Bratz Doll](https://www.last.fm/music/WHOKILLEDXIX/_/Bratz+Doll)<!-- LASTFM:END -->
+* [chouchou merged syrups. — 何度も](https://www.last.fm/music/chouchou+merged+syrups./_/%E4%BD%95%E5%BA%A6%E3%82%82)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
