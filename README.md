@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hitchhiker — Sugar](https://www.last.fm/music/Hitchhiker/_/Sugar)
+* [Cö shu Nie — who are you?](https://www.last.fm/music/C%C3%B6+shu+Nie/_/who+are+you%3F)
+* [Happy Hour — Cigarettes](https://www.last.fm/music/Happy+Hour/_/Cigarettes)
 * [Colliding With Mars — LIGHTBRINGER](https://www.last.fm/music/Colliding+With+Mars/_/LIGHTBRINGER)
-* [From Indian Lakes — Did We Change](https://www.last.fm/music/From+Indian+Lakes/_/Did+We+Change)
-* [Pussy Riot — PANIC ATTACK](https://www.last.fm/music/Pussy+Riot/_/PANIC+ATTACK)
-* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
-* [Full Tac — Baby Let Me Know](https://www.last.fm/music/Full+Tac/_/Baby+Let+Me+Know)<!-- LASTFM:END -->
+* [From Indian Lakes — Did We Change](https://www.last.fm/music/From+Indian+Lakes/_/Did+We+Change)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
