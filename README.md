@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)
 * [Bella Poarch — Build A Bitch](https://www.last.fm/music/Bella+Poarch/_/Build+A+Bitch)
 * [Zedd — Good Thing (with Kehlani)](https://www.last.fm/music/Zedd/_/Good+Thing+(with+Kehlani))
 * [Madison Beer — Stained Glass](https://www.last.fm/music/Madison+Beer/_/Stained+Glass)
-* [blackbear — if i were u (with Lauv)](https://www.last.fm/music/blackbear/_/if+i+were+u+(with+Lauv))
-* [Sad Alex — one that got away](https://www.last.fm/music/Sad+Alex/_/one+that+got+away)<!-- LASTFM:END -->
+* [blackbear — if i were u (with Lauv)](https://www.last.fm/music/blackbear/_/if+i+were+u+(with+Lauv))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
