@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sad Alex — one that got away](https://www.last.fm/music/Sad+Alex/_/one+that+got+away)
 * [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)
 * [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
 * [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
-* [Happy Hour — Cigarettes](https://www.last.fm/music/Happy+Hour/_/Cigarettes)
-* [Colliding With Mars — LIGHTBRINGER](https://www.last.fm/music/Colliding+With+Mars/_/LIGHTBRINGER)<!-- LASTFM:END -->
+* [Happy Hour — Cigarettes](https://www.last.fm/music/Happy+Hour/_/Cigarettes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
