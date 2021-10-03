@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)
-* [Softwilly — B.O.Y.S.N.E.X.T.D.O.O.R.](https://www.last.fm/music/Softwilly/_/B.O.Y.S.N.E.X.T.D.O.O.R.)
-* [Softwilly — #FreeRobuxIfYouShareSong_draft_v2](https://www.last.fm/music/Softwilly/_/%23FreeRobuxIfYouShareSong_draft_v2)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [CVLTE — Happy. (feat. 釈迦坊主)](https://www.last.fm/music/CVLTE/_/Happy.+(feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB))<!-- LASTFM:END -->
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
+* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
+* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
+* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
+* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
