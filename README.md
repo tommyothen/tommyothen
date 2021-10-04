@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nxdia — get between it](https://www.last.fm/music/Nxdia/_/get+between+it)
+* [Tilian — Imagination (feat. Tim Henson)](https://www.last.fm/music/Tilian/_/Imagination+(feat.+Tim+Henson))
+* [MoonDough — Social Disco Dancing](https://www.last.fm/music/MoonDough/_/Social+Disco+Dancing)
 * [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)
-* [Mixed Matches — Betterdays](https://www.last.fm/music/Mixed+Matches/_/Betterdays)
-* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
-* [Jawny — Trigger Of Love](https://www.last.fm/music/Jawny/_/Trigger+Of+Love)
-* [Blood Code — POP SHOVE-IT](https://www.last.fm/music/Blood+Code/_/POP+SHOVE-IT)<!-- LASTFM:END -->
+* [Mixed Matches — Betterdays](https://www.last.fm/music/Mixed+Matches/_/Betterdays)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
