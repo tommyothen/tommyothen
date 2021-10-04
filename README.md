@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Neighbourhood — Devil's Advocate](https://www.last.fm/music/The+Neighbourhood/_/Devil%27s+Advocate)
+* [Jah — Sweatpants-(Battle Tapes Remix)](https://www.last.fm/music/Jah/_/Sweatpants-(Battle+Tapes+Remix))
+* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)
 * [Alice Glass — NIGHTMARES](https://www.last.fm/music/Alice+Glass/_/NIGHTMARES)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Freddie Dredd — GTG](https://www.last.fm/music/Freddie+Dredd/_/GTG)
-* [Covet — farewell](https://www.last.fm/music/Covet/_/farewell)
-* [Adam Tell — Feeding the Meter](https://www.last.fm/music/Adam+Tell/_/Feeding+the+Meter)<!-- LASTFM:END -->
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
