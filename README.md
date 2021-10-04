@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charisma.com — 100%ブービー](https://www.last.fm/music/Charisma.com/_/100%25%E3%83%96%E3%83%BC%E3%83%93%E3%83%BC)
+* [TeZATalks — The World](https://www.last.fm/music/TeZATalks/_/The+World)
 * [Lasse Lyx — Good Look](https://www.last.fm/music/Lasse+Lyx/_/Good+Look)
 * [The Hellp — Tu Tu Neurotic](https://www.last.fm/music/The+Hellp/_/Tu+Tu+Neurotic)
-* [The Neighbourhood — Devil's Advocate](https://www.last.fm/music/The+Neighbourhood/_/Devil%27s+Advocate)
-* [Jah — Sweatpants-(Battle Tapes Remix)](https://www.last.fm/music/Jah/_/Sweatpants-(Battle+Tapes+Remix))
-* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)<!-- LASTFM:END -->
+* [The Neighbourhood — Devil's Advocate](https://www.last.fm/music/The+Neighbourhood/_/Devil%27s+Advocate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
