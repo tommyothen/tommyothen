@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Interlunium — Blue Moon Blue Ocean - Japanese Version](https://www.last.fm/music/Interlunium/_/Blue+Moon+Blue+Ocean+-+Japanese+Version)
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
 * [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
 * [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
-* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
-* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
-* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))<!-- LASTFM:END -->
+* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
