@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alice Glass — NIGHTMARES](https://www.last.fm/music/Alice+Glass/_/NIGHTMARES)
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
+* [Freddie Dredd — GTG](https://www.last.fm/music/Freddie+Dredd/_/GTG)
 * [Covet — farewell](https://www.last.fm/music/Covet/_/farewell)
-* [Adam Tell — Feeding the Meter](https://www.last.fm/music/Adam+Tell/_/Feeding+the+Meter)
-* [In Love With a Ghost — summer party 3019](https://www.last.fm/music/In+Love+With+a+Ghost/_/summer+party+3019)
-* [D-Real [愛] — Disco Night](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Disco+Night)
-* [Coco & Clair Clair — Sims 2](https://www.last.fm/music/Coco+&+Clair+Clair/_/Sims+2)<!-- LASTFM:END -->
+* [Adam Tell — Feeding the Meter](https://www.last.fm/music/Adam+Tell/_/Feeding+the+Meter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
