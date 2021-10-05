@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mixed Matches — Betterdays](https://www.last.fm/music/Mixed+Matches/_/Betterdays)
-* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
-* [Blood Code — POP SHOVE-IT](https://www.last.fm/music/Blood+Code/_/POP+SHOVE-IT)
-* [TK from Ling tosite sigure — 鶴の仕返し](https://www.last.fm/music/TK+from+Ling+tosite+sigure/_/%E9%B6%B4%E3%81%AE%E4%BB%95%E8%BF%94%E3%81%97)
-* [Interlunium — Blue Moon Blue Ocean - Japanese Version](https://www.last.fm/music/Interlunium/_/Blue+Moon+Blue+Ocean+-+Japanese+Version)<!-- LASTFM:END -->
+* [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)
+* [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)
+* [MoonDough — Social Disco Dancing](https://www.last.fm/music/MoonDough/_/Social+Disco+Dancing)
+* [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)
+* [Mixed Matches — Betterdays](https://www.last.fm/music/Mixed+Matches/_/Betterdays)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
