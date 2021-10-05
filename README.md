@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Freddie Dredd — GTG](https://www.last.fm/music/Freddie+Dredd/_/GTG)
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
+* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)
 * [Softwilly — B.O.Y.S.N.E.X.T.D.O.O.R.](https://www.last.fm/music/Softwilly/_/B.O.Y.S.N.E.X.T.D.O.O.R.)
-* [Softwilly — #FreeRobuxIfYouShareSong_draft_v2](https://www.last.fm/music/Softwilly/_/%23FreeRobuxIfYouShareSong_draft_v2)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [CVLTE — Happy. (feat. 釈迦坊主)](https://www.last.fm/music/CVLTE/_/Happy.+(feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB))
-* [The Haunt — Cigarettes & Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&+Feelings)<!-- LASTFM:END -->
+* [Softwilly — #FreeRobuxIfYouShareSong_draft_v2](https://www.last.fm/music/Softwilly/_/%23FreeRobuxIfYouShareSong_draft_v2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
