@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mixed Matches — Betterdays](https://www.last.fm/music/Mixed+Matches/_/Betterdays)
+* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
+* [Blood Code — POP SHOVE-IT](https://www.last.fm/music/Blood+Code/_/POP+SHOVE-IT)
 * [TK from Ling tosite sigure — 鶴の仕返し](https://www.last.fm/music/TK+from+Ling+tosite+sigure/_/%E9%B6%B4%E3%81%AE%E4%BB%95%E8%BF%94%E3%81%97)
-* [Interlunium — Blue Moon Blue Ocean - Japanese Version](https://www.last.fm/music/Interlunium/_/Blue+Moon+Blue+Ocean+-+Japanese+Version)
-* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
-* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
-* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)<!-- LASTFM:END -->
+* [Interlunium — Blue Moon Blue Ocean - Japanese Version](https://www.last.fm/music/Interlunium/_/Blue+Moon+Blue+Ocean+-+Japanese+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
