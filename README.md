@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Hellp — Tu Tu Neurotic](https://www.last.fm/music/The+Hellp/_/Tu+Tu+Neurotic)
+* [The Neighbourhood — Devil's Advocate](https://www.last.fm/music/The+Neighbourhood/_/Devil%27s+Advocate)
 * [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)
 * [The Neighbourhood — Devil's Advocate](https://www.last.fm/music/The+Neighbourhood/_/Devil%27s+Advocate)
-* [Jah — Sweatpants-(Battle Tapes Remix)](https://www.last.fm/music/Jah/_/Sweatpants-(Battle+Tapes+Remix))
-* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)<!-- LASTFM:END -->
+* [Jah — Sweatpants-(Battle Tapes Remix)](https://www.last.fm/music/Jah/_/Sweatpants-(Battle+Tapes+Remix))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
