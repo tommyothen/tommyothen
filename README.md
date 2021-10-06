@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)
+* [Freddie Dredd — GTG](https://www.last.fm/music/Freddie+Dredd/_/GTG)
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
 * [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)
-* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
-* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
-* [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)
-* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)<!-- LASTFM:END -->
+* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
