@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)
 * [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)
 * [Freddie Dredd — GTG](https://www.last.fm/music/Freddie+Dredd/_/GTG)
 * [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)
-* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)<!-- LASTFM:END -->
+* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
