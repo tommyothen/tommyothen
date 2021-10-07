@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Montaigne — Love Might Be Found (Volcano)](https://www.last.fm/music/Montaigne/_/Love+Might+Be+Found+(Volcano))
+* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
 * [Lauv — Fake](https://www.last.fm/music/Lauv/_/Fake)
 * [Public — Splash](https://www.last.fm/music/Public/_/Splash)
-* [BØRNS — Electric Love](https://www.last.fm/music/B%C3%98RNS/_/Electric+Love)
-* [5 Seconds of Summer — Teeth](https://www.last.fm/music/5+Seconds+of+Summer/_/Teeth)
-* [Ariana Grande — motive (with Doja Cat)](https://www.last.fm/music/Ariana+Grande/_/motive+(with+Doja+Cat))<!-- LASTFM:END -->
+* [BØRNS — Electric Love](https://www.last.fm/music/B%C3%98RNS/_/Electric+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
