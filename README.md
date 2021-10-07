@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cat & Calmell — dramatic](https://www.last.fm/music/Cat+&+Calmell/_/dramatic)
+* [Ashe — Save Myself](https://www.last.fm/music/Ashe/_/Save+Myself)
+* [5 Seconds of Summer — Wildflower](https://www.last.fm/music/5+Seconds+of+Summer/_/Wildflower)
 * [Bebe Rexha — Baby, I'm Jealous (feat. Doja Cat)](https://www.last.fm/music/Bebe+Rexha/_/Baby,+I%27m+Jealous+(feat.+Doja+Cat))
-* [Dua Lipa — Hallucinate](https://www.last.fm/music/Dua+Lipa/_/Hallucinate)
-* [Labrinth — Still Don't Know My Name](https://www.last.fm/music/Labrinth/_/Still+Don%27t+Know+My+Name)
-* [Labrinth — Still Don't Know My Name](https://www.last.fm/music/Labrinth/_/Still+Don%27t+Know+My+Name)
-* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)<!-- LASTFM:END -->
+* [Dua Lipa — Hallucinate](https://www.last.fm/music/Dua+Lipa/_/Hallucinate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
