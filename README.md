@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
+* [Vera Blue — Lie To Me](https://www.last.fm/music/Vera+Blue/_/Lie+To+Me)
+* [Wafia — Flowers & Superpowers](https://www.last.fm/music/Wafia/_/Flowers+&+Superpowers)
 * [Troye Sivan — Easy](https://www.last.fm/music/Troye+Sivan/_/Easy)
-* [Lorde — Solar Power](https://www.last.fm/music/Lorde/_/Solar+Power)
-* [Griff — Black Hole](https://www.last.fm/music/Griff/_/Black+Hole)
-* [Lady Gaga — Sour Candy (with BLACKPINK)](https://www.last.fm/music/Lady+Gaga/_/Sour+Candy+(with+BLACKPINK))
-* [Doja Cat — Say So](https://www.last.fm/music/Doja+Cat/_/Say+So)<!-- LASTFM:END -->
+* [Lorde — Solar Power](https://www.last.fm/music/Lorde/_/Solar+Power)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
