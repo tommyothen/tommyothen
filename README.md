@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Conan Gray — Overdrive](https://www.last.fm/music/Conan+Gray/_/Overdrive)
+* [Gracey — Like That](https://www.last.fm/music/Gracey/_/Like+That)
 * [Doja Cat — Kiss Me More (feat. SZA)](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+(feat.+SZA))
 * [Vera Blue — Lie To Me](https://www.last.fm/music/Vera+Blue/_/Lie+To+Me)
-* [Wafia — Flowers & Superpowers](https://www.last.fm/music/Wafia/_/Flowers+&+Superpowers)
-* [Troye Sivan — Easy](https://www.last.fm/music/Troye+Sivan/_/Easy)
-* [Lorde — Solar Power](https://www.last.fm/music/Lorde/_/Solar+Power)<!-- LASTFM:END -->
+* [Wafia — Flowers & Superpowers](https://www.last.fm/music/Wafia/_/Flowers+&+Superpowers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
