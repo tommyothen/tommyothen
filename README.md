@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Matt Maeson — Hallucinogenics (feat. Lana Del Rey)](https://www.last.fm/music/Matt+Maeson/_/Hallucinogenics+(feat.+Lana+Del+Rey))
+* [Billie Eilish — Therefore I Am](https://www.last.fm/music/Billie+Eilish/_/Therefore+I+Am)
+* [Hayden James — Right Time](https://www.last.fm/music/Hayden+James/_/Right+Time)
 * [Alaina Castillo — tonight](https://www.last.fm/music/Alaina+Castillo/_/tonight)
-* [Why Don't We — Lotus Inn](https://www.last.fm/music/Why+Don%27t+We/_/Lotus+Inn)
-* [Icona Pop — Feels In My Body](https://www.last.fm/music/Icona+Pop/_/Feels+In+My+Body)
-* [Cosmo's Midnight — Have It All (feat. Age.Sex.Location)](https://www.last.fm/music/Cosmo%27s+Midnight/_/Have+It+All+(feat.+Age.Sex.Location))
-* [Mallrat — Nobody's Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)<!-- LASTFM:END -->
+* [Why Don't We — Lotus Inn](https://www.last.fm/music/Why+Don%27t+We/_/Lotus+Inn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
