@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lauv — Fake](https://www.last.fm/music/Lauv/_/Fake)
+* [Public — Splash](https://www.last.fm/music/Public/_/Splash)
+* [BØRNS — Electric Love](https://www.last.fm/music/B%C3%98RNS/_/Electric+Love)
 * [5 Seconds of Summer — Teeth](https://www.last.fm/music/5+Seconds+of+Summer/_/Teeth)
-* [Ariana Grande — motive (with Doja Cat)](https://www.last.fm/music/Ariana+Grande/_/motive+(with+Doja+Cat))
-* [Tate McRae — vicious](https://www.last.fm/music/Tate+McRae/_/vicious)
-* [King Princess — Talia](https://www.last.fm/music/King+Princess/_/Talia)
-* [Genesis Owusu — Good Times](https://www.last.fm/music/Genesis+Owusu/_/Good+Times)<!-- LASTFM:END -->
+* [Ariana Grande — motive (with Doja Cat)](https://www.last.fm/music/Ariana+Grande/_/motive+(with+Doja+Cat))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
