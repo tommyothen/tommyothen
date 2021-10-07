@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tove Lo — sadder badder cooler](https://www.last.fm/music/Tove+Lo/_/sadder+badder+cooler)
+* [Wafia — Pick Me](https://www.last.fm/music/Wafia/_/Pick+Me)
 * [5 Seconds of Summer — Kill My Time](https://www.last.fm/music/5+Seconds+of+Summer/_/Kill+My+Time)
 * [Peach Prc — Symptomatic](https://www.last.fm/music/Peach+Prc/_/Symptomatic)
-* [CXLOE — Devil You Don't](https://www.last.fm/music/CXLOE/_/Devil+You+Don%27t)
-* [Matt Maeson — Hallucinogenics (feat. Lana Del Rey)](https://www.last.fm/music/Matt+Maeson/_/Hallucinogenics+(feat.+Lana+Del+Rey))
-* [Billie Eilish — Therefore I Am](https://www.last.fm/music/Billie+Eilish/_/Therefore+I+Am)<!-- LASTFM:END -->
+* [CXLOE — Devil You Don't](https://www.last.fm/music/CXLOE/_/Devil+You+Don%27t)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
