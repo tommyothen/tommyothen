@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Miley Cyrus — Plastic Hearts](https://www.last.fm/music/Miley+Cyrus/_/Plastic+Hearts)
+* [Ariana Grande — boyfriend (with Social House)](https://www.last.fm/music/Ariana+Grande/_/boyfriend+(with+Social+House))
 * [Troye Sivan — STUD](https://www.last.fm/music/Troye+Sivan/_/STUD)
 * [Troye Sivan — IN A DREAM](https://www.last.fm/music/Troye+Sivan/_/IN+A+DREAM)
-* [Zedd — Good Thing (with Kehlani)](https://www.last.fm/music/Zedd/_/Good+Thing+(with+Kehlani))
-* [Charli XCX — February 2017 (feat. Clairo and Yaeji)](https://www.last.fm/music/Charli+XCX/_/February+2017+(feat.+Clairo+and+Yaeji))
-* [Montaigne — Love Might Be Found (Volcano)](https://www.last.fm/music/Montaigne/_/Love+Might+Be+Found+(Volcano))<!-- LASTFM:END -->
+* [Zedd — Good Thing (with Kehlani)](https://www.last.fm/music/Zedd/_/Good+Thing+(with+Kehlani))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
