@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [AJR — Way Less Sad](https://www.last.fm/music/AJR/_/Way+Less+Sad)
 * [Ruel — Painkiller](https://www.last.fm/music/Ruel/_/Painkiller)
 * [Katy Perry — Cry About It Later](https://www.last.fm/music/Katy+Perry/_/Cry+About+It+Later)
 * [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)
-* [Dominic Fike — Chicken Tenders](https://www.last.fm/music/Dominic+Fike/_/Chicken+Tenders)
-* [Lil Nas X — INDUSTRY BABY (feat. Jack Harlow)](https://www.last.fm/music/Lil+Nas+X/_/INDUSTRY+BABY+(feat.+Jack+Harlow))<!-- LASTFM:END -->
+* [Dominic Fike — Chicken Tenders](https://www.last.fm/music/Dominic+Fike/_/Chicken+Tenders)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
