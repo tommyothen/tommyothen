@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Troye Sivan — Easy](https://www.last.fm/music/Troye+Sivan/_/Easy)
+* [Lorde — Solar Power](https://www.last.fm/music/Lorde/_/Solar+Power)
 * [Griff — Black Hole](https://www.last.fm/music/Griff/_/Black+Hole)
 * [Lady Gaga — Sour Candy (with BLACKPINK)](https://www.last.fm/music/Lady+Gaga/_/Sour+Candy+(with+BLACKPINK))
-* [Doja Cat — Say So](https://www.last.fm/music/Doja+Cat/_/Say+So)
-* [AJR — Way Less Sad](https://www.last.fm/music/AJR/_/Way+Less+Sad)
-* [Ruel — Painkiller](https://www.last.fm/music/Ruel/_/Painkiller)<!-- LASTFM:END -->
+* [Doja Cat — Say So](https://www.last.fm/music/Doja+Cat/_/Say+So)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
