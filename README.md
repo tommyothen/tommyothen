@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)
+* [Freddie Dredd — GTG](https://www.last.fm/music/Freddie+Dredd/_/GTG)
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
 * [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)
-* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [June — Something To Lose](https://www.last.fm/music/June/_/Something+To+Lose)
-* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)<!-- LASTFM:END -->
+* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
