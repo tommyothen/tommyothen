@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [5 Seconds of Summer — Kill My Time](https://www.last.fm/music/5+Seconds+of+Summer/_/Kill+My+Time)
+* [Peach Prc — Symptomatic](https://www.last.fm/music/Peach+Prc/_/Symptomatic)
+* [CXLOE — Devil You Don't](https://www.last.fm/music/CXLOE/_/Devil+You+Don%27t)
 * [Matt Maeson — Hallucinogenics (feat. Lana Del Rey)](https://www.last.fm/music/Matt+Maeson/_/Hallucinogenics+(feat.+Lana+Del+Rey))
-* [Billie Eilish — Therefore I Am](https://www.last.fm/music/Billie+Eilish/_/Therefore+I+Am)
-* [Hayden James — Right Time](https://www.last.fm/music/Hayden+James/_/Right+Time)
-* [Alaina Castillo — tonight](https://www.last.fm/music/Alaina+Castillo/_/tonight)
-* [Why Don't We — Lotus Inn](https://www.last.fm/music/Why+Don%27t+We/_/Lotus+Inn)<!-- LASTFM:END -->
+* [Billie Eilish — Therefore I Am](https://www.last.fm/music/Billie+Eilish/_/Therefore+I+Am)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
