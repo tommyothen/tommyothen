@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [5 Seconds of Summer — Old Me](https://www.last.fm/music/5+Seconds+of+Summer/_/Old+Me)
+* [Tove Lo — Bad as the Boys](https://www.last.fm/music/Tove+Lo/_/Bad+as+the+Boys)
 * [blackbear — if i were u (with Lauv)](https://www.last.fm/music/blackbear/_/if+i+were+u+(with+Lauv))
 * [Sasha Alex Sloan — Lie](https://www.last.fm/music/Sasha+Alex+Sloan/_/Lie)
-* [Harry Styles — Golden](https://www.last.fm/music/Harry+Styles/_/Golden)
-* [mxmtoon — lessons](https://www.last.fm/music/mxmtoon/_/lessons)
-* [Tove Lo — sadder badder cooler](https://www.last.fm/music/Tove+Lo/_/sadder+badder+cooler)<!-- LASTFM:END -->
+* [Harry Styles — Golden](https://www.last.fm/music/Harry+Styles/_/Golden)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
