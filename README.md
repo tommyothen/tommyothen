@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Griff — Black Hole](https://www.last.fm/music/Griff/_/Black+Hole)
+* [Lady Gaga — Sour Candy (with BLACKPINK)](https://www.last.fm/music/Lady+Gaga/_/Sour+Candy+(with+BLACKPINK))
+* [Doja Cat — Say So](https://www.last.fm/music/Doja+Cat/_/Say+So)
 * [AJR — Way Less Sad](https://www.last.fm/music/AJR/_/Way+Less+Sad)
-* [Ruel — Painkiller](https://www.last.fm/music/Ruel/_/Painkiller)
-* [Katy Perry — Cry About It Later](https://www.last.fm/music/Katy+Perry/_/Cry+About+It+Later)
-* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)
-* [Dominic Fike — Chicken Tenders](https://www.last.fm/music/Dominic+Fike/_/Chicken+Tenders)<!-- LASTFM:END -->
+* [Ruel — Painkiller](https://www.last.fm/music/Ruel/_/Painkiller)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
