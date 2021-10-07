@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alaina Castillo — tonight](https://www.last.fm/music/Alaina+Castillo/_/tonight)
+* [Why Don't We — Lotus Inn](https://www.last.fm/music/Why+Don%27t+We/_/Lotus+Inn)
+* [Icona Pop — Feels In My Body](https://www.last.fm/music/Icona+Pop/_/Feels+In+My+Body)
 * [Cosmo's Midnight — Have It All (feat. Age.Sex.Location)](https://www.last.fm/music/Cosmo%27s+Midnight/_/Have+It+All+(feat.+Age.Sex.Location))
-* [Mallrat — Nobody's Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
-* [Miley Cyrus — Plastic Hearts](https://www.last.fm/music/Miley+Cyrus/_/Plastic+Hearts)
-* [Ariana Grande — boyfriend (with Social House)](https://www.last.fm/music/Ariana+Grande/_/boyfriend+(with+Social+House))
-* [Troye Sivan — STUD](https://www.last.fm/music/Troye+Sivan/_/STUD)<!-- LASTFM:END -->
+* [Mallrat — Nobody's Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
