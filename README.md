@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)
+* [Dominic Fike — Chicken Tenders](https://www.last.fm/music/Dominic+Fike/_/Chicken+Tenders)
 * [Lil Nas X — INDUSTRY BABY (feat. Jack Harlow)](https://www.last.fm/music/Lil+Nas+X/_/INDUSTRY+BABY+(feat.+Jack+Harlow))
 * [MAX — Checklist (feat. Chromeo)](https://www.last.fm/music/MAX/_/Checklist+(feat.+Chromeo))
-* [Cat & Calmell — dramatic](https://www.last.fm/music/Cat+&+Calmell/_/dramatic)
-* [Ashe — Save Myself](https://www.last.fm/music/Ashe/_/Save+Myself)
-* [5 Seconds of Summer — Wildflower](https://www.last.fm/music/5+Seconds+of+Summer/_/Wildflower)<!-- LASTFM:END -->
+* [Cat & Calmell — dramatic](https://www.last.fm/music/Cat+&+Calmell/_/dramatic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
