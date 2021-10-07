@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Madison Beer — Stained Glass](https://www.last.fm/music/Madison+Beer/_/Stained+Glass)
 * [Lorde — Perfect Places](https://www.last.fm/music/Lorde/_/Perfect+Places)
 * [Ariana Grande — 34+35](https://www.last.fm/music/Ariana+Grande/_/34%252B35)
 * [Lennon Stella — Fear of Being Alone](https://www.last.fm/music/Lennon+Stella/_/Fear+of+Being+Alone)
-* [Bülow — Get Stüpid](https://www.last.fm/music/B%C3%BClow/_/Get+St%C3%BCpid)
-* [Bella Poarch — Build A Bitch](https://www.last.fm/music/Bella+Poarch/_/Build+A+Bitch)<!-- LASTFM:END -->
+* [Bülow — Get Stüpid](https://www.last.fm/music/B%C3%BClow/_/Get+St%C3%BCpid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
