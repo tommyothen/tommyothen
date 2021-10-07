@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lennon Stella — Fear of Being Alone](https://www.last.fm/music/Lennon+Stella/_/Fear+of+Being+Alone)
+* [Bülow — Get Stüpid](https://www.last.fm/music/B%C3%BClow/_/Get+St%C3%BCpid)
 * [Bella Poarch — Build A Bitch](https://www.last.fm/music/Bella+Poarch/_/Build+A+Bitch)
 * [Regard — You](https://www.last.fm/music/Regard/_/You)
-* [Ellie Goulding — Worry About Me (feat. blackbear)](https://www.last.fm/music/Ellie+Goulding/_/Worry+About+Me+(feat.+blackbear))
-* [Conan Gray — Overdrive](https://www.last.fm/music/Conan+Gray/_/Overdrive)
-* [Gracey — Like That](https://www.last.fm/music/Gracey/_/Like+That)<!-- LASTFM:END -->
+* [Ellie Goulding — Worry About Me (feat. blackbear)](https://www.last.fm/music/Ellie+Goulding/_/Worry+About+Me+(feat.+blackbear))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
