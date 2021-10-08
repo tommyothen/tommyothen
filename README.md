@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bazzi — Crazy](https://www.last.fm/music/Bazzi/_/Crazy)
-* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
-* [Rina Sawayama — LUCID](https://www.last.fm/music/Rina+Sawayama/_/LUCID)
-* [5 Seconds of Summer — Old Me](https://www.last.fm/music/5+Seconds+of+Summer/_/Old+Me)
-* [Tove Lo — Bad as the Boys](https://www.last.fm/music/Tove+Lo/_/Bad+as+the+Boys)<!-- LASTFM:END -->
+* [G Flip — Hyperfine](https://www.last.fm/music/G+Flip/_/Hyperfine)
+* [5 Seconds of Summer — No Shame](https://www.last.fm/music/5+Seconds+of+Summer/_/No+Shame)
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
+* [Galantis — Only A Fool (with Pink Sweat$)](https://www.last.fm/music/Galantis/_/Only+A+Fool+(with+Pink+Sweat$))
+* [Bazzi — Crazy](https://www.last.fm/music/Bazzi/_/Crazy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
