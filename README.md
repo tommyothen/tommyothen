@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bazzi — Crazy](https://www.last.fm/music/Bazzi/_/Crazy)
+* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
+* [Rina Sawayama — LUCID](https://www.last.fm/music/Rina+Sawayama/_/LUCID)
 * [5 Seconds of Summer — Old Me](https://www.last.fm/music/5+Seconds+of+Summer/_/Old+Me)
-* [Tove Lo — Bad as the Boys](https://www.last.fm/music/Tove+Lo/_/Bad+as+the+Boys)
-* [blackbear — if i were u (with Lauv)](https://www.last.fm/music/blackbear/_/if+i+were+u+(with+Lauv))
-* [Sasha Alex Sloan — Lie](https://www.last.fm/music/Sasha+Alex+Sloan/_/Lie)
-* [Harry Styles — Golden](https://www.last.fm/music/Harry+Styles/_/Golden)<!-- LASTFM:END -->
+* [Tove Lo — Bad as the Boys](https://www.last.fm/music/Tove+Lo/_/Bad+as+the+Boys)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
