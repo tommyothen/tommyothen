@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Self vs Self (feat. In Flames)](https://www.last.fm/music/Pendulum/_/Self+vs+Self+(feat.+In+Flames))
 * [Labrinth — Formula](https://www.last.fm/music/Labrinth/_/Formula)
 * [Mungo's Hi Fi — Babylon Raid](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Babylon+Raid)
 * [Deca — Mammon's Mantra](https://www.last.fm/music/Deca/_/Mammon%27s+Mantra)
-* [Chase & Status — No Problem](https://www.last.fm/music/Chase+&+Status/_/No+Problem)
-* [Versatile — We Sell Brown](https://www.last.fm/music/Versatile/_/We+Sell+Brown)<!-- LASTFM:END -->
+* [Chase & Status — No Problem](https://www.last.fm/music/Chase+&+Status/_/No+Problem)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
