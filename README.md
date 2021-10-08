@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — SEE U LATER](https://www.last.fm/music/BLACKPINK/_/SEE+U+LATER)
+* [BLACKPINK — DDU-DU DDU-DU](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU)
 * [BLACKPINK — STAY](https://www.last.fm/music/BLACKPINK/_/STAY)
 * [BLACKPINK — DDU-DU DDU-DU - Live](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU+-+Live)
-* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
-* [BLACKPINK — REALLY](https://www.last.fm/music/BLACKPINK/_/REALLY)
-* [BLACKPINK — Kick It](https://www.last.fm/music/BLACKPINK/_/Kick+It)<!-- LASTFM:END -->
+* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
