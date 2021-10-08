@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [abbot — oxygen](https://www.last.fm/music/abbot/_/oxygen)
-* [Guardin — i think you're really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)
-* [Lil Soda Boi — plug me in](https://www.last.fm/music/Lil+Soda+Boi/_/plug+me+in)
-* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)<!-- LASTFM:END -->
+* [p4rkr — i dont want that many friends in the first place](https://www.last.fm/music/p4rkr/_/i+dont+want+that+many+friends+in+the+first+place)
+* [That Kid — Dial Tone](https://www.last.fm/music/That+Kid/_/Dial+Tone)
+* [Avit — stuck-up](https://www.last.fm/music/Avit/_/stuck-up)
+* [demxntia — it's alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
