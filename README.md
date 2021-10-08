@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
+* [abbot — Heartbreak](https://www.last.fm/music/abbot/_/Heartbreak)
 * [Braxton Knight — Paradise Kiss](https://www.last.fm/music/Braxton+Knight/_/Paradise+Kiss)
 * [That Kid — Boost Mobile](https://www.last.fm/music/That+Kid/_/Boost+Mobile)
-* [Jedwill — Garden](https://www.last.fm/music/Jedwill/_/Garden)
-* [DAINE — bloody knees](https://www.last.fm/music/DAINE/_/bloody+knees)
-* [Alice Longyu Gao — Rich Bitch Juice - Laura Les Remix](https://www.last.fm/music/Alice+Longyu+Gao/_/Rich+Bitch+Juice+-+Laura+Les+Remix)<!-- LASTFM:END -->
+* [Jedwill — Garden](https://www.last.fm/music/Jedwill/_/Garden)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
