@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billx — Ceremony](https://www.last.fm/music/Billx/_/Ceremony)
+* [Crypton — Bonded](https://www.last.fm/music/Crypton/_/Bonded)
 * [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
 * [General Guyble — - Bring 'Em](https://www.last.fm/music/General+Guyble/_/-+Bring+%27Em)
-* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)
-* [BLACKPINK — WHISTLE - Acoustic Ver.](https://www.last.fm/music/BLACKPINK/_/WHISTLE+-+Acoustic+Ver.)
-* [BLACKPINK — DDU-DU DDU-DU - Remix](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU+-+Remix)<!-- LASTFM:END -->
+* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
