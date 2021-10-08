@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Litany — My Dude](https://www.last.fm/music/Litany/_/My+Dude)
-* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
-* [Bülow — Own Me](https://www.last.fm/music/B%C3%BClow/_/Own+Me)
-* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
-* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)<!-- LASTFM:END -->
+* [Uneven — Like You (The Braindrillerz Remix)](https://www.last.fm/music/Uneven/_/Like+You+(The+Braindrillerz+Remix))
+* [Mr. Bassmeister — The Evil Breed](https://www.last.fm/music/Mr.+Bassmeister/_/The+Evil+Breed)
+* [Mr. Bassmeister — Bong Bong](https://www.last.fm/music/Mr.+Bassmeister/_/Bong+Bong)
+* [Francesco Zeta — Rock N' Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)
+* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
