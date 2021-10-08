@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Francesco Zeta — Rock N' Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)
+* [Mr. Bassmeister — Hot](https://www.last.fm/music/Mr.+Bassmeister/_/Hot)
 * [Billx — Ceremony](https://www.last.fm/music/Billx/_/Ceremony)
 * [Crypton — Bonded](https://www.last.fm/music/Crypton/_/Bonded)
-* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
-* [General Guyble — - Bring 'Em](https://www.last.fm/music/General+Guyble/_/-+Bring+%27Em)
-* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)<!-- LASTFM:END -->
+* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
