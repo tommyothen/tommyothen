@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Uneven — Like You (The Braindrillerz Remix)](https://www.last.fm/music/Uneven/_/Like+You+(The+Braindrillerz+Remix))
-* [Mr. Bassmeister — The Evil Breed](https://www.last.fm/music/Mr.+Bassmeister/_/The+Evil+Breed)
-* [Mr. Bassmeister — Bong Bong](https://www.last.fm/music/Mr.+Bassmeister/_/Bong+Bong)
-* [Francesco Zeta — Rock N' Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)
-* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)<!-- LASTFM:END -->
+* [Mr. Bassmeister — Hot](https://www.last.fm/music/Mr.+Bassmeister/_/Hot)
+* [Mr. Bassmeister — DMT](https://www.last.fm/music/Mr.+Bassmeister/_/DMT)
+* [Crypton — Bonded](https://www.last.fm/music/Crypton/_/Bonded)
+* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
+* [Vandal — Warriors](https://www.last.fm/music/Vandal/_/Warriors)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
