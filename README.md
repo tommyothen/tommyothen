@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [oaf1 — ilove urr girl](https://www.last.fm/music/oaf1/_/ilove+urr+girl)
+* [Knapsack — Synth Grass](https://www.last.fm/music/Knapsack/_/Synth+Grass)
+* [St Jimmy — okay, jeez](https://www.last.fm/music/St+Jimmy/_/okay,+jeez)
 * [Food House — ride](https://www.last.fm/music/Food+House/_/ride)
-* [Rab — cant get out](https://www.last.fm/music/Rab/_/cant+get+out)
-* [Suckerpunk — Without Me](https://www.last.fm/music/Suckerpunk/_/Without+Me)
-* [MISOGI — Monopink Dream, 2001](https://www.last.fm/music/MISOGI/_/Monopink+Dream,+2001)
-* [Strawberry Hospital — Tacit](https://www.last.fm/music/Strawberry+Hospital/_/Tacit)<!-- LASTFM:END -->
+* [Rab — cant get out](https://www.last.fm/music/Rab/_/cant+get+out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
