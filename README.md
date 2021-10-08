@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — STAY](https://www.last.fm/music/BLACKPINK/_/STAY)
+* [BLACKPINK — DDU-DU DDU-DU - Live](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU+-+Live)
 * [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
 * [BLACKPINK — REALLY](https://www.last.fm/music/BLACKPINK/_/REALLY)
-* [BLACKPINK — Kick It](https://www.last.fm/music/BLACKPINK/_/Kick+It)
-* [BLACKPINK — Forever Young](https://www.last.fm/music/BLACKPINK/_/Forever+Young)
-* [Lady Gaga — Sour Candy (with BLACKPINK)](https://www.last.fm/music/Lady+Gaga/_/Sour+Candy+(with+BLACKPINK))<!-- LASTFM:END -->
+* [BLACKPINK — Kick It](https://www.last.fm/music/BLACKPINK/_/Kick+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
