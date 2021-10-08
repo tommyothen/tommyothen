@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jedwill — Garden](https://www.last.fm/music/Jedwill/_/Garden)
+* [DAINE — bloody knees](https://www.last.fm/music/DAINE/_/bloody+knees)
+* [Alice Longyu Gao — Rich Bitch Juice - Laura Les Remix](https://www.last.fm/music/Alice+Longyu+Gao/_/Rich+Bitch+Juice+-+Laura+Les+Remix)
 * [oaf1 — ilove urr girl](https://www.last.fm/music/oaf1/_/ilove+urr+girl)
-* [Knapsack — Synth Grass](https://www.last.fm/music/Knapsack/_/Synth+Grass)
-* [St Jimmy — okay, jeez](https://www.last.fm/music/St+Jimmy/_/okay,+jeez)
-* [Food House — ride](https://www.last.fm/music/Food+House/_/ride)
-* [Rab — cant get out](https://www.last.fm/music/Rab/_/cant+get+out)<!-- LASTFM:END -->
+* [Knapsack — Synth Grass](https://www.last.fm/music/Knapsack/_/Synth+Grass)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
