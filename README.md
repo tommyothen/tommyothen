@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
 * [BLACKPINK — Lovesick Girls](https://www.last.fm/music/BLACKPINK/_/Lovesick+Girls)
-* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
-* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
-* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)
-* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)<!-- LASTFM:END -->
+* [BLACKPINK — Lovesick Girls](https://www.last.fm/music/BLACKPINK/_/Lovesick+Girls)
+* [BLACKPINK — Lovesick Girls](https://www.last.fm/music/BLACKPINK/_/Lovesick+Girls)
+* [BLACKPINK — Lovesick Girls](https://www.last.fm/music/BLACKPINK/_/Lovesick+Girls)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
