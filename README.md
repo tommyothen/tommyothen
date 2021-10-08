@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [G Flip — Hyperfine](https://www.last.fm/music/G+Flip/_/Hyperfine)
-* [5 Seconds of Summer — No Shame](https://www.last.fm/music/5+Seconds+of+Summer/_/No+Shame)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Galantis — Only A Fool (with Pink Sweat$)](https://www.last.fm/music/Galantis/_/Only+A+Fool+(with+Pink+Sweat$))
-* [Bazzi — Crazy](https://www.last.fm/music/Bazzi/_/Crazy)<!-- LASTFM:END -->
+* [Litany — My Dude](https://www.last.fm/music/Litany/_/My+Dude)
+* [Caroline Polachek — So Hot You're Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
+* [Bülow — Own Me](https://www.last.fm/music/B%C3%BClow/_/Own+Me)
+* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
+* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
