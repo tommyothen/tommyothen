@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chase & Status — No Problem](https://www.last.fm/music/Chase+&+Status/_/No+Problem)
+* [Versatile — We Sell Brown](https://www.last.fm/music/Versatile/_/We+Sell+Brown)
 * [Faders — Altered Minds](https://www.last.fm/music/Faders/_/Altered+Minds)
 * [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
-* [abbot — Heartbreak](https://www.last.fm/music/abbot/_/Heartbreak)
-* [Braxton Knight — Paradise Kiss](https://www.last.fm/music/Braxton+Knight/_/Paradise+Kiss)
-* [That Kid — Boost Mobile](https://www.last.fm/music/That+Kid/_/Boost+Mobile)<!-- LASTFM:END -->
+* [abbot — Heartbreak](https://www.last.fm/music/abbot/_/Heartbreak)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
