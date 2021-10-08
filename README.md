@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [General Guyble — - Bring 'Em](https://www.last.fm/music/General+Guyble/_/-+Bring+%27Em)
 * [Rob Gee — A DJ Saved My Life](https://www.last.fm/music/Rob+Gee/_/A+DJ+Saved+My+Life)
 * [JKLL — I Don't Care](https://www.last.fm/music/JKLL/_/I+Don%27t+Care)
 * [Crypton — The Ghost In Me](https://www.last.fm/music/Crypton/_/The+Ghost+In+Me)
-* [Mr. Bassmeister — Hot](https://www.last.fm/music/Mr.+Bassmeister/_/Hot)
-* [Mr. Bassmeister — DMT](https://www.last.fm/music/Mr.+Bassmeister/_/DMT)<!-- LASTFM:END -->
+* [Mr. Bassmeister — Hot](https://www.last.fm/music/Mr.+Bassmeister/_/Hot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
