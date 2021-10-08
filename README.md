@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MISOGI — Monopink Dream, 2001](https://www.last.fm/music/MISOGI/_/Monopink+Dream,+2001)
+* [Strawberry Hospital — Tacit](https://www.last.fm/music/Strawberry+Hospital/_/Tacit)
 * [Internet Girl — asshole](https://www.last.fm/music/Internet+Girl/_/asshole)
 * [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [abbot — undermyskin](https://www.last.fm/music/abbot/_/undermyskin)
-* [p4rkr — i dont want that many friends in the first place](https://www.last.fm/music/p4rkr/_/i+dont+want+that+many+friends+in+the+first+place)
-* [That Kid — Dial Tone](https://www.last.fm/music/That+Kid/_/Dial+Tone)<!-- LASTFM:END -->
+* [abbot — undermyskin](https://www.last.fm/music/abbot/_/undermyskin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
