@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ROSÉ — Gone](https://www.last.fm/music/ROS%C3%89/_/Gone)
-* [BLACKPINK — PLAYING WITH FIRE](https://www.last.fm/music/BLACKPINK/_/PLAYING+WITH+FIRE)
-* [Rosé — On The Ground](https://www.last.fm/music/Ros%C3%A9/_/On+The+Ground)
-* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
-* [Jennie — SOLO](https://www.last.fm/music/Jennie/_/SOLO)<!-- LASTFM:END -->
+* [BLACKPINK — You Never Know](https://www.last.fm/music/BLACKPINK/_/You+Never+Know)
+* [BLACKPINK — Don't Know What To Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+To+Do)
+* [BLACKPINK — WHISTLE](https://www.last.fm/music/BLACKPINK/_/WHISTLE)
+* [BLACKPINK — AS IF IT'S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)
+* [ROSÉ — Gone](https://www.last.fm/music/ROS%C3%89/_/Gone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
