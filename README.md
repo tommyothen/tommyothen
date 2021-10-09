@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
+* [Galantis — Only A Fool (with Pink Sweat$)](https://www.last.fm/music/Galantis/_/Only+A+Fool+(with+Pink+Sweat$))
 * [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
 * [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
-* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
-* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
-* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)<!-- LASTFM:END -->
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
