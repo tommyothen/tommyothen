@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mr. Bassmeister — Bong Bong](https://www.last.fm/music/Mr.+Bassmeister/_/Bong+Bong)
-* [Francesco Zeta — Rock N' Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)
-* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)
-* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
+* [Crypton — Bonded](https://www.last.fm/music/Crypton/_/Bonded)
+* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
+* [Vandal — Warriors](https://www.last.fm/music/Vandal/_/Warriors)
+* [Floxytek — Irish Vision](https://www.last.fm/music/Floxytek/_/Irish+Vision)
+* [Billx — Ceremony](https://www.last.fm/music/Billx/_/Ceremony)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
