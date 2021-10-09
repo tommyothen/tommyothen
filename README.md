@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Crypton — Bonded](https://www.last.fm/music/Crypton/_/Bonded)
-* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
-* [Vandal — Warriors](https://www.last.fm/music/Vandal/_/Warriors)
-* [Floxytek — Irish Vision](https://www.last.fm/music/Floxytek/_/Irish+Vision)
-* [Billx — Ceremony](https://www.last.fm/music/Billx/_/Ceremony)<!-- LASTFM:END -->
+* [Скорость — Будущего нет](https://www.last.fm/music/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C/_/%D0%91%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE+%D0%BD%D0%B5%D1%82)
+* [Sirio — French World](https://www.last.fm/music/Sirio/_/French+World)
+* [General Guyble — - Bring 'Em](https://www.last.fm/music/General+Guyble/_/-+Bring+%27Em)
+* [JKLL — I Don't Care](https://www.last.fm/music/JKLL/_/I+Don%27t+Care)
+* [Crypton — The Ghost In Me](https://www.last.fm/music/Crypton/_/The+Ghost+In+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
