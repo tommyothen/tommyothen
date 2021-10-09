@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Скорость — Будущего нет](https://www.last.fm/music/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C/_/%D0%91%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE+%D0%BD%D0%B5%D1%82)
-* [Sirio — French World](https://www.last.fm/music/Sirio/_/French+World)
-* [General Guyble — - Bring 'Em](https://www.last.fm/music/General+Guyble/_/-+Bring+%27Em)
-* [JKLL — I Don't Care](https://www.last.fm/music/JKLL/_/I+Don%27t+Care)
-* [Crypton — The Ghost In Me](https://www.last.fm/music/Crypton/_/The+Ghost+In+Me)<!-- LASTFM:END -->
+* [Mungo's Hi Fi — Did You Really Know](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Did+You+Really+Know)
+* [of Montreal — It's Different for Girls](https://www.last.fm/music/of+Montreal/_/It%27s+Different+for+Girls)
+* [M83 — Midnight City](https://www.last.fm/music/M83/_/Midnight+City)
+* [Captain Core — Lift Off](https://www.last.fm/music/Captain+Core/_/Lift+Off)
+* [uglyboy — Молодой](https://www.last.fm/music/uglyboy/_/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
