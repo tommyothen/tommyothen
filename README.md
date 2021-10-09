@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Galantis — Only A Fool (with Pink Sweat$)](https://www.last.fm/music/Galantis/_/Only+A+Fool+(with+Pink+Sweat$))
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
 * [Brent Faiyaz — Dead Man Walking](https://www.last.fm/music/Brent+Faiyaz/_/Dead+Man+Walking)
-* [Psychedelic Porn Crumpets — Cornflake](https://www.last.fm/music/Psychedelic+Porn+Crumpets/_/Cornflake)
-* [Absofacto — Dissolve](https://www.last.fm/music/Absofacto/_/Dissolve)
-* [Mungo's Hi Fi — Did You Really Know](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Did+You+Really+Know)
-* [of Montreal — It's Different for Girls](https://www.last.fm/music/of+Montreal/_/It%27s+Different+for+Girls)<!-- LASTFM:END -->
+* [Psychedelic Porn Crumpets — Cornflake](https://www.last.fm/music/Psychedelic+Porn+Crumpets/_/Cornflake)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
