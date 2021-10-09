@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Galantis — Only A Fool (with Pink Sweat$)](https://www.last.fm/music/Galantis/_/Only+A+Fool+(with+Pink+Sweat$))
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
 * [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
-* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
-* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [June — Something To Lose](https://www.last.fm/music/June/_/Something+To+Lose)<!-- LASTFM:END -->
+* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
