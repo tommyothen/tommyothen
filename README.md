@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [slowthai — Doorman](https://www.last.fm/music/slowthai/_/Doorman)
-* [Arctic Monkeys — I Bet You Look Good on the Dancefloor](https://www.last.fm/music/Arctic+Monkeys/_/I+Bet+You+Look+Good+on+the+Dancefloor)
-* [Labrinth — Mount Everest](https://www.last.fm/music/Labrinth/_/Mount+Everest)<!-- LASTFM:END -->
+* [Mr. Bassmeister — Bong Bong](https://www.last.fm/music/Mr.+Bassmeister/_/Bong+Bong)
+* [Francesco Zeta — Rock N' Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)
+* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)
+* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
