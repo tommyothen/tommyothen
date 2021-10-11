@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Polar Boys — INTRO](https://www.last.fm/music/The+Polar+Boys/_/INTRO)
 * [SycAmour — Coffee](https://www.last.fm/music/SycAmour/_/Coffee)
 * [Emothebadkid — Citylove(Red)](https://www.last.fm/music/Emothebadkid/_/Citylove(Red))
 * [brakence — rosier/punk2](https://www.last.fm/music/brakence/_/rosier%2Fpunk2)
-* [Psyqui — Don't You Want Me](https://www.last.fm/music/Psyqui/_/Don%27t+You+Want+Me)
-* [Wett Brain — Angeldust](https://www.last.fm/music/Wett+Brain/_/Angeldust)<!-- LASTFM:END -->
+* [SycAmour — Coffee](https://www.last.fm/music/SycAmour/_/Coffee)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
