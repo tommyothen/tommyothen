@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kane Lacey — She](https://www.last.fm/music/Kane+Lacey/_/She)
+* [Kill Bill: The Rapper — Inside the Cockpit of the EVA](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Inside+the+Cockpit+of+the+EVA)
+* [Phem — flowers](https://www.last.fm/music/Phem/_/flowers)
 * [BLAHSUM — I'm Alone](https://www.last.fm/music/BLAHSUM/_/I%27m+Alone)
-* [Sorry — Starstruck](https://www.last.fm/music/Sorry/_/Starstruck)
-* [Ichika — Good Enough](https://www.last.fm/music/Ichika/_/Good+Enough)
-* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)
-* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)<!-- LASTFM:END -->
+* [Sorry — Starstruck](https://www.last.fm/music/Sorry/_/Starstruck)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
