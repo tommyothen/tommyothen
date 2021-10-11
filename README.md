@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Phem — flowers](https://www.last.fm/music/Phem/_/flowers)
+* [pinkshift — i'm gonna tell my therapist on you](https://www.last.fm/music/pinkshift/_/i%27m+gonna+tell+my+therapist+on+you)
+* [Emothebadkid — Citylove(Red)](https://www.last.fm/music/Emothebadkid/_/Citylove(Red))
 * [Ichika — Good Enough](https://www.last.fm/music/Ichika/_/Good+Enough)
-* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
-* [Galantis — Only A Fool (with Pink Sweat$)](https://www.last.fm/music/Galantis/_/Only+A+Fool+(with+Pink+Sweat$))
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)<!-- LASTFM:END -->
+* [Phem — flowers](https://www.last.fm/music/Phem/_/flowers)
+* [Ichika — Good Enough](https://www.last.fm/music/Ichika/_/Good+Enough)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
