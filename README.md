@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Outfit — Haircut Song](https://www.last.fm/music/Outfit/_/Haircut+Song)
 * [TSS — YAYAYA](https://www.last.fm/music/TSS/_/YAYAYA)
 * [The Polar Boys — INTRO](https://www.last.fm/music/The+Polar+Boys/_/INTRO)
 * [SycAmour — Coffee](https://www.last.fm/music/SycAmour/_/Coffee)
-* [Emothebadkid — Citylove(Red)](https://www.last.fm/music/Emothebadkid/_/Citylove(Red))
-* [brakence — rosier/punk2](https://www.last.fm/music/brakence/_/rosier%2Fpunk2)<!-- LASTFM:END -->
+* [Emothebadkid — Citylove(Red)](https://www.last.fm/music/Emothebadkid/_/Citylove(Red))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
