@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FrankJavCee — See You Tomorrow](https://www.last.fm/music/FrankJavCee/_/See+You+Tomorrow)
+* [One Hope — emotional softie](https://www.last.fm/music/One+Hope/_/emotional+softie)
+* [Summer Soul — Kill Your Darling](https://www.last.fm/music/Summer+Soul/_/Kill+Your+Darling)
 * [Atlas — they/them](https://www.last.fm/music/Atlas/_/they%2Fthem)
-* [LORD$OFDOGTOWN — AUTUMN](https://www.last.fm/music/LORD$OFDOGTOWN/_/AUTUMN)
-* [SycAmour — Coffee](https://www.last.fm/music/SycAmour/_/Coffee)
-* [Miko — I Wasn't Made to Fall in Love](https://www.last.fm/music/Miko/_/I+Wasn%27t+Made+to+Fall+in+Love)
-* [Dreamcatcher — And there was no one left](https://www.last.fm/music/Dreamcatcher/_/And+there+was+no+one+left)<!-- LASTFM:END -->
+* [LORD$OFDOGTOWN — AUTUMN](https://www.last.fm/music/LORD$OFDOGTOWN/_/AUTUMN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
