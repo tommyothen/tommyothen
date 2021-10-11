@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kane Lacey — She](https://www.last.fm/music/Kane+Lacey/_/She)
+* [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))
 * [FrankJavCee — See You Tomorrow](https://www.last.fm/music/FrankJavCee/_/See+You+Tomorrow)
 * [One Hope — emotional softie](https://www.last.fm/music/One+Hope/_/emotional+softie)
-* [Summer Soul — Kill Your Darling](https://www.last.fm/music/Summer+Soul/_/Kill+Your+Darling)
-* [Atlas — they/them](https://www.last.fm/music/Atlas/_/they%2Fthem)
-* [LORD$OFDOGTOWN — AUTUMN](https://www.last.fm/music/LORD$OFDOGTOWN/_/AUTUMN)<!-- LASTFM:END -->
+* [Summer Soul — Kill Your Darling](https://www.last.fm/music/Summer+Soul/_/Kill+Your+Darling)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
