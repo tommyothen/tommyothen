@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kane Lacey — She](https://www.last.fm/music/Kane+Lacey/_/She)
-* [Kill Bill: The Rapper — Inside the Cockpit of the EVA](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Inside+the+Cockpit+of+the+EVA)
-* [Phem — flowers](https://www.last.fm/music/Phem/_/flowers)
-* [BLAHSUM — I'm Alone](https://www.last.fm/music/BLAHSUM/_/I%27m+Alone)
-* [Sorry — Starstruck](https://www.last.fm/music/Sorry/_/Starstruck)<!-- LASTFM:END -->
+* [FrankJavCee — See You Tomorrow](https://www.last.fm/music/FrankJavCee/_/See+You+Tomorrow)
+* [DUDE, MY DUDE — Loser](https://www.last.fm/music/DUDE,+MY+DUDE/_/Loser)
+* [pinkshift — i'm gonna tell my therapist on you](https://www.last.fm/music/pinkshift/_/i%27m+gonna+tell+my+therapist+on+you)
+* [One Hope — emotional softie](https://www.last.fm/music/One+Hope/_/emotional+softie)
+* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
