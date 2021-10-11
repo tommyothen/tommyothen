@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Miko — I Wasn't Made to Fall in Love](https://www.last.fm/music/Miko/_/I+Wasn%27t+Made+to+Fall+in+Love)
+* [Dreamcatcher — And there was no one left](https://www.last.fm/music/Dreamcatcher/_/And+there+was+no+one+left)
+* [Psyqui — Don't You Want Me](https://www.last.fm/music/Psyqui/_/Don%27t+You+Want+Me)
 * [pinkshift — i'm gonna tell my therapist on you](https://www.last.fm/music/pinkshift/_/i%27m+gonna+tell+my+therapist+on+you)
-* [Emothebadkid — Citylove(Red)](https://www.last.fm/music/Emothebadkid/_/Citylove(Red))
-* [Ichika — Good Enough](https://www.last.fm/music/Ichika/_/Good+Enough)
-* [Phem — flowers](https://www.last.fm/music/Phem/_/flowers)
-* [Ichika — Good Enough](https://www.last.fm/music/Ichika/_/Good+Enough)<!-- LASTFM:END -->
+* [Emothebadkid — Citylove(Red)](https://www.last.fm/music/Emothebadkid/_/Citylove(Red))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
