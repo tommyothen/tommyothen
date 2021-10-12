@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TORIENA — Diet Coke](https://www.last.fm/music/TORIENA/_/Diet+Coke)
-* [Kane Lacey — She](https://www.last.fm/music/Kane+Lacey/_/She)
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
 * [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))
-* [FrankJavCee — See You Tomorrow](https://www.last.fm/music/FrankJavCee/_/See+You+Tomorrow)
-* [One Hope — emotional softie](https://www.last.fm/music/One+Hope/_/emotional+softie)<!-- LASTFM:END -->
+* [TORIENA — Diet Coke](https://www.last.fm/music/TORIENA/_/Diet+Coke)
+* [Kane Lacey — She](https://www.last.fm/music/Kane+Lacey/_/She)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
