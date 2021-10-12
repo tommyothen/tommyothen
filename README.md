@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mr. Bassmeister — DMT](https://www.last.fm/music/Mr.+Bassmeister/_/DMT)
 * [Francesco Zeta — Rock N' Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)
 * [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)
 * [Machine Gun Kelly — DAYWALKER! (feat. Corpse)](https://www.last.fm/music/Machine+Gun+Kelly/_/DAYWALKER!+(feat.+Corpse))
-* [Machine Gun Kelly — DAYWALKER! (feat. Corpse)](https://www.last.fm/music/Machine+Gun+Kelly/_/DAYWALKER!+(feat.+Corpse))
-* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)<!-- LASTFM:END -->
+* [Machine Gun Kelly — DAYWALKER! (feat. Corpse)](https://www.last.fm/music/Machine+Gun+Kelly/_/DAYWALKER!+(feat.+Corpse))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
