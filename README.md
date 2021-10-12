@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Machine Gun Kelly — DAYWALKER! (feat. Corpse)](https://www.last.fm/music/Machine+Gun+Kelly/_/DAYWALKER!+(feat.+Corpse))
+* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
+* [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)
 * [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)
-* [June — Something To Lose](https://www.last.fm/music/June/_/Something+To+Lose)
-* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)<!-- LASTFM:END -->
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
