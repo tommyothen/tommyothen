@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TNT — Rave Now](https://www.last.fm/music/TNT/_/Rave+Now)
+* [Dj Mad Dog — The Box](https://www.last.fm/music/Dj+Mad+Dog/_/The+Box)
 * [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)
 * [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)
-* [Mr. Bassmeister — DMT](https://www.last.fm/music/Mr.+Bassmeister/_/DMT)
-* [Francesco Zeta — Rock N' Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)
-* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)<!-- LASTFM:END -->
+* [Mr. Bassmeister — DMT](https://www.last.fm/music/Mr.+Bassmeister/_/DMT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
