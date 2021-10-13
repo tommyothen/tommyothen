@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Westside Gravy — 64](https://www.last.fm/music/Westside+Gravy/_/64)
-* [Underscores — regulate you](https://www.last.fm/music/Underscores/_/regulate+you)
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
-* [Kudasaibeats — The Girl I Haven't Met (Biskwiq Flip)](https://www.last.fm/music/Kudasaibeats/_/The+Girl+I+Haven%27t+Met+(Biskwiq+Flip))
-* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)<!-- LASTFM:END -->
+* [idealism — Controlla](https://www.last.fm/music/idealism/_/Controlla)
+* [Unlike Pluto — Worst In Me](https://www.last.fm/music/Unlike+Pluto/_/Worst+In+Me)
+* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
+* [Eden — love; not wrong (brave)](https://www.last.fm/music/Eden/_/love;+not+wrong+(brave))
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
