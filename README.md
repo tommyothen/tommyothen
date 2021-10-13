@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Oliver Tree — Introspective](https://www.last.fm/music/Oliver+Tree/_/Introspective)
+* [Tima Belorusskih — Витаминка](https://www.last.fm/music/Tima+Belorusskih/_/%D0%92%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%BA%D0%B0)
 * [9 Gramm — Ласковый зверь](https://www.last.fm/music/9+Gramm/_/%D0%9B%D0%B0%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9+%D0%B7%D0%B2%D0%B5%D1%80%D1%8C)
 * [Thoreau — Afraid](https://www.last.fm/music/Thoreau/_/Afraid)
-* [Eden — XO](https://www.last.fm/music/Eden/_/XO)
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
-* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)<!-- LASTFM:END -->
+* [Eden — XO](https://www.last.fm/music/Eden/_/XO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
