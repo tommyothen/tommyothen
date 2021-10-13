@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katie — Remember](https://www.last.fm/music/Katie/_/Remember)
+* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
+* [稲葉曇 — ラグトレイン](https://www.last.fm/music/%E7%A8%B2%E8%91%89%E6%9B%87/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
 * [Made in M — Pero Asi](https://www.last.fm/music/Made+in+M/_/Pero+Asi)
-* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
-* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
-* [idealism — Controlla](https://www.last.fm/music/idealism/_/Controlla)
-* [Unlike Pluto — Worst In Me](https://www.last.fm/music/Unlike+Pluto/_/Worst+In+Me)<!-- LASTFM:END -->
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
