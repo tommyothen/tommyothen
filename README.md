@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [chloe george — ghost town (voice memo)](https://www.last.fm/music/chloe+george/_/ghost+town+(voice+memo))
+* [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)
 * [Abe Parker — Empty House](https://www.last.fm/music/Abe+Parker/_/Empty+House)
 * [boywithuke — Two Moons](https://www.last.fm/music/boywithuke/_/Two+Moons)
-* [boywithuke — Toxic](https://www.last.fm/music/boywithuke/_/Toxic)
-* [THE ANXIETY — Meet Me At Our Spot](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot)
-* [Her's — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)<!-- LASTFM:END -->
+* [boywithuke — Toxic](https://www.last.fm/music/boywithuke/_/Toxic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
