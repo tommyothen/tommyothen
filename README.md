@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Quadeca — Ego Death](https://www.last.fm/music/Quadeca/_/Ego+Death)
+* [Destiny Rogers — Euphoria](https://www.last.fm/music/Destiny+Rogers/_/Euphoria)
+* [Just Juice — Coast](https://www.last.fm/music/Just+Juice/_/Coast)
 * [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
-* [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Mallrat — Nobody's Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
-* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)<!-- LASTFM:END -->
+* [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
