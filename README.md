@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DJ Isaac — Hardcore from the underland](https://www.last.fm/music/DJ+Isaac/_/Hardcore+from+the+underland)
 * [DJ Isaac — Groupie Love - Original Mix](https://www.last.fm/music/DJ+Isaac/_/Groupie+Love+-+Original+Mix)
 * [D-Block & S-te-Fan — Takin' Off - DJ Isaac Remix](https://www.last.fm/music/D-Block+&+S-te-Fan/_/Takin%27+Off+-+DJ+Isaac+Remix)
 * [DJ Isaac — The Hardway](https://www.last.fm/music/DJ+Isaac/_/The+Hardway)
-* [Technoboy — Power Hour - Pro Mix](https://www.last.fm/music/Technoboy/_/Power+Hour+-+Pro+Mix)
-* [D-Block & S-te-Fan — Harder State Of Mind](https://www.last.fm/music/D-Block+&+S-te-Fan/_/Harder+State+Of+Mind)<!-- LASTFM:END -->
+* [Technoboy — Power Hour - Pro Mix](https://www.last.fm/music/Technoboy/_/Power+Hour+-+Pro+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
