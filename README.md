@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — XO](https://www.last.fm/music/Eden/_/XO)
+* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
 * [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
 * [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
-* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
-* [rei brown — give me nurture](https://www.last.fm/music/rei+brown/_/give+me+nurture)
-* [DROELOE — Sunburn](https://www.last.fm/music/DROELOE/_/Sunburn)<!-- LASTFM:END -->
+* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
