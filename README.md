@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Diplo — Color Blind](https://www.last.fm/music/Diplo/_/Color+Blind)
+* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
 * [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
 * [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)
-* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
-* [Eden — wonder](https://www.last.fm/music/Eden/_/wonder)
-* [Akintoye — At the Cookout](https://www.last.fm/music/Akintoye/_/At+the+Cookout)<!-- LASTFM:END -->
+* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
