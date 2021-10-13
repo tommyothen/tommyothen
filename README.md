@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MAX — Blueberry Eyes (feat. SUGA of BTS)](https://www.last.fm/music/MAX/_/Blueberry+Eyes+(feat.+SUGA+of+BTS))
 * [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
 * [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
 * [Thiago — hijack](https://www.last.fm/music/Thiago/_/hijack)
-* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
-* [Dreamville — Under the Sun (with J. Cole & Lute feat. DaBaby)](https://www.last.fm/music/Dreamville/_/Under+the+Sun+(with+J.+Cole+&+Lute+feat.+DaBaby))<!-- LASTFM:END -->
+* [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
