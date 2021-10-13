@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
-* [Yung Gravy — BOOMIN](https://www.last.fm/music/Yung+Gravy/_/BOOMIN)
-* [Pusher — Sober](https://www.last.fm/music/Pusher/_/Sober)
-* [88Rising — History](https://www.last.fm/music/88Rising/_/History)
-* [DAOKO — 打上花火](https://www.last.fm/music/DAOKO/_/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB)<!-- LASTFM:END -->
+* [Westside Gravy — 64](https://www.last.fm/music/Westside+Gravy/_/64)
+* [Underscores — regulate you](https://www.last.fm/music/Underscores/_/regulate+you)
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
+* [Kudasaibeats — The Girl I Haven't Met (Biskwiq Flip)](https://www.last.fm/music/Kudasaibeats/_/The+Girl+I+Haven%27t+Met+(Biskwiq+Flip))
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
