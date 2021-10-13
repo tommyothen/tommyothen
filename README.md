@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)
-* [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))
-* [JKLL — I Don't Care](https://www.last.fm/music/JKLL/_/I+Don%27t+Care)
-* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)
-* [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))<!-- LASTFM:END -->
+* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
+* [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
+* [Mallrat — Nobody's Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
+* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
