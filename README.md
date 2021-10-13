@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)
+* [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))
 * [DJ Isaac — Hardcore from the underland](https://www.last.fm/music/DJ+Isaac/_/Hardcore+from+the+underland)
 * [DJ Isaac — Groupie Love - Original Mix](https://www.last.fm/music/DJ+Isaac/_/Groupie+Love+-+Original+Mix)
-* [D-Block & S-te-Fan — Takin' Off - DJ Isaac Remix](https://www.last.fm/music/D-Block+&+S-te-Fan/_/Takin%27+Off+-+DJ+Isaac+Remix)
-* [DJ Isaac — The Hardway](https://www.last.fm/music/DJ+Isaac/_/The+Hardway)
-* [Technoboy — Power Hour - Pro Mix](https://www.last.fm/music/Technoboy/_/Power+Hour+-+Pro+Mix)<!-- LASTFM:END -->
+* [D-Block & S-te-Fan — Takin' Off - DJ Isaac Remix](https://www.last.fm/music/D-Block+&+S-te-Fan/_/Takin%27+Off+-+DJ+Isaac+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
