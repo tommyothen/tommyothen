@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Headhaunter — Intergalasstic II](https://www.last.fm/music/Headhaunter/_/Intergalasstic+II)
+* [[bsd.u] — Laced](https://www.last.fm/music/%5Bbsd.u%5D/_/Laced)
 * [Jarv & Thief — The Beat](https://www.last.fm/music/Jarv+&+Thief/_/The+Beat)
 * [luvbird — Dawn Amble](https://www.last.fm/music/luvbird/_/Dawn+Amble)
-* [Grabbitz — My Cloud](https://www.last.fm/music/Grabbitz/_/My+Cloud)
-* [Pouya — life? ... lol](https://www.last.fm/music/Pouya/_/life%3F+...+lol)
-* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)<!-- LASTFM:END -->
+* [Grabbitz — My Cloud](https://www.last.fm/music/Grabbitz/_/My+Cloud)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
