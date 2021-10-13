@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
+* [rei brown — give me nurture](https://www.last.fm/music/rei+brown/_/give+me+nurture)
+* [DROELOE — Sunburn](https://www.last.fm/music/DROELOE/_/Sunburn)
 * [Trails — Learn to Love Me](https://www.last.fm/music/Trails/_/Learn+to+Love+Me)
-* [Rich Brian — Amen](https://www.last.fm/music/Rich+Brian/_/Amen)
-* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
-* [Rain Man — Habit - T-Mass Remix](https://www.last.fm/music/Rain+Man/_/Habit+-+T-Mass+Remix)
-* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)<!-- LASTFM:END -->
+* [Rich Brian — Amen](https://www.last.fm/music/Rich+Brian/_/Amen)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
