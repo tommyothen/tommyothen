@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [9 Gramm — Ласковый зверь](https://www.last.fm/music/9+Gramm/_/%D0%9B%D0%B0%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9+%D0%B7%D0%B2%D0%B5%D1%80%D1%8C)
+* [Thoreau — Afraid](https://www.last.fm/music/Thoreau/_/Afraid)
 * [Eden — XO](https://www.last.fm/music/Eden/_/XO)
 * [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
-* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
-* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
-* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)<!-- LASTFM:END -->
+* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
