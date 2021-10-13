@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Abe Parker — Empty House](https://www.last.fm/music/Abe+Parker/_/Empty+House)
+* [boywithuke — Two Moons](https://www.last.fm/music/boywithuke/_/Two+Moons)
+* [boywithuke — Toxic](https://www.last.fm/music/boywithuke/_/Toxic)
 * [THE ANXIETY — Meet Me At Our Spot](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot)
-* [Her's — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)
-* [Oliver Tree — Introspective](https://www.last.fm/music/Oliver+Tree/_/Introspective)
-* [Tima Belorusskih — Витаминка](https://www.last.fm/music/Tima+Belorusskih/_/%D0%92%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%BA%D0%B0)
-* [9 Gramm — Ласковый зверь](https://www.last.fm/music/9+Gramm/_/%D0%9B%D0%B0%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9+%D0%B7%D0%B2%D0%B5%D1%80%D1%8C)<!-- LASTFM:END -->
+* [Her's — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
