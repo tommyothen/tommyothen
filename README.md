@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
+* [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
 * [Thiago — hijack](https://www.last.fm/music/Thiago/_/hijack)
 * [Ashnikko — Slumber Party (feat. Princess Nokia)](https://www.last.fm/music/Ashnikko/_/Slumber+Party+(feat.+Princess+Nokia))
-* [Dreamville — Under the Sun (with J. Cole & Lute feat. DaBaby)](https://www.last.fm/music/Dreamville/_/Under+the+Sun+(with+J.+Cole+&+Lute+feat.+DaBaby))
-* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
-* [Au/Ra — Panic Room](https://www.last.fm/music/Au%2FRa/_/Panic+Room)<!-- LASTFM:END -->
+* [Dreamville — Under the Sun (with J. Cole & Lute feat. DaBaby)](https://www.last.fm/music/Dreamville/_/Under+the+Sun+(with+J.+Cole+&+Lute+feat.+DaBaby))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
