@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jid — Workin Out](https://www.last.fm/music/Jid/_/Workin+Out)
+* [Headhaunter — Engage Thrusters](https://www.last.fm/music/Headhaunter/_/Engage+Thrusters)
 * [boy pablo — Feeling Lonely](https://www.last.fm/music/boy+pablo/_/Feeling+Lonely)
 * [Unlike Pluto — Revenge, And a Little More](https://www.last.fm/music/Unlike+Pluto/_/Revenge,+And+a+Little+More)
-* [Jack Harlow — ROTTEN (feat. EST Gee)](https://www.last.fm/music/Jack+Harlow/_/ROTTEN+(feat.+EST+Gee))
-* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
-* [Atlas — facade](https://www.last.fm/music/Atlas/_/facade)<!-- LASTFM:END -->
+* [Jack Harlow — ROTTEN (feat. EST Gee)](https://www.last.fm/music/Jack+Harlow/_/ROTTEN+(feat.+EST+Gee))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
