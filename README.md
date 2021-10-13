@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
+* [Eden — and](https://www.last.fm/music/Eden/_/and)
+* [Shawn Wasabi — Squeez®](https://www.last.fm/music/Shawn+Wasabi/_/Squeez%C2%AE)
 * [Jid — Workin Out](https://www.last.fm/music/Jid/_/Workin+Out)
-* [Headhaunter — Engage Thrusters](https://www.last.fm/music/Headhaunter/_/Engage+Thrusters)
-* [boy pablo — Feeling Lonely](https://www.last.fm/music/boy+pablo/_/Feeling+Lonely)
-* [Unlike Pluto — Revenge, And a Little More](https://www.last.fm/music/Unlike+Pluto/_/Revenge,+And+a+Little+More)
-* [Jack Harlow — ROTTEN (feat. EST Gee)](https://www.last.fm/music/Jack+Harlow/_/ROTTEN+(feat.+EST+Gee))<!-- LASTFM:END -->
+* [Headhaunter — Engage Thrusters](https://www.last.fm/music/Headhaunter/_/Engage+Thrusters)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
