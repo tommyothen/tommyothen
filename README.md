@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [88Rising — History](https://www.last.fm/music/88Rising/_/History)
+* [DAOKO — 打上花火](https://www.last.fm/music/DAOKO/_/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB)
 * [Quadeca — Ego Death](https://www.last.fm/music/Quadeca/_/Ego+Death)
 * [Destiny Rogers — Euphoria](https://www.last.fm/music/Destiny+Rogers/_/Euphoria)
-* [Just Juice — Coast](https://www.last.fm/music/Just+Juice/_/Coast)
-* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
-* [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)<!-- LASTFM:END -->
+* [Just Juice — Coast](https://www.last.fm/music/Just+Juice/_/Coast)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
