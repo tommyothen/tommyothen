@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Made in M — Pero Asi](https://www.last.fm/music/Made+in+M/_/Pero+Asi)
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
+* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
 * [idealism — Controlla](https://www.last.fm/music/idealism/_/Controlla)
-* [Unlike Pluto — Worst In Me](https://www.last.fm/music/Unlike+Pluto/_/Worst+In+Me)
-* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
-* [Eden — love; not wrong (brave)](https://www.last.fm/music/Eden/_/love;+not+wrong+(brave))
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
+* [Unlike Pluto — Worst In Me](https://www.last.fm/music/Unlike+Pluto/_/Worst+In+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
