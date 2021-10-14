@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
+* [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
 * [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [chloe george — ghost town (voice memo)](https://www.last.fm/music/chloe+george/_/ghost+town+(voice+memo))
-* [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)<!-- LASTFM:END -->
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
