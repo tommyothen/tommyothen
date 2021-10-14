@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BLACKPINK — WHISTLE](https://www.last.fm/music/BLACKPINK/_/WHISTLE)
-* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
-* [BLACKPINK — Don't Know What To Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+To+Do)
-* [BLACKPINK — REALLY](https://www.last.fm/music/BLACKPINK/_/REALLY)
-* [BLACKPINK — DDU-DU DDU-DU](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU)<!-- LASTFM:END -->
+* [ROSÉ — Gone](https://www.last.fm/music/ROS%C3%89/_/Gone)
+* [Rosé — On The Ground](https://www.last.fm/music/Ros%C3%A9/_/On+The+Ground)
+* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
+* [BLACKPINK — Love To Hate Me](https://www.last.fm/music/BLACKPINK/_/Love+To+Hate+Me)
+* [Jennie — SOLO](https://www.last.fm/music/Jennie/_/SOLO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
