@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)
+* [Rich Brian — Where Does the Time Go (feat. Joji)](https://www.last.fm/music/Rich+Brian/_/Where+Does+the+Time+Go+(feat.+Joji))
 * [Night Tempo — ShortCake](https://www.last.fm/music/Night+Tempo/_/ShortCake)
 * [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
-* [Feduk — Моряк](https://www.last.fm/music/Feduk/_/%D0%9C%D0%BE%D1%80%D1%8F%D0%BA)
-* [BURNOUT SYNDROMES — ヒカリアレ-Moonlight Version-](https://www.last.fm/music/BURNOUT+SYNDROMES/_/%E3%83%92%E3%82%AB%E3%83%AA%E3%82%A2%E3%83%AC-Moonlight+Version-)
-* [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)<!-- LASTFM:END -->
+* [Feduk — Моряк](https://www.last.fm/music/Feduk/_/%D0%9C%D0%BE%D1%80%D1%8F%D0%BA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
