@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/cliche%CC%81)
-* [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)
-* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
-* [rei brown — Landing On Mars](https://www.last.fm/music/rei+brown/_/Landing+On+Mars)
-* [Freddie Dredd — WEATHER](https://www.last.fm/music/Freddie+Dredd/_/WEATHER)<!-- LASTFM:END -->
+* [Shawn Wasabi — Mango Love](https://www.last.fm/music/Shawn+Wasabi/_/Mango+Love)
+* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
+* [Smoke Trees — Date 5: Vanessa](https://www.last.fm/music/Smoke+Trees/_/Date+5:+Vanessa)
+* [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)
+* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/cliche%CC%81)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
