@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Feduk — Моряк](https://www.last.fm/music/Feduk/_/%D0%9C%D0%BE%D1%80%D1%8F%D0%BA)
+* [BURNOUT SYNDROMES — ヒカリアレ-Moonlight Version-](https://www.last.fm/music/BURNOUT+SYNDROMES/_/%E3%83%92%E3%82%AB%E3%83%AA%E3%82%A2%E3%83%AC-Moonlight+Version-)
 * [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)
 * [Billie Eilish — ilomilo](https://www.last.fm/music/Billie+Eilish/_/ilomilo)
-* [The404Studios — Lost](https://www.last.fm/music/The404Studios/_/Lost)
-* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)
-* [Her's — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)<!-- LASTFM:END -->
+* [The404Studios — Lost](https://www.last.fm/music/The404Studios/_/Lost)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
