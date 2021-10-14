@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ROSÉ — Gone](https://www.last.fm/music/ROS%C3%89/_/Gone)
-* [Rosé — On The Ground](https://www.last.fm/music/Ros%C3%A9/_/On+The+Ground)
-* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
-* [BLACKPINK — Love To Hate Me](https://www.last.fm/music/BLACKPINK/_/Love+To+Hate+Me)
-* [Jennie — SOLO](https://www.last.fm/music/Jennie/_/SOLO)<!-- LASTFM:END -->
+* [Loona — Universe](https://www.last.fm/music/Loona/_/Universe)
+* [Loona — PTT(Paint The Town) - Japanese Ver.](https://www.last.fm/music/Loona/_/PTT(Paint+The+Town)+-+Japanese+Ver.)
+* [BLACKPINK — Crazy Over You](https://www.last.fm/music/BLACKPINK/_/Crazy+Over+You)
+* [BLACKPINK — Ice Cream (with Selena Gomez)](https://www.last.fm/music/BLACKPINK/_/Ice+Cream+(with+Selena+Gomez))
+* [BLACKPINK — STAY](https://www.last.fm/music/BLACKPINK/_/STAY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
