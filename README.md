@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
 * [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
 * [chloe george — ghost town (voice memo)](https://www.last.fm/music/chloe+george/_/ghost+town+(voice+memo))
-* [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)
-* [Abe Parker — Empty House](https://www.last.fm/music/Abe+Parker/_/Empty+House)
-* [boywithuke — Two Moons](https://www.last.fm/music/boywithuke/_/Two+Moons)<!-- LASTFM:END -->
+* [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
