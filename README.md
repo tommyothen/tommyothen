@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Universe](https://www.last.fm/music/Loona/_/Universe)
-* [Loona — PTT(Paint The Town) - Japanese Ver.](https://www.last.fm/music/Loona/_/PTT(Paint+The+Town)+-+Japanese+Ver.)
-* [BLACKPINK — Crazy Over You](https://www.last.fm/music/BLACKPINK/_/Crazy+Over+You)
-* [BLACKPINK — Ice Cream (with Selena Gomez)](https://www.last.fm/music/BLACKPINK/_/Ice+Cream+(with+Selena+Gomez))
-* [BLACKPINK — STAY](https://www.last.fm/music/BLACKPINK/_/STAY)<!-- LASTFM:END -->
+* [LOOΠΔ / ODD EYE CIRCLE — ODD Front](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/ODD+Front)
+* [LOOΠΔ / ODD EYE CIRCLE — LOONATIC](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/LOONATIC)
+* [Loona — My Melody](https://www.last.fm/music/Loona/_/My+Melody)
+* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)
+* [Loona — Universe](https://www.last.fm/music/Loona/_/Universe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
