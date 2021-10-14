@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
+* [Far Out — Origin](https://www.last.fm/music/Far+Out/_/Origin)
 * [Nujabes — Feather (feat. Cise Starr & Akin from Cyne)](https://www.last.fm/music/Nujabes/_/Feather+(feat.+Cise+Starr+&+Akin+from+Cyne))
 * [D-Real [愛] — Interstellar Love Story](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Interstellar+Love+Story)
-* [Coming Soon!!! — Trippin in Paris](https://www.last.fm/music/Coming+Soon!!!/_/Trippin+in+Paris)
-* [Rich Brian — Yellow (feat. Bekon)](https://www.last.fm/music/Rich+Brian/_/Yellow+(feat.+Bekon))
-* [Grandson — Best Friends](https://www.last.fm/music/Grandson/_/Best+Friends)<!-- LASTFM:END -->
+* [Coming Soon!!! — Trippin in Paris](https://www.last.fm/music/Coming+Soon!!!/_/Trippin+in+Paris)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
