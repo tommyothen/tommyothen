@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tyler, The Creator — I THINK](https://www.last.fm/music/Tyler,+The+Creator/_/I+THINK)
-* [DNMO — Broken](https://www.last.fm/music/DNMO/_/Broken)
-* [Joji — XNXX](https://www.last.fm/music/Joji/_/XNXX)
-* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
-* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)<!-- LASTFM:END -->
+* [BLACKPINK — Forever Young](https://www.last.fm/music/BLACKPINK/_/Forever+Young)
+* [BLACKPINK — AS IF IT'S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
+* [Billie Eilish — No Time To Die](https://www.last.fm/music/Billie+Eilish/_/No+Time+To+Die)
+* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
