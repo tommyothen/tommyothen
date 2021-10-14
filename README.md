@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Coming Soon!!! — Trippin in Paris](https://www.last.fm/music/Coming+Soon!!!/_/Trippin+in+Paris)
 * [Rich Brian — Yellow (feat. Bekon)](https://www.last.fm/music/Rich+Brian/_/Yellow+(feat.+Bekon))
 * [Grandson — Best Friends](https://www.last.fm/music/Grandson/_/Best+Friends)
 * [Yarmak — Я не люблю](https://www.last.fm/music/Yarmak/_/%D0%AF+%D0%BD%D0%B5+%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E)
-* [Hobo Johnson — Peach Scone](https://www.last.fm/music/Hobo+Johnson/_/Peach+Scone)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
+* [Hobo Johnson — Peach Scone](https://www.last.fm/music/Hobo+Johnson/_/Peach+Scone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
