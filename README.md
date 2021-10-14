@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [Galantis — Only A Fool (with Pink Sweat$)](https://www.last.fm/music/Galantis/_/Only+A+Fool+(with+Pink+Sweat$))
+* [Vantage — Count What You Have Now](https://www.last.fm/music/Vantage/_/Count+What+You+Have+Now)
 * [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)
-* [Rich Brian — Where Does the Time Go (feat. Joji)](https://www.last.fm/music/Rich+Brian/_/Where+Does+the+Time+Go+(feat.+Joji))
-* [Night Tempo — ShortCake](https://www.last.fm/music/Night+Tempo/_/ShortCake)
-* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
-* [Feduk — Моряк](https://www.last.fm/music/Feduk/_/%D0%9C%D0%BE%D1%80%D1%8F%D0%BA)<!-- LASTFM:END -->
+* [Rich Brian — Where Does the Time Go (feat. Joji)](https://www.last.fm/music/Rich+Brian/_/Where+Does+the+Time+Go+(feat.+Joji))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
