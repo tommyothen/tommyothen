@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
-* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)
-* [Mallrat — Nobody's Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)<!-- LASTFM:END -->
+* [khai dreams — Find My Way](https://www.last.fm/music/khai+dreams/_/Find+My+Way)
+* [Strawberry Station — Disco Queens](https://www.last.fm/music/Strawberry+Station/_/Disco+Queens)
+* [The Deli — 5:32PM](https://www.last.fm/music/The+Deli/_/5:32PM)
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
+* [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
