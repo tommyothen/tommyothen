@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/cliche%CC%81)
+* [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)
+* [Kailee Morgue — This is Why I'm Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
 * [rei brown — Landing On Mars](https://www.last.fm/music/rei+brown/_/Landing+On+Mars)
-* [Freddie Dredd — WEATHER](https://www.last.fm/music/Freddie+Dredd/_/WEATHER)
-* [Just Juice — Coast](https://www.last.fm/music/Just+Juice/_/Coast)
-* [Jakey — Not Dead Yet](https://www.last.fm/music/Jakey/_/Not+Dead+Yet)
-* [khai dreams — Find My Way](https://www.last.fm/music/khai+dreams/_/Find+My+Way)<!-- LASTFM:END -->
+* [Freddie Dredd — WEATHER](https://www.last.fm/music/Freddie+Dredd/_/WEATHER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
