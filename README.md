@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Satellite](https://www.last.fm/music/Loona/_/Satellite)
-* [Loona — Why Not?](https://www.last.fm/music/Loona/_/Why+Not%3F)
-* [Loona — PTT (Paint the Town)](https://www.last.fm/music/Loona/_/PTT+(Paint+the+Town))
-* [YUC'e — Night Club Junkie](https://www.last.fm/music/YUC%27e/_/Night+Club+Junkie)
-* [LOOΠΔ / ODD EYE CIRCLE — ODD Front](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/ODD+Front)<!-- LASTFM:END -->
+* [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))
+* [THE ANXIETY — Meet Me At Our Spot](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot)
+* [LOOΠΔ 1/3 — Into The New Heart](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Into+The+New+Heart)
+* [Loona — Not Friends (Sung by HeeJin, Kim Lip, JinSoul, Yves) (Prod. RYAN JHUN)](https://www.last.fm/music/Loona/_/Not+Friends+(Sung+by+HeeJin,+Kim+Lip,+JinSoul,+Yves)+(Prod.+RYAN+JHUN))
+* [Loona — Satellite](https://www.last.fm/music/Loona/_/Satellite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
