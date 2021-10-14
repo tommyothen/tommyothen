@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
+* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)
 * [June — Something To Lose](https://www.last.fm/music/June/_/Something+To+Lose)
 * [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
-* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))
-* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
-* [Galantis — Only A Fool (with Pink Sweat$)](https://www.last.fm/music/Galantis/_/Only+A+Fool+(with+Pink+Sweat$))<!-- LASTFM:END -->
+* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
