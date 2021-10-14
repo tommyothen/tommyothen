@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
 * [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))
 * [THE ANXIETY — Meet Me At Our Spot](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot)
-* [LOOΠΔ 1/3 — Into The New Heart](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Into+The+New+Heart)
-* [Loona — Not Friends (Sung by HeeJin, Kim Lip, JinSoul, Yves) (Prod. RYAN JHUN)](https://www.last.fm/music/Loona/_/Not+Friends+(Sung+by+HeeJin,+Kim+Lip,+JinSoul,+Yves)+(Prod.+RYAN+JHUN))
-* [Loona — Satellite](https://www.last.fm/music/Loona/_/Satellite)<!-- LASTFM:END -->
+* [LOOΠΔ 1/3 — Into The New Heart](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Into+The+New+Heart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
