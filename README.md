@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
 * [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))
 * [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
-* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
-* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
-* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)<!-- LASTFM:END -->
+* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
