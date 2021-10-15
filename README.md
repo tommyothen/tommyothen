@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
-* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)
-* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)<!-- LASTFM:END -->
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
+* [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))
+* [Kill Bill: The Rapper — Inside the Cockpit of the EVA](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Inside+the+Cockpit+of+the+EVA)
+* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
