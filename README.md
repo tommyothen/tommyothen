@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Floxytek — Irish Vision](https://www.last.fm/music/Floxytek/_/Irish+Vision)
+* [Billx — Ceremony](https://www.last.fm/music/Billx/_/Ceremony)
+* [Mr. Bassmeister — Bong Bong](https://www.last.fm/music/Mr.+Bassmeister/_/Bong+Bong)
 * [Francesco Zeta — Rock N' Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)
-* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)
-* [TeddyLoid — Me!Me!Me!, Pt. 2](https://www.last.fm/music/TeddyLoid/_/Me!Me!Me!,+Pt.+2)
-* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
+* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
