@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kanye West — Gold Digger](https://www.last.fm/music/Kanye+West/_/Gold+Digger)
+* [Biffy Clyro — Bubbles](https://www.last.fm/music/Biffy+Clyro/_/Bubbles)
 * [Fleetwood Mac — The Chain - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/The+Chain+-+2004+Remaster)
 * [The Qemists — Run You](https://www.last.fm/music/The+Qemists/_/Run+You)
-* [Mungo's Hi Fi — Rules of the Dance - Kahn Remix](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Rules+of+the+Dance+-+Kahn+Remix)
-* [Black Sabbath — N.I.B.](https://www.last.fm/music/Black+Sabbath/_/N.I.B.)
-* [Sebastian Paul — TROJAN HORSE](https://www.last.fm/music/Sebastian+Paul/_/TROJAN+HORSE)<!-- LASTFM:END -->
+* [Mungo's Hi Fi — Rules of the Dance - Kahn Remix](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Rules+of+the+Dance+-+Kahn+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
