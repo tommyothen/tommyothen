@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ghostemane — Bonesaw](https://www.last.fm/music/Ghostemane/_/Bonesaw)
+* [Labrinth — Formula](https://www.last.fm/music/Labrinth/_/Formula)
+* [Labrinth — Formula](https://www.last.fm/music/Labrinth/_/Formula)
 * [PinkPantheress — I must apologise](https://www.last.fm/music/PinkPantheress/_/I+must+apologise)
-* [Dizzee Rascal — Dance Wiv Me - Radio Edit](https://www.last.fm/music/Dizzee+Rascal/_/Dance+Wiv+Me+-+Radio+Edit)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Tame Impala — Eventually](https://www.last.fm/music/Tame+Impala/_/Eventually)
-* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)<!-- LASTFM:END -->
+* [Dizzee Rascal — Dance Wiv Me - Radio Edit](https://www.last.fm/music/Dizzee+Rascal/_/Dance+Wiv+Me+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
