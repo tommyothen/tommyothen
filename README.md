@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Galantis — Only A Fool (with Pink Sweat$)](https://www.last.fm/music/Galantis/_/Only+A+Fool+(with+Pink+Sweat$))
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
 * [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
 * [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))
-* [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)<!-- LASTFM:END -->
+* [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
