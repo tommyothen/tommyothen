@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
+* [Tame Impala — Eventually](https://www.last.fm/music/Tame+Impala/_/Eventually)
+* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
 * [Versatile — We Sell Brown](https://www.last.fm/music/Versatile/_/We+Sell+Brown)
-* [The Prodigy — Invaders Must Die](https://www.last.fm/music/The+Prodigy/_/Invaders+Must+Die)
-* [foor — Black Bandana](https://www.last.fm/music/foor/_/Black+Bandana)
-* [Benny Benassi — Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz](https://www.last.fm/music/Benny+Benassi/_/Satisfaction+(Isak+Original+Extended)+-+Benny+Benassi+Presents+The+Biz)
-* [Post Malone — Circles](https://www.last.fm/music/Post+Malone/_/Circles)<!-- LASTFM:END -->
+* [The Prodigy — Invaders Must Die](https://www.last.fm/music/The+Prodigy/_/Invaders+Must+Die)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
