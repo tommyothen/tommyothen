@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
 * [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
 * [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
 * [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
-* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
-* [Vandal — Warriors](https://www.last.fm/music/Vandal/_/Warriors)<!-- LASTFM:END -->
+* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
