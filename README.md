@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Stephen — Play Me Like a Violin](https://www.last.fm/music/Stephen/_/Play+Me+Like+a+Violin)
 * [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
 * [Samsa — butterflies](https://www.last.fm/music/Samsa/_/butterflies)
 * [love-sadKiD — Vinyl](https://www.last.fm/music/love-sadKiD/_/Vinyl)
-* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
-* [Eden — sex](https://www.last.fm/music/Eden/_/sex)<!-- LASTFM:END -->
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
