@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Surfaces — Sunday Best](https://www.last.fm/music/Surfaces/_/Sunday+Best)
+* [Feduk — Моряк](https://www.last.fm/music/Feduk/_/%D0%9C%D0%BE%D1%80%D1%8F%D0%BA)
+* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
 * [Berg — Monks](https://www.last.fm/music/Berg/_/Monks)
-* [Electric Avenue — Electric Avenue](https://www.last.fm/music/Electric+Avenue/_/Electric+Avenue)
-* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
-* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
-* [The Mouse Outfit — Who Gwan Test (feat. Sparkz & Dubbul O)](https://www.last.fm/music/The+Mouse+Outfit/_/Who+Gwan+Test+(feat.+Sparkz+&+Dubbul+O))<!-- LASTFM:END -->
+* [Electric Avenue — Electric Avenue](https://www.last.fm/music/Electric+Avenue/_/Electric+Avenue)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
