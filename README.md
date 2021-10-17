@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)
-* [Breakbot — Baby I'm Yours](https://www.last.fm/music/Breakbot/_/Baby+I%27m+Yours)
-* [Calvin Harris — Acceptable in the 80's](https://www.last.fm/music/Calvin+Harris/_/Acceptable+in+the+80%27s)
-* [Muse — Supermassive Black Hole](https://www.last.fm/music/Muse/_/Supermassive+Black+Hole)
-* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)<!-- LASTFM:END -->
+* [Electric Avenue — Electric Avenue](https://www.last.fm/music/Electric+Avenue/_/Electric+Avenue)
+* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
+* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
+* [The Mouse Outfit — Who Gwan Test (feat. Sparkz & Dubbul O)](https://www.last.fm/music/The+Mouse+Outfit/_/Who+Gwan+Test+(feat.+Sparkz+&+Dubbul+O))
+* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
