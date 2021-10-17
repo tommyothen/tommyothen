@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
-* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
-* [Rich Brian — 100 Degrees](https://www.last.fm/music/Rich+Brian/_/100+Degrees)
-* [love-sadKiD — Cash](https://www.last.fm/music/love-sadKiD/_/Cash)
-* [88Rising — History](https://www.last.fm/music/88Rising/_/History)<!-- LASTFM:END -->
+* [Samsa — butterflies](https://www.last.fm/music/Samsa/_/butterflies)
+* [love-sadKiD — Vinyl](https://www.last.fm/music/love-sadKiD/_/Vinyl)
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
+* [Eden — sex](https://www.last.fm/music/Eden/_/sex)
+* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
