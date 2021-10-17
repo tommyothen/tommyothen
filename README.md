@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
+* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
+* [Rich Brian — 100 Degrees](https://www.last.fm/music/Rich+Brian/_/100+Degrees)
 * [love-sadKiD — Cash](https://www.last.fm/music/love-sadKiD/_/Cash)
-* [88Rising — History](https://www.last.fm/music/88Rising/_/History)
-* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
-* [Trevor Daniel — Falling (feat. blackbear) - blackbear Remix](https://www.last.fm/music/Trevor+Daniel/_/Falling+(feat.+blackbear)+-+blackbear+Remix)
-* [YUNG BAE — Bad Boy](https://www.last.fm/music/YUNG+BAE/_/Bad+Boy)<!-- LASTFM:END -->
+* [88Rising — History](https://www.last.fm/music/88Rising/_/History)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
