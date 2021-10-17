@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [UK Apache — Original Nuttah 25 (feat. IRAH) - Chase & Status Remix](https://www.last.fm/music/UK+Apache/_/Original+Nuttah+25+(feat.+IRAH)+-+Chase+&+Status+Remix)
-* [Daft Punk — Lose Yourself to Dance (feat. Pharrell Williams)](https://www.last.fm/music/Daft+Punk/_/Lose+Yourself+to+Dance+(feat.+Pharrell+Williams))
-* [Glasser — Tremel - Jamie xx Remix](https://www.last.fm/music/Glasser/_/Tremel+-+Jamie+xx+Remix)
-* [The Mouse Outfit — Who Gwan Test (feat. Sparkz & Dubbul O)](https://www.last.fm/music/The+Mouse+Outfit/_/Who+Gwan+Test+(feat.+Sparkz+&+Dubbul+O))
-* [Kanye West — Gold Digger](https://www.last.fm/music/Kanye+West/_/Gold+Digger)<!-- LASTFM:END -->
+* [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)
+* [Breakbot — Baby I'm Yours](https://www.last.fm/music/Breakbot/_/Baby+I%27m+Yours)
+* [Calvin Harris — Acceptable in the 80's](https://www.last.fm/music/Calvin+Harris/_/Acceptable+in+the+80%27s)
+* [Muse — Supermassive Black Hole](https://www.last.fm/music/Muse/_/Supermassive+Black+Hole)
+* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
