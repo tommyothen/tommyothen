@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Neanderthal — Hurt Your Lover](https://www.last.fm/music/Neanderthal/_/Hurt+Your+Lover)
-* [Tyler, The Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+The+Creator/_/EARFQUAKE)
-* [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)
-* [ilyTOMMY — Tunnel of Love - Remix](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love+-+Remix)
-* [88Rising — Breathe](https://www.last.fm/music/88Rising/_/Breathe)<!-- LASTFM:END -->
+* [Jarv & Thief — Lady Killer](https://www.last.fm/music/Jarv+&+Thief/_/Lady+Killer)
+* [D-Real [愛] — Interstellar Love Story](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Interstellar+Love+Story)
+* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
+* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
+* [Neanderthal — Hurt Your Lover](https://www.last.fm/music/Neanderthal/_/Hurt+Your+Lover)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
