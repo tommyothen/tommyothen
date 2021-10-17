@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [UK Apache — Original Nuttah 25 (feat. IRAH) - Chase & Status Remix](https://www.last.fm/music/UK+Apache/_/Original+Nuttah+25+(feat.+IRAH)+-+Chase+&+Status+Remix)
+* [Daft Punk — Lose Yourself to Dance (feat. Pharrell Williams)](https://www.last.fm/music/Daft+Punk/_/Lose+Yourself+to+Dance+(feat.+Pharrell+Williams))
 * [Glasser — Tremel - Jamie xx Remix](https://www.last.fm/music/Glasser/_/Tremel+-+Jamie+xx+Remix)
 * [The Mouse Outfit — Who Gwan Test (feat. Sparkz & Dubbul O)](https://www.last.fm/music/The+Mouse+Outfit/_/Who+Gwan+Test+(feat.+Sparkz+&+Dubbul+O))
-* [Kanye West — Gold Digger](https://www.last.fm/music/Kanye+West/_/Gold+Digger)
-* [Biffy Clyro — Bubbles](https://www.last.fm/music/Biffy+Clyro/_/Bubbles)
-* [Fleetwood Mac — The Chain - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/The+Chain+-+2004+Remaster)<!-- LASTFM:END -->
+* [Kanye West — Gold Digger](https://www.last.fm/music/Kanye+West/_/Gold+Digger)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
