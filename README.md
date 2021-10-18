@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vickeblanka — Broken](https://www.last.fm/music/Vickeblanka/_/Broken)
+* [Cloudfodder — My Ugly](https://www.last.fm/music/Cloudfodder/_/My+Ugly)
 * [Donovan Melero — Odd Reasons](https://www.last.fm/music/Donovan+Melero/_/Odd+Reasons)
 * [LUCAS LEX — rooom impulse](https://www.last.fm/music/LUCAS+LEX/_/rooom+impulse)
-* [3OH!3 — Lonely Machines (feat. 100 gecs)](https://www.last.fm/music/3OH!3/_/Lonely+Machines+(feat.+100+gecs))
-* [Galantis — Only A Fool (with Pink Sweat$)](https://www.last.fm/music/Galantis/_/Only+A+Fool+(with+Pink+Sweat$))
-* [ABSRDST — Do The Runaround](https://www.last.fm/music/ABSRDST/_/Do+The+Runaround)<!-- LASTFM:END -->
+* [3OH!3 — Lonely Machines (feat. 100 gecs)](https://www.last.fm/music/3OH!3/_/Lonely+Machines+(feat.+100+gecs))<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
