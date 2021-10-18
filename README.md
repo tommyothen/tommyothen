@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
+* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
+* [AMpm — more](https://www.last.fm/music/AMpm/_/more)
 * [Magic Circuit — Slip](https://www.last.fm/music/Magic+Circuit/_/Slip)
-* [Colliding With Mars — the cutest girl in hell](https://www.last.fm/music/Colliding+With+Mars/_/the+cutest+girl+in+hell)
-* [Riot — Overkill](https://www.last.fm/music/Riot/_/Overkill)
-* [Infected Mushroom — Spitfire](https://www.last.fm/music/Infected+Mushroom/_/Spitfire)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)<!-- LASTFM:END -->
+* [Colliding With Mars — the cutest girl in hell](https://www.last.fm/music/Colliding+With+Mars/_/the+cutest+girl+in+hell)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
