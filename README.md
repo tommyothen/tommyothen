@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Galantis — Only A Fool (with Pink Sweat$)](https://www.last.fm/music/Galantis/_/Only+A+Fool+(with+Pink+Sweat$))
 * [ABSRDST — Do The Runaround](https://www.last.fm/music/ABSRDST/_/Do+The+Runaround)
 * [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
 * [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
-* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
-* [Jarv & Thief — Lady Killer](https://www.last.fm/music/Jarv+&+Thief/_/Lady+Killer)<!-- LASTFM:END -->
+* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
