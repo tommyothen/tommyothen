@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sebastian Paul — TROJAN HORSE](https://www.last.fm/music/Sebastian+Paul/_/TROJAN+HORSE)
+* [boy pablo — Feeling Lonely](https://www.last.fm/music/boy+pablo/_/Feeling+Lonely)
 * [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
 * [Rich Brian — 100 Degrees](https://www.last.fm/music/Rich+Brian/_/100+Degrees)
-* [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)
-* [Neanderthal — Hurt Your Lover](https://www.last.fm/music/Neanderthal/_/Hurt+Your+Lover)
-* [ilyTOMMY — Tunnel of Love - Remix](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love+-+Remix)<!-- LASTFM:END -->
+* [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
