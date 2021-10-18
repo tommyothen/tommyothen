@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tima Belorusskih — Я больше не напишу](https://www.last.fm/music/Tima+Belorusskih/_/%D0%AF+%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5+%D0%BD%D0%B5+%D0%BD%D0%B0%D0%BF%D0%B8%D1%88%D1%83)
+* [Josh A — Study Break](https://www.last.fm/music/Josh+A/_/Study+Break)
 * [Sebastian Paul — TROJAN HORSE](https://www.last.fm/music/Sebastian+Paul/_/TROJAN+HORSE)
 * [boy pablo — Feeling Lonely](https://www.last.fm/music/boy+pablo/_/Feeling+Lonely)
-* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
-* [Rich Brian — 100 Degrees](https://www.last.fm/music/Rich+Brian/_/100+Degrees)
-* [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)<!-- LASTFM:END -->
+* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
