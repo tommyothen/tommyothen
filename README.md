@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SKURT — Россия хочет жестче](https://www.last.fm/music/SKURT/_/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%D1%85%D0%BE%D1%87%D0%B5%D1%82+%D0%B6%D0%B5%D1%81%D1%82%D1%87%D0%B5)
+* [uglyboy — 220 Вольт](https://www.last.fm/music/uglyboy/_/220+%D0%92%D0%BE%D0%BB%D1%8C%D1%82)
+* [The Animebit — TILTBOY](https://www.last.fm/music/The+Animebit/_/TILTBOY)
 * [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
-* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
-* [AMpm — more](https://www.last.fm/music/AMpm/_/more)
-* [Magic Circuit — Slip](https://www.last.fm/music/Magic+Circuit/_/Slip)
-* [Colliding With Mars — the cutest girl in hell](https://www.last.fm/music/Colliding+With+Mars/_/the+cutest+girl+in+hell)<!-- LASTFM:END -->
+* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
