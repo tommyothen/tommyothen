@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
+* [Eden — XO](https://www.last.fm/music/Eden/_/XO)
+* [blackbear — idfc](https://www.last.fm/music/blackbear/_/idfc)
 * [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
-* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
-* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
-* [Headhaunter — Intergalasstic II](https://www.last.fm/music/Headhaunter/_/Intergalasstic+II)
-* [88Rising — History](https://www.last.fm/music/88Rising/_/History)<!-- LASTFM:END -->
+* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
