@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [dasu — 5 O](https://www.last.fm/music/dasu/_/5+O)
+* [hitorie — 日常と地球の額縁](https://www.last.fm/music/hitorie/_/%E6%97%A5%E5%B8%B8%E3%81%A8%E5%9C%B0%E7%90%83%E3%81%AE%E9%A1%8D%E7%B8%81)
 * [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
 * [Yameii Online — Take Wrisks](https://www.last.fm/music/Yameii+Online/_/Take+Wrisks)
-* [Eden — Painful](https://www.last.fm/music/Eden/_/Painful)
-* [Vickeblanka — Broken](https://www.last.fm/music/Vickeblanka/_/Broken)
-* [Cloudfodder — My Ugly](https://www.last.fm/music/Cloudfodder/_/My+Ugly)<!-- LASTFM:END -->
+* [Eden — Painful](https://www.last.fm/music/Eden/_/Painful)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
