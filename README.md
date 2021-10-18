@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
+* [Headhaunter — Intergalasstic II](https://www.last.fm/music/Headhaunter/_/Intergalasstic+II)
+* [88Rising — History](https://www.last.fm/music/88Rising/_/History)
 * [Feduk — Моряк](https://www.last.fm/music/Feduk/_/%D0%9C%D0%BE%D1%80%D1%8F%D0%BA)
-* [Stephen — Play Me Like a Violin](https://www.last.fm/music/Stephen/_/Play+Me+Like+a+Violin)
-* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
-* [Samsa — butterflies](https://www.last.fm/music/Samsa/_/butterflies)
-* [love-sadKiD — Vinyl](https://www.last.fm/music/love-sadKiD/_/Vinyl)<!-- LASTFM:END -->
+* [Stephen — Play Me Like a Violin](https://www.last.fm/music/Stephen/_/Play+Me+Like+a+Violin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
