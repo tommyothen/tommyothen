@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [blackbear — Short Kings Anthem](https://www.last.fm/music/blackbear/_/Short+Kings+Anthem)
-* [love-sadKiD — Cash](https://www.last.fm/music/love-sadKiD/_/Cash)
-* [88Rising — Gold Coast](https://www.last.fm/music/88Rising/_/Gold+Coast)
-* [Atlas — valentine (prod. flavors)](https://www.last.fm/music/Atlas/_/valentine+(prod.+flavors))
-* [D-Real [愛] — Interstellar Love Story](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Interstellar+Love+Story)<!-- LASTFM:END -->
+* [ABSRDST — Do The Runaround](https://www.last.fm/music/ABSRDST/_/Do+The+Runaround)
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
+* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
+* [Eden — C'est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
+* [Jarv & Thief — Lady Killer](https://www.last.fm/music/Jarv+&+Thief/_/Lady+Killer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
