@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Donovan Melero — Odd Reasons](https://www.last.fm/music/Donovan+Melero/_/Odd+Reasons)
 * [Salina Killa — Mile High](https://www.last.fm/music/Salina+Killa/_/Mile+High)
 * [SKURT — Забываю тебя](https://www.last.fm/music/SKURT/_/%D0%97%D0%B0%D0%B1%D1%8B%D0%B2%D0%B0%D1%8E+%D1%82%D0%B5%D0%B1%D1%8F)
 * [ZAPRAVKA — Батя](https://www.last.fm/music/ZAPRAVKA/_/%D0%91%D0%B0%D1%82%D1%8F)
-* [Sid — Toxin](https://www.last.fm/music/Sid/_/Toxin)
-* [[AMATORY] — Нож](https://www.last.fm/music/%5BAMATORY%5D/_/%D0%9D%D0%BE%D0%B6)<!-- LASTFM:END -->
+* [Sid — Toxin](https://www.last.fm/music/Sid/_/Toxin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
