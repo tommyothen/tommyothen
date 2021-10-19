@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Denton — Weekly](https://www.last.fm/music/Denton/_/Weekly)
-* [焚吐 — ナンバーツー](https://www.last.fm/music/%E7%84%9A%E5%90%90/_/%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%84%E3%83%BC)
-* [Donovan Melero — Odd Reasons](https://www.last.fm/music/Donovan+Melero/_/Odd+Reasons)
-* [Salina Killa — Mile High](https://www.last.fm/music/Salina+Killa/_/Mile+High)
-* [SKURT — Забываю тебя](https://www.last.fm/music/SKURT/_/%D0%97%D0%B0%D0%B1%D1%8B%D0%B2%D0%B0%D1%8E+%D1%82%D0%B5%D0%B1%D1%8F)<!-- LASTFM:END -->
+* [ITSOKTOCRY — DEADSET RADIO FUTURE](https://www.last.fm/music/ITSOKTOCRY/_/DEADSET+RADIO+FUTURE)
+* [Byemilo — Bleep Freestyle](https://www.last.fm/music/Byemilo/_/Bleep+Freestyle)
+* [Lil Xtra — Sober](https://www.last.fm/music/Lil+Xtra/_/Sober)
+* [Lil Xtra — Sober](https://www.last.fm/music/Lil+Xtra/_/Sober)
+* [Denton — Weekly](https://www.last.fm/music/Denton/_/Weekly)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
