@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [(K)NoW_NAME — So HUNGRY](https://www.last.fm/music/(K)NoW_NAME/_/So+HUNGRY)
+* [LUCAS LEX — rooom impulse](https://www.last.fm/music/LUCAS+LEX/_/rooom+impulse)
+* [Hakobune — VERITAS](https://www.last.fm/music/Hakobune/_/VERITAS)
 * [Vickeblanka — Broken](https://www.last.fm/music/Vickeblanka/_/Broken)
-* [Boltex — Space](https://www.last.fm/music/Boltex/_/Space)
-* [Silica Gel — Kyo181](https://www.last.fm/music/Silica+Gel/_/Kyo181)
-* [ITSOKTOCRY — DEADSET RADIO FUTURE](https://www.last.fm/music/ITSOKTOCRY/_/DEADSET+RADIO+FUTURE)
-* [Byemilo — Bleep Freestyle](https://www.last.fm/music/Byemilo/_/Bleep+Freestyle)<!-- LASTFM:END -->
+* [Boltex — Space](https://www.last.fm/music/Boltex/_/Space)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
