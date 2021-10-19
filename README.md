@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
+* [Peter France — 420-666-6969](https://www.last.fm/music/Peter+France/_/420-666-6969)
 * [(K)NoW_NAME — So HUNGRY](https://www.last.fm/music/(K)NoW_NAME/_/So+HUNGRY)
 * [LUCAS LEX — rooom impulse](https://www.last.fm/music/LUCAS+LEX/_/rooom+impulse)
-* [Hakobune — VERITAS](https://www.last.fm/music/Hakobune/_/VERITAS)
-* [Vickeblanka — Broken](https://www.last.fm/music/Vickeblanka/_/Broken)
-* [Boltex — Space](https://www.last.fm/music/Boltex/_/Space)<!-- LASTFM:END -->
+* [Hakobune — VERITAS](https://www.last.fm/music/Hakobune/_/VERITAS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
