@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))
+* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
 * [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
-* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
-* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
