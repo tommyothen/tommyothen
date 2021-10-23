@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [1NONLY — Doc Martens](https://www.last.fm/music/1NONLY/_/Doc+Martens)
-* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
-* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
+* [Freddie Dredd — GTG](https://www.last.fm/music/Freddie+Dredd/_/GTG)
 * [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
-* [1NONLY — Bunny Girl](https://www.last.fm/music/1NONLY/_/Bunny+Girl)<!-- LASTFM:END -->
+* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
+* [1NONLY — Doc Martens](https://www.last.fm/music/1NONLY/_/Doc+Martens)
+* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
