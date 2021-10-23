@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [1NONLY — Doc Martens](https://www.last.fm/music/1NONLY/_/Doc+Martens)
+* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
 * [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
 * [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
-* [1NONLY — Bunny Girl](https://www.last.fm/music/1NONLY/_/Bunny+Girl)
-* [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
-* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)<!-- LASTFM:END -->
+* [1NONLY — Bunny Girl](https://www.last.fm/music/1NONLY/_/Bunny+Girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
