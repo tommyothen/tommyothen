@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
-* [1NONLY — goth bitch](https://www.last.fm/music/1NONLY/_/goth+bitch)
-* [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
-* [1NONLY — Fuck You!](https://www.last.fm/music/1NONLY/_/Fuck+You!)<!-- LASTFM:END -->
+* [1NONLY — Bunny Girl](https://www.last.fm/music/1NONLY/_/Bunny+Girl)
+* [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
+* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
+* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
