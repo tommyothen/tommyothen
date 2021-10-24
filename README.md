@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
-* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
 * [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
-* [Tove Lo — disco tits](https://www.last.fm/music/Tove+Lo/_/disco+tits)
-* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)<!-- LASTFM:END -->
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
+* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
+* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
