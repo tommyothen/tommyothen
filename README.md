@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [1NONLY — Ash Kaashh](https://www.last.fm/music/1NONLY/_/Ash+Kaashh)
-* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
-* [1NONLY — Bunny Girl](https://www.last.fm/music/1NONLY/_/Bunny+Girl)
-* [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
+* [Corpse — agoraphobic](https://www.last.fm/music/Corpse/_/agoraphobic)
+* [Machine Gun Kelly — DAYWALKER! (feat. Corpse)](https://www.last.fm/music/Machine+Gun+Kelly/_/DAYWALKER!+(feat.+Corpse))
+* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
+* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
 * [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
