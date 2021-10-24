@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
+* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
 * [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
 * [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
-* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
-* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)<!-- LASTFM:END -->
+* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
