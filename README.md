@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
 * [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
 * [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
 * [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
-* [Sasha Alex Sloan — Lie](https://www.last.fm/music/Sasha+Alex+Sloan/_/Lie)
-* [5 Seconds of Summer — Kill My Time](https://www.last.fm/music/5+Seconds+of+Summer/_/Kill+My+Time)<!-- LASTFM:END -->
+* [Sasha Alex Sloan — Lie](https://www.last.fm/music/Sasha+Alex+Sloan/_/Lie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
