@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
 * [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
 * [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
 * [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
-* [Monsieur Periné — Nuestra Canción](https://www.last.fm/music/Monsieur+Perin%C3%A9/_/Nuestra+Canci%C3%B3n)
-* [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))<!-- LASTFM:END -->
+* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
