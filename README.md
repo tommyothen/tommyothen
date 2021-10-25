@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
+* [Galantis — Only A Fool (with Pink Sweat$)](https://www.last.fm/music/Galantis/_/Only+A+Fool+(with+Pink+Sweat$))
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
 * [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
-* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
-* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
-* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)<!-- LASTFM:END -->
+* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
