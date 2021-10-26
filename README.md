@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [1 800 PAIN — CRACK](https://www.last.fm/music/1+800+PAIN/_/CRACK)
+* [Madge — Ethanol](https://www.last.fm/music/Madge/_/Ethanol)
+* [Life After Youth — beetlejuicebeetlejuicebeetlejuice](https://www.last.fm/music/Life+After+Youth/_/beetlejuicebeetlejuicebeetlejuice)
 * [maxime. — bonnie ‎n ‎clyde](https://www.last.fm/music/maxime./_/bonnie+%E2%80%8En+%E2%80%8Eclyde)
-* [Noel — Crow](https://www.last.fm/music/Noel/_/Crow)
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
-* [Elio — hurts 2 hate somebody (with Chase Atlantic & No Rome)](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+(with+Chase+Atlantic+&+No+Rome))
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)<!-- LASTFM:END -->
+* [Noel — Crow](https://www.last.fm/music/Noel/_/Crow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
