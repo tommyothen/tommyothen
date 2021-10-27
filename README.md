@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Troye Sivan — Easy (with Kacey Musgraves feat. Mark Ronson)](https://www.last.fm/music/Troye+Sivan/_/Easy+(with+Kacey+Musgraves+feat.+Mark+Ronson))
 * [Benny Blanco — You (with Marshmello & Vance Joy)](https://www.last.fm/music/Benny+Blanco/_/You+(with+Marshmello+&+Vance+Joy))
 * [Zedd — Inside Out (feat. Griff)](https://www.last.fm/music/Zedd/_/Inside+Out+(feat.+Griff))
 * [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
-* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
-* [Bring Me the Horizon — Kingslayer (feat. BABYMETAL)](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+(feat.+BABYMETAL))<!-- LASTFM:END -->
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
