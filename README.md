@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cute Girls Doing Cute Things — Too Spicy](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/Too+Spicy)
+* [Kamaara — TrenchWorld](https://www.last.fm/music/Kamaara/_/TrenchWorld)
 * [Serena Isioma — Stop Calling The Police On Me](https://www.last.fm/music/Serena+Isioma/_/Stop+Calling+The+Police+On+Me)
 * [Mickey Darling — Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl)
-* [A子 — drug](https://www.last.fm/music/A%E5%AD%90/_/drug)
-* [1 800 PAIN — CRACK](https://www.last.fm/music/1+800+PAIN/_/CRACK)
-* [Madge — Ethanol](https://www.last.fm/music/Madge/_/Ethanol)<!-- LASTFM:END -->
+* [A子 — drug](https://www.last.fm/music/A%E5%AD%90/_/drug)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
