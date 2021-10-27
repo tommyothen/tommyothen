@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Madge — Ethanol](https://www.last.fm/music/Madge/_/Ethanol)
+* [Life After Youth — beetlejuicebeetlejuicebeetlejuice](https://www.last.fm/music/Life+After+Youth/_/beetlejuicebeetlejuicebeetlejuice)
 * [maxime. — bonnie ‎n ‎clyde](https://www.last.fm/music/maxime./_/bonnie+%E2%80%8En+%E2%80%8Eclyde)
 * [Noel — Crow](https://www.last.fm/music/Noel/_/Crow)
-* [Softwilly — B.O.Y.S.N.E.X.T.D.O.O.R.](https://www.last.fm/music/Softwilly/_/B.O.Y.S.N.E.X.T.D.O.O.R.)
-* [Softwilly — #FreeRobuxIfYouShareSong_draft_v2](https://www.last.fm/music/Softwilly/_/%23FreeRobuxIfYouShareSong_draft_v2)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)<!-- LASTFM:END -->
+* [Softwilly — B.O.Y.S.N.E.X.T.D.O.O.R.](https://www.last.fm/music/Softwilly/_/B.O.Y.S.N.E.X.T.D.O.O.R.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
