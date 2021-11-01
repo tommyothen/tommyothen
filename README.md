@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
+* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
 * [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
 * [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)
-* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)<!-- LASTFM:END -->
+* [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
