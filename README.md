@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)
+* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
 * [Billie Eilish — goodbye](https://www.last.fm/music/Billie+Eilish/_/goodbye)
 * [Eden Project — The Fire](https://www.last.fm/music/Eden+Project/_/The+Fire)
-* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
-* [D-Real [愛] — Zero Two](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Zero+Two)
-* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)<!-- LASTFM:END -->
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
