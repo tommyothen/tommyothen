@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tatarka — KAWAII](https://www.last.fm/music/Tatarka/_/KAWAII)
-* [ADA ROOK — sardonica](https://www.last.fm/music/ADA+ROOK/_/sardonica)
-* [Cami Petyn — Tired](https://www.last.fm/music/Cami+Petyn/_/Tired)
-* [Duckwrth — RUUUN](https://www.last.fm/music/Duckwrth/_/RUUUN)
-* [Kent Osborne — CLOWN!](https://www.last.fm/music/Kent+Osborne/_/CLOWN!)<!-- LASTFM:END -->
+* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
+* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
+* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
