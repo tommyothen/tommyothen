@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)
+* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
 * [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)
 * [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)
-* [Mallrat — Nobody's Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
-* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)<!-- LASTFM:END -->
+* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
