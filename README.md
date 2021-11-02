@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
+* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
 * [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)
-* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
-* [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)<!-- LASTFM:END -->
+* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
