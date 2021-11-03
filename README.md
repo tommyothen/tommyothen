@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [serin oh — mm+i](https://www.last.fm/music/serin+oh/_/mm%252Bi)
+* [Aurora — Cure For Me](https://www.last.fm/music/Aurora/_/Cure+For+Me)
 * [Retro Nicotine — P.T.S.D.](https://www.last.fm/music/Retro+Nicotine/_/P.T.S.D.)
 * [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)
-* [Inverness — Toxic](https://www.last.fm/music/Inverness/_/Toxic)
-* [シベール (Vo. Maika Loubte) — La ballade](https://www.last.fm/music/%E3%82%B7%E3%83%99%E3%83%BC%E3%83%AB+(Vo.+Maika+Loubte)/_/La+ballade)
-* [punchnello — Absinthe (Prod. by 0channel, 2xxx!)](https://www.last.fm/music/punchnello/_/Absinthe+(Prod.+by+0channel,+2xxx!))<!-- LASTFM:END -->
+* [Inverness — Toxic](https://www.last.fm/music/Inverness/_/Toxic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
