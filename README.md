@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [punchnello — Absinthe (Prod. by 0channel, 2xxx!)](https://www.last.fm/music/punchnello/_/Absinthe+(Prod.+by+0channel,+2xxx!))
+* [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
+* [MIA GLADSTONE — FOOD](https://www.last.fm/music/MIA+GLADSTONE/_/FOOD)
 * [BIM — Non Fiction feat. No Buses](https://www.last.fm/music/BIM/_/Non+Fiction+feat.+No+Buses)
-* [Lucian — Trip to California](https://www.last.fm/music/Lucian/_/Trip+to+California)
-* [Grandma — Bested](https://www.last.fm/music/Grandma/_/Bested)
-* [Orchards — Be Here](https://www.last.fm/music/Orchards/_/Be+Here)
-* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)<!-- LASTFM:END -->
+* [Lucian — Trip to California](https://www.last.fm/music/Lucian/_/Trip+to+California)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
