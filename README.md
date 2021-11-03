@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
 * [stargaze shelter — emulation (mode:totonee)](https://www.last.fm/music/stargaze+shelter/_/emulation+(mode:totonee))
 * [Michelle — THE BOTTOM](https://www.last.fm/music/Michelle/_/THE+BOTTOM)
 * [Hunny — Xbox Luvr](https://www.last.fm/music/Hunny/_/Xbox+Luvr)
-* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
-* [serin oh — mm+i](https://www.last.fm/music/serin+oh/_/mm%252Bi)<!-- LASTFM:END -->
+* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
