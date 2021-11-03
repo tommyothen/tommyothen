@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)
+* [Gesu No Kiwami Otome — sad but sweet](https://www.last.fm/music/Gesu+No+Kiwami+Otome/_/sad+but+sweet)
+* [Stella Jang — Villain](https://www.last.fm/music/Stella+Jang/_/Villain)
 * [AAAMYYY — 屍を越えてゆけ](https://www.last.fm/music/AAAMYYY/_/%E5%B1%8D%E3%82%92%E8%B6%8A%E3%81%88%E3%81%A6%E3%82%86%E3%81%91)
-* [Lubalin — long txts](https://www.last.fm/music/Lubalin/_/long+txts)
-* [Polkadot Stingray — ICHIDAIJI](https://www.last.fm/music/Polkadot+Stingray/_/ICHIDAIJI)
-* [Shin Sakiura — NIGHT RUNNING](https://www.last.fm/music/Shin+Sakiura/_/NIGHT+RUNNING)
-* [LCYTN — Ride](https://www.last.fm/music/LCYTN/_/Ride)<!-- LASTFM:END -->
+* [Lubalin — long txts](https://www.last.fm/music/Lubalin/_/long+txts)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
