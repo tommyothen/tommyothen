@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
+* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
 * [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)
-* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
-* [Injury Reserve — Jailbreak the Tesla (feat. Aminé)](https://www.last.fm/music/Injury+Reserve/_/Jailbreak+the+Tesla+(feat.+Amin%C3%A9))
-* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
+* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
