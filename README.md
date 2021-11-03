@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shin Sakiura — NIGHT RUNNING](https://www.last.fm/music/Shin+Sakiura/_/NIGHT+RUNNING)
+* [LCYTN — Ride](https://www.last.fm/music/LCYTN/_/Ride)
 * [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)
 * [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)
-* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
-* [CHANMINA — BIJIN](https://www.last.fm/music/CHANMINA/_/BIJIN)
-* [stargaze shelter — emulation (mode:totonee)](https://www.last.fm/music/stargaze+shelter/_/emulation+(mode:totonee))<!-- LASTFM:END -->
+* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
