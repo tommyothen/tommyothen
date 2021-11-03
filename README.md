@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [stargaze shelter — emulation (mode:totonee)](https://www.last.fm/music/stargaze+shelter/_/emulation+(mode:totonee))
+* [Michelle — THE BOTTOM](https://www.last.fm/music/Michelle/_/THE+BOTTOM)
 * [Hunny — Xbox Luvr](https://www.last.fm/music/Hunny/_/Xbox+Luvr)
 * [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
-* [serin oh — mm+i](https://www.last.fm/music/serin+oh/_/mm%252Bi)
-* [Aurora — Cure For Me](https://www.last.fm/music/Aurora/_/Cure+For+Me)
-* [Retro Nicotine — P.T.S.D.](https://www.last.fm/music/Retro+Nicotine/_/P.T.S.D.)<!-- LASTFM:END -->
+* [serin oh — mm+i](https://www.last.fm/music/serin+oh/_/mm%252Bi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
