@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)
 * [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
 * [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)
-* [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)
-* [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)
-* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)<!-- LASTFM:END -->
+* [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
