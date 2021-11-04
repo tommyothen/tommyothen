@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Young Thug — What's the Move (feat. Lil Uzi Vert)](https://www.last.fm/music/Young+Thug/_/What%27s+the+Move+(feat.+Lil+Uzi+Vert))
+* [Kodak Black — Gnarly (feat. Lil Pump)](https://www.last.fm/music/Kodak+Black/_/Gnarly+(feat.+Lil+Pump))
 * [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
 * [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)
-* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)<!-- LASTFM:END -->
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
