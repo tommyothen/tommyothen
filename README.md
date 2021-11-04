@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Uzi Vert — Neon Guts (feat. Pharrell Williams)](https://www.last.fm/music/Lil+Uzi+Vert/_/Neon+Guts+(feat.+Pharrell+Williams))
+* [Trippie Redd — BETRAYAL (feat. Drake)](https://www.last.fm/music/Trippie+Redd/_/BETRAYAL+(feat.+Drake))
 * [Juice WRLD — Rich and Blind](https://www.last.fm/music/Juice+WRLD/_/Rich+and+Blind)
 * [21 Savage — Numb](https://www.last.fm/music/21+Savage/_/Numb)
-* [Max Korzh — Контрольный](https://www.last.fm/music/Max+Korzh/_/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9)
-* [Young Thug — What's the Move (feat. Lil Uzi Vert)](https://www.last.fm/music/Young+Thug/_/What%27s+the+Move+(feat.+Lil+Uzi+Vert))
-* [Kodak Black — Gnarly (feat. Lil Pump)](https://www.last.fm/music/Kodak+Black/_/Gnarly+(feat.+Lil+Pump))<!-- LASTFM:END -->
+* [Max Korzh — Контрольный](https://www.last.fm/music/Max+Korzh/_/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
