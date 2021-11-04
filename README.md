@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Mosey — So Fast](https://www.last.fm/music/Lil+Mosey/_/So+Fast)
+* [Kodak Black — ZEZE (feat. Travis Scott & Offset)](https://www.last.fm/music/Kodak+Black/_/ZEZE+(feat.+Travis+Scott+&+Offset))
+* [Kizaru — Block Baby](https://www.last.fm/music/Kizaru/_/Block+Baby)
 * [Lil Skies — Strictly Business](https://www.last.fm/music/Lil+Skies/_/Strictly+Business)
-* [NLE Choppa — Mmm Hmm](https://www.last.fm/music/NLE+Choppa/_/Mmm+Hmm)
-* [Lil Uzi Vert — Chrome Heart Tags](https://www.last.fm/music/Lil+Uzi+Vert/_/Chrome+Heart+Tags)
-* [Tyla Yaweh — Salute (feat. French Montana)](https://www.last.fm/music/Tyla+Yaweh/_/Salute+(feat.+French+Montana))
-* [Lil Uzi Vert — Neon Guts (feat. Pharrell Williams)](https://www.last.fm/music/Lil+Uzi+Vert/_/Neon+Guts+(feat.+Pharrell+Williams))<!-- LASTFM:END -->
+* [NLE Choppa — Mmm Hmm](https://www.last.fm/music/NLE+Choppa/_/Mmm+Hmm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
