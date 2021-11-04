@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Black Eyed Peas — I Gotta Feeling](https://www.last.fm/music/Black+Eyed+Peas/_/I+Gotta+Feeling)
+* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
 * [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
 * [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
-* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)
-* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
-* [Dizzee Rascal — Bonkers](https://www.last.fm/music/Dizzee+Rascal/_/Bonkers)<!-- LASTFM:END -->
+* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
