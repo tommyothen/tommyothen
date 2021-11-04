@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katy Perry — Last Friday Night (T.G.I.F.)](https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+(T.G.I.F.))
 * [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)
 * [Internet Money — Somebody](https://www.last.fm/music/Internet+Money/_/Somebody)
 * [Lil Uzi Vert — Come This Way](https://www.last.fm/music/Lil+Uzi+Vert/_/Come+This+Way)
-* [Lil Mosey — So Fast](https://www.last.fm/music/Lil+Mosey/_/So+Fast)
-* [Kodak Black — ZEZE (feat. Travis Scott & Offset)](https://www.last.fm/music/Kodak+Black/_/ZEZE+(feat.+Travis+Scott+&+Offset))<!-- LASTFM:END -->
+* [Lil Mosey — So Fast](https://www.last.fm/music/Lil+Mosey/_/So+Fast)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
