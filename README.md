@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [C418 — Cat](https://www.last.fm/music/C418/_/Cat)
+* [C418 — Wait](https://www.last.fm/music/C418/_/Wait)
+* [C418 — Subwoofer Lullaby](https://www.last.fm/music/C418/_/Subwoofer+Lullaby)
 * [C418 — Sweden](https://www.last.fm/music/C418/_/Sweden)
-* [C418 — Stal](https://www.last.fm/music/C418/_/Stal)
-* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
-* [Princess Nokia — Gemini](https://www.last.fm/music/Princess+Nokia/_/Gemini)
-* [KYLE — Don't Wanna Fall In Love](https://www.last.fm/music/KYLE/_/Don%27t+Wanna+Fall+In+Love)<!-- LASTFM:END -->
+* [C418 — Stal](https://www.last.fm/music/C418/_/Stal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
