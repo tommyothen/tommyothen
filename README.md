@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)
+* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
 * [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)
-* [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
-* [LCYTN — Ride](https://www.last.fm/music/LCYTN/_/Ride)
-* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)<!-- LASTFM:END -->
+* [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
