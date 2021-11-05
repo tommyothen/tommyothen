@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)
-* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
-* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
-* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)<!-- LASTFM:END -->
+* [Polkadot Stingray — ICHIDAIJI](https://www.last.fm/music/Polkadot+Stingray/_/ICHIDAIJI)
+* [Shin Sakiura — NIGHT RUNNING](https://www.last.fm/music/Shin+Sakiura/_/NIGHT+RUNNING)
+* [LCYTN — Ride](https://www.last.fm/music/LCYTN/_/Ride)
+* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)
+* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
