@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kavka Shishido — ラヴコリーダ](https://www.last.fm/music/Kavka+Shishido/_/%E3%83%A9%E3%83%B4%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%80)
+* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
+* [Red Velvet - IRENE & SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&+SEULGI/_/Naughty)
 * [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
-* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
-* [Royal & the Serpent — i can't get high](https://www.last.fm/music/Royal+&+the+Serpent/_/i+can%27t+get+high)<!-- LASTFM:END -->
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
