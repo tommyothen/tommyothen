@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
-* [serin oh — mm+i](https://www.last.fm/music/serin+oh/_/mm%252Bi)
-* [Aurora — Cure For Me](https://www.last.fm/music/Aurora/_/Cure+For+Me)
-* [Retro Nicotine — P.T.S.D.](https://www.last.fm/music/Retro+Nicotine/_/P.T.S.D.)
-* [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)<!-- LASTFM:END -->
+* [LCYTN — Ride](https://www.last.fm/music/LCYTN/_/Ride)
+* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)
+* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)
+* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
+* [CHANMINA — BIJIN](https://www.last.fm/music/CHANMINA/_/BIJIN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
