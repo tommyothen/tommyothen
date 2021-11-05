@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [C418 — Sweden](https://www.last.fm/music/C418/_/Sweden)
+* [C418 — Stal](https://www.last.fm/music/C418/_/Stal)
+* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
 * [Princess Nokia — Gemini](https://www.last.fm/music/Princess+Nokia/_/Gemini)
-* [KYLE — Don't Wanna Fall In Love](https://www.last.fm/music/KYLE/_/Don%27t+Wanna+Fall+In+Love)
-* [JVKE — this is what falling in love feels like](https://www.last.fm/music/JVKE/_/this+is+what+falling+in+love+feels+like)
-* [The Walters — I Love You So](https://www.last.fm/music/The+Walters/_/I+Love+You+So)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)<!-- LASTFM:END -->
+* [KYLE — Don't Wanna Fall In Love](https://www.last.fm/music/KYLE/_/Don%27t+Wanna+Fall+In+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
