@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Stella Jang — Villain](https://www.last.fm/music/Stella+Jang/_/Villain)
-* [AAAMYYY — 屍を越えてゆけ](https://www.last.fm/music/AAAMYYY/_/%E5%B1%8D%E3%82%92%E8%B6%8A%E3%81%88%E3%81%A6%E3%82%86%E3%81%91)
-* [Lubalin — long txts](https://www.last.fm/music/Lubalin/_/long+txts)
-* [Polkadot Stingray — ICHIDAIJI](https://www.last.fm/music/Polkadot+Stingray/_/ICHIDAIJI)
-* [Shin Sakiura — NIGHT RUNNING](https://www.last.fm/music/Shin+Sakiura/_/NIGHT+RUNNING)<!-- LASTFM:END -->
+* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
+* [serin oh — mm+i](https://www.last.fm/music/serin+oh/_/mm%252Bi)
+* [Aurora — Cure For Me](https://www.last.fm/music/Aurora/_/Cure+For+Me)
+* [Retro Nicotine — P.T.S.D.](https://www.last.fm/music/Retro+Nicotine/_/P.T.S.D.)
+* [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
