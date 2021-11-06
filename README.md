@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Halberd — basement](https://www.last.fm/music/Halberd/_/basement)
-* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
-* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
-* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
-* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)<!-- LASTFM:END -->
+* [The Reytons — On The Back Burner](https://www.last.fm/music/The+Reytons/_/On+The+Back+Burner)
+* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
+* [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
+* [Miki Matsubara — Mayonaka no Door / Stay With Me](https://www.last.fm/music/Miki+Matsubara/_/Mayonaka+no+Door+%2F+Stay+With+Me)
+* [Halberd — basement](https://www.last.fm/music/Halberd/_/basement)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
