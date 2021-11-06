@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
+* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
 * [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)
 * [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)<!-- LASTFM:END -->
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
