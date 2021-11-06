@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [The Reytons — On The Back Burner](https://www.last.fm/music/The+Reytons/_/On+The+Back+Burner)
-* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
-* [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
-* [Miki Matsubara — Mayonaka no Door / Stay With Me](https://www.last.fm/music/Miki+Matsubara/_/Mayonaka+no+Door+%2F+Stay+With+Me)
-* [Halberd — basement](https://www.last.fm/music/Halberd/_/basement)<!-- LASTFM:END -->
+* [Billie Eilish — you should see me in a crown](https://www.last.fm/music/Billie+Eilish/_/you+should+see+me+in+a+crown)
+* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
+* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
+* [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)
+* [Bea Miller — FEEL SOMETHING DIFFERENT](https://www.last.fm/music/Bea+Miller/_/FEEL+SOMETHING+DIFFERENT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
