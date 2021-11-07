@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)
-* [Cao White — Hai Domo](https://www.last.fm/music/Cao+White/_/Hai+Domo)
-* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
-* [Bliss n Eso — Tear The Roof Off (feat. Watsky)](https://www.last.fm/music/Bliss+n+Eso/_/Tear+The+Roof+Off+(feat.+Watsky))
-* [The Prototypes — Kill The Silence](https://www.last.fm/music/The+Prototypes/_/Kill+The+Silence)<!-- LASTFM:END -->
+* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
+* [Payday — I Don't Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
+* [Lofi.Samurai — already dead](https://www.last.fm/music/Lofi.Samurai/_/already+dead)
+* [demxntia — why do i try](https://www.last.fm/music/demxntia/_/why+do+i+try)
+* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
