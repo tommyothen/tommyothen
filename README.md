@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)
+* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
 * [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)
 * [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
-* [Niki — Lose](https://www.last.fm/music/Niki/_/Lose)
-* [Niki — Plot Twist](https://www.last.fm/music/Niki/_/Plot+Twist)
-* [88rising — La Cienega](https://www.last.fm/music/88rising/_/La+Cienega)<!-- LASTFM:END -->
+* [Niki — Lose](https://www.last.fm/music/Niki/_/Lose)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
