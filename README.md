@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
+* [Rainych — Kiss Me More - Japanese Version](https://www.last.fm/music/Rainych/_/Kiss+Me+More+-+Japanese+Version)
+* [Willow — t r a n s p a r e n t s o u l feat. Travis Barker](https://www.last.fm/music/Willow/_/t+r+a+n+s+p+a+r+e+n+t+s+o+u+l+feat.+Travis+Barker)
 * [THE ANXIETY — Meet Me At Our Spot - Live](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot+-+Live)
-* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
-* [Injury Reserve — Jailbreak the Tesla (feat. Aminé)](https://www.last.fm/music/Injury+Reserve/_/Jailbreak+the+Tesla+(feat.+Amin%C3%A9))
-* [Ski Mask the Slump God — Foot Fungus](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/Foot+Fungus)
-* [Kanye West — Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)<!-- LASTFM:END -->
+* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
