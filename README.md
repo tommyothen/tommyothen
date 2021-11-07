@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [88rising — Indigo](https://www.last.fm/music/88rising/_/Indigo)
+* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)
+* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)
 * [Niki — Lose](https://www.last.fm/music/Niki/_/Lose)
-* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
-* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
-* [88Rising — Midsummer Madness](https://www.last.fm/music/88Rising/_/Midsummer+Madness)
-* [Samsa — haunt me](https://www.last.fm/music/Samsa/_/haunt+me)<!-- LASTFM:END -->
+* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
