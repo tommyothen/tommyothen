@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jid — Workin Out](https://www.last.fm/music/Jid/_/Workin+Out)
+* [meltycanon — brittle (wake up)](https://www.last.fm/music/meltycanon/_/brittle+(wake+up))
+* [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)
 * [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
-* [Rainych — Kiss Me More - Japanese Version](https://www.last.fm/music/Rainych/_/Kiss+Me+More+-+Japanese+Version)
-* [Willow — t r a n s p a r e n t s o u l feat. Travis Barker](https://www.last.fm/music/Willow/_/t+r+a+n+s+p+a+r+e+n+t+s+o+u+l+feat.+Travis+Barker)
-* [THE ANXIETY — Meet Me At Our Spot - Live](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot+-+Live)
-* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)<!-- LASTFM:END -->
+* [Rainych — Kiss Me More - Japanese Version](https://www.last.fm/music/Rainych/_/Kiss+Me+More+-+Japanese+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
