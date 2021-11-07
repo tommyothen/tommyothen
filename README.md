@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Great Good Fine OK — Take It or Leave It](https://www.last.fm/music/Great+Good+Fine+OK/_/Take+It+or+Leave+It)
 * [PINK GUY — Fried Noodles (Getter Remix)](https://www.last.fm/music/PINK+GUY/_/Fried+Noodles+(Getter+Remix))
 * [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
 * [Young Lungs — '97 Leo 2](https://www.last.fm/music/Young+Lungs/_/%2797+Leo+2)
-* [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)
-* [Jakey — Not Dead Yet](https://www.last.fm/music/Jakey/_/Not+Dead+Yet)<!-- LASTFM:END -->
+* [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
