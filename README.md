@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Prototypes — Kill The Silence](https://www.last.fm/music/The+Prototypes/_/Kill+The+Silence)
 * [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
 * [sophie meiers — Evil Presence](https://www.last.fm/music/sophie+meiers/_/Evil+Presence)
 * [Eden — 909](https://www.last.fm/music/Eden/_/909)
-* [Great Good Fine OK — Take It or Leave It](https://www.last.fm/music/Great+Good+Fine+OK/_/Take+It+or+Leave+It)
-* [PINK GUY — Fried Noodles (Getter Remix)](https://www.last.fm/music/PINK+GUY/_/Fried+Noodles+(Getter+Remix))<!-- LASTFM:END -->
+* [Great Good Fine OK — Take It or Leave It](https://www.last.fm/music/Great+Good+Fine+OK/_/Take+It+or+Leave+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
