@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [THE ANXIETY — Meet Me At Our Spot - Live](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot+-+Live)
+* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
 * [Injury Reserve — Jailbreak the Tesla (feat. Aminé)](https://www.last.fm/music/Injury+Reserve/_/Jailbreak+the+Tesla+(feat.+Amin%C3%A9))
 * [Ski Mask the Slump God — Foot Fungus](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/Foot+Fungus)
-* [Kanye West — Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)
-* [jdam — Problem](https://www.last.fm/music/jdam/_/Problem)
-* [Haywyre — Never Count On Me](https://www.last.fm/music/Haywyre/_/Never+Count+On+Me)<!-- LASTFM:END -->
+* [Kanye West — Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
