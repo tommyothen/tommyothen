@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Injury Reserve — Jailbreak the Tesla (feat. Aminé)](https://www.last.fm/music/Injury+Reserve/_/Jailbreak+the+Tesla+(feat.+Amin%C3%A9))
+* [Ski Mask the Slump God — Foot Fungus](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/Foot+Fungus)
 * [Kanye West — Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)
 * [jdam — Problem](https://www.last.fm/music/jdam/_/Problem)
-* [Haywyre — Never Count On Me](https://www.last.fm/music/Haywyre/_/Never+Count+On+Me)
-* [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)
-* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)<!-- LASTFM:END -->
+* [Haywyre — Never Count On Me](https://www.last.fm/music/Haywyre/_/Never+Count+On+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
