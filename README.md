@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Niki — Plot Twist](https://www.last.fm/music/Niki/_/Plot+Twist)
+* [88rising — La Cienega](https://www.last.fm/music/88rising/_/La+Cienega)
 * [88rising — Indigo](https://www.last.fm/music/88rising/_/Indigo)
 * [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)
-* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)
-* [Niki — Lose](https://www.last.fm/music/Niki/_/Lose)
-* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)<!-- LASTFM:END -->
+* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
