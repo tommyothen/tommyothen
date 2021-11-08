@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [EL SPEAKER — Never Gonna Catch Me](https://www.last.fm/music/EL+SPEAKER/_/Never+Gonna+Catch+Me)
+* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
+* [Trevor Daniel — Falling &lpar;feat. blackbear&rpar; - blackbear Remix](https://www.last.fm/music/Trevor+Daniel/_/Falling+&lpar;feat.+blackbear&rpar;+-+blackbear+Remix)
 * [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
-* [Eery — her](https://www.last.fm/music/Eery/_/her)
-* [Jeremy Zucker — better off](https://www.last.fm/music/Jeremy+Zucker/_/better+off)
-* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
+* [Eery — her](https://www.last.fm/music/Eery/_/her)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
