@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
+* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
+* [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)
 * [Coa White — akiba](https://www.last.fm/music/Coa+White/_/akiba)
-* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
-* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
-* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
-* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)<!-- LASTFM:END -->
+* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
