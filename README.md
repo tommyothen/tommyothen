@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ramson Badbonez — Hypnodic](https://www.last.fm/music/Ramson+Badbonez/_/Hypnodic)
+* [Ramirez — Glitter &amp; Gold](https://www.last.fm/music/Ramirez/_/Glitter+&amp;+Gold)
 * [FEDUK — АКВАРЕЛЬ](https://www.last.fm/music/FEDUK/_/%D0%90%D0%9A%D0%92%D0%90%D0%A0%D0%95%D0%9B%D0%AC)
 * [Vantage — Count What You Have Now](https://www.last.fm/music/Vantage/_/Count+What+You+Have+Now)
-* [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)
-* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
-* [Tom Misch — Disco Yes](https://www.last.fm/music/Tom+Misch/_/Disco+Yes)<!-- LASTFM:END -->
+* [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
