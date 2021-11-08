@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Away — Parasite](https://www.last.fm/music/Away/_/Parasite)
-* [Eve — LEO](https://www.last.fm/music/Eve/_/LEO)
-* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
-* [Toast — i&#39;ve been calling](https://www.last.fm/music/Toast/_/i%27ve+been+calling)
-* [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)<!-- LASTFM:END -->
+* [Bo En — love in a song - DJ HEARTBREAK ANNIHILATION MIX](https://www.last.fm/music/Bo+En/_/love+in+a+song+-+DJ+HEARTBREAK+ANNIHILATION+MIX)
+* [Aviva — HOUDINI](https://www.last.fm/music/Aviva/_/HOUDINI)
+* [Tsu Nami — Party](https://www.last.fm/music/Tsu+Nami/_/Party)
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
+* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
