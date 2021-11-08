@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Koutei Camera Girl Drei — Spree](https://www.last.fm/music/Koutei+Camera+Girl+Drei/_/Spree)
+* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
+* [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)
 * [Bo En — love in a song - DJ HEARTBREAK ANNIHILATION MIX](https://www.last.fm/music/Bo+En/_/love+in+a+song+-+DJ+HEARTBREAK+ANNIHILATION+MIX)
-* [Aviva — HOUDINI](https://www.last.fm/music/Aviva/_/HOUDINI)
-* [Tsu Nami — Party](https://www.last.fm/music/Tsu+Nami/_/Party)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)<!-- LASTFM:END -->
+* [Aviva — HOUDINI](https://www.last.fm/music/Aviva/_/HOUDINI)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
