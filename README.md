@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
+* [Aviva — HOUDINI](https://www.last.fm/music/Aviva/_/HOUDINI)
+* [Fever The Ghost — Exoflash](https://www.last.fm/music/Fever+The+Ghost/_/Exoflash)
 * [ALASKALASKA — Happyface](https://www.last.fm/music/ALASKALASKA/_/Happyface)
-* [Colde — Lighter](https://www.last.fm/music/Colde/_/Lighter)
-* [Dominic Fike — Come Here](https://www.last.fm/music/Dominic+Fike/_/Come+Here)
-* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
-* [Dios — Runaway](https://www.last.fm/music/Dios/_/Runaway)<!-- LASTFM:END -->
+* [Colde — Lighter](https://www.last.fm/music/Colde/_/Lighter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
