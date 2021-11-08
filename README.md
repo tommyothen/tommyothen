@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Koutei Camera Girl Drei — Spree](https://www.last.fm/music/Koutei+Camera+Girl+Drei/_/Spree)
-* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
-* [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)
-* [Bo En — love in a song - DJ HEARTBREAK ANNIHILATION MIX](https://www.last.fm/music/Bo+En/_/love+in+a+song+-+DJ+HEARTBREAK+ANNIHILATION+MIX)
-* [Aviva — HOUDINI](https://www.last.fm/music/Aviva/_/HOUDINI)<!-- LASTFM:END -->
+* [ALASKALASKA — Happyface](https://www.last.fm/music/ALASKALASKA/_/Happyface)
+* [Colde — Lighter](https://www.last.fm/music/Colde/_/Lighter)
+* [Dominic Fike — Come Here](https://www.last.fm/music/Dominic+Fike/_/Come+Here)
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [Dios — Runaway](https://www.last.fm/music/Dios/_/Runaway)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
