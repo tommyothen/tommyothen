@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dresage — HOLY](https://www.last.fm/music/Dresage/_/HOLY)
-* [The Knocks — Bedroom Eyes &lpar;feat. Studio Killers&rpar;](https://www.last.fm/music/The+Knocks/_/Bedroom+Eyes+&lpar;feat.+Studio+Killers&rpar;)
-* [Toast — i&#39;ve been calling](https://www.last.fm/music/Toast/_/i%27ve+been+calling)
+* [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
 * [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
-* [Aviva — HOUDINI](https://www.last.fm/music/Aviva/_/HOUDINI)<!-- LASTFM:END -->
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
+* [Dresage — HOLY](https://www.last.fm/music/Dresage/_/HOLY)
+* [The Knocks — Bedroom Eyes &lpar;feat. Studio Killers&rpar;](https://www.last.fm/music/The+Knocks/_/Bedroom+Eyes+&lpar;feat.+Studio+Killers&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
