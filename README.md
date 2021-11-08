@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)
+* [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
 * [JinSang — affection](https://www.last.fm/music/JinSang/_/affection)
 * [AMpm — more](https://www.last.fm/music/AMpm/_/more)
-* [Khary — Jolly Roger](https://www.last.fm/music/Khary/_/Jolly+Roger)
-* [D-Real [愛] — Always You](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Always+You)
-* [Varien — Mirai Sekai - Continuous Mix](https://www.last.fm/music/Varien/_/Mirai+Sekai+-+Continuous+Mix)<!-- LASTFM:END -->
+* [Khary — Jolly Roger](https://www.last.fm/music/Khary/_/Jolly+Roger)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
