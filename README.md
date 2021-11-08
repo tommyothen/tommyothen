@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [cherry beach — Gravity](https://www.last.fm/music/cherry+beach/_/Gravity)
+* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
 * [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)
 * [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
-* [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)
-* [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
-* [JinSang — affection](https://www.last.fm/music/JinSang/_/affection)<!-- LASTFM:END -->
+* [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
