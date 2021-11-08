@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
+* [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)
 * [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
 * [Kanye West — Wolves](https://www.last.fm/music/Kanye+West/_/Wolves)
-* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
-* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
-* [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)<!-- LASTFM:END -->
+* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
