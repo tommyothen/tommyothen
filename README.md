@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JinSang — affection](https://www.last.fm/music/JinSang/_/affection)
+* [AMpm — more](https://www.last.fm/music/AMpm/_/more)
+* [Khary — Jolly Roger](https://www.last.fm/music/Khary/_/Jolly+Roger)
 * [D-Real [愛] — Always You](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Always+You)
-* [Varien — Mirai Sekai - Continuous Mix](https://www.last.fm/music/Varien/_/Mirai+Sekai+-+Continuous+Mix)
-* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
-* [slowthai — terms &lpar;feat. Dominic Fike &amp; Denzel Curry&rpar;](https://www.last.fm/music/slowthai/_/terms+&lpar;feat.+Dominic+Fike+&amp;+Denzel+Curry&rpar;)
-* [Her&#39;s — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)<!-- LASTFM:END -->
+* [Varien — Mirai Sekai - Continuous Mix](https://www.last.fm/music/Varien/_/Mirai+Sekai+-+Continuous+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
