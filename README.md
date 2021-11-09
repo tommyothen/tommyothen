@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Resilia — Gambit](https://www.last.fm/music/Resilia/_/Gambit)
+* [Dios — Runaway](https://www.last.fm/music/Dios/_/Runaway)
 * [Michael Wyckoff — Tactical Trial](https://www.last.fm/music/Michael+Wyckoff/_/Tactical+Trial)
 * [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
-* [Aviva — HOUDINI](https://www.last.fm/music/Aviva/_/HOUDINI)
-* [Chapel — Mushy Gushy](https://www.last.fm/music/Chapel/_/Mushy+Gushy)
-* [8485 — southview](https://www.last.fm/music/8485/_/southview)<!-- LASTFM:END -->
+* [Aviva — HOUDINI](https://www.last.fm/music/Aviva/_/HOUDINI)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
