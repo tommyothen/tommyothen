@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
-* [Sebastian Paul — SO DONE](https://www.last.fm/music/Sebastian+Paul/_/SO+DONE)
-* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
-* [Dominic Fike — Come Here](https://www.last.fm/music/Dominic+Fike/_/Come+Here)
-* [Resilia — Gambit](https://www.last.fm/music/Resilia/_/Gambit)<!-- LASTFM:END -->
+* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
+* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
+* [Jorja Smith — On My Mind &lpar;Jorja Smith X Preditah&rpar;](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+&lpar;Jorja+Smith+X+Preditah&rpar;)
+* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
+* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
