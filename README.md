@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gleb — motorest](https://www.last.fm/music/Gleb/_/motorest)
 * [Oliver Tree — Bury Me Alive](https://www.last.fm/music/Oliver+Tree/_/Bury+Me+Alive)
 * [Eden — crash](https://www.last.fm/music/Eden/_/crash)
 * [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
-* [Hobo Johnson — Father](https://www.last.fm/music/Hobo+Johnson/_/Father)
-* [Burbank — Sorry, I Like You](https://www.last.fm/music/Burbank/_/Sorry,+I+Like+You)<!-- LASTFM:END -->
+* [Hobo Johnson — Father](https://www.last.fm/music/Hobo+Johnson/_/Father)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
