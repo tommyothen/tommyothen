@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [knowmadic — Fade](https://www.last.fm/music/knowmadic/_/Fade)
+* [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)
 * [Eden — lost//found](https://www.last.fm/music/Eden/_/lost%2F%2Ffound)
 * [Pegboard Nerds — Heaven Let Us Down](https://www.last.fm/music/Pegboard+Nerds/_/Heaven+Let+Us+Down)
-* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)
-* [Eden — stutter](https://www.last.fm/music/Eden/_/stutter)
-* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)<!-- LASTFM:END -->
+* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
