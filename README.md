@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)
+* [Pham — Movements &lpar;feat. Yung Fusion&rpar;](https://www.last.fm/music/Pham/_/Movements+&lpar;feat.+Yung+Fusion&rpar;)
 * [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
 * [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)
-* [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)
-* [Eden — Catch Me If You Can - Bonus Track](https://www.last.fm/music/Eden/_/Catch+Me+If+You+Can+-+Bonus+Track)
-* [Gleb — motorest](https://www.last.fm/music/Gleb/_/motorest)<!-- LASTFM:END -->
+* [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
