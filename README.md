@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Resilia — Gambit](https://www.last.fm/music/Resilia/_/Gambit)
-* [Dios — Runaway](https://www.last.fm/music/Dios/_/Runaway)
-* [Michael Wyckoff — Tactical Trial](https://www.last.fm/music/Michael+Wyckoff/_/Tactical+Trial)
-* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
-* [Aviva — HOUDINI](https://www.last.fm/music/Aviva/_/HOUDINI)<!-- LASTFM:END -->
+* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
+* [Sebastian Paul — SO DONE](https://www.last.fm/music/Sebastian+Paul/_/SO+DONE)
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [Dominic Fike — Come Here](https://www.last.fm/music/Dominic+Fike/_/Come+Here)
+* [Resilia — Gambit](https://www.last.fm/music/Resilia/_/Gambit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
