@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [8485 — southview](https://www.last.fm/music/8485/_/southview)
-* [Bo En — love in a song - DJ HEARTBREAK ANNIHILATION MIX](https://www.last.fm/music/Bo+En/_/love+in+a+song+-+DJ+HEARTBREAK+ANNIHILATION+MIX)
-* [Koutei Camera Girl Drei — Spree](https://www.last.fm/music/Koutei+Camera+Girl+Drei/_/Spree)
-* [Eve — LEO](https://www.last.fm/music/Eve/_/LEO)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
+* [Michael Wyckoff — Tactical Trial](https://www.last.fm/music/Michael+Wyckoff/_/Tactical+Trial)
+* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
+* [Aviva — HOUDINI](https://www.last.fm/music/Aviva/_/HOUDINI)
+* [Chapel — Mushy Gushy](https://www.last.fm/music/Chapel/_/Mushy+Gushy)
+* [8485 — southview](https://www.last.fm/music/8485/_/southview)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
