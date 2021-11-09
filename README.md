@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cepheid — Bishounen](https://www.last.fm/music/Cepheid/_/Bishounen)
+* [Utsu-P — ハイパーリアリティショウ](https://www.last.fm/music/Utsu-P/_/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%82%A6)
 * [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
 * [Oliver Francis — TOXIC PARADISE](https://www.last.fm/music/Oliver+Francis/_/TOXIC+PARADISE)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [hot milk — Candy Coated Lie$](https://www.last.fm/music/hot+milk/_/Candy+Coated+Lie$)
-* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)<!-- LASTFM:END -->
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
