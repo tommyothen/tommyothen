@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wowkie Da — 陽光彩虹小白馬](https://www.last.fm/music/Wowkie+Da/_/%E9%99%BD%E5%85%89%E5%BD%A9%E8%99%B9%E5%B0%8F%E7%99%BD%E9%A6%AC)
 * [Johnny Balik — Honey](https://www.last.fm/music/Johnny+Balik/_/Honey)
 * [ATO — still.running](https://www.last.fm/music/ATO/_/still.running)
 * [Quadeca — Uh Huh!](https://www.last.fm/music/Quadeca/_/Uh+Huh!)
-* [FEDUK — Номер братвы &lpar;Feduk guitar&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%BE%D0%BC%D0%B5%D1%80+%D0%B1%D1%80%D0%B0%D1%82%D0%B2%D1%8B+&lpar;Feduk+guitar&rpar;)
-* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)<!-- LASTFM:END -->
+* [FEDUK — Номер братвы &lpar;Feduk guitar&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%BE%D0%BC%D0%B5%D1%80+%D0%B1%D1%80%D0%B0%D1%82%D0%B2%D1%8B+&lpar;Feduk+guitar&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
