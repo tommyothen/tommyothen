@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Guardin — what i got](https://www.last.fm/music/Guardin/_/what+i+got)
+* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
 * [ROY PURDY — Walk It out!](https://www.last.fm/music/ROY+PURDY/_/Walk+It+out!)
 * [bbno$ — opus](https://www.last.fm/music/bbno$/_/opus)
-* [88Rising — Breathe](https://www.last.fm/music/88Rising/_/Breathe)
-* [Oliver Tree — Cheapskate](https://www.last.fm/music/Oliver+Tree/_/Cheapskate)
-* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)<!-- LASTFM:END -->
+* [88Rising — Breathe](https://www.last.fm/music/88Rising/_/Breathe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
