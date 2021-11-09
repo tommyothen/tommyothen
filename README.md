@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tsu Nami — Party](https://www.last.fm/music/Tsu+Nami/_/Party)
-* [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)
-* [Dresage — HOLY](https://www.last.fm/music/Dresage/_/HOLY)
-* [The Knocks — Bedroom Eyes &lpar;feat. Studio Killers&rpar;](https://www.last.fm/music/The+Knocks/_/Bedroom+Eyes+&lpar;feat.+Studio+Killers&rpar;)
-* [ALASKALASKA — Happyface](https://www.last.fm/music/ALASKALASKA/_/Happyface)<!-- LASTFM:END -->
+* [Riley — Under Pressure &lpar;feat. Chase Atlantic&rpar;](https://www.last.fm/music/Riley/_/Under+Pressure+&lpar;feat.+Chase+Atlantic&rpar;)
+* [Fever The Ghost — Exoflash](https://www.last.fm/music/Fever+The+Ghost/_/Exoflash)
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [Away — Parasite](https://www.last.fm/music/Away/_/Parasite)
+* [Toast — i&#39;ve been calling](https://www.last.fm/music/Toast/_/i%27ve+been+calling)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
