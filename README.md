@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
+* [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)
 * [bbno$ — roo doo](https://www.last.fm/music/bbno$/_/roo+doo)
 * [Billie Eilish — 8](https://www.last.fm/music/Billie+Eilish/_/8)
-* [Rich Brian — Introvert &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Introvert+&lpar;feat.+Joji&rpar;)
-* [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)
-* [sub urban — Freak &lpar;feat. REI AMI&rpar;](https://www.last.fm/music/sub+urban/_/Freak+&lpar;feat.+REI+AMI&rpar;)<!-- LASTFM:END -->
+* [Rich Brian — Introvert &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Introvert+&lpar;feat.+Joji&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
