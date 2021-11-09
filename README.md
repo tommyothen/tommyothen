@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Prismo — Senses](https://www.last.fm/music/Prismo/_/Senses)
+* [Falconite — Digital Baptism](https://www.last.fm/music/Falconite/_/Digital+Baptism)
+* [Yunomi — Wakusei Rabbit](https://www.last.fm/music/Yunomi/_/Wakusei+Rabbit)
 * [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)
-* [We Are Fury — Don&#39;t Forget &lpar;feat. Mariah Delage&rpar;](https://www.last.fm/music/We+Are+Fury/_/Don%27t+Forget+&lpar;feat.+Mariah+Delage&rpar;)
-* [Tokyo Machine — FLY](https://www.last.fm/music/Tokyo+Machine/_/FLY)
-* [[bsd.u] — the grind](https://www.last.fm/music/%5Bbsd.u%5D/_/the+grind)
-* [BoxPlot — Tramontane](https://www.last.fm/music/BoxPlot/_/Tramontane)<!-- LASTFM:END -->
+* [We Are Fury — Don&#39;t Forget &lpar;feat. Mariah Delage&rpar;](https://www.last.fm/music/We+Are+Fury/_/Don%27t+Forget+&lpar;feat.+Mariah+Delage&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
