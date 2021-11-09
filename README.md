@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
-* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
-* [Prismo — Senses](https://www.last.fm/music/Prismo/_/Senses)
-* [Falconite — Digital Baptism](https://www.last.fm/music/Falconite/_/Digital+Baptism)
-* [Yunomi — Wakusei Rabbit](https://www.last.fm/music/Yunomi/_/Wakusei+Rabbit)<!-- LASTFM:END -->
+* [Quadeca — Uh Huh!](https://www.last.fm/music/Quadeca/_/Uh+Huh!)
+* [FEDUK — Номер братвы &lpar;Feduk guitar&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%BE%D0%BC%D0%B5%D1%80+%D0%B1%D1%80%D0%B0%D1%82%D0%B2%D1%8B+&lpar;Feduk+guitar&rpar;)
+* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)
+* [Tsuko G. — Gas Gas Gas &lpar;Initial D&rpar;](https://www.last.fm/music/Tsuko+G./_/Gas+Gas+Gas+&lpar;Initial+D&rpar;)
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
