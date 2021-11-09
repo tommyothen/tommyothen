@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
 * [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)
 * [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)
 * [Eden — Catch Me If You Can - Bonus Track](https://www.last.fm/music/Eden/_/Catch+Me+If+You+Can+-+Bonus+Track)
-* [Gleb — motorest](https://www.last.fm/music/Gleb/_/motorest)
-* [Oliver Tree — Bury Me Alive](https://www.last.fm/music/Oliver+Tree/_/Bury+Me+Alive)<!-- LASTFM:END -->
+* [Gleb — motorest](https://www.last.fm/music/Gleb/_/motorest)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
