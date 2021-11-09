@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
+* [Hobo Johnson — Father](https://www.last.fm/music/Hobo+Johnson/_/Father)
+* [Burbank — Sorry, I Like You](https://www.last.fm/music/Burbank/_/Sorry,+I+Like+You)
 * [Guardin — what i got](https://www.last.fm/music/Guardin/_/what+i+got)
-* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
-* [ROY PURDY — Walk It out!](https://www.last.fm/music/ROY+PURDY/_/Walk+It+out!)
-* [bbno$ — opus](https://www.last.fm/music/bbno$/_/opus)
-* [88Rising — Breathe](https://www.last.fm/music/88Rising/_/Breathe)<!-- LASTFM:END -->
+* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
