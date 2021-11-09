@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Riley — Under Pressure &lpar;feat. Chase Atlantic&rpar;](https://www.last.fm/music/Riley/_/Under+Pressure+&lpar;feat.+Chase+Atlantic&rpar;)
-* [Fever The Ghost — Exoflash](https://www.last.fm/music/Fever+The+Ghost/_/Exoflash)
-* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
-* [Away — Parasite](https://www.last.fm/music/Away/_/Parasite)
-* [Toast — i&#39;ve been calling](https://www.last.fm/music/Toast/_/i%27ve+been+calling)<!-- LASTFM:END -->
+* [8485 — southview](https://www.last.fm/music/8485/_/southview)
+* [Bo En — love in a song - DJ HEARTBREAK ANNIHILATION MIX](https://www.last.fm/music/Bo+En/_/love+in+a+song+-+DJ+HEARTBREAK+ANNIHILATION+MIX)
+* [Koutei Camera Girl Drei — Spree](https://www.last.fm/music/Koutei+Camera+Girl+Drei/_/Spree)
+* [Eve — LEO](https://www.last.fm/music/Eve/_/LEO)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
