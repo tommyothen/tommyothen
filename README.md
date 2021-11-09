@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)
-* [Pham — Movements &lpar;feat. Yung Fusion&rpar;](https://www.last.fm/music/Pham/_/Movements+&lpar;feat.+Yung+Fusion&rpar;)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)
-* [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)<!-- LASTFM:END -->
+* [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)
+* [Desired — Sunshine City](https://www.last.fm/music/Desired/_/Sunshine+City)
+* [Atlas — valentine &lpar;prod. flavors&rpar;](https://www.last.fm/music/Atlas/_/valentine+&lpar;prod.+flavors&rpar;)
+* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
+* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
