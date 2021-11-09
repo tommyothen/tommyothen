@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
+* [YUNG BAE — Fly With Me](https://www.last.fm/music/YUNG+BAE/_/Fly+With+Me)
 * [Dirtyphonics — Hammer](https://www.last.fm/music/Dirtyphonics/_/Hammer)
 * [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)
-* [bbno$ — thankful](https://www.last.fm/music/bbno$/_/thankful)
-* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
-* [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)<!-- LASTFM:END -->
+* [bbno$ — thankful](https://www.last.fm/music/bbno$/_/thankful)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
