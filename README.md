@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — roo doo](https://www.last.fm/music/bbno$/_/roo+doo)
+* [Billie Eilish — 8](https://www.last.fm/music/Billie+Eilish/_/8)
+* [Rich Brian — Introvert &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Introvert+&lpar;feat.+Joji&rpar;)
 * [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)
-* [sub urban — Freak &lpar;feat. REI AMI&rpar;](https://www.last.fm/music/sub+urban/_/Freak+&lpar;feat.+REI+AMI&rpar;)
-* [Rich Brian — Arizona &lpar;feat. AUGUST 08&rpar;](https://www.last.fm/music/Rich+Brian/_/Arizona+&lpar;feat.+AUGUST+08&rpar;)
-* [knowmadic — Fade](https://www.last.fm/music/knowmadic/_/Fade)
-* [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)<!-- LASTFM:END -->
+* [sub urban — Freak &lpar;feat. REI AMI&rpar;](https://www.last.fm/music/sub+urban/_/Freak+&lpar;feat.+REI+AMI&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
