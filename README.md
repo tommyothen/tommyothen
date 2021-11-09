@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)
+* [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)
+* [Eden — Catch Me If You Can - Bonus Track](https://www.last.fm/music/Eden/_/Catch+Me+If+You+Can+-+Bonus+Track)
 * [Gleb — motorest](https://www.last.fm/music/Gleb/_/motorest)
-* [Oliver Tree — Bury Me Alive](https://www.last.fm/music/Oliver+Tree/_/Bury+Me+Alive)
-* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
-* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
-* [Hobo Johnson — Father](https://www.last.fm/music/Hobo+Johnson/_/Father)<!-- LASTFM:END -->
+* [Oliver Tree — Bury Me Alive](https://www.last.fm/music/Oliver+Tree/_/Bury+Me+Alive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
