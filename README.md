@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)
+* [Eden — stutter](https://www.last.fm/music/Eden/_/stutter)
 * [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)
 * [MC Virgins — Anime Thighs](https://www.last.fm/music/MC+Virgins/_/Anime+Thighs)
-* [Rich Brian — Chaos](https://www.last.fm/music/Rich+Brian/_/Chaos)
-* [Rejjie Snow — Egyptian Luvr &lpar;feat. Aminé and Dana Williams&rpar;](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr+&lpar;feat.+Amin%C3%A9+and+Dana+Williams&rpar;)
-* [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)<!-- LASTFM:END -->
+* [Rich Brian — Chaos](https://www.last.fm/music/Rich+Brian/_/Chaos)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
