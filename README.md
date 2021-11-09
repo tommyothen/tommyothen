@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [[bsd.u] — the grind](https://www.last.fm/music/%5Bbsd.u%5D/_/the+grind)
+* [BoxPlot — Tramontane](https://www.last.fm/music/BoxPlot/_/Tramontane)
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
 * [[bsd.u] — Laced](https://www.last.fm/music/%5Bbsd.u%5D/_/Laced)
-* [Billie Eilish — listen before i go](https://www.last.fm/music/Billie+Eilish/_/listen+before+i+go)
-* [lil ricefield — HOHO!](https://www.last.fm/music/lil+ricefield/_/HOHO!)
-* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
-* [Sub Focus — Solar System](https://www.last.fm/music/Sub+Focus/_/Solar+System)<!-- LASTFM:END -->
+* [Billie Eilish — listen before i go](https://www.last.fm/music/Billie+Eilish/_/listen+before+i+go)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
