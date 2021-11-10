@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [Coa White — akiba](https://www.last.fm/music/Coa+White/_/akiba)
+* [Bo En — love in a song - DJ HEARTBREAK ANNIHILATION MIX](https://www.last.fm/music/Bo+En/_/love+in+a+song+-+DJ+HEARTBREAK+ANNIHILATION+MIX)
+* [Riley — Under Pressure &lpar;feat. Chase Atlantic&rpar;](https://www.last.fm/music/Riley/_/Under+Pressure+&lpar;feat.+Chase+Atlantic&rpar;)
 * [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)<!-- LASTFM:END -->
+* [Fever The Ghost — Exoflash](https://www.last.fm/music/Fever+The+Ghost/_/Exoflash)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
