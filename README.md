@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alaina Castillo — tonight](https://www.last.fm/music/Alaina+Castillo/_/tonight)
 * [Atlas — facade](https://www.last.fm/music/Atlas/_/facade)
 * [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
 * [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
-* [YUNG BAE — Fly With Me](https://www.last.fm/music/YUNG+BAE/_/Fly+With+Me)
-* [Dirtyphonics — Hammer](https://www.last.fm/music/Dirtyphonics/_/Hammer)<!-- LASTFM:END -->
+* [YUNG BAE — Fly With Me](https://www.last.fm/music/YUNG+BAE/_/Fly+With+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
