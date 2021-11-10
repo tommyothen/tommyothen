@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tsu Nami — Party](https://www.last.fm/music/Tsu+Nami/_/Party)
+* [hot milk — Candy Coated Lie$](https://www.last.fm/music/hot+milk/_/Candy+Coated+Lie$)
 * [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
 * [Chapel — Mushy Gushy](https://www.last.fm/music/Chapel/_/Mushy+Gushy)
-* [Eve — LEO](https://www.last.fm/music/Eve/_/LEO)
-* [Bo En — love in a song - DJ HEARTBREAK ANNIHILATION MIX](https://www.last.fm/music/Bo+En/_/love+in+a+song+-+DJ+HEARTBREAK+ANNIHILATION+MIX)
-* [Riley — Under Pressure &lpar;feat. Chase Atlantic&rpar;](https://www.last.fm/music/Riley/_/Under+Pressure+&lpar;feat.+Chase+Atlantic&rpar;)<!-- LASTFM:END -->
+* [Eve — LEO](https://www.last.fm/music/Eve/_/LEO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
