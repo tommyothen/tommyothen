@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)
 * [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
 * [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
 * [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
-* [Zedd — Funny](https://www.last.fm/music/Zedd/_/Funny)
-* [AJR — Way Less Sad](https://www.last.fm/music/AJR/_/Way+Less+Sad)<!-- LASTFM:END -->
+* [Zedd — Funny](https://www.last.fm/music/Zedd/_/Funny)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
