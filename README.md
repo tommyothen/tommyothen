@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [The Knocks — Bedroom Eyes &lpar;feat. Studio Killers&rpar;](https://www.last.fm/music/The+Knocks/_/Bedroom+Eyes+&lpar;feat.+Studio+Killers&rpar;)
 * [Dios — Runaway](https://www.last.fm/music/Dios/_/Runaway)
-* [Tsu Nami — Party](https://www.last.fm/music/Tsu+Nami/_/Party)
-* [hot milk — Candy Coated Lie$](https://www.last.fm/music/hot+milk/_/Candy+Coated+Lie$)
-* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
-* [Chapel — Mushy Gushy](https://www.last.fm/music/Chapel/_/Mushy+Gushy)<!-- LASTFM:END -->
+* [Tsu Nami — Party](https://www.last.fm/music/Tsu+Nami/_/Party)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
