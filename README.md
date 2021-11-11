@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Daichi Yamamoto — One Way](https://www.last.fm/music/Daichi+Yamamoto/_/One+Way)
+* [Kwame — AIN’T SO](https://www.last.fm/music/Kwame/_/AIN%E2%80%99T+SO)
 * [cuppy — Jollof On The Jet](https://www.last.fm/music/cuppy/_/Jollof+On+The+Jet)
 * [slowthai — CANCELLED &lpar;feat. Skepta&rpar;](https://www.last.fm/music/slowthai/_/CANCELLED+&lpar;feat.+Skepta&rpar;)
-* [Kendrick Lamar — A.D.H.D](https://www.last.fm/music/Kendrick+Lamar/_/A.D.H.D)
-* [Open Mike Eagle — Ziggy Starfish &lpar;Anxiety Raps&rpar; [feat. Gold Panda]](https://www.last.fm/music/Open+Mike+Eagle/_/Ziggy+Starfish+&lpar;Anxiety+Raps&rpar;+%5Bfeat.+Gold+Panda%5D)
-* [The Cavemen. — Who No Know Go Know](https://www.last.fm/music/The+Cavemen./_/Who+No+Know+Go+Know)<!-- LASTFM:END -->
+* [Kendrick Lamar — A.D.H.D](https://www.last.fm/music/Kendrick+Lamar/_/A.D.H.D)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
