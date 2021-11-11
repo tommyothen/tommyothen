@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YDIZZY — not &lpar;dead&rpar;](https://www.last.fm/music/YDIZZY/_/not+&lpar;dead&rpar;)
+* [Bon Iver — 8 &lpar;circle&rpar;](https://www.last.fm/music/Bon+Iver/_/8+&lpar;circle&rpar;)
 * [Alison Wonderland — TIME - Alison Wonderland x QUIX](https://www.last.fm/music/Alison+Wonderland/_/TIME+-+Alison+Wonderland+x+QUIX)
 * [ZHU — My Life](https://www.last.fm/music/ZHU/_/My+Life)
-* [G Flip — About You](https://www.last.fm/music/G+Flip/_/About+You)
-* [Madeon — No Fear No More](https://www.last.fm/music/Madeon/_/No+Fear+No+More)
-* [Porter Robinson — Mirror](https://www.last.fm/music/Porter+Robinson/_/Mirror)<!-- LASTFM:END -->
+* [G Flip — About You](https://www.last.fm/music/G+Flip/_/About+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
