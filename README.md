@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taka Perry — Introspect](https://www.last.fm/music/Taka+Perry/_/Introspect)
+* [KANDYTOWN — Local Area &lpar;feat. Gottz, Neetz &amp; KEIJU&rpar;](https://www.last.fm/music/KANDYTOWN/_/Local+Area+&lpar;feat.+Gottz,+Neetz+&amp;+KEIJU&rpar;)
 * [GRAVEDGR — RAMPAGE](https://www.last.fm/music/GRAVEDGR/_/RAMPAGE)
 * [Daichi Yamamoto — Splash](https://www.last.fm/music/Daichi+Yamamoto/_/Splash)
-* [Floral — Unfair Treaty](https://www.last.fm/music/Floral/_/Unfair+Treaty)
-* [Sam Gellaitry — Flares](https://www.last.fm/music/Sam+Gellaitry/_/Flares)
-* [Wize — 3 years later](https://www.last.fm/music/Wize/_/3+years+later)<!-- LASTFM:END -->
+* [Floral — Unfair Treaty](https://www.last.fm/music/Floral/_/Unfair+Treaty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
