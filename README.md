@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Thundercat — Innerstellar Love](https://www.last.fm/music/Thundercat/_/Innerstellar+Love)
-* [RL Grime — Undo - AWAY Remix](https://www.last.fm/music/RL+Grime/_/Undo+-+AWAY+Remix)
-* [KID FRESINO — Fool me twice &lpar;feat. 5lack&rpar;](https://www.last.fm/music/KID+FRESINO/_/Fool+me+twice+&lpar;feat.+5lack&rpar;)
-* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
-* [Taka Perry — Introspect](https://www.last.fm/music/Taka+Perry/_/Introspect)<!-- LASTFM:END -->
+* [AFK — Typhoid](https://www.last.fm/music/AFK/_/Typhoid)
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
+* [SWXR — White Hanami](https://www.last.fm/music/SWXR/_/White+Hanami)
+* [DoS MoNoS — in 20XX](https://www.last.fm/music/DoS+MoNoS/_/in+20XX)
+* [Thundercat — Innerstellar Love](https://www.last.fm/music/Thundercat/_/Innerstellar+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
