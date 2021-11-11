@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Payday — Super Thicc](https://www.last.fm/music/Payday/_/Super+Thicc)
+* [Vincent Augustus — I Think I&#39;m Tired](https://www.last.fm/music/Vincent+Augustus/_/I+Think+I%27m+Tired)
+* [Payday — I Don&#39;t Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
 * [The North 41 — My Ecstasy](https://www.last.fm/music/The+North+41/_/My+Ecstasy)
-* [PepSparks — Broke](https://www.last.fm/music/PepSparks/_/Broke)
-* [Gold Revere — Cherry Nails](https://www.last.fm/music/Gold+Revere/_/Cherry+Nails)
-* [Fox Szn — Circus](https://www.last.fm/music/Fox+Szn/_/Circus)
-* [Again&amp;again — hours](https://www.last.fm/music/Again&amp;again/_/hours)<!-- LASTFM:END -->
+* [PepSparks — Broke](https://www.last.fm/music/PepSparks/_/Broke)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
