@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yes Please — White Knuckles](https://www.last.fm/music/Yes+Please/_/White+Knuckles)
-* [Young Lungs — Tennis](https://www.last.fm/music/Young+Lungs/_/Tennis)
-* [Billy Marchiafava — Disco Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Disco+Type+Beat)
-* [tobi lou — Buff Baby](https://www.last.fm/music/tobi+lou/_/Buff+Baby)
-* [Donnoven — Life As a Simp](https://www.last.fm/music/Donnoven/_/Life+As+a+Simp)<!-- LASTFM:END -->
+* [Rossi Rock — Arco](https://www.last.fm/music/Rossi+Rock/_/Arco)
+* [tobi lou — Lingo Starr: RETURN OF THE DRAGON](https://www.last.fm/music/tobi+lou/_/Lingo+Starr:+RETURN+OF+THE+DRAGON)
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
+* [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)
+* [Tiny Meat Gang — Sofia](https://www.last.fm/music/Tiny+Meat+Gang/_/Sofia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
