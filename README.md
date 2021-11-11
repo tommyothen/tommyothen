@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Little Dragon — The Other Lover &lpar;Little Dragon &amp; Moses Sumney&rpar;](https://www.last.fm/music/Little+Dragon/_/The+Other+Lover+&lpar;Little+Dragon+&amp;+Moses+Sumney&rpar;)
+* [Adekunle GOLD — Mr. Foolish &lpar;feat. Seun Kuti&rpar;](https://www.last.fm/music/Adekunle+GOLD/_/Mr.+Foolish+&lpar;feat.+Seun+Kuti&rpar;)
+* [Jojo Abot — To Li](https://www.last.fm/music/Jojo+Abot/_/To+Li)
 * [Thundercat — Fair Chance](https://www.last.fm/music/Thundercat/_/Fair+Chance)
-* [Hiatus Kaiyote — Fingerprints](https://www.last.fm/music/Hiatus+Kaiyote/_/Fingerprints)
-* [Flying Lotus — Until The Colours Come](https://www.last.fm/music/Flying+Lotus/_/Until+The+Colours+Come)
-* [JessB — Bullseye](https://www.last.fm/music/JessB/_/Bullseye)
-* [Amaarae — JUMPING SHIP](https://www.last.fm/music/Amaarae/_/JUMPING+SHIP)<!-- LASTFM:END -->
+* [Hiatus Kaiyote — Fingerprints](https://www.last.fm/music/Hiatus+Kaiyote/_/Fingerprints)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
