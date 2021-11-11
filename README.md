@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tiny Meat Gang — Walk Man](https://www.last.fm/music/Tiny+Meat+Gang/_/Walk+Man)
-* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
-* [Chow Mane — San Jose](https://www.last.fm/music/Chow+Mane/_/San+Jose)
-* [Old Chingu — Candy Aisle](https://www.last.fm/music/Old+Chingu/_/Candy+Aisle)
-* [Payday — Super Thicc](https://www.last.fm/music/Payday/_/Super+Thicc)<!-- LASTFM:END -->
+* [Mud — Big Sleep](https://www.last.fm/music/Mud/_/Big+Sleep)
+* [LIL Chawley — Catfish](https://www.last.fm/music/LIL+Chawley/_/Catfish)
+* [Vincent Augustus — Bob Ross](https://www.last.fm/music/Vincent+Augustus/_/Bob+Ross)
+* [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)
+* [Tiny Meat Gang — Walk Man](https://www.last.fm/music/Tiny+Meat+Gang/_/Walk+Man)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
