@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wize — 3 years later](https://www.last.fm/music/Wize/_/3+years+later)
+* [GRAVEDGR — RAMPAGE](https://www.last.fm/music/GRAVEDGR/_/RAMPAGE)
 * [YDIZZY — not &lpar;dead&rpar;](https://www.last.fm/music/YDIZZY/_/not+&lpar;dead&rpar;)
 * [Bon Iver — 8 &lpar;circle&rpar;](https://www.last.fm/music/Bon+Iver/_/8+&lpar;circle&rpar;)
-* [Alison Wonderland — TIME - Alison Wonderland x QUIX](https://www.last.fm/music/Alison+Wonderland/_/TIME+-+Alison+Wonderland+x+QUIX)
-* [ZHU — My Life](https://www.last.fm/music/ZHU/_/My+Life)
-* [G Flip — About You](https://www.last.fm/music/G+Flip/_/About+You)<!-- LASTFM:END -->
+* [Alison Wonderland — TIME - Alison Wonderland x QUIX](https://www.last.fm/music/Alison+Wonderland/_/TIME+-+Alison+Wonderland+x+QUIX)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
