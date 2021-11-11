@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Maggie Rogers — Alaska](https://www.last.fm/music/Maggie+Rogers/_/Alaska)
+* [Machinedrum — Star](https://www.last.fm/music/Machinedrum/_/Star)
 * [AFK — Typhoid](https://www.last.fm/music/AFK/_/Typhoid)
 * [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
-* [SWXR — White Hanami](https://www.last.fm/music/SWXR/_/White+Hanami)
-* [DoS MoNoS — in 20XX](https://www.last.fm/music/DoS+MoNoS/_/in+20XX)
-* [Thundercat — Innerstellar Love](https://www.last.fm/music/Thundercat/_/Innerstellar+Love)<!-- LASTFM:END -->
+* [SWXR — White Hanami](https://www.last.fm/music/SWXR/_/White+Hanami)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
