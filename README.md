@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor McFerrin — Degrees of Light](https://www.last.fm/music/Taylor+McFerrin/_/Degrees+of+Light)
+* [A. K. Paul — Be Honest](https://www.last.fm/music/A.+K.+Paul/_/Be+Honest)
 * [Lo Village — Out The Window](https://www.last.fm/music/Lo+Village/_/Out+The+Window)
 * [Thundercat — Funny Thing](https://www.last.fm/music/Thundercat/_/Funny+Thing)
-* [KAYTRANADA — What You Need](https://www.last.fm/music/KAYTRANADA/_/What+You+Need)
-* [Ameer Vann — keep your distance](https://www.last.fm/music/Ameer+Vann/_/keep+your+distance)
-* [Gabriel Garzón-Montano — Someone](https://www.last.fm/music/Gabriel+Garz%C3%B3n-Montano/_/Someone)<!-- LASTFM:END -->
+* [KAYTRANADA — What You Need](https://www.last.fm/music/KAYTRANADA/_/What+You+Need)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
