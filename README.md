@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [AL-X the Great — Sunscreen](https://www.last.fm/music/AL-X+the+Great/_/Sunscreen)
-* [lentra — sweetheart](https://www.last.fm/music/lentra/_/sweetheart)
-* [Grunch — BOYS WHO CRY!](https://www.last.fm/music/Grunch/_/BOYS+WHO+CRY!)
-* [Tiny Meat Gang — Stay Safe](https://www.last.fm/music/Tiny+Meat+Gang/_/Stay+Safe)
-* [teeawgo — Hijack](https://www.last.fm/music/teeawgo/_/Hijack)<!-- LASTFM:END -->
+* [Yes Please — White Knuckles](https://www.last.fm/music/Yes+Please/_/White+Knuckles)
+* [Young Lungs — Tennis](https://www.last.fm/music/Young+Lungs/_/Tennis)
+* [Billy Marchiafava — Disco Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Disco+Type+Beat)
+* [tobi lou — Buff Baby](https://www.last.fm/music/tobi+lou/_/Buff+Baby)
+* [Donnoven — Life As a Simp](https://www.last.fm/music/Donnoven/_/Life+As+a+Simp)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
