@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alison Wonderland — TIME - Alison Wonderland x QUIX](https://www.last.fm/music/Alison+Wonderland/_/TIME+-+Alison+Wonderland+x+QUIX)
+* [ZHU — My Life](https://www.last.fm/music/ZHU/_/My+Life)
 * [G Flip — About You](https://www.last.fm/music/G+Flip/_/About+You)
 * [Madeon — No Fear No More](https://www.last.fm/music/Madeon/_/No+Fear+No+More)
-* [Porter Robinson — Mirror](https://www.last.fm/music/Porter+Robinson/_/Mirror)
-* [Flume — Free](https://www.last.fm/music/Flume/_/Free)
-* [Troye Sivan — Take Yourself Home](https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home)<!-- LASTFM:END -->
+* [Porter Robinson — Mirror](https://www.last.fm/music/Porter+Robinson/_/Mirror)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
