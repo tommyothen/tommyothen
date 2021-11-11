@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Daichi Yamamoto — One Way](https://www.last.fm/music/Daichi+Yamamoto/_/One+Way)
+* [Daichi Yamamoto — Splash](https://www.last.fm/music/Daichi+Yamamoto/_/Splash)
 * [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
 * [NAMEDARUMAAZ — Floatin&#39;](https://www.last.fm/music/NAMEDARUMAAZ/_/Floatin%27)
-* [submerse — Rumble Pak](https://www.last.fm/music/submerse/_/Rumble+Pak)
-* [DoS MoNoS — in 20XX](https://www.last.fm/music/DoS+MoNoS/_/in+20XX)
-* [KANDYTOWN — Local Area &lpar;feat. Gottz, Neetz &amp; KEIJU&rpar;](https://www.last.fm/music/KANDYTOWN/_/Local+Area+&lpar;feat.+Gottz,+Neetz+&amp;+KEIJU&rpar;)<!-- LASTFM:END -->
+* [submerse — Rumble Pak](https://www.last.fm/music/submerse/_/Rumble+Pak)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
