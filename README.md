@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [submerse — Rumble Pak](https://www.last.fm/music/submerse/_/Rumble+Pak)
+* [NAMEDARUMAAZ — Floatin&#39;](https://www.last.fm/music/NAMEDARUMAAZ/_/Floatin%27)
 * [YDIZZY — not &lpar;dead&rpar;](https://www.last.fm/music/YDIZZY/_/not+&lpar;dead&rpar;)
 * [Daichi Yamamoto — One Way](https://www.last.fm/music/Daichi+Yamamoto/_/One+Way)
-* [Kwame — AIN’T SO](https://www.last.fm/music/Kwame/_/AIN%E2%80%99T+SO)
-* [cuppy — Jollof On The Jet](https://www.last.fm/music/cuppy/_/Jollof+On+The+Jet)
-* [slowthai — CANCELLED &lpar;feat. Skepta&rpar;](https://www.last.fm/music/slowthai/_/CANCELLED+&lpar;feat.+Skepta&rpar;)<!-- LASTFM:END -->
+* [Kwame — AIN’T SO](https://www.last.fm/music/Kwame/_/AIN%E2%80%99T+SO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
