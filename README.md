@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Moses Sumney — Cut Me](https://www.last.fm/music/Moses+Sumney/_/Cut+Me)
 * [Jid — Bruuuh &lpar;with Denzel Curry&rpar; - Remix](https://www.last.fm/music/Jid/_/Bruuuh+&lpar;with+Denzel+Curry&rpar;+-+Remix)
 * [MzVee — Baddest Boss](https://www.last.fm/music/MzVee/_/Baddest+Boss)
 * [Burna Boy — Way Too Big](https://www.last.fm/music/Burna+Boy/_/Way+Too+Big)
-* [Amaarae — Spend Some Time](https://www.last.fm/music/Amaarae/_/Spend+Some+Time)
-* [Flying Lotus — Coronus, The Terminator](https://www.last.fm/music/Flying+Lotus/_/Coronus,+The+Terminator)<!-- LASTFM:END -->
+* [Amaarae — Spend Some Time](https://www.last.fm/music/Amaarae/_/Spend+Some+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
