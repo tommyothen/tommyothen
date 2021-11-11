@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flume — Free](https://www.last.fm/music/Flume/_/Free)
+* [Troye Sivan — Take Yourself Home](https://www.last.fm/music/Troye+Sivan/_/Take+Yourself+Home)
 * [Maggie Rogers — Alaska](https://www.last.fm/music/Maggie+Rogers/_/Alaska)
 * [Machinedrum — Star](https://www.last.fm/music/Machinedrum/_/Star)
-* [AFK — Typhoid](https://www.last.fm/music/AFK/_/Typhoid)
-* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
-* [SWXR — White Hanami](https://www.last.fm/music/SWXR/_/White+Hanami)<!-- LASTFM:END -->
+* [AFK — Typhoid](https://www.last.fm/music/AFK/_/Typhoid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
