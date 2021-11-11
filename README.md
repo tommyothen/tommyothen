@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [submerse — Rumble Pak](https://www.last.fm/music/submerse/_/Rumble+Pak)
+* [DoS MoNoS — in 20XX](https://www.last.fm/music/DoS+MoNoS/_/in+20XX)
+* [KANDYTOWN — Local Area &lpar;feat. Gottz, Neetz &amp; KEIJU&rpar;](https://www.last.fm/music/KANDYTOWN/_/Local+Area+&lpar;feat.+Gottz,+Neetz+&amp;+KEIJU&rpar;)
 * [Wize — 3 years later](https://www.last.fm/music/Wize/_/3+years+later)
-* [GRAVEDGR — RAMPAGE](https://www.last.fm/music/GRAVEDGR/_/RAMPAGE)
-* [YDIZZY — not &lpar;dead&rpar;](https://www.last.fm/music/YDIZZY/_/not+&lpar;dead&rpar;)
-* [Bon Iver — 8 &lpar;circle&rpar;](https://www.last.fm/music/Bon+Iver/_/8+&lpar;circle&rpar;)
-* [Alison Wonderland — TIME - Alison Wonderland x QUIX](https://www.last.fm/music/Alison+Wonderland/_/TIME+-+Alison+Wonderland+x+QUIX)<!-- LASTFM:END -->
+* [GRAVEDGR — RAMPAGE](https://www.last.fm/music/GRAVEDGR/_/RAMPAGE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
