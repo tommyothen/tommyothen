@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KID FRESINO — Fool me twice &lpar;feat. 5lack&rpar;](https://www.last.fm/music/KID+FRESINO/_/Fool+me+twice+&lpar;feat.+5lack&rpar;)
 * [Miyachi — MAINICHI](https://www.last.fm/music/Miyachi/_/MAINICHI)
 * [Taka Perry — Introspect](https://www.last.fm/music/Taka+Perry/_/Introspect)
 * [Floral — Unfair Treaty](https://www.last.fm/music/Floral/_/Unfair+Treaty)
-* [Sam Gellaitry — Flares](https://www.last.fm/music/Sam+Gellaitry/_/Flares)
-* [RL Grime — Undo - AWAY Remix](https://www.last.fm/music/RL+Grime/_/Undo+-+AWAY+Remix)<!-- LASTFM:END -->
+* [Sam Gellaitry — Flares](https://www.last.fm/music/Sam+Gellaitry/_/Flares)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
