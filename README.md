@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pen Pals — Dynasty](https://www.last.fm/music/Pen+Pals/_/Dynasty)
+* [Sampa the Great — F E M A L E](https://www.last.fm/music/Sampa+the+Great/_/F+E+M+A+L+E)
+* [Caroline Polachek — So Hot You&#39;re Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
 * [Moses Sumney — Cut Me](https://www.last.fm/music/Moses+Sumney/_/Cut+Me)
-* [Jid — Bruuuh &lpar;with Denzel Curry&rpar; - Remix](https://www.last.fm/music/Jid/_/Bruuuh+&lpar;with+Denzel+Curry&rpar;+-+Remix)
-* [MzVee — Baddest Boss](https://www.last.fm/music/MzVee/_/Baddest+Boss)
-* [Burna Boy — Way Too Big](https://www.last.fm/music/Burna+Boy/_/Way+Too+Big)
-* [Amaarae — Spend Some Time](https://www.last.fm/music/Amaarae/_/Spend+Some+Time)<!-- LASTFM:END -->
+* [Jid — Bruuuh &lpar;with Denzel Curry&rpar; - Remix](https://www.last.fm/music/Jid/_/Bruuuh+&lpar;with+Denzel+Curry&rpar;+-+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
