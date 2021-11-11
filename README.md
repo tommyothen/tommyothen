@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JIMIJAME$ — Bullshit or Worry](https://www.last.fm/music/JIMIJAME$/_/Bullshit+or+Worry)
+* [Ashwarya — BIRYANI](https://www.last.fm/music/Ashwarya/_/BIRYANI)
+* [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
 * [yaya bey — fxck it then](https://www.last.fm/music/yaya+bey/_/fxck+it+then)
-* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
-* [Genevieve Artadi — Living Like I Know I’m Gonna Die](https://www.last.fm/music/Genevieve+Artadi/_/Living+Like+I+Know+I%E2%80%99m+Gonna+Die)
-* [Pen Pals — Dynasty](https://www.last.fm/music/Pen+Pals/_/Dynasty)
-* [Sampa the Great — F E M A L E](https://www.last.fm/music/Sampa+the+Great/_/F+E+M+A+L+E)<!-- LASTFM:END -->
+* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
