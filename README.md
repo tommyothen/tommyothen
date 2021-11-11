@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The North 41 — My Ecstasy](https://www.last.fm/music/The+North+41/_/My+Ecstasy)
+* [PepSparks — Broke](https://www.last.fm/music/PepSparks/_/Broke)
+* [Gold Revere — Cherry Nails](https://www.last.fm/music/Gold+Revere/_/Cherry+Nails)
 * [Fox Szn — Circus](https://www.last.fm/music/Fox+Szn/_/Circus)
-* [Again&amp;again — hours](https://www.last.fm/music/Again&amp;again/_/hours)
-* [Boba Boyz — Thai Tea Trippin&#39;](https://www.last.fm/music/Boba+Boyz/_/Thai+Tea+Trippin%27)
-* [lil ricefield — HOHO!](https://www.last.fm/music/lil+ricefield/_/HOHO!)
-* [Fox Szn — Circus](https://www.last.fm/music/Fox+Szn/_/Circus)<!-- LASTFM:END -->
+* [Again&amp;again — hours](https://www.last.fm/music/Again&amp;again/_/hours)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
