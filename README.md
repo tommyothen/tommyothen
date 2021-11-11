@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [cuppy — Jollof On The Jet](https://www.last.fm/music/cuppy/_/Jollof+On+The+Jet)
+* [slowthai — CANCELLED &lpar;feat. Skepta&rpar;](https://www.last.fm/music/slowthai/_/CANCELLED+&lpar;feat.+Skepta&rpar;)
+* [Kendrick Lamar — A.D.H.D](https://www.last.fm/music/Kendrick+Lamar/_/A.D.H.D)
 * [Open Mike Eagle — Ziggy Starfish &lpar;Anxiety Raps&rpar; [feat. Gold Panda]](https://www.last.fm/music/Open+Mike+Eagle/_/Ziggy+Starfish+&lpar;Anxiety+Raps&rpar;+%5Bfeat.+Gold+Panda%5D)
-* [The Cavemen. — Who No Know Go Know](https://www.last.fm/music/The+Cavemen./_/Who+No+Know+Go+Know)
-* [Taylor McFerrin — Degrees of Light](https://www.last.fm/music/Taylor+McFerrin/_/Degrees+of+Light)
-* [A. K. Paul — Be Honest](https://www.last.fm/music/A.+K.+Paul/_/Be+Honest)
-* [Lo Village — Out The Window](https://www.last.fm/music/Lo+Village/_/Out+The+Window)<!-- LASTFM:END -->
+* [The Cavemen. — Who No Know Go Know](https://www.last.fm/music/The+Cavemen./_/Who+No+Know+Go+Know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
