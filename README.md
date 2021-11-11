@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Thundercat — Innerstellar Love](https://www.last.fm/music/Thundercat/_/Innerstellar+Love)
+* [RL Grime — Undo - AWAY Remix](https://www.last.fm/music/RL+Grime/_/Undo+-+AWAY+Remix)
+* [KID FRESINO — Fool me twice &lpar;feat. 5lack&rpar;](https://www.last.fm/music/KID+FRESINO/_/Fool+me+twice+&lpar;feat.+5lack&rpar;)
 * [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
-* [Taka Perry — Introspect](https://www.last.fm/music/Taka+Perry/_/Introspect)
-* [KANDYTOWN — Local Area &lpar;feat. Gottz, Neetz &amp; KEIJU&rpar;](https://www.last.fm/music/KANDYTOWN/_/Local+Area+&lpar;feat.+Gottz,+Neetz+&amp;+KEIJU&rpar;)
-* [GRAVEDGR — RAMPAGE](https://www.last.fm/music/GRAVEDGR/_/RAMPAGE)
-* [Daichi Yamamoto — Splash](https://www.last.fm/music/Daichi+Yamamoto/_/Splash)<!-- LASTFM:END -->
+* [Taka Perry — Introspect](https://www.last.fm/music/Taka+Perry/_/Introspect)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
