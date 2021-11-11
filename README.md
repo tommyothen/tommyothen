@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Fox Szn — Circus](https://www.last.fm/music/Fox+Szn/_/Circus)
-* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
-* [Gold Revere — Goldfish Crackers](https://www.last.fm/music/Gold+Revere/_/Goldfish+Crackers)
-* [Tiny Meat Gang — Broke Bitch](https://www.last.fm/music/Tiny+Meat+Gang/_/Broke+Bitch)
-* [tobi lou — I Was Sad Last Night I&#39;m OK Now](https://www.last.fm/music/tobi+lou/_/I+Was+Sad+Last+Night+I%27m+OK+Now)<!-- LASTFM:END -->
+* [Again&amp;again — hours](https://www.last.fm/music/Again&amp;again/_/hours)
+* [Boba Boyz — Thai Tea Trippin&#39;](https://www.last.fm/music/Boba+Boyz/_/Thai+Tea+Trippin%27)
+* [lil ricefield — HOHO!](https://www.last.fm/music/lil+ricefield/_/HOHO!)
+* [Fox Szn — Circus](https://www.last.fm/music/Fox+Szn/_/Circus)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
