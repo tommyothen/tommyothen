@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mud — Big Sleep](https://www.last.fm/music/Mud/_/Big+Sleep)
-* [LIL Chawley — Catfish](https://www.last.fm/music/LIL+Chawley/_/Catfish)
-* [Vincent Augustus — Bob Ross](https://www.last.fm/music/Vincent+Augustus/_/Bob+Ross)
-* [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)
-* [Tiny Meat Gang — Walk Man](https://www.last.fm/music/Tiny+Meat+Gang/_/Walk+Man)<!-- LASTFM:END -->
+* [AL-X the Great — Sunscreen](https://www.last.fm/music/AL-X+the+Great/_/Sunscreen)
+* [lentra — sweetheart](https://www.last.fm/music/lentra/_/sweetheart)
+* [Grunch — BOYS WHO CRY!](https://www.last.fm/music/Grunch/_/BOYS+WHO+CRY!)
+* [Tiny Meat Gang — Stay Safe](https://www.last.fm/music/Tiny+Meat+Gang/_/Stay+Safe)
+* [teeawgo — Hijack](https://www.last.fm/music/teeawgo/_/Hijack)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
