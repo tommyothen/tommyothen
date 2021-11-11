@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lo Village — Out The Window](https://www.last.fm/music/Lo+Village/_/Out+The+Window)
+* [Thundercat — Funny Thing](https://www.last.fm/music/Thundercat/_/Funny+Thing)
+* [KAYTRANADA — What You Need](https://www.last.fm/music/KAYTRANADA/_/What+You+Need)
 * [Ameer Vann — keep your distance](https://www.last.fm/music/Ameer+Vann/_/keep+your+distance)
-* [Gabriel Garzón-Montano — Someone](https://www.last.fm/music/Gabriel+Garz%C3%B3n-Montano/_/Someone)
-* [SOPHIETHEHOMIE — home demo - Single](https://www.last.fm/music/SOPHIETHEHOMIE/_/home+demo+-+Single)
-* [Nayana Iz — partner in crime](https://www.last.fm/music/Nayana+Iz/_/partner+in+crime)
-* [Bosco — Paid In Full](https://www.last.fm/music/Bosco/_/Paid+In+Full)<!-- LASTFM:END -->
+* [Gabriel Garzón-Montano — Someone](https://www.last.fm/music/Gabriel+Garz%C3%B3n-Montano/_/Someone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
