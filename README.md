@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Little Dragon — The Other Lover &lpar;Little Dragon &amp; Moses Sumney&rpar;](https://www.last.fm/music/Little+Dragon/_/The+Other+Lover+&lpar;Little+Dragon+&amp;+Moses+Sumney&rpar;)
-* [Adekunle GOLD — Mr. Foolish &lpar;feat. Seun Kuti&rpar;](https://www.last.fm/music/Adekunle+GOLD/_/Mr.+Foolish+&lpar;feat.+Seun+Kuti&rpar;)
-* [Jojo Abot — To Li](https://www.last.fm/music/Jojo+Abot/_/To+Li)
-* [Thundercat — Fair Chance](https://www.last.fm/music/Thundercat/_/Fair+Chance)
-* [Hiatus Kaiyote — Fingerprints](https://www.last.fm/music/Hiatus+Kaiyote/_/Fingerprints)<!-- LASTFM:END -->
+* [La Même Gang — Reveal &lpar;Fly You Out&rpar; [feat. Darkovibes &amp; $pacely]](https://www.last.fm/music/La+M%C3%AAme+Gang/_/Reveal+&lpar;Fly+You+Out&rpar;+%5Bfeat.+Darkovibes+&amp;+$pacely%5D)
+* [Janelle Monáe — Django Jane](https://www.last.fm/music/Janelle+Mon%C3%A1e/_/Django+Jane)
+* [Olamide — Loading &lpar;feat. Bad Boy Timz&rpar;](https://www.last.fm/music/Olamide/_/Loading+&lpar;feat.+Bad+Boy+Timz&rpar;)
+* [Kendrick Lamar — DUCKWORTH.](https://www.last.fm/music/Kendrick+Lamar/_/DUCKWORTH.)
+* [Little Dragon — The Other Lover &lpar;Little Dragon &amp; Moses Sumney&rpar;](https://www.last.fm/music/Little+Dragon/_/The+Other+Lover+&lpar;Little+Dragon+&amp;+Moses+Sumney&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
