@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Floral — Unfair Treaty](https://www.last.fm/music/Floral/_/Unfair+Treaty)
+* [Sam Gellaitry — Flares](https://www.last.fm/music/Sam+Gellaitry/_/Flares)
+* [RL Grime — Undo - AWAY Remix](https://www.last.fm/music/RL+Grime/_/Undo+-+AWAY+Remix)
 * [Daichi Yamamoto — One Way](https://www.last.fm/music/Daichi+Yamamoto/_/One+Way)
-* [Daichi Yamamoto — Splash](https://www.last.fm/music/Daichi+Yamamoto/_/Splash)
-* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
-* [NAMEDARUMAAZ — Floatin&#39;](https://www.last.fm/music/NAMEDARUMAAZ/_/Floatin%27)
-* [submerse — Rumble Pak](https://www.last.fm/music/submerse/_/Rumble+Pak)<!-- LASTFM:END -->
+* [Daichi Yamamoto — Splash](https://www.last.fm/music/Daichi+Yamamoto/_/Splash)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
