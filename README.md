@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rossi Rock — Arco](https://www.last.fm/music/Rossi+Rock/_/Arco)
-* [tobi lou — Lingo Starr: RETURN OF THE DRAGON](https://www.last.fm/music/tobi+lou/_/Lingo+Starr:+RETURN+OF+THE+DRAGON)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)
-* [Tiny Meat Gang — Sofia](https://www.last.fm/music/Tiny+Meat+Gang/_/Sofia)<!-- LASTFM:END -->
+* [Flying Lotus — Until The Colours Come](https://www.last.fm/music/Flying+Lotus/_/Until+The+Colours+Come)
+* [JessB — Bullseye](https://www.last.fm/music/JessB/_/Bullseye)
+* [Amaarae — JUMPING SHIP](https://www.last.fm/music/Amaarae/_/JUMPING+SHIP)
+* [BaianaSystem — Saci &lpar;Remix&rpar;](https://www.last.fm/music/BaianaSystem/_/Saci+&lpar;Remix&rpar;)
+* [Elijah Ghost — All the Smoke, Pt. 2](https://www.last.fm/music/Elijah+Ghost/_/All+the+Smoke,+Pt.+2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
