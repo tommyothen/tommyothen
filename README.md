@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GRAVEDGR — RAMPAGE](https://www.last.fm/music/GRAVEDGR/_/RAMPAGE)
+* [Daichi Yamamoto — Splash](https://www.last.fm/music/Daichi+Yamamoto/_/Splash)
 * [Floral — Unfair Treaty](https://www.last.fm/music/Floral/_/Unfair+Treaty)
 * [Sam Gellaitry — Flares](https://www.last.fm/music/Sam+Gellaitry/_/Flares)
-* [Wize — 3 years later](https://www.last.fm/music/Wize/_/3+years+later)
-* [submerse — Rumble Pak](https://www.last.fm/music/submerse/_/Rumble+Pak)
-* [NAMEDARUMAAZ — Floatin&#39;](https://www.last.fm/music/NAMEDARUMAAZ/_/Floatin%27)<!-- LASTFM:END -->
+* [Wize — 3 years later](https://www.last.fm/music/Wize/_/3+years+later)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
