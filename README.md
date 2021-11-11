@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [JIMIJAME$ — Bullshit or Worry](https://www.last.fm/music/JIMIJAME$/_/Bullshit+or+Worry)
-* [Ashwarya — BIRYANI](https://www.last.fm/music/Ashwarya/_/BIRYANI)
-* [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
-* [yaya bey — fxck it then](https://www.last.fm/music/yaya+bey/_/fxck+it+then)
-* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)<!-- LASTFM:END -->
+* [Nayana Iz — partner in crime](https://www.last.fm/music/Nayana+Iz/_/partner+in+crime)
+* [Bosco — Paid In Full](https://www.last.fm/music/Bosco/_/Paid+In+Full)
+* [Danny Brown — Ain&#39;t it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)
+* [Sampa the Great — Energy](https://www.last.fm/music/Sampa+the+Great/_/Energy)
+* [JIMIJAME$ — Bullshit or Worry](https://www.last.fm/music/JIMIJAME$/_/Bullshit+or+Worry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
