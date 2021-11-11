@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dreamcatcher — Full Moon](https://www.last.fm/music/Dreamcatcher/_/Full+Moon)
-* [TeddyLoid — Me!Me!Me!, Pt. 2](https://www.last.fm/music/TeddyLoid/_/Me!Me!Me!,+Pt.+2)
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
 * [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [FEDUK — Звук клавиш](https://www.last.fm/music/FEDUK/_/%D0%97%D0%B2%D1%83%D0%BA+%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D1%88)
+* [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)
+* [o k h o — Espresso](https://www.last.fm/music/o+k+h+o/_/Espresso)
 * [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
