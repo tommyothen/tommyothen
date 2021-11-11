@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [tobi lou — I Was Sad Last Night I&#39;m OK Now](https://www.last.fm/music/tobi+lou/_/I+Was+Sad+Last+Night+I%27m+OK+Now)
-* [Tragic Young Existence — Nintendo Club](https://www.last.fm/music/Tragic+Young+Existence/_/Nintendo+Club)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
-* [Elio — hurts 2 hate somebody &lpar;with Chase Atlantic &amp; No Rome&rpar;](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+&lpar;with+Chase+Atlantic+&amp;+No+Rome&rpar;)<!-- LASTFM:END -->
+* [Fox Szn — Circus](https://www.last.fm/music/Fox+Szn/_/Circus)
+* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
+* [Gold Revere — Goldfish Crackers](https://www.last.fm/music/Gold+Revere/_/Goldfish+Crackers)
+* [Tiny Meat Gang — Broke Bitch](https://www.last.fm/music/Tiny+Meat+Gang/_/Broke+Bitch)
+* [tobi lou — I Was Sad Last Night I&#39;m OK Now](https://www.last.fm/music/tobi+lou/_/I+Was+Sad+Last+Night+I%27m+OK+Now)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
