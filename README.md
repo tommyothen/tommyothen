@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chow Mane — San Jose](https://www.last.fm/music/Chow+Mane/_/San+Jose)
+* [Old Chingu — Candy Aisle](https://www.last.fm/music/Old+Chingu/_/Candy+Aisle)
 * [Payday — Super Thicc](https://www.last.fm/music/Payday/_/Super+Thicc)
 * [Vincent Augustus — I Think I&#39;m Tired](https://www.last.fm/music/Vincent+Augustus/_/I+Think+I%27m+Tired)
-* [Payday — I Don&#39;t Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
-* [The North 41 — My Ecstasy](https://www.last.fm/music/The+North+41/_/My+Ecstasy)
-* [PepSparks — Broke](https://www.last.fm/music/PepSparks/_/Broke)<!-- LASTFM:END -->
+* [Payday — I Don&#39;t Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
