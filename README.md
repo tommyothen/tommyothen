@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
+* [DeVita — EVITA!](https://www.last.fm/music/DeVita/_/EVITA!)
 * [WOODZ — DIFFERENT](https://www.last.fm/music/WOODZ/_/DIFFERENT)
 * [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
-* [Hyolyn — Dally &lpar;feat. Gray&rpar;](https://www.last.fm/music/Hyolyn/_/Dally+&lpar;feat.+Gray&rpar;)
-* [DPR IAN — Scaredy Cat](https://www.last.fm/music/DPR+IAN/_/Scaredy+Cat)
-* [Yukika — SOUL LADY](https://www.last.fm/music/Yukika/_/SOUL+LADY)<!-- LASTFM:END -->
+* [Hyolyn — Dally &lpar;feat. Gray&rpar;](https://www.last.fm/music/Hyolyn/_/Dally+&lpar;feat.+Gray&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
