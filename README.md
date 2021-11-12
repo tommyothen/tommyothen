@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LOOΠΔ / ODD EYE CIRCLE — LOONATIC - Eng. Ver.](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/LOONATIC+-+Eng.+Ver.)
+* [Villain — Manitto](https://www.last.fm/music/Villain/_/Manitto)
 * [1TEAM — 습관적 VIBE](https://www.last.fm/music/1TEAM/_/%EC%8A%B5%EA%B4%80%EC%A0%81+VIBE)
 * [Junoflo — Acid Freestyle](https://www.last.fm/music/Junoflo/_/Acid+Freestyle)
-* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
-* [SLCHLD — she likes spring, I prefer winter](https://www.last.fm/music/SLCHLD/_/she+likes+spring,+I+prefer+winter)
-* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)<!-- LASTFM:END -->
+* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
