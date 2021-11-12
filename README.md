@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
-* [DeVita — EVITA!](https://www.last.fm/music/DeVita/_/EVITA!)
-* [WOODZ — DIFFERENT](https://www.last.fm/music/WOODZ/_/DIFFERENT)
-* [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
-* [Hyolyn — Dally &lpar;feat. Gray&rpar;](https://www.last.fm/music/Hyolyn/_/Dally+&lpar;feat.+Gray&rpar;)<!-- LASTFM:END -->
+* [1TEAM — 습관적 VIBE](https://www.last.fm/music/1TEAM/_/%EC%8A%B5%EA%B4%80%EC%A0%81+VIBE)
+* [Junoflo — Acid Freestyle](https://www.last.fm/music/Junoflo/_/Acid+Freestyle)
+* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
+* [SLCHLD — she likes spring, I prefer winter](https://www.last.fm/music/SLCHLD/_/she+likes+spring,+I+prefer+winter)
+* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
