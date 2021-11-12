@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hojean — Memory](https://www.last.fm/music/Hojean/_/Memory)
+* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)
+* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
 * [PRISTIN V — Get It](https://www.last.fm/music/PRISTIN+V/_/Get+It)
-* [Bibi — Life is a Bi…](https://www.last.fm/music/Bibi/_/Life+is+a+Bi%E2%80%A6)
-* [DPR IAN — Nerves](https://www.last.fm/music/DPR+IAN/_/Nerves)
-* [Hoody — Sunshine](https://www.last.fm/music/Hoody/_/Sunshine)
-* [ピョートル&lpar;Vo. J R Price&rpar; — Dance Tonight](https://www.last.fm/music/%E3%83%94%E3%83%A7%E3%83%BC%E3%83%88%E3%83%AB&lpar;Vo.+J+R+Price&rpar;/_/Dance+Tonight)<!-- LASTFM:END -->
+* [Bibi — Life is a Bi…](https://www.last.fm/music/Bibi/_/Life+is+a+Bi%E2%80%A6)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
