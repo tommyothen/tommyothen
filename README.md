@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Milky day — Take It Slow](https://www.last.fm/music/Milky+day/_/Take+It+Slow)
+* [CHANMINA — Doctor](https://www.last.fm/music/CHANMINA/_/Doctor)
 * [Hojean — You Feel Like](https://www.last.fm/music/Hojean/_/You+Feel+Like)
 * [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [LOOΠΔ / ODD EYE CIRCLE — LOONATIC - Eng. Ver.](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/LOONATIC+-+Eng.+Ver.)
-* [Villain — Manitto](https://www.last.fm/music/Villain/_/Manitto)
-* [1TEAM — 습관적 VIBE](https://www.last.fm/music/1TEAM/_/%EC%8A%B5%EA%B4%80%EC%A0%81+VIBE)<!-- LASTFM:END -->
+* [LOOΠΔ / ODD EYE CIRCLE — LOONATIC - Eng. Ver.](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/LOONATIC+-+Eng.+Ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
