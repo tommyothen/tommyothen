@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)
-* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
-* [BLACKPINK — SEE U LATER](https://www.last.fm/music/BLACKPINK/_/SEE+U+LATER)
-* [Ashnikko — Slumber Party &lpar;feat. Princess Nokia&rpar;](https://www.last.fm/music/Ashnikko/_/Slumber+Party+&lpar;feat.+Princess+Nokia&rpar;)
-* [LOOΠΔ / ODD EYE CIRCLE — Girl Front](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Girl+Front)<!-- LASTFM:END -->
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
+* [Alextbh — no space](https://www.last.fm/music/Alextbh/_/no+space)
+* [April — Oh! my mistake](https://www.last.fm/music/April/_/Oh!+my+mistake)
+* [Edge Of Silence — Foxxay](https://www.last.fm/music/Edge+Of+Silence/_/Foxxay)
+* [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
