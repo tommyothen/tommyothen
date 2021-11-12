@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Everglow — Hush](https://www.last.fm/music/Everglow/_/Hush)
+* [Bibi — Dingo X BIBI - she got it](https://www.last.fm/music/Bibi/_/Dingo+X+BIBI+-+she+got+it)
 * [Tenny — 159cm](https://www.last.fm/music/Tenny/_/159cm)
 * [Rina Sawayama — Cyber Stockholm Syndrome](https://www.last.fm/music/Rina+Sawayama/_/Cyber+Stockholm+Syndrome)
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
-* [LOOΠΔ / ODD EYE CIRCLE — ODD Front](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/ODD+Front)
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)<!-- LASTFM:END -->
+* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
