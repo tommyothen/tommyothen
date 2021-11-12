@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
 * [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
 * [MAMAMOO — HIP](https://www.last.fm/music/MAMAMOO/_/HIP)
 * [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
-* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
-* [Woosung — FACE](https://www.last.fm/music/Woosung/_/FACE)<!-- LASTFM:END -->
+* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
