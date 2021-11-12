@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — SEE U LATER](https://www.last.fm/music/BLACKPINK/_/SEE+U+LATER)
+* [Ashnikko — Slumber Party &lpar;feat. Princess Nokia&rpar;](https://www.last.fm/music/Ashnikko/_/Slumber+Party+&lpar;feat.+Princess+Nokia&rpar;)
+* [LOOΠΔ / ODD EYE CIRCLE — Girl Front](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Girl+Front)
 * [Red Velvet - IRENE &amp; SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&amp;+SEULGI/_/Naughty)
-* [Jessica Universe — Bbo Bbo](https://www.last.fm/music/Jessica+Universe/_/Bbo+Bbo)
-* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
-* [LOONA/yyxy — love4eva &lpar;feat. Grimes&rpar;](https://www.last.fm/music/LOONA%2Fyyxy/_/love4eva+&lpar;feat.+Grimes&rpar;)
-* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)<!-- LASTFM:END -->
+* [Jessica Universe — Bbo Bbo](https://www.last.fm/music/Jessica+Universe/_/Bbo+Bbo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
