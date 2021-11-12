@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Colors](https://www.last.fm/music/Loona/_/Colors)
+* [suggi — uwu](https://www.last.fm/music/suggi/_/uwu)
 * [PLT — Hocus Pocus](https://www.last.fm/music/PLT/_/Hocus+Pocus)
 * [Jackson Wang — TITANIC &lpar;feat. Rich Brian&rpar;](https://www.last.fm/music/Jackson+Wang/_/TITANIC+&lpar;feat.+Rich+Brian&rpar;)
-* [Bibi — KAZINO](https://www.last.fm/music/Bibi/_/KAZINO)
-* [Milky day — Take It Slow](https://www.last.fm/music/Milky+day/_/Take+It+Slow)
-* [CHANMINA — Doctor](https://www.last.fm/music/CHANMINA/_/Doctor)<!-- LASTFM:END -->
+* [Bibi — KAZINO](https://www.last.fm/music/Bibi/_/KAZINO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
