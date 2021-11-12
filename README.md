@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MOMOLAND — BBoom BBoom](https://www.last.fm/music/MOMOLAND/_/BBoom+BBoom)
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
 * [Everglow — Bon Bon Chocolat](https://www.last.fm/music/Everglow/_/Bon+Bon+Chocolat)
 * [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
