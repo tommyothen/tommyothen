@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Solar — SPIT IT OUT](https://www.last.fm/music/Solar/_/SPIT+IT+OUT)
+* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
+* [BewhY — DAMM GUT](https://www.last.fm/music/BewhY/_/DAMM+GUT)
 * [Jennie — SOLO](https://www.last.fm/music/Jennie/_/SOLO)
-* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
-* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
-* [&lpar;G&rpar;I-DLE — Oh My God](https://www.last.fm/music/&lpar;G&rpar;I-DLE/_/Oh+My+God)
-* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)<!-- LASTFM:END -->
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
