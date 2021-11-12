@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HA:TFELT — Life Sucks](https://www.last.fm/music/HA:TFELT/_/Life+Sucks)
+* [Eric Nam — Honestly](https://www.last.fm/music/Eric+Nam/_/Honestly)
 * [sudannayuzuyully — LOOK AT ME NOW](https://www.last.fm/music/sudannayuzuyully/_/LOOK+AT+ME+NOW)
 * [BLACKPINK — Crazy Over You](https://www.last.fm/music/BLACKPINK/_/Crazy+Over+You)
-* [Big Marvel — Crush](https://www.last.fm/music/Big+Marvel/_/Crush)
-* [Hojean — Memory](https://www.last.fm/music/Hojean/_/Memory)
-* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)<!-- LASTFM:END -->
+* [Big Marvel — Crush](https://www.last.fm/music/Big+Marvel/_/Crush)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
