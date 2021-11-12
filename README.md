@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PRISTIN V — Get It](https://www.last.fm/music/PRISTIN+V/_/Get+It)
+* [Bibi — Life is a Bi…](https://www.last.fm/music/Bibi/_/Life+is+a+Bi%E2%80%A6)
+* [DPR IAN — Nerves](https://www.last.fm/music/DPR+IAN/_/Nerves)
 * [Hoody — Sunshine](https://www.last.fm/music/Hoody/_/Sunshine)
-* [ピョートル&lpar;Vo. J R Price&rpar; — Dance Tonight](https://www.last.fm/music/%E3%83%94%E3%83%A7%E3%83%BC%E3%83%88%E3%83%AB&lpar;Vo.+J+R+Price&rpar;/_/Dance+Tonight)
-* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
-* [woo!ah! — Bad Girl](https://www.last.fm/music/woo!ah!/_/Bad+Girl)
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)<!-- LASTFM:END -->
+* [ピョートル&lpar;Vo. J R Price&rpar; — Dance Tonight](https://www.last.fm/music/%E3%83%94%E3%83%A7%E3%83%BC%E3%83%88%E3%83%AB&lpar;Vo.+J+R+Price&rpar;/_/Dance+Tonight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
