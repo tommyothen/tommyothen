@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Seori — Fairy tale](https://www.last.fm/music/Seori/_/Fairy+tale)
-* [Bibi — BAD SAD AND MAD](https://www.last.fm/music/Bibi/_/BAD+SAD+AND+MAD)
-* [K/DA — DRUM GO DUM](https://www.last.fm/music/K%2FDA/_/DRUM+GO+DUM)
-* [Loona — Colors](https://www.last.fm/music/Loona/_/Colors)
-* [suggi — uwu](https://www.last.fm/music/suggi/_/uwu)<!-- LASTFM:END -->
+* [chloe george — ghost town &lpar;voice memo&rpar;](https://www.last.fm/music/chloe+george/_/ghost+town+&lpar;voice+memo&rpar;)
+* [Yaeji — Feelings Change](https://www.last.fm/music/Yaeji/_/Feelings+Change)
+* [Aries — One Punch](https://www.last.fm/music/Aries/_/One+Punch)
+* [Aries — ETA](https://www.last.fm/music/Aries/_/ETA)
+* [Aries — RIDING](https://www.last.fm/music/Aries/_/RIDING)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
