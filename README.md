@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
+* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
+* [Alina Pash — Не пили](https://www.last.fm/music/Alina+Pash/_/%D0%9D%D0%B5+%D0%BF%D0%B8%D0%BB%D0%B8)
 * [Rich Brian — Arizona &lpar;feat. AUGUST 08&rpar;](https://www.last.fm/music/Rich+Brian/_/Arizona+&lpar;feat.+AUGUST+08&rpar;)
-* [Eery — her](https://www.last.fm/music/Eery/_/her)
-* [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)
-* [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
-* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)<!-- LASTFM:END -->
+* [Eery — her](https://www.last.fm/music/Eery/_/her)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
