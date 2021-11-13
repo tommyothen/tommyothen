@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [Danny Brown — Ain&#39;t it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)
 * [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
-* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
-* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
-* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
-* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)<!-- LASTFM:END -->
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
