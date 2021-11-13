@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
 * [Danny Brown — Ain&#39;t it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)
 * [Cigarettes After Sex — Apocalypse](https://www.last.fm/music/Cigarettes+After+Sex/_/Apocalypse)
 * [Novo Amor — Haven &lpar;from Life Is Strange&rpar;](https://www.last.fm/music/Novo+Amor/_/Haven+&lpar;from+Life+Is+Strange&rpar;)
-* [Mitski — Nobody](https://www.last.fm/music/Mitski/_/Nobody)
-* [Labrinth — Still Don&#39;t Know My Name](https://www.last.fm/music/Labrinth/_/Still+Don%27t+Know+My+Name)<!-- LASTFM:END -->
+* [Mitski — Nobody](https://www.last.fm/music/Mitski/_/Nobody)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
