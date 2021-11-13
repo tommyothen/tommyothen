@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jennie — SOLO](https://www.last.fm/music/Jennie/_/SOLO)
+* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
 * [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
 * [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
-* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
-* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
-* [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)<!-- LASTFM:END -->
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
