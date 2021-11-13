@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [&lpar;G&rpar;I-DLE — Oh My God](https://www.last.fm/music/&lpar;G&rpar;I-DLE/_/Oh+My+God)
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
 * [MAMAMOO — HIP](https://www.last.fm/music/MAMAMOO/_/HIP)
 * [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
-* [Red Velvet — 러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)
-* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
-* [BewhY — DAMM GUT](https://www.last.fm/music/BewhY/_/DAMM+GUT)<!-- LASTFM:END -->
+* [Red Velvet — 러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
