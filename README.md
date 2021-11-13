@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
 * [Danny Brown — Ain&#39;t it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)
-* [Cigarettes After Sex — Apocalypse](https://www.last.fm/music/Cigarettes+After+Sex/_/Apocalypse)
-* [Novo Amor — Haven &lpar;from Life Is Strange&rpar;](https://www.last.fm/music/Novo+Amor/_/Haven+&lpar;from+Life+Is+Strange&rpar;)
-* [Mitski — Nobody](https://www.last.fm/music/Mitski/_/Nobody)<!-- LASTFM:END -->
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [Danny Brown — Ain&#39;t it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)
+* [Cigarettes After Sex — Apocalypse](https://www.last.fm/music/Cigarettes+After+Sex/_/Apocalypse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
