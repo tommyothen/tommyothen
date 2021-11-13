@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Arizona &lpar;feat. AUGUST 08&rpar;](https://www.last.fm/music/Rich+Brian/_/Arizona+&lpar;feat.+AUGUST+08&rpar;)
 * [Eery — her](https://www.last.fm/music/Eery/_/her)
 * [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)
 * [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)
-* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
-* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)<!-- LASTFM:END -->
+* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
