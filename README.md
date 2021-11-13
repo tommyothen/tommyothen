@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ryn Weaver — Pierre](https://www.last.fm/music/Ryn+Weaver/_/Pierre)
-* [Lorde — Ribs](https://www.last.fm/music/Lorde/_/Ribs)
-* [Mitski — I Bet on Losing Dogs](https://www.last.fm/music/Mitski/_/I+Bet+on+Losing+Dogs)
-* [Amber Run — I Found](https://www.last.fm/music/Amber+Run/_/I+Found)
-* [chloe george — ghost town &lpar;voice memo&rpar;](https://www.last.fm/music/chloe+george/_/ghost+town+&lpar;voice+memo&rpar;)<!-- LASTFM:END -->
+* [Danny Brown — Ain&#39;t it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)
+* [Cigarettes After Sex — Apocalypse](https://www.last.fm/music/Cigarettes+After+Sex/_/Apocalypse)
+* [Novo Amor — Haven &lpar;from Life Is Strange&rpar;](https://www.last.fm/music/Novo+Amor/_/Haven+&lpar;from+Life+Is+Strange&rpar;)
+* [Mitski — Nobody](https://www.last.fm/music/Mitski/_/Nobody)
+* [Labrinth — Still Don&#39;t Know My Name](https://www.last.fm/music/Labrinth/_/Still+Don%27t+Know+My+Name)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
