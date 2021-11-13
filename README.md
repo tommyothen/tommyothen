@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Seori — Fairy tale](https://www.last.fm/music/Seori/_/Fairy+tale)
+* [Bibi — BAD SAD AND MAD](https://www.last.fm/music/Bibi/_/BAD+SAD+AND+MAD)
+* [K/DA — DRUM GO DUM](https://www.last.fm/music/K%2FDA/_/DRUM+GO+DUM)
 * [Loona — Colors](https://www.last.fm/music/Loona/_/Colors)
-* [suggi — uwu](https://www.last.fm/music/suggi/_/uwu)
-* [PLT — Hocus Pocus](https://www.last.fm/music/PLT/_/Hocus+Pocus)
-* [Jackson Wang — TITANIC &lpar;feat. Rich Brian&rpar;](https://www.last.fm/music/Jackson+Wang/_/TITANIC+&lpar;feat.+Rich+Brian&rpar;)
-* [Bibi — KAZINO](https://www.last.fm/music/Bibi/_/KAZINO)<!-- LASTFM:END -->
+* [suggi — uwu](https://www.last.fm/music/suggi/_/uwu)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
