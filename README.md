@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [chloe george — ghost town &lpar;voice memo&rpar;](https://www.last.fm/music/chloe+george/_/ghost+town+&lpar;voice+memo&rpar;)
-* [Yaeji — Feelings Change](https://www.last.fm/music/Yaeji/_/Feelings+Change)
-* [Aries — One Punch](https://www.last.fm/music/Aries/_/One+Punch)
-* [Aries — ETA](https://www.last.fm/music/Aries/_/ETA)
-* [Aries — RIDING](https://www.last.fm/music/Aries/_/RIDING)<!-- LASTFM:END -->
+* [Ryn Weaver — Pierre](https://www.last.fm/music/Ryn+Weaver/_/Pierre)
+* [Lorde — Ribs](https://www.last.fm/music/Lorde/_/Ribs)
+* [Mitski — I Bet on Losing Dogs](https://www.last.fm/music/Mitski/_/I+Bet+on+Losing+Dogs)
+* [Amber Run — I Found](https://www.last.fm/music/Amber+Run/_/I+Found)
+* [chloe george — ghost town &lpar;voice memo&rpar;](https://www.last.fm/music/chloe+george/_/ghost+town+&lpar;voice+memo&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
