@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR IAN — zombie pop](https://www.last.fm/music/DPR+IAN/_/zombie+pop)
+* [4minute — 미쳐](https://www.last.fm/music/4minute/_/%EB%AF%B8%EC%B3%90)
+* [Ash-B — Booty &lpar;feat. Mckdaddy&rpar;](https://www.last.fm/music/Ash-B/_/Booty+&lpar;feat.+Mckdaddy&rpar;)
 * [1TEAM — 습관적 VIBE](https://www.last.fm/music/1TEAM/_/%EC%8A%B5%EA%B4%80%EC%A0%81+VIBE)
-* [Bibi — KAZINO](https://www.last.fm/music/Bibi/_/KAZINO)
-* [DPR LIVE — Summer Tights](https://www.last.fm/music/DPR+LIVE/_/Summer+Tights)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [Yukika — NEON 1989](https://www.last.fm/music/Yukika/_/NEON+1989)<!-- LASTFM:END -->
+* [Bibi — KAZINO](https://www.last.fm/music/Bibi/_/KAZINO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
