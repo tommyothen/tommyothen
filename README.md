@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Junoflo — Acid Freestyle](https://www.last.fm/music/Junoflo/_/Acid+Freestyle)
+* [Bibi — Dingo X BIBI - she got it](https://www.last.fm/music/Bibi/_/Dingo+X+BIBI+-+she+got+it)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
 * [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
-* [Red Velvet - IRENE &amp; SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&amp;+SEULGI/_/Naughty)
-* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
-* [Woosung — FACE](https://www.last.fm/music/Woosung/_/FACE)
-* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)<!-- LASTFM:END -->
+* [Red Velvet - IRENE &amp; SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&amp;+SEULGI/_/Naughty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
