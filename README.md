@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tenny — 159cm](https://www.last.fm/music/Tenny/_/159cm)
-* [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
-* [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
-* [LOOΠΔ / ODD EYE CIRCLE — Girl Front](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Girl+Front)<!-- LASTFM:END -->
+* [BLACKPINK — SEE U LATER](https://www.last.fm/music/BLACKPINK/_/SEE+U+LATER)
+* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
+* [Jessica Universe — Bbo Bbo](https://www.last.fm/music/Jessica+Universe/_/Bbo+Bbo)
+* [Lolo Zouaï — Caffeine](https://www.last.fm/music/Lolo+Zoua%C3%AF/_/Caffeine)
+* [BewhY — I did it](https://www.last.fm/music/BewhY/_/I+did+it)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
