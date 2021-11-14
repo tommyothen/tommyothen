@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR IAN — Scaredy Cat](https://www.last.fm/music/DPR+IAN/_/Scaredy+Cat)
+* [NECRONOMIDOL — TUPILAQ](https://www.last.fm/music/NECRONOMIDOL/_/TUPILAQ)
 * [Bursters — Lost Child](https://www.last.fm/music/Bursters/_/Lost+Child)
 * [서태지 — Internet War](https://www.last.fm/music/%EC%84%9C%ED%83%9C%EC%A7%80/_/Internet+War)
-* [Grazy Grace — Planet](https://www.last.fm/music/Grazy+Grace/_/Planet)
-* [wetter — Hello Sunshine](https://www.last.fm/music/wetter/_/Hello+Sunshine)
-* [Løren — EMPTY TRASH](https://www.last.fm/music/L%C3%B8ren/_/EMPTY+TRASH)<!-- LASTFM:END -->
+* [Grazy Grace — Planet](https://www.last.fm/music/Grazy+Grace/_/Planet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
