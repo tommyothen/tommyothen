@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — DDU-DU DDU-DU](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU)
 * [GIRIBOY — DIE DIE &lpar;Feat. CHOILB&rpar; &lpar;STUDY GROUP X GIRIBOY&rpar;](https://www.last.fm/music/GIRIBOY/_/DIE+DIE+&lpar;Feat.+CHOILB&rpar;+&lpar;STUDY+GROUP+X+GIRIBOY&rpar;)
 * [Hoody — Hangang](https://www.last.fm/music/Hoody/_/Hangang)
 * [PinkFantasy — Iriwa](https://www.last.fm/music/PinkFantasy/_/Iriwa)
-* [Kang Daniel — PARANOIA](https://www.last.fm/music/Kang+Daniel/_/PARANOIA)
-* [Do Han Se — TAKE OVER](https://www.last.fm/music/Do+Han+Se/_/TAKE+OVER)<!-- LASTFM:END -->
+* [Kang Daniel — PARANOIA](https://www.last.fm/music/Kang+Daniel/_/PARANOIA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
