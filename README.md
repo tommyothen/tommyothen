@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
+* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
 * [Loona — Colors](https://www.last.fm/music/Loona/_/Colors)
 * [Bibi — Binu](https://www.last.fm/music/Bibi/_/Binu)
-* [DPR IAN — zombie pop](https://www.last.fm/music/DPR+IAN/_/zombie+pop)
-* [4minute — 미쳐](https://www.last.fm/music/4minute/_/%EB%AF%B8%EC%B3%90)
-* [Ash-B — Booty &lpar;feat. Mckdaddy&rpar;](https://www.last.fm/music/Ash-B/_/Booty+&lpar;feat.+Mckdaddy&rpar;)<!-- LASTFM:END -->
+* [DPR IAN — zombie pop](https://www.last.fm/music/DPR+IAN/_/zombie+pop)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
