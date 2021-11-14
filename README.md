@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grazy Grace — Planet](https://www.last.fm/music/Grazy+Grace/_/Planet)
 * [wetter — Hello Sunshine](https://www.last.fm/music/wetter/_/Hello+Sunshine)
 * [Løren — EMPTY TRASH](https://www.last.fm/music/L%C3%B8ren/_/EMPTY+TRASH)
 * [Without a Sin — FRI-END](https://www.last.fm/music/Without+a+Sin/_/FRI-END)
-* [DPR IAN — Nerves](https://www.last.fm/music/DPR+IAN/_/Nerves)
-* [Bursters — Barriers](https://www.last.fm/music/Bursters/_/Barriers)<!-- LASTFM:END -->
+* [DPR IAN — Nerves](https://www.last.fm/music/DPR+IAN/_/Nerves)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
