@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sable — Scream](https://www.last.fm/music/Sable/_/Scream)
 * [Zippermouth — Holy Water](https://www.last.fm/music/Zippermouth/_/Holy+Water)
 * [LYNXCATS — Arcade Love](https://www.last.fm/music/LYNXCATS/_/Arcade+Love)
 * [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)
-* [015B — Random](https://www.last.fm/music/015B/_/Random)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)<!-- LASTFM:END -->
+* [015B — Random](https://www.last.fm/music/015B/_/Random)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
