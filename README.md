@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blue Fox — Wake Me Up](https://www.last.fm/music/Blue+Fox/_/Wake+Me+Up)
+* [Swervy — Blue](https://www.last.fm/music/Swervy/_/Blue)
 * [Bursters — Eternal](https://www.last.fm/music/Bursters/_/Eternal)
 * [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
-* [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)
-* [서태지 — Ultramania](https://www.last.fm/music/%EC%84%9C%ED%83%9C%EC%A7%80/_/Ultramania)
-* [Brats — No more No more](https://www.last.fm/music/Brats/_/No+more+No+more)<!-- LASTFM:END -->
+* [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
