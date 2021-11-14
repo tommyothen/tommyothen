@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Colors](https://www.last.fm/music/Loona/_/Colors)
+* [Bibi — Binu](https://www.last.fm/music/Bibi/_/Binu)
 * [DPR IAN — zombie pop](https://www.last.fm/music/DPR+IAN/_/zombie+pop)
 * [4minute — 미쳐](https://www.last.fm/music/4minute/_/%EB%AF%B8%EC%B3%90)
-* [Ash-B — Booty &lpar;feat. Mckdaddy&rpar;](https://www.last.fm/music/Ash-B/_/Booty+&lpar;feat.+Mckdaddy&rpar;)
-* [1TEAM — 습관적 VIBE](https://www.last.fm/music/1TEAM/_/%EC%8A%B5%EA%B4%80%EC%A0%81+VIBE)
-* [Bibi — KAZINO](https://www.last.fm/music/Bibi/_/KAZINO)<!-- LASTFM:END -->
+* [Ash-B — Booty &lpar;feat. Mckdaddy&rpar;](https://www.last.fm/music/Ash-B/_/Booty+&lpar;feat.+Mckdaddy&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
