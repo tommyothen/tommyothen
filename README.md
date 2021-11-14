@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Brats — No more No more](https://www.last.fm/music/Brats/_/No+more+No+more)
+* [Bibi — KAZINO](https://www.last.fm/music/Bibi/_/KAZINO)
+* [015B — Camellia Flower](https://www.last.fm/music/015B/_/Camellia+Flower)
 * [015B — Uncertainty Principle](https://www.last.fm/music/015B/_/Uncertainty+Principle)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [Purple Rain — The King Must Die](https://www.last.fm/music/Purple+Rain/_/The+King+Must+Die)
-* [Sable — Scream](https://www.last.fm/music/Sable/_/Scream)
-* [Zippermouth — Holy Water](https://www.last.fm/music/Zippermouth/_/Holy+Water)<!-- LASTFM:END -->
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
