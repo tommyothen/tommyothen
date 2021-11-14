@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Thuy — Vapor Rub](https://www.last.fm/music/Thuy/_/Vapor+Rub)
-* [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)
-* [Amber Liu — Other People](https://www.last.fm/music/Amber+Liu/_/Other+People)
-* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
-* [PRISTIN V — Get It](https://www.last.fm/music/PRISTIN+V/_/Get+It)<!-- LASTFM:END -->
+* [Yukika — pit-a-pet](https://www.last.fm/music/Yukika/_/pit-a-pet)
+* [DPR IAN — Scaredy Cat](https://www.last.fm/music/DPR+IAN/_/Scaredy+Cat)
+* [LOONA/yyxy — love4eva &lpar;feat. Grimes&rpar;](https://www.last.fm/music/LOONA%2Fyyxy/_/love4eva+&lpar;feat.+Grimes&rpar;)
+* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)
+* [Dress — hug &amp; kiss](https://www.last.fm/music/Dress/_/hug+&amp;+kiss)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
