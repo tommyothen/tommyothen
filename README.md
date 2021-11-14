@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BLACKPINK — SEE U LATER](https://www.last.fm/music/BLACKPINK/_/SEE+U+LATER)
-* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
-* [Jessica Universe — Bbo Bbo](https://www.last.fm/music/Jessica+Universe/_/Bbo+Bbo)
-* [Lolo Zouaï — Caffeine](https://www.last.fm/music/Lolo+Zoua%C3%AF/_/Caffeine)
-* [BewhY — I did it](https://www.last.fm/music/BewhY/_/I+did+it)<!-- LASTFM:END -->
+* [Thuy — Vapor Rub](https://www.last.fm/music/Thuy/_/Vapor+Rub)
+* [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)
+* [Amber Liu — Other People](https://www.last.fm/music/Amber+Liu/_/Other+People)
+* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
+* [PRISTIN V — Get It](https://www.last.fm/music/PRISTIN+V/_/Get+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
