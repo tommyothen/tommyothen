@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [woo!ah! — Bad Girl](https://www.last.fm/music/woo!ah!/_/Bad+Girl)
-* [Jamie — Stay Beautiful](https://www.last.fm/music/Jamie/_/Stay+Beautiful)
-* [Beenzino — Fashion Hoarder](https://www.last.fm/music/Beenzino/_/Fashion+Hoarder)
-* [Tiffany Day — CLOUT CHASER](https://www.last.fm/music/Tiffany+Day/_/CLOUT+CHASER)
-* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)<!-- LASTFM:END -->
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
+* [Yukika — NEON 1989](https://www.last.fm/music/Yukika/_/NEON+1989)
+* [Seori — Lovers In The Night](https://www.last.fm/music/Seori/_/Lovers+In+The+Night)
+* [LYNXCATS — Arcade Love](https://www.last.fm/music/LYNXCATS/_/Arcade+Love)
+* [Loona — Star &lpar;Voice English Ver.&rpar;](https://www.last.fm/music/Loona/_/Star+&lpar;Voice+English+Ver.&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
