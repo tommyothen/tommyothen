@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yukika — pit-a-pet](https://www.last.fm/music/Yukika/_/pit-a-pet)
-* [DPR IAN — Scaredy Cat](https://www.last.fm/music/DPR+IAN/_/Scaredy+Cat)
-* [LOONA/yyxy — love4eva &lpar;feat. Grimes&rpar;](https://www.last.fm/music/LOONA%2Fyyxy/_/love4eva+&lpar;feat.+Grimes&rpar;)
-* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)
-* [Dress — hug &amp; kiss](https://www.last.fm/music/Dress/_/hug+&amp;+kiss)<!-- LASTFM:END -->
+* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
+* [Sakima — Daddy](https://www.last.fm/music/Sakima/_/Daddy)
+* [Bibi — Life is a Bi…](https://www.last.fm/music/Bibi/_/Life+is+a+Bi%E2%80%A6)
+* [Alextbh — no space](https://www.last.fm/music/Alextbh/_/no+space)
+* [Ashnikko — Slumber Party &lpar;feat. Princess Nokia&rpar;](https://www.last.fm/music/Ashnikko/_/Slumber+Party+&lpar;feat.+Princess+Nokia&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
