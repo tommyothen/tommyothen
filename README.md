@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [PassCode — Taking You Out](https://www.last.fm/music/PassCode/_/Taking+You+Out)
-* [Nature — Girls](https://www.last.fm/music/Nature/_/Girls)
-* [3YE — STALKER](https://www.last.fm/music/3YE/_/STALKER)
-* [시연 &amp; 다미 &lpar;드림캐쳐&rpar; SIYEON &amp; DAMI &lpar;DREAMCATCHER&rpar; — Shadow](https://www.last.fm/music/%EC%8B%9C%EC%97%B0+&amp;+%EB%8B%A4%EB%AF%B8+&lpar;%EB%93%9C%EB%A6%BC%EC%BA%90%EC%B3%90&rpar;+SIYEON+&amp;+DAMI+&lpar;DREAMCATCHER&rpar;/_/Shadow)
-* [Ladybaby — Riot Anthem](https://www.last.fm/music/Ladybaby/_/Riot+Anthem)<!-- LASTFM:END -->
+* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
+* [Chase &amp; Status — End Credits](https://www.last.fm/music/Chase+&amp;+Status/_/End+Credits)
+* [Majiko — Kokoronashi](https://www.last.fm/music/Majiko/_/Kokoronashi)
+* [Rolling Quartz — BLAZE](https://www.last.fm/music/Rolling+Quartz/_/BLAZE)
+* [PassCode — Taking You Out](https://www.last.fm/music/PassCode/_/Taking+You+Out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
