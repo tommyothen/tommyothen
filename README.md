@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eyedi — Caffeine](https://www.last.fm/music/Eyedi/_/Caffeine)
+* [Løren — NEED &lpar;ooo-eee&rpar;](https://www.last.fm/music/L%C3%B8ren/_/NEED+&lpar;ooo-eee&rpar;)
 * [CLØWD — ANTITHESE](https://www.last.fm/music/CL%C3%98WD/_/ANTITHESE)
 * [YEZI — 미묘](https://www.last.fm/music/YEZI/_/%EB%AF%B8%EB%AC%98)
-* [DPR IAN — Scaredy Cat](https://www.last.fm/music/DPR+IAN/_/Scaredy+Cat)
-* [NECRONOMIDOL — TUPILAQ](https://www.last.fm/music/NECRONOMIDOL/_/TUPILAQ)
-* [Bursters — Lost Child](https://www.last.fm/music/Bursters/_/Lost+Child)<!-- LASTFM:END -->
+* [DPR IAN — Scaredy Cat](https://www.last.fm/music/DPR+IAN/_/Scaredy+Cat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
