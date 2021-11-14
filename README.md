@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [1TEAM — 습관적 VIBE](https://www.last.fm/music/1TEAM/_/%EC%8A%B5%EA%B4%80%EC%A0%81+VIBE)
+* [Bibi — KAZINO](https://www.last.fm/music/Bibi/_/KAZINO)
+* [DPR LIVE — Summer Tights](https://www.last.fm/music/DPR+LIVE/_/Summer+Tights)
 * [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [Yukika — NEON 1989](https://www.last.fm/music/Yukika/_/NEON+1989)
-* [Seori — Lovers In The Night](https://www.last.fm/music/Seori/_/Lovers+In+The+Night)
-* [LYNXCATS — Arcade Love](https://www.last.fm/music/LYNXCATS/_/Arcade+Love)
-* [Loona — Star &lpar;Voice English Ver.&rpar;](https://www.last.fm/music/Loona/_/Star+&lpar;Voice+English+Ver.&rpar;)<!-- LASTFM:END -->
+* [Yukika — NEON 1989](https://www.last.fm/music/Yukika/_/NEON+1989)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
