@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [3YE — STALKER](https://www.last.fm/music/3YE/_/STALKER)
+* [시연 &amp; 다미 &lpar;드림캐쳐&rpar; SIYEON &amp; DAMI &lpar;DREAMCATCHER&rpar; — Shadow](https://www.last.fm/music/%EC%8B%9C%EC%97%B0+&amp;+%EB%8B%A4%EB%AF%B8+&lpar;%EB%93%9C%EB%A6%BC%EC%BA%90%EC%B3%90&rpar;+SIYEON+&amp;+DAMI+&lpar;DREAMCATCHER&rpar;/_/Shadow)
+* [Ladybaby — Riot Anthem](https://www.last.fm/music/Ladybaby/_/Riot+Anthem)
 * [Eyedi — Caffeine](https://www.last.fm/music/Eyedi/_/Caffeine)
-* [Løren — NEED &lpar;ooo-eee&rpar;](https://www.last.fm/music/L%C3%B8ren/_/NEED+&lpar;ooo-eee&rpar;)
-* [CLØWD — ANTITHESE](https://www.last.fm/music/CL%C3%98WD/_/ANTITHESE)
-* [YEZI — 미묘](https://www.last.fm/music/YEZI/_/%EB%AF%B8%EB%AC%98)
-* [DPR IAN — Scaredy Cat](https://www.last.fm/music/DPR+IAN/_/Scaredy+Cat)<!-- LASTFM:END -->
+* [Løren — NEED &lpar;ooo-eee&rpar;](https://www.last.fm/music/L%C3%B8ren/_/NEED+&lpar;ooo-eee&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
