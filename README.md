@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bursters — Barriers](https://www.last.fm/music/Bursters/_/Barriers)
+* [HA:TFELT — Life Sucks](https://www.last.fm/music/HA:TFELT/_/Life+Sucks)
 * [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
 * [Blue Fox — Wake Me Up](https://www.last.fm/music/Blue+Fox/_/Wake+Me+Up)
-* [Swervy — Blue](https://www.last.fm/music/Swervy/_/Blue)
-* [Bursters — Eternal](https://www.last.fm/music/Bursters/_/Eternal)
-* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)<!-- LASTFM:END -->
+* [Swervy — Blue](https://www.last.fm/music/Swervy/_/Blue)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
