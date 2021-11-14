@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kang Daniel — PARANOIA](https://www.last.fm/music/Kang+Daniel/_/PARANOIA)
+* [Do Han Se — TAKE OVER](https://www.last.fm/music/Do+Han+Se/_/TAKE+OVER)
+* [April — Oh! my mistake](https://www.last.fm/music/April/_/Oh!+my+mistake)
 * [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
-* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
-* [Loona — Colors](https://www.last.fm/music/Loona/_/Colors)
-* [Bibi — Binu](https://www.last.fm/music/Bibi/_/Binu)
-* [DPR IAN — zombie pop](https://www.last.fm/music/DPR+IAN/_/zombie+pop)<!-- LASTFM:END -->
+* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
