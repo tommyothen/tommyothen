@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
-* [Sakima — Daddy](https://www.last.fm/music/Sakima/_/Daddy)
-* [Bibi — Life is a Bi…](https://www.last.fm/music/Bibi/_/Life+is+a+Bi%E2%80%A6)
-* [Alextbh — no space](https://www.last.fm/music/Alextbh/_/no+space)
-* [Ashnikko — Slumber Party &lpar;feat. Princess Nokia&rpar;](https://www.last.fm/music/Ashnikko/_/Slumber+Party+&lpar;feat.+Princess+Nokia&rpar;)<!-- LASTFM:END -->
+* [woo!ah! — Bad Girl](https://www.last.fm/music/woo!ah!/_/Bad+Girl)
+* [Jamie — Stay Beautiful](https://www.last.fm/music/Jamie/_/Stay+Beautiful)
+* [Beenzino — Fashion Hoarder](https://www.last.fm/music/Beenzino/_/Fashion+Hoarder)
+* [Tiffany Day — CLOUT CHASER](https://www.last.fm/music/Tiffany+Day/_/CLOUT+CHASER)
+* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
