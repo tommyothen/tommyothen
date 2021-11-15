@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
-* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
-* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)<!-- LASTFM:END -->
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
