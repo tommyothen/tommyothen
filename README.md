@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [Danny Brown — Ain&#39;t it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)
+* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
 * [Rolling Quartz — BLAZE](https://www.last.fm/music/Rolling+Quartz/_/BLAZE)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [CVLTE — Happy. &lpar;feat. 釈迦坊主&rpar;](https://www.last.fm/music/CVLTE/_/Happy.+&lpar;feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB&rpar;)
-* [The Haunt — Cigarettes &amp; Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&amp;+Feelings)<!-- LASTFM:END -->
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
