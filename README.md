@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
 * [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
 * [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
 * [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
-* [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)
-* [kMoe — iced tea](https://www.last.fm/music/kMoe/_/iced+tea)<!-- LASTFM:END -->
+* [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
