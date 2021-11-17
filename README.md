@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nick Leng — Lie Like Them](https://www.last.fm/music/Nick+Leng/_/Lie+Like+Them)
 * [LoveLeo — TUNG TIED &lpar;feat. Rico Nasty&rpar;](https://www.last.fm/music/LoveLeo/_/TUNG+TIED+&lpar;feat.+Rico+Nasty&rpar;)
 * [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)
 * [The Driver Era — A Kiss](https://www.last.fm/music/The+Driver+Era/_/A+Kiss)
-* [millennium parade — Fly with me](https://www.last.fm/music/millennium+parade/_/Fly+with+me)
-* [Boy Called Cute — Lobster](https://www.last.fm/music/Boy+Called+Cute/_/Lobster)<!-- LASTFM:END -->
+* [millennium parade — Fly with me](https://www.last.fm/music/millennium+parade/_/Fly+with+me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
