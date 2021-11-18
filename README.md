@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sewerslvt — Pretty Cvnt](https://www.last.fm/music/Sewerslvt/_/Pretty+Cvnt)
-* [Lando! — paranoid!](https://www.last.fm/music/Lando!/_/paranoid!)
-* [Aim Vision — GET USED TO ME](https://www.last.fm/music/Aim+Vision/_/GET+USED+TO+ME)
-* [YOASOBI — 怪物](https://www.last.fm/music/YOASOBI/_/%E6%80%AA%E7%89%A9)
-* [Dwilly — ugh!](https://www.last.fm/music/Dwilly/_/ugh!)<!-- LASTFM:END -->
+* [Luvlxckdown — Tbh I Don&#39;t Like Being Social](https://www.last.fm/music/Luvlxckdown/_/Tbh+I+Don%27t+Like+Being+Social)
+* [Confetti — Hot](https://www.last.fm/music/Confetti/_/Hot)
+* [The Bad Dreamers — Part Time God](https://www.last.fm/music/The+Bad+Dreamers/_/Part+Time+God)
+* [MoxiFloxi — Only for You](https://www.last.fm/music/MoxiFloxi/_/Only+for+You)
+* [Sewerslvt — Pretty Cvnt](https://www.last.fm/music/Sewerslvt/_/Pretty+Cvnt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
