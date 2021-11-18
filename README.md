@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [millennium parade — Fly with me](https://www.last.fm/music/millennium+parade/_/Fly+with+me)
+* [Zolita — Loveline Remix &lpar;feat. Dorian Electra and Petal Supply&rpar;](https://www.last.fm/music/Zolita/_/Loveline+Remix+&lpar;feat.+Dorian+Electra+and+Petal+Supply&rpar;)
 * [MoxiFloxi — Only for You](https://www.last.fm/music/MoxiFloxi/_/Only+for+You)
 * [Confetti — Hot](https://www.last.fm/music/Confetti/_/Hot)
-* [The Midnight — Good in Red](https://www.last.fm/music/The+Midnight/_/Good+in+Red)
-* [SUPERFRUIT — GUY.exe](https://www.last.fm/music/SUPERFRUIT/_/GUY.exe)
-* [Luvlxckdown — Tbh I Don&#39;t Like Being Social](https://www.last.fm/music/Luvlxckdown/_/Tbh+I+Don%27t+Like+Being+Social)<!-- LASTFM:END -->
+* [The Midnight — Good in Red](https://www.last.fm/music/The+Midnight/_/Good+in+Red)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
