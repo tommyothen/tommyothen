@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Driver Era — A Kiss](https://www.last.fm/music/The+Driver+Era/_/A+Kiss)
+* [millennium parade — Fly with me](https://www.last.fm/music/millennium+parade/_/Fly+with+me)
 * [Boy Called Cute — Lobster](https://www.last.fm/music/Boy+Called+Cute/_/Lobster)
 * [Glitch Gum — Kyoto](https://www.last.fm/music/Glitch+Gum/_/Kyoto)
-* [Zolita — Loveline Remix &lpar;feat. Dorian Electra and Petal Supply&rpar;](https://www.last.fm/music/Zolita/_/Loveline+Remix+&lpar;feat.+Dorian+Electra+and+Petal+Supply&rpar;)
-* [The Midnight — Good in Red](https://www.last.fm/music/The+Midnight/_/Good+in+Red)
-* [p4rkr — I Hate It Here](https://www.last.fm/music/p4rkr/_/I+Hate+It+Here)<!-- LASTFM:END -->
+* [Zolita — Loveline Remix &lpar;feat. Dorian Electra and Petal Supply&rpar;](https://www.last.fm/music/Zolita/_/Loveline+Remix+&lpar;feat.+Dorian+Electra+and+Petal+Supply&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
