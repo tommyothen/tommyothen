@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DUSTCELL — DERO](https://www.last.fm/music/DUSTCELL/_/DERO)
+* [Boy Called Cute — Lobster](https://www.last.fm/music/Boy+Called+Cute/_/Lobster)
 * [Atwood — Careless](https://www.last.fm/music/Atwood/_/Careless)
 * [Nick Leng — Lie Like Them](https://www.last.fm/music/Nick+Leng/_/Lie+Like+Them)
-* [Glitch Gum — Kyoto](https://www.last.fm/music/Glitch+Gum/_/Kyoto)
-* [LilyPichu — If There Was a Zombie Apocalypse I&#39;d Let My Dog Eat Me](https://www.last.fm/music/LilyPichu/_/If+There+Was+a+Zombie+Apocalypse+I%27d+Let+My+Dog+Eat+Me)
-* [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)<!-- LASTFM:END -->
+* [Glitch Gum — Kyoto](https://www.last.fm/music/Glitch+Gum/_/Kyoto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
