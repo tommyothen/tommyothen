@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)
 * [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
 * [DUSTCELL — DERO](https://www.last.fm/music/DUSTCELL/_/DERO)
 * [Boy Called Cute — Lobster](https://www.last.fm/music/Boy+Called+Cute/_/Lobster)
-* [Atwood — Careless](https://www.last.fm/music/Atwood/_/Careless)
-* [Nick Leng — Lie Like Them](https://www.last.fm/music/Nick+Leng/_/Lie+Like+Them)<!-- LASTFM:END -->
+* [Atwood — Careless](https://www.last.fm/music/Atwood/_/Careless)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
