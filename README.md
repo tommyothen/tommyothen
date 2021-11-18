@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [SUPERFRUIT — GUY.exe](https://www.last.fm/music/SUPERFRUIT/_/GUY.exe)
-* [Luvlxckdown — Tbh I Don&#39;t Like Being Social](https://www.last.fm/music/Luvlxckdown/_/Tbh+I+Don%27t+Like+Being+Social)
-* [Louverture — DIGITAL CONGLOMERATE](https://www.last.fm/music/Louverture/_/DIGITAL+CONGLOMERATE)
-* [YOASOBI — 怪物](https://www.last.fm/music/YOASOBI/_/%E6%80%AA%E7%89%A9)
-* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)<!-- LASTFM:END -->
+* [Zolita — Loveline Remix &lpar;feat. Dorian Electra and Petal Supply&rpar;](https://www.last.fm/music/Zolita/_/Loveline+Remix+&lpar;feat.+Dorian+Electra+and+Petal+Supply&rpar;)
+* [MoxiFloxi — Only for You](https://www.last.fm/music/MoxiFloxi/_/Only+for+You)
+* [Confetti — Hot](https://www.last.fm/music/Confetti/_/Hot)
+* [The Midnight — Good in Red](https://www.last.fm/music/The+Midnight/_/Good+in+Red)
+* [SUPERFRUIT — GUY.exe](https://www.last.fm/music/SUPERFRUIT/_/GUY.exe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
