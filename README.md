@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Atwood — Careless](https://www.last.fm/music/Atwood/_/Careless)
+* [Nick Leng — Lie Like Them](https://www.last.fm/music/Nick+Leng/_/Lie+Like+Them)
+* [Glitch Gum — Kyoto](https://www.last.fm/music/Glitch+Gum/_/Kyoto)
 * [LilyPichu — If There Was a Zombie Apocalypse I&#39;d Let My Dog Eat Me](https://www.last.fm/music/LilyPichu/_/If+There+Was+a+Zombie+Apocalypse+I%27d+Let+My+Dog+Eat+Me)
-* [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)
-* [Lando! — paranoid!](https://www.last.fm/music/Lando!/_/paranoid!)
-* [Aim Vision — GET USED TO ME](https://www.last.fm/music/Aim+Vision/_/GET+USED+TO+ME)
-* [Sewerslvt — Pretty Cvnt](https://www.last.fm/music/Sewerslvt/_/Pretty+Cvnt)<!-- LASTFM:END -->
+* [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
