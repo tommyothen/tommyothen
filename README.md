@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Boy Called Cute — Lobster](https://www.last.fm/music/Boy+Called+Cute/_/Lobster)
+* [Glitch Gum — Kyoto](https://www.last.fm/music/Glitch+Gum/_/Kyoto)
+* [Zolita — Loveline Remix &lpar;feat. Dorian Electra and Petal Supply&rpar;](https://www.last.fm/music/Zolita/_/Loveline+Remix+&lpar;feat.+Dorian+Electra+and+Petal+Supply&rpar;)
 * [The Midnight — Good in Red](https://www.last.fm/music/The+Midnight/_/Good+in+Red)
-* [p4rkr — I Hate It Here](https://www.last.fm/music/p4rkr/_/I+Hate+It+Here)
-* [Have a nice day! — わたしの名はブルー](https://www.last.fm/music/Have+a+nice+day!/_/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E5%90%8D%E3%81%AF%E3%83%96%E3%83%AB%E3%83%BC)
-* [Luvlxckdown — Tbh I Don&#39;t Like Being Social](https://www.last.fm/music/Luvlxckdown/_/Tbh+I+Don%27t+Like+Being+Social)
-* [Confetti — Hot](https://www.last.fm/music/Confetti/_/Hot)<!-- LASTFM:END -->
+* [p4rkr — I Hate It Here](https://www.last.fm/music/p4rkr/_/I+Hate+It+Here)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
