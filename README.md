@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Not Friends &lpar;ORBIT REMIX&rpar;](https://www.last.fm/music/Loona/_/Not+Friends+&lpar;ORBIT+REMIX&rpar;)
-* [Loona — Not Friends &lpar;TIDO REMIX&rpar;](https://www.last.fm/music/Loona/_/Not+Friends+&lpar;TIDO+REMIX&rpar;)
-* [Loona — Not Friends &lpar;ALAWN REMIX&rpar;](https://www.last.fm/music/Loona/_/Not+Friends+&lpar;ALAWN+REMIX&rpar;)
-* [Engelwood — crystal dolphin](https://www.last.fm/music/Engelwood/_/crystal+dolphin)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)<!-- LASTFM:END -->
+* [Loona — &amp;](https://www.last.fm/music/Loona/_/&amp;)
+* [Loona — PTT &lpar;Paint the Town&rpar;](https://www.last.fm/music/Loona/_/PTT+&lpar;Paint+the+Town&rpar;)
+* [Loona — Not Friends &lpar;Sung by HeeJin, Kim Lip, JinSoul, Yves&rpar; &lpar;Prod. RYAN JHUN&rpar;](https://www.last.fm/music/Loona/_/Not+Friends+&lpar;Sung+by+HeeJin,+Kim+Lip,+JinSoul,+Yves&rpar;+&lpar;Prod.+RYAN+JHUN&rpar;)
+* [Loona — Not Friends ORIGINAL MIX](https://www.last.fm/music/Loona/_/Not+Friends+ORIGINAL+MIX)
+* [Loona — Not Friends &lpar;ORBIT REMIX&rpar;](https://www.last.fm/music/Loona/_/Not+Friends+&lpar;ORBIT+REMIX&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
