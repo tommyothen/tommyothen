@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Have a nice day! — わたしの名はブルー](https://www.last.fm/music/Have+a+nice+day!/_/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E5%90%8D%E3%81%AF%E3%83%96%E3%83%AB%E3%83%BC)
 * [LoveLeo — TUNG TIED &lpar;feat. Rico Nasty&rpar;](https://www.last.fm/music/LoveLeo/_/TUNG+TIED+&lpar;feat.+Rico+Nasty&rpar;)
 * [YOASOBI — 怪物](https://www.last.fm/music/YOASOBI/_/%E6%80%AA%E7%89%A9)
 * [Dwilly — ugh!](https://www.last.fm/music/Dwilly/_/ugh!)
-* [millennium parade — Fly with me](https://www.last.fm/music/millennium+parade/_/Fly+with+me)
-* [LilyPichu — If There Was a Zombie Apocalypse I&#39;d Let My Dog Eat Me](https://www.last.fm/music/LilyPichu/_/If+There+Was+a+Zombie+Apocalypse+I%27d+Let+My+Dog+Eat+Me)<!-- LASTFM:END -->
+* [millennium parade — Fly with me](https://www.last.fm/music/millennium+parade/_/Fly+with+me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
