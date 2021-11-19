@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LoveLeo — TUNG TIED &lpar;feat. Rico Nasty&rpar;](https://www.last.fm/music/LoveLeo/_/TUNG+TIED+&lpar;feat.+Rico+Nasty&rpar;)
+* [YOASOBI — 怪物](https://www.last.fm/music/YOASOBI/_/%E6%80%AA%E7%89%A9)
+* [Dwilly — ugh!](https://www.last.fm/music/Dwilly/_/ugh!)
 * [millennium parade — Fly with me](https://www.last.fm/music/millennium+parade/_/Fly+with+me)
-* [LilyPichu — If There Was a Zombie Apocalypse I&#39;d Let My Dog Eat Me](https://www.last.fm/music/LilyPichu/_/If+There+Was+a+Zombie+Apocalypse+I%27d+Let+My+Dog+Eat+Me)
-* [Louverture — DIGITAL CONGLOMERATE](https://www.last.fm/music/Louverture/_/DIGITAL+CONGLOMERATE)
-* [Aim Vision — GET USED TO ME](https://www.last.fm/music/Aim+Vision/_/GET+USED+TO+ME)
-* [DUSTCELL — DERO](https://www.last.fm/music/DUSTCELL/_/DERO)<!-- LASTFM:END -->
+* [LilyPichu — If There Was a Zombie Apocalypse I&#39;d Let My Dog Eat Me](https://www.last.fm/music/LilyPichu/_/If+There+Was+a+Zombie+Apocalypse+I%27d+Let+My+Dog+Eat+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
