@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Louverture — DIGITAL CONGLOMERATE](https://www.last.fm/music/Louverture/_/DIGITAL+CONGLOMERATE)
+* [Aim Vision — GET USED TO ME](https://www.last.fm/music/Aim+Vision/_/GET+USED+TO+ME)
+* [DUSTCELL — DERO](https://www.last.fm/music/DUSTCELL/_/DERO)
 * [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
-* [Kai Whiston — Stingray](https://www.last.fm/music/Kai+Whiston/_/Stingray)
-* [SUPERFRUIT — GUY.exe](https://www.last.fm/music/SUPERFRUIT/_/GUY.exe)
-* [Atwood — Careless](https://www.last.fm/music/Atwood/_/Careless)
-* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)<!-- LASTFM:END -->
+* [Kai Whiston — Stingray](https://www.last.fm/music/Kai+Whiston/_/Stingray)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
