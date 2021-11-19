@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lando! — paranoid!](https://www.last.fm/music/Lando!/_/paranoid!)
+* [Sewerslvt — Pretty Cvnt](https://www.last.fm/music/Sewerslvt/_/Pretty+Cvnt)
+* [p4rkr — I Hate It Here](https://www.last.fm/music/p4rkr/_/I+Hate+It+Here)
 * [Zolita — Loveline Remix &lpar;feat. Dorian Electra and Petal Supply&rpar;](https://www.last.fm/music/Zolita/_/Loveline+Remix+&lpar;feat.+Dorian+Electra+and+Petal+Supply&rpar;)
-* [The Midnight — Good in Red](https://www.last.fm/music/The+Midnight/_/Good+in+Red)
-* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
-* [LoveLeo — TUNG TIED &lpar;feat. Rico Nasty&rpar;](https://www.last.fm/music/LoveLeo/_/TUNG+TIED+&lpar;feat.+Rico+Nasty&rpar;)
-* [YOASOBI — 怪物](https://www.last.fm/music/YOASOBI/_/%E6%80%AA%E7%89%A9)<!-- LASTFM:END -->
+* [The Midnight — Good in Red](https://www.last.fm/music/The+Midnight/_/Good+in+Red)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
