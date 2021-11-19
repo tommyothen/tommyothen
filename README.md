@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Not Friends &lpar;ORBIT REMIX&rpar;](https://www.last.fm/music/Loona/_/Not+Friends+&lpar;ORBIT+REMIX&rpar;)
+* [Loona — Not Friends &lpar;TIDO REMIX&rpar;](https://www.last.fm/music/Loona/_/Not+Friends+&lpar;TIDO+REMIX&rpar;)
+* [Loona — Not Friends &lpar;ALAWN REMIX&rpar;](https://www.last.fm/music/Loona/_/Not+Friends+&lpar;ALAWN+REMIX&rpar;)
 * [Engelwood — crystal dolphin](https://www.last.fm/music/Engelwood/_/crystal+dolphin)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
-* [Confetti — Hot](https://www.last.fm/music/Confetti/_/Hot)
-* [Louverture — DIGITAL CONGLOMERATE](https://www.last.fm/music/Louverture/_/DIGITAL+CONGLOMERATE)<!-- LASTFM:END -->
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
