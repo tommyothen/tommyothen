@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
+* [Kai Whiston — Stingray](https://www.last.fm/music/Kai+Whiston/_/Stingray)
+* [SUPERFRUIT — GUY.exe](https://www.last.fm/music/SUPERFRUIT/_/GUY.exe)
 * [Atwood — Careless](https://www.last.fm/music/Atwood/_/Careless)
-* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)
-* [MoxiFloxi — Only for You](https://www.last.fm/music/MoxiFloxi/_/Only+for+You)
-* [Boy Called Cute — Lobster](https://www.last.fm/music/Boy+Called+Cute/_/Lobster)
-* [The Bad Dreamers — Part Time God](https://www.last.fm/music/The+Bad+Dreamers/_/Part+Time+God)<!-- LASTFM:END -->
+* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
