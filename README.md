@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MoxiFloxi — Only for You](https://www.last.fm/music/MoxiFloxi/_/Only+for+You)
+* [Boy Called Cute — Lobster](https://www.last.fm/music/Boy+Called+Cute/_/Lobster)
+* [The Bad Dreamers — Part Time God](https://www.last.fm/music/The+Bad+Dreamers/_/Part+Time+God)
 * [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
-* [Nick Leng — Lie Like Them](https://www.last.fm/music/Nick+Leng/_/Lie+Like+Them)
-* [The Driver Era — A Kiss](https://www.last.fm/music/The+Driver+Era/_/A+Kiss)
-* [Confetti — Hot](https://www.last.fm/music/Confetti/_/Hot)
-* [Have a nice day! — わたしの名はブルー](https://www.last.fm/music/Have+a+nice+day!/_/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E5%90%8D%E3%81%AF%E3%83%96%E3%83%AB%E3%83%BC)<!-- LASTFM:END -->
+* [Nick Leng — Lie Like Them](https://www.last.fm/music/Nick+Leng/_/Lie+Like+Them)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
