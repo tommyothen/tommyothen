@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Atwood — Careless](https://www.last.fm/music/Atwood/_/Careless)
+* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)
 * [MoxiFloxi — Only for You](https://www.last.fm/music/MoxiFloxi/_/Only+for+You)
 * [Boy Called Cute — Lobster](https://www.last.fm/music/Boy+Called+Cute/_/Lobster)
-* [The Bad Dreamers — Part Time God](https://www.last.fm/music/The+Bad+Dreamers/_/Part+Time+God)
-* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
-* [Nick Leng — Lie Like Them](https://www.last.fm/music/Nick+Leng/_/Lie+Like+Them)<!-- LASTFM:END -->
+* [The Bad Dreamers — Part Time God](https://www.last.fm/music/The+Bad+Dreamers/_/Part+Time+God)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
