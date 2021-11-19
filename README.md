@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)
+* [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)
 * [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)
 * [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
-* [DUSTCELL — DERO](https://www.last.fm/music/DUSTCELL/_/DERO)
-* [Boy Called Cute — Lobster](https://www.last.fm/music/Boy+Called+Cute/_/Lobster)<!-- LASTFM:END -->
+* [DUSTCELL — DERO](https://www.last.fm/music/DUSTCELL/_/DERO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
