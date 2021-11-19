@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [millennium parade — Fly with me](https://www.last.fm/music/millennium+parade/_/Fly+with+me)
+* [LilyPichu — If There Was a Zombie Apocalypse I&#39;d Let My Dog Eat Me](https://www.last.fm/music/LilyPichu/_/If+There+Was+a+Zombie+Apocalypse+I%27d+Let+My+Dog+Eat+Me)
 * [Louverture — DIGITAL CONGLOMERATE](https://www.last.fm/music/Louverture/_/DIGITAL+CONGLOMERATE)
 * [Aim Vision — GET USED TO ME](https://www.last.fm/music/Aim+Vision/_/GET+USED+TO+ME)
-* [DUSTCELL — DERO](https://www.last.fm/music/DUSTCELL/_/DERO)
-* [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
-* [Kai Whiston — Stingray](https://www.last.fm/music/Kai+Whiston/_/Stingray)<!-- LASTFM:END -->
+* [DUSTCELL — DERO](https://www.last.fm/music/DUSTCELL/_/DERO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
