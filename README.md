@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Luvlxckdown — Tbh I Don&#39;t Like Being Social](https://www.last.fm/music/Luvlxckdown/_/Tbh+I+Don%27t+Like+Being+Social)
+* [Glitch Gum — Kyoto](https://www.last.fm/music/Glitch+Gum/_/Kyoto)
 * [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)
 * [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)
-* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)
-* [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
-* [DUSTCELL — DERO](https://www.last.fm/music/DUSTCELL/_/DERO)<!-- LASTFM:END -->
+* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
