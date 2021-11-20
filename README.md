@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Singing In The Rain](https://www.last.fm/music/Loona/_/Singing+In+The+Rain)
-* [Loona — Twilight](https://www.last.fm/music/Loona/_/Twilight)
-* [Loona — Eclipse](https://www.last.fm/music/Loona/_/Eclipse)
-* [LOOΠΔ 1/3 — Rain 51db](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Rain+51db)
-* [LOOΠΔ 1/3 — Sonatine](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Sonatine)<!-- LASTFM:END -->
+* [LOOΠΔ / ODD EYE CIRCLE — ODD](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/ODD)
+* [Loona — Puzzle](https://www.last.fm/music/Loona/_/Puzzle)
+* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
+* [Loona — Love Letter](https://www.last.fm/music/Loona/_/Love+Letter)
+* [Loona — Singing In The Rain](https://www.last.fm/music/Loona/_/Singing+In+The+Rain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
