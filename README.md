@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Voice](https://www.last.fm/music/Loona/_/Voice)
-* [Loona — Egoist &lpar;Olivia Hye&rpar;](https://www.last.fm/music/Loona/_/Egoist+&lpar;Olivia+Hye&rpar;)
-* [Loona — Eclipse](https://www.last.fm/music/Loona/_/Eclipse)
-* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
+* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)
+* [LOONA/yyxy — love4eva &lpar;feat. Grimes&rpar;](https://www.last.fm/music/LOONA%2Fyyxy/_/love4eva+&lpar;feat.+Grimes&rpar;)
+* [Loona — Oh &lpar;Yes I Am&rpar;](https://www.last.fm/music/Loona/_/Oh+&lpar;Yes+I+Am&rpar;)
+* [Loona — Singing In The Rain](https://www.last.fm/music/Loona/_/Singing+In+The+Rain)
+* [Loona — Love Cherry Motion](https://www.last.fm/music/Loona/_/Love+Cherry+Motion)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
