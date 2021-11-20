@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LOOΠΔ / ODD EYE CIRCLE — Uncover](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Uncover)
+* [LOOΠΔ / ODD EYE CIRCLE — Sweet Crazy Love](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Sweet+Crazy+Love)
+* [LOOΠΔ / ODD EYE CIRCLE — ADD](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/ADD)
 * [LOOΠΔ / ODD EYE CIRCLE — LOONATIC - Eng. Ver.](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/LOONATIC+-+Eng.+Ver.)
-* [LOOΠΔ / ODD EYE CIRCLE — Starlight](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Starlight)
-* [LOOΠΔ / ODD EYE CIRCLE — Chaotic](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Chaotic)
-* [LOOΠΔ / ODD EYE CIRCLE — LOONATIC](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/LOONATIC)
-* [LOOΠΔ / ODD EYE CIRCLE — Girl Front](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Girl+Front)<!-- LASTFM:END -->
+* [LOOΠΔ / ODD EYE CIRCLE — Starlight](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Starlight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
