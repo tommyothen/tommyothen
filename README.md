@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [LOOΠΔ 1/3 — Love &amp; Evil](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Love+&amp;+Evil)
-* [Loona — Everyday I Need You](https://www.last.fm/music/Loona/_/Everyday+I+Need+You)
-* [Loona — Everyday I Love You](https://www.last.fm/music/Loona/_/Everyday+I+Love+You)
-* [LOOΠΔ 1/3 — Valentine Girl](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Valentine+Girl)
-* [Loona — OOPS!](https://www.last.fm/music/Loona/_/OOPS!)<!-- LASTFM:END -->
+* [Loona — Singing In The Rain](https://www.last.fm/music/Loona/_/Singing+In+The+Rain)
+* [Loona — Twilight](https://www.last.fm/music/Loona/_/Twilight)
+* [Loona — Eclipse](https://www.last.fm/music/Loona/_/Eclipse)
+* [LOOΠΔ 1/3 — Rain 51db](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Rain+51db)
+* [LOOΠΔ 1/3 — Sonatine](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Sonatine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
