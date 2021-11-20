@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rolling Quartz — BLAZE](https://www.last.fm/music/Rolling+Quartz/_/BLAZE)
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
 * [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
 * [Loona — Colors](https://www.last.fm/music/Loona/_/Colors)
-* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
-* [Loona — X X](https://www.last.fm/music/Loona/_/X+X)
-* [Loona — Stylish](https://www.last.fm/music/Loona/_/Stylish)<!-- LASTFM:END -->
+* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
