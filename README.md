@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — favOriTe](https://www.last.fm/music/Loona/_/favOriTe)
+* [LOONA/yyxy — rendezvous 18.6y](https://www.last.fm/music/LOONA%2Fyyxy/_/rendezvous+18.6y)
 * [LOONA/yyxy — one way](https://www.last.fm/music/LOONA%2Fyyxy/_/one+way)
 * [LOONA/yyxy — frozen](https://www.last.fm/music/LOONA%2Fyyxy/_/frozen)
-* [LOONA/yyxy — dal segno](https://www.last.fm/music/LOONA%2Fyyxy/_/dal+segno)
-* [Loona — Rosy &lpar;고원, Olivia Hye&rpar;](https://www.last.fm/music/Loona/_/Rosy+&lpar;%EA%B3%A0%EC%9B%90,+Olivia+Hye&rpar;)
-* [Loona — See Saw &lpar;Chuu, Go Won&rpar;](https://www.last.fm/music/Loona/_/See+Saw+&lpar;Chuu,+Go+Won&rpar;)<!-- LASTFM:END -->
+* [LOONA/yyxy — dal segno](https://www.last.fm/music/LOONA%2Fyyxy/_/dal+segno)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
