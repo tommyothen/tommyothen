@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)
-* [LOONA/yyxy — love4eva &lpar;feat. Grimes&rpar;](https://www.last.fm/music/LOONA%2Fyyxy/_/love4eva+&lpar;feat.+Grimes&rpar;)
-* [Loona — Oh &lpar;Yes I Am&rpar;](https://www.last.fm/music/Loona/_/Oh+&lpar;Yes+I+Am&rpar;)
-* [Loona — Singing In The Rain](https://www.last.fm/music/Loona/_/Singing+In+The+Rain)
-* [Loona — Love Cherry Motion](https://www.last.fm/music/Loona/_/Love+Cherry+Motion)<!-- LASTFM:END -->
+* [Loona — Twilight](https://www.last.fm/music/Loona/_/Twilight)
+* [Loona — Love Letter](https://www.last.fm/music/Loona/_/Love+Letter)
+* [Loona — Fall Again](https://www.last.fm/music/Loona/_/Fall+Again)
+* [Loona — 소년, 소녀](https://www.last.fm/music/Loona/_/%EC%86%8C%EB%85%84,+%EC%86%8C%EB%85%80)
+* [Loona — 키스는 다음에](https://www.last.fm/music/Loona/_/%ED%82%A4%EC%8A%A4%EB%8A%94+%EB%8B%A4%EC%9D%8C%EC%97%90)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
