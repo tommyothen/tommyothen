@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — OOPS!](https://www.last.fm/music/Loona/_/OOPS!)
-* [LOOΠΔ 1/3 — Fairy Tale](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Fairy+Tale)
-* [LOOΠΔ 1/3 — You and Me Together](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/You+and+Me+Together)
-* [LOOΠΔ 1/3 — Love &amp; Live](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Love+&amp;+Live)
-* [LOOΠΔ 1/3 — Into The New Heart](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Into+The+New+Heart)<!-- LASTFM:END -->
+* [LOOΠΔ 1/3 — Love &amp; Evil](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Love+&amp;+Evil)
+* [Loona — Everyday I Need You](https://www.last.fm/music/Loona/_/Everyday+I+Need+You)
+* [Loona — Everyday I Love You](https://www.last.fm/music/Loona/_/Everyday+I+Love+You)
+* [LOOΠΔ 1/3 — Valentine Girl](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Valentine+Girl)
+* [Loona — OOPS!](https://www.last.fm/music/Loona/_/OOPS!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
