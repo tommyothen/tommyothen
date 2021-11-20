@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Twilight](https://www.last.fm/music/Loona/_/Twilight)
-* [Loona — Love Letter](https://www.last.fm/music/Loona/_/Love+Letter)
-* [Loona — Fall Again](https://www.last.fm/music/Loona/_/Fall+Again)
-* [Loona — 소년, 소녀](https://www.last.fm/music/Loona/_/%EC%86%8C%EB%85%84,+%EC%86%8C%EB%85%80)
-* [Loona — 키스는 다음에](https://www.last.fm/music/Loona/_/%ED%82%A4%EC%8A%A4%EB%8A%94+%EB%8B%A4%EC%9D%8C%EC%97%90)<!-- LASTFM:END -->
+* [Loona — Universe](https://www.last.fm/music/Loona/_/Universe)
+* [Loona — Star &lpar;Voice English Ver.&rpar;](https://www.last.fm/music/Loona/_/Star+&lpar;Voice+English+Ver.&rpar;)
+* [Loona — 다녀가요](https://www.last.fm/music/Loona/_/%EB%8B%A4%EB%85%80%EA%B0%80%EC%9A%94)
+* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)
+* [Loona — My Melody](https://www.last.fm/music/Loona/_/My+Melody)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
