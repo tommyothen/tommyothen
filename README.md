@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — One &amp; Only &lpar;Go Won&rpar;](https://www.last.fm/music/Loona/_/One+&amp;+Only+&lpar;Go+Won&rpar;)
+* [Loona — Girl&#39;s Talk &lpar;이브, 츄&rpar;](https://www.last.fm/music/Loona/_/Girl%27s+Talk+&lpar;%EC%9D%B4%EB%B8%8C,+%EC%B8%84&rpar;)
+* [Loona — The Carol 2.0 &lpar;Vivi, Choerry, Yves&rpar;](https://www.last.fm/music/Loona/_/The+Carol+2.0+&lpar;Vivi,+Choerry,+Yves&rpar;)
 * [Loona — D-1](https://www.last.fm/music/Loona/_/D-1)
-* [Loona — New](https://www.last.fm/music/Loona/_/New)
-* [LOOΠΔ / ODD EYE CIRCLE — ODD Front](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/ODD+Front)
-* [LOOΠΔ / ODD EYE CIRCLE — Uncover](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Uncover)
-* [LOOΠΔ / ODD EYE CIRCLE — Sweet Crazy Love](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Sweet+Crazy+Love)<!-- LASTFM:END -->
+* [Loona — New](https://www.last.fm/music/Loona/_/New)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
