@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — My Sunday](https://www.last.fm/music/Loona/_/My+Sunday)
-* [Loona — 키스는 다음에](https://www.last.fm/music/Loona/_/%ED%82%A4%EC%8A%A4%EB%8A%94+%EB%8B%A4%EC%9D%8C%EC%97%90)
-* [Loona — The Carol](https://www.last.fm/music/Loona/_/The+Carol)
-* [Loona — ViViD - Acoustic Mix Version](https://www.last.fm/music/Loona/_/ViViD+-+Acoustic+Mix+Version)
-* [Loona — 소년, 소녀](https://www.last.fm/music/Loona/_/%EC%86%8C%EB%85%84,+%EC%86%8C%EB%85%80)<!-- LASTFM:END -->
+* [Loona — OOPS!](https://www.last.fm/music/Loona/_/OOPS!)
+* [LOOΠΔ 1/3 — Fairy Tale](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Fairy+Tale)
+* [LOOΠΔ 1/3 — You and Me Together](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/You+and+Me+Together)
+* [LOOΠΔ 1/3 — Love &amp; Live](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Love+&amp;+Live)
+* [LOOΠΔ 1/3 — Into The New Heart](https://www.last.fm/music/LOO%CE%A0%CE%94+1%2F3/_/Into+The+New+Heart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
