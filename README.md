@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LOONA/yyxy — one way](https://www.last.fm/music/LOONA%2Fyyxy/_/one+way)
+* [LOONA/yyxy — frozen](https://www.last.fm/music/LOONA%2Fyyxy/_/frozen)
 * [LOONA/yyxy — dal segno](https://www.last.fm/music/LOONA%2Fyyxy/_/dal+segno)
 * [Loona — Rosy &lpar;고원, Olivia Hye&rpar;](https://www.last.fm/music/Loona/_/Rosy+&lpar;%EA%B3%A0%EC%9B%90,+Olivia+Hye&rpar;)
-* [Loona — See Saw &lpar;Chuu, Go Won&rpar;](https://www.last.fm/music/Loona/_/See+Saw+&lpar;Chuu,+Go+Won&rpar;)
-* [Loona — One &amp; Only &lpar;Go Won&rpar;](https://www.last.fm/music/Loona/_/One+&amp;+Only+&lpar;Go+Won&rpar;)
-* [Loona — Girl&#39;s Talk &lpar;이브, 츄&rpar;](https://www.last.fm/music/Loona/_/Girl%27s+Talk+&lpar;%EC%9D%B4%EB%B8%8C,+%EC%B8%84&rpar;)<!-- LASTFM:END -->
+* [Loona — See Saw &lpar;Chuu, Go Won&rpar;](https://www.last.fm/music/Loona/_/See+Saw+&lpar;Chuu,+Go+Won&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
