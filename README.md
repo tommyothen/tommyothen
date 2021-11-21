@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
 * [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
-* [Arizona Zervas — Roxanne](https://www.last.fm/music/Arizona+Zervas/_/Roxanne)
-* [Pouya — Terminal Sex](https://www.last.fm/music/Pouya/_/Terminal+Sex)
-* [FEDUK — Лишние встречи - Skit](https://www.last.fm/music/FEDUK/_/%D0%9B%D0%B8%D1%88%D0%BD%D0%B8%D0%B5+%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8+-+Skit)
-* [Oliver Tree — Hurt](https://www.last.fm/music/Oliver+Tree/_/Hurt)<!-- LASTFM:END -->
+* [Arizona Zervas — Roxanne](https://www.last.fm/music/Arizona+Zervas/_/Roxanne)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
