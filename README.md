@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rex Orange County — 10/10](https://www.last.fm/music/Rex+Orange+County/_/10%2F10)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Tate McRae — that way](https://www.last.fm/music/Tate+McRae/_/that+way)
-* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
-* [Olivia Rodrigo — traitor](https://www.last.fm/music/Olivia+Rodrigo/_/traitor)<!-- LASTFM:END -->
+* [Allie X — Susie Save Your Love](https://www.last.fm/music/Allie+X/_/Susie+Save+Your+Love)
+* [Clairo — Sofia](https://www.last.fm/music/Clairo/_/Sofia)
+* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
+* [Melanie Martinez — Glued](https://www.last.fm/music/Melanie+Martinez/_/Glued)
+* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
