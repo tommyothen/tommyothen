@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Allie X — Susie Save Your Love](https://www.last.fm/music/Allie+X/_/Susie+Save+Your+Love)
-* [Clairo — Sofia](https://www.last.fm/music/Clairo/_/Sofia)
-* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
-* [Melanie Martinez — Glued](https://www.last.fm/music/Melanie+Martinez/_/Glued)
-* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)<!-- LASTFM:END -->
+* [XYLØ — yes &amp; no](https://www.last.fm/music/XYL%C3%98/_/yes+&amp;+no)
+* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
+* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
+* [Bazzi — I Like That](https://www.last.fm/music/Bazzi/_/I+Like+That)
+* [REI AMI — SNOWCONE](https://www.last.fm/music/REI+AMI/_/SNOWCONE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
