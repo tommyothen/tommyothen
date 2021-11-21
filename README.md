@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Знаки](https://www.last.fm/music/FEDUK/_/%D0%97%D0%BD%D0%B0%D0%BA%D0%B8)
+* [Cö shu Nie — asphyxia](https://www.last.fm/music/C%C3%B6+shu+Nie/_/asphyxia)
 * [Joji — Window](https://www.last.fm/music/Joji/_/Window)
 * [Billie Eilish — 8](https://www.last.fm/music/Billie+Eilish/_/8)
-* [Call Me Karizma — Rebels](https://www.last.fm/music/Call+Me+Karizma/_/Rebels)
-* [Kanye West — Lift Yourself](https://www.last.fm/music/Kanye+West/_/Lift+Yourself)
-* [Imaginary Ambition — Temptation](https://www.last.fm/music/Imaginary+Ambition/_/Temptation)<!-- LASTFM:END -->
+* [Call Me Karizma — Rebels](https://www.last.fm/music/Call+Me+Karizma/_/Rebels)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
