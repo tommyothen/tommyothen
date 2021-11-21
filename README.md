@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
+* [Tate McRae — working](https://www.last.fm/music/Tate+McRae/_/working)
+* [Kailee Morgue — This is Why I&#39;m Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
 * [Gracie Abrams — Minor](https://www.last.fm/music/Gracie+Abrams/_/Minor)
-* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
-* [Deaton Chris Anthony — SUBI](https://www.last.fm/music/Deaton+Chris+Anthony/_/SUBI)
-* [Deaton Chris Anthony — RACECAR &lpar;feat. Clairo, Coco &amp; Clair Clair&rpar;](https://www.last.fm/music/Deaton+Chris+Anthony/_/RACECAR+&lpar;feat.+Clairo,+Coco+&amp;+Clair+Clair&rpar;)
-* [Elio — hurts 2 hate somebody &lpar;with Chase Atlantic &amp; No Rome&rpar;](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+&lpar;with+Chase+Atlantic+&amp;+No+Rome&rpar;)<!-- LASTFM:END -->
+* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
