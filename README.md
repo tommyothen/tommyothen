@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [Alessia Cara — Out of Love](https://www.last.fm/music/Alessia+Cara/_/Out+of+Love)
-* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
-* [Billie Eilish — hostage](https://www.last.fm/music/Billie+Eilish/_/hostage)
-* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)<!-- LASTFM:END -->
+* [Rex Orange County — 10/10](https://www.last.fm/music/Rex+Orange+County/_/10%2F10)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Tate McRae — that way](https://www.last.fm/music/Tate+McRae/_/that+way)
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
+* [Olivia Rodrigo — traitor](https://www.last.fm/music/Olivia+Rodrigo/_/traitor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
