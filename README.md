@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
-* [Kris Wu — 18](https://www.last.fm/music/Kris+Wu/_/18)
-* [Halogen — U Got That](https://www.last.fm/music/Halogen/_/U+Got+That)
-* [Nujabes — Feather &lpar;feat. Cise Starr &amp; Akin from Cyne&rpar;](https://www.last.fm/music/Nujabes/_/Feather+&lpar;feat.+Cise+Starr+&amp;+Akin+from+Cyne&rpar;)<!-- LASTFM:END -->
+* [Josh A — Nuketown &lpar;feat. Iamjakehill&rpar;](https://www.last.fm/music/Josh+A/_/Nuketown+&lpar;feat.+Iamjakehill&rpar;)
+* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)
+* [Taska Black — Dead Inside](https://www.last.fm/music/Taska+Black/_/Dead+Inside)
+* [MUST DIE! — Bliss 2K](https://www.last.fm/music/MUST+DIE!/_/Bliss+2K)
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
