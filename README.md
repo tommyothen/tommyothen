@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
+* [Arizona Zervas — Roxanne](https://www.last.fm/music/Arizona+Zervas/_/Roxanne)
+* [Pouya — Terminal Sex](https://www.last.fm/music/Pouya/_/Terminal+Sex)
 * [FEDUK — Лишние встречи - Skit](https://www.last.fm/music/FEDUK/_/%D0%9B%D0%B8%D1%88%D0%BD%D0%B8%D0%B5+%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8+-+Skit)
-* [Oliver Tree — Hurt](https://www.last.fm/music/Oliver+Tree/_/Hurt)
-* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
-* [FEDUK — Знаки](https://www.last.fm/music/FEDUK/_/%D0%97%D0%BD%D0%B0%D0%BA%D0%B8)
-* [Cö shu Nie — asphyxia](https://www.last.fm/music/C%C3%B6+shu+Nie/_/asphyxia)<!-- LASTFM:END -->
+* [Oliver Tree — Hurt](https://www.last.fm/music/Oliver+Tree/_/Hurt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
