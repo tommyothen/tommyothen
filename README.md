@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
-* [Griff — Black Hole](https://www.last.fm/music/Griff/_/Black+Hole)
-* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
-* [Billie Eilish — Six Feet Under](https://www.last.fm/music/Billie+Eilish/_/Six+Feet+Under)
-* [XYLØ — yes &amp; no](https://www.last.fm/music/XYL%C3%98/_/yes+&amp;+no)<!-- LASTFM:END -->
+* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
+* [Clara Mae — Loved You Once](https://www.last.fm/music/Clara+Mae/_/Loved+You+Once)
+* [The Haunt — Cigarettes &amp; Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&amp;+Feelings)
+* [Mimi Webb — Good Without](https://www.last.fm/music/Mimi+Webb/_/Good+Without)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
