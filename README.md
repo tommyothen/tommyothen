@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
 * [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
 * [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
 * [Laud — Небеса](https://www.last.fm/music/Laud/_/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%B0)
-* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
-* [Dreamcatcher — Fly high](https://www.last.fm/music/Dreamcatcher/_/Fly+high)<!-- LASTFM:END -->
+* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
