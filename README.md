@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
 * [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
 * [Anderson .Paak — Come Down](https://www.last.fm/music/Anderson+.Paak/_/Come+Down)
 * [PINK GUY — Fried Noodles &lpar;Getter Remix&rpar;](https://www.last.fm/music/PINK+GUY/_/Fried+Noodles+&lpar;Getter+Remix&rpar;)
-* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
-* [Packy — Like This](https://www.last.fm/music/Packy/_/Like+This)<!-- LASTFM:END -->
+* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
