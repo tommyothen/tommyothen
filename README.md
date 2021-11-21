@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Halogen — U Got That](https://www.last.fm/music/Halogen/_/U+Got+That)
+* [Nujabes — Feather &lpar;feat. Cise Starr &amp; Akin from Cyne&rpar;](https://www.last.fm/music/Nujabes/_/Feather+&lpar;feat.+Cise+Starr+&amp;+Akin+from+Cyne&rpar;)
 * [Flamingosis — Sunset Park](https://www.last.fm/music/Flamingosis/_/Sunset+Park)
 * [Eden Project — drowning.](https://www.last.fm/music/Eden+Project/_/drowning.)
-* [Neanderthal — Hurt Your Lover](https://www.last.fm/music/Neanderthal/_/Hurt+Your+Lover)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)<!-- LASTFM:END -->
+* [Neanderthal — Hurt Your Lover](https://www.last.fm/music/Neanderthal/_/Hurt+Your+Lover)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
