@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
+* [Phoebe Bridgers — Kyoto](https://www.last.fm/music/Phoebe+Bridgers/_/Kyoto)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
 * [Montaigne — Love Might Be Found &lpar;Volcano&rpar;](https://www.last.fm/music/Montaigne/_/Love+Might+Be+Found+&lpar;Volcano&rpar;)
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Tate McRae — working](https://www.last.fm/music/Tate+McRae/_/working)
-* [Kailee Morgue — This is Why I&#39;m Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)<!-- LASTFM:END -->
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
