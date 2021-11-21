@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
 * [Packy — Like This](https://www.last.fm/music/Packy/_/Like+This)
 * [DOGDEER — Top](https://www.last.fm/music/DOGDEER/_/Top)
 * [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)<!-- LASTFM:END -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
