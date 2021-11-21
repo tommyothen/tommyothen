@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
 * [Laud — Небеса](https://www.last.fm/music/Laud/_/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%B0)
 * [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
-* [Dreamcatcher — Fly high](https://www.last.fm/music/Dreamcatcher/_/Fly+high)
-* [DAOKO — 打上花火](https://www.last.fm/music/DAOKO/_/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB)
-* [Tia — Deal with the devil](https://www.last.fm/music/Tia/_/Deal+with+the+devil)<!-- LASTFM:END -->
+* [Dreamcatcher — Fly high](https://www.last.fm/music/Dreamcatcher/_/Fly+high)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
