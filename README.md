@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tate McRae — working](https://www.last.fm/music/Tate+McRae/_/working)
+* [Kailee Morgue — This is Why I&#39;m Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
+* [Gracie Abrams — Minor](https://www.last.fm/music/Gracie+Abrams/_/Minor)
 * [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
-* [Clara Mae — Loved You Once](https://www.last.fm/music/Clara+Mae/_/Loved+You+Once)
-* [The Haunt — Cigarettes &amp; Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&amp;+Feelings)
-* [Mimi Webb — Good Without](https://www.last.fm/music/Mimi+Webb/_/Good+Without)<!-- LASTFM:END -->
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
