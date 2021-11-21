@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DAOKO — 打上花火](https://www.last.fm/music/DAOKO/_/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB)
+* [Tia — Deal with the devil](https://www.last.fm/music/Tia/_/Deal+with+the+devil)
 * [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
 * [bbno$ — ferrari fitness](https://www.last.fm/music/bbno$/_/ferrari+fitness)
-* [Trevor Daniel — Falling &lpar;feat. blackbear&rpar; - blackbear Remix](https://www.last.fm/music/Trevor+Daniel/_/Falling+&lpar;feat.+blackbear&rpar;+-+blackbear+Remix)
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
-* [Her&#39;s — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)<!-- LASTFM:END -->
+* [Trevor Daniel — Falling &lpar;feat. blackbear&rpar; - blackbear Remix](https://www.last.fm/music/Trevor+Daniel/_/Falling+&lpar;feat.+blackbear&rpar;+-+blackbear+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
