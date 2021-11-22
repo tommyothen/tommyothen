@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [William Black — Here At Last](https://www.last.fm/music/William+Black/_/Here+At+Last)
+* [Joji — I Don&#39;t Wanna Waste My Time &lpar;SwuM Remix&rpar;](https://www.last.fm/music/Joji/_/I+Don%27t+Wanna+Waste+My+Time+&lpar;SwuM+Remix&rpar;)
 * [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
 * [Serion — Falling](https://www.last.fm/music/Serion/_/Falling)
-* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)
-* [cherry beach — Gravity](https://www.last.fm/music/cherry+beach/_/Gravity)
-* [Ruel — Dazed &amp; Confused](https://www.last.fm/music/Ruel/_/Dazed+&amp;+Confused)<!-- LASTFM:END -->
+* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
