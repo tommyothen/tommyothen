@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
+* [The Deli — Flowers](https://www.last.fm/music/The+Deli/_/Flowers)
+* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
 * [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
-* [Dark Cat — Hot Chocolate](https://www.last.fm/music/Dark+Cat/_/Hot+Chocolate)
-* [Grandson — Best Friends](https://www.last.fm/music/Grandson/_/Best+Friends)
-* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
-* [Porter Robinson — Fresh Static Snow - Last Island Remix](https://www.last.fm/music/Porter+Robinson/_/Fresh+Static+Snow+-+Last+Island+Remix)<!-- LASTFM:END -->
+* [Dark Cat — Hot Chocolate](https://www.last.fm/music/Dark+Cat/_/Hot+Chocolate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
