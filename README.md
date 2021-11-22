@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BAMILY — Katata](https://www.last.fm/music/BAMILY/_/Katata)
-* [SG Lewis — Chemicals](https://www.last.fm/music/SG+Lewis/_/Chemicals)
-* [Thundercat — Funny Thing](https://www.last.fm/music/Thundercat/_/Funny+Thing)
-* [Rejjie Snow — Mirrors](https://www.last.fm/music/Rejjie+Snow/_/Mirrors)
-* [Sunship Balloon — Up On The Moon](https://www.last.fm/music/Sunship+Balloon/_/Up+On+The+Moon)<!-- LASTFM:END -->
+* [Oscar Scheller — Peach](https://www.last.fm/music/Oscar+Scheller/_/Peach)
+* [Blu Detiger — Cotton Candy Lemonade](https://www.last.fm/music/Blu+Detiger/_/Cotton+Candy+Lemonade)
+* [Maya Delilah — Moonflower](https://www.last.fm/music/Maya+Delilah/_/Moonflower)
+* [Surfaces — Sunday Best](https://www.last.fm/music/Surfaces/_/Sunday+Best)
+* [BAMILY — Katata](https://www.last.fm/music/BAMILY/_/Katata)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
