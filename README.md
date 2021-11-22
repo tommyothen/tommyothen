@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [serpentwithfeet — Fellowship](https://www.last.fm/music/serpentwithfeet/_/Fellowship)
-* [Piri — soft spot](https://www.last.fm/music/Piri/_/soft+spot)
-* [Surfaces — Sheesh!](https://www.last.fm/music/Surfaces/_/Sheesh!)
-* [Harry Styles — Sunflower, Vol. 6](https://www.last.fm/music/Harry+Styles/_/Sunflower,+Vol.+6)
-* [Oscar Scheller — Peach](https://www.last.fm/music/Oscar+Scheller/_/Peach)<!-- LASTFM:END -->
+* [Alfie Templeman — Everybody’s Gonna Love Somebody - Edit](https://www.last.fm/music/Alfie+Templeman/_/Everybody%E2%80%99s+Gonna+Love+Somebody+-+Edit)
+* [Josie Man — Colours](https://www.last.fm/music/Josie+Man/_/Colours)
+* [mustbejohn — Lucy](https://www.last.fm/music/mustbejohn/_/Lucy)
+* [SG Lewis — Time](https://www.last.fm/music/SG+Lewis/_/Time)
+* [serpentwithfeet — Fellowship](https://www.last.fm/music/serpentwithfeet/_/Fellowship)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
