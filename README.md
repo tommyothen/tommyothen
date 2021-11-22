@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [Dark Cat — Hot Chocolate](https://www.last.fm/music/Dark+Cat/_/Hot+Chocolate)
+* [Grandson — Best Friends](https://www.last.fm/music/Grandson/_/Best+Friends)
 * [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
-* [Porter Robinson — Fresh Static Snow - Last Island Remix](https://www.last.fm/music/Porter+Robinson/_/Fresh+Static+Snow+-+Last+Island+Remix)
-* [Porter Robinson — Language - UK Edit](https://www.last.fm/music/Porter+Robinson/_/Language+-+UK+Edit)
-* [Jakey — Medium](https://www.last.fm/music/Jakey/_/Medium)
-* [Porter Robinson — Hear The Bells](https://www.last.fm/music/Porter+Robinson/_/Hear+The+Bells)<!-- LASTFM:END -->
+* [Porter Robinson — Fresh Static Snow - Last Island Remix](https://www.last.fm/music/Porter+Robinson/_/Fresh+Static+Snow+-+Last+Island+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
