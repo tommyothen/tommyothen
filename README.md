@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Пара советов - Skit](https://www.last.fm/music/FEDUK/_/%D0%9F%D0%B0%D1%80%D0%B0+%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2+-+Skit)
+* [11 Acorn Lane — Mellow Mouser](https://www.last.fm/music/11+Acorn+Lane/_/Mellow+Mouser)
+* [Taska Black — Dead Inside](https://www.last.fm/music/Taska+Black/_/Dead+Inside)
 * [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
-* [meltycanon — brittle &lpar;wake up&rpar;](https://www.last.fm/music/meltycanon/_/brittle+&lpar;wake+up&rpar;)
-* [Royal &amp; the Serpent — i can&#39;t get high](https://www.last.fm/music/Royal+&amp;+the+Serpent/_/i+can%27t+get+high)
-* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
-* [Hyper Potions — Maboroshi](https://www.last.fm/music/Hyper+Potions/_/Maboroshi)<!-- LASTFM:END -->
+* [meltycanon — brittle &lpar;wake up&rpar;](https://www.last.fm/music/meltycanon/_/brittle+&lpar;wake+up&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
