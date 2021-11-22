@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Halogen — U Got That](https://www.last.fm/music/Halogen/_/U+Got+That)
+* [Yung Gravy — Knockout](https://www.last.fm/music/Yung+Gravy/_/Knockout)
 * [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)
 * [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
-* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
-* [Noisestorm — Breakout](https://www.last.fm/music/Noisestorm/_/Breakout)
-* [Aiobahn — ここにいる &lpar;Stephen Walking Remix&rpar;](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+&lpar;Stephen+Walking+Remix&rpar;)<!-- LASTFM:END -->
+* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
