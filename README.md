@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eli Smart — No Destination](https://www.last.fm/music/Eli+Smart/_/No+Destination)
 * [Rose Gray — Same Cloud](https://www.last.fm/music/Rose+Gray/_/Same+Cloud)
 * [Nayana Iz — GROWING PAINS](https://www.last.fm/music/Nayana+Iz/_/GROWING+PAINS)
 * [Denise Chaila — Out the Gaff](https://www.last.fm/music/Denise+Chaila/_/Out+the+Gaff)
-* [Abel Gray — New Friend](https://www.last.fm/music/Abel+Gray/_/New+Friend)
-* [Steve Lacy — Playground](https://www.last.fm/music/Steve+Lacy/_/Playground)<!-- LASTFM:END -->
+* [Abel Gray — New Friend](https://www.last.fm/music/Abel+Gray/_/New+Friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
