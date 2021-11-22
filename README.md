@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ali — Wild Side](https://www.last.fm/music/Ali/_/Wild+Side)
+* [Hollywood Undead — Bullet](https://www.last.fm/music/Hollywood+Undead/_/Bullet)
+* [Ivypaint — Little Liaison](https://www.last.fm/music/Ivypaint/_/Little+Liaison)
 * [GROUNDBREAKING — LOL](https://www.last.fm/music/GROUNDBREAKING/_/LOL)
-* [OUTR3ACH — Worth It](https://www.last.fm/music/OUTR3ACH/_/Worth+It)
-* [Halogen — U Got That](https://www.last.fm/music/Halogen/_/U+Got+That)
-* [Yung Gravy — Knockout](https://www.last.fm/music/Yung+Gravy/_/Knockout)
-* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)<!-- LASTFM:END -->
+* [OUTR3ACH — Worth It](https://www.last.fm/music/OUTR3ACH/_/Worth+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
