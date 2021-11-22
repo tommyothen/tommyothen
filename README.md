@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GROUNDBREAKING — LOL](https://www.last.fm/music/GROUNDBREAKING/_/LOL)
+* [OUTR3ACH — Worth It](https://www.last.fm/music/OUTR3ACH/_/Worth+It)
 * [Halogen — U Got That](https://www.last.fm/music/Halogen/_/U+Got+That)
 * [Yung Gravy — Knockout](https://www.last.fm/music/Yung+Gravy/_/Knockout)
-* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)
-* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
-* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)<!-- LASTFM:END -->
+* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
