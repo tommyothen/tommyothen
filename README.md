@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
+* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)
 * [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
 * [Tsundere Alley — Like My Love](https://www.last.fm/music/Tsundere+Alley/_/Like+My+Love)
-* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
-* [Snails — Front 2 Back](https://www.last.fm/music/Snails/_/Front+2+Back)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)<!-- LASTFM:END -->
+* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
