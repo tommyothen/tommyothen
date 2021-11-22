@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ruel — Dazed &amp; Confused](https://www.last.fm/music/Ruel/_/Dazed+&amp;+Confused)
+* [Jack Stauber&#39;s Micropop — Two Time](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Two+Time)
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
 * [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
-* [Eden — and](https://www.last.fm/music/Eden/_/and)
-* [bbno$ — bad girl](https://www.last.fm/music/bbno$/_/bad+girl)
-* [Tices — Blacknwhite](https://www.last.fm/music/Tices/_/Blacknwhite)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)<!-- LASTFM:END -->
+* [Eden — and](https://www.last.fm/music/Eden/_/and)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
