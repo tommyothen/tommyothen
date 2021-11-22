@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Alfie Templeman — Happiness In Liquid Form](https://www.last.fm/music/Alfie+Templeman/_/Happiness+In+Liquid+Form)
-* [Olivia Dean — Ok Love You Bye](https://www.last.fm/music/Olivia+Dean/_/Ok+Love+You+Bye)
-* [Tyler, The Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+The+Creator/_/EARFQUAKE)
-* [YUNG BAE — Bad Boy](https://www.last.fm/music/YUNG+BAE/_/Bad+Boy)
-* [Jorja Smith — On My Mind &lpar;Jorja Smith X Preditah&rpar;](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+&lpar;Jorja+Smith+X+Preditah&rpar;)<!-- LASTFM:END -->
+* [BAMILY — Katata](https://www.last.fm/music/BAMILY/_/Katata)
+* [SG Lewis — Chemicals](https://www.last.fm/music/SG+Lewis/_/Chemicals)
+* [Thundercat — Funny Thing](https://www.last.fm/music/Thundercat/_/Funny+Thing)
+* [Rejjie Snow — Mirrors](https://www.last.fm/music/Rejjie+Snow/_/Mirrors)
+* [Sunship Balloon — Up On The Moon](https://www.last.fm/music/Sunship+Balloon/_/Up+On+The+Moon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
