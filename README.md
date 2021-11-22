@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)
+* [cherry beach — Gravity](https://www.last.fm/music/cherry+beach/_/Gravity)
 * [Ruel — Dazed &amp; Confused](https://www.last.fm/music/Ruel/_/Dazed+&amp;+Confused)
 * [Jack Stauber&#39;s Micropop — Two Time](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Two+Time)
-* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
-* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
-* [Eden — and](https://www.last.fm/music/Eden/_/and)<!-- LASTFM:END -->
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
