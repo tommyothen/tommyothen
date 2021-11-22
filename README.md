@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Snails — Front 2 Back](https://www.last.fm/music/Snails/_/Front+2+Back)
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
 * [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
 * [Rare Americans — Brittle Bones Nicky](https://www.last.fm/music/Rare+Americans/_/Brittle+Bones+Nicky)
-* [The Hoosiers — Killer](https://www.last.fm/music/The+Hoosiers/_/Killer)
-* [Qbomb — Everything Is Fine](https://www.last.fm/music/Qbomb/_/Everything+Is+Fine)
-* [Blue Kid — The Dismemberment Song](https://www.last.fm/music/Blue+Kid/_/The+Dismemberment+Song)<!-- LASTFM:END -->
+* [The Hoosiers — Killer](https://www.last.fm/music/The+Hoosiers/_/Killer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
