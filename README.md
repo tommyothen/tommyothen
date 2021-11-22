@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
+* [Tsundere Alley — Like My Love](https://www.last.fm/music/Tsundere+Alley/_/Like+My+Love)
+* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
 * [Snails — Front 2 Back](https://www.last.fm/music/Snails/_/Front+2+Back)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
-* [Rare Americans — Brittle Bones Nicky](https://www.last.fm/music/Rare+Americans/_/Brittle+Bones+Nicky)
-* [The Hoosiers — Killer](https://www.last.fm/music/The+Hoosiers/_/Killer)<!-- LASTFM:END -->
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
