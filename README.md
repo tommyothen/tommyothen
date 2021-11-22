@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aiobahn — ここにいる &lpar;Stephen Walking Remix&rpar;](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+&lpar;Stephen+Walking+Remix&rpar;)
+* [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)
+* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)
 * [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
-* [Yung Bambi — Serotonin](https://www.last.fm/music/Yung+Bambi/_/Serotonin)
-* [XYLØ — ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)
-* [bbno$ — skrrrr](https://www.last.fm/music/bbno$/_/skrrrr)
-* [FEDUK — Пара советов - Skit](https://www.last.fm/music/FEDUK/_/%D0%9F%D0%B0%D1%80%D0%B0+%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2+-+Skit)<!-- LASTFM:END -->
+* [Yung Bambi — Serotonin](https://www.last.fm/music/Yung+Bambi/_/Serotonin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
