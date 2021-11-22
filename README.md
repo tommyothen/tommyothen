@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Porter Robinson — Fresh Static Snow - Last Island Remix](https://www.last.fm/music/Porter+Robinson/_/Fresh+Static+Snow+-+Last+Island+Remix)
+* [Porter Robinson — Language - UK Edit](https://www.last.fm/music/Porter+Robinson/_/Language+-+UK+Edit)
 * [Jakey — Medium](https://www.last.fm/music/Jakey/_/Medium)
 * [Porter Robinson — Hear The Bells](https://www.last.fm/music/Porter+Robinson/_/Hear+The+Bells)
-* [Made in M — Tierra](https://www.last.fm/music/Made+in+M/_/Tierra)
-* [Colliding With Mars — the cutest girl in hell](https://www.last.fm/music/Colliding+With+Mars/_/the+cutest+girl+in+hell)
-* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)<!-- LASTFM:END -->
+* [Made in M — Tierra](https://www.last.fm/music/Made+in+M/_/Tierra)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
