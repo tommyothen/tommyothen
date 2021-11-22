@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [serpentwithfeet — Fellowship](https://www.last.fm/music/serpentwithfeet/_/Fellowship)
 * [Piri — soft spot](https://www.last.fm/music/Piri/_/soft+spot)
 * [Surfaces — Sheesh!](https://www.last.fm/music/Surfaces/_/Sheesh!)
 * [Harry Styles — Sunflower, Vol. 6](https://www.last.fm/music/Harry+Styles/_/Sunflower,+Vol.+6)
-* [Oscar Scheller — Peach](https://www.last.fm/music/Oscar+Scheller/_/Peach)
-* [Blu Detiger — Cotton Candy Lemonade](https://www.last.fm/music/Blu+Detiger/_/Cotton+Candy+Lemonade)<!-- LASTFM:END -->
+* [Oscar Scheller — Peach](https://www.last.fm/music/Oscar+Scheller/_/Peach)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
