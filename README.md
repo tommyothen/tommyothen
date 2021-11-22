@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dexter — Paper Cup](https://www.last.fm/music/Dexter/_/Paper+Cup)
-* [Glass Animals — Tangerine](https://www.last.fm/music/Glass+Animals/_/Tangerine)
-* [Easy Life — Daydreams](https://www.last.fm/music/Easy+Life/_/Daydreams)
-* [Tai Verdes — A-O-K](https://www.last.fm/music/Tai+Verdes/_/A-O-K)
-* [Tayo Sound — Cold Feet](https://www.last.fm/music/Tayo+Sound/_/Cold+Feet)<!-- LASTFM:END -->
+* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
+* [WizTheMc — For a Minute](https://www.last.fm/music/WizTheMc/_/For+a+Minute)
+* [Alfie Templeman — Film Scene Daydream](https://www.last.fm/music/Alfie+Templeman/_/Film+Scene+Daydream)
+* [Jungle — Keep Moving](https://www.last.fm/music/Jungle/_/Keep+Moving)
+* [Dexter — Paper Cup](https://www.last.fm/music/Dexter/_/Paper+Cup)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
