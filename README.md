@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
+* [Marvin Divine — Back Again](https://www.last.fm/music/Marvin+Divine/_/Back+Again)
 * [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
 * [WizTheMc — For a Minute](https://www.last.fm/music/WizTheMc/_/For+a+Minute)
-* [Alfie Templeman — Film Scene Daydream](https://www.last.fm/music/Alfie+Templeman/_/Film+Scene+Daydream)
-* [Jungle — Keep Moving](https://www.last.fm/music/Jungle/_/Keep+Moving)
-* [Dexter — Paper Cup](https://www.last.fm/music/Dexter/_/Paper+Cup)<!-- LASTFM:END -->
+* [Alfie Templeman — Film Scene Daydream](https://www.last.fm/music/Alfie+Templeman/_/Film+Scene+Daydream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
