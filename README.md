@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Made in M — Tierra](https://www.last.fm/music/Made+in+M/_/Tierra)
+* [Colliding With Mars — the cutest girl in hell](https://www.last.fm/music/Colliding+With+Mars/_/the+cutest+girl+in+hell)
 * [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
 * [Marvin Divine — Back Again](https://www.last.fm/music/Marvin+Divine/_/Back+Again)
-* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
-* [WizTheMc — For a Minute](https://www.last.fm/music/WizTheMc/_/For+a+Minute)
-* [Alfie Templeman — Film Scene Daydream](https://www.last.fm/music/Alfie+Templeman/_/Film+Scene+Daydream)<!-- LASTFM:END -->
+* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
