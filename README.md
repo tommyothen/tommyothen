@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alfie Templeman — Happiness In Liquid Form](https://www.last.fm/music/Alfie+Templeman/_/Happiness+In+Liquid+Form)
+* [Olivia Dean — Ok Love You Bye](https://www.last.fm/music/Olivia+Dean/_/Ok+Love+You+Bye)
+* [Tyler, The Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+The+Creator/_/EARFQUAKE)
 * [YUNG BAE — Bad Boy](https://www.last.fm/music/YUNG+BAE/_/Bad+Boy)
-* [Jorja Smith — On My Mind &lpar;Jorja Smith X Preditah&rpar;](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+&lpar;Jorja+Smith+X+Preditah&rpar;)
-* [Black Eyed Peas — Meet Me Halfway](https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway)
-* [Tyler, The Creator — BEST INTEREST](https://www.last.fm/music/Tyler,+The+Creator/_/BEST+INTEREST)
-* [Yung Gravy — Mr. Clean](https://www.last.fm/music/Yung+Gravy/_/Mr.+Clean)<!-- LASTFM:END -->
+* [Jorja Smith — On My Mind &lpar;Jorja Smith X Preditah&rpar;](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+&lpar;Jorja+Smith+X+Preditah&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
