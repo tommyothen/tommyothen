@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)
+* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
 * [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
 * [Noisestorm — Breakout](https://www.last.fm/music/Noisestorm/_/Breakout)
-* [Aiobahn — ここにいる &lpar;Stephen Walking Remix&rpar;](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+&lpar;Stephen+Walking+Remix&rpar;)
-* [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)
-* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)<!-- LASTFM:END -->
+* [Aiobahn — ここにいる &lpar;Stephen Walking Remix&rpar;](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+&lpar;Stephen+Walking+Remix&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
