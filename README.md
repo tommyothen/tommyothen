@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kamaara — TrenchWorld](https://www.last.fm/music/Kamaara/_/TrenchWorld)
+* [Vincente Void — Common Ground &lpar;feat. Damien Cane&rpar;](https://www.last.fm/music/Vincente+Void/_/Common+Ground+&lpar;feat.+Damien+Cane&rpar;)
 * [Ali — Wild Side](https://www.last.fm/music/Ali/_/Wild+Side)
 * [Hollywood Undead — Bullet](https://www.last.fm/music/Hollywood+Undead/_/Bullet)
-* [Ivypaint — Little Liaison](https://www.last.fm/music/Ivypaint/_/Little+Liaison)
-* [GROUNDBREAKING — LOL](https://www.last.fm/music/GROUNDBREAKING/_/LOL)
-* [OUTR3ACH — Worth It](https://www.last.fm/music/OUTR3ACH/_/Worth+It)<!-- LASTFM:END -->
+* [Ivypaint — Little Liaison](https://www.last.fm/music/Ivypaint/_/Little+Liaison)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
