@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)
-* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
-* [XYLØ — ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)
-* [Young Lungs — &#39;97 Leo 2](https://www.last.fm/music/Young+Lungs/_/%2797+Leo+2)
-* [Neanderthal — Hurt Your Lover](https://www.last.fm/music/Neanderthal/_/Hurt+Your+Lover)<!-- LASTFM:END -->
+* [FEDUK — Хочу петь](https://www.last.fm/music/FEDUK/_/%D0%A5%D0%BE%D1%87%D1%83+%D0%BF%D0%B5%D1%82%D1%8C)
+* [Inzo — Visionaries &lpar;feat. Novet&rpar;](https://www.last.fm/music/Inzo/_/Visionaries+&lpar;feat.+Novet&rpar;)
+* [Post Malone — Goodbyes &lpar;feat. Young Thug&rpar;](https://www.last.fm/music/Post+Malone/_/Goodbyes+&lpar;feat.+Young+Thug&rpar;)
+* [Grandson — Best Friends](https://www.last.fm/music/Grandson/_/Best+Friends)
+* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
