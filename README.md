@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Royal &amp; the Serpent — i can&#39;t get high](https://www.last.fm/music/Royal+&amp;+the+Serpent/_/i+can%27t+get+high)
+* [Eldzhey — Розовое вино](https://www.last.fm/music/Eldzhey/_/%D0%A0%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B5+%D0%B2%D0%B8%D0%BD%D0%BE)
 * [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
 * [Osvaldorio — Lotus](https://www.last.fm/music/Osvaldorio/_/Lotus)
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
-* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
-* [FEDUK — Хочу петь](https://www.last.fm/music/FEDUK/_/%D0%A5%D0%BE%D1%87%D1%83+%D0%BF%D0%B5%D1%82%D1%8C)<!-- LASTFM:END -->
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
