@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Destiny Rogers — Euphoria](https://www.last.fm/music/Destiny+Rogers/_/Euphoria)
+* [Tsuko G. — Gas Gas Gas &lpar;Initial D&rpar;](https://www.last.fm/music/Tsuko+G./_/Gas+Gas+Gas+&lpar;Initial+D&rpar;)
+* [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)
 * [Fliptrix — You&#39;ll Never Change](https://www.last.fm/music/Fliptrix/_/You%27ll+Never+Change)
-* [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)
-* [AL-X the Great — Rocketman &lpar;feat. Atlas &amp; Lando!&rpar;](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+&lpar;feat.+Atlas+&amp;+Lando!&rpar;)
-* [RODERICK PORTER — I Didn&#39;t Realize How Empty My Bed Was Until You Left](https://www.last.fm/music/RODERICK+PORTER/_/I+Didn%27t+Realize+How+Empty+My+Bed+Was+Until+You+Left)
-* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)<!-- LASTFM:END -->
+* [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
