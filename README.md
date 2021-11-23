@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
+* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
 * [FEDUK — Хочу петь](https://www.last.fm/music/FEDUK/_/%D0%A5%D0%BE%D1%87%D1%83+%D0%BF%D0%B5%D1%82%D1%8C)
 * [Inzo — Visionaries &lpar;feat. Novet&rpar;](https://www.last.fm/music/Inzo/_/Visionaries+&lpar;feat.+Novet&rpar;)
-* [Post Malone — Goodbyes &lpar;feat. Young Thug&rpar;](https://www.last.fm/music/Post+Malone/_/Goodbyes+&lpar;feat.+Young+Thug&rpar;)
-* [Grandson — Best Friends](https://www.last.fm/music/Grandson/_/Best+Friends)
-* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)<!-- LASTFM:END -->
+* [Post Malone — Goodbyes &lpar;feat. Young Thug&rpar;](https://www.last.fm/music/Post+Malone/_/Goodbyes+&lpar;feat.+Young+Thug&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
