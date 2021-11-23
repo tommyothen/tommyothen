@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yunomi — ジェリーフィッシュ &lpar;feat. ローラーガール&rpar;](https://www.last.fm/music/Yunomi/_/%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5+&lpar;feat.+%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB&rpar;)
+* [bbno$ — lit like candle](https://www.last.fm/music/bbno$/_/lit+like+candle)
+* [A D M B — Just A Day](https://www.last.fm/music/A+D+M+B/_/Just+A+Day)
 * [FEDUK — Канифоль &lpar;feat. Nokanifol&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9A%D0%B0%D0%BD%D0%B8%D1%84%D0%BE%D0%BB%D1%8C+&lpar;feat.+Nokanifol&rpar;)
-* [DBangz — Last Claim](https://www.last.fm/music/DBangz/_/Last+Claim)
-* [Lemaitre — Higher](https://www.last.fm/music/Lemaitre/_/Higher)
-* [FEDUK — Были ли мы](https://www.last.fm/music/FEDUK/_/%D0%91%D1%8B%D0%BB%D0%B8+%D0%BB%D0%B8+%D0%BC%D1%8B)
-* [DNMO — Broken](https://www.last.fm/music/DNMO/_/Broken)<!-- LASTFM:END -->
+* [DBangz — Last Claim](https://www.last.fm/music/DBangz/_/Last+Claim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
