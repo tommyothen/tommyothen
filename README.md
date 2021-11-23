@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)
+* [AL-X the Great — Rocketman &lpar;feat. Atlas &amp; Lando!&rpar;](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+&lpar;feat.+Atlas+&amp;+Lando!&rpar;)
 * [RODERICK PORTER — I Didn&#39;t Realize How Empty My Bed Was Until You Left](https://www.last.fm/music/RODERICK+PORTER/_/I+Didn%27t+Realize+How+Empty+My+Bed+Was+Until+You+Left)
 * [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
-* [EL SPEAKER — Medicine &lpar;feat. Antonella&rpar;](https://www.last.fm/music/EL+SPEAKER/_/Medicine+&lpar;feat.+Antonella&rpar;)
-* [bbno$ — dont tell me shit](https://www.last.fm/music/bbno$/_/dont+tell+me+shit)
-* [Pouya — Superman Is Dead](https://www.last.fm/music/Pouya/_/Superman+Is+Dead)<!-- LASTFM:END -->
+* [EL SPEAKER — Medicine &lpar;feat. Antonella&rpar;](https://www.last.fm/music/EL+SPEAKER/_/Medicine+&lpar;feat.+Antonella&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
