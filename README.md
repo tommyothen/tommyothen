@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kill Bill: The Rapper — Black Coffee](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Black+Coffee)
-* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
-* [Dreamcatcher — Fly high](https://www.last.fm/music/Dreamcatcher/_/Fly+high)
-* [Rich Brian — Introvert &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Introvert+&lpar;feat.+Joji&rpar;)
-* [L.Dre — Across the Country](https://www.last.fm/music/L.Dre/_/Across+the+Country)<!-- LASTFM:END -->
+* [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)
+* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
+* [XYLØ — ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)
+* [Young Lungs — &#39;97 Leo 2](https://www.last.fm/music/Young+Lungs/_/%2797+Leo+2)
+* [Neanderthal — Hurt Your Lover](https://www.last.fm/music/Neanderthal/_/Hurt+Your+Lover)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
