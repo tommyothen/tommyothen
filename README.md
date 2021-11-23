@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — roo doo](https://www.last.fm/music/bbno$/_/roo+doo)
-* [Shahmen — Dirt](https://www.last.fm/music/Shahmen/_/Dirt)
-* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
-* [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)
-* [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)<!-- LASTFM:END -->
+* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
+* [Oliver Tree — Welcome To LA](https://www.last.fm/music/Oliver+Tree/_/Welcome+To+LA)
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
+* [Porter Robinson — Say My Name &lpar;Original Mix&rpar;](https://www.last.fm/music/Porter+Robinson/_/Say+My+Name+&lpar;Original+Mix&rpar;)
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
