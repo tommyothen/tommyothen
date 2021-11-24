@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jackie Hayes — headache](https://www.last.fm/music/Jackie+Hayes/_/headache)
-* [DellaXOZ — $Cary](https://www.last.fm/music/DellaXOZ/_/$Cary)
-* [Kelsy Karter — Devil On My Shoulder](https://www.last.fm/music/Kelsy+Karter/_/Devil+On+My+Shoulder)
-* [shiey — Confusion](https://www.last.fm/music/shiey/_/Confusion)
-* [LIL BOODANG — Jesus Don&#39;t Like That I&#39;m Gay but Satans Cool With It](https://www.last.fm/music/LIL+BOODANG/_/Jesus+Don%27t+Like+That+I%27m+Gay+but+Satans+Cool+With+It)<!-- LASTFM:END -->
+* [xoxomyah — Princeton](https://www.last.fm/music/xoxomyah/_/Princeton)
+* [Ludic — Heart Emoji](https://www.last.fm/music/Ludic/_/Heart+Emoji)
+* [Limbo — Crown](https://www.last.fm/music/Limbo/_/Crown)
+* [POORSTACY — Don&#39;t Look At Me](https://www.last.fm/music/POORSTACY/_/Don%27t+Look+At+Me)
+* [xoxomyah — Princeton](https://www.last.fm/music/xoxomyah/_/Princeton)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
