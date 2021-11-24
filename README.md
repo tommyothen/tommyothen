@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
+* [Porter Robinson — Shelter](https://www.last.fm/music/Porter+Robinson/_/Shelter)
+* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
 * [Omniboi — 1 Slash Million](https://www.last.fm/music/Omniboi/_/1+Slash+Million)
-* [Charlotte Sands — Dress](https://www.last.fm/music/Charlotte+Sands/_/Dress)
-* [shiey — Confusion](https://www.last.fm/music/shiey/_/Confusion)
-* [spill tab — PISTOLWHIP](https://www.last.fm/music/spill+tab/_/PISTOLWHIP)
-* [ceo@business.net — blah blah blah](https://www.last.fm/music/ceo@business.net/_/blah+blah+blah)<!-- LASTFM:END -->
+* [Charlotte Sands — Dress](https://www.last.fm/music/Charlotte+Sands/_/Dress)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
