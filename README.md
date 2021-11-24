@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cancel Culture — LIES](https://www.last.fm/music/Cancel+Culture/_/LIES)
-* [Audrey Nuna — Comic Sans &lpar;feat. Jack Harlow&rpar;](https://www.last.fm/music/Audrey+Nuna/_/Comic+Sans+&lpar;feat.+Jack+Harlow&rpar;)
-* [Jackie Hayes — headache](https://www.last.fm/music/Jackie+Hayes/_/headache)
-* [Char — OPERATOR](https://www.last.fm/music/Char/_/OPERATOR)
-* [YFU BABY — DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)<!-- LASTFM:END -->
+* [LIL BOODANG — Jesus Don&#39;t Like That I&#39;m Gay but Satans Cool With It](https://www.last.fm/music/LIL+BOODANG/_/Jesus+Don%27t+Like+That+I%27m+Gay+but+Satans+Cool+With+It)
+* [WASTEDJU — &quot;e-girl&quot;](https://www.last.fm/music/WASTEDJU/_/%22e-girl%22)
+* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)
+* [Aaron Cartier — Boy](https://www.last.fm/music/Aaron+Cartier/_/Boy)
+* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
