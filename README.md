@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [BROCKHAMPTON — JELLO](https://www.last.fm/music/BROCKHAMPTON/_/JELLO)
 * [BROCKHAMPTON — NEW ORLEANS](https://www.last.fm/music/BROCKHAMPTON/_/NEW+ORLEANS)
 * [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
-* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
-* [Moe Shop — Love Taste](https://www.last.fm/music/Moe+Shop/_/Love+Taste)
-* [Porter Robinson — Natural Light - San Holo Remix](https://www.last.fm/music/Porter+Robinson/_/Natural+Light+-+San+Holo+Remix)<!-- LASTFM:END -->
+* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
