@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [xoxomyah — Princeton](https://www.last.fm/music/xoxomyah/_/Princeton)
-* [Ludic — Heart Emoji](https://www.last.fm/music/Ludic/_/Heart+Emoji)
-* [Limbo — Crown](https://www.last.fm/music/Limbo/_/Crown)
-* [POORSTACY — Don&#39;t Look At Me](https://www.last.fm/music/POORSTACY/_/Don%27t+Look+At+Me)
-* [xoxomyah — Princeton](https://www.last.fm/music/xoxomyah/_/Princeton)<!-- LASTFM:END -->
+* [Cancel Culture — LIES](https://www.last.fm/music/Cancel+Culture/_/LIES)
+* [Audrey Nuna — Comic Sans &lpar;feat. Jack Harlow&rpar;](https://www.last.fm/music/Audrey+Nuna/_/Comic+Sans+&lpar;feat.+Jack+Harlow&rpar;)
+* [Jackie Hayes — headache](https://www.last.fm/music/Jackie+Hayes/_/headache)
+* [Char — OPERATOR](https://www.last.fm/music/Char/_/OPERATOR)
+* [YFU BABY — DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
