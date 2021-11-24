@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)
+* [Saib — Little Indian](https://www.last.fm/music/Saib/_/Little+Indian)
+* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)
 * [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
-* [Porter Robinson — Shelter](https://www.last.fm/music/Porter+Robinson/_/Shelter)
-* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
-* [Omniboi — 1 Slash Million](https://www.last.fm/music/Omniboi/_/1+Slash+Million)
-* [Charlotte Sands — Dress](https://www.last.fm/music/Charlotte+Sands/_/Dress)<!-- LASTFM:END -->
+* [Porter Robinson — Shelter](https://www.last.fm/music/Porter+Robinson/_/Shelter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
