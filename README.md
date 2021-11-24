@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)
-* [DSG — eMILF](https://www.last.fm/music/DSG/_/eMILF)
-* [WASTEDJU — &quot;e-girl&quot;](https://www.last.fm/music/WASTEDJU/_/%22e-girl%22)
-* [Ernest rareberrg — Tearing Me Apart](https://www.last.fm/music/Ernest+rareberrg/_/Tearing+Me+Apart)
-* [Model Child — My Queer Teenage Anthem](https://www.last.fm/music/Model+Child/_/My+Queer+Teenage+Anthem)<!-- LASTFM:END -->
+* [YFU BABY — DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)
+* [Charlotte Sands — Dress](https://www.last.fm/music/Charlotte+Sands/_/Dress)
+* [Limbo — Crown](https://www.last.fm/music/Limbo/_/Crown)
+* [Chrmng, — Are You Lying to Your Therapist About Being Sober Again? Yes.](https://www.last.fm/music/Chrmng,/_/Are+You+Lying+to+Your+Therapist+About+Being+Sober+Again%3F+Yes.)
+* [Cancel Culture — LIES](https://www.last.fm/music/Cancel+Culture/_/LIES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
