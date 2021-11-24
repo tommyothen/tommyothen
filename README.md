@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
 * [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
-* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
-* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
-* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)
-* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)<!-- LASTFM:END -->
+* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
