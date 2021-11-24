@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTentacion — $$ - with Matt Ox](https://www.last.fm/music/XXXTentacion/_/$$+-+with+Matt+Ox)
+* [Pendulum — Self vs Self &lpar;feat. In Flames&rpar;](https://www.last.fm/music/Pendulum/_/Self+vs+Self+&lpar;feat.+In+Flames&rpar;)
+* [FEDUK — Западный округ](https://www.last.fm/music/FEDUK/_/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9+%D0%BE%D0%BA%D1%80%D1%83%D0%B3)
 * [TWICE — FAKE &amp; TRUE](https://www.last.fm/music/TWICE/_/FAKE+&amp;+TRUE)
-* [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)
-* [Saib — Little Indian](https://www.last.fm/music/Saib/_/Little+Indian)
-* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)
-* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)<!-- LASTFM:END -->
+* [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
