@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Limbo — Crown](https://www.last.fm/music/Limbo/_/Crown)
-* [Audrey Nuna — Comic Sans &lpar;feat. Jack Harlow&rpar;](https://www.last.fm/music/Audrey+Nuna/_/Comic+Sans+&lpar;feat.+Jack+Harlow&rpar;)
+* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)
+* [DSG — eMILF](https://www.last.fm/music/DSG/_/eMILF)
 * [WASTEDJU — &quot;e-girl&quot;](https://www.last.fm/music/WASTEDJU/_/%22e-girl%22)
-* [Rolling Quartz — BLAZE](https://www.last.fm/music/Rolling+Quartz/_/BLAZE)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)<!-- LASTFM:END -->
+* [Ernest rareberrg — Tearing Me Apart](https://www.last.fm/music/Ernest+rareberrg/_/Tearing+Me+Apart)
+* [Model Child — My Queer Teenage Anthem](https://www.last.fm/music/Model+Child/_/My+Queer+Teenage+Anthem)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
