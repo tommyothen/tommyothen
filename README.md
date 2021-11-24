@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [LIL BOODANG — Jesus Don&#39;t Like That I&#39;m Gay but Satans Cool With It](https://www.last.fm/music/LIL+BOODANG/_/Jesus+Don%27t+Like+That+I%27m+Gay+but+Satans+Cool+With+It)
-* [WASTEDJU — &quot;e-girl&quot;](https://www.last.fm/music/WASTEDJU/_/%22e-girl%22)
-* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)
-* [Aaron Cartier — Boy](https://www.last.fm/music/Aaron+Cartier/_/Boy)
-* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)<!-- LASTFM:END -->
+* [ceo@business.net — blah blah blah](https://www.last.fm/music/ceo@business.net/_/blah+blah+blah)
+* [DSG — eMILF](https://www.last.fm/music/DSG/_/eMILF)
+* [Culi. — Acid Tears](https://www.last.fm/music/Culi./_/Acid+Tears)
+* [Model Child — My Queer Teenage Anthem](https://www.last.fm/music/Model+Child/_/My+Queer+Teenage+Anthem)
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
