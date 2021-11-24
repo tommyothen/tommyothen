@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Porter Robinson — Natural Light - San Holo Remix](https://www.last.fm/music/Porter+Robinson/_/Natural+Light+-+San+Holo+Remix)
+* [The Deli — Flowers](https://www.last.fm/music/The+Deli/_/Flowers)
+* [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)
 * [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
-* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)
-* [Fairlane — Uncover You](https://www.last.fm/music/Fairlane/_/Uncover+You)
-* [Rich Brian — No Worries](https://www.last.fm/music/Rich+Brian/_/No+Worries)
-* [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)<!-- LASTFM:END -->
+* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
