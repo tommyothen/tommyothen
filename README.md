@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
 * [Aaron Cartier — Boy](https://www.last.fm/music/Aaron+Cartier/_/Boy)
 * [S3RL — You Are Mine](https://www.last.fm/music/S3RL/_/You+Are+Mine)
 * [DellaXOZ — $Cary](https://www.last.fm/music/DellaXOZ/_/$Cary)
-* [Model Child — My Queer Teenage Anthem](https://www.last.fm/music/Model+Child/_/My+Queer+Teenage+Anthem)
-* [POORSTACY — Don&#39;t Look At Me](https://www.last.fm/music/POORSTACY/_/Don%27t+Look+At+Me)<!-- LASTFM:END -->
+* [Model Child — My Queer Teenage Anthem](https://www.last.fm/music/Model+Child/_/My+Queer+Teenage+Anthem)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
