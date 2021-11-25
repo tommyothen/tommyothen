@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [S3RL — You Are Mine](https://www.last.fm/music/S3RL/_/You+Are+Mine)
 * [DellaXOZ — $Cary](https://www.last.fm/music/DellaXOZ/_/$Cary)
 * [Model Child — My Queer Teenage Anthem](https://www.last.fm/music/Model+Child/_/My+Queer+Teenage+Anthem)
 * [POORSTACY — Don&#39;t Look At Me](https://www.last.fm/music/POORSTACY/_/Don%27t+Look+At+Me)
-* [Culi. — Acid Tears](https://www.last.fm/music/Culi./_/Acid+Tears)
-* [LIL BOODANG — Jesus Don&#39;t Like That I&#39;m Gay but Satans Cool With It](https://www.last.fm/music/LIL+BOODANG/_/Jesus+Don%27t+Like+That+I%27m+Gay+but+Satans+Cool+With+It)<!-- LASTFM:END -->
+* [Culi. — Acid Tears](https://www.last.fm/music/Culi./_/Acid+Tears)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
