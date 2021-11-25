@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
 * [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
 * [Char — OPERATOR](https://www.last.fm/music/Char/_/OPERATOR)
 * [POORSTACY — Don&#39;t Look At Me](https://www.last.fm/music/POORSTACY/_/Don%27t+Look+At+Me)
-* [DellaXOZ — $Cary](https://www.last.fm/music/DellaXOZ/_/$Cary)
-* [WASTEDJU — &quot;e-girl&quot;](https://www.last.fm/music/WASTEDJU/_/%22e-girl%22)<!-- LASTFM:END -->
+* [DellaXOZ — $Cary](https://www.last.fm/music/DellaXOZ/_/$Cary)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
