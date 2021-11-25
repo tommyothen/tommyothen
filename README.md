@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [POORSTACY — Don&#39;t Look At Me](https://www.last.fm/music/POORSTACY/_/Don%27t+Look+At+Me)
+* [Culi. — Acid Tears](https://www.last.fm/music/Culi./_/Acid+Tears)
 * [LIL BOODANG — Jesus Don&#39;t Like That I&#39;m Gay but Satans Cool With It](https://www.last.fm/music/LIL+BOODANG/_/Jesus+Don%27t+Like+That+I%27m+Gay+but+Satans+Cool+With+It)
 * [Cancel Culture — LIES](https://www.last.fm/music/Cancel+Culture/_/LIES)
-* [Chrmng, — Are You Lying to Your Therapist About Being Sober Again? Yes.](https://www.last.fm/music/Chrmng,/_/Are+You+Lying+to+Your+Therapist+About+Being+Sober+Again%3F+Yes.)
-* [spill tab — PISTOLWHIP](https://www.last.fm/music/spill+tab/_/PISTOLWHIP)
-* [Char — OPERATOR](https://www.last.fm/music/Char/_/OPERATOR)<!-- LASTFM:END -->
+* [Chrmng, — Are You Lying to Your Therapist About Being Sober Again? Yes.](https://www.last.fm/music/Chrmng,/_/Are+You+Lying+to+Your+Therapist+About+Being+Sober+Again%3F+Yes.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
