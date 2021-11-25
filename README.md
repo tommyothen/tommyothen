@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YFU BABY — DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)
+* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
 * [Ernest rareberrg — Tearing Me Apart](https://www.last.fm/music/Ernest+rareberrg/_/Tearing+Me+Apart)
 * [Cook Thugless — Mosh Pit](https://www.last.fm/music/Cook+Thugless/_/Mosh+Pit)
-* [ceo@business.net — blah blah blah](https://www.last.fm/music/ceo@business.net/_/blah+blah+blah)
-* [Audrey Nuna — Comic Sans &lpar;feat. Jack Harlow&rpar;](https://www.last.fm/music/Audrey+Nuna/_/Comic+Sans+&lpar;feat.+Jack+Harlow&rpar;)
-* [WASTEDJU — &quot;e-girl&quot;](https://www.last.fm/music/WASTEDJU/_/%22e-girl%22)<!-- LASTFM:END -->
+* [ceo@business.net — blah blah blah](https://www.last.fm/music/ceo@business.net/_/blah+blah+blah)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
