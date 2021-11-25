@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
 * [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
 * [Aaron Cartier — Boy](https://www.last.fm/music/Aaron+Cartier/_/Boy)
-* [S3RL — You Are Mine](https://www.last.fm/music/S3RL/_/You+Are+Mine)
-* [DellaXOZ — $Cary](https://www.last.fm/music/DellaXOZ/_/$Cary)
-* [Model Child — My Queer Teenage Anthem](https://www.last.fm/music/Model+Child/_/My+Queer+Teenage+Anthem)<!-- LASTFM:END -->
+* [S3RL — You Are Mine](https://www.last.fm/music/S3RL/_/You+Are+Mine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
