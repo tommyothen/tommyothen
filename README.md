@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [xoxomyah — Princeton](https://www.last.fm/music/xoxomyah/_/Princeton)
-* [DSG — eMILF](https://www.last.fm/music/DSG/_/eMILF)
-* [Izzy Camina — Wrapped In Gold](https://www.last.fm/music/Izzy+Camina/_/Wrapped+In+Gold)
-* [Ludic — Heart Emoji](https://www.last.fm/music/Ludic/_/Heart+Emoji)
-* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)<!-- LASTFM:END -->
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
+* [Charlotte Sands — Dress](https://www.last.fm/music/Charlotte+Sands/_/Dress)
+* [shiey — Confusion](https://www.last.fm/music/shiey/_/Confusion)
+* [Omniboi — 1 Slash Million](https://www.last.fm/music/Omniboi/_/1+Slash+Million)
+* [xoxomyah — Princeton](https://www.last.fm/music/xoxomyah/_/Princeton)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
