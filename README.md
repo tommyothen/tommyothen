@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [spill tab — PISTOLWHIP](https://www.last.fm/music/spill+tab/_/PISTOLWHIP)
+* [Char — OPERATOR](https://www.last.fm/music/Char/_/OPERATOR)
+* [Kelsy Karter — Devil On My Shoulder](https://www.last.fm/music/Kelsy+Karter/_/Devil+On+My+Shoulder)
 * [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
-* [Charlotte Sands — Dress](https://www.last.fm/music/Charlotte+Sands/_/Dress)
-* [shiey — Confusion](https://www.last.fm/music/shiey/_/Confusion)
-* [Omniboi — 1 Slash Million](https://www.last.fm/music/Omniboi/_/1+Slash+Million)
-* [xoxomyah — Princeton](https://www.last.fm/music/xoxomyah/_/Princeton)<!-- LASTFM:END -->
+* [Charlotte Sands — Dress](https://www.last.fm/music/Charlotte+Sands/_/Dress)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
