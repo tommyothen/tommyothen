@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
-* [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)
-* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
-* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)<!-- LASTFM:END -->
+* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
+* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
+* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
+* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
