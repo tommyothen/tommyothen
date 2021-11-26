@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Key — Show Me](https://www.last.fm/music/Key/_/Show+Me)
+* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
 * [Woosung — FACE](https://www.last.fm/music/Woosung/_/FACE)
-* [BewhY — DAMM GUT](https://www.last.fm/music/BewhY/_/DAMM+GUT)
-* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
-* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)<!-- LASTFM:END -->
+* [BewhY — DAMM GUT](https://www.last.fm/music/BewhY/_/DAMM+GUT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
