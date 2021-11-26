@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
 * [88rising — Indigo](https://www.last.fm/music/88rising/_/Indigo)
 * [Khamsin — My Way](https://www.last.fm/music/Khamsin/_/My+Way)
 * [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
-* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
-* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)<!-- LASTFM:END -->
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
