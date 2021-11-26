@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
 * [TWICE — TT](https://www.last.fm/music/TWICE/_/TT)
 * [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
-* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
-* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)<!-- LASTFM:END -->
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
