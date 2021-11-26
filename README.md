@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
 * [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
 * [Harry Styles — Golden](https://www.last.fm/music/Harry+Styles/_/Golden)
-* [Troye Sivan — Easy](https://www.last.fm/music/Troye+Sivan/_/Easy)
-* [WASTEDJU — &quot;e-girl&quot;](https://www.last.fm/music/WASTEDJU/_/%22e-girl%22)
-* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)<!-- LASTFM:END -->
+* [Troye Sivan — Easy](https://www.last.fm/music/Troye+Sivan/_/Easy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
