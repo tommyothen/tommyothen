@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
+* [Bren Joy — Sweet &lpar;feat. Landon Sears&rpar;](https://www.last.fm/music/Bren+Joy/_/Sweet+&lpar;feat.+Landon+Sears&rpar;)
 * [Red Velvet - IRENE &amp; SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&amp;+SEULGI/_/Naughty)
 * [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
-* [Jessica Universe — Bbo Bbo](https://www.last.fm/music/Jessica+Universe/_/Bbo+Bbo)
-* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)
-* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)<!-- LASTFM:END -->
+* [Jessica Universe — Bbo Bbo](https://www.last.fm/music/Jessica+Universe/_/Bbo+Bbo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
