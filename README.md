@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
 * [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
 * [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
 * [Bren Joy — Sweet &lpar;feat. Landon Sears&rpar;](https://www.last.fm/music/Bren+Joy/_/Sweet+&lpar;feat.+Landon+Sears&rpar;)
-* [Red Velvet - IRENE &amp; SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&amp;+SEULGI/_/Naughty)
-* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)<!-- LASTFM:END -->
+* [Red Velvet - IRENE &amp; SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&amp;+SEULGI/_/Naughty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
