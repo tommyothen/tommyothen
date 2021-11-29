@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
+* [Madi — Pity Party](https://www.last.fm/music/Madi/_/Pity+Party)
 * [Childish Japes — Old Yeller](https://www.last.fm/music/Childish+Japes/_/Old+Yeller)
 * [Refractions — Tulips](https://www.last.fm/music/Refractions/_/Tulips)
-* [Hail Your Highness — Parallel](https://www.last.fm/music/Hail+Your+Highness/_/Parallel)
-* [UPTOWN BOYBAND — SAILORMOON](https://www.last.fm/music/UPTOWN+BOYBAND/_/SAILORMOON)
-* [Tiny Meat Gang — Sofia](https://www.last.fm/music/Tiny+Meat+Gang/_/Sofia)<!-- LASTFM:END -->
+* [Hail Your Highness — Parallel](https://www.last.fm/music/Hail+Your+Highness/_/Parallel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
