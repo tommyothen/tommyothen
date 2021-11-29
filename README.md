@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
 * [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
 * [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
 * [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)
-* [Eden — wonder](https://www.last.fm/music/Eden/_/wonder)<!-- LASTFM:END -->
+* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
