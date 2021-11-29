@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aldn — glittr](https://www.last.fm/music/Aldn/_/glittr)
+* [Savage Ga$p — october&#39;s lullaby &lpar;feat. glaive&rpar;](https://www.last.fm/music/Savage+Ga$p/_/october%27s+lullaby+&lpar;feat.+glaive&rpar;)
+* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)
 * [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)
-* [yde — BlindLife](https://www.last.fm/music/yde/_/BlindLife)
-* [kiwifrooot — go to work](https://www.last.fm/music/kiwifrooot/_/go+to+work)
-* [Coletta — Sweet Nothin&#39;](https://www.last.fm/music/Coletta/_/Sweet+Nothin%27)
-* [Breathe Electric — Electronic Lover](https://www.last.fm/music/Breathe+Electric/_/Electronic+Lover)<!-- LASTFM:END -->
+* [yde — BlindLife](https://www.last.fm/music/yde/_/BlindLife)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
