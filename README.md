@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Stephen — Play Me Like a Violin](https://www.last.fm/music/Stephen/_/Play+Me+Like+a+Violin)
 * [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
 * [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
 * [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)<!-- LASTFM:END -->
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
