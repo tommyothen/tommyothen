@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
+* [BewhY — DAMM GUT](https://www.last.fm/music/BewhY/_/DAMM+GUT)
+* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
 * [BLACKPINK — Don&#39;t Know What To Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+To+Do)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Kristen Bell — Love Is an Open Door - From &quot;Frozen&quot;/Soundtrack Version](https://www.last.fm/music/Kristen+Bell/_/Love+Is+an+Open+Door+-+From+%22Frozen%22%2FSoundtrack+Version)
-* [love-sadKiD — Vinyl](https://www.last.fm/music/love-sadKiD/_/Vinyl)
-* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)<!-- LASTFM:END -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
