@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [love-sadKiD — Vinyl](https://www.last.fm/music/love-sadKiD/_/Vinyl)
 * [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
 * [blackbear — idfc](https://www.last.fm/music/blackbear/_/idfc)
 * [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
-* [Stephen — Play Me Like a Violin](https://www.last.fm/music/Stephen/_/Play+Me+Like+a+Violin)
-* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)<!-- LASTFM:END -->
+* [Stephen — Play Me Like a Violin](https://www.last.fm/music/Stephen/_/Play+Me+Like+a+Violin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
