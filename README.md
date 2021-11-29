@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Madi — Pity Party](https://www.last.fm/music/Madi/_/Pity+Party)
 * [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
 * [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
 * [CHAMELEON LIME WHOOPIEPIE — Who Am I](https://www.last.fm/music/CHAMELEON+LIME+WHOOPIEPIE/_/Who+Am+I)
-* [Carson Elliott — Simple Stupid](https://www.last.fm/music/Carson+Elliott/_/Simple+Stupid)
-* [Aldn — glittr](https://www.last.fm/music/Aldn/_/glittr)<!-- LASTFM:END -->
+* [Carson Elliott — Simple Stupid](https://www.last.fm/music/Carson+Elliott/_/Simple+Stupid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
