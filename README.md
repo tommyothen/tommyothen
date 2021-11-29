@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)
+* [yde — BlindLife](https://www.last.fm/music/yde/_/BlindLife)
 * [kiwifrooot — go to work](https://www.last.fm/music/kiwifrooot/_/go+to+work)
 * [Coletta — Sweet Nothin&#39;](https://www.last.fm/music/Coletta/_/Sweet+Nothin%27)
-* [Breathe Electric — Electronic Lover](https://www.last.fm/music/Breathe+Electric/_/Electronic+Lover)
-* [Andrés — Maybe](https://www.last.fm/music/Andr%C3%A9s/_/Maybe)
-* [Haru Nemuri — Kick In The World](https://www.last.fm/music/Haru+Nemuri/_/Kick+In+The+World)<!-- LASTFM:END -->
+* [Breathe Electric — Electronic Lover](https://www.last.fm/music/Breathe+Electric/_/Electronic+Lover)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
