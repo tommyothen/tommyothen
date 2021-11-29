@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
 * [BewhY — DAMM GUT](https://www.last.fm/music/BewhY/_/DAMM+GUT)
-* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
-* [BLACKPINK — Don&#39;t Know What To Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+To+Do)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
+* [BewhY — DAMM GUT](https://www.last.fm/music/BewhY/_/DAMM+GUT)
+* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
