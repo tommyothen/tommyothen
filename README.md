@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flavia — Ripe](https://www.last.fm/music/Flavia/_/Ripe)
+* [RealLiveAnimals — Sucks](https://www.last.fm/music/RealLiveAnimals/_/Sucks)
 * [Anemoria — Jellybeans](https://www.last.fm/music/Anemoria/_/Jellybeans)
 * [MaxD — Stuart](https://www.last.fm/music/MaxD/_/Stuart)
-* [Jhariah — Needed a Change of Pace](https://www.last.fm/music/Jhariah/_/Needed+a+Change+of+Pace)
-* [Maison book girl — faithlessness](https://www.last.fm/music/Maison+book+girl/_/faithlessness)
-* [Hessam — Love Yourself](https://www.last.fm/music/Hessam/_/Love+Yourself)<!-- LASTFM:END -->
+* [Jhariah — Needed a Change of Pace](https://www.last.fm/music/Jhariah/_/Needed+a+Change+of+Pace)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
