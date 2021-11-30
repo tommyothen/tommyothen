@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BTS — Stay Gold](https://www.last.fm/music/BTS/_/Stay+Gold)
+* [BTS — Boy With Luv &lpar;feat. Halsey&rpar;](https://www.last.fm/music/BTS/_/Boy+With+Luv+&lpar;feat.+Halsey&rpar;)
 * [Bambam — riBBon](https://www.last.fm/music/Bambam/_/riBBon)
 * [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [Shaun — Way Back Home](https://www.last.fm/music/Shaun/_/Way+Back+Home)
-* [BTS — Permission to Dance](https://www.last.fm/music/BTS/_/Permission+to+Dance)
-* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)<!-- LASTFM:END -->
+* [Shaun — Way Back Home](https://www.last.fm/music/Shaun/_/Way+Back+Home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
