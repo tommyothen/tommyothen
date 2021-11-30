@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Breathe Electric — Electronic Lover](https://www.last.fm/music/Breathe+Electric/_/Electronic+Lover)
+* [yde — BlindLife](https://www.last.fm/music/yde/_/BlindLife)
 * [ARI HICKS — Kiss Me, Kill Me](https://www.last.fm/music/ARI+HICKS/_/Kiss+Me,+Kill+Me)
 * [Flavia — Ripe](https://www.last.fm/music/Flavia/_/Ripe)
-* [333 — Wild Place](https://www.last.fm/music/333/_/Wild+Place)
-* [Hail Your Highness — Parallel](https://www.last.fm/music/Hail+Your+Highness/_/Parallel)
-* [Maison book girl — faithlessness](https://www.last.fm/music/Maison+book+girl/_/faithlessness)<!-- LASTFM:END -->
+* [333 — Wild Place](https://www.last.fm/music/333/_/Wild+Place)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
