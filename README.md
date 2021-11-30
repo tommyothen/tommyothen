@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ENHYPEN — Drunk-Dazed](https://www.last.fm/music/ENHYPEN/_/Drunk-Dazed)
+* [BTS — Blue &amp; Grey](https://www.last.fm/music/BTS/_/Blue+&amp;+Grey)
 * [K/DA — DRUM GO DUM](https://www.last.fm/music/K%2FDA/_/DRUM+GO+DUM)
 * [WONHO — Ain&#39;t About You &lpar;feat. Kiiara&rpar;](https://www.last.fm/music/WONHO/_/Ain%27t+About+You+&lpar;feat.+Kiiara&rpar;)
-* [YOASOBI — 怪物](https://www.last.fm/music/YOASOBI/_/%E6%80%AA%E7%89%A9)
-* [Kai — Mmmh](https://www.last.fm/music/Kai/_/Mmmh)
-* [Dhruv — double take](https://www.last.fm/music/Dhruv/_/double+take)<!-- LASTFM:END -->
+* [YOASOBI — 怪物](https://www.last.fm/music/YOASOBI/_/%E6%80%AA%E7%89%A9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
