@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
+* [BTS — Fly to My Room](https://www.last.fm/music/BTS/_/Fly+to+My+Room)
 * [K/DA — MORE](https://www.last.fm/music/K%2FDA/_/MORE)
 * [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
-* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
-* [BTS — Make It Right &lpar;feat. Lauv&rpar;](https://www.last.fm/music/BTS/_/Make+It+Right+&lpar;feat.+Lauv&rpar;)
-* [Block B — 닐리리맘보](https://www.last.fm/music/Block+B/_/%EB%8B%90%EB%A6%AC%EB%A6%AC%EB%A7%98%EB%B3%B4)<!-- LASTFM:END -->
+* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
