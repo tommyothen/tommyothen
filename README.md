@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kai — Mmmh](https://www.last.fm/music/Kai/_/Mmmh)
+* [Dhruv — double take](https://www.last.fm/music/Dhruv/_/double+take)
 * [Gaho — Running](https://www.last.fm/music/Gaho/_/Running)
 * [CHUNG HA — Demente &lpar;feat. Guaynaa&rpar;](https://www.last.fm/music/CHUNG+HA/_/Demente+&lpar;feat.+Guaynaa&rpar;)
-* [BLOOM VASE — Bluma to Lunch](https://www.last.fm/music/BLOOM+VASE/_/Bluma+to+Lunch)
-* [StayC — ASAP](https://www.last.fm/music/StayC/_/ASAP)
-* [BLACKPINK — DDU-DU DDU-DU](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU)<!-- LASTFM:END -->
+* [BLOOM VASE — Bluma to Lunch](https://www.last.fm/music/BLOOM+VASE/_/Bluma+to+Lunch)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
