@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BTS — Permission to Dance](https://www.last.fm/music/BTS/_/Permission+to+Dance)
+* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)
+* [Mino — OKAY DOKEY](https://www.last.fm/music/Mino/_/OKAY+DOKEY)
 * [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [Red Velvet — Psycho](https://www.last.fm/music/Red+Velvet/_/Psycho)
-* [DPR LIVE — Yellow Cab](https://www.last.fm/music/DPR+LIVE/_/Yellow+Cab)
-* [BTS — Pied Piper](https://www.last.fm/music/BTS/_/Pied+Piper)
-* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)<!-- LASTFM:END -->
+* [Red Velvet — Psycho](https://www.last.fm/music/Red+Velvet/_/Psycho)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
