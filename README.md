@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Refractions — Tulips](https://www.last.fm/music/Refractions/_/Tulips)
+* [Anemoria — Jellybeans](https://www.last.fm/music/Anemoria/_/Jellybeans)
 * [Savage Ga$p — october&#39;s lullaby &lpar;feat. glaive&rpar;](https://www.last.fm/music/Savage+Ga$p/_/october%27s+lullaby+&lpar;feat.+glaive&rpar;)
 * [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
-* [DYLIS — &quot;I Want You To Rip My Heart Out&quot; - Extended Version](https://www.last.fm/music/DYLIS/_/%22I+Want+You+To+Rip+My+Heart+Out%22+-+Extended+Version)
-* [CHAMELEON LIME WHOOPIEPIE — Who Am I](https://www.last.fm/music/CHAMELEON+LIME+WHOOPIEPIE/_/Who+Am+I)
-* [RealLiveAnimals — Sucks](https://www.last.fm/music/RealLiveAnimals/_/Sucks)<!-- LASTFM:END -->
+* [DYLIS — &quot;I Want You To Rip My Heart Out&quot; - Extended Version](https://www.last.fm/music/DYLIS/_/%22I+Want+You+To+Rip+My+Heart+Out%22+-+Extended+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
