@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Haru Nemuri — Kick In The World](https://www.last.fm/music/Haru+Nemuri/_/Kick+In+The+World)
 * [Refractions — Tulips](https://www.last.fm/music/Refractions/_/Tulips)
 * [Anemoria — Jellybeans](https://www.last.fm/music/Anemoria/_/Jellybeans)
 * [Savage Ga$p — october&#39;s lullaby &lpar;feat. glaive&rpar;](https://www.last.fm/music/Savage+Ga$p/_/october%27s+lullaby+&lpar;feat.+glaive&rpar;)
-* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
-* [DYLIS — &quot;I Want You To Rip My Heart Out&quot; - Extended Version](https://www.last.fm/music/DYLIS/_/%22I+Want+You+To+Rip+My+Heart+Out%22+-+Extended+Version)<!-- LASTFM:END -->
+* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
