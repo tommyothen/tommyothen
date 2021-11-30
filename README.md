@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Block B — 닐리리맘보](https://www.last.fm/music/Block+B/_/%EB%8B%90%EB%A6%AC%EB%A6%AC%EB%A7%98%EB%B3%B4)
+* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
+* [MOMOLAND — Wrap Me In Plastic](https://www.last.fm/music/MOMOLAND/_/Wrap+Me+In+Plastic)
 * [ENHYPEN — Drunk-Dazed](https://www.last.fm/music/ENHYPEN/_/Drunk-Dazed)
-* [BTS — Blue &amp; Grey](https://www.last.fm/music/BTS/_/Blue+&amp;+Grey)
-* [K/DA — DRUM GO DUM](https://www.last.fm/music/K%2FDA/_/DRUM+GO+DUM)
-* [WONHO — Ain&#39;t About You &lpar;feat. Kiiara&rpar;](https://www.last.fm/music/WONHO/_/Ain%27t+About+You+&lpar;feat.+Kiiara&rpar;)
-* [YOASOBI — 怪物](https://www.last.fm/music/YOASOBI/_/%E6%80%AA%E7%89%A9)<!-- LASTFM:END -->
+* [BTS — Blue &amp; Grey](https://www.last.fm/music/BTS/_/Blue+&amp;+Grey)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
