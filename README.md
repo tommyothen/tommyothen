@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hessam — Love Yourself](https://www.last.fm/music/Hessam/_/Love+Yourself)
+* [Aldn — glittr](https://www.last.fm/music/Aldn/_/glittr)
+* [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)
 * [UPTOWN BOYBAND — SAILORMOON](https://www.last.fm/music/UPTOWN+BOYBAND/_/SAILORMOON)
-* [Childish Japes — Old Yeller](https://www.last.fm/music/Childish+Japes/_/Old+Yeller)
-* [Haru Nemuri — Kick In The World](https://www.last.fm/music/Haru+Nemuri/_/Kick+In+The+World)
-* [Refractions — Tulips](https://www.last.fm/music/Refractions/_/Tulips)
-* [Anemoria — Jellybeans](https://www.last.fm/music/Anemoria/_/Jellybeans)<!-- LASTFM:END -->
+* [Childish Japes — Old Yeller](https://www.last.fm/music/Childish+Japes/_/Old+Yeller)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
