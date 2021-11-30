@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bambam — riBBon](https://www.last.fm/music/Bambam/_/riBBon)
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
+* [Shaun — Way Back Home](https://www.last.fm/music/Shaun/_/Way+Back+Home)
 * [BTS — Permission to Dance](https://www.last.fm/music/BTS/_/Permission+to+Dance)
-* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)
-* [Mino — OKAY DOKEY](https://www.last.fm/music/Mino/_/OKAY+DOKEY)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [Red Velvet — Psycho](https://www.last.fm/music/Red+Velvet/_/Psycho)<!-- LASTFM:END -->
+* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
