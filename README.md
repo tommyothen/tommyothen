@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jhariah — Needed a Change of Pace](https://www.last.fm/music/Jhariah/_/Needed+a+Change+of+Pace)
+* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)
 * [Breathe Electric — Electronic Lover](https://www.last.fm/music/Breathe+Electric/_/Electronic+Lover)
 * [yde — BlindLife](https://www.last.fm/music/yde/_/BlindLife)
-* [ARI HICKS — Kiss Me, Kill Me](https://www.last.fm/music/ARI+HICKS/_/Kiss+Me,+Kill+Me)
-* [Flavia — Ripe](https://www.last.fm/music/Flavia/_/Ripe)
-* [333 — Wild Place](https://www.last.fm/music/333/_/Wild+Place)<!-- LASTFM:END -->
+* [ARI HICKS — Kiss Me, Kill Me](https://www.last.fm/music/ARI+HICKS/_/Kiss+Me,+Kill+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
