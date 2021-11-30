@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MaxD — Stuart](https://www.last.fm/music/MaxD/_/Stuart)
+* [Tiny Meat Gang — Sofia](https://www.last.fm/music/Tiny+Meat+Gang/_/Sofia)
+* [Lil Nas X — SUN GOES DOWN](https://www.last.fm/music/Lil+Nas+X/_/SUN+GOES+DOWN)
 * [Hessam — Love Yourself](https://www.last.fm/music/Hessam/_/Love+Yourself)
-* [Aldn — glittr](https://www.last.fm/music/Aldn/_/glittr)
-* [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)
-* [UPTOWN BOYBAND — SAILORMOON](https://www.last.fm/music/UPTOWN+BOYBAND/_/SAILORMOON)
-* [Childish Japes — Old Yeller](https://www.last.fm/music/Childish+Japes/_/Old+Yeller)<!-- LASTFM:END -->
+* [Aldn — glittr](https://www.last.fm/music/Aldn/_/glittr)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
