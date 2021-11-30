@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BTS — Pied Piper](https://www.last.fm/music/BTS/_/Pied+Piper)
+* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)
 * [Why Don&#39;t We — Fallin’ &lpar;Adrenaline&rpar;](https://www.last.fm/music/Why+Don%27t+We/_/Fallin%E2%80%99+&lpar;Adrenaline&rpar;)
 * [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
-* [BTS — Fly to My Room](https://www.last.fm/music/BTS/_/Fly+to+My+Room)
-* [K/DA — MORE](https://www.last.fm/music/K%2FDA/_/MORE)
-* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)<!-- LASTFM:END -->
+* [BTS — Fly to My Room](https://www.last.fm/music/BTS/_/Fly+to+My+Room)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
