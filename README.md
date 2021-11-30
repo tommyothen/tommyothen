@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Maison book girl — faithlessness](https://www.last.fm/music/Maison+book+girl/_/faithlessness)
+* [Carson Elliott — Simple Stupid](https://www.last.fm/music/Carson+Elliott/_/Simple+Stupid)
 * [MaxD — Stuart](https://www.last.fm/music/MaxD/_/Stuart)
 * [Tiny Meat Gang — Sofia](https://www.last.fm/music/Tiny+Meat+Gang/_/Sofia)
-* [Lil Nas X — SUN GOES DOWN](https://www.last.fm/music/Lil+Nas+X/_/SUN+GOES+DOWN)
-* [Hessam — Love Yourself](https://www.last.fm/music/Hessam/_/Love+Yourself)
-* [Aldn — glittr](https://www.last.fm/music/Aldn/_/glittr)<!-- LASTFM:END -->
+* [Lil Nas X — SUN GOES DOWN](https://www.last.fm/music/Lil+Nas+X/_/SUN+GOES+DOWN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
