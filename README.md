@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [333 — Wild Place](https://www.last.fm/music/333/_/Wild+Place)
+* [Hail Your Highness — Parallel](https://www.last.fm/music/Hail+Your+Highness/_/Parallel)
 * [Maison book girl — faithlessness](https://www.last.fm/music/Maison+book+girl/_/faithlessness)
 * [Carson Elliott — Simple Stupid](https://www.last.fm/music/Carson+Elliott/_/Simple+Stupid)
-* [MaxD — Stuart](https://www.last.fm/music/MaxD/_/Stuart)
-* [Tiny Meat Gang — Sofia](https://www.last.fm/music/Tiny+Meat+Gang/_/Sofia)
-* [Lil Nas X — SUN GOES DOWN](https://www.last.fm/music/Lil+Nas+X/_/SUN+GOES+DOWN)<!-- LASTFM:END -->
+* [MaxD — Stuart](https://www.last.fm/music/MaxD/_/Stuart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
