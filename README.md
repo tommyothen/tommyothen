@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Refractions — Tulips](https://www.last.fm/music/Refractions/_/Tulips)
+* [Maison book girl — faithlessness](https://www.last.fm/music/Maison+book+girl/_/faithlessness)
 * [DYLIS — &quot;I Want You To Rip My Heart Out&quot; - Extended Version](https://www.last.fm/music/DYLIS/_/%22I+Want+You+To+Rip+My+Heart+Out%22+-+Extended+Version)
 * [Anemoria — Jellybeans](https://www.last.fm/music/Anemoria/_/Jellybeans)
-* [Jhariah — Needed a Change of Pace](https://www.last.fm/music/Jhariah/_/Needed+a+Change+of+Pace)
-* [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)
-* [Lil Nas X — SUN GOES DOWN](https://www.last.fm/music/Lil+Nas+X/_/SUN+GOES+DOWN)<!-- LASTFM:END -->
+* [Jhariah — Needed a Change of Pace](https://www.last.fm/music/Jhariah/_/Needed+a+Change+of+Pace)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
