@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)
 * [Coletta — Sweet Nothin&#39;](https://www.last.fm/music/Coletta/_/Sweet+Nothin%27)
 * [ARI HICKS — Kiss Me, Kill Me](https://www.last.fm/music/ARI+HICKS/_/Kiss+Me,+Kill+Me)
 * [Carson Elliott — Simple Stupid](https://www.last.fm/music/Carson+Elliott/_/Simple+Stupid)
-* [CHAMELEON LIME WHOOPIEPIE — Who Am I](https://www.last.fm/music/CHAMELEON+LIME+WHOOPIEPIE/_/Who+Am+I)
-* [yde — BlindLife](https://www.last.fm/music/yde/_/BlindLife)<!-- LASTFM:END -->
+* [CHAMELEON LIME WHOOPIEPIE — Who Am I](https://www.last.fm/music/CHAMELEON+LIME+WHOOPIEPIE/_/Who+Am+I)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
