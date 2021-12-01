@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [CHAMELEON LIME WHOOPIEPIE — Who Am I](https://www.last.fm/music/CHAMELEON+LIME+WHOOPIEPIE/_/Who+Am+I)
+* [yde — BlindLife](https://www.last.fm/music/yde/_/BlindLife)
+* [Childish Japes — Old Yeller](https://www.last.fm/music/Childish+Japes/_/Old+Yeller)
 * [Refractions — Tulips](https://www.last.fm/music/Refractions/_/Tulips)
-* [Maison book girl — faithlessness](https://www.last.fm/music/Maison+book+girl/_/faithlessness)
-* [DYLIS — &quot;I Want You To Rip My Heart Out&quot; - Extended Version](https://www.last.fm/music/DYLIS/_/%22I+Want+You+To+Rip+My+Heart+Out%22+-+Extended+Version)
-* [Anemoria — Jellybeans](https://www.last.fm/music/Anemoria/_/Jellybeans)
-* [Jhariah — Needed a Change of Pace](https://www.last.fm/music/Jhariah/_/Needed+a+Change+of+Pace)<!-- LASTFM:END -->
+* [Maison book girl — faithlessness](https://www.last.fm/music/Maison+book+girl/_/faithlessness)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
