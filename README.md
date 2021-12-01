@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Madi — Pity Party](https://www.last.fm/music/Madi/_/Pity+Party)
+* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)
+* [333 — Wild Place](https://www.last.fm/music/333/_/Wild+Place)
 * [Aldn — glittr](https://www.last.fm/music/Aldn/_/glittr)
-* [Andrés — Maybe](https://www.last.fm/music/Andr%C3%A9s/_/Maybe)
-* [kiwifrooot — go to work](https://www.last.fm/music/kiwifrooot/_/go+to+work)
-* [Tiny Meat Gang — Sofia](https://www.last.fm/music/Tiny+Meat+Gang/_/Sofia)
-* [Hessam — Love Yourself](https://www.last.fm/music/Hessam/_/Love+Yourself)<!-- LASTFM:END -->
+* [Andrés — Maybe](https://www.last.fm/music/Andr%C3%A9s/_/Maybe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
