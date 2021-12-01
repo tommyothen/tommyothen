@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hessam — Love Yourself](https://www.last.fm/music/Hessam/_/Love+Yourself)
-* [UPTOWN BOYBAND — SAILORMOON](https://www.last.fm/music/UPTOWN+BOYBAND/_/SAILORMOON)
-* [Hail Your Highness — Parallel](https://www.last.fm/music/Hail+Your+Highness/_/Parallel)
-* [Haru Nemuri — Kick In The World](https://www.last.fm/music/Haru+Nemuri/_/Kick+In+The+World)
-* [MaxD — Stuart](https://www.last.fm/music/MaxD/_/Stuart)<!-- LASTFM:END -->
+* [Aldn — glittr](https://www.last.fm/music/Aldn/_/glittr)
+* [Andrés — Maybe](https://www.last.fm/music/Andr%C3%A9s/_/Maybe)
+* [kiwifrooot — go to work](https://www.last.fm/music/kiwifrooot/_/go+to+work)
+* [Tiny Meat Gang — Sofia](https://www.last.fm/music/Tiny+Meat+Gang/_/Sofia)
+* [Hessam — Love Yourself](https://www.last.fm/music/Hessam/_/Love+Yourself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
