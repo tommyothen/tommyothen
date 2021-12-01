@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)
+* [Lil Nas X — SUN GOES DOWN](https://www.last.fm/music/Lil+Nas+X/_/SUN+GOES+DOWN)
+* [Breathe Electric — Electronic Lover](https://www.last.fm/music/Breathe+Electric/_/Electronic+Lover)
 * [Madi — Pity Party](https://www.last.fm/music/Madi/_/Pity+Party)
-* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)
-* [333 — Wild Place](https://www.last.fm/music/333/_/Wild+Place)
-* [Aldn — glittr](https://www.last.fm/music/Aldn/_/glittr)
-* [Andrés — Maybe](https://www.last.fm/music/Andr%C3%A9s/_/Maybe)<!-- LASTFM:END -->
+* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
