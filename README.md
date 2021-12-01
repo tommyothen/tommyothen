@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BTS — Boy With Luv &lpar;feat. Halsey&rpar;](https://www.last.fm/music/BTS/_/Boy+With+Luv+&lpar;feat.+Halsey&rpar;)
-* [BTS — Film out](https://www.last.fm/music/BTS/_/Film+out)
-* [Kai — Mmmh](https://www.last.fm/music/Kai/_/Mmmh)
-* [BTS — Butter](https://www.last.fm/music/BTS/_/Butter)
-* [A.C.E — Down &lpar;feat. Grey&rpar;](https://www.last.fm/music/A.C.E/_/Down+&lpar;feat.+Grey&rpar;)<!-- LASTFM:END -->
+* [BTS — Blue &amp; Grey](https://www.last.fm/music/BTS/_/Blue+&amp;+Grey)
+* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)
+* [MOMOLAND — Wrap Me In Plastic](https://www.last.fm/music/MOMOLAND/_/Wrap+Me+In+Plastic)
+* [taeyeon — Weekend](https://www.last.fm/music/taeyeon/_/Weekend)
+* [Shaun — Way Back Home](https://www.last.fm/music/Shaun/_/Way+Back+Home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
