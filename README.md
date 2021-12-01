@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flavia — Ripe](https://www.last.fm/music/Flavia/_/Ripe)
+* [Savage Ga$p — october&#39;s lullaby &lpar;feat. glaive&rpar;](https://www.last.fm/music/Savage+Ga$p/_/october%27s+lullaby+&lpar;feat.+glaive&rpar;)
+* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
 * [K/DA — MORE](https://www.last.fm/music/K%2FDA/_/MORE)
-* [CHUNG HA — Dream of You &lpar;with R3HAB&rpar;](https://www.last.fm/music/CHUNG+HA/_/Dream+of+You+&lpar;with+R3HAB&rpar;)
-* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
-* [Troye Sivan — Easy &lpar;with Kacey Musgraves feat. Mark Ronson&rpar;](https://www.last.fm/music/Troye+Sivan/_/Easy+&lpar;with+Kacey+Musgraves+feat.+Mark+Ronson&rpar;)
-* [BTS — MIC Drop &lpar;Steve Aoki Remix&rpar; [Full Length Edition]](https://www.last.fm/music/BTS/_/MIC+Drop+&lpar;Steve+Aoki+Remix&rpar;+%5BFull+Length+Edition%5D)<!-- LASTFM:END -->
+* [CHUNG HA — Dream of You &lpar;with R3HAB&rpar;](https://www.last.fm/music/CHUNG+HA/_/Dream+of+You+&lpar;with+R3HAB&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
