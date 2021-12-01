@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
 * [Colliding With Mars — Mental Breakdown In Slow Motion](https://www.last.fm/music/Colliding+With+Mars/_/Mental+Breakdown+In+Slow+Motion)
 * [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)
 * [Coletta — Sweet Nothin&#39;](https://www.last.fm/music/Coletta/_/Sweet+Nothin%27)
-* [ARI HICKS — Kiss Me, Kill Me](https://www.last.fm/music/ARI+HICKS/_/Kiss+Me,+Kill+Me)
-* [Carson Elliott — Simple Stupid](https://www.last.fm/music/Carson+Elliott/_/Simple+Stupid)<!-- LASTFM:END -->
+* [ARI HICKS — Kiss Me, Kill Me](https://www.last.fm/music/ARI+HICKS/_/Kiss+Me,+Kill+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
