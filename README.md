@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Coletta — Sweet Nothin&#39;](https://www.last.fm/music/Coletta/_/Sweet+Nothin%27)
+* [ARI HICKS — Kiss Me, Kill Me](https://www.last.fm/music/ARI+HICKS/_/Kiss+Me,+Kill+Me)
+* [Carson Elliott — Simple Stupid](https://www.last.fm/music/Carson+Elliott/_/Simple+Stupid)
 * [CHAMELEON LIME WHOOPIEPIE — Who Am I](https://www.last.fm/music/CHAMELEON+LIME+WHOOPIEPIE/_/Who+Am+I)
-* [yde — BlindLife](https://www.last.fm/music/yde/_/BlindLife)
-* [Childish Japes — Old Yeller](https://www.last.fm/music/Childish+Japes/_/Old+Yeller)
-* [Refractions — Tulips](https://www.last.fm/music/Refractions/_/Tulips)
-* [Maison book girl — faithlessness](https://www.last.fm/music/Maison+book+girl/_/faithlessness)<!-- LASTFM:END -->
+* [yde — BlindLife](https://www.last.fm/music/yde/_/BlindLife)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
