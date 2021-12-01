@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Haru Nemuri — Kick In The World](https://www.last.fm/music/Haru+Nemuri/_/Kick+In+The+World)
+* [MaxD — Stuart](https://www.last.fm/music/MaxD/_/Stuart)
 * [Flavia — Ripe](https://www.last.fm/music/Flavia/_/Ripe)
 * [Savage Ga$p — october&#39;s lullaby &lpar;feat. glaive&rpar;](https://www.last.fm/music/Savage+Ga$p/_/october%27s+lullaby+&lpar;feat.+glaive&rpar;)
-* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
-* [K/DA — MORE](https://www.last.fm/music/K%2FDA/_/MORE)
-* [CHUNG HA — Dream of You &lpar;with R3HAB&rpar;](https://www.last.fm/music/CHUNG+HA/_/Dream+of+You+&lpar;with+R3HAB&rpar;)<!-- LASTFM:END -->
+* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
