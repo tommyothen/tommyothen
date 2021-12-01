@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [WONHO — Ain&#39;t About You &lpar;feat. Kiiara&rpar;](https://www.last.fm/music/WONHO/_/Ain%27t+About+You+&lpar;feat.+Kiiara&rpar;)
-* [BLACKPINK — DDU-DU DDU-DU](https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU)
-* [Woosung — Lazy](https://www.last.fm/music/Woosung/_/Lazy)
-* [Loona — PTT &lpar;Paint the Town&rpar;](https://www.last.fm/music/Loona/_/PTT+&lpar;Paint+the+Town&rpar;)
-* [YOASOBI — Into The Night](https://www.last.fm/music/YOASOBI/_/Into+The+Night)<!-- LASTFM:END -->
+* [BTS — Stay](https://www.last.fm/music/BTS/_/Stay)
+* [HyunA — I&#39;m Not Cool](https://www.last.fm/music/HyunA/_/I%27m+Not+Cool)
+* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
+* [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)
+* [MAX — Working For The Weekend &lpar;feat. eaJ&rpar; [Party Pupils Remix]](https://www.last.fm/music/MAX/_/Working+For+The+Weekend+&lpar;feat.+eaJ&rpar;+%5BParty+Pupils+Remix%5D)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
