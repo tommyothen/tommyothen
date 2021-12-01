@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BTS — Blue &amp; Grey](https://www.last.fm/music/BTS/_/Blue+&amp;+Grey)
-* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)
-* [MOMOLAND — Wrap Me In Plastic](https://www.last.fm/music/MOMOLAND/_/Wrap+Me+In+Plastic)
-* [taeyeon — Weekend](https://www.last.fm/music/taeyeon/_/Weekend)
-* [Shaun — Way Back Home](https://www.last.fm/music/Shaun/_/Way+Back+Home)<!-- LASTFM:END -->
+* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
+* [Troye Sivan — Easy &lpar;with Kacey Musgraves feat. Mark Ronson&rpar;](https://www.last.fm/music/Troye+Sivan/_/Easy+&lpar;with+Kacey+Musgraves+feat.+Mark+Ronson&rpar;)
+* [BTS — MIC Drop &lpar;Steve Aoki Remix&rpar; [Full Length Edition]](https://www.last.fm/music/BTS/_/MIC+Drop+&lpar;Steve+Aoki+Remix&rpar;+%5BFull+Length+Edition%5D)
+* [CHANMINA — BIJIN](https://www.last.fm/music/CHANMINA/_/BIJIN)
+* [BTS — Fly to My Room](https://www.last.fm/music/BTS/_/Fly+to+My+Room)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
