@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BTS — Stay](https://www.last.fm/music/BTS/_/Stay)
-* [HyunA — I&#39;m Not Cool](https://www.last.fm/music/HyunA/_/I%27m+Not+Cool)
-* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
-* [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)
-* [MAX — Working For The Weekend &lpar;feat. eaJ&rpar; [Party Pupils Remix]](https://www.last.fm/music/MAX/_/Working+For+The+Weekend+&lpar;feat.+eaJ&rpar;+%5BParty+Pupils+Remix%5D)<!-- LASTFM:END -->
+* [given — 冬のはなし](https://www.last.fm/music/given/_/%E5%86%AC%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%97)
+* [K/DA — THE BADDEST](https://www.last.fm/music/K%2FDA/_/THE+BADDEST)
+* [K/DA — DRUM GO DUM](https://www.last.fm/music/K%2FDA/_/DRUM+GO+DUM)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [Block B — 난리나](https://www.last.fm/music/Block+B/_/%EB%82%9C%EB%A6%AC%EB%82%98)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
