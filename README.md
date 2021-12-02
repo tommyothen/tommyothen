@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dirtyphonics — Navigator](https://www.last.fm/music/Dirtyphonics/_/Navigator)
+* [Yungtown — Late Night Thoughts](https://www.last.fm/music/Yungtown/_/Late+Night+Thoughts)
 * [whitewoods — Be Home Free](https://www.last.fm/music/whitewoods/_/Be+Home+Free)
 * [Infected Mushroom — Spitfire](https://www.last.fm/music/Infected+Mushroom/_/Spitfire)
-* [ASCA — RESISTER](https://www.last.fm/music/ASCA/_/RESISTER)
-* [Tate McRae — you broke me first - Luca Schreiner Remix](https://www.last.fm/music/Tate+McRae/_/you+broke+me+first+-+Luca+Schreiner+Remix)
-* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)<!-- LASTFM:END -->
+* [ASCA — RESISTER](https://www.last.fm/music/ASCA/_/RESISTER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
