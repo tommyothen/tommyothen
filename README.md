@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
+* [Joji — I Don&#39;t Wanna Waste My Time](https://www.last.fm/music/Joji/_/I+Don%27t+Wanna+Waste+My+Time)
+* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
 * [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
-* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
-* [Royal &amp; the Serpent — Weddings &amp; Funerals](https://www.last.fm/music/Royal+&amp;+the+Serpent/_/Weddings+&amp;+Funerals)
-* [Global Dan — Dark Out](https://www.last.fm/music/Global+Dan/_/Dark+Out)
-* [rei brown — Street Fighter](https://www.last.fm/music/rei+brown/_/Street+Fighter)<!-- LASTFM:END -->
+* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
