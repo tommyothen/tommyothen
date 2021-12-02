@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cute Girls Doing Cute Things — I Like Cute Girls](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/I+Like+Cute+Girls)
+* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
+* [Getter — Forget It &lpar;feat. Oliver Tree&rpar;](https://www.last.fm/music/Getter/_/Forget+It+&lpar;feat.+Oliver+Tree&rpar;)
 * [Fliptrix — Monday To Sunday](https://www.last.fm/music/Fliptrix/_/Monday+To+Sunday)
-* [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)
-* [The404Studios — Lost](https://www.last.fm/music/The404Studios/_/Lost)
-* [bbno$ — bad girl](https://www.last.fm/music/bbno$/_/bad+girl)
-* [Trails — Learn to Love Me](https://www.last.fm/music/Trails/_/Learn+to+Love+Me)<!-- LASTFM:END -->
+* [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
