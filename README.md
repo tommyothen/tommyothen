@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Nocturne &lpar;Pierce Fulton Remix&rpar;](https://www.last.fm/music/Eden/_/Nocturne+&lpar;Pierce+Fulton+Remix&rpar;)
+* [Snail&#39;s house — hot milk](https://www.last.fm/music/Snail%27s+house/_/hot+milk)
 * [RŮDE — Eternal Youth](https://www.last.fm/music/R%C5%AEDE/_/Eternal+Youth)
 * [Prop Dylan — Can you imagine](https://www.last.fm/music/Prop+Dylan/_/Can+you+imagine)
-* [Jeremy Zucker — better off](https://www.last.fm/music/Jeremy+Zucker/_/better+off)
-* [Cute Girls Doing Cute Things — I Like Cute Girls](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/I+Like+Cute+Girls)
-* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)<!-- LASTFM:END -->
+* [Jeremy Zucker — better off](https://www.last.fm/music/Jeremy+Zucker/_/better+off)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
