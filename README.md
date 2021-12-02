@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Deli — 5:32PM](https://www.last.fm/music/The+Deli/_/5:32PM)
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
+* [Jorja Smith — Blue Lights](https://www.last.fm/music/Jorja+Smith/_/Blue+Lights)
 * [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)
-* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
-* [Colliding With Mars — Mental Breakdown In Slow Motion](https://www.last.fm/music/Colliding+With+Mars/_/Mental+Breakdown+In+Slow+Motion)
-* [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)
-* [Coletta — Sweet Nothin&#39;](https://www.last.fm/music/Coletta/_/Sweet+Nothin%27)<!-- LASTFM:END -->
+* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
