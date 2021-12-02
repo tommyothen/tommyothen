@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fliptrix — Monday To Sunday](https://www.last.fm/music/Fliptrix/_/Monday+To+Sunday)
+* [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)
+* [The404Studios — Lost](https://www.last.fm/music/The404Studios/_/Lost)
 * [bbno$ — bad girl](https://www.last.fm/music/bbno$/_/bad+girl)
-* [Trails — Learn to Love Me](https://www.last.fm/music/Trails/_/Learn+to+Love+Me)
-* [Fhin — But Now A Warm Feel Is Running](https://www.last.fm/music/Fhin/_/But+Now+A+Warm+Feel+Is+Running)
-* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
+* [Trails — Learn to Love Me](https://www.last.fm/music/Trails/_/Learn+to+Love+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
