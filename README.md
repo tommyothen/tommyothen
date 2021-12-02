@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tiny Meat Gang — Super Xan](https://www.last.fm/music/Tiny+Meat+Gang/_/Super+Xan)
+* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
+* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
 * [Tima Belorusskih — Незабудка](https://www.last.fm/music/Tima+Belorusskih/_/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B1%D1%83%D0%B4%D0%BA%D0%B0)
-* [Atlas — WAVES](https://www.last.fm/music/Atlas/_/WAVES)
-* [Glass Animals — Your Love &lpar;Déjà Vu&rpar;](https://www.last.fm/music/Glass+Animals/_/Your+Love+&lpar;D%C3%A9j%C3%A0+Vu&rpar;)
-* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [YUNG BAE — YEBISU - Yung Bae Edit](https://www.last.fm/music/YUNG+BAE/_/YEBISU+-+Yung+Bae+Edit)<!-- LASTFM:END -->
+* [Atlas — WAVES](https://www.last.fm/music/Atlas/_/WAVES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
