@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BewhY — DAMM GUT](https://www.last.fm/music/BewhY/_/DAMM+GUT)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [MOMOLAND — BBoom BBoom](https://www.last.fm/music/MOMOLAND/_/BBoom+BBoom)<!-- LASTFM:END -->
+* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
+* [BLACKPINK — Don&#39;t Know What To Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+To+Do)
+* [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
+* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
+* [BewhY — DAMM GUT](https://www.last.fm/music/BewhY/_/DAMM+GUT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
