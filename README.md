@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
+* [MOMOLAND — BBoom BBoom](https://www.last.fm/music/MOMOLAND/_/BBoom+BBoom)
 * [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
 * [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
-* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
-* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)<!-- LASTFM:END -->
+* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
