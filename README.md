@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — DAMM GUT](https://www.last.fm/music/BewhY/_/DAMM+GUT)
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
 * [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [MOMOLAND — BBoom BBoom](https://www.last.fm/music/MOMOLAND/_/BBoom+BBoom)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
-* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)<!-- LASTFM:END -->
+* [MOMOLAND — BBoom BBoom](https://www.last.fm/music/MOMOLAND/_/BBoom+BBoom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
