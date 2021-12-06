@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
-* [Red Velvet - IRENE &amp; SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&amp;+SEULGI/_/Naughty)
-* [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)<!-- LASTFM:END -->
+* [Boys World — Girlfriends](https://www.last.fm/music/Boys+World/_/Girlfriends)
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
+* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
+* [Junoflo — Acid Freestyle](https://www.last.fm/music/Junoflo/_/Acid+Freestyle)
+* [Ashnikko — Slumber Party &lpar;feat. Princess Nokia&rpar;](https://www.last.fm/music/Ashnikko/_/Slumber+Party+&lpar;feat.+Princess+Nokia&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
