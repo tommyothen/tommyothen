@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Woosung — FACE](https://www.last.fm/music/Woosung/_/FACE)
-* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)
-* [Solar — SPIT IT OUT](https://www.last.fm/music/Solar/_/SPIT+IT+OUT)
-* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
-* [&lpar;G&rpar;I-DLE — Oh My God](https://www.last.fm/music/&lpar;G&rpar;I-DLE/_/Oh+My+God)<!-- LASTFM:END -->
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
+* [Red Velvet - IRENE &amp; SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&amp;+SEULGI/_/Naughty)
+* [3YE — YESSIR](https://www.last.fm/music/3YE/_/YESSIR)
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
