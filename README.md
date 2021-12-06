@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [CONVOLK — i fucked up](https://www.last.fm/music/CONVOLK/_/i+fucked+up)
-* [Eden — sex](https://www.last.fm/music/Eden/_/sex)
-* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
-* [Joji — I Don&#39;t Wanna Waste My Time](https://www.last.fm/music/Joji/_/I+Don%27t+Wanna+Waste+My+Time)
-* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)<!-- LASTFM:END -->
+* [MOMOLAND — BBoom BBoom](https://www.last.fm/music/MOMOLAND/_/BBoom+BBoom)
+* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)
+* [TWICE — TT](https://www.last.fm/music/TWICE/_/TT)
+* [Jennie — SOLO](https://www.last.fm/music/Jennie/_/SOLO)
+* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
