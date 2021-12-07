@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)
 * [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
 * [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)
-* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
-* [DECO*27 — 依存香炉](https://www.last.fm/music/DECO*27/_/%E4%BE%9D%E5%AD%98%E9%A6%99%E7%82%89)
-* [DECO*27 — 君が嫌いだ](https://www.last.fm/music/DECO*27/_/%E5%90%9B%E3%81%8C%E5%AB%8C%E3%81%84%E3%81%A0)<!-- LASTFM:END -->
+* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)
+* [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
