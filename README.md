@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DECO*27 — 勘違い性反希望症](https://www.last.fm/music/DECO*27/_/%E5%8B%98%E9%81%95%E3%81%84%E6%80%A7%E5%8F%8D%E5%B8%8C%E6%9C%9B%E7%97%87)
+* [DECO*27 — フェイクアクター](https://www.last.fm/music/DECO*27/_/%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC)
 * [DECO*27 — アンデッドアリス](https://www.last.fm/music/DECO*27/_/%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%83%89%E3%82%A2%E3%83%AA%E3%82%B9)
 * [DECO*27 — ネオネオン](https://www.last.fm/music/DECO*27/_/%E3%83%8D%E3%82%AA%E3%83%8D%E3%82%AA%E3%83%B3)
-* [DECO*27 — ネオネオン](https://www.last.fm/music/DECO*27/_/%E3%83%8D%E3%82%AA%E3%83%8D%E3%82%AA%E3%83%B3)
-* [DECO*27 — Cinderella - Giga First Night Remix](https://www.last.fm/music/DECO*27/_/Cinderella+-+Giga+First+Night+Remix)
-* [DECO*27 — アンドロイドガール](https://www.last.fm/music/DECO*27/_/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%89%E3%82%AC%E3%83%BC%E3%83%AB)<!-- LASTFM:END -->
+* [DECO*27 — ネオネオン](https://www.last.fm/music/DECO*27/_/%E3%83%8D%E3%82%AA%E3%83%8D%E3%82%AA%E3%83%B3)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
