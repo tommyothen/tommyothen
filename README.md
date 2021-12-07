@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
 * [DECO*27 — 依存香炉](https://www.last.fm/music/DECO*27/_/%E4%BE%9D%E5%AD%98%E9%A6%99%E7%82%89)
 * [DECO*27 — 君が嫌いだ](https://www.last.fm/music/DECO*27/_/%E5%90%9B%E3%81%8C%E5%AB%8C%E3%81%84%E3%81%A0)
 * [DECO*27 — 勘違い性反希望症](https://www.last.fm/music/DECO*27/_/%E5%8B%98%E9%81%95%E3%81%84%E6%80%A7%E5%8F%8D%E5%B8%8C%E6%9C%9B%E7%97%87)
-* [DECO*27 — フェイクアクター](https://www.last.fm/music/DECO*27/_/%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC)
-* [DECO*27 — アンデッドアリス](https://www.last.fm/music/DECO*27/_/%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%83%89%E3%82%A2%E3%83%AA%E3%82%B9)<!-- LASTFM:END -->
+* [DECO*27 — フェイクアクター](https://www.last.fm/music/DECO*27/_/%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
