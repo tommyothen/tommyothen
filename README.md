@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DECO*27 — 乙女解剖](https://www.last.fm/music/DECO*27/_/%E4%B9%99%E5%A5%B3%E8%A7%A3%E5%89%96)
+* [DECO*27 — モスキート](https://www.last.fm/music/DECO*27/_/%E3%83%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%88)
 * [DECO*27 — スクランブル交際](https://www.last.fm/music/DECO*27/_/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E4%BA%A4%E9%9A%9B)
 * [DECO*27 — アンドロイドガール](https://www.last.fm/music/DECO*27/_/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%89%E3%82%AC%E3%83%BC%E3%83%AB)
-* [DECO*27 — Reunion](https://www.last.fm/music/DECO*27/_/Reunion)
-* [DECO*27 — 乙女解剖 &lpar;TeddyLoid Alllies Remix&rpar;](https://www.last.fm/music/DECO*27/_/%E4%B9%99%E5%A5%B3%E8%A7%A3%E5%89%96+&lpar;TeddyLoid+Alllies+Remix&rpar;)
-* [DECO*27 — 二息歩行&lpar;Reloaded&rpar;](https://www.last.fm/music/DECO*27/_/%E4%BA%8C%E6%81%AF%E6%AD%A9%E8%A1%8C&lpar;Reloaded&rpar;)<!-- LASTFM:END -->
+* [DECO*27 — Reunion](https://www.last.fm/music/DECO*27/_/Reunion)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
