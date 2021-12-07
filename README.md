@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DECO*27 — ヒバナ -Reloaded-](https://www.last.fm/music/DECO*27/_/%E3%83%92%E3%83%90%E3%83%8A+-Reloaded-)
+* [DECO*27 — Ghost Rule](https://www.last.fm/music/DECO*27/_/Ghost+Rule)
+* [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)
 * [DECO*27 — アンデッドアリス](https://www.last.fm/music/DECO*27/_/%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%83%89%E3%82%A2%E3%83%AA%E3%82%B9)
-* [DECO*27 — ネオネオン](https://www.last.fm/music/DECO*27/_/%E3%83%8D%E3%82%AA%E3%83%8D%E3%82%AA%E3%83%B3)
-* [DECO*27 — ネオネオン](https://www.last.fm/music/DECO*27/_/%E3%83%8D%E3%82%AA%E3%83%8D%E3%82%AA%E3%83%B3)
-* [DECO*27 — Cinderella - Giga First Night Remix](https://www.last.fm/music/DECO*27/_/Cinderella+-+Giga+First+Night+Remix)
-* [DECO*27 — アンドロイドガール](https://www.last.fm/music/DECO*27/_/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%89%E3%82%AC%E3%83%BC%E3%83%AB)<!-- LASTFM:END -->
+* [DECO*27 — ネオネオン](https://www.last.fm/music/DECO*27/_/%E3%83%8D%E3%82%AA%E3%83%8D%E3%82%AA%E3%83%B3)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
