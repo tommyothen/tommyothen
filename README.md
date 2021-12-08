@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DROELOE — World Full of Snakes](https://www.last.fm/music/DROELOE/_/World+Full+of+Snakes)
+* [NILFRUITS — Traffic Jam](https://www.last.fm/music/NILFRUITS/_/Traffic+Jam)
+* [MaulBrawl — What A Liar](https://www.last.fm/music/MaulBrawl/_/What+A+Liar)
 * [Sugar&amp;Co. — tape/stop/night](https://www.last.fm/music/Sugar&amp;Co./_/tape%2Fstop%2Fnight)
-* [Jazmin Bean — Monster Truck](https://www.last.fm/music/Jazmin+Bean/_/Monster+Truck)
-* [The Lamb — Plastic Girl](https://www.last.fm/music/The+Lamb/_/Plastic+Girl)
-* [Marcioz — Mate Um Bonito Hoje Mesmo!](https://www.last.fm/music/Marcioz/_/Mate+Um+Bonito+Hoje+Mesmo!)
-* [PiNKii — Asakara No Bread](https://www.last.fm/music/PiNKii/_/Asakara+No+Bread)<!-- LASTFM:END -->
+* [Jazmin Bean — Monster Truck](https://www.last.fm/music/Jazmin+Bean/_/Monster+Truck)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
