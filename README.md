@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jenna Holiday — Egoist](https://www.last.fm/music/Jenna+Holiday/_/Egoist)
+* [Jimm — НА ДОРОГУ](https://www.last.fm/music/Jimm/_/%D0%9D%D0%90+%D0%94%D0%9E%D0%A0%D0%9E%D0%93%D0%A3)
 * [DeVita — EVITA!](https://www.last.fm/music/DeVita/_/EVITA!)
 * [MASEWONDER — I don’t care &lpar;feat. YANU&rpar;](https://www.last.fm/music/MASEWONDER/_/I+don%E2%80%99t+care+&lpar;feat.+YANU&rpar;)
-* [ATARASHII GAKKO! — NAINAINAI](https://www.last.fm/music/ATARASHII+GAKKO!/_/NAINAINAI)
-* [Belaganas — Panic Disco](https://www.last.fm/music/Belaganas/_/Panic+Disco)
-* [DECO*27 — Cinderella - Giga First Night Remix](https://www.last.fm/music/DECO*27/_/Cinderella+-+Giga+First+Night+Remix)<!-- LASTFM:END -->
+* [ATARASHII GAKKO! — NAINAINAI](https://www.last.fm/music/ATARASHII+GAKKO!/_/NAINAINAI)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
