@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DeVita — EVITA!](https://www.last.fm/music/DeVita/_/EVITA!)
+* [MASEWONDER — I don’t care &lpar;feat. YANU&rpar;](https://www.last.fm/music/MASEWONDER/_/I+don%E2%80%99t+care+&lpar;feat.+YANU&rpar;)
 * [ATARASHII GAKKO! — NAINAINAI](https://www.last.fm/music/ATARASHII+GAKKO!/_/NAINAINAI)
 * [Belaganas — Panic Disco](https://www.last.fm/music/Belaganas/_/Panic+Disco)
-* [DECO*27 — Cinderella - Giga First Night Remix](https://www.last.fm/music/DECO*27/_/Cinderella+-+Giga+First+Night+Remix)
-* [DECO*27 — アンドロイドガール](https://www.last.fm/music/DECO*27/_/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%89%E3%82%AC%E3%83%BC%E3%83%AB)
-* [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)<!-- LASTFM:END -->
+* [DECO*27 — Cinderella - Giga First Night Remix](https://www.last.fm/music/DECO*27/_/Cinderella+-+Giga+First+Night+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
