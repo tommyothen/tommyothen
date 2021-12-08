@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DECO*27 — Dscf](https://www.last.fm/music/DECO*27/_/Dscf)
+* [DECO*27 — Cinderella](https://www.last.fm/music/DECO*27/_/Cinderella)
+* [DECO*27 — 乙女解剖](https://www.last.fm/music/DECO*27/_/%E4%B9%99%E5%A5%B3%E8%A7%A3%E5%89%96)
 * [DECO*27 — ヒバナ -Reloaded-](https://www.last.fm/music/DECO*27/_/%E3%83%92%E3%83%90%E3%83%8A+-Reloaded-)
-* [DECO*27 — Ghost Rule](https://www.last.fm/music/DECO*27/_/Ghost+Rule)
-* [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)
-* [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)
-* [DECO*27 — 夜行性ハイズ](https://www.last.fm/music/DECO*27/_/%E5%A4%9C%E8%A1%8C%E6%80%A7%E3%83%8F%E3%82%A4%E3%82%BA)<!-- LASTFM:END -->
+* [DECO*27 — Ghost Rule](https://www.last.fm/music/DECO*27/_/Ghost+Rule)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
