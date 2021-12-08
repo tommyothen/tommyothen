@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Johnny Manchild and the Poor Bastards — You Want a Song](https://www.last.fm/music/Johnny+Manchild+and+the+Poor+Bastards/_/You+Want+a+Song)
+* [Jimm — НА ДОРОГУ](https://www.last.fm/music/Jimm/_/%D0%9D%D0%90+%D0%94%D0%9E%D0%A0%D0%9E%D0%93%D0%A3)
 * [Yukika — pit-a-pet](https://www.last.fm/music/Yukika/_/pit-a-pet)
 * [Kinneret — No Wind Resistance!](https://www.last.fm/music/Kinneret/_/No+Wind+Resistance!)
-* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
-* [Wu Am I — i love when it rains in LA](https://www.last.fm/music/Wu+Am+I/_/i+love+when+it+rains+in+LA)
-* [Bibi — Dingo X BIBI - she got it](https://www.last.fm/music/Bibi/_/Dingo+X+BIBI+-+she+got+it)<!-- LASTFM:END -->
+* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
