@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bibi — Dingo X BIBI - she got it](https://www.last.fm/music/Bibi/_/Dingo+X+BIBI+-+she+got+it)
+* [T. Shan — Pheromone](https://www.last.fm/music/T.+Shan/_/Pheromone)
 * [Again&amp;again — hours](https://www.last.fm/music/Again&amp;again/_/hours)
 * [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
-* [DROELOE — World Full of Snakes](https://www.last.fm/music/DROELOE/_/World+Full+of+Snakes)
-* [NILFRUITS — Traffic Jam](https://www.last.fm/music/NILFRUITS/_/Traffic+Jam)
-* [MaulBrawl — What A Liar](https://www.last.fm/music/MaulBrawl/_/What+A+Liar)<!-- LASTFM:END -->
+* [DROELOE — World Full of Snakes](https://www.last.fm/music/DROELOE/_/World+Full+of+Snakes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
