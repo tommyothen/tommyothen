@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
-* [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
-* [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
-* [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
-* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)<!-- LASTFM:END -->
+* [bbno$ — edamame &lpar;feat. Rich Brian&rpar;](https://www.last.fm/music/bbno$/_/edamame+&lpar;feat.+Rich+Brian&rpar;)
+* [Ricky Montgomery — Line Without a Hook &lpar;feat. mxmtoon&rpar;](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+&lpar;feat.+mxmtoon&rpar;)
+* [Tom Misch — Disco Yes](https://www.last.fm/music/Tom+Misch/_/Disco+Yes)
+* [Purity Ring — stardew](https://www.last.fm/music/Purity+Ring/_/stardew)
+* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
