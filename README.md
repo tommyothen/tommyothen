@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)
 * [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
 * [Elio — hurts 2 hate somebody &lpar;with Chase Atlantic &amp; No Rome&rpar;](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+&lpar;with+Chase+Atlantic+&amp;+No+Rome&rpar;)
 * [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
-* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
-* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)<!-- LASTFM:END -->
+* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
