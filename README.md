@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Softwilly — SHALOM](https://www.last.fm/music/Softwilly/_/SHALOM)
-* [Softwilly — KEEP IT UP](https://www.last.fm/music/Softwilly/_/KEEP+IT+UP)
-* [Softwilly — GLADIATOR](https://www.last.fm/music/Softwilly/_/GLADIATOR)
+* [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)
 * [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Softwilly — GLADIATOR](https://www.last.fm/music/Softwilly/_/GLADIATOR)<!-- LASTFM:END -->
+* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
+* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
+* [Softwilly — SHALOM](https://www.last.fm/music/Softwilly/_/SHALOM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
