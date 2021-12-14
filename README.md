@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
 * [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
+* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
 * [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Softwilly — KEEP IT UP](https://www.last.fm/music/Softwilly/_/KEEP+IT+UP)
-* [Softwilly — GLADIATOR](https://www.last.fm/music/Softwilly/_/GLADIATOR)<!-- LASTFM:END -->
+* [Softwilly — KEEP IT UP](https://www.last.fm/music/Softwilly/_/KEEP+IT+UP)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
