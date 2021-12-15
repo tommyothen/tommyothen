@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shady Moon — Cherry Blossoms](https://www.last.fm/music/Shady+Moon/_/Cherry+Blossoms)
+* [$atori Zoom — Buster](https://www.last.fm/music/$atori+Zoom/_/Buster)
+* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
 * [Softwilly — SHALOM!](https://www.last.fm/music/Softwilly/_/SHALOM!)
-* [Softwilly — KEEP IT UP](https://www.last.fm/music/Softwilly/_/KEEP+IT+UP)
-* [Softwilly — GLADIATOR](https://www.last.fm/music/Softwilly/_/GLADIATOR)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Softwilly — WILLYPACK](https://www.last.fm/music/Softwilly/_/WILLYPACK)<!-- LASTFM:END -->
+* [Softwilly — KEEP IT UP](https://www.last.fm/music/Softwilly/_/KEEP+IT+UP)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
