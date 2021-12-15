@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TeddyLoid — Sweet Magic](https://www.last.fm/music/TeddyLoid/_/Sweet+Magic)
-* [TeddyLoid — Prowess](https://www.last.fm/music/TeddyLoid/_/Prowess)
-* [TeddyLoid — Haunt You](https://www.last.fm/music/TeddyLoid/_/Haunt+You)
-* [TeddyLoid — Gear Gadget Generators](https://www.last.fm/music/TeddyLoid/_/Gear+Gadget+Generators)
-* [TeddyLoid — Corset Theme](https://www.last.fm/music/TeddyLoid/_/Corset+Theme)<!-- LASTFM:END -->
+* [TeddyLoid — Candy](https://www.last.fm/music/TeddyLoid/_/Candy)
+* [TeddyLoid — Artifact](https://www.last.fm/music/TeddyLoid/_/Artifact)
+* [TeddyLoid — Fairytales](https://www.last.fm/music/TeddyLoid/_/Fairytales)
+* [TeddyLoid — Glittering Stars](https://www.last.fm/music/TeddyLoid/_/Glittering+Stars)
+* [TeddyLoid — Sweet Magic](https://www.last.fm/music/TeddyLoid/_/Sweet+Magic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
