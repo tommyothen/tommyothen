@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [1NONLY — I Think I Love You](https://www.last.fm/music/1NONLY/_/I+Think+I+Love+You)
-* [1NONLY — U Were Mine, Not Anymore](https://www.last.fm/music/1NONLY/_/U+Were+Mine,+Not+Anymore)
-* [1NONLY — Only One](https://www.last.fm/music/1NONLY/_/Only+One)
-* [1NONLY — One Night](https://www.last.fm/music/1NONLY/_/One+Night)
-* [1NONLY — Sometimes I Think Of U](https://www.last.fm/music/1NONLY/_/Sometimes+I+Think+Of+U)<!-- LASTFM:END -->
+* [1NONLY — sorry, i like you](https://www.last.fm/music/1NONLY/_/sorry,+i+like+you)
+* [1NONLY — My Girl](https://www.last.fm/music/1NONLY/_/My+Girl)
+* [1NONLY — Pretty Girl](https://www.last.fm/music/1NONLY/_/Pretty+Girl)
+* [1NONLY — Dance With Me](https://www.last.fm/music/1NONLY/_/Dance+With+Me)
+* [1NONLY — Sunkissed Shawty](https://www.last.fm/music/1NONLY/_/Sunkissed+Shawty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
