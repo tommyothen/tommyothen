@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [HAARPER — Wtf U Mean](https://www.last.fm/music/HAARPER/_/Wtf+U+Mean)
-* [Khalil? — Zodiac Killer](https://www.last.fm/music/Khalil%3F/_/Zodiac+Killer)
-* [Shotgun Willy — Oreo](https://www.last.fm/music/Shotgun+Willy/_/Oreo)
-* [1NONLY — Bunny Girl](https://www.last.fm/music/1NONLY/_/Bunny+Girl)
-* [yxngxr1 — Rather Do](https://www.last.fm/music/yxngxr1/_/Rather+Do)<!-- LASTFM:END -->
+* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
+* [Softwilly — ZONIN](https://www.last.fm/music/Softwilly/_/ZONIN)
+* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
+* [Rarin — GTA](https://www.last.fm/music/Rarin/_/GTA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
