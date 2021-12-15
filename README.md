@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
-* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
-* [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)
-* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)
-* [Softwilly — B.O.Y.S.N.E.X.T.D.O.O.R.](https://www.last.fm/music/Softwilly/_/B.O.Y.S.N.E.X.T.D.O.O.R.)<!-- LASTFM:END -->
+* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
+* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
+* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
+* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
