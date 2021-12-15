@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [1NONLY — Ash Kaashh](https://www.last.fm/music/1NONLY/_/Ash+Kaashh)
+* [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
+* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
 * [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
-* [1NONLY — Fuck You!](https://www.last.fm/music/1NONLY/_/Fuck+You!)
-* [Savage Ga$p — i&#39;m drunk and i miss you still &lpar;feat. 1nonly &amp; lilbubblegum&rpar;](https://www.last.fm/music/Savage+Ga$p/_/i%27m+drunk+and+i+miss+you+still+&lpar;feat.+1nonly+&amp;+lilbubblegum&rpar;)
-* [1NONLY — Kiss](https://www.last.fm/music/1NONLY/_/Kiss)
-* [1nonly &amp; Ciscaux &amp; Savage Ga$p — Move!](https://www.last.fm/music/1nonly+&amp;+Ciscaux+&amp;+Savage+Ga$p/_/Move!)<!-- LASTFM:END -->
+* [1NONLY — Fuck You!](https://www.last.fm/music/1NONLY/_/Fuck+You!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
