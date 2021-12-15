@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [1NONLY — Doc Martens](https://www.last.fm/music/1NONLY/_/Doc+Martens)
-* [1NONLY — Moon and Stars](https://www.last.fm/music/1NONLY/_/Moon+and+Stars)
-* [1NONLY — Bunny Girl](https://www.last.fm/music/1NONLY/_/Bunny+Girl)
-* [1NONLY — Ash Kaashh](https://www.last.fm/music/1NONLY/_/Ash+Kaashh)
-* [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)<!-- LASTFM:END -->
+* [1NONLY — I Think I Love You](https://www.last.fm/music/1NONLY/_/I+Think+I+Love+You)
+* [1NONLY — U Were Mine, Not Anymore](https://www.last.fm/music/1NONLY/_/U+Were+Mine,+Not+Anymore)
+* [1NONLY — Only One](https://www.last.fm/music/1NONLY/_/Only+One)
+* [1NONLY — One Night](https://www.last.fm/music/1NONLY/_/One+Night)
+* [1NONLY — Sometimes I Think Of U](https://www.last.fm/music/1NONLY/_/Sometimes+I+Think+Of+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
