@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — SHALOM!](https://www.last.fm/music/Softwilly/_/SHALOM!)
+* [Softwilly — KEEP IT UP](https://www.last.fm/music/Softwilly/_/KEEP+IT+UP)
+* [Softwilly — GLADIATOR](https://www.last.fm/music/Softwilly/_/GLADIATOR)
 * [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Softwilly — WILLYPACK](https://www.last.fm/music/Softwilly/_/WILLYPACK)
-* [Softwilly — XXXMETAKNIGHT](https://www.last.fm/music/Softwilly/_/XXXMETAKNIGHT)
-* [Softwilly — Pokeballer](https://www.last.fm/music/Softwilly/_/Pokeballer)
-* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)<!-- LASTFM:END -->
+* [Softwilly — WILLYPACK](https://www.last.fm/music/Softwilly/_/WILLYPACK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
