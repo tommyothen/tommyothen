@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ado — 夜のピエロ - TeddyLoid Remix](https://www.last.fm/music/Ado/_/%E5%A4%9C%E3%81%AE%E3%83%94%E3%82%A8%E3%83%AD+-+TeddyLoid+Remix)
 * [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
 * [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
 * [yxngxr1 — Rather Do](https://www.last.fm/music/yxngxr1/_/Rather+Do)
-* [Shady Moon — Cherry Blossoms](https://www.last.fm/music/Shady+Moon/_/Cherry+Blossoms)
-* [$atori Zoom — Buster](https://www.last.fm/music/$atori+Zoom/_/Buster)<!-- LASTFM:END -->
+* [Shady Moon — Cherry Blossoms](https://www.last.fm/music/Shady+Moon/_/Cherry+Blossoms)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
