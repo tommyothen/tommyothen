@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Shady Moon — Cherry Blossoms](https://www.last.fm/music/Shady+Moon/_/Cherry+Blossoms)
-* [$atori Zoom — Buster](https://www.last.fm/music/$atori+Zoom/_/Buster)
-* [crisaunt — Dream Girl](https://www.last.fm/music/crisaunt/_/Dream+Girl)
-* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
-* [Lil God Dan — MARCELINE](https://www.last.fm/music/Lil+God+Dan/_/MARCELINE)<!-- LASTFM:END -->
+* [HAARPER — Wtf U Mean](https://www.last.fm/music/HAARPER/_/Wtf+U+Mean)
+* [Khalil? — Zodiac Killer](https://www.last.fm/music/Khalil%3F/_/Zodiac+Killer)
+* [Shotgun Willy — Oreo](https://www.last.fm/music/Shotgun+Willy/_/Oreo)
+* [1NONLY — Bunny Girl](https://www.last.fm/music/1NONLY/_/Bunny+Girl)
+* [yxngxr1 — Rather Do](https://www.last.fm/music/yxngxr1/_/Rather+Do)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
