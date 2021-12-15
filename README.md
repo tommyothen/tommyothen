@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
-* [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
-* [Queen — Thank God It&#39;s Christmas - Non-Album Single](https://www.last.fm/music/Queen/_/Thank+God+It%27s+Christmas+-+Non-Album+Single)
-* [Savage Ga$p — tm06 toxic](https://www.last.fm/music/Savage+Ga$p/_/tm06+toxic)
-* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)<!-- LASTFM:END -->
+* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
+* [1NONLY — Ash Kaashh](https://www.last.fm/music/1NONLY/_/Ash+Kaashh)
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
+* [1NONLY — Bunny Girl](https://www.last.fm/music/1NONLY/_/Bunny+Girl)
+* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
