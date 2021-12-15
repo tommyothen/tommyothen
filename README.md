@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Shady Moon — Cherry Blossoms](https://www.last.fm/music/Shady+Moon/_/Cherry+Blossoms)
-* [$atori Zoom — Buster](https://www.last.fm/music/$atori+Zoom/_/Buster)
-* [MC Virgins — Trap Anthem](https://www.last.fm/music/MC+Virgins/_/Trap+Anthem)
-* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
-* [Softwilly — SHALOM!](https://www.last.fm/music/Softwilly/_/SHALOM!)<!-- LASTFM:END -->
+* [Shotgun Willy — Oreo](https://www.last.fm/music/Shotgun+Willy/_/Oreo)
+* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
+* [yxngxr1 — Rather Do](https://www.last.fm/music/yxngxr1/_/Rather+Do)
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
+* [YNG Martyr — TTYL](https://www.last.fm/music/YNG+Martyr/_/TTYL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
