@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TeddyLoid — ダイキライ feat. ちゃんみな](https://www.last.fm/music/TeddyLoid/_/%E3%83%80%E3%82%A4%E3%82%AD%E3%83%A9%E3%82%A4+feat.+%E3%81%A1%E3%82%83%E3%82%93%E3%81%BF%E3%81%AA)
-* [TeddyLoid — D City Rock feat. Debra Zeer](https://www.last.fm/music/TeddyLoid/_/D+City+Rock+feat.+Debra+Zeer)
-* [日本アニメ&lpar;ーター&rpar;見本市 — ME!ME!ME! feat. daoko_pt.3](https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%8B%E3%83%A1&lpar;%E3%83%BC%E3%82%BF%E3%83%BC&rpar;%E8%A6%8B%E6%9C%AC%E5%B8%82/_/ME!ME!ME!+feat.+daoko_pt.3)
-* [TeddyLoid — Theme for Scanty &amp; Knee Socks](https://www.last.fm/music/TeddyLoid/_/Theme+for+Scanty+&amp;+Knee+Socks)
-* [日本アニメ&lpar;ーター&rpar;見本市 — ME!ME!ME! feat. daoko_pt.2](https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%8B%E3%83%A1&lpar;%E3%83%BC%E3%82%BF%E3%83%BC&rpar;%E8%A6%8B%E6%9C%AC%E5%B8%82/_/ME!ME!ME!+feat.+daoko_pt.2)<!-- LASTFM:END -->
+* [TeddyLoid — Sweet Magic](https://www.last.fm/music/TeddyLoid/_/Sweet+Magic)
+* [TeddyLoid — Prowess](https://www.last.fm/music/TeddyLoid/_/Prowess)
+* [TeddyLoid — Haunt You](https://www.last.fm/music/TeddyLoid/_/Haunt+You)
+* [TeddyLoid — Gear Gadget Generators](https://www.last.fm/music/TeddyLoid/_/Gear+Gadget+Generators)
+* [TeddyLoid — Corset Theme](https://www.last.fm/music/TeddyLoid/_/Corset+Theme)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
