@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [EGOVERT — Sexyback!](https://www.last.fm/music/EGOVERT/_/Sexyback!)
+* [1NONLY — goth bitch](https://www.last.fm/music/1NONLY/_/goth+bitch)
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
 * [Savage Ga$p — tm06 toxic](https://www.last.fm/music/Savage+Ga$p/_/tm06+toxic)
-* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
-* [1NONLY — Fuck You!](https://www.last.fm/music/1NONLY/_/Fuck+You!)
-* [1NONLY — Kiss](https://www.last.fm/music/1NONLY/_/Kiss)
-* [1NONLY — goth bitch](https://www.last.fm/music/1NONLY/_/goth+bitch)<!-- LASTFM:END -->
+* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
