@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
+* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
 * [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
-* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
-* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
-* [DECO*27 — ヒバナ -Reloaded-](https://www.last.fm/music/DECO*27/_/%E3%83%92%E3%83%90%E3%83%8A+-Reloaded-)
-* [DECO*27 — Ghost Rule](https://www.last.fm/music/DECO*27/_/Ghost+Rule)<!-- LASTFM:END -->
+* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
