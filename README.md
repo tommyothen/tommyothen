@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DECO*27 — Ghost Rule](https://www.last.fm/music/DECO*27/_/Ghost+Rule)
+* [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)
 * [TeddyLoid — Candy](https://www.last.fm/music/TeddyLoid/_/Candy)
 * [TeddyLoid — Artifact](https://www.last.fm/music/TeddyLoid/_/Artifact)
-* [TeddyLoid — Fairytales](https://www.last.fm/music/TeddyLoid/_/Fairytales)
-* [TeddyLoid — Glittering Stars](https://www.last.fm/music/TeddyLoid/_/Glittering+Stars)
-* [TeddyLoid — Sweet Magic](https://www.last.fm/music/TeddyLoid/_/Sweet+Magic)<!-- LASTFM:END -->
+* [TeddyLoid — Fairytales](https://www.last.fm/music/TeddyLoid/_/Fairytales)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
