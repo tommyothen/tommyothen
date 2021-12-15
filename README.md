@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
+* [DECO*27 — ヒバナ -Reloaded-](https://www.last.fm/music/DECO*27/_/%E3%83%92%E3%83%90%E3%83%8A+-Reloaded-)
 * [DECO*27 — Ghost Rule](https://www.last.fm/music/DECO*27/_/Ghost+Rule)
 * [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)
-* [TeddyLoid — Candy](https://www.last.fm/music/TeddyLoid/_/Candy)
-* [TeddyLoid — Artifact](https://www.last.fm/music/TeddyLoid/_/Artifact)
-* [TeddyLoid — Fairytales](https://www.last.fm/music/TeddyLoid/_/Fairytales)<!-- LASTFM:END -->
+* [TeddyLoid — Candy](https://www.last.fm/music/TeddyLoid/_/Candy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
