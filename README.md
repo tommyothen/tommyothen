@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [fatboibari — Moonlight Shawty](https://www.last.fm/music/fatboibari/_/Moonlight+Shawty)
-* [MC Virgins — Trap Anthem](https://www.last.fm/music/MC+Virgins/_/Trap+Anthem)
-* [80purppp — Hex](https://www.last.fm/music/80purppp/_/Hex)
-* [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
-* [1NONLY — I Fell in Love With You One Night in June](https://www.last.fm/music/1NONLY/_/I+Fell+in+Love+With+You+One+Night+in+June)<!-- LASTFM:END -->
+* [Shady Moon — Cherry Blossoms](https://www.last.fm/music/Shady+Moon/_/Cherry+Blossoms)
+* [$atori Zoom — Buster](https://www.last.fm/music/$atori+Zoom/_/Buster)
+* [crisaunt — Dream Girl](https://www.last.fm/music/crisaunt/_/Dream+Girl)
+* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
+* [Lil God Dan — MARCELINE](https://www.last.fm/music/Lil+God+Dan/_/MARCELINE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
