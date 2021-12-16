@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [YNG Martyr — TTYL](https://www.last.fm/music/YNG+Martyr/_/TTYL)
-* [Shotgun Willy — Oreo](https://www.last.fm/music/Shotgun+Willy/_/Oreo)
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
-* [yxngxr1 — Rather Do](https://www.last.fm/music/yxngxr1/_/Rather+Do)
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)<!-- LASTFM:END -->
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
+* [ericdoa — fantasize](https://www.last.fm/music/ericdoa/_/fantasize)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
