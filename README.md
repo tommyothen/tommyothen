@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
-* [22december — chinatown!](https://www.last.fm/music/22december/_/chinatown!)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [Savage Ga$p — tm06 toxic](https://www.last.fm/music/Savage+Ga$p/_/tm06+toxic)
+* [Shady Moon — One for You](https://www.last.fm/music/Shady+Moon/_/One+for+You)
+* [Rarin — Mercedes](https://www.last.fm/music/Rarin/_/Mercedes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
