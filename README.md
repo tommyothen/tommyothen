@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
+* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)
 * [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)
 * [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
-* [Softwilly — ZONIN](https://www.last.fm/music/Softwilly/_/ZONIN)
-* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)<!-- LASTFM:END -->
+* [Softwilly — ZONIN](https://www.last.fm/music/Softwilly/_/ZONIN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
