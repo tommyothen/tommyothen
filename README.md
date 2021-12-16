@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billy Marchiafava — Indie Pop Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Indie+Pop+Type+Beat)
+* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
+* [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
 * [Softwilly — GLADIATOR](https://www.last.fm/music/Softwilly/_/GLADIATOR)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Softwilly — WILLYPACK](https://www.last.fm/music/Softwilly/_/WILLYPACK)
-* [Softwilly — WILLYPACK](https://www.last.fm/music/Softwilly/_/WILLYPACK)
-* [Softwilly — Pokeballer](https://www.last.fm/music/Softwilly/_/Pokeballer)<!-- LASTFM:END -->
+* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
