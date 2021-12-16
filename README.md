@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)<!-- LASTFM:END -->
+* [Softwilly — Pokeballer](https://www.last.fm/music/Softwilly/_/Pokeballer)
+* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
+* [Softwilly — ZONIN](https://www.last.fm/music/Softwilly/_/ZONIN)
+* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)
+* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
