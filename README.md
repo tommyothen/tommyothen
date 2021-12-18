@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)
+* [Azealia Banks — 1991](https://www.last.fm/music/Azealia+Banks/_/1991)
 * [Softwilly — KEEP IT UP](https://www.last.fm/music/Softwilly/_/KEEP+IT+UP)
 * [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [XANAKIN SKYWOK — Shimmy!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Shimmy!)
-* [Softwilly — KEEP IT UP](https://www.last.fm/music/Softwilly/_/KEEP+IT+UP)
-* [XANAKIN SKYWOK — Ew!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Ew!)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Shimmy!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Shimmy!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
