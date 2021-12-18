@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)
+* [Softwilly — B.O.Y.S.N.E.X.T.D.O.O.R.](https://www.last.fm/music/Softwilly/_/B.O.Y.S.N.E.X.T.D.O.O.R.)
+* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
 * [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [XANAKIN SKYWOK — HONCHO](https://www.last.fm/music/XANAKIN+SKYWOK/_/HONCHO)
-* [Freddie Dredd — GTG](https://www.last.fm/music/Freddie+Dredd/_/GTG)
-* [yxngxr1 — Rather Do](https://www.last.fm/music/yxngxr1/_/Rather+Do)
-* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — HONCHO](https://www.last.fm/music/XANAKIN+SKYWOK/_/HONCHO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
