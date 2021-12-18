@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
 * [XANAKIN SKYWOK — Shimmy!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Shimmy!)
-* [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)<!-- LASTFM:END -->
+* [Softwilly — KEEP IT UP](https://www.last.fm/music/Softwilly/_/KEEP+IT+UP)
+* [XANAKIN SKYWOK — Ew!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Ew!)
+* [Softwilly — XXXDISCORD](https://www.last.fm/music/Softwilly/_/XXXDISCORD)
+* [Softwilly — ZONIN](https://www.last.fm/music/Softwilly/_/ZONIN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
