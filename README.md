@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Mariko — Shiny](https://www.last.fm/music/Lil+Mariko/_/Shiny)
+* [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)
+* [sean kennedy — Too Sensitive](https://www.last.fm/music/sean+kennedy/_/Too+Sensitive)
 * [Hayley Williams — Cinnamon](https://www.last.fm/music/Hayley+Williams/_/Cinnamon)
-* [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)
-* [vanishing girl — Washing Machine](https://www.last.fm/music/vanishing+girl/_/Washing+Machine)
-* [Halo Boy — Yum Yum](https://www.last.fm/music/Halo+Boy/_/Yum+Yum)
-* [Cemetery Drive — SUNDAY BLOODBATH](https://www.last.fm/music/Cemetery+Drive/_/SUNDAY+BLOODBATH)<!-- LASTFM:END -->
+* [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
