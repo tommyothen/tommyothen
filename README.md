@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [6HOST — HIDE](https://www.last.fm/music/6HOST/_/HIDE)
+* [Tony22 — Earth Boy](https://www.last.fm/music/Tony22/_/Earth+Boy)
 * [Aries — KIDS ON MOLLY](https://www.last.fm/music/Aries/_/KIDS+ON+MOLLY)
 * [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
-* [XANAKIN SKYWOK — Macho!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Macho!)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Macho!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Macho!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
