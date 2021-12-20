@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fein — Culling](https://www.last.fm/music/Fein/_/Culling)
+* [Spider — Water Sign](https://www.last.fm/music/Spider/_/Water+Sign)
 * [Lil Mariko — Shiny](https://www.last.fm/music/Lil+Mariko/_/Shiny)
 * [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)
-* [sean kennedy — Too Sensitive](https://www.last.fm/music/sean+kennedy/_/Too+Sensitive)
-* [Hayley Williams — Cinnamon](https://www.last.fm/music/Hayley+Williams/_/Cinnamon)
-* [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)<!-- LASTFM:END -->
+* [sean kennedy — Too Sensitive](https://www.last.fm/music/sean+kennedy/_/Too+Sensitive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
