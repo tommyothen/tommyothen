@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Fein — Culling](https://www.last.fm/music/Fein/_/Culling)
-* [Spider — Water Sign](https://www.last.fm/music/Spider/_/Water+Sign)
-* [Lil Mariko — Shiny](https://www.last.fm/music/Lil+Mariko/_/Shiny)
-* [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)
-* [sean kennedy — Too Sensitive](https://www.last.fm/music/sean+kennedy/_/Too+Sensitive)<!-- LASTFM:END -->
+* [Medusa — Danny Phantom](https://www.last.fm/music/Medusa/_/Danny+Phantom)
+* [Hojean — Memory](https://www.last.fm/music/Hojean/_/Memory)
+* [s0cliché — Ted Bundy](https://www.last.fm/music/s0clich%C3%A9/_/Ted+Bundy)
+* [Sonic Sea Turtles — Dancing](https://www.last.fm/music/Sonic+Sea+Turtles/_/Dancing)
+* [Fein — Culling](https://www.last.fm/music/Fein/_/Culling)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
