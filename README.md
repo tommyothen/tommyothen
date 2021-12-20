@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
 * [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
-* [Rolling Quartz — BLAZE](https://www.last.fm/music/Rolling+Quartz/_/BLAZE)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
-* [OPR — Frog](https://www.last.fm/music/OPR/_/Frog)<!-- LASTFM:END -->
+* [Rolling Quartz — BLAZE](https://www.last.fm/music/Rolling+Quartz/_/BLAZE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
