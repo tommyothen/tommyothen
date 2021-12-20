@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XANAKIN SKYWOK — Macho!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Macho!)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
 * [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
 * [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
-* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)
-* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)<!-- LASTFM:END -->
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
