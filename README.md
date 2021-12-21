@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shy Kids — Backward in Love](https://www.last.fm/music/Shy+Kids/_/Backward+in+Love)
+* [s0cliché — Ted Bundy](https://www.last.fm/music/s0clich%C3%A9/_/Ted+Bundy)
+* [dareharu — Karma](https://www.last.fm/music/dareharu/_/Karma)
 * [Joywave — F.E.A.R.](https://www.last.fm/music/Joywave/_/F.E.A.R.)
-* [Spider — Water Sign](https://www.last.fm/music/Spider/_/Water+Sign)
-* [Sonic Sea Turtles — Dancing](https://www.last.fm/music/Sonic+Sea+Turtles/_/Dancing)
-* [KUURO — She&#39;s Got a Gun](https://www.last.fm/music/KUURO/_/She%27s+Got+a+Gun)
-* [Pluko — the sound &lpar;w/ Mob Rich&rpar;](https://www.last.fm/music/Pluko/_/the+sound+&lpar;w%2F+Mob+Rich&rpar;)<!-- LASTFM:END -->
+* [Spider — Water Sign](https://www.last.fm/music/Spider/_/Water+Sign)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
