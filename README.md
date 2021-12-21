@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [sean kennedy — Too Sensitive](https://www.last.fm/music/sean+kennedy/_/Too+Sensitive)
-* [Hojean — Memory](https://www.last.fm/music/Hojean/_/Memory)
-* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
-* [Tony22 — Earth Boy](https://www.last.fm/music/Tony22/_/Earth+Boy)
-* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)<!-- LASTFM:END -->
+* [Sonic Sea Turtles — Dancing](https://www.last.fm/music/Sonic+Sea+Turtles/_/Dancing)
+* [KUURO — She&#39;s Got a Gun](https://www.last.fm/music/KUURO/_/She%27s+Got+a+Gun)
+* [Pluko — the sound &lpar;w/ Mob Rich&rpar;](https://www.last.fm/music/Pluko/_/the+sound+&lpar;w%2F+Mob+Rich&rpar;)
+* [Ky Vöss — Masochism](https://www.last.fm/music/Ky+V%C3%B6ss/_/Masochism)
+* [sean kennedy — Too Sensitive](https://www.last.fm/music/sean+kennedy/_/Too+Sensitive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
