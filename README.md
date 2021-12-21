@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Medusa — Danny Phantom](https://www.last.fm/music/Medusa/_/Danny+Phantom)
-* [Hojean — Memory](https://www.last.fm/music/Hojean/_/Memory)
-* [s0cliché — Ted Bundy](https://www.last.fm/music/s0clich%C3%A9/_/Ted+Bundy)
-* [Sonic Sea Turtles — Dancing](https://www.last.fm/music/Sonic+Sea+Turtles/_/Dancing)
-* [Fein — Culling](https://www.last.fm/music/Fein/_/Culling)<!-- LASTFM:END -->
+* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Hobo Johnson — Peach Scone](https://www.last.fm/music/Hobo+Johnson/_/Peach+Scone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
