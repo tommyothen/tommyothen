@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Mariko — Shiny](https://www.last.fm/music/Lil+Mariko/_/Shiny)
+* [Trechor Boy — FEMBOY](https://www.last.fm/music/Trechor+Boy/_/FEMBOY)
 * [6HOST — HIDE](https://www.last.fm/music/6HOST/_/HIDE)
 * [Archie Summers — By Your Side](https://www.last.fm/music/Archie+Summers/_/By+Your+Side)
-* [Kero Kero Bonito — The Princess and the Clock](https://www.last.fm/music/Kero+Kero+Bonito/_/The+Princess+and+the+Clock)
-* [vanishing girl — Washing Machine](https://www.last.fm/music/vanishing+girl/_/Washing+Machine)
-* [Fein — Culling](https://www.last.fm/music/Fein/_/Culling)<!-- LASTFM:END -->
+* [Kero Kero Bonito — The Princess and the Clock](https://www.last.fm/music/Kero+Kero+Bonito/_/The+Princess+and+the+Clock)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
