@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)
+* [Hayley Williams — Cinnamon](https://www.last.fm/music/Hayley+Williams/_/Cinnamon)
 * [eyeamki — Great! Big! Party!](https://www.last.fm/music/eyeamki/_/Great!+Big!+Party!)
 * [Urbangarde — Akuma des Akum &lpar;yeule REMIX&rpar;](https://www.last.fm/music/Urbangarde/_/Akuma+des+Akum+&lpar;yeule+REMIX&rpar;)
-* [Cemetery Drive — SUNDAY BLOODBATH](https://www.last.fm/music/Cemetery+Drive/_/SUNDAY+BLOODBATH)
-* [Shy Kids — Backward in Love](https://www.last.fm/music/Shy+Kids/_/Backward+in+Love)
-* [s0cliché — Ted Bundy](https://www.last.fm/music/s0clich%C3%A9/_/Ted+Bundy)<!-- LASTFM:END -->
+* [Cemetery Drive — SUNDAY BLOODBATH](https://www.last.fm/music/Cemetery+Drive/_/SUNDAY+BLOODBATH)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
