@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)
+* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
 * [Lil Mariko — Shiny](https://www.last.fm/music/Lil+Mariko/_/Shiny)
 * [Trechor Boy — FEMBOY](https://www.last.fm/music/Trechor+Boy/_/FEMBOY)
-* [6HOST — HIDE](https://www.last.fm/music/6HOST/_/HIDE)
-* [Archie Summers — By Your Side](https://www.last.fm/music/Archie+Summers/_/By+Your+Side)
-* [Kero Kero Bonito — The Princess and the Clock](https://www.last.fm/music/Kero+Kero+Bonito/_/The+Princess+and+the+Clock)<!-- LASTFM:END -->
+* [6HOST — HIDE](https://www.last.fm/music/6HOST/_/HIDE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
