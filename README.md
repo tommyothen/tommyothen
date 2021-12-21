@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [vanishing girl — Washing Machine](https://www.last.fm/music/vanishing+girl/_/Washing+Machine)
+* [Fein — Culling](https://www.last.fm/music/Fein/_/Culling)
+* [Halo Boy — Yum Yum](https://www.last.fm/music/Halo+Boy/_/Yum+Yum)
 * [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)
-* [Hayley Williams — Cinnamon](https://www.last.fm/music/Hayley+Williams/_/Cinnamon)
-* [eyeamki — Great! Big! Party!](https://www.last.fm/music/eyeamki/_/Great!+Big!+Party!)
-* [Urbangarde — Akuma des Akum &lpar;yeule REMIX&rpar;](https://www.last.fm/music/Urbangarde/_/Akuma+des+Akum+&lpar;yeule+REMIX&rpar;)
-* [Cemetery Drive — SUNDAY BLOODBATH](https://www.last.fm/music/Cemetery+Drive/_/SUNDAY+BLOODBATH)<!-- LASTFM:END -->
+* [Hayley Williams — Cinnamon](https://www.last.fm/music/Hayley+Williams/_/Cinnamon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
