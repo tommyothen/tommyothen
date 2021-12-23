@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
 * [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
