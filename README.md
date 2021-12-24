@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Halo Boy — Yum Yum](https://www.last.fm/music/Halo+Boy/_/Yum+Yum)
+* [Kero Kero Bonito — The Princess and the Clock](https://www.last.fm/music/Kero+Kero+Bonito/_/The+Princess+and+the+Clock)
 * [Hojean — Memory](https://www.last.fm/music/Hojean/_/Memory)
 * [Spider — Water Sign](https://www.last.fm/music/Spider/_/Water+Sign)
-* [Sonic Sea Turtles — Dancing](https://www.last.fm/music/Sonic+Sea+Turtles/_/Dancing)
-* [Medusa — Danny Phantom](https://www.last.fm/music/Medusa/_/Danny+Phantom)
-* [Joywave — F.E.A.R.](https://www.last.fm/music/Joywave/_/F.E.A.R.)<!-- LASTFM:END -->
+* [Sonic Sea Turtles — Dancing](https://www.last.fm/music/Sonic+Sea+Turtles/_/Dancing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
