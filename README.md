@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
 * [Cuno — TOKYO 2020/1995](https://www.last.fm/music/Cuno/_/TOKYO+2020%2F1995)
-* [Hayley Williams — Cinnamon](https://www.last.fm/music/Hayley+Williams/_/Cinnamon)
-* [vanishing girl — Washing Machine](https://www.last.fm/music/vanishing+girl/_/Washing+Machine)
-* [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)
-* [Lil Mariko — Shiny](https://www.last.fm/music/Lil+Mariko/_/Shiny)<!-- LASTFM:END -->
+* [Hayley Williams — Cinnamon](https://www.last.fm/music/Hayley+Williams/_/Cinnamon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
