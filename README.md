@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)
+* [Lil Mariko — Shiny](https://www.last.fm/music/Lil+Mariko/_/Shiny)
+* [Archie Summers — By Your Side](https://www.last.fm/music/Archie+Summers/_/By+Your+Side)
 * [Halo Boy — Yum Yum](https://www.last.fm/music/Halo+Boy/_/Yum+Yum)
-* [Kero Kero Bonito — The Princess and the Clock](https://www.last.fm/music/Kero+Kero+Bonito/_/The+Princess+and+the+Clock)
-* [Hojean — Memory](https://www.last.fm/music/Hojean/_/Memory)
-* [Spider — Water Sign](https://www.last.fm/music/Spider/_/Water+Sign)
-* [Sonic Sea Turtles — Dancing](https://www.last.fm/music/Sonic+Sea+Turtles/_/Dancing)<!-- LASTFM:END -->
+* [Kero Kero Bonito — The Princess and the Clock](https://www.last.fm/music/Kero+Kero+Bonito/_/The+Princess+and+the+Clock)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
