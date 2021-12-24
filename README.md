@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sonic Sea Turtles — Dancing](https://www.last.fm/music/Sonic+Sea+Turtles/_/Dancing)
+* [Medusa — Danny Phantom](https://www.last.fm/music/Medusa/_/Danny+Phantom)
+* [Joywave — F.E.A.R.](https://www.last.fm/music/Joywave/_/F.E.A.R.)
 * [Fein — Culling](https://www.last.fm/music/Fein/_/Culling)
-* [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)
-* [Pluko — the sound &lpar;w/ Mob Rich&rpar;](https://www.last.fm/music/Pluko/_/the+sound+&lpar;w%2F+Mob+Rich&rpar;)
-* [Trechor Boy — FEMBOY](https://www.last.fm/music/Trechor+Boy/_/FEMBOY)
-* [Shy Kids — Backward in Love](https://www.last.fm/music/Shy+Kids/_/Backward+in+Love)<!-- LASTFM:END -->
+* [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
