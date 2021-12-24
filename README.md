@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tony22 — Earth Boy](https://www.last.fm/music/Tony22/_/Earth+Boy)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Guardin — i think you&#39;re really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)
-* [Sebii — Play Poker Remix - Remix](https://www.last.fm/music/Sebii/_/Play+Poker+Remix+-+Remix)
-* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)<!-- LASTFM:END -->
+* [6HOST — HIDE](https://www.last.fm/music/6HOST/_/HIDE)
+* [eyeamki — Great! Big! Party!](https://www.last.fm/music/eyeamki/_/Great!+Big!+Party!)
+* [Saint Motel — A Good Song Never Dies](https://www.last.fm/music/Saint+Motel/_/A+Good+Song+Never+Dies)
+* [dareharu — Karma](https://www.last.fm/music/dareharu/_/Karma)
+* [Urbangarde — Akuma des Akum &lpar;yeule REMIX&rpar;](https://www.last.fm/music/Urbangarde/_/Akuma+des+Akum+&lpar;yeule+REMIX&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
