@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
+* [Good Kid — Tell Me You Know](https://www.last.fm/music/Good+Kid/_/Tell+Me+You+Know)
+* [Rav — Lovedrug &lpar;Off That&rpar;](https://www.last.fm/music/Rav/_/Lovedrug+&lpar;Off+That&rpar;)
+* [brakence — rosier/punk2](https://www.last.fm/music/brakence/_/rosier%2Fpunk2)
+* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
+* [Good Kid — Aloe Lite](https://www.last.fm/music/Good+Kid/_/Aloe+Lite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
