@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fein — Culling](https://www.last.fm/music/Fein/_/Culling)
+* [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)
+* [Pluko — the sound &lpar;w/ Mob Rich&rpar;](https://www.last.fm/music/Pluko/_/the+sound+&lpar;w%2F+Mob+Rich&rpar;)
 * [Trechor Boy — FEMBOY](https://www.last.fm/music/Trechor+Boy/_/FEMBOY)
-* [Shy Kids — Backward in Love](https://www.last.fm/music/Shy+Kids/_/Backward+in+Love)
-* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
-* [sean kennedy — Too Sensitive](https://www.last.fm/music/sean+kennedy/_/Too+Sensitive)
-* [Ky Vöss — Masochism](https://www.last.fm/music/Ky+V%C3%B6ss/_/Masochism)<!-- LASTFM:END -->
+* [Shy Kids — Backward in Love](https://www.last.fm/music/Shy+Kids/_/Backward+in+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
