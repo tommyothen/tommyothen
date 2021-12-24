@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [brakence — fwb](https://www.last.fm/music/brakence/_/fwb)
+* [brakence — dropout](https://www.last.fm/music/brakence/_/dropout)
 * [brakence — rosier/punk2](https://www.last.fm/music/brakence/_/rosier%2Fpunk2)
 * [brakence — dropout &lpar;w/ blackbear&rpar;](https://www.last.fm/music/brakence/_/dropout+&lpar;w%2F+blackbear&rpar;)
-* [brakence — fuckboy](https://www.last.fm/music/brakence/_/fuckboy)
-* [brakence — argyle](https://www.last.fm/music/brakence/_/argyle)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [brakence — fuckboy](https://www.last.fm/music/brakence/_/fuckboy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
