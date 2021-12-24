@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
 * [Glaive — pissed](https://www.last.fm/music/Glaive/_/pissed)
 * [Yameii Online — Yameii Vs. The World](https://www.last.fm/music/Yameii+Online/_/Yameii+Vs.+The+World)
-* [ericdoa — back n forth](https://www.last.fm/music/ericdoa/_/back+n+forth)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)<!-- LASTFM:END -->
+* [ericdoa — back n forth](https://www.last.fm/music/ericdoa/_/back+n+forth)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
