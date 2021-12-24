@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Good Kid — Tell Me You Know](https://www.last.fm/music/Good+Kid/_/Tell+Me+You+Know)
-* [Rav — Lovedrug &lpar;Off That&rpar;](https://www.last.fm/music/Rav/_/Lovedrug+&lpar;Off+That&rpar;)
-* [brakence — rosier/punk2](https://www.last.fm/music/brakence/_/rosier%2Fpunk2)
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
-* [Good Kid — Aloe Lite](https://www.last.fm/music/Good+Kid/_/Aloe+Lite)<!-- LASTFM:END -->
+* [p4rkr — i dont want that many friends in the first place](https://www.last.fm/music/p4rkr/_/i+dont+want+that+many+friends+in+the+first+place)
+* [Aldn — precious](https://www.last.fm/music/Aldn/_/precious)
+* [Underscores — Spoiled little brat](https://www.last.fm/music/Underscores/_/Spoiled+little+brat)
+* [Slush Puppy — EAT SPIT! &lpar;feat. Royal &amp; the Serpent&rpar;](https://www.last.fm/music/Slush+Puppy/_/EAT+SPIT!+&lpar;feat.+Royal+&amp;+the+Serpent&rpar;)
+* [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
