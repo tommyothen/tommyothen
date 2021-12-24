@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — pissed](https://www.last.fm/music/Glaive/_/pissed)
+* [Yameii Online — Yameii Vs. The World](https://www.last.fm/music/Yameii+Online/_/Yameii+Vs.+The+World)
+* [ericdoa — back n forth](https://www.last.fm/music/ericdoa/_/back+n+forth)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Cuno — TOKYO 2020/1995](https://www.last.fm/music/Cuno/_/TOKYO+2020%2F1995)
-* [Hayley Williams — Cinnamon](https://www.last.fm/music/Hayley+Williams/_/Cinnamon)<!-- LASTFM:END -->
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
