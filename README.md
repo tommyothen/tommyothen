@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [brakence — fuckboy](https://www.last.fm/music/brakence/_/fuckboy)
+* [brakence — fwb](https://www.last.fm/music/brakence/_/fwb)
+* [brakence — dropout](https://www.last.fm/music/brakence/_/dropout)
 * [brakence — tonight&#39;s no good how about wednesday oh you&#39;re in dallas on wednesday oh ok well then let&#39;s just not see each other for 8 months and It doesn&#39;t matter at all](https://www.last.fm/music/brakence/_/tonight%27s+no+good+how+about+wednesday+oh+you%27re+in+dallas+on+wednesday+oh+ok+well+then+let%27s+just+not+see+each+other+for+8+months+and+It+doesn%27t+matter+at+all)
-* [brakence — prozac](https://www.last.fm/music/brakence/_/prozac)
-* [brakence — nosering &lpar;feat. 50Landing&rpar;](https://www.last.fm/music/brakence/_/nosering+&lpar;feat.+50Landing&rpar;)
-* [brakence — ginger tea](https://www.last.fm/music/brakence/_/ginger+tea)
-* [brakence — sauceintherough - bonus track](https://www.last.fm/music/brakence/_/sauceintherough+-+bonus+track)<!-- LASTFM:END -->
+* [brakence — prozac](https://www.last.fm/music/brakence/_/prozac)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
