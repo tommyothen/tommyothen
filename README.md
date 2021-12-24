@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [p4rkr — i dont want that many friends in the first place](https://www.last.fm/music/p4rkr/_/i+dont+want+that+many+friends+in+the+first+place)
-* [Aldn — precious](https://www.last.fm/music/Aldn/_/precious)
-* [Underscores — Spoiled little brat](https://www.last.fm/music/Underscores/_/Spoiled+little+brat)
-* [Slush Puppy — EAT SPIT! &lpar;feat. Royal &amp; the Serpent&rpar;](https://www.last.fm/music/Slush+Puppy/_/EAT+SPIT!+&lpar;feat.+Royal+&amp;+the+Serpent&rpar;)
-* [Underscores — pay attention!](https://www.last.fm/music/Underscores/_/pay+attention!)<!-- LASTFM:END -->
+* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
+* [Good Kid — Drifting](https://www.last.fm/music/Good+Kid/_/Drifting)
+* [Shady Moon — Cherry Blossoms](https://www.last.fm/music/Shady+Moon/_/Cherry+Blossoms)
+* [Quadeca — Uh Huh!](https://www.last.fm/music/Quadeca/_/Uh+Huh!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
