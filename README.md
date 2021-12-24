@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [sean kennedy — Too Sensitive](https://www.last.fm/music/sean+kennedy/_/Too+Sensitive)
+* [Ky Vöss — Masochism](https://www.last.fm/music/Ky+V%C3%B6ss/_/Masochism)
 * [Cemetery Drive — SUNDAY BLOODBATH](https://www.last.fm/music/Cemetery+Drive/_/SUNDAY+BLOODBATH)
 * [s0cliché — Ted Bundy](https://www.last.fm/music/s0clich%C3%A9/_/Ted+Bundy)
-* [KUURO — She&#39;s Got a Gun](https://www.last.fm/music/KUURO/_/She%27s+Got+a+Gun)
-* [6HOST — HIDE](https://www.last.fm/music/6HOST/_/HIDE)
-* [eyeamki — Great! Big! Party!](https://www.last.fm/music/eyeamki/_/Great!+Big!+Party!)<!-- LASTFM:END -->
+* [KUURO — She&#39;s Got a Gun](https://www.last.fm/music/KUURO/_/She%27s+Got+a+Gun)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
