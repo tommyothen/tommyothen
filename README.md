@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
 * [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
-* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
-* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
-* [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)
-* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)<!-- LASTFM:END -->
+* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
