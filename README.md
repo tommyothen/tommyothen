@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
-* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
-* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)<!-- LASTFM:END -->
+* [Billy Marchiafava — Indie Pop Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Indie+Pop+Type+Beat)
+* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
+* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
