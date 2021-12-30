@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru - TV](https://myanimelist.net/anime/47790/Sekai_Saikou_no_Ansatsusha_Isekai_Kizoku_ni_Tensei_suru) - Completed - 12 of 12 episodes
 * [Tenkuu Shinpan - ONA](https://myanimelist.net/anime/43690/Tenkuu_Shinpan) - Watching - 1 of 12 episodes
 * [Zombieland Saga - TV](https://myanimelist.net/anime/37976/Zombieland_Saga) - Watching - 2 of 12 episodes
 * [Kekkai Sensen - TV](https://myanimelist.net/anime/24439/Kekkai_Sensen) - Watching - 1 of 12 episodes
-* [Kiseijuu: Sei no Kakuritsu - TV](https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu) - Watching - 19 of 24 episodes
-* [Yakusoku no Neverland - TV](https://myanimelist.net/anime/37779/Yakusoku_no_Neverland) - Completed - 12 of 12 episodes<!-- ANIME-LIST:END -->
+* [Kiseijuu: Sei no Kakuritsu - TV](https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu) - Watching - 19 of 24 episodes<!-- ANIME-LIST:END -->
