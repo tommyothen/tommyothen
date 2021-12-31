@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mr.Kitty — Disconnect Lover](https://www.last.fm/music/Mr.Kitty/_/Disconnect+Lover)
+* [Mr.Kitty — My Weak Side](https://www.last.fm/music/Mr.Kitty/_/My+Weak+Side)
+* [Mr.Kitty — Glow](https://www.last.fm/music/Mr.Kitty/_/Glow)
 * [Mr.Kitty — Rats](https://www.last.fm/music/Mr.Kitty/_/Rats)
-* [Mr.Kitty — XIII](https://www.last.fm/music/Mr.Kitty/_/XIII)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)<!-- LASTFM:END -->
+* [Mr.Kitty — XIII](https://www.last.fm/music/Mr.Kitty/_/XIII)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
