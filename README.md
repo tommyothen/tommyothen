@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
+* [Mr.Kitty — Be Alive](https://www.last.fm/music/Mr.Kitty/_/Be+Alive)
 * [Mr.Kitty — Rain](https://www.last.fm/music/Mr.Kitty/_/Rain)
-* [Mr.Kitty — I Want to Hurt Myself](https://www.last.fm/music/Mr.Kitty/_/I+Want+to+Hurt+Myself)
-* [Mr.Kitty — Empty Phases](https://www.last.fm/music/Mr.Kitty/_/Empty+Phases)
-* [Mr.Kitty — Melting Core](https://www.last.fm/music/Mr.Kitty/_/Melting+Core)
-* [Mr.Kitty — Trauma](https://www.last.fm/music/Mr.Kitty/_/Trauma)<!-- LASTFM:END -->
+* [Mr.Kitty — I Want to Hurt Myself](https://www.last.fm/music/Mr.Kitty/_/I+Want+to+Hurt+Myself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
