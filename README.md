@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mr.Kitty — Trauma](https://www.last.fm/music/Mr.Kitty/_/Trauma)
-* [Mr.Kitty — Molt](https://www.last.fm/music/Mr.Kitty/_/Molt)
-* [Mr.Kitty — The View Isn&#39;t the Same](https://www.last.fm/music/Mr.Kitty/_/The+View+Isn%27t+the+Same)
-* [Mr.Kitty — Disconnect Lover](https://www.last.fm/music/Mr.Kitty/_/Disconnect+Lover)
-* [Mr.Kitty — My Weak Side](https://www.last.fm/music/Mr.Kitty/_/My+Weak+Side)<!-- LASTFM:END -->
+* [Mr.Kitty — Rain](https://www.last.fm/music/Mr.Kitty/_/Rain)
+* [Mr.Kitty — I Want to Hurt Myself](https://www.last.fm/music/Mr.Kitty/_/I+Want+to+Hurt+Myself)
+* [Mr.Kitty — Empty Phases](https://www.last.fm/music/Mr.Kitty/_/Empty+Phases)
+* [Mr.Kitty — Melting Core](https://www.last.fm/music/Mr.Kitty/_/Melting+Core)
+* [Mr.Kitty — Trauma](https://www.last.fm/music/Mr.Kitty/_/Trauma)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
