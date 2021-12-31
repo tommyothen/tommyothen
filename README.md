@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
-* [Mr.Kitty — Be Alive](https://www.last.fm/music/Mr.Kitty/_/Be+Alive)
-* [Mr.Kitty — Rain](https://www.last.fm/music/Mr.Kitty/_/Rain)
-* [Mr.Kitty — I Want to Hurt Myself](https://www.last.fm/music/Mr.Kitty/_/I+Want+to+Hurt+Myself)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
