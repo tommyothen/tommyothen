@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
+* [Ghostemane — To Whom It May Concern](https://www.last.fm/music/Ghostemane/_/To+Whom+It+May+Concern)
+* [Lil Peep — Sex With My Ex](https://www.last.fm/music/Lil+Peep/_/Sex+With+My+Ex)
 * [Lil Peep — Beamer Boy](https://www.last.fm/music/Lil+Peep/_/Beamer+Boy)
-* [Mother Mother — Hayloft](https://www.last.fm/music/Mother+Mother/_/Hayloft)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)<!-- LASTFM:END -->
+* [Mother Mother — Hayloft](https://www.last.fm/music/Mother+Mother/_/Hayloft)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
