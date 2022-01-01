@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Injury Reserve — Jailbreak the Tesla &lpar;feat. Aminé&rpar;](https://www.last.fm/music/Injury+Reserve/_/Jailbreak+the+Tesla+&lpar;feat.+Amin%C3%A9&rpar;)
+* [JPEGMAFIA — BALD! REMIX](https://www.last.fm/music/JPEGMAFIA/_/BALD!+REMIX)
+* [JPEGMAFIA — 1539 N. Calvert](https://www.last.fm/music/JPEGMAFIA/_/1539+N.+Calvert)
 * [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
-* [Ghostemane — To Whom It May Concern](https://www.last.fm/music/Ghostemane/_/To+Whom+It+May+Concern)
-* [Lil Peep — Sex With My Ex](https://www.last.fm/music/Lil+Peep/_/Sex+With+My+Ex)
-* [Lil Peep — Beamer Boy](https://www.last.fm/music/Lil+Peep/_/Beamer+Boy)
-* [Mother Mother — Hayloft](https://www.last.fm/music/Mother+Mother/_/Hayloft)<!-- LASTFM:END -->
+* [Ghostemane — To Whom It May Concern](https://www.last.fm/music/Ghostemane/_/To+Whom+It+May+Concern)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
