@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mick Jenkins — Vibe](https://www.last.fm/music/Mick+Jenkins/_/Vibe)
+* [Rejjie Snow — Egyptian Luvr &lpar;feat. Aminé and Dana Williams&rpar;](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr+&lpar;feat.+Amin%C3%A9+and+Dana+Williams&rpar;)
 * [Mick Jenkins — Jazz](https://www.last.fm/music/Mick+Jenkins/_/Jazz)
 * [Aminé — Caroline](https://www.last.fm/music/Amin%C3%A9/_/Caroline)
-* [slowthai — Drug Dealer](https://www.last.fm/music/slowthai/_/Drug+Dealer)
-* [Injury Reserve — Jailbreak the Tesla &lpar;feat. Aminé&rpar;](https://www.last.fm/music/Injury+Reserve/_/Jailbreak+the+Tesla+&lpar;feat.+Amin%C3%A9&rpar;)
-* [JPEGMAFIA — BALD! REMIX](https://www.last.fm/music/JPEGMAFIA/_/BALD!+REMIX)<!-- LASTFM:END -->
+* [slowthai — Drug Dealer](https://www.last.fm/music/slowthai/_/Drug+Dealer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
