@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Joey Bada$ — Survival Tactics](https://www.last.fm/music/Joey+Bada$/_/Survival+Tactics)
-* [Kanye West — Pt. 2](https://www.last.fm/music/Kanye+West/_/Pt.+2)
-* [Kanye West — Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)
-* [Kanye West — I Love Kanye](https://www.last.fm/music/Kanye+West/_/I+Love+Kanye)
-* [Vince Staples — Limos](https://www.last.fm/music/Vince+Staples/_/Limos)<!-- LASTFM:END -->
+* [A$AP Rocky — Praise the Lord &lpar;Da Shine&rpar; &lpar;feat. Skepta&rpar;](https://www.last.fm/music/A$AP+Rocky/_/Praise+the+Lord+&lpar;Da+Shine&rpar;+&lpar;feat.+Skepta&rpar;)
+* [Woodie Smalls — Planet Shrooms](https://www.last.fm/music/Woodie+Smalls/_/Planet+Shrooms)
+* [MISSIO — Everybody Gets High](https://www.last.fm/music/MISSIO/_/Everybody+Gets+High)
+* [Izzie Gibbs — People](https://www.last.fm/music/Izzie+Gibbs/_/People)
+* [Izzie Gibbs — Felonies](https://www.last.fm/music/Izzie+Gibbs/_/Felonies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
