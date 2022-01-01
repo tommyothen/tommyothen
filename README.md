@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
-* [Call Me Karizma — Frank Ocean](https://www.last.fm/music/Call+Me+Karizma/_/Frank+Ocean)
-* [Daniel Caesar — Streetcar](https://www.last.fm/music/Daniel+Caesar/_/Streetcar)
-* [blackbear — 90210](https://www.last.fm/music/blackbear/_/90210)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
+* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [RIZ LA VIE — Pisces](https://www.last.fm/music/RIZ+LA+VIE/_/Pisces)
+* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
