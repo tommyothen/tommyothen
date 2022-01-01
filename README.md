@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joey Bada$ — Survival Tactics](https://www.last.fm/music/Joey+Bada$/_/Survival+Tactics)
+* [Kanye West — Pt. 2](https://www.last.fm/music/Kanye+West/_/Pt.+2)
+* [Kanye West — Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)
 * [Kanye West — I Love Kanye](https://www.last.fm/music/Kanye+West/_/I+Love+Kanye)
-* [Vince Staples — Limos](https://www.last.fm/music/Vince+Staples/_/Limos)
-* [Skepta — Bullet From A Gun](https://www.last.fm/music/Skepta/_/Bullet+From+A+Gun)
-* [Flatbush ZOMBiES — Headstone](https://www.last.fm/music/Flatbush+ZOMBiES/_/Headstone)
-* [Vince Staples — Norf Norf](https://www.last.fm/music/Vince+Staples/_/Norf+Norf)<!-- LASTFM:END -->
+* [Vince Staples — Limos](https://www.last.fm/music/Vince+Staples/_/Limos)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
