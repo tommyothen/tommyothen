@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Antemasque — 4AM](https://www.last.fm/music/Antemasque/_/4AM)
+* [The Libertines — Don&#39;t Look Back into the Sun](https://www.last.fm/music/The+Libertines/_/Don%27t+Look+Back+into+the+Sun)
+* [Little Simz — I Love You, I Hate You](https://www.last.fm/music/Little+Simz/_/I+Love+You,+I+Hate+You)
 * [A$AP Rocky — Praise the Lord &lpar;Da Shine&rpar; &lpar;feat. Skepta&rpar;](https://www.last.fm/music/A$AP+Rocky/_/Praise+the+Lord+&lpar;Da+Shine&rpar;+&lpar;feat.+Skepta&rpar;)
-* [Woodie Smalls — Planet Shrooms](https://www.last.fm/music/Woodie+Smalls/_/Planet+Shrooms)
-* [MISSIO — Everybody Gets High](https://www.last.fm/music/MISSIO/_/Everybody+Gets+High)
-* [Izzie Gibbs — People](https://www.last.fm/music/Izzie+Gibbs/_/People)
-* [Izzie Gibbs — Felonies](https://www.last.fm/music/Izzie+Gibbs/_/Felonies)<!-- LASTFM:END -->
+* [Woodie Smalls — Planet Shrooms](https://www.last.fm/music/Woodie+Smalls/_/Planet+Shrooms)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
