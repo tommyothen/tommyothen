@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mick Jenkins — Vibe](https://www.last.fm/music/Mick+Jenkins/_/Vibe)
-* [Rejjie Snow — Egyptian Luvr &lpar;feat. Aminé and Dana Williams&rpar;](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr+&lpar;feat.+Amin%C3%A9+and+Dana+Williams&rpar;)
-* [Mick Jenkins — Jazz](https://www.last.fm/music/Mick+Jenkins/_/Jazz)
-* [Aminé — Caroline](https://www.last.fm/music/Amin%C3%A9/_/Caroline)
-* [slowthai — Drug Dealer](https://www.last.fm/music/slowthai/_/Drug+Dealer)<!-- LASTFM:END -->
+* [Kanye West — I Love Kanye](https://www.last.fm/music/Kanye+West/_/I+Love+Kanye)
+* [Vince Staples — Limos](https://www.last.fm/music/Vince+Staples/_/Limos)
+* [Skepta — Bullet From A Gun](https://www.last.fm/music/Skepta/_/Bullet+From+A+Gun)
+* [Flatbush ZOMBiES — Headstone](https://www.last.fm/music/Flatbush+ZOMBiES/_/Headstone)
+* [Vince Staples — Norf Norf](https://www.last.fm/music/Vince+Staples/_/Norf+Norf)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
