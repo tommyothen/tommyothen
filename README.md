@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
 * [boywithuke — Two Moons](https://www.last.fm/music/boywithuke/_/Two+Moons)
 * [Antemasque — 4AM](https://www.last.fm/music/Antemasque/_/4AM)
-* [The Libertines — Don&#39;t Look Back into the Sun](https://www.last.fm/music/The+Libertines/_/Don%27t+Look+Back+into+the+Sun)
-* [Little Simz — I Love You, I Hate You](https://www.last.fm/music/Little+Simz/_/I+Love+You,+I+Hate+You)<!-- LASTFM:END -->
+* [The Libertines — Don&#39;t Look Back into the Sun](https://www.last.fm/music/The+Libertines/_/Don%27t+Look+Back+into+the+Sun)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
