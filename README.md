@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
+* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
 * [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)
-* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
