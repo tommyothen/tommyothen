@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
+* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
 * [Mr.Kitty — Destroy Me](https://www.last.fm/music/Mr.Kitty/_/Destroy+Me)
 * [Glaive — pissed](https://www.last.fm/music/Glaive/_/pissed)
-* [Glaive — 2009](https://www.last.fm/music/Glaive/_/2009)
-* [Glaive — hey hi hyd](https://www.last.fm/music/Glaive/_/hey+hi+hyd)
-* [Glaive — touché](https://www.last.fm/music/Glaive/_/touch%C3%A9)<!-- LASTFM:END -->
+* [Glaive — 2009](https://www.last.fm/music/Glaive/_/2009)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
