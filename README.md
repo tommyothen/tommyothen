@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — 2009](https://www.last.fm/music/Glaive/_/2009)
+* [Glaive — hey hi hyd](https://www.last.fm/music/Glaive/_/hey+hi+hyd)
+* [Glaive — touché](https://www.last.fm/music/Glaive/_/touch%C3%A9)
 * [Glaive — dnd](https://www.last.fm/music/Glaive/_/dnd)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Mr.Kitty — Destroy Me](https://www.last.fm/music/Mr.Kitty/_/Destroy+Me)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
