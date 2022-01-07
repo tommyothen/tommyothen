@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
-* [Elio — hurts 2 hate somebody &lpar;with Chase Atlantic &amp; No Rome&rpar;](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+&lpar;with+Chase+Atlantic+&amp;+No+Rome&rpar;)
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
-* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
+* [Galantis — Only A Fool &lpar;with Pink Sweat$titlerpar;](https://www.last.fm/music/Galantis/_/Only+A+Fool+&lpar;with+Pink+Sweat$linkrpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
