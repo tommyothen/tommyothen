@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
 * [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
-* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
-* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
-* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
-* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)<!-- LASTFM:END -->
+* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
