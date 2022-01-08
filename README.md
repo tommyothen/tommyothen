@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
+* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
 * [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)
 * [Mr.Kitty — Destroy Me](https://www.last.fm/music/Mr.Kitty/_/Destroy+Me)
-* [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)
-* [June — Something To Lose](https://www.last.fm/music/June/_/Something+To+Lose)
-* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)<!-- LASTFM:END -->
+* [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
