@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [King Princess — Pain](https://www.last.fm/music/King+Princess/_/Pain)
+* [Sorry X — Pulling Teeth](https://www.last.fm/music/Sorry+X/_/Pulling+Teeth)
+* [Sugar Pine 7 — Real Love](https://www.last.fm/music/Sugar+Pine+7/_/Real+Love)
 * [Flawed Mangoes — Fatal Flaw](https://www.last.fm/music/Flawed+Mangoes/_/Fatal+Flaw)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)
-* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
