@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yeule — Pocky Boy](https://www.last.fm/music/Yeule/_/Pocky+Boy)
+* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
 * [pinkpantheress — Pain](https://www.last.fm/music/pinkpantheress/_/Pain)
 * [Alice Glass — Forgiveness](https://www.last.fm/music/Alice+Glass/_/Forgiveness)
-* [1 800 PAIN — HURT](https://www.last.fm/music/1+800+PAIN/_/HURT)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [Yeule — Pixel Affection](https://www.last.fm/music/Yeule/_/Pixel+Affection)<!-- LASTFM:END -->
+* [1 800 PAIN — HURT](https://www.last.fm/music/1+800+PAIN/_/HURT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
