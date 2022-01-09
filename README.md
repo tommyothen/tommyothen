@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Machine Girl — ATHOTH A GO!! GO!!](https://www.last.fm/music/Machine+Girl/_/ATHOTH+A+GO!!+GO!!)
+* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
+* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
 * [Lil Mariko — Don&#39;t Touch](https://www.last.fm/music/Lil+Mariko/_/Don%27t+Touch)
-* [Moe Shop — Love Taste](https://www.last.fm/music/Moe+Shop/_/Love+Taste)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
-* [Julie — flutter](https://www.last.fm/music/Julie/_/flutter)<!-- LASTFM:END -->
+* [Moe Shop — Love Taste](https://www.last.fm/music/Moe+Shop/_/Love+Taste)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
