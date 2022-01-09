@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mr.Kitty — Destroy Me](https://www.last.fm/music/Mr.Kitty/_/Destroy+Me)
 * [p4rkr — i dont want that many friends in the first place](https://www.last.fm/music/p4rkr/_/i+dont+want+that+many+friends+in+the+first+place)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [XXKATUSJINSUX — STREETSX VACATION BIBLE SCHOOL](https://www.last.fm/music/XXKATUSJINSUX/_/STREETSX+VACATION+BIBLE+SCHOOL)
-* [Slayyyter — Self Destruct &lpar;feat. Wuki&rpar;](https://www.last.fm/music/Slayyyter/_/Self+Destruct+&lpar;feat.+Wuki&rpar;)
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)<!-- LASTFM:END -->
+* [Slayyyter — Self Destruct &lpar;feat. Wuki&rpar;](https://www.last.fm/music/Slayyyter/_/Self+Destruct+&lpar;feat.+Wuki&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
