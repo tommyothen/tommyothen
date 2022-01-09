@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [pinkpantheress — Pain](https://www.last.fm/music/pinkpantheress/_/Pain)
+* [Alice Glass — Forgiveness](https://www.last.fm/music/Alice+Glass/_/Forgiveness)
+* [1 800 PAIN — HURT](https://www.last.fm/music/1+800+PAIN/_/HURT)
 * [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [Yeule — Pixel Affection](https://www.last.fm/music/Yeule/_/Pixel+Affection)
-* [plenka — nightmare](https://www.last.fm/music/plenka/_/nightmare)
-* [Slayyyter — Hello Kitty](https://www.last.fm/music/Slayyyter/_/Hello+Kitty)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
+* [Yeule — Pixel Affection](https://www.last.fm/music/Yeule/_/Pixel+Affection)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
