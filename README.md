@@ -28,8 +28,8 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
 * [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
