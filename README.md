@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Destroy Boys — Crybaby](https://www.last.fm/music/Destroy+Boys/_/Crybaby)
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
 * [plenka — nightmare](https://www.last.fm/music/plenka/_/nightmare)
-* [Afourteen — Somniphobia](https://www.last.fm/music/Afourteen/_/Somniphobia)
-* [Machine Girl — ATHOTH A GO!! GO!!](https://www.last.fm/music/Machine+Girl/_/ATHOTH+A+GO!!+GO!!)
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)<!-- LASTFM:END -->
+* [Afourteen — Somniphobia](https://www.last.fm/music/Afourteen/_/Somniphobia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
