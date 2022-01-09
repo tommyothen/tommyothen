@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [plenka — nightmare](https://www.last.fm/music/plenka/_/nightmare)
+* [Afourteen — Somniphobia](https://www.last.fm/music/Afourteen/_/Somniphobia)
 * [Machine Girl — ATHOTH A GO!! GO!!](https://www.last.fm/music/Machine+Girl/_/ATHOTH+A+GO!!+GO!!)
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
-* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [Lil Mariko — Don&#39;t Touch](https://www.last.fm/music/Lil+Mariko/_/Don%27t+Touch)
-* [Moe Shop — Love Taste](https://www.last.fm/music/Moe+Shop/_/Love+Taste)<!-- LASTFM:END -->
+* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
