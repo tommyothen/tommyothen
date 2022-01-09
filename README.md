@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
+* [Underscores — regulate you](https://www.last.fm/music/Underscores/_/regulate+you)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
