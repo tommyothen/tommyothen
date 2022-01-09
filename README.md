@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
 * [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
 * [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
-* [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)
-* [Mr.Kitty — Destroy Me](https://www.last.fm/music/Mr.Kitty/_/Destroy+Me)
 * [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
