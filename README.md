@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
+* [Kero Kero Bonito — I&#39;d Rather Sleep](https://www.last.fm/music/Kero+Kero+Bonito/_/I%27d+Rather+Sleep)
+* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)
 * [Yeule — Pocky Boy](https://www.last.fm/music/Yeule/_/Pocky+Boy)
-* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
-* [pinkpantheress — Pain](https://www.last.fm/music/pinkpantheress/_/Pain)
-* [Alice Glass — Forgiveness](https://www.last.fm/music/Alice+Glass/_/Forgiveness)
-* [1 800 PAIN — HURT](https://www.last.fm/music/1+800+PAIN/_/HURT)<!-- LASTFM:END -->
+* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
