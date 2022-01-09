@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slayyyter — Self Destruct &lpar;feat. Wuki&rpar;](https://www.last.fm/music/Slayyyter/_/Self+Destruct+&lpar;feat.+Wuki&rpar;)
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
 * [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
 * [Underscores — regulate you](https://www.last.fm/music/Underscores/_/regulate+you)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
