@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
 * [MCCAFFERTY — BeachBoy](https://www.last.fm/music/MCCAFFERTY/_/BeachBoy)
 * [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Freddie Dredd — GTG](https://www.last.fm/music/Freddie+Dredd/_/GTG)
-* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [Kero Kero Bonito — I&#39;d Rather Sleep](https://www.last.fm/music/Kero+Kero+Bonito/_/I%27d+Rather+Sleep)<!-- LASTFM:END -->
+* [Freddie Dredd — GTG](https://www.last.fm/music/Freddie+Dredd/_/GTG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
