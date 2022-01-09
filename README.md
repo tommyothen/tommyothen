@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kuru — clueless](https://www.last.fm/music/Kuru/_/clueless)
+* [Roan Martin — In Time](https://www.last.fm/music/Roan+Martin/_/In+Time)
 * [American Teeth — Gemini](https://www.last.fm/music/American+Teeth/_/Gemini)
 * [Giga — GETCHA! &lpar;feat. Hatsune Miku &amp; GUMI&rpar;](https://www.last.fm/music/Giga/_/GETCHA!+&lpar;feat.+Hatsune+Miku+&amp;+GUMI&rpar;)
-* [Lee Jin Ah — Run &lpar;with GRAY&rpar;](https://www.last.fm/music/Lee+Jin+Ah/_/Run+&lpar;with+GRAY&rpar;)
-* [King Princess — Pain](https://www.last.fm/music/King+Princess/_/Pain)
-* [Sorry X — Pulling Teeth](https://www.last.fm/music/Sorry+X/_/Pulling+Teeth)<!-- LASTFM:END -->
+* [Lee Jin Ah — Run &lpar;with GRAY&rpar;](https://www.last.fm/music/Lee+Jin+Ah/_/Run+&lpar;with+GRAY&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
