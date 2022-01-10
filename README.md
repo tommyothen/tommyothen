@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kensuke Ushio — Smells Blood](https://www.last.fm/music/Kensuke+Ushio/_/Smells+Blood)
-* [Pisse — Fahrradsattel](https://www.last.fm/music/Pisse/_/Fahrradsattel)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Sohodolls — Bang Bang Bang Bang](https://www.last.fm/music/Sohodolls/_/Bang+Bang+Bang+Bang)
-* [I Hate Myself Because — I Feel Bad](https://www.last.fm/music/I+Hate+Myself+Because/_/I+Feel+Bad)<!-- LASTFM:END -->
+* [Alice Glass — Suffer and Swallow](https://www.last.fm/music/Alice+Glass/_/Suffer+and+Swallow)
+* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
+* [punkinloveee — freak show](https://www.last.fm/music/punkinloveee/_/freak+show)
+* [Cmten — NEVER MET! &lpar;feat. Glitch Gum&rpar;](https://www.last.fm/music/Cmten/_/NEVER+MET!+&lpar;feat.+Glitch+Gum&rpar;)
+* [Yameii Online — Baby my phone](https://www.last.fm/music/Yameii+Online/_/Baby+my+phone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
