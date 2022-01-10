@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Isaac Dunbar — fan behavior](https://www.last.fm/music/Isaac+Dunbar/_/fan+behavior)
+* [Semiset — Space](https://www.last.fm/music/Semiset/_/Space)
+* [ladiesmile — GOODMORNING!](https://www.last.fm/music/ladiesmile/_/GOODMORNING!)
 * [MDNT BLXNDE — Call Your Name](https://www.last.fm/music/MDNT+BLXNDE/_/Call+Your+Name)
-* [Donny Electric — If You Supply the Paint](https://www.last.fm/music/Donny+Electric/_/If+You+Supply+the+Paint)
-* [Tiffany Day — CALONE](https://www.last.fm/music/Tiffany+Day/_/CALONE)
-* [GROUNDBREAKING — Parade](https://www.last.fm/music/GROUNDBREAKING/_/Parade)
-* [Ricky Himself — SCREAM!](https://www.last.fm/music/Ricky+Himself/_/SCREAM!)<!-- LASTFM:END -->
+* [Donny Electric — If You Supply the Paint](https://www.last.fm/music/Donny+Electric/_/If+You+Supply+the+Paint)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
