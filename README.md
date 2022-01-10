@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
+* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
-* [j^p^n — Amend](https://www.last.fm/music/j%5Ep%5En/_/Amend)
-* [Freddie Dredd — KILLIN&#39; ON DEMAND](https://www.last.fm/music/Freddie+Dredd/_/KILLIN%27+ON+DEMAND)<!-- LASTFM:END -->
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
