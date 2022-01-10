@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
 * [Slayyyter — Self Destruct &lpar;feat. Wuki&rpar;](https://www.last.fm/music/Slayyyter/_/Self+Destruct+&lpar;feat.+Wuki&rpar;)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [Destroy Boys — Crybaby](https://www.last.fm/music/Destroy+Boys/_/Crybaby)
-* [100 gecs — hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)
-* [pinkpantheress — Pain](https://www.last.fm/music/pinkpantheress/_/Pain)<!-- LASTFM:END -->
+* [100 gecs — hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
