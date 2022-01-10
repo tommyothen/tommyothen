@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MDNT BLXNDE — Call Your Name](https://www.last.fm/music/MDNT+BLXNDE/_/Call+Your+Name)
+* [Donny Electric — If You Supply the Paint](https://www.last.fm/music/Donny+Electric/_/If+You+Supply+the+Paint)
+* [Tiffany Day — CALONE](https://www.last.fm/music/Tiffany+Day/_/CALONE)
 * [GROUNDBREAKING — Parade](https://www.last.fm/music/GROUNDBREAKING/_/Parade)
-* [Ricky Himself — SCREAM!](https://www.last.fm/music/Ricky+Himself/_/SCREAM!)
-* [Updog — clown](https://www.last.fm/music/Updog/_/clown)
-* [Kensuke Ushio — &lpar;i can&rpar; say nothing](https://www.last.fm/music/Kensuke+Ushio/_/&lpar;i+can&rpar;+say+nothing)
-* [Mico — down!](https://www.last.fm/music/Mico/_/down!)<!-- LASTFM:END -->
+* [Ricky Himself — SCREAM!](https://www.last.fm/music/Ricky+Himself/_/SCREAM!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
