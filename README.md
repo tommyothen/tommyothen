@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
+* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
+* [きくお — 愛して 愛して 愛して](https://www.last.fm/music/%E3%81%8D%E3%81%8F%E3%81%8A/_/%E6%84%9B%E3%81%97%E3%81%A6+%E6%84%9B%E3%81%97%E3%81%A6+%E6%84%9B%E3%81%97%E3%81%A6)
 * [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Slayyyter — Self Destruct &lpar;feat. Wuki&rpar;](https://www.last.fm/music/Slayyyter/_/Self+Destruct+&lpar;feat.+Wuki&rpar;)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Destroy Boys — Crybaby](https://www.last.fm/music/Destroy+Boys/_/Crybaby)
-* [100 gecs — hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)<!-- LASTFM:END -->
+* [Slayyyter — Self Destruct &lpar;feat. Wuki&rpar;](https://www.last.fm/music/Slayyyter/_/Self+Destruct+&lpar;feat.+Wuki&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
