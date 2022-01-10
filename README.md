@@ -32,7 +32,7 @@ Now Playing\
 * [sirlofi — Queen of Disaster](https://www.last.fm/music/sirlofi/_/Queen+of+Disaster)
 * [sirlofi — Queen of Disaster](https://www.last.fm/music/sirlofi/_/Queen+of+Disaster)
 * [sirlofi — Queen of Disaster](https://www.last.fm/music/sirlofi/_/Queen+of+Disaster)
-* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)<!-- LASTFM:END -->
+* [sirlofi — Queen of Disaster](https://www.last.fm/music/sirlofi/_/Queen+of+Disaster)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
