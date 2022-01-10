@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
 * [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
-* [きくお — 愛して 愛して 愛して](https://www.last.fm/music/%E3%81%8D%E3%81%8F%E3%81%8A/_/%E6%84%9B%E3%81%97%E3%81%A6+%E6%84%9B%E3%81%97%E3%81%A6+%E6%84%9B%E3%81%97%E3%81%A6)
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Slayyyter — Self Destruct &lpar;feat. Wuki&rpar;](https://www.last.fm/music/Slayyyter/_/Self+Destruct+&lpar;feat.+Wuki&rpar;)<!-- LASTFM:END -->
+* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
+* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
+* [きくお — 愛して 愛して 愛して](https://www.last.fm/music/%E3%81%8D%E3%81%8F%E3%81%8A/_/%E6%84%9B%E3%81%97%E3%81%A6+%E6%84%9B%E3%81%97%E3%81%A6+%E6%84%9B%E3%81%97%E3%81%A6)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
