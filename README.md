@@ -28,8 +28,8 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [sirlofi — Queen of Disaster](https://www.last.fm/music/sirlofi/_/Queen+of+Disaster)
-* [sirlofi — Queen of Disaster](https://www.last.fm/music/sirlofi/_/Queen+of+Disaster)
+* [Serena Isioma — Sensitive](https://www.last.fm/music/Serena+Isioma/_/Sensitive)
+* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
 * [sirlofi — Queen of Disaster](https://www.last.fm/music/sirlofi/_/Queen+of+Disaster)
 * [sirlofi — Queen of Disaster](https://www.last.fm/music/sirlofi/_/Queen+of+Disaster)
 * [sirlofi — Queen of Disaster](https://www.last.fm/music/sirlofi/_/Queen+of+Disaster)<!-- LASTFM:END -->
