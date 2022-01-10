@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)
+* [稲葉曇 — Lost Umbrella](https://www.last.fm/music/%E7%A8%B2%E8%91%89%E6%9B%87/_/Lost+Umbrella)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
 * [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
