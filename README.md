@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [I Hate Myself Because — fck me](https://www.last.fm/music/I+Hate+Myself+Because/_/fck+me)
-* [Lemon Demon — Two Trucks](https://www.last.fm/music/Lemon+Demon/_/Two+Trucks)
-* [Jazmin Bean — Princess Castle](https://www.last.fm/music/Jazmin+Bean/_/Princess+Castle)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
+* [Mr.Kitty — Destroy Me](https://www.last.fm/music/Mr.Kitty/_/Destroy+Me)
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
+* [1 800 PAIN — HURT](https://www.last.fm/music/1+800+PAIN/_/HURT)
+* [johnny goth — DIE.](https://www.last.fm/music/johnny+goth/_/DIE.)
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
