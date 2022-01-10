@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [稲葉曇 — Lost Umbrella](https://www.last.fm/music/%E7%A8%B2%E8%91%89%E6%9B%87/_/Lost+Umbrella)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)<!-- LASTFM:END -->
+* [I Hate Myself Because — I Feel Bad](https://www.last.fm/music/I+Hate+Myself+Because/_/I+Feel+Bad)
+* [Yameii Online — Baby my phone](https://www.last.fm/music/Yameii+Online/_/Baby+my+phone)
+* [きくお — 君はできない子](https://www.last.fm/music/%E3%81%8D%E3%81%8F%E3%81%8A/_/%E5%90%9B%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E5%AD%90)
+* [Pharmacist — NORTH MEMPHIS](https://www.last.fm/music/Pharmacist/_/NORTH+MEMPHIS)
+* [Will Paquin — Chandelier](https://www.last.fm/music/Will+Paquin/_/Chandelier)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
