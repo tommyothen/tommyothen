@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GROUNDBREAKING — Parade](https://www.last.fm/music/GROUNDBREAKING/_/Parade)
+* [Ricky Himself — SCREAM!](https://www.last.fm/music/Ricky+Himself/_/SCREAM!)
 * [Updog — clown](https://www.last.fm/music/Updog/_/clown)
 * [Kensuke Ushio — &lpar;i can&rpar; say nothing](https://www.last.fm/music/Kensuke+Ushio/_/&lpar;i+can&rpar;+say+nothing)
-* [Mico — down!](https://www.last.fm/music/Mico/_/down!)
-* [Whethan — Freefall &lpar;feat. Oliver Tree&rpar;](https://www.last.fm/music/Whethan/_/Freefall+&lpar;feat.+Oliver+Tree&rpar;)
-* [Arbor — Intuition](https://www.last.fm/music/Arbor/_/Intuition)<!-- LASTFM:END -->
+* [Mico — down!](https://www.last.fm/music/Mico/_/down!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
