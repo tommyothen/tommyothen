@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [I Hate Myself Because — I Feel Bad](https://www.last.fm/music/I+Hate+Myself+Because/_/I+Feel+Bad)
-* [PRINCESSBRI — AM I DREAMING?](https://www.last.fm/music/PRINCESSBRI/_/AM+I+DREAMING%3F)
-* [Slayyyter — Self Destruct &lpar;feat. Wuki&rpar;](https://www.last.fm/music/Slayyyter/_/Self+Destruct+&lpar;feat.+Wuki&rpar;)
-* [Alice Longyu Gao — I &lt;3 Harajuku](https://www.last.fm/music/Alice+Longyu+Gao/_/I+%3C3+Harajuku)
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)<!-- LASTFM:END -->
+* [Kensuke Ushio — Smells Blood](https://www.last.fm/music/Kensuke+Ushio/_/Smells+Blood)
+* [Pisse — Fahrradsattel](https://www.last.fm/music/Pisse/_/Fahrradsattel)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Sohodolls — Bang Bang Bang Bang](https://www.last.fm/music/Sohodolls/_/Bang+Bang+Bang+Bang)
+* [I Hate Myself Because — I Feel Bad](https://www.last.fm/music/I+Hate+Myself+Because/_/I+Feel+Bad)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
