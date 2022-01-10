@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Alice Glass — Suffer and Swallow](https://www.last.fm/music/Alice+Glass/_/Suffer+and+Swallow)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [punkinloveee — freak show](https://www.last.fm/music/punkinloveee/_/freak+show)
-* [Cmten — NEVER MET! &lpar;feat. Glitch Gum&rpar;](https://www.last.fm/music/Cmten/_/NEVER+MET!+&lpar;feat.+Glitch+Gum&rpar;)
-* [Yameii Online — Baby my phone](https://www.last.fm/music/Yameii+Online/_/Baby+my+phone)<!-- LASTFM:END -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [I Hate Myself Because — fck me](https://www.last.fm/music/I+Hate+Myself+Because/_/fck+me)
+* [Lemon Demon — Two Trucks](https://www.last.fm/music/Lemon+Demon/_/Two+Trucks)
+* [Jazmin Bean — Princess Castle](https://www.last.fm/music/Jazmin+Bean/_/Princess+Castle)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
