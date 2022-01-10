@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [j^p^n — Amend](https://www.last.fm/music/j%5Ep%5En/_/Amend)
+* [Freddie Dredd — KILLIN&#39; ON DEMAND](https://www.last.fm/music/Freddie+Dredd/_/KILLIN%27+ON+DEMAND)
 * [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
 * [Moe Shop — Notice](https://www.last.fm/music/Moe+Shop/_/Notice)
-* [Ghost and Pals — Honey I&#39;m Home](https://www.last.fm/music/Ghost+and+Pals/_/Honey+I%27m+Home)
-* [Bo En — every day](https://www.last.fm/music/Bo+En/_/every+day)
-* [I Hate Myself Because — I Feel Bad](https://www.last.fm/music/I+Hate+Myself+Because/_/I+Feel+Bad)<!-- LASTFM:END -->
+* [Ghost and Pals — Honey I&#39;m Home](https://www.last.fm/music/Ghost+and+Pals/_/Honey+I%27m+Home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
