@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
+* [girl in red — Serotonin](https://www.last.fm/music/girl+in+red/_/Serotonin)
+* [YUNG BAE — Woman On The Moon &lpar;feat. UPSAHL&rpar;](https://www.last.fm/music/YUNG+BAE/_/Woman+On+The+Moon+&lpar;feat.+UPSAHL&rpar;)
 * [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
-* [Mr.Kitty — Destroy Me](https://www.last.fm/music/Mr.Kitty/_/Destroy+Me)
-* [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
+* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
