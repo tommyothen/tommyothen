@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)<!-- LASTFM:END -->
+* [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
