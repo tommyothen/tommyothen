@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)
+* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
 * [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
 * [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
-* [Mr.Kitty — Destroy Me](https://www.last.fm/music/Mr.Kitty/_/Destroy+Me)
-* [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)<!-- LASTFM:END -->
+* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
