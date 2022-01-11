@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mico — down!](https://www.last.fm/music/Mico/_/down!)
+* [Ricky Himself — SCREAM!](https://www.last.fm/music/Ricky+Himself/_/SCREAM!)
+* [Kensuke Ushio — &lpar;i can&rpar; say nothing](https://www.last.fm/music/Kensuke+Ushio/_/&lpar;i+can&rpar;+say+nothing)
 * [SwuM — Magic Ways](https://www.last.fm/music/SwuM/_/Magic+Ways)
-* [heylog — welcome to the end](https://www.last.fm/music/heylog/_/welcome+to+the+end)
-* [GROUNDBREAKING — Parade](https://www.last.fm/music/GROUNDBREAKING/_/Parade)
-* [Chaos Chaos — Need You](https://www.last.fm/music/Chaos+Chaos/_/Need+You)
-* [Semiset — Space](https://www.last.fm/music/Semiset/_/Space)<!-- LASTFM:END -->
+* [heylog — welcome to the end](https://www.last.fm/music/heylog/_/welcome+to+the+end)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
