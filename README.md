@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)
+* [Donny Electric — If You Supply the Paint](https://www.last.fm/music/Donny+Electric/_/If+You+Supply+the+Paint)
 * [Isaac Dunbar — fan behavior](https://www.last.fm/music/Isaac+Dunbar/_/fan+behavior)
 * [Whethan — Freefall &lpar;feat. Oliver Tree&rpar;](https://www.last.fm/music/Whethan/_/Freefall+&lpar;feat.+Oliver+Tree&rpar;)
-* [Valorant — Die For You](https://www.last.fm/music/Valorant/_/Die+For+You)
-* [Will Jay — I Need Control](https://www.last.fm/music/Will+Jay/_/I+Need+Control)
-* [Mico — down!](https://www.last.fm/music/Mico/_/down!)<!-- LASTFM:END -->
+* [Valorant — Die For You](https://www.last.fm/music/Valorant/_/Die+For+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
