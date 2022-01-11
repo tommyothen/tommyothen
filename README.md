@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [My Dead Girlfriend — iliad](https://www.last.fm/music/My+Dead+Girlfriend/_/iliad)
+* [Tiffany Day — CALONE](https://www.last.fm/music/Tiffany+Day/_/CALONE)
+* [Arbor — Intuition](https://www.last.fm/music/Arbor/_/Intuition)
 * [マクロスMACROSS 82-99 — 『82.99 F.M』](https://www.last.fm/music/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9MACROSS+82-99/_/%E3%80%8E82.99+F.M%E3%80%8F)
-* [Wingy — One and Only](https://www.last.fm/music/Wingy/_/One+and+Only)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [YUNG BAE — Woman On The Moon &lpar;feat. UPSAHL&rpar;](https://www.last.fm/music/YUNG+BAE/_/Woman+On+The+Moon+&lpar;feat.+UPSAHL&rpar;)
-* [DAINE — Ascension](https://www.last.fm/music/DAINE/_/Ascension)<!-- LASTFM:END -->
+* [Wingy — One and Only](https://www.last.fm/music/Wingy/_/One+and+Only)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
