@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SwuM — Magic Ways](https://www.last.fm/music/SwuM/_/Magic+Ways)
+* [heylog — welcome to the end](https://www.last.fm/music/heylog/_/welcome+to+the+end)
+* [GROUNDBREAKING — Parade](https://www.last.fm/music/GROUNDBREAKING/_/Parade)
 * [Chaos Chaos — Need You](https://www.last.fm/music/Chaos+Chaos/_/Need+You)
-* [Semiset — Space](https://www.last.fm/music/Semiset/_/Space)
-* [Hayley Kiyoko — Demons](https://www.last.fm/music/Hayley+Kiyoko/_/Demons)
-* [girl in red — Serotonin](https://www.last.fm/music/girl+in+red/_/Serotonin)
-* [My Dead Girlfriend — iliad](https://www.last.fm/music/My+Dead+Girlfriend/_/iliad)<!-- LASTFM:END -->
+* [Semiset — Space](https://www.last.fm/music/Semiset/_/Space)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
