@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ladiesmile — GOODMORNING!](https://www.last.fm/music/ladiesmile/_/GOODMORNING!)
+* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
 * [MDNT BLXNDE — Call Your Name](https://www.last.fm/music/MDNT+BLXNDE/_/Call+Your+Name)
 * [Updog — clown](https://www.last.fm/music/Updog/_/clown)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)<!-- LASTFM:END -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
