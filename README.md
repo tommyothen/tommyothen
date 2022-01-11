@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YUNG BAE — Woman On The Moon &lpar;feat. UPSAHL&rpar;](https://www.last.fm/music/YUNG+BAE/_/Woman+On+The+Moon+&lpar;feat.+UPSAHL&rpar;)
+* [DAINE — Ascension](https://www.last.fm/music/DAINE/_/Ascension)
 * [ladiesmile — GOODMORNING!](https://www.last.fm/music/ladiesmile/_/GOODMORNING!)
 * [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
-* [MDNT BLXNDE — Call Your Name](https://www.last.fm/music/MDNT+BLXNDE/_/Call+Your+Name)
-* [Updog — clown](https://www.last.fm/music/Updog/_/clown)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
+* [MDNT BLXNDE — Call Your Name](https://www.last.fm/music/MDNT+BLXNDE/_/Call+Your+Name)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
