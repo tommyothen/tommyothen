@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Isaac Dunbar — fan behavior](https://www.last.fm/music/Isaac+Dunbar/_/fan+behavior)
+* [Whethan — Freefall &lpar;feat. Oliver Tree&rpar;](https://www.last.fm/music/Whethan/_/Freefall+&lpar;feat.+Oliver+Tree&rpar;)
 * [Valorant — Die For You](https://www.last.fm/music/Valorant/_/Die+For+You)
 * [Will Jay — I Need Control](https://www.last.fm/music/Will+Jay/_/I+Need+Control)
-* [Mico — down!](https://www.last.fm/music/Mico/_/down!)
-* [Ricky Himself — SCREAM!](https://www.last.fm/music/Ricky+Himself/_/SCREAM!)
-* [Kensuke Ushio — &lpar;i can&rpar; say nothing](https://www.last.fm/music/Kensuke+Ushio/_/&lpar;i+can&rpar;+say+nothing)<!-- LASTFM:END -->
+* [Mico — down!](https://www.last.fm/music/Mico/_/down!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
