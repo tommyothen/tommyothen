@@ -28,8 +28,8 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [girl in red — Serotonin](https://www.last.fm/music/girl+in+red/_/Serotonin)
+* [YUNG BAE — Woman On The Moon &lpar;feat. UPSAHL&rpar;](https://www.last.fm/music/YUNG+BAE/_/Woman+On+The+Moon+&lpar;feat.+UPSAHL&rpar;)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
