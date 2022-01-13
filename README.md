@@ -5,7 +5,7 @@
   "Age": 20,
   "Occupation": "Student",
   "Interests": ["Programming", "Games", "Anime"],
-  "Learning": ["Kotlin", "Kubernetes", "Solidity"]
+  "Learning": ["Kubernetes", "Ansible"]
 }
 ```
 
