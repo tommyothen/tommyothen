@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
-* [Mr.Kitty — Destroy Me](https://www.last.fm/music/Mr.Kitty/_/Destroy+Me)<!-- LASTFM:END -->
+* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
+* [Billy Marchiafava — Indie Pop Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Indie+Pop+Type+Beat)
+* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
+* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
