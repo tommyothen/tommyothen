@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [girl in red — Serotonin](https://www.last.fm/music/girl+in+red/_/Serotonin)
-* [YUNG BAE — Woman On The Moon &lpar;feat. UPSAHL&rpar;](https://www.last.fm/music/YUNG+BAE/_/Woman+On+The+Moon+&lpar;feat.+UPSAHL&rpar;)
-* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)<!-- LASTFM:END -->
+* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
+* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
+* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
