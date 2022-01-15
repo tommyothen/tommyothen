@@ -31,8 +31,8 @@ Now Playing\
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
