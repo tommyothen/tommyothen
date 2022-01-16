@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
-* [Billy Marchiafava — Indie Pop Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Indie+Pop+Type+Beat)
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
-* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
+* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
+* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
+* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
