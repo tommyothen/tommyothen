@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
+* [girl in red — Serotonin](https://www.last.fm/music/girl+in+red/_/Serotonin)
+* [YUNG BAE — Woman On The Moon &lpar;feat. UPSAHL&rpar;](https://www.last.fm/music/YUNG+BAE/_/Woman+On+The+Moon+&lpar;feat.+UPSAHL&rpar;)
 * [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
-* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
-* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)<!-- LASTFM:END -->
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
