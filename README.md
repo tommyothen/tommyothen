@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charlie Curtis-Beard — Sunlight, Quiet, Flowers](https://www.last.fm/music/Charlie+Curtis-Beard/_/Sunlight,+Quiet,+Flowers)
+* [Seraphine — All The Things She Said](https://www.last.fm/music/Seraphine/_/All+The+Things+She+Said)
 * [Juliana Chahayed — Violins](https://www.last.fm/music/Juliana+Chahayed/_/Violins)
 * [Baauer — DDOKBOKKI](https://www.last.fm/music/Baauer/_/DDOKBOKKI)
-* [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)
-* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
-* [Mimi Barks — 11.PLAGUE/666](https://www.last.fm/music/Mimi+Barks/_/11.PLAGUE%2F666)<!-- LASTFM:END -->
+* [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
