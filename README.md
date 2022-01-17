@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Juliana Chahayed — Violins](https://www.last.fm/music/Juliana+Chahayed/_/Violins)
+* [Baauer — DDOKBOKKI](https://www.last.fm/music/Baauer/_/DDOKBOKKI)
+* [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)
 * [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
-* [Mimi Barks — 11.PLAGUE/666](https://www.last.fm/music/Mimi+Barks/_/11.PLAGUE%2F666)
-* [XANAKIN SKYWOK — Macho!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Macho!)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [Softwilly — GRUNK](https://www.last.fm/music/Softwilly/_/GRUNK)<!-- LASTFM:END -->
+* [Mimi Barks — 11.PLAGUE/666](https://www.last.fm/music/Mimi+Barks/_/11.PLAGUE%2F666)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
