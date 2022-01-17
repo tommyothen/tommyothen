@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
+* [Mimi Barks — 11.PLAGUE/666](https://www.last.fm/music/Mimi+Barks/_/11.PLAGUE%2F666)
 * [XANAKIN SKYWOK — Macho!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Macho!)
 * [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [Softwilly — GRUNK](https://www.last.fm/music/Softwilly/_/GRUNK)
-* [p-rallel — Packed Bags](https://www.last.fm/music/p-rallel/_/Packed+Bags)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)<!-- LASTFM:END -->
+* [Softwilly — GRUNK](https://www.last.fm/music/Softwilly/_/GRUNK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
