@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)
+* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
 * [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
 * [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
-* [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)
-* [Cmten — I LOVE GLITCHCORE &lpar;feat. WHOKILLEDXIX&rpar;](https://www.last.fm/music/Cmten/_/I+LOVE+GLITCHCORE+&lpar;feat.+WHOKILLEDXIX&rpar;)
-* [Neoni — LOSER](https://www.last.fm/music/Neoni/_/LOSER)<!-- LASTFM:END -->
+* [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
