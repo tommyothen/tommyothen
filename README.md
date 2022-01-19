@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)
+* [Magic Circuit — Water](https://www.last.fm/music/Magic+Circuit/_/Water)
 * [Nyanners — Foolish Heart](https://www.last.fm/music/Nyanners/_/Foolish+Heart)
 * [Chino — Pashmina - Long Version](https://www.last.fm/music/Chino/_/Pashmina+-+Long+Version)
-* [Moow — Reconcilation](https://www.last.fm/music/Moow/_/Reconcilation)
-* [elijah who — my new love](https://www.last.fm/music/elijah+who/_/my+new+love)
-* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)<!-- LASTFM:END -->
+* [Moow — Reconcilation](https://www.last.fm/music/Moow/_/Reconcilation)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
