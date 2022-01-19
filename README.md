@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BADGUYLEX — 3pm](https://www.last.fm/music/BADGUYLEX/_/3pm)
+* [666fuckthecops — I SELL DRUGS ON ACID](https://www.last.fm/music/666fuckthecops/_/I+SELL+DRUGS+ON+ACID)
+* [Prompto — Japanese Stutter](https://www.last.fm/music/Prompto/_/Japanese+Stutter)
 * [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [girl in red — Serotonin](https://www.last.fm/music/girl+in+red/_/Serotonin)
-* [YUNG BAE — Woman On The Moon &lpar;feat. UPSAHL&rpar;](https://www.last.fm/music/YUNG+BAE/_/Woman+On+The+Moon+&lpar;feat.+UPSAHL&rpar;)<!-- LASTFM:END -->
+* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
