@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nyanners — Foolish Heart](https://www.last.fm/music/Nyanners/_/Foolish+Heart)
 * [Chino — Pashmina - Long Version](https://www.last.fm/music/Chino/_/Pashmina+-+Long+Version)
 * [Moow — Reconcilation](https://www.last.fm/music/Moow/_/Reconcilation)
 * [elijah who — my new love](https://www.last.fm/music/elijah+who/_/my+new+love)
-* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)
-* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)<!-- LASTFM:END -->
+* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
