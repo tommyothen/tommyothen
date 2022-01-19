@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Neoni — LOSER](https://www.last.fm/music/Neoni/_/LOSER)
-* [BADGUYLEX — 3pm](https://www.last.fm/music/BADGUYLEX/_/3pm)
-* [666fuckthecops — I SELL DRUGS ON ACID](https://www.last.fm/music/666fuckthecops/_/I+SELL+DRUGS+ON+ACID)
-* [Prompto — Japanese Stutter](https://www.last.fm/music/Prompto/_/Japanese+Stutter)
-* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)<!-- LASTFM:END -->
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
+* [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)
+* [Cmten — I LOVE GLITCHCORE &lpar;feat. WHOKILLEDXIX&rpar;](https://www.last.fm/music/Cmten/_/I+LOVE+GLITCHCORE+&lpar;feat.+WHOKILLEDXIX&rpar;)
+* [Neoni — LOSER](https://www.last.fm/music/Neoni/_/LOSER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
