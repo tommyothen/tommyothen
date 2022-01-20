@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
 * [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
 * [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [girl in red — Serotonin](https://www.last.fm/music/girl+in+red/_/Serotonin)<!-- LASTFM:END -->
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
