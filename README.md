@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sohodolls — Bang Bang Bang Bang - Remastered 2021](https://www.last.fm/music/Sohodolls/_/Bang+Bang+Bang+Bang+-+Remastered+2021)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [plenka — nightmare](https://www.last.fm/music/plenka/_/nightmare)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
+* [Kero Kero Bonito — I&#39;d Rather Sleep](https://www.last.fm/music/Kero+Kero+Bonito/_/I%27d+Rather+Sleep)
+* [Get Scared — Sarcasm](https://www.last.fm/music/Get+Scared/_/Sarcasm)
+* [I Hate Myself Because — fck me](https://www.last.fm/music/I+Hate+Myself+Because/_/fck+me)
+* [Mother Mother — Verbatim](https://www.last.fm/music/Mother+Mother/_/Verbatim)
+* [Sohodolls — Bang Bang Bang Bang - Remastered 2021](https://www.last.fm/music/Sohodolls/_/Bang+Bang+Bang+Bang+-+Remastered+2021)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
