@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alice Gas — idontcareanymore](https://www.last.fm/music/Alice+Gas/_/idontcareanymore)
 * [Mystery Skulls — Amazing](https://www.last.fm/music/Mystery+Skulls/_/Amazing)
 * [Constera — Stuck In America](https://www.last.fm/music/Constera/_/Stuck+In+America)
 * [iAmJakeHill — RUN UP!](https://www.last.fm/music/iAmJakeHill/_/RUN+UP!)
-* [Nader Khalil — 98](https://www.last.fm/music/Nader+Khalil/_/98)
-* [キタニタツヤ — Sad Girl](https://www.last.fm/music/%E3%82%AD%E3%82%BF%E3%83%8B%E3%82%BF%E3%83%84%E3%83%A4/_/Sad+Girl)<!-- LASTFM:END -->
+* [Nader Khalil — 98](https://www.last.fm/music/Nader+Khalil/_/98)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
