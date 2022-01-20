@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Puzzle — I Saw An Angel](https://www.last.fm/music/Puzzle/_/I+Saw+An+Angel)
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
+* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [punkinloveee — freak show](https://www.last.fm/music/punkinloveee/_/freak+show)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)<!-- LASTFM:END -->
+* [punkinloveee — freak show](https://www.last.fm/music/punkinloveee/_/freak+show)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
