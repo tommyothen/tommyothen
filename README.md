@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Luci4 — Kurxxed Emeraldz](https://www.last.fm/music/Luci4/_/Kurxxed+Emeraldz)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [johnny goth — Midnight](https://www.last.fm/music/johnny+goth/_/Midnight)
-* [Kero Kero Bonito — I&#39;d Rather Sleep](https://www.last.fm/music/Kero+Kero+Bonito/_/I%27d+Rather+Sleep)
-* [Get Scared — Sarcasm](https://www.last.fm/music/Get+Scared/_/Sarcasm)<!-- LASTFM:END -->
+* [Mitski — Washing Machine Heart](https://www.last.fm/music/Mitski/_/Washing+Machine+Heart)
+* [Upsahl — People I Don&#39;t Like](https://www.last.fm/music/Upsahl/_/People+I+Don%27t+Like)
+* [Kid Milli — WHY DO FUCKBOIS HANG OUT ON THE NET](https://www.last.fm/music/Kid+Milli/_/WHY+DO+FUCKBOIS+HANG+OUT+ON+THE+NET)
+* [Whose Rules — Moth Meme](https://www.last.fm/music/Whose+Rules/_/Moth+Meme)
+* [Luci4 — Kurxxed Emeraldz](https://www.last.fm/music/Luci4/_/Kurxxed+Emeraldz)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
