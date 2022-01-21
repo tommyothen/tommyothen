@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — GWALLA MACHINE GO BRR](https://www.last.fm/music/Syko/_/GWALLA+MACHINE+GO+BRR)
 * [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
 * [Aldn — precious](https://www.last.fm/music/Aldn/_/precious)
 * [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [Alice Gas — idontcareanymore](https://www.last.fm/music/Alice+Gas/_/idontcareanymore)
-* [Mystery Skulls — Amazing](https://www.last.fm/music/Mystery+Skulls/_/Amazing)<!-- LASTFM:END -->
+* [Alice Gas — idontcareanymore](https://www.last.fm/music/Alice+Gas/_/idontcareanymore)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
