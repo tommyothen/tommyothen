@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
+* [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)
 * [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
-* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)<!-- LASTFM:END -->
+* [Rojuu — #BrooklynBloodPop! - Roku Remix](https://www.last.fm/music/Rojuu/_/%23BrooklynBloodPop!+-+Roku+Remix)
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
