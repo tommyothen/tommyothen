@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YUNG BAE — Woman On The Moon &lpar;feat. UPSAHL&rpar;](https://www.last.fm/music/YUNG+BAE/_/Woman+On+The+Moon+&lpar;feat.+UPSAHL&rpar;)
+* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
+* [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)
 * [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [Joshwa — My Humps](https://www.last.fm/music/Joshwa/_/My+Humps)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)<!-- LASTFM:END -->
+* [Joshwa — My Humps](https://www.last.fm/music/Joshwa/_/My+Humps)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
