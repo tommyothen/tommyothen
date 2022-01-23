@@ -31,8 +31,8 @@ Now Playing\
 * [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
 * [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)
 * [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)<!-- LASTFM:END -->
+* [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
