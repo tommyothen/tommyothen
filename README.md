@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
+* [Harley Reid — Out of Time](https://www.last.fm/music/Harley+Reid/_/Out+of+Time)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Harley Reid — Out of Time](https://www.last.fm/music/Harley+Reid/_/Out+of+Time)
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
+* [Harley Reid — Out of Time](https://www.last.fm/music/Harley+Reid/_/Out+of+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
