@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)
 * [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [Softwilly — Pokeballer](https://www.last.fm/music/Softwilly/_/Pokeballer)
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)<!-- LASTFM:END -->
+* [Harley Reid — Out of Time](https://www.last.fm/music/Harley+Reid/_/Out+of+Time)
+* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
