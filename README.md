@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
 * [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
 * [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
 * [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [lentra — sweetheart](https://www.last.fm/music/lentra/_/sweetheart)
-* [Rhodamine — House of the Addict](https://www.last.fm/music/Rhodamine/_/House+of+the+Addict)<!-- LASTFM:END -->
+* [lentra — sweetheart](https://www.last.fm/music/lentra/_/sweetheart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
