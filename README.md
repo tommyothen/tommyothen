@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
 * [iamnotshane — What A Perfect Day For Crying](https://www.last.fm/music/iamnotshane/_/What+A+Perfect+Day+For+Crying)
 * [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
-* [Rude-α — Paradise](https://www.last.fm/music/Rude-%CE%B1/_/Paradise)
-* [Pure Gem — moe shoppu lovu tastu is tha weh](https://www.last.fm/music/Pure+Gem/_/moe+shoppu+lovu+tastu+is+tha+weh)
-* [Charli XCX — Unlock it &lpar;Lock It&rpar; - feat. Kim Petras and Jay Park](https://www.last.fm/music/Charli+XCX/_/Unlock+it+&lpar;Lock+It&rpar;+-+feat.+Kim+Petras+and+Jay+Park)<!-- LASTFM:END -->
+* [Rude-α — Paradise](https://www.last.fm/music/Rude-%CE%B1/_/Paradise)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
