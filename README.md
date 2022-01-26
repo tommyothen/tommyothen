@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rhodamine — House of the Addict](https://www.last.fm/music/Rhodamine/_/House+of+the+Addict)
+* [Booshi — Gucci Gucci Louis Louis](https://www.last.fm/music/Booshi/_/Gucci+Gucci+Louis+Louis)
 * [Onlyfriend — get rekt](https://www.last.fm/music/Onlyfriend/_/get+rekt)
 * [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [iamnotshane — What A Perfect Day For Crying](https://www.last.fm/music/iamnotshane/_/What+A+Perfect+Day+For+Crying)
-* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)<!-- LASTFM:END -->
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
