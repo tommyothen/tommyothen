@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)
 * [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [Harley Reid — Out of Time](https://www.last.fm/music/Harley+Reid/_/Out+of+Time)<!-- LASTFM:END -->
+* [Harley Reid — Out of Time](https://www.last.fm/music/Harley+Reid/_/Out+of+Time)
+* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
