@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charli XCX — Unlock it &lpar;Lock It&rpar; - feat. Kim Petras and Jay Park](https://www.last.fm/music/Charli+XCX/_/Unlock+it+&lpar;Lock+It&rpar;+-+feat.+Kim+Petras+and+Jay+Park)
+* [Tommy heavenly6 — PAPERMOON](https://www.last.fm/music/Tommy+heavenly6/_/PAPERMOON)
+* [Rebecca Black — Worth It for the Feeling](https://www.last.fm/music/Rebecca+Black/_/Worth+It+for+the+Feeling)
 * [stxlkin — so bitter](https://www.last.fm/music/stxlkin/_/so+bitter)
-* [Slater — Spies Can&#39;t Get Caught](https://www.last.fm/music/Slater/_/Spies+Can%27t+Get+Caught)
-* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)
-* [GIRIBOY — DIE DIE &lpar;Feat. CHOILB&rpar; &lpar;STUDY GROUP X GIRIBOY&rpar;](https://www.last.fm/music/GIRIBOY/_/DIE+DIE+&lpar;Feat.+CHOILB&rpar;+&lpar;STUDY+GROUP+X+GIRIBOY&rpar;)
-* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)<!-- LASTFM:END -->
+* [Slater — Spies Can&#39;t Get Caught](https://www.last.fm/music/Slater/_/Spies+Can%27t+Get+Caught)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
