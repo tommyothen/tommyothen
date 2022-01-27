@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
+* [girl in red — Serotonin](https://www.last.fm/music/girl+in+red/_/Serotonin)
 * [YUNG BAE — Woman On The Moon &lpar;feat. UPSAHL&rpar;](https://www.last.fm/music/YUNG+BAE/_/Woman+On+The+Moon+&lpar;feat.+UPSAHL&rpar;)
 * [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
-* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)<!-- LASTFM:END -->
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
