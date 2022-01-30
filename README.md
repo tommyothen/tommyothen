@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blackway — What&#39;s Up Danger &lpar;with Black Caviar&rpar;](https://www.last.fm/music/Blackway/_/What%27s+Up+Danger+&lpar;with+Black+Caviar&rpar;)
+* [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)
 * [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
 * [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
