@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
 * [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
 * [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [Natsumiii — Last Cup of Coffee Cover](https://www.last.fm/music/Natsumiii/_/Last+Cup+of+Coffee+Cover)
-* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [Jeremy Zucker — better off](https://www.last.fm/music/Jeremy+Zucker/_/better+off)<!-- LASTFM:END -->
+* [Natsumiii — Last Cup of Coffee Cover](https://www.last.fm/music/Natsumiii/_/Last+Cup+of+Coffee+Cover)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
