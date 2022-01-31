@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yameii Online — Yameii Vs. The World](https://www.last.fm/music/Yameii+Online/_/Yameii+Vs.+The+World)
-* [Aldn — redeyes](https://www.last.fm/music/Aldn/_/redeyes)
-* [Cmten — NEVER MET! - 100 gecs r3mix &lpar;feat. Glitch Gum&rpar;](https://www.last.fm/music/Cmten/_/NEVER+MET!+-+100+gecs+r3mix+&lpar;feat.+Glitch+Gum&rpar;)
-* [ericdoa — strangers](https://www.last.fm/music/ericdoa/_/strangers)
-* [punkinloveee — so 0bscene](https://www.last.fm/music/punkinloveee/_/so+0bscene)<!-- LASTFM:END -->
+* [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)
+* [Yameii Online — Take Wrisks](https://www.last.fm/music/Yameii+Online/_/Take+Wrisks)
+* [Aldn — go away &lpar;feat. midwxst&rpar;](https://www.last.fm/music/Aldn/_/go+away+&lpar;feat.+midwxst&rpar;)
+* [punkinloveee — Vampire Diaries](https://www.last.fm/music/punkinloveee/_/Vampire+Diaries)
+* [ericdoa — sheaskedwhatmylifeislike](https://www.last.fm/music/ericdoa/_/sheaskedwhatmylifeislike)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
