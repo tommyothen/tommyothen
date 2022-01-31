@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)
-* [Yameii Online — Take Wrisks](https://www.last.fm/music/Yameii+Online/_/Take+Wrisks)
-* [Aldn — go away &lpar;feat. midwxst&rpar;](https://www.last.fm/music/Aldn/_/go+away+&lpar;feat.+midwxst&rpar;)
-* [punkinloveee — Vampire Diaries](https://www.last.fm/music/punkinloveee/_/Vampire+Diaries)
-* [ericdoa — sheaskedwhatmylifeislike](https://www.last.fm/music/ericdoa/_/sheaskedwhatmylifeislike)<!-- LASTFM:END -->
+* [Aldn — m box](https://www.last.fm/music/Aldn/_/m+box)
+* [p4rkr — friend of the enemy](https://www.last.fm/music/p4rkr/_/friend+of+the+enemy)
+* [Kurtains — axel ocelot](https://www.last.fm/music/Kurtains/_/axel+ocelot)
+* [Yameii Online — FLOOZIE](https://www.last.fm/music/Yameii+Online/_/FLOOZIE)
+* [punkinloveee — freak show](https://www.last.fm/music/punkinloveee/_/freak+show)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
