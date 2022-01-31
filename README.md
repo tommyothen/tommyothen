@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ericdoa — fantasize](https://www.last.fm/music/ericdoa/_/fantasize)
-* [Aldn — predictable](https://www.last.fm/music/Aldn/_/predictable)
-* [i9bonsai — funee monkee gif](https://www.last.fm/music/i9bonsai/_/funee+monkee+gif)
-* [Funeral — UNDER CONTROL](https://www.last.fm/music/Funeral/_/UNDER+CONTROL)
-* [Yameii Online — No error](https://www.last.fm/music/Yameii+Online/_/No+error)<!-- LASTFM:END -->
+* [8485 — 3cheers](https://www.last.fm/music/8485/_/3cheers)
+* [p4rkr — four am](https://www.last.fm/music/p4rkr/_/four+am)
+* [ericdoa — WhatUWorried4?](https://www.last.fm/music/ericdoa/_/WhatUWorried4%3F)
+* [oaf1 — ilove urr girl](https://www.last.fm/music/oaf1/_/ilove+urr+girl)
+* [Aldn — precious](https://www.last.fm/music/Aldn/_/precious)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
