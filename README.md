@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [8485 — 3cheers](https://www.last.fm/music/8485/_/3cheers)
-* [p4rkr — four am](https://www.last.fm/music/p4rkr/_/four+am)
-* [ericdoa — WhatUWorried4?](https://www.last.fm/music/ericdoa/_/WhatUWorried4%3F)
-* [oaf1 — ilove urr girl](https://www.last.fm/music/oaf1/_/ilove+urr+girl)
-* [Aldn — precious](https://www.last.fm/music/Aldn/_/precious)<!-- LASTFM:END -->
+* [Yameii Online — Yameii Vs. The World](https://www.last.fm/music/Yameii+Online/_/Yameii+Vs.+The+World)
+* [Aldn — redeyes](https://www.last.fm/music/Aldn/_/redeyes)
+* [Cmten — NEVER MET! - 100 gecs r3mix &lpar;feat. Glitch Gum&rpar;](https://www.last.fm/music/Cmten/_/NEVER+MET!+-+100+gecs+r3mix+&lpar;feat.+Glitch+Gum&rpar;)
+* [ericdoa — strangers](https://www.last.fm/music/ericdoa/_/strangers)
+* [punkinloveee — so 0bscene](https://www.last.fm/music/punkinloveee/_/so+0bscene)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
