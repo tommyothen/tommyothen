@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Aldn — m box](https://www.last.fm/music/Aldn/_/m+box)
-* [p4rkr — friend of the enemy](https://www.last.fm/music/p4rkr/_/friend+of+the+enemy)
-* [Kurtains — axel ocelot](https://www.last.fm/music/Kurtains/_/axel+ocelot)
-* [Yameii Online — FLOOZIE](https://www.last.fm/music/Yameii+Online/_/FLOOZIE)
-* [punkinloveee — freak show](https://www.last.fm/music/punkinloveee/_/freak+show)<!-- LASTFM:END -->
+* [ericdoa — fantasize](https://www.last.fm/music/ericdoa/_/fantasize)
+* [Aldn — predictable](https://www.last.fm/music/Aldn/_/predictable)
+* [i9bonsai — funee monkee gif](https://www.last.fm/music/i9bonsai/_/funee+monkee+gif)
+* [Funeral — UNDER CONTROL](https://www.last.fm/music/Funeral/_/UNDER+CONTROL)
+* [Yameii Online — No error](https://www.last.fm/music/Yameii+Online/_/No+error)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
