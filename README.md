@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Aldn — tellmewhatuwant](https://www.last.fm/music/Aldn/_/tellmewhatuwant)
-* [SEBii — 4MOODss](https://www.last.fm/music/SEBii/_/4MOODss)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
+* [Yameii Online — Yameii Vs. The World](https://www.last.fm/music/Yameii+Online/_/Yameii+Vs.+The+World)
+* [Aldn — redeyes](https://www.last.fm/music/Aldn/_/redeyes)
+* [Cmten — NEVER MET! - 100 gecs r3mix &lpar;feat. Glitch Gum&rpar;](https://www.last.fm/music/Cmten/_/NEVER+MET!+-+100+gecs+r3mix+&lpar;feat.+Glitch+Gum&rpar;)
+* [ericdoa — strangers](https://www.last.fm/music/ericdoa/_/strangers)
+* [punkinloveee — so 0bscene](https://www.last.fm/music/punkinloveee/_/so+0bscene)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
