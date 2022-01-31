@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DECO*27 — Ghost Rule](https://www.last.fm/music/DECO*27/_/Ghost+Rule)
 * [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)
 * [Yameii Online — Take Wrisks](https://www.last.fm/music/Yameii+Online/_/Take+Wrisks)
 * [Aldn — go away &lpar;feat. midwxst&rpar;](https://www.last.fm/music/Aldn/_/go+away+&lpar;feat.+midwxst&rpar;)
-* [punkinloveee — Vampire Diaries](https://www.last.fm/music/punkinloveee/_/Vampire+Diaries)
-* [ericdoa — sheaskedwhatmylifeislike](https://www.last.fm/music/ericdoa/_/sheaskedwhatmylifeislike)<!-- LASTFM:END -->
+* [punkinloveee — Vampire Diaries](https://www.last.fm/music/punkinloveee/_/Vampire+Diaries)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
