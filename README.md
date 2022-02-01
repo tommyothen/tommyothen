@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — SIGNAL - Japanese ver.](https://www.last.fm/music/TWICE/_/SIGNAL+-+Japanese+ver.)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Chino — Pashmina - Long Version](https://www.last.fm/music/Chino/_/Pashmina+-+Long+Version)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
