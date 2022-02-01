@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
+* [Pouya — life? ... lol](https://www.last.fm/music/Pouya/_/life%3F+...+lol)
 * [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
 * [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
-* [Jackson Wang — TITANIC &lpar;feat. Rich Brian&rpar;](https://www.last.fm/music/Jackson+Wang/_/TITANIC+&lpar;feat.+Rich+Brian&rpar;)
-* [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)<!-- LASTFM:END -->
+* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
