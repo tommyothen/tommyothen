@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
+* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
 * [Jackson Wang — TITANIC &lpar;feat. Rich Brian&rpar;](https://www.last.fm/music/Jackson+Wang/_/TITANIC+&lpar;feat.+Rich+Brian&rpar;)
-* [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)
-* [Ghost Data — CELESTIAL BODIES](https://www.last.fm/music/Ghost+Data/_/CELESTIAL+BODIES)
-* [Cro — Victoria&#39;s Secret](https://www.last.fm/music/Cro/_/Victoria%27s+Secret)
-* [MAX — Blueberry Eyes &lpar;feat. SUGA of BTS&rpar;](https://www.last.fm/music/MAX/_/Blueberry+Eyes+&lpar;feat.+SUGA+of+BTS&rpar;)<!-- LASTFM:END -->
+* [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
