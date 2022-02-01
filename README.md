@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
+* [Rich Brian — Amen](https://www.last.fm/music/Rich+Brian/_/Amen)
+* [grandson — Best Friends](https://www.last.fm/music/grandson/_/Best+Friends)
+* [Antoha MC — Сладкий чай - Aslamin Remix](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B9+%D1%87%D0%B0%D0%B9+-+Aslamin+Remix)
 * [Two Door Cinema Club — Something Good Can Work](https://www.last.fm/music/Two+Door+Cinema+Club/_/Something+Good+Can+Work)
-* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [Allie X — Susie Save Your Love](https://www.last.fm/music/Allie+X/_/Susie+Save+Your+Love)
-* [FEDUK — Утро раннее](https://www.last.fm/music/FEDUK/_/%D0%A3%D1%82%D1%80%D0%BE+%D1%80%D0%B0%D0%BD%D0%BD%D0%B5%D0%B5)<!-- LASTFM:END -->
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
