@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, The Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
 * [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
 * [Pouya — life? ... lol](https://www.last.fm/music/Pouya/_/life%3F+...+lol)
-* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
 * [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
