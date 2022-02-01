@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
 * [Atlas — BROKEN BEARINGS](https://www.last.fm/music/Atlas/_/BROKEN+BEARINGS)
 * [black coast — Trndsttr &lpar;feat. M. Maggie&rpar; - Lucian Remix](https://www.last.fm/music/black+coast/_/Trndsttr+&lpar;feat.+M.+Maggie&rpar;+-+Lucian+Remix)
-* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)
-* [Shinigami — heart attack](https://www.last.fm/music/Shinigami/_/heart+attack)
-* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)<!-- LASTFM:END -->
+* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
