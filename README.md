@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chino — Pashmina - Long Version](https://www.last.fm/music/Chino/_/Pashmina+-+Long+Version)
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
 * [Rich Brian — Amen](https://www.last.fm/music/Rich+Brian/_/Amen)
 * [grandson — Best Friends](https://www.last.fm/music/grandson/_/Best+Friends)
-* [Antoha MC — Сладкий чай - Aslamin Remix](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B9+%D1%87%D0%B0%D0%B9+-+Aslamin+Remix)
-* [Two Door Cinema Club — Something Good Can Work](https://www.last.fm/music/Two+Door+Cinema+Club/_/Something+Good+Can+Work)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)<!-- LASTFM:END -->
+* [Antoha MC — Сладкий чай - Aslamin Remix](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B9+%D1%87%D0%B0%D0%B9+-+Aslamin+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
