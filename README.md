@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
-* [Cal Scruby — Not That Deep](https://www.last.fm/music/Cal+Scruby/_/Not+That+Deep)
-* [FEDUK — Fresh!](https://www.last.fm/music/FEDUK/_/Fresh!)
-* [AcesToAces — memory lane](https://www.last.fm/music/AcesToAces/_/memory+lane)
-* [Moe Shop — Superstar](https://www.last.fm/music/Moe+Shop/_/Superstar)<!-- LASTFM:END -->
+* [Joji — Worldstar Money &lpar;Interlude&rpar;](https://www.last.fm/music/Joji/_/Worldstar+Money+&lpar;Interlude&rpar;)
+* [Tyler, The Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)
+* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
+* [Inzo — Visionaries &lpar;feat. Novet&rpar;](https://www.last.fm/music/Inzo/_/Visionaries+&lpar;feat.+Novet&rpar;)
+* [Fabian Mazur — Arena](https://www.last.fm/music/Fabian+Mazur/_/Arena)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
