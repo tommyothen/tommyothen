@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — Daisy 2.0 &lpar;feat. Hatsune Miku&rpar;](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+&lpar;feat.+Hatsune+Miku&rpar;)
-* [XXXTentacion — Floor 555](https://www.last.fm/music/XXXTentacion/_/Floor+555)
-* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
-* [love-sadKiD — Cash](https://www.last.fm/music/love-sadKiD/_/Cash)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
+* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
+* [Cal Scruby — Not That Deep](https://www.last.fm/music/Cal+Scruby/_/Not+That+Deep)
+* [FEDUK — Fresh!](https://www.last.fm/music/FEDUK/_/Fresh!)
+* [AcesToAces — memory lane](https://www.last.fm/music/AcesToAces/_/memory+lane)
+* [Moe Shop — Superstar](https://www.last.fm/music/Moe+Shop/_/Superstar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
