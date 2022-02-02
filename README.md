@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Animal Sun — Girl in Blue](https://www.last.fm/music/Animal+Sun/_/Girl+in+Blue)
+* [Dolphin Smiling — Vacay to Bonetown &lpar;From &quot;Helluva Boss&quot;&rpar;](https://www.last.fm/music/Dolphin+Smiling/_/Vacay+to+Bonetown+&lpar;From+%22Helluva+Boss%22&rpar;)
 * [MIMIDEATH — if god didnt want us to snort worms he wouldn&#39;t have made them cylindrical!](https://www.last.fm/music/MIMIDEATH/_/if+god+didnt+want+us+to+snort+worms+he+wouldn%27t+have+made+them+cylindrical!)
 * [Julianna Joy — Orange](https://www.last.fm/music/Julianna+Joy/_/Orange)
-* [Weathers — C&#39;est La Vie](https://www.last.fm/music/Weathers/_/C%27est+La+Vie)
-* [RENforshort — fall apart &lpar;with glaive&rpar;](https://www.last.fm/music/RENforshort/_/fall+apart+&lpar;with+glaive&rpar;)
-* [Brye — LEMONS &lpar;with Cavetown&rpar;](https://www.last.fm/music/Brye/_/LEMONS+&lpar;with+Cavetown&rpar;)<!-- LASTFM:END -->
+* [Weathers — C&#39;est La Vie](https://www.last.fm/music/Weathers/_/C%27est+La+Vie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
