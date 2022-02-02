@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Call Me Karizma — Rebels](https://www.last.fm/music/Call+Me+Karizma/_/Rebels)
-* [DAOKO — 打上花火](https://www.last.fm/music/DAOKO/_/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB)
-* [luvbird — Dawn Amble](https://www.last.fm/music/luvbird/_/Dawn+Amble)
-* [Kanye West — Lift Yourself](https://www.last.fm/music/Kanye+West/_/Lift+Yourself)
-* [Joji — Worldstar Money &lpar;Interlude&rpar;](https://www.last.fm/music/Joji/_/Worldstar+Money+&lpar;Interlude&rpar;)<!-- LASTFM:END -->
+* [Shye — 999](https://www.last.fm/music/Shye/_/999)
+* [MC Virgins — Bumpin&#39;](https://www.last.fm/music/MC+Virgins/_/Bumpin%27)
+* [ufo ufo — Strange Clouds](https://www.last.fm/music/ufo+ufo/_/Strange+Clouds)
+* [Waterparks — Snow Globe](https://www.last.fm/music/Waterparks/_/Snow+Globe)
+* [Call Me Karizma — Rebels](https://www.last.fm/music/Call+Me+Karizma/_/Rebels)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
