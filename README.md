@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [RENforshort — fall apart &lpar;with glaive&rpar;](https://www.last.fm/music/RENforshort/_/fall+apart+&lpar;with+glaive&rpar;)
+* [Brye — LEMONS &lpar;with Cavetown&rpar;](https://www.last.fm/music/Brye/_/LEMONS+&lpar;with+Cavetown&rpar;)
 * [Shye — 999](https://www.last.fm/music/Shye/_/999)
 * [MC Virgins — Bumpin&#39;](https://www.last.fm/music/MC+Virgins/_/Bumpin%27)
-* [ufo ufo — Strange Clouds](https://www.last.fm/music/ufo+ufo/_/Strange+Clouds)
-* [Waterparks — Snow Globe](https://www.last.fm/music/Waterparks/_/Snow+Globe)
-* [小野道ono — Best One](https://www.last.fm/music/%E5%B0%8F%E9%87%8E%E9%81%93ono/_/Best+One)<!-- LASTFM:END -->
+* [ufo ufo — Strange Clouds](https://www.last.fm/music/ufo+ufo/_/Strange+Clouds)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
