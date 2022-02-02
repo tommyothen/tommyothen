@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Shye — 999](https://www.last.fm/music/Shye/_/999)
-* [MC Virgins — Bumpin&#39;](https://www.last.fm/music/MC+Virgins/_/Bumpin%27)
-* [ufo ufo — Strange Clouds](https://www.last.fm/music/ufo+ufo/_/Strange+Clouds)
-* [Waterparks — Snow Globe](https://www.last.fm/music/Waterparks/_/Snow+Globe)
-* [Call Me Karizma — Rebels](https://www.last.fm/music/Call+Me+Karizma/_/Rebels)<!-- LASTFM:END -->
+* [MIMIDEATH — if god didnt want us to snort worms he wouldn&#39;t have made them cylindrical!](https://www.last.fm/music/MIMIDEATH/_/if+god+didnt+want+us+to+snort+worms+he+wouldn%27t+have+made+them+cylindrical!)
+* [Julianna Joy — Orange](https://www.last.fm/music/Julianna+Joy/_/Orange)
+* [Weathers — C&#39;est La Vie](https://www.last.fm/music/Weathers/_/C%27est+La+Vie)
+* [RENforshort — fall apart &lpar;with glaive&rpar;](https://www.last.fm/music/RENforshort/_/fall+apart+&lpar;with+glaive&rpar;)
+* [Brye — LEMONS &lpar;with Cavetown&rpar;](https://www.last.fm/music/Brye/_/LEMONS+&lpar;with+Cavetown&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
