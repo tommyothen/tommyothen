@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Torr — acetone](https://www.last.fm/music/Torr/_/acetone)
-* [Danny Gonzalez — My Dad Is Rich](https://www.last.fm/music/Danny+Gonzalez/_/My+Dad+Is+Rich)
-* [belak — Impatient](https://www.last.fm/music/belak/_/Impatient)
-* [llusion — STAY IN &lpar;feat. LoveLeo&rpar;](https://www.last.fm/music/llusion/_/STAY+IN+&lpar;feat.+LoveLeo&rpar;)
-* [Sickick — Mind Games](https://www.last.fm/music/Sickick/_/Mind+Games)<!-- LASTFM:END -->
+* [Kazuo — JAP GOD](https://www.last.fm/music/Kazuo/_/JAP+GOD)
+* [Derivakat — REVIVED](https://www.last.fm/music/Derivakat/_/REVIVED)
+* [Plastic Dagger — my pointy teeth](https://www.last.fm/music/Plastic+Dagger/_/my+pointy+teeth)
+* [Siames — Always The Same](https://www.last.fm/music/Siames/_/Always+The+Same)
+* [Torr — acetone](https://www.last.fm/music/Torr/_/acetone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
