@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sickick — Mind Games](https://www.last.fm/music/Sickick/_/Mind+Games)
-* [Jagwar Twin — Happy Face](https://www.last.fm/music/Jagwar+Twin/_/Happy+Face)
-* [Animal Sun — Girl in Blue](https://www.last.fm/music/Animal+Sun/_/Girl+in+Blue)
-* [Dolphin Smiling — Vacay to Bonetown &lpar;From &quot;Helluva Boss&quot;&rpar;](https://www.last.fm/music/Dolphin+Smiling/_/Vacay+to+Bonetown+&lpar;From+%22Helluva+Boss%22&rpar;)
-* [MIMIDEATH — if god didnt want us to snort worms he wouldn&#39;t have made them cylindrical!](https://www.last.fm/music/MIMIDEATH/_/if+god+didnt+want+us+to+snort+worms+he+wouldn%27t+have+made+them+cylindrical!)<!-- LASTFM:END -->
+* [Torr — acetone](https://www.last.fm/music/Torr/_/acetone)
+* [Danny Gonzalez — My Dad Is Rich](https://www.last.fm/music/Danny+Gonzalez/_/My+Dad+Is+Rich)
+* [belak — Impatient](https://www.last.fm/music/belak/_/Impatient)
+* [llusion — STAY IN &lpar;feat. LoveLeo&rpar;](https://www.last.fm/music/llusion/_/STAY+IN+&lpar;feat.+LoveLeo&rpar;)
+* [Sickick — Mind Games](https://www.last.fm/music/Sickick/_/Mind+Games)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
