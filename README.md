@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [小野道ono — Best One](https://www.last.fm/music/%E5%B0%8F%E9%87%8E%E9%81%93ono/_/Best+One)
+* [Nightlife — lonely](https://www.last.fm/music/Nightlife/_/lonely)
 * [Baby Snooks — Dead Girl](https://www.last.fm/music/Baby+Snooks/_/Dead+Girl)
 * [Funeral — UNDER CONTROL](https://www.last.fm/music/Funeral/_/UNDER+CONTROL)
-* [ur pretty — Keep Riding Me](https://www.last.fm/music/ur+pretty/_/Keep+Riding+Me)
-* [Kazuo — JAP GOD](https://www.last.fm/music/Kazuo/_/JAP+GOD)
-* [Derivakat — REVIVED](https://www.last.fm/music/Derivakat/_/REVIVED)<!-- LASTFM:END -->
+* [ur pretty — Keep Riding Me](https://www.last.fm/music/ur+pretty/_/Keep+Riding+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
