@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
 * [Sickick — Mind Games](https://www.last.fm/music/Sickick/_/Mind+Games)
 * [Jagwar Twin — Happy Face](https://www.last.fm/music/Jagwar+Twin/_/Happy+Face)
 * [Wrenn — Psychosexual](https://www.last.fm/music/Wrenn/_/Psychosexual)
-* [Animal Sun — Girl in Blue](https://www.last.fm/music/Animal+Sun/_/Girl+in+Blue)
-* [Dolphin Smiling — Vacay to Bonetown &lpar;From &quot;Helluva Boss&quot;&rpar;](https://www.last.fm/music/Dolphin+Smiling/_/Vacay+to+Bonetown+&lpar;From+%22Helluva+Boss%22&rpar;)<!-- LASTFM:END -->
+* [Animal Sun — Girl in Blue](https://www.last.fm/music/Animal+Sun/_/Girl+in+Blue)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
