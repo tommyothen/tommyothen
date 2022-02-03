@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kazuo — RED BLACK](https://www.last.fm/music/Kazuo/_/RED+BLACK)
+* [Paper Idol — I&#39;m Fantastic](https://www.last.fm/music/Paper+Idol/_/I%27m+Fantastic)
+* [Cemetery Drive — Basilisk](https://www.last.fm/music/Cemetery+Drive/_/Basilisk)
 * [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)
-* [ceo@business.net — blah blah blah blah](https://www.last.fm/music/ceo@business.net/_/blah+blah+blah+blah)
-* [Charlie Curtis-Beard — Sunlight, Quiet, Flowers](https://www.last.fm/music/Charlie+Curtis-Beard/_/Sunlight,+Quiet,+Flowers)
-* [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)
-* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)<!-- LASTFM:END -->
+* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
