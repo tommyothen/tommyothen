@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)
+* [ceo@business.net — blah blah blah blah](https://www.last.fm/music/ceo@business.net/_/blah+blah+blah+blah)
+* [Charlie Curtis-Beard — Sunlight, Quiet, Flowers](https://www.last.fm/music/Charlie+Curtis-Beard/_/Sunlight,+Quiet,+Flowers)
 * [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)
-* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
-* [GrafiC — Vagabond](https://www.last.fm/music/GrafiC/_/Vagabond)
-* [MANWOLVES — Reaper](https://www.last.fm/music/MANWOLVES/_/Reaper)
-* [DBangz — Medusa](https://www.last.fm/music/DBangz/_/Medusa)<!-- LASTFM:END -->
+* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
