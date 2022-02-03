@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DBangz — Medusa](https://www.last.fm/music/DBangz/_/Medusa)
+* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
 * [Follies &amp; Vices — Red Wine](https://www.last.fm/music/Follies+&amp;+Vices/_/Red+Wine)
 * [Kazuo — MOM SAID NO](https://www.last.fm/music/Kazuo/_/MOM+SAID+NO)
-* [Cemetery Drive — 02 MURCI](https://www.last.fm/music/Cemetery+Drive/_/02+MURCI)
-* [Abhi The Nomad — Me No Evil](https://www.last.fm/music/Abhi+The+Nomad/_/Me+No+Evil)
-* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)<!-- LASTFM:END -->
+* [Cemetery Drive — 02 MURCI](https://www.last.fm/music/Cemetery+Drive/_/02+MURCI)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
