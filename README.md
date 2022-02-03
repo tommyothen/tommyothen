@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LORD$OFDOGTOWN — Comma$](https://www.last.fm/music/LORD$OFDOGTOWN/_/Comma$)
+* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)
+* [meltycanon — brittle &lpar;wake up&rpar;](https://www.last.fm/music/meltycanon/_/brittle+&lpar;wake+up&rpar;)
 * [Cemetery Drive — Explorer](https://www.last.fm/music/Cemetery+Drive/_/Explorer)
-* [Cemetery Drive — HEARTSTICKY!](https://www.last.fm/music/Cemetery+Drive/_/HEARTSTICKY!)
-* [Tony22 — Bop It!](https://www.last.fm/music/Tony22/_/Bop+It!)
-* [MC Virgins — Bumpin&#39;](https://www.last.fm/music/MC+Virgins/_/Bumpin%27)
-* [VHS — Cuckoo](https://www.last.fm/music/VHS/_/Cuckoo)<!-- LASTFM:END -->
+* [Cemetery Drive — HEARTSTICKY!](https://www.last.fm/music/Cemetery+Drive/_/HEARTSTICKY!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
