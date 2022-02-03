@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Abhi The Nomad — Bag](https://www.last.fm/music/Abhi+The+Nomad/_/Bag)
+* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
 * [LORD$OFDOGTOWN — Comma$](https://www.last.fm/music/LORD$OFDOGTOWN/_/Comma$)
 * [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)
-* [meltycanon — brittle &lpar;wake up&rpar;](https://www.last.fm/music/meltycanon/_/brittle+&lpar;wake+up&rpar;)
-* [Cemetery Drive — Explorer](https://www.last.fm/music/Cemetery+Drive/_/Explorer)
-* [Cemetery Drive — HEARTSTICKY!](https://www.last.fm/music/Cemetery+Drive/_/HEARTSTICKY!)<!-- LASTFM:END -->
+* [meltycanon — brittle &lpar;wake up&rpar;](https://www.last.fm/music/meltycanon/_/brittle+&lpar;wake+up&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
