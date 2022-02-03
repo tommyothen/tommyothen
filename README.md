@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Waterparks — Snow Globe](https://www.last.fm/music/Waterparks/_/Snow+Globe)
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
+* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
 * [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [Sickick — Mind Games](https://www.last.fm/music/Sickick/_/Mind+Games)
-* [Jagwar Twin — Happy Face](https://www.last.fm/music/Jagwar+Twin/_/Happy+Face)
-* [Wrenn — Psychosexual](https://www.last.fm/music/Wrenn/_/Psychosexual)
-* [Animal Sun — Girl in Blue](https://www.last.fm/music/Animal+Sun/_/Girl+in+Blue)<!-- LASTFM:END -->
+* [Sickick — Mind Games](https://www.last.fm/music/Sickick/_/Mind+Games)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
