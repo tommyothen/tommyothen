@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
+* [trolleycat — THE HOME OF 47](https://www.last.fm/music/trolleycat/_/THE+HOME+OF+47)
+* [tobi lou — I Was Sad Last Night I&#39;m OK Now](https://www.last.fm/music/tobi+lou/_/I+Was+Sad+Last+Night+I%27m+OK+Now)
 * [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
-* [Kazuo — JAP GOD](https://www.last.fm/music/Kazuo/_/JAP+GOD)
-* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
-* [Waterparks — Snow Globe](https://www.last.fm/music/Waterparks/_/Snow+Globe)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
+* [Kazuo — JAP GOD](https://www.last.fm/music/Kazuo/_/JAP+GOD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
