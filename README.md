@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
+* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
+* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
 * [Abhi The Nomad — Bag](https://www.last.fm/music/Abhi+The+Nomad/_/Bag)
-* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
-* [LORD$OFDOGTOWN — Comma$](https://www.last.fm/music/LORD$OFDOGTOWN/_/Comma$)
-* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)
-* [meltycanon — brittle &lpar;wake up&rpar;](https://www.last.fm/music/meltycanon/_/brittle+&lpar;wake+up&rpar;)<!-- LASTFM:END -->
+* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
