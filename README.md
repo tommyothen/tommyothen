@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kazuo — RED BLACK](https://www.last.fm/music/Kazuo/_/RED+BLACK)
-* [Paper Idol — I&#39;m Fantastic](https://www.last.fm/music/Paper+Idol/_/I%27m+Fantastic)
-* [Cemetery Drive — Basilisk](https://www.last.fm/music/Cemetery+Drive/_/Basilisk)
-* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)
-* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)<!-- LASTFM:END -->
+* [teeawgo — Hijack](https://www.last.fm/music/teeawgo/_/Hijack)
+* [Scuare — These Words &lpar;Again&rpar;](https://www.last.fm/music/Scuare/_/These+Words+&lpar;Again&rpar;)
+* [Again&amp;again — hours](https://www.last.fm/music/Again&amp;again/_/hours)
+* [ceo@business.net — blah blah blah](https://www.last.fm/music/ceo@business.net/_/blah+blah+blah)
+* [Kazuo — RED BLACK](https://www.last.fm/music/Kazuo/_/RED+BLACK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
