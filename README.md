@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MC Virgins — Bumpin&#39;](https://www.last.fm/music/MC+Virgins/_/Bumpin%27)
+* [VHS — Cuckoo](https://www.last.fm/music/VHS/_/Cuckoo)
 * [Gold Revere — Goldfish Crackers](https://www.last.fm/music/Gold+Revere/_/Goldfish+Crackers)
 * [Cancel Culture — LIES](https://www.last.fm/music/Cancel+Culture/_/LIES)
-* [VHS — Carne](https://www.last.fm/music/VHS/_/Carne)
-* [Paper Idol — Feel Real Pretty](https://www.last.fm/music/Paper+Idol/_/Feel+Real+Pretty)
-* [teeawgo — Hijack](https://www.last.fm/music/teeawgo/_/Hijack)<!-- LASTFM:END -->
+* [VHS — Carne](https://www.last.fm/music/VHS/_/Carne)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
