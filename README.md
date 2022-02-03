@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)
+* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
 * [GrafiC — Vagabond](https://www.last.fm/music/GrafiC/_/Vagabond)
 * [MANWOLVES — Reaper](https://www.last.fm/music/MANWOLVES/_/Reaper)
-* [DBangz — Medusa](https://www.last.fm/music/DBangz/_/Medusa)
-* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
-* [Follies &amp; Vices — Red Wine](https://www.last.fm/music/Follies+&amp;+Vices/_/Red+Wine)<!-- LASTFM:END -->
+* [DBangz — Medusa](https://www.last.fm/music/DBangz/_/Medusa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
