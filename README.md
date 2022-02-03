@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cemetery Drive — Explorer](https://www.last.fm/music/Cemetery+Drive/_/Explorer)
+* [Cemetery Drive — HEARTSTICKY!](https://www.last.fm/music/Cemetery+Drive/_/HEARTSTICKY!)
+* [Tony22 — Bop It!](https://www.last.fm/music/Tony22/_/Bop+It!)
 * [MC Virgins — Bumpin&#39;](https://www.last.fm/music/MC+Virgins/_/Bumpin%27)
-* [VHS — Cuckoo](https://www.last.fm/music/VHS/_/Cuckoo)
-* [Gold Revere — Goldfish Crackers](https://www.last.fm/music/Gold+Revere/_/Goldfish+Crackers)
-* [Cancel Culture — LIES](https://www.last.fm/music/Cancel+Culture/_/LIES)
-* [VHS — Carne](https://www.last.fm/music/VHS/_/Carne)<!-- LASTFM:END -->
+* [VHS — Cuckoo](https://www.last.fm/music/VHS/_/Cuckoo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
