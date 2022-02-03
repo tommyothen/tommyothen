@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [RealLiveAnimals — Sucks](https://www.last.fm/music/RealLiveAnimals/_/Sucks)
+* [Akintoye — Overload](https://www.last.fm/music/Akintoye/_/Overload)
+* [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
 * [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)
-* [Boba Boyz — Thai Tea Trippin&#39;](https://www.last.fm/music/Boba+Boyz/_/Thai+Tea+Trippin%27)
-* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
-* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
-* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)<!-- LASTFM:END -->
+* [Boba Boyz — Thai Tea Trippin&#39;](https://www.last.fm/music/Boba+Boyz/_/Thai+Tea+Trippin%27)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
