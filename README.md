@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [VHS — Carne](https://www.last.fm/music/VHS/_/Carne)
+* [Paper Idol — Feel Real Pretty](https://www.last.fm/music/Paper+Idol/_/Feel+Real+Pretty)
 * [teeawgo — Hijack](https://www.last.fm/music/teeawgo/_/Hijack)
 * [Scuare — These Words &lpar;Again&rpar;](https://www.last.fm/music/Scuare/_/These+Words+&lpar;Again&rpar;)
-* [Again&amp;again — hours](https://www.last.fm/music/Again&amp;again/_/hours)
-* [ceo@business.net — blah blah blah](https://www.last.fm/music/ceo@business.net/_/blah+blah+blah)
-* [Kazuo — RED BLACK](https://www.last.fm/music/Kazuo/_/RED+BLACK)<!-- LASTFM:END -->
+* [Again&amp;again — hours](https://www.last.fm/music/Again&amp;again/_/hours)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
