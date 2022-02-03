@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GrafiC — Vagabond](https://www.last.fm/music/GrafiC/_/Vagabond)
+* [MANWOLVES — Reaper](https://www.last.fm/music/MANWOLVES/_/Reaper)
 * [DBangz — Medusa](https://www.last.fm/music/DBangz/_/Medusa)
 * [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
-* [Follies &amp; Vices — Red Wine](https://www.last.fm/music/Follies+&amp;+Vices/_/Red+Wine)
-* [Kazuo — MOM SAID NO](https://www.last.fm/music/Kazuo/_/MOM+SAID+NO)
-* [Cemetery Drive — 02 MURCI](https://www.last.fm/music/Cemetery+Drive/_/02+MURCI)<!-- LASTFM:END -->
+* [Follies &amp; Vices — Red Wine](https://www.last.fm/music/Follies+&amp;+Vices/_/Red+Wine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
