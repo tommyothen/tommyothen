@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
-* [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)
-* [Follies &amp; Vices — Red Wine](https://www.last.fm/music/Follies+&amp;+Vices/_/Red+Wine)
-* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
-* [Nelward — Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U)<!-- LASTFM:END -->
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
+* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
+* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
+* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
