@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [teeawgo — Courage, Power, Wisdom](https://www.last.fm/music/teeawgo/_/Courage,+Power,+Wisdom)
+* [teeawgo — Mirror Match](https://www.last.fm/music/teeawgo/_/Mirror+Match)
+* [teeawgo — I Stay Home](https://www.last.fm/music/teeawgo/_/I+Stay+Home)
 * [teeawgo — In the Palm of Her Hand](https://www.last.fm/music/teeawgo/_/In+the+Palm+of+Her+Hand)
-* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
-* [teeawgo — I Can Wait](https://www.last.fm/music/teeawgo/_/I+Can+Wait)
-* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
 * [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
