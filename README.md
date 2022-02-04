@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [サクラSakura-Lee — lay it on me](https://www.last.fm/music/%E3%82%B5%E3%82%AF%E3%83%A9Sakura-Lee/_/lay+it+on+me)
+* [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)
 * [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
 * [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
-* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)<!-- LASTFM:END -->
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
