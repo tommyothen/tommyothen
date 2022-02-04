@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
+* [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)
 * [Follies &amp; Vices — Red Wine](https://www.last.fm/music/Follies+&amp;+Vices/_/Red+Wine)
 * [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
-* [Nelward — Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U)
-* [RealLiveAnimals — Sucks](https://www.last.fm/music/RealLiveAnimals/_/Sucks)
-* [Akintoye — Overload](https://www.last.fm/music/Akintoye/_/Overload)<!-- LASTFM:END -->
+* [Nelward — Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
