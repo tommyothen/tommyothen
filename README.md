@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [teeawgo — Holy Cow!](https://www.last.fm/music/teeawgo/_/Holy+Cow!)
-* [teeawgo — Bombastic](https://www.last.fm/music/teeawgo/_/Bombastic)
-* [teeawgo — Courage, Power, Wisdom](https://www.last.fm/music/teeawgo/_/Courage,+Power,+Wisdom)
-* [teeawgo — Mirror Match](https://www.last.fm/music/teeawgo/_/Mirror+Match)
-* [teeawgo — I Stay Home](https://www.last.fm/music/teeawgo/_/I+Stay+Home)<!-- LASTFM:END -->
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
+* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
+* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
+* [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
+* [teeawgo — Counting My Blessings](https://www.last.fm/music/teeawgo/_/Counting+My+Blessings)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
