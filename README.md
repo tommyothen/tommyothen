@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
+* [Yung Gravy — Whippin](https://www.last.fm/music/Yung+Gravy/_/Whippin)
 * [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
 * [Wun Two — Again](https://www.last.fm/music/Wun+Two/_/Again)
-* [takayan — Just disappear](https://www.last.fm/music/takayan/_/Just+disappear)
-* [Tyler, The Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)
-* [Destiny Rogers — Euphoria](https://www.last.fm/music/Destiny+Rogers/_/Euphoria)<!-- LASTFM:END -->
+* [takayan — Just disappear](https://www.last.fm/music/takayan/_/Just+disappear)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
