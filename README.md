@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [Wun Two — Again](https://www.last.fm/music/Wun+Two/_/Again)
+* [takayan — Just disappear](https://www.last.fm/music/takayan/_/Just+disappear)
 * [Tyler, The Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)
-* [Destiny Rogers — Euphoria](https://www.last.fm/music/Destiny+Rogers/_/Euphoria)
-* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)
-* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
-* [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)<!-- LASTFM:END -->
+* [Destiny Rogers — Euphoria](https://www.last.fm/music/Destiny+Rogers/_/Euphoria)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
