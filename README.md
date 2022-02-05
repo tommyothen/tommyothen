@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mystery Skulls — Freaking Out](https://www.last.fm/music/Mystery+Skulls/_/Freaking+Out)
+* [Glass Beach — cold weather](https://www.last.fm/music/Glass+Beach/_/cold+weather)
 * [The Hoosiers — Killer](https://www.last.fm/music/The+Hoosiers/_/Killer)
 * [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
-* [Siames — Mr. Fear](https://www.last.fm/music/Siames/_/Mr.+Fear)
-* [Valiant Vermin — Sunday Best](https://www.last.fm/music/Valiant+Vermin/_/Sunday+Best)
-* [Early Eyes — Marigolds](https://www.last.fm/music/Early+Eyes/_/Marigolds)<!-- LASTFM:END -->
+* [Siames — Mr. Fear](https://www.last.fm/music/Siames/_/Mr.+Fear)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
