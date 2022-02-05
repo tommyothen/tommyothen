@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Gnaw, The Rapper — Spark](https://www.last.fm/music/Gnaw,+The+Rapper/_/Spark)
-* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
-* [City Girl — PACK IT UP BOY](https://www.last.fm/music/City+Girl/_/PACK+IT+UP+BOY)
-* [Shawn Wasabi — Squeez®](https://www.last.fm/music/Shawn+Wasabi/_/Squeez%C2%AE)
-* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)<!-- LASTFM:END -->
+* [teeawgo — Hijack](https://www.last.fm/music/teeawgo/_/Hijack)
+* [JustWarrenPeace — Blue &lpar;Interlude&rpar;](https://www.last.fm/music/JustWarrenPeace/_/Blue+&lpar;Interlude&rpar;)
+* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
+* [Payday — Super Thicc](https://www.last.fm/music/Payday/_/Super+Thicc)
+* [Gnaw, The Rapper — Spark](https://www.last.fm/music/Gnaw,+The+Rapper/_/Spark)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
