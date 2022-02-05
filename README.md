@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)
+* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)
 * [cLoud mac — Eat My Soul](https://www.last.fm/music/cLoud+mac/_/Eat+My+Soul)
 * [Tony22 — Bop It!](https://www.last.fm/music/Tony22/_/Bop+It!)
-* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
-* [Lé Real — Final Round](https://www.last.fm/music/L%C3%A9+Real/_/Final+Round)
-* [Vincent Augustus — Bob Ross](https://www.last.fm/music/Vincent+Augustus/_/Bob+Ross)<!-- LASTFM:END -->
+* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
