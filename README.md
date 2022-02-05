@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)
+* [Charlie Curtis-Beard — Anime &amp; Chardonnay](https://www.last.fm/music/Charlie+Curtis-Beard/_/Anime+&amp;+Chardonnay)
+* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
 * [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)
-* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)
-* [cLoud mac — Eat My Soul](https://www.last.fm/music/cLoud+mac/_/Eat+My+Soul)
-* [Tony22 — Bop It!](https://www.last.fm/music/Tony22/_/Bop+It!)
-* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)<!-- LASTFM:END -->
+* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
