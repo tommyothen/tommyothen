@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Anamanaguchi — On My Own](https://www.last.fm/music/Anamanaguchi/_/On+My+Own)
+* [Jack the Stripper — PHANTASM](https://www.last.fm/music/Jack+the+Stripper/_/PHANTASM)
 * [Studio Killers — Dirty Car](https://www.last.fm/music/Studio+Killers/_/Dirty+Car)
 * [Omniboi — Venomade](https://www.last.fm/music/Omniboi/_/Venomade)
-* [Anamanaguchi — Hopes And Dreams](https://www.last.fm/music/Anamanaguchi/_/Hopes+And+Dreams)
-* [ABSRDST — Devil Boyz](https://www.last.fm/music/ABSRDST/_/Devil+Boyz)
-* [ABSRDST — Imaginary Friend](https://www.last.fm/music/ABSRDST/_/Imaginary+Friend)<!-- LASTFM:END -->
+* [Anamanaguchi — Hopes And Dreams](https://www.last.fm/music/Anamanaguchi/_/Hopes+And+Dreams)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
