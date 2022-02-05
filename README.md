@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Follies &amp; Vices — Red Wine](https://www.last.fm/music/Follies+&amp;+Vices/_/Red+Wine)
+* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
+* [Ghost Data — CELESTIAL BODIES](https://www.last.fm/music/Ghost+Data/_/CELESTIAL+BODIES)
 * [Chii — TRAPPARONI](https://www.last.fm/music/Chii/_/TRAPPARONI)
-* [half•alive — Summerland](https://www.last.fm/music/half%E2%80%A2alive/_/Summerland)
-* [Geo! — Modify &lpar;Edited Version&rpar;](https://www.last.fm/music/Geo!/_/Modify+&lpar;Edited+Version&rpar;)
-* [Nelward — Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U)
-* [The Hush Sound — Wine Red](https://www.last.fm/music/The+Hush+Sound/_/Wine+Red)<!-- LASTFM:END -->
+* [half•alive — Summerland](https://www.last.fm/music/half%E2%80%A2alive/_/Summerland)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
