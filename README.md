@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jhariah — Needed a Change of Pace](https://www.last.fm/music/Jhariah/_/Needed+a+Change+of+Pace)
+* [Meesh — More Than Friends](https://www.last.fm/music/Meesh/_/More+Than+Friends)
 * [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
 * [Anamanaguchi — On My Own](https://www.last.fm/music/Anamanaguchi/_/On+My+Own)
-* [Jack the Stripper — PHANTASM](https://www.last.fm/music/Jack+the+Stripper/_/PHANTASM)
-* [Studio Killers — Dirty Car](https://www.last.fm/music/Studio+Killers/_/Dirty+Car)
-* [Omniboi — Venomade](https://www.last.fm/music/Omniboi/_/Venomade)<!-- LASTFM:END -->
+* [Jack the Stripper — PHANTASM](https://www.last.fm/music/Jack+the+Stripper/_/PHANTASM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
