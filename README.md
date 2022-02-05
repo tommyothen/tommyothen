@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Anamanaguchi — Prom Night](https://www.last.fm/music/Anamanaguchi/_/Prom+Night)
-* [vanishing girl — Washing Machine](https://www.last.fm/music/vanishing+girl/_/Washing+Machine)
-* [Ghost and Pals — Honey I&#39;m Home](https://www.last.fm/music/Ghost+and+Pals/_/Honey+I%27m+Home)
-* [Camino 84 — Little Too Late](https://www.last.fm/music/Camino+84/_/Little+Too+Late)
-* [Siames — Always The Same](https://www.last.fm/music/Siames/_/Always+The+Same)<!-- LASTFM:END -->
+* [half•alive — Summerland](https://www.last.fm/music/half%E2%80%A2alive/_/Summerland)
+* [Geo! — Modify &lpar;Edited Version&rpar;](https://www.last.fm/music/Geo!/_/Modify+&lpar;Edited+Version&rpar;)
+* [Nelward — Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U)
+* [The Hush Sound — Wine Red](https://www.last.fm/music/The+Hush+Sound/_/Wine+Red)
+* [Studio Killers — All Men Are Pigs](https://www.last.fm/music/Studio+Killers/_/All+Men+Are+Pigs)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
