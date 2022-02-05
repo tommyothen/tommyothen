@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [half•alive — Make of It](https://www.last.fm/music/half%E2%80%A2alive/_/Make+of+It)
+* [Milkcan — KEEP YOUR HEAD UP!!](https://www.last.fm/music/Milkcan/_/KEEP+YOUR+HEAD+UP!!)
 * [Jhariah — Needed a Change of Pace](https://www.last.fm/music/Jhariah/_/Needed+a+Change+of+Pace)
 * [Meesh — More Than Friends](https://www.last.fm/music/Meesh/_/More+Than+Friends)
-* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
-* [Anamanaguchi — On My Own](https://www.last.fm/music/Anamanaguchi/_/On+My+Own)
-* [Jack the Stripper — PHANTASM](https://www.last.fm/music/Jack+the+Stripper/_/PHANTASM)<!-- LASTFM:END -->
+* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
