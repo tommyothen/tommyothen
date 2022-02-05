@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chii — TRAPPARONI](https://www.last.fm/music/Chii/_/TRAPPARONI)
 * [half•alive — Summerland](https://www.last.fm/music/half%E2%80%A2alive/_/Summerland)
 * [Geo! — Modify &lpar;Edited Version&rpar;](https://www.last.fm/music/Geo!/_/Modify+&lpar;Edited+Version&rpar;)
 * [Nelward — Never Wanna Fall in Love With U](https://www.last.fm/music/Nelward/_/Never+Wanna+Fall+in+Love+With+U)
-* [The Hush Sound — Wine Red](https://www.last.fm/music/The+Hush+Sound/_/Wine+Red)
-* [Studio Killers — All Men Are Pigs](https://www.last.fm/music/Studio+Killers/_/All+Men+Are+Pigs)<!-- LASTFM:END -->
+* [The Hush Sound — Wine Red](https://www.last.fm/music/The+Hush+Sound/_/Wine+Red)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
