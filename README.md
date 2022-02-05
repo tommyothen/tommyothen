@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Brick+Mortar — Terrible Things](https://www.last.fm/music/Brick%252BMortar/_/Terrible+Things)
+* [Mystery Skulls — Don&#39;t Fuck With My Money](https://www.last.fm/music/Mystery+Skulls/_/Don%27t+Fuck+With+My+Money)
+* [Mystery Skulls — Its Mine](https://www.last.fm/music/Mystery+Skulls/_/Its+Mine)
 * [Cafuné — Tek It](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It)
-* [pLasterbrain — Modal Shanghai](https://www.last.fm/music/pLasterbrain/_/Modal+Shanghai)
-* [Kero Kero Bonito — Only Acting - Radio Edit](https://www.last.fm/music/Kero+Kero+Bonito/_/Only+Acting+-+Radio+Edit)
-* [Follies &amp; Vices — Red Wine](https://www.last.fm/music/Follies+&amp;+Vices/_/Red+Wine)
-* [The Orion Experience — S.T.A.R. Child](https://www.last.fm/music/The+Orion+Experience/_/S.T.A.R.+Child)<!-- LASTFM:END -->
+* [pLasterbrain — Modal Shanghai](https://www.last.fm/music/pLasterbrain/_/Modal+Shanghai)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
