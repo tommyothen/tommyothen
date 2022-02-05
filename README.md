@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [teeawgo — Hijack](https://www.last.fm/music/teeawgo/_/Hijack)
-* [JustWarrenPeace — Blue &lpar;Interlude&rpar;](https://www.last.fm/music/JustWarrenPeace/_/Blue+&lpar;Interlude&rpar;)
-* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
-* [Payday — Super Thicc](https://www.last.fm/music/Payday/_/Super+Thicc)
-* [Gnaw, The Rapper — Spark](https://www.last.fm/music/Gnaw,+The+Rapper/_/Spark)<!-- LASTFM:END -->
+* [cLoud mac — Eat My Soul](https://www.last.fm/music/cLoud+mac/_/Eat+My+Soul)
+* [Tony22 — Bop It!](https://www.last.fm/music/Tony22/_/Bop+It!)
+* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
+* [Lé Real — Final Round](https://www.last.fm/music/L%C3%A9+Real/_/Final+Round)
+* [Vincent Augustus — Bob Ross](https://www.last.fm/music/Vincent+Augustus/_/Bob+Ross)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
