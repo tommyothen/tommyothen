@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, The Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+The+Creator/_/I+Ain%27t+Got+Time!)
+* [Destiny Rogers — Euphoria](https://www.last.fm/music/Destiny+Rogers/_/Euphoria)
 * [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)
 * [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
-* [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)
-* [Charlie Curtis-Beard — Anime &amp; Chardonnay](https://www.last.fm/music/Charlie+Curtis-Beard/_/Anime+&amp;+Chardonnay)
-* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)<!-- LASTFM:END -->
+* [Payday — Big Boy](https://www.last.fm/music/Payday/_/Big+Boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
