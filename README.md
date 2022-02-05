@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cafuné — Warm Body](https://www.last.fm/music/Cafun%C3%A9/_/Warm+Body)
 * [Brick+Mortar — Terrible Things](https://www.last.fm/music/Brick%252BMortar/_/Terrible+Things)
 * [Mystery Skulls — Don&#39;t Fuck With My Money](https://www.last.fm/music/Mystery+Skulls/_/Don%27t+Fuck+With+My+Money)
 * [Mystery Skulls — Its Mine](https://www.last.fm/music/Mystery+Skulls/_/Its+Mine)
-* [Cafuné — Tek It](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It)
-* [pLasterbrain — Modal Shanghai](https://www.last.fm/music/pLasterbrain/_/Modal+Shanghai)<!-- LASTFM:END -->
+* [Cafuné — Tek It](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
