@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Valiant Vermin — Warm Coke](https://www.last.fm/music/Valiant+Vermin/_/Warm+Coke)
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
+* [aguagu11 — while &lpar;money&gt;0&rpar;](https://www.last.fm/music/aguagu11/_/while+&lpar;money%3E0&rpar;)
 * [Friday Pilots Club — End of It](https://www.last.fm/music/Friday+Pilots+Club/_/End+of+It)
-* [ABSRDST — Do The Runaround](https://www.last.fm/music/ABSRDST/_/Do+The+Runaround)
-* [Mystery Skulls — Freaking Out](https://www.last.fm/music/Mystery+Skulls/_/Freaking+Out)
-* [Glass Beach — cold weather](https://www.last.fm/music/Glass+Beach/_/cold+weather)
-* [The Hoosiers — Killer](https://www.last.fm/music/The+Hoosiers/_/Killer)<!-- LASTFM:END -->
+* [ABSRDST — Do The Runaround](https://www.last.fm/music/ABSRDST/_/Do+The+Runaround)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
