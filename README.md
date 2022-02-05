@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Hoosiers — Killer](https://www.last.fm/music/The+Hoosiers/_/Killer)
+* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
 * [Siames — Mr. Fear](https://www.last.fm/music/Siames/_/Mr.+Fear)
 * [Valiant Vermin — Sunday Best](https://www.last.fm/music/Valiant+Vermin/_/Sunday+Best)
-* [Early Eyes — Marigolds](https://www.last.fm/music/Early+Eyes/_/Marigolds)
-* [Cafuné — Warm Body](https://www.last.fm/music/Cafun%C3%A9/_/Warm+Body)
-* [Brick+Mortar — Terrible Things](https://www.last.fm/music/Brick%252BMortar/_/Terrible+Things)<!-- LASTFM:END -->
+* [Early Eyes — Marigolds](https://www.last.fm/music/Early+Eyes/_/Marigolds)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
