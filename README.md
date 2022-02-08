@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Follies &amp; Vices — Red Wine](https://www.last.fm/music/Follies+&amp;+Vices/_/Red+Wine)
-* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
-* [Ghost Data — CELESTIAL BODIES](https://www.last.fm/music/Ghost+Data/_/CELESTIAL+BODIES)
-* [Chii — TRAPPARONI](https://www.last.fm/music/Chii/_/TRAPPARONI)
-* [half•alive — Summerland](https://www.last.fm/music/half%E2%80%A2alive/_/Summerland)<!-- LASTFM:END -->
+* [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
+* [Zamir — on the move](https://www.last.fm/music/Zamir/_/on+the+move)
+* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
+* [Hi, I&#39;m Chris — Jinbei](https://www.last.fm/music/Hi,+I%27m+Chris/_/Jinbei)
+* [Mazie — no friends](https://www.last.fm/music/Mazie/_/no+friends)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
