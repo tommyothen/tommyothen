@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [daine — boys wanna txt &lpar;feat. ericdoa&rpar;](https://www.last.fm/music/daine/_/boys+wanna+txt+&lpar;feat.+ericdoa&rpar;)
 * [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
 * [Miraie — facade](https://www.last.fm/music/Miraie/_/facade)
 * [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [gianni &amp; kyle — 5 shots](https://www.last.fm/music/gianni+&amp;+kyle/_/5+shots)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
