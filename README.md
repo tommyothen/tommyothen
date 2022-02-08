@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hyejin — Cloudy Thoughts](https://www.last.fm/music/Hyejin/_/Cloudy+Thoughts)
-* [Cody・Lee&lpar;李&rpar; — 我愛你](https://www.last.fm/music/Cody%E3%83%BBLee&lpar;%E6%9D%8E&rpar;/_/%E6%88%91%E6%84%9B%E4%BD%A0)
-* [Zamir — on the move](https://www.last.fm/music/Zamir/_/on+the+move)
-* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
-* [Hi, I&#39;m Chris — Jinbei](https://www.last.fm/music/Hi,+I%27m+Chris/_/Jinbei)<!-- LASTFM:END -->
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
+* [REI AMI — THAT&#39;S ON YOU!](https://www.last.fm/music/REI+AMI/_/THAT%27S+ON+YOU!)
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
+* [CreepP — She&#39;s Homeless](https://www.last.fm/music/CreepP/_/She%27s+Homeless)
+* [Hyejin — Cloudy Thoughts](https://www.last.fm/music/Hyejin/_/Cloudy+Thoughts)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
