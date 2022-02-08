@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
 * [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
 * [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
 * [daine — boys wanna txt &lpar;feat. ericdoa&rpar;](https://www.last.fm/music/daine/_/boys+wanna+txt+&lpar;feat.+ericdoa&rpar;)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Miraie — facade](https://www.last.fm/music/Miraie/_/facade)<!-- LASTFM:END -->
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
