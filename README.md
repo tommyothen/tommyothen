@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
+* [Miraie — facade](https://www.last.fm/music/Miraie/_/facade)
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [gianni &amp; kyle — 5 shots](https://www.last.fm/music/gianni+&amp;+kyle/_/5+shots)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [88rising — Freaks](https://www.last.fm/music/88rising/_/Freaks)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)<!-- LASTFM:END -->
+* [gianni &amp; kyle — 5 shots](https://www.last.fm/music/gianni+&amp;+kyle/_/5+shots)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
