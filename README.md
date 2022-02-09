@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
-* [Eden — Circles](https://www.last.fm/music/Eden/_/Circles)
-* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)
-* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
-* [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)<!-- LASTFM:END -->
+* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
+* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
+* [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)
+* [Eden — Interlude](https://www.last.fm/music/Eden/_/Interlude)
+* [Eden — sex](https://www.last.fm/music/Eden/_/sex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
