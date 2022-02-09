@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jay Joseph — Gundabad](https://www.last.fm/music/Jay+Joseph/_/Gundabad)
-* [88rising — Freaks](https://www.last.fm/music/88rising/_/Freaks)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [REI AMI — THAT&#39;S ON YOU!](https://www.last.fm/music/REI+AMI/_/THAT%27S+ON+YOU!)
-* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)<!-- LASTFM:END -->
+* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
+* [Hi, I&#39;m Chris — Jinbei](https://www.last.fm/music/Hi,+I%27m+Chris/_/Jinbei)
+* [Mazie — no friends](https://www.last.fm/music/Mazie/_/no+friends)
+* [Chav — Patient Zero](https://www.last.fm/music/Chav/_/Patient+Zero)
+* [Mayflower — dopamine](https://www.last.fm/music/Mayflower/_/dopamine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
