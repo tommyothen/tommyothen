@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
+* [REI AMI — THAT&#39;S ON YOU!](https://www.last.fm/music/REI+AMI/_/THAT%27S+ON+YOU!)
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
 * [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
-* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
-* [Alice Gas — 4am](https://www.last.fm/music/Alice+Gas/_/4am)
-* [Anna — Dimensions](https://www.last.fm/music/Anna/_/Dimensions)
-* [Alice Gas — Diamonds on Meee](https://www.last.fm/music/Alice+Gas/_/Diamonds+on+Meee)<!-- LASTFM:END -->
+* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
