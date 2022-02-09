@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mazie — no friends](https://www.last.fm/music/Mazie/_/no+friends)
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
 * [Chav — Patient Zero](https://www.last.fm/music/Chav/_/Patient+Zero)
 * [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
-* [Zamir — on the move](https://www.last.fm/music/Zamir/_/on+the+move)
-* [goreshit — Nyan](https://www.last.fm/music/goreshit/_/Nyan)<!-- LASTFM:END -->
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
