@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [goreshit — bad habits](https://www.last.fm/music/goreshit/_/bad+habits)
+* [goreshit — black is the new black](https://www.last.fm/music/goreshit/_/black+is+the+new+black)
+* [goreshit — toromi hearts 2](https://www.last.fm/music/goreshit/_/toromi+hearts+2)
 * [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
-* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
-* [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)
-* [Eden — Interlude](https://www.last.fm/music/Eden/_/Interlude)
-* [Eden — sex](https://www.last.fm/music/Eden/_/sex)<!-- LASTFM:END -->
+* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
