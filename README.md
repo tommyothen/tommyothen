@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)
+* [DECO*27 — サラマンダー](https://www.last.fm/music/DECO*27/_/%E3%82%B5%E3%83%A9%E3%83%9E%E3%83%B3%E3%83%80%E3%83%BC)
+* [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)
 * [DECO*27 — Ghost Rule](https://www.last.fm/music/DECO*27/_/Ghost+Rule)
-* [goreshit — gabberzon!](https://www.last.fm/music/goreshit/_/gabberzon!)
-* [goreshit — bad habits](https://www.last.fm/music/goreshit/_/bad+habits)
-* [goreshit — black is the new black](https://www.last.fm/music/goreshit/_/black+is+the+new+black)
-* [goreshit — toromi hearts 2](https://www.last.fm/music/goreshit/_/toromi+hearts+2)<!-- LASTFM:END -->
+* [goreshit — gabberzon!](https://www.last.fm/music/goreshit/_/gabberzon!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
