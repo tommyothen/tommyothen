@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
+* [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)
 * [Eden — sex](https://www.last.fm/music/Eden/_/sex)
 * [Eden — XO](https://www.last.fm/music/Eden/_/XO)
-* [Hyejin — Cloudy Thoughts](https://www.last.fm/music/Hyejin/_/Cloudy+Thoughts)
-* [Mazie — no friends](https://www.last.fm/music/Mazie/_/no+friends)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)<!-- LASTFM:END -->
+* [Hyejin — Cloudy Thoughts](https://www.last.fm/music/Hyejin/_/Cloudy+Thoughts)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
