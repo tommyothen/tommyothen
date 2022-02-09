@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)
+* [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)
+* [日本アニメ&lpar;ーター&rpar;見本市 — ME!ME!ME! feat. daoko_pt.1](https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%8B%E3%83%A1&lpar;%E3%83%BC%E3%82%BF%E3%83%BC&rpar;%E8%A6%8B%E6%9C%AC%E5%B8%82/_/ME!ME!ME!+feat.+daoko_pt.1)
 * [DECO*27 — サラマンダー](https://www.last.fm/music/DECO*27/_/%E3%82%B5%E3%83%A9%E3%83%9E%E3%83%B3%E3%83%80%E3%83%BC)
-* [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)
-* [DECO*27 — Ghost Rule](https://www.last.fm/music/DECO*27/_/Ghost+Rule)
-* [goreshit — gabberzon!](https://www.last.fm/music/goreshit/_/gabberzon!)<!-- LASTFM:END -->
+* [DECO*27 — ヒバナ -Reloaded-](https://www.last.fm/music/DECO*27/_/%E3%83%92%E3%83%90%E3%83%8A+-Reloaded-)
+* [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
