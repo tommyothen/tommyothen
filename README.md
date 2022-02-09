@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alice Gas — Diamonds on Meee](https://www.last.fm/music/Alice+Gas/_/Diamonds+on+Meee)
+* [Sub Focus — Solar System](https://www.last.fm/music/Sub+Focus/_/Solar+System)
 * [Protostar — There And Back](https://www.last.fm/music/Protostar/_/There+And+Back)
 * [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
-* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [REI AMI — THAT&#39;S ON YOU!](https://www.last.fm/music/REI+AMI/_/THAT%27S+ON+YOU!)<!-- LASTFM:END -->
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
