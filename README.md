@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
+* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
 * [Alice Gas — 4am](https://www.last.fm/music/Alice+Gas/_/4am)
 * [Anna — Dimensions](https://www.last.fm/music/Anna/_/Dimensions)
-* [Alice Gas — Diamonds on Meee](https://www.last.fm/music/Alice+Gas/_/Diamonds+on+Meee)
-* [Sub Focus — Solar System](https://www.last.fm/music/Sub+Focus/_/Solar+System)<!-- LASTFM:END -->
+* [Alice Gas — Diamonds on Meee](https://www.last.fm/music/Alice+Gas/_/Diamonds+on+Meee)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
