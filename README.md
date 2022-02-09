@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
 * [Zamir — on the move](https://www.last.fm/music/Zamir/_/on+the+move)
 * [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
 * [Hi, I&#39;m Chris — Jinbei](https://www.last.fm/music/Hi,+I%27m+Chris/_/Jinbei)
-* [Mazie — no friends](https://www.last.fm/music/Mazie/_/no+friends)
-* [Chav — Patient Zero](https://www.last.fm/music/Chav/_/Patient+Zero)<!-- LASTFM:END -->
+* [Mazie — no friends](https://www.last.fm/music/Mazie/_/no+friends)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
