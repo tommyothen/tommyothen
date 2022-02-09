@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [REI AMI — THAT&#39;S ON YOU!](https://www.last.fm/music/REI+AMI/_/THAT%27S+ON+YOU!)
+* [Protostar — There And Back](https://www.last.fm/music/Protostar/_/There+And+Back)
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
 * [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
-* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
+* [REI AMI — THAT&#39;S ON YOU!](https://www.last.fm/music/REI+AMI/_/THAT%27S+ON+YOU!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
