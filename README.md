@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ABSRDST — Devil Boyz](https://www.last.fm/music/ABSRDST/_/Devil+Boyz)
+* [MISOGI — Monopink Dream, 2001](https://www.last.fm/music/MISOGI/_/Monopink+Dream,+2001)
+* [Crapface — purrfect](https://www.last.fm/music/Crapface/_/purrfect)
 * [N0THANKY0U — Got The Same Look](https://www.last.fm/music/N0THANKY0U/_/Got+The+Same+Look)
-* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
-* [qwaston — ride&amp;back&amp;home](https://www.last.fm/music/qwaston/_/ride&amp;back&amp;home)
-* [JKuch — Data Loss](https://www.last.fm/music/JKuch/_/Data+Loss)
-* [blackwinterwells — OMEN](https://www.last.fm/music/blackwinterwells/_/OMEN)<!-- LASTFM:END -->
+* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
