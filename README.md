@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aldn — glittr](https://www.last.fm/music/Aldn/_/glittr)
+* [six impala — SAD MACHINE](https://www.last.fm/music/six+impala/_/SAD+MACHINE)
 * [sakuraburst — Bespoken Islands](https://www.last.fm/music/sakuraburst/_/Bespoken+Islands)
 * [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [acloudyskye — Downfall](https://www.last.fm/music/acloudyskye/_/Downfall)
-* [kMoe — gloves](https://www.last.fm/music/kMoe/_/gloves)
-* [qwaston — ride&amp;back&amp;home](https://www.last.fm/music/qwaston/_/ride&amp;back&amp;home)<!-- LASTFM:END -->
+* [acloudyskye — Downfall](https://www.last.fm/music/acloudyskye/_/Downfall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
