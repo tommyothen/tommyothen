@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
+* [voljum — café mañana](https://www.last.fm/music/voljum/_/caf%C3%A9+ma%C3%B1ana)
 * [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
 * [Marcioz — Mate Um Bonito Hoje Mesmo!](https://www.last.fm/music/Marcioz/_/Mate+Um+Bonito+Hoje+Mesmo!)
-* [TORIENA — Diet Coke](https://www.last.fm/music/TORIENA/_/Diet+Coke)
-* [recovery girl — gross](https://www.last.fm/music/recovery+girl/_/gross)
-* [Alice Glass — NIGHTMARES](https://www.last.fm/music/Alice+Glass/_/NIGHTMARES)<!-- LASTFM:END -->
+* [TORIENA — Diet Coke](https://www.last.fm/music/TORIENA/_/Diet+Coke)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
