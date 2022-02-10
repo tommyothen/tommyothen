@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [six impala — Toy Car](https://www.last.fm/music/six+impala/_/Toy+Car)
+* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
 * [Hey, Ily — DigitalLung.EXE](https://www.last.fm/music/Hey,+Ily/_/DigitalLung.EXE)
 * [Internet Girl — popstar &lpar;with angelus&rpar;](https://www.last.fm/music/Internet+Girl/_/popstar+&lpar;with+angelus&rpar;)
-* [sakuraburst — Bespoken Islands](https://www.last.fm/music/sakuraburst/_/Bespoken+Islands)
-* [six impala — 6FINGERDEATHPUNCH](https://www.last.fm/music/six+impala/_/6FINGERDEATHPUNCH)
-* [Madge — Ethanol](https://www.last.fm/music/Madge/_/Ethanol)<!-- LASTFM:END -->
+* [sakuraburst — Bespoken Islands](https://www.last.fm/music/sakuraburst/_/Bespoken+Islands)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
