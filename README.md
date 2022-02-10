@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [acloudyskye — A Drowning Cry](https://www.last.fm/music/acloudyskye/_/A+Drowning+Cry)
+* [kmoe — peroxide](https://www.last.fm/music/kmoe/_/peroxide)
 * [Kero Kero Bonito — The Princess and the Clock](https://www.last.fm/music/Kero+Kero+Bonito/_/The+Princess+and+the+Clock)
 * [blackwinterwells — IRIS](https://www.last.fm/music/blackwinterwells/_/IRIS)
-* [Kabanagu — GRANEW](https://www.last.fm/music/Kabanagu/_/GRANEW)
-* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
-* [Jaron — escape](https://www.last.fm/music/Jaron/_/escape)<!-- LASTFM:END -->
+* [Kabanagu — GRANEW](https://www.last.fm/music/Kabanagu/_/GRANEW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
