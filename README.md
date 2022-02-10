@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alice Glass — Forgiveness](https://www.last.fm/music/Alice+Glass/_/Forgiveness)
+* [NANORAY — NEKOMATA&#39;97](https://www.last.fm/music/NANORAY/_/NEKOMATA%2797)
+* [NANORAY — NEKOMATA&#39;97](https://www.last.fm/music/NANORAY/_/NEKOMATA%2797)
 * [Haru Nemuri — bang](https://www.last.fm/music/Haru+Nemuri/_/bang)
-* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
-* [Chav — Patient Zero](https://www.last.fm/music/Chav/_/Patient+Zero)
-* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)<!-- LASTFM:END -->
+* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
