@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TORIENA — Diet Coke](https://www.last.fm/music/TORIENA/_/Diet+Coke)
+* [recovery girl — gross](https://www.last.fm/music/recovery+girl/_/gross)
+* [Alice Glass — NIGHTMARES](https://www.last.fm/music/Alice+Glass/_/NIGHTMARES)
 * [Metaroom — S.N.U.F.F.Y](https://www.last.fm/music/Metaroom/_/S.N.U.F.F.Y)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [DV-i — Perpetual](https://www.last.fm/music/DV-i/_/Perpetual)
-* [six impala — Toy Car](https://www.last.fm/music/six+impala/_/Toy+Car)
-* [Glitch Gum — Kyoto](https://www.last.fm/music/Glitch+Gum/_/Kyoto)<!-- LASTFM:END -->
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
