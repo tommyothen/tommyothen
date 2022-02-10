@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Underscores — Spoiled little brat](https://www.last.fm/music/Underscores/_/Spoiled+little+brat)
+* [Internet Girl — popstar &lpar;with angelus&rpar;](https://www.last.fm/music/Internet+Girl/_/popstar+&lpar;with+angelus&rpar;)
+* [Alice Longyu Gao — Rich Bitch Juice - Laura Les Remix](https://www.last.fm/music/Alice+Longyu+Gao/_/Rich+Bitch+Juice+-+Laura+Les+Remix)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Wave Racer — Higher](https://www.last.fm/music/Wave+Racer/_/Higher)
-* [Phritz — change my mind](https://www.last.fm/music/Phritz/_/change+my+mind)
-* [JKuch — Data Loss](https://www.last.fm/music/JKuch/_/Data+Loss)
-* [MIMIDEATH — snow](https://www.last.fm/music/MIMIDEATH/_/snow)<!-- LASTFM:END -->
+* [Wave Racer — Higher](https://www.last.fm/music/Wave+Racer/_/Higher)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
