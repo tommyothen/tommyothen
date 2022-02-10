@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kero Kero Bonito — The Princess and the Clock](https://www.last.fm/music/Kero+Kero+Bonito/_/The+Princess+and+the+Clock)
+* [blackwinterwells — IRIS](https://www.last.fm/music/blackwinterwells/_/IRIS)
 * [Kabanagu — GRANEW](https://www.last.fm/music/Kabanagu/_/GRANEW)
 * [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
-* [Jaron — escape](https://www.last.fm/music/Jaron/_/escape)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
-* [six impala — : BUBBYTAFFY ! :](https://www.last.fm/music/six+impala/_/:+BUBBYTAFFY+!+:)<!-- LASTFM:END -->
+* [Jaron — escape](https://www.last.fm/music/Jaron/_/escape)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
