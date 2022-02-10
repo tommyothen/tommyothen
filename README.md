@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey, Ily — DigitalLung.EXE](https://www.last.fm/music/Hey,+Ily/_/DigitalLung.EXE)
+* [Internet Girl — popstar &lpar;with angelus&rpar;](https://www.last.fm/music/Internet+Girl/_/popstar+&lpar;with+angelus&rpar;)
 * [sakuraburst — Bespoken Islands](https://www.last.fm/music/sakuraburst/_/Bespoken+Islands)
 * [six impala — 6FINGERDEATHPUNCH](https://www.last.fm/music/six+impala/_/6FINGERDEATHPUNCH)
-* [Madge — Ethanol](https://www.last.fm/music/Madge/_/Ethanol)
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [Madge — Ethanol](https://www.last.fm/music/Madge/_/Ethanol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
