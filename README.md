@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Metaroom — S.N.U.F.F.Y](https://www.last.fm/music/Metaroom/_/S.N.U.F.F.Y)
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
 * [DV-i — Perpetual](https://www.last.fm/music/DV-i/_/Perpetual)
 * [six impala — Toy Car](https://www.last.fm/music/six+impala/_/Toy+Car)
-* [Glitch Gum — Kyoto](https://www.last.fm/music/Glitch+Gum/_/Kyoto)
-* [Yeule — Pocky Boy](https://www.last.fm/music/Yeule/_/Pocky+Boy)
-* [Crapface — purrfect](https://www.last.fm/music/Crapface/_/purrfect)<!-- LASTFM:END -->
+* [Glitch Gum — Kyoto](https://www.last.fm/music/Glitch+Gum/_/Kyoto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
