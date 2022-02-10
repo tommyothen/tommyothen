@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [umru — heart2](https://www.last.fm/music/umru/_/heart2)
+* [six impala — : BUBBYTAFFY ! :](https://www.last.fm/music/six+impala/_/:+BUBBYTAFFY+!+:)
 * [That Kid — Mile High Club](https://www.last.fm/music/That+Kid/_/Mile+High+Club)
 * [Jedwill — Garden](https://www.last.fm/music/Jedwill/_/Garden)
-* [Clarence Clarity — Vapid Feels Ain&#39;t Vapid](https://www.last.fm/music/Clarence+Clarity/_/Vapid+Feels+Ain%27t+Vapid)
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [Madge — Ethanol](https://www.last.fm/music/Madge/_/Ethanol)<!-- LASTFM:END -->
+* [Clarence Clarity — Vapid Feels Ain&#39;t Vapid](https://www.last.fm/music/Clarence+Clarity/_/Vapid+Feels+Ain%27t+Vapid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
