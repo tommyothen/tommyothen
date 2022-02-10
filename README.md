@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [six impala — 6FINGERDEATHPUNCH](https://www.last.fm/music/six+impala/_/6FINGERDEATHPUNCH)
+* [twikipedia — hotel](https://www.last.fm/music/twikipedia/_/hotel)
 * [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
 * [six impala — SWEETSWEETSWEETLIKEBUBBLEGUM](https://www.last.fm/music/six+impala/_/SWEETSWEETSWEETLIKEBUBBLEGUM)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
-* [blackwinterwells — OMEN](https://www.last.fm/music/blackwinterwells/_/OMEN)
-* [kmoe — peroxide](https://www.last.fm/music/kmoe/_/peroxide)<!-- LASTFM:END -->
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
