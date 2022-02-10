@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Crapface — purrfect](https://www.last.fm/music/Crapface/_/purrfect)
+* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
+* [N0THANKY0U — Got The Same Look](https://www.last.fm/music/N0THANKY0U/_/Got+The+Same+Look)
 * [Underscores — Spoiled little brat](https://www.last.fm/music/Underscores/_/Spoiled+little+brat)
-* [Internet Girl — popstar &lpar;with angelus&rpar;](https://www.last.fm/music/Internet+Girl/_/popstar+&lpar;with+angelus&rpar;)
-* [Alice Longyu Gao — Rich Bitch Juice - Laura Les Remix](https://www.last.fm/music/Alice+Longyu+Gao/_/Rich+Bitch+Juice+-+Laura+Les+Remix)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Wave Racer — Higher](https://www.last.fm/music/Wave+Racer/_/Higher)<!-- LASTFM:END -->
+* [Internet Girl — popstar &lpar;with angelus&rpar;](https://www.last.fm/music/Internet+Girl/_/popstar+&lpar;with+angelus&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
