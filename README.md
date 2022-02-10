@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
+* [six impala — : BUBBYTAFFY ! :](https://www.last.fm/music/six+impala/_/:+BUBBYTAFFY+!+:)
 * [ABSRDST — Devil Boyz](https://www.last.fm/music/ABSRDST/_/Devil+Boyz)
 * [MISOGI — Monopink Dream, 2001](https://www.last.fm/music/MISOGI/_/Monopink+Dream,+2001)
-* [Crapface — purrfect](https://www.last.fm/music/Crapface/_/purrfect)
-* [N0THANKY0U — Got The Same Look](https://www.last.fm/music/N0THANKY0U/_/Got+The+Same+Look)
-* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)<!-- LASTFM:END -->
+* [Crapface — purrfect](https://www.last.fm/music/Crapface/_/purrfect)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
