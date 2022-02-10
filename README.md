@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [voljum — café mañana](https://www.last.fm/music/voljum/_/caf%C3%A9+ma%C3%B1ana)
-* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
-* [Marcioz — Mate Um Bonito Hoje Mesmo!](https://www.last.fm/music/Marcioz/_/Mate+Um+Bonito+Hoje+Mesmo!)
-* [TORIENA — Diet Coke](https://www.last.fm/music/TORIENA/_/Diet+Coke)<!-- LASTFM:END -->
+* [Madge — Ethanol](https://www.last.fm/music/Madge/_/Ethanol)
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
