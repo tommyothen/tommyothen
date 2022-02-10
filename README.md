@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Wave Racer — Higher](https://www.last.fm/music/Wave+Racer/_/Higher)
+* [Phritz — change my mind](https://www.last.fm/music/Phritz/_/change+my+mind)
 * [JKuch — Data Loss](https://www.last.fm/music/JKuch/_/Data+Loss)
-* [MIMIDEATH — snow](https://www.last.fm/music/MIMIDEATH/_/snow)
-* [Water Spirit — ARIES](https://www.last.fm/music/Water+Spirit/_/ARIES)
-* [Kabanagu — GRANEW](https://www.last.fm/music/Kabanagu/_/GRANEW)
-* [Serph — Buttercup](https://www.last.fm/music/Serph/_/Buttercup)<!-- LASTFM:END -->
+* [MIMIDEATH — snow](https://www.last.fm/music/MIMIDEATH/_/snow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
