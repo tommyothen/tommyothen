@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Golin — Ringo Love](https://www.last.fm/music/Golin/_/Ringo+Love)
 * [twikipedia — hotel](https://www.last.fm/music/twikipedia/_/hotel)
 * [Drainpuppet — Slip Away](https://www.last.fm/music/Drainpuppet/_/Slip+Away)
 * [six impala — Toy Car](https://www.last.fm/music/six+impala/_/Toy+Car)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
-* [Hey, Ily — DigitalLung.EXE](https://www.last.fm/music/Hey,+Ily/_/DigitalLung.EXE)<!-- LASTFM:END -->
+* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
