@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [qwaston — ride&amp;back&amp;home](https://www.last.fm/music/qwaston/_/ride&amp;back&amp;home)
+* [acloudyskye — A Drowning Cry](https://www.last.fm/music/acloudyskye/_/A+Drowning+Cry)
 * [Madge — Ethanol](https://www.last.fm/music/Madge/_/Ethanol)
 * [That Kid — Dial Tone](https://www.last.fm/music/That+Kid/_/Dial+Tone)
-* [umru — heart2](https://www.last.fm/music/umru/_/heart2)
-* [six impala — : BUBBYTAFFY ! :](https://www.last.fm/music/six+impala/_/:+BUBBYTAFFY+!+:)
-* [That Kid — Mile High Club](https://www.last.fm/music/That+Kid/_/Mile+High+Club)<!-- LASTFM:END -->
+* [umru — heart2](https://www.last.fm/music/umru/_/heart2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
