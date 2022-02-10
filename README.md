@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chav — Patient Zero](https://www.last.fm/music/Chav/_/Patient+Zero)
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
 * [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
 * [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
-* [Ariana Grande — Break Free](https://www.last.fm/music/Ariana+Grande/_/Break+Free)
-* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)
-* [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)<!-- LASTFM:END -->
+* [Ariana Grande — Break Free](https://www.last.fm/music/Ariana+Grande/_/Break+Free)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
