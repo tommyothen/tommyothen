@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Health — POWER FANTASY](https://www.last.fm/music/Health/_/POWER+FANTASY)
 * [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
 * [Galantis — Only A Fool &lpar;with Pink Sweat$titlerpar;](https://www.last.fm/music/Galantis/_/Only+A+Fool+&lpar;with+Pink+Sweat$linkrpar;)
 * [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
-* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)<!-- LASTFM:END -->
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
