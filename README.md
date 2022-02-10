@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [N0THANKY0U — Got The Same Look](https://www.last.fm/music/N0THANKY0U/_/Got+The+Same+Look)
+* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
+* [qwaston — ride&amp;back&amp;home](https://www.last.fm/music/qwaston/_/ride&amp;back&amp;home)
 * [JKuch — Data Loss](https://www.last.fm/music/JKuch/_/Data+Loss)
-* [blackwinterwells — OMEN](https://www.last.fm/music/blackwinterwells/_/OMEN)
-* [Glitch Gum — Kyoto](https://www.last.fm/music/Glitch+Gum/_/Kyoto)
-* [six impala — SAD MACHINE](https://www.last.fm/music/six+impala/_/SAD+MACHINE)
-* [Clarence Clarity — Vapid Feels Ain&#39;t Vapid](https://www.last.fm/music/Clarence+Clarity/_/Vapid+Feels+Ain%27t+Vapid)<!-- LASTFM:END -->
+* [blackwinterwells — OMEN](https://www.last.fm/music/blackwinterwells/_/OMEN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
