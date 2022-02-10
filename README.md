@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JKuch — Data Loss](https://www.last.fm/music/JKuch/_/Data+Loss)
+* [MIMIDEATH — snow](https://www.last.fm/music/MIMIDEATH/_/snow)
+* [Water Spirit — ARIES](https://www.last.fm/music/Water+Spirit/_/ARIES)
 * [Kabanagu — GRANEW](https://www.last.fm/music/Kabanagu/_/GRANEW)
-* [Serph — Buttercup](https://www.last.fm/music/Serph/_/Buttercup)
-* [six impala — 6FINGERDEATHPUNCH](https://www.last.fm/music/six+impala/_/6FINGERDEATHPUNCH)
-* [twikipedia — hotel](https://www.last.fm/music/twikipedia/_/hotel)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)<!-- LASTFM:END -->
+* [Serph — Buttercup](https://www.last.fm/music/Serph/_/Buttercup)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
