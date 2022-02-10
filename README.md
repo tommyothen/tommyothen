@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JKuch — Data Loss](https://www.last.fm/music/JKuch/_/Data+Loss)
+* [blackwinterwells — OMEN](https://www.last.fm/music/blackwinterwells/_/OMEN)
 * [Glitch Gum — Kyoto](https://www.last.fm/music/Glitch+Gum/_/Kyoto)
 * [six impala — SAD MACHINE](https://www.last.fm/music/six+impala/_/SAD+MACHINE)
-* [Clarence Clarity — Vapid Feels Ain&#39;t Vapid](https://www.last.fm/music/Clarence+Clarity/_/Vapid+Feels+Ain%27t+Vapid)
-* [Golin — Ringo Love](https://www.last.fm/music/Golin/_/Ringo+Love)
-* [twikipedia — hotel](https://www.last.fm/music/twikipedia/_/hotel)<!-- LASTFM:END -->
+* [Clarence Clarity — Vapid Feels Ain&#39;t Vapid](https://www.last.fm/music/Clarence+Clarity/_/Vapid+Feels+Ain%27t+Vapid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
