@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [RichaadEB — U.N. Owen was her?](https://www.last.fm/music/RichaadEB/_/U.N.+Owen+was+her%3F)
 * [tobi lou — Buff Baby](https://www.last.fm/music/tobi+lou/_/Buff+Baby)
 * [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
 * [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [goreshit — I Don&#39;t Give You New Shoes](https://www.last.fm/music/goreshit/_/I+Don%27t+Give+You+New+Shoes)<!-- LASTFM:END -->
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
