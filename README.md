@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
+* [Madge — Ethanol](https://www.last.fm/music/Madge/_/Ethanol)
 * [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
 * [six impala — : BUBBYTAFFY ! :](https://www.last.fm/music/six+impala/_/:+BUBBYTAFFY+!+:)
 * [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)<!-- LASTFM:END -->
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
