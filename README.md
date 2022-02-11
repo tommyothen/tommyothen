@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Will Stetson — Harumachi Clover](https://www.last.fm/music/Will+Stetson/_/Harumachi+Clover)
+* [ClariS — ヒトリゴト](https://www.last.fm/music/ClariS/_/%E3%83%92%E3%83%88%E3%83%AA%E3%82%B4%E3%83%88)
 * [RichaadEB — U.N. Owen was her?](https://www.last.fm/music/RichaadEB/_/U.N.+Owen+was+her%3F)
 * [tobi lou — Buff Baby](https://www.last.fm/music/tobi+lou/_/Buff+Baby)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
