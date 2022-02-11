@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
-* [9mm Parabellum Bullet — インフェルノ](https://www.last.fm/music/9mm+Parabellum+Bullet/_/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E)
-* [Will Stetson — Harumachi Clover](https://www.last.fm/music/Will+Stetson/_/Harumachi+Clover)
-* [ClariS — ヒトリゴト](https://www.last.fm/music/ClariS/_/%E3%83%92%E3%83%88%E3%83%AA%E3%82%B4%E3%83%88)
-* [RichaadEB — U.N. Owen was her?](https://www.last.fm/music/RichaadEB/_/U.N.+Owen+was+her%3F)<!-- LASTFM:END -->
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
+* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
