@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [9mm Parabellum Bullet — インフェルノ](https://www.last.fm/music/9mm+Parabellum+Bullet/_/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E)
 * [Will Stetson — Harumachi Clover](https://www.last.fm/music/Will+Stetson/_/Harumachi+Clover)
 * [ClariS — ヒトリゴト](https://www.last.fm/music/ClariS/_/%E3%83%92%E3%83%88%E3%83%AA%E3%82%B4%E3%83%88)
 * [RichaadEB — U.N. Owen was her?](https://www.last.fm/music/RichaadEB/_/U.N.+Owen+was+her%3F)
-* [tobi lou — Buff Baby](https://www.last.fm/music/tobi+lou/_/Buff+Baby)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
+* [tobi lou — Buff Baby](https://www.last.fm/music/tobi+lou/_/Buff+Baby)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
