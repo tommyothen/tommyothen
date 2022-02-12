@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
 * [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
 * [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)
-* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
-* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)<!-- LASTFM:END -->
+* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
