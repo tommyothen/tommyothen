@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mayflower — dopamine](https://www.last.fm/music/Mayflower/_/dopamine)
-* [wavvyboi — phantom](https://www.last.fm/music/wavvyboi/_/phantom)
-* [Casey Mattson — idontknowman](https://www.last.fm/music/Casey+Mattson/_/idontknowman)
-* [Jay Joseph — Gundabad](https://www.last.fm/music/Jay+Joseph/_/Gundabad)
-* [88rising — Freaks](https://www.last.fm/music/88rising/_/Freaks)<!-- LASTFM:END -->
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
+* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
+* [Kristen Bell — For the First Time in Forever - From &quot;Frozen&quot;/Soundtrack Version](https://www.last.fm/music/Kristen+Bell/_/For+the+First+Time+in+Forever+-+From+%22Frozen%22%2FSoundtrack+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
