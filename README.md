@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
 * [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
 * [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
 * [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
-* [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
-* [Chav — Patient Zero](https://www.last.fm/music/Chav/_/Patient+Zero)<!-- LASTFM:END -->
+* [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
