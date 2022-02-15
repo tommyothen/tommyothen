@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Angelus — gossip girls](https://www.last.fm/music/Angelus/_/gossip+girls)
+* [Stef — hi, my name is lonely.](https://www.last.fm/music/Stef/_/hi,+my+name+is+lonely.)
+* [sohayl ryder — POSTMAN](https://www.last.fm/music/sohayl+ryder/_/POSTMAN)
 * [DEMONDICE — Hazy Skyscraper](https://www.last.fm/music/DEMONDICE/_/Hazy+Skyscraper)
-* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)
-* [Ashnikko — Maggots](https://www.last.fm/music/Ashnikko/_/Maggots)
-* [Chatrooms — It&#39;s Alright](https://www.last.fm/music/Chatrooms/_/It%27s+Alright)
-* [dltzk — homeswitcher](https://www.last.fm/music/dltzk/_/homeswitcher)<!-- LASTFM:END -->
+* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
