@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [dltzk — homeswitcher](https://www.last.fm/music/dltzk/_/homeswitcher)
+* [Dan D&#39;Lion — Co-Pilot](https://www.last.fm/music/Dan+D%27Lion/_/Co-Pilot)
 * [Left at London — Blacknwhite - Radio Edit](https://www.last.fm/music/Left+at+London/_/Blacknwhite+-+Radio+Edit)
 * [Supermega — DTF](https://www.last.fm/music/Supermega/_/DTF)
-* [Ok Goodnight — Day &amp; Night](https://www.last.fm/music/Ok+Goodnight/_/Day+&amp;+Night)
-* [H8 Music — BLEEDING!](https://www.last.fm/music/H8+Music/_/BLEEDING!)
-* [Mothica — buzzkill](https://www.last.fm/music/Mothica/_/buzzkill)<!-- LASTFM:END -->
+* [Ok Goodnight — Day &amp; Night](https://www.last.fm/music/Ok+Goodnight/_/Day+&amp;+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
