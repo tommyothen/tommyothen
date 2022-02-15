@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Properties of Nature — L.S.F.H.Q.P.](https://www.last.fm/music/Properties+of+Nature/_/L.S.F.H.Q.P.)
-* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
-* [CyberGirlfriend — Every Little Thing](https://www.last.fm/music/CyberGirlfriend/_/Every+Little+Thing)
-* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
-* [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)<!-- LASTFM:END -->
+* [Culprate — Mechanic Heartbeat](https://www.last.fm/music/Culprate/_/Mechanic+Heartbeat)
+* [Evenson — HOW CAN I SLEEP](https://www.last.fm/music/Evenson/_/HOW+CAN+I+SLEEP)
+* [Ethan Bortnick — Final Boss](https://www.last.fm/music/Ethan+Bortnick/_/Final+Boss)
+* [GOLDSPACE — Bad Love](https://www.last.fm/music/GOLDSPACE/_/Bad+Love)
+* [Properties of Nature — L.S.F.H.Q.P.](https://www.last.fm/music/Properties+of+Nature/_/L.S.F.H.Q.P.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
