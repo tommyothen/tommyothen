@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)
+* [Ashnikko — Maggots](https://www.last.fm/music/Ashnikko/_/Maggots)
+* [Chatrooms — It&#39;s Alright](https://www.last.fm/music/Chatrooms/_/It%27s+Alright)
 * [dltzk — homeswitcher](https://www.last.fm/music/dltzk/_/homeswitcher)
-* [Dan D&#39;Lion — Co-Pilot](https://www.last.fm/music/Dan+D%27Lion/_/Co-Pilot)
-* [Left at London — Blacknwhite - Radio Edit](https://www.last.fm/music/Left+at+London/_/Blacknwhite+-+Radio+Edit)
-* [Supermega — DTF](https://www.last.fm/music/Supermega/_/DTF)
-* [Ok Goodnight — Day &amp; Night](https://www.last.fm/music/Ok+Goodnight/_/Day+&amp;+Night)<!-- LASTFM:END -->
+* [Dan D&#39;Lion — Co-Pilot](https://www.last.fm/music/Dan+D%27Lion/_/Co-Pilot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
