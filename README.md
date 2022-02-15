@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Van — Lie to You](https://www.last.fm/music/Yung+Van/_/Lie+to+You)
+* [Fox Szn — Circus](https://www.last.fm/music/Fox+Szn/_/Circus)
 * [Angelus — gossip girls](https://www.last.fm/music/Angelus/_/gossip+girls)
 * [Stef — hi, my name is lonely.](https://www.last.fm/music/Stef/_/hi,+my+name+is+lonely.)
-* [sohayl ryder — POSTMAN](https://www.last.fm/music/sohayl+ryder/_/POSTMAN)
-* [DEMONDICE — Hazy Skyscraper](https://www.last.fm/music/DEMONDICE/_/Hazy+Skyscraper)
-* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)<!-- LASTFM:END -->
+* [sohayl ryder — POSTMAN](https://www.last.fm/music/sohayl+ryder/_/POSTMAN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
