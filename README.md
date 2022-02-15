@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Danny Lightyear — Devil Says Hi](https://www.last.fm/music/Danny+Lightyear/_/Devil+Says+Hi)
+* [Mitsunori Ikeda — Fallen Angel feat. Aimee B](https://www.last.fm/music/Mitsunori+Ikeda/_/Fallen+Angel+feat.+Aimee+B)
 * [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
 * [CyberGirlfriend — Every Little Thing](https://www.last.fm/music/CyberGirlfriend/_/Every+Little+Thing)
-* [Mothica — buzzkill](https://www.last.fm/music/Mothica/_/buzzkill)
-* [Culprate — Mechanic Heartbeat](https://www.last.fm/music/Culprate/_/Mechanic+Heartbeat)
-* [Evenson — HOW CAN I SLEEP](https://www.last.fm/music/Evenson/_/HOW+CAN+I+SLEEP)<!-- LASTFM:END -->
+* [Mothica — buzzkill](https://www.last.fm/music/Mothica/_/buzzkill)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
