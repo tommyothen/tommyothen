@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LustSickPuppy — Goatmeal](https://www.last.fm/music/LustSickPuppy/_/Goatmeal)
+* [Fax Gang — Breathe2 &lpar;In/Out&rpar;](https://www.last.fm/music/Fax+Gang/_/Breathe2+&lpar;In%2FOut&rpar;)
 * [DV-i — Perpetual](https://www.last.fm/music/DV-i/_/Perpetual)
 * [Anamanaguchi — My Skateboard Will Go On](https://www.last.fm/music/Anamanaguchi/_/My+Skateboard+Will+Go+On)
-* [MIMIDEATH — abusive](https://www.last.fm/music/MIMIDEATH/_/abusive)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Doss — Puppy](https://www.last.fm/music/Doss/_/Puppy)<!-- LASTFM:END -->
+* [MIMIDEATH — abusive](https://www.last.fm/music/MIMIDEATH/_/abusive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
