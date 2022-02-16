@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DV-i — Perpetual](https://www.last.fm/music/DV-i/_/Perpetual)
+* [Anamanaguchi — My Skateboard Will Go On](https://www.last.fm/music/Anamanaguchi/_/My+Skateboard+Will+Go+On)
 * [MIMIDEATH — abusive](https://www.last.fm/music/MIMIDEATH/_/abusive)
 * [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Doss — Puppy](https://www.last.fm/music/Doss/_/Puppy)
-* [dltzk — homeswitcher](https://www.last.fm/music/dltzk/_/homeswitcher)
-* [Food House — ride](https://www.last.fm/music/Food+House/_/ride)<!-- LASTFM:END -->
+* [Doss — Puppy](https://www.last.fm/music/Doss/_/Puppy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
