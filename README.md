@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Peake — Tantalyse](https://www.last.fm/music/Peake/_/Tantalyse)
+* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
 * [fraxiom — scawy monstews and nice spwites :3](https://www.last.fm/music/fraxiom/_/scawy+monstews+and+nice+spwites+:3)
 * [Anamanaguchi — Everyday, Everynight](https://www.last.fm/music/Anamanaguchi/_/Everyday,+Everynight)
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [Folie — cortisol](https://www.last.fm/music/Folie/_/cortisol)<!-- LASTFM:END -->
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
