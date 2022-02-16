@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Folie — cortisol](https://www.last.fm/music/Folie/_/cortisol)
+* [99jakes — Liquid](https://www.last.fm/music/99jakes/_/Liquid)
+* [Glitch Gum — Kyoto](https://www.last.fm/music/Glitch+Gum/_/Kyoto)
 * [The Pom-Poms — FULL CIRCLE](https://www.last.fm/music/The+Pom-Poms/_/FULL+CIRCLE)
-* [UNIT KAI — departure](https://www.last.fm/music/UNIT+KAI/_/departure)
-* [Food House — butterfly knife](https://www.last.fm/music/Food+House/_/butterfly+knife)
-* [LustSickPuppy — Goatmeal](https://www.last.fm/music/LustSickPuppy/_/Goatmeal)
-* [Fax Gang — Breathe2 &lpar;In/Out&rpar;](https://www.last.fm/music/Fax+Gang/_/Breathe2+&lpar;In%2FOut&rpar;)<!-- LASTFM:END -->
+* [UNIT KAI — departure](https://www.last.fm/music/UNIT+KAI/_/departure)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
