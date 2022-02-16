@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [DVNZXL — fried_noodles](https://www.last.fm/music/DVNZXL/_/fried_noodles)
-* [Yung Van — Lie to You](https://www.last.fm/music/Yung+Van/_/Lie+to+You)
-* [Fox Szn — Circus](https://www.last.fm/music/Fox+Szn/_/Circus)
-* [Angelus — gossip girls](https://www.last.fm/music/Angelus/_/gossip+girls)
-* [Stef — hi, my name is lonely.](https://www.last.fm/music/Stef/_/hi,+my+name+is+lonely.)<!-- LASTFM:END -->
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
+* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
+* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
