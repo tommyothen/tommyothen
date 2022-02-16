@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [RILEY THE MUSICIAN — Iced Out &lpar;Slowed&rpar;](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/Iced+Out+&lpar;Slowed&rpar;)
+* [Ravenna Golden — R U Joking](https://www.last.fm/music/Ravenna+Golden/_/R+U+Joking)
+* [gupi — Thos Moser](https://www.last.fm/music/gupi/_/Thos+Moser)
 * [Peake — Tantalyse](https://www.last.fm/music/Peake/_/Tantalyse)
-* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
-* [fraxiom — scawy monstews and nice spwites :3](https://www.last.fm/music/fraxiom/_/scawy+monstews+and+nice+spwites+:3)
-* [Anamanaguchi — Everyday, Everynight](https://www.last.fm/music/Anamanaguchi/_/Everyday,+Everynight)
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)<!-- LASTFM:END -->
+* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
