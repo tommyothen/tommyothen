@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
+* [easyFun — Be Your USA](https://www.last.fm/music/easyFun/_/Be+Your+USA)
+* [Astra King — Silver](https://www.last.fm/music/Astra+King/_/Silver)
 * [That Kid — Look At Me](https://www.last.fm/music/That+Kid/_/Look+At+Me)
-* [That Kid — Dial Tone](https://www.last.fm/music/That+Kid/_/Dial+Tone)
-* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
-* [MISOGI — Monopink Dream, 2001](https://www.last.fm/music/MISOGI/_/Monopink+Dream,+2001)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)<!-- LASTFM:END -->
+* [That Kid — Dial Tone](https://www.last.fm/music/That+Kid/_/Dial+Tone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
