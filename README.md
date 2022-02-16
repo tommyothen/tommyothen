@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MIMIDEATH — abusive](https://www.last.fm/music/MIMIDEATH/_/abusive)
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
+* [Doss — Puppy](https://www.last.fm/music/Doss/_/Puppy)
 * [dltzk — homeswitcher](https://www.last.fm/music/dltzk/_/homeswitcher)
-* [Food House — ride](https://www.last.fm/music/Food+House/_/ride)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
-* [easyFun — Be Your USA](https://www.last.fm/music/easyFun/_/Be+Your+USA)
-* [Astra King — Silver](https://www.last.fm/music/Astra+King/_/Silver)<!-- LASTFM:END -->
+* [Food House — ride](https://www.last.fm/music/Food+House/_/ride)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
