@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Iglooghost — New Vectors](https://www.last.fm/music/Iglooghost/_/New+Vectors)
-* [N0THANKY0U — Got The Same Look](https://www.last.fm/music/N0THANKY0U/_/Got+The+Same+Look)
-* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)
-* [twikipedia — talk down](https://www.last.fm/music/twikipedia/_/talk+down)
-* [Fax Gang — Anything to Gain/Nothing to Lose](https://www.last.fm/music/Fax+Gang/_/Anything+to+Gain%2FNothing+to+Lose)<!-- LASTFM:END -->
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
+* [recovery girl — recovery girl](https://www.last.fm/music/recovery+girl/_/recovery+girl)
+* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
+* [Jedwill — Garden](https://www.last.fm/music/Jedwill/_/Garden)
+* [Iglooghost — New Vectors](https://www.last.fm/music/Iglooghost/_/New+Vectors)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
