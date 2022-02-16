@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [recovery girl — recovery girl](https://www.last.fm/music/recovery+girl/_/recovery+girl)
-* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
-* [Jedwill — Garden](https://www.last.fm/music/Jedwill/_/Garden)
-* [Iglooghost — New Vectors](https://www.last.fm/music/Iglooghost/_/New+Vectors)<!-- LASTFM:END -->
+* [That Kid — Look At Me](https://www.last.fm/music/That+Kid/_/Look+At+Me)
+* [That Kid — Dial Tone](https://www.last.fm/music/That+Kid/_/Dial+Tone)
+* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
+* [MISOGI — Monopink Dream, 2001](https://www.last.fm/music/MISOGI/_/Monopink+Dream,+2001)
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
