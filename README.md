@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Iglooghost — New Vectors](https://www.last.fm/music/Iglooghost/_/New+Vectors)
+* [N0THANKY0U — Got The Same Look](https://www.last.fm/music/N0THANKY0U/_/Got+The+Same+Look)
+* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)
 * [twikipedia — talk down](https://www.last.fm/music/twikipedia/_/talk+down)
-* [Fax Gang — Anything to Gain/Nothing to Lose](https://www.last.fm/music/Fax+Gang/_/Anything+to+Gain%2FNothing+to+Lose)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)<!-- LASTFM:END -->
+* [Fax Gang — Anything to Gain/Nothing to Lose](https://www.last.fm/music/Fax+Gang/_/Anything+to+Gain%2FNothing+to+Lose)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
