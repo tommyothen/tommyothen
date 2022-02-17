@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [RILEY THE MUSICIAN — Iced Out &lpar;Slowed&rpar;](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/Iced+Out+&lpar;Slowed&rpar;)
-* [Ravenna Golden — R U Joking](https://www.last.fm/music/Ravenna+Golden/_/R+U+Joking)
-* [gupi — Thos Moser](https://www.last.fm/music/gupi/_/Thos+Moser)
-* [Peake — Tantalyse](https://www.last.fm/music/Peake/_/Tantalyse)
-* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)<!-- LASTFM:END -->
+* [Fax Gang — Breathe2 &lpar;In/Out&rpar;](https://www.last.fm/music/Fax+Gang/_/Breathe2+&lpar;In%2FOut&rpar;)
+* [six impala — 6FINGERDEATHPUNCH](https://www.last.fm/music/six+impala/_/6FINGERDEATHPUNCH)
+* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)
+* [99jakes — Liquid](https://www.last.fm/music/99jakes/_/Liquid)
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
