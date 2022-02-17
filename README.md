@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
 * [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
 * [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
-* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)<!-- LASTFM:END -->
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
+* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
+* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
