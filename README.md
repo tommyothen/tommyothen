@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
+* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)
 * [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
 * [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
-* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
-* [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
-* [Chav — Patient Zero](https://www.last.fm/music/Chav/_/Patient+Zero)<!-- LASTFM:END -->
+* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
