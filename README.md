@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [AK420 — On the Move](https://www.last.fm/music/AK420/_/On+the+Move)
+* [Software Soul — Joosin](https://www.last.fm/music/Software+Soul/_/Joosin)
+* [Loe Brezy — Love Me Right](https://www.last.fm/music/Loe+Brezy/_/Love+Me+Right)
 * [Koralle — Souvenir](https://www.last.fm/music/Koralle/_/Souvenir)
-* [Matt Louda — Remedy](https://www.last.fm/music/Matt+Louda/_/Remedy)
-* [BNJO — Moonlight Kite](https://www.last.fm/music/BNJO/_/Moonlight+Kite)
-* [Dualizm — Lycium](https://www.last.fm/music/Dualizm/_/Lycium)
-* [Dave. — lofi jam](https://www.last.fm/music/Dave./_/lofi+jam)<!-- LASTFM:END -->
+* [Matt Louda — Remedy](https://www.last.fm/music/Matt+Louda/_/Remedy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
