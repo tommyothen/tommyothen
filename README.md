@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dpsht — Neon Stream](https://www.last.fm/music/Dpsht/_/Neon+Stream)
-* [Sons Cassettes — Lush City](https://www.last.fm/music/Sons+Cassettes/_/Lush+City)
-* [slowerful — by the book](https://www.last.fm/music/slowerful/_/by+the+book)
-* [Cerwen — Dotters](https://www.last.fm/music/Cerwen/_/Dotters)
-* [Pat Poker — Garden Araki](https://www.last.fm/music/Pat+Poker/_/Garden+Araki)<!-- LASTFM:END -->
+* [Dave. — lofi jam](https://www.last.fm/music/Dave./_/lofi+jam)
+* [Rooftop Shenanigans — Lunch Break Mantra](https://www.last.fm/music/Rooftop+Shenanigans/_/Lunch+Break+Mantra)
+* [Keyser — The Martian Nextdoor](https://www.last.fm/music/Keyser/_/The+Martian+Nextdoor)
+* [Justnormal — Nature&#39;s Love](https://www.last.fm/music/Justnormal/_/Nature%27s+Love)
+* [Dpsht — Neon Stream](https://www.last.fm/music/Dpsht/_/Neon+Stream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
