@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Oops 123 — Santino](https://www.last.fm/music/Oops+123/_/Santino)
-* [Papir Chaser — Ewreka](https://www.last.fm/music/Papir+Chaser/_/Ewreka)
-* [Justnormal — Gracious Goodness](https://www.last.fm/music/Justnormal/_/Gracious+Goodness)
-* [Oscar — Purple love](https://www.last.fm/music/Oscar/_/Purple+love)
-* [Palmyra Flo — Bounce Around](https://www.last.fm/music/Palmyra+Flo/_/Bounce+Around)<!-- LASTFM:END -->
+* [x84 — Something To Sing About](https://www.last.fm/music/x84/_/Something+To+Sing+About)
+* [Gold School — Supercolor](https://www.last.fm/music/Gold+School/_/Supercolor)
+* [Flughand — Everluv](https://www.last.fm/music/Flughand/_/Everluv)
+* [Dustin Pierce — Longing Beats](https://www.last.fm/music/Dustin+Pierce/_/Longing+Beats)
+* [Oops 123 — Santino](https://www.last.fm/music/Oops+123/_/Santino)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
