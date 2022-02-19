@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Galva-Nice — Heart Chakra](https://www.last.fm/music/Galva-Nice/_/Heart+Chakra)
+* [Fableistic — Feathers](https://www.last.fm/music/Fableistic/_/Feathers)
+* [Doubleclique — Tube Socks](https://www.last.fm/music/Doubleclique/_/Tube+Socks)
 * [gsky. — Warm Breeze](https://www.last.fm/music/gsky./_/Warm+Breeze)
-* [Netta Inn — Workit](https://www.last.fm/music/Netta+Inn/_/Workit)
-* [Redmoo — shoe polish](https://www.last.fm/music/Redmoo/_/shoe+polish)
-* [Yung Dark — Coffee Break](https://www.last.fm/music/Yung+Dark/_/Coffee+Break)
-* [Adam Panek — pole mokotowskie](https://www.last.fm/music/Adam+Panek/_/pole+mokotowskie)<!-- LASTFM:END -->
+* [Netta Inn — Workit](https://www.last.fm/music/Netta+Inn/_/Workit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
