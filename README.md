@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [easyFun — Be Your USA](https://www.last.fm/music/easyFun/_/Be+Your+USA)
+* [99jakes — Liquid](https://www.last.fm/music/99jakes/_/Liquid)
 * [Crapface — purrfect](https://www.last.fm/music/Crapface/_/purrfect)
 * [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)<!-- LASTFM:END -->
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
