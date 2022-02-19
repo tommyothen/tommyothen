@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mindscape — Main Source](https://www.last.fm/music/Mindscape/_/Main+Source)
-* [flax flame — charm me](https://www.last.fm/music/flax+flame/_/charm+me)
-* [Revoir — Drift](https://www.last.fm/music/Revoir/_/Drift)
-* [Lil Skate — dripp](https://www.last.fm/music/Lil+Skate/_/dripp)
-* [Lo Roads — Key Moments](https://www.last.fm/music/Lo+Roads/_/Key+Moments)<!-- LASTFM:END -->
+* [Palmyra Flo — Bounce Around](https://www.last.fm/music/Palmyra+Flo/_/Bounce+Around)
+* [Living Room — Warm Breeze](https://www.last.fm/music/Living+Room/_/Warm+Breeze)
+* [Mo Rana — measure](https://www.last.fm/music/Mo+Rana/_/measure)
+* [Bill Snoozer — Just a Dream](https://www.last.fm/music/Bill+Snoozer/_/Just+a+Dream)
+* [Moodster — Restless](https://www.last.fm/music/Moodster/_/Restless)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
