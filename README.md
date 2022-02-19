@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dave. — lofi jam](https://www.last.fm/music/Dave./_/lofi+jam)
-* [Rooftop Shenanigans — Lunch Break Mantra](https://www.last.fm/music/Rooftop+Shenanigans/_/Lunch+Break+Mantra)
-* [Keyser — The Martian Nextdoor](https://www.last.fm/music/Keyser/_/The+Martian+Nextdoor)
-* [Justnormal — Nature&#39;s Love](https://www.last.fm/music/Justnormal/_/Nature%27s+Love)
-* [Dpsht — Neon Stream](https://www.last.fm/music/Dpsht/_/Neon+Stream)<!-- LASTFM:END -->
+* [Koralle — Souvenir](https://www.last.fm/music/Koralle/_/Souvenir)
+* [Matt Louda — Remedy](https://www.last.fm/music/Matt+Louda/_/Remedy)
+* [BNJO — Moonlight Kite](https://www.last.fm/music/BNJO/_/Moonlight+Kite)
+* [Dualizm — Lycium](https://www.last.fm/music/Dualizm/_/Lycium)
+* [Dave. — lofi jam](https://www.last.fm/music/Dave./_/lofi+jam)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
