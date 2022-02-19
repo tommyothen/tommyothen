@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hype Right — 280](https://www.last.fm/music/Hype+Right/_/280)
-* [Mothica — buzzkill](https://www.last.fm/music/Mothica/_/buzzkill)
-* [Culprate — Mechanic Heartbeat](https://www.last.fm/music/Culprate/_/Mechanic+Heartbeat)
-* [Evenson — HOW CAN I SLEEP](https://www.last.fm/music/Evenson/_/HOW+CAN+I+SLEEP)
-* [Hovey Benjamin — Cute Not Hot](https://www.last.fm/music/Hovey+Benjamin/_/Cute+Not+Hot)<!-- LASTFM:END -->
+* [Mindscape — Main Source](https://www.last.fm/music/Mindscape/_/Main+Source)
+* [flax flame — charm me](https://www.last.fm/music/flax+flame/_/charm+me)
+* [Revoir — Drift](https://www.last.fm/music/Revoir/_/Drift)
+* [Lil Skate — dripp](https://www.last.fm/music/Lil+Skate/_/dripp)
+* [Lo Roads — Key Moments](https://www.last.fm/music/Lo+Roads/_/Key+Moments)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
