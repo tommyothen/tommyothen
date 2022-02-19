@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Galva-Nice — Heart Chakra](https://www.last.fm/music/Galva-Nice/_/Heart+Chakra)
-* [Fableistic — Feathers](https://www.last.fm/music/Fableistic/_/Feathers)
-* [Doubleclique — Tube Socks](https://www.last.fm/music/Doubleclique/_/Tube+Socks)
-* [gsky. — Warm Breeze](https://www.last.fm/music/gsky./_/Warm+Breeze)
-* [Netta Inn — Workit](https://www.last.fm/music/Netta+Inn/_/Workit)<!-- LASTFM:END -->
+* [Pat Poker — Garden Araki](https://www.last.fm/music/Pat+Poker/_/Garden+Araki)
+* [jobii — Curlicue](https://www.last.fm/music/jobii/_/Curlicue)
+* [willie johns — nocturnal interruptions](https://www.last.fm/music/willie+johns/_/nocturnal+interruptions)
+* [Astairé — Clouds](https://www.last.fm/music/Astair%C3%A9/_/Clouds)
+* [Eye Tide — Home Made Dynamite](https://www.last.fm/music/Eye+Tide/_/Home+Made+Dynamite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
