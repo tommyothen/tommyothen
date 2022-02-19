@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
 * [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
 * [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)
-* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
-* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
-* [H8 Music — BLEEDING!](https://www.last.fm/music/H8+Music/_/BLEEDING!)<!-- LASTFM:END -->
+* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
