@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [H8 Music — BLEEDING!](https://www.last.fm/music/H8+Music/_/BLEEDING!)
-* [Mothica — buzzkill](https://www.last.fm/music/Mothica/_/buzzkill)
-* [Culprate — Mechanic Heartbeat](https://www.last.fm/music/Culprate/_/Mechanic+Heartbeat)
-* [Evenson — HOW CAN I SLEEP](https://www.last.fm/music/Evenson/_/HOW+CAN+I+SLEEP)
-* [Hovey Benjamin — Cute Not Hot](https://www.last.fm/music/Hovey+Benjamin/_/Cute+Not+Hot)<!-- LASTFM:END -->
+* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
+* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)
+* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
+* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
+* [H8 Music — BLEEDING!](https://www.last.fm/music/H8+Music/_/BLEEDING!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
