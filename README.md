@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blue Noodles — Flippant](https://www.last.fm/music/Blue+Noodles/_/Flippant)
+* [Beatmund Noise — Weird Folks](https://www.last.fm/music/Beatmund+Noise/_/Weird+Folks)
+* [Blackburri — Don&#39;t Forget to Wave When You Travel Through Time](https://www.last.fm/music/Blackburri/_/Don%27t+Forget+to+Wave+When+You+Travel+Through+Time)
 * [Oskar Hahn — Colorful Leaves](https://www.last.fm/music/Oskar+Hahn/_/Colorful+Leaves)
-* [Pantone — Springy](https://www.last.fm/music/Pantone/_/Springy)
-* [Pat Laine — Mulholland Cruise](https://www.last.fm/music/Pat+Laine/_/Mulholland+Cruise)
-* [AK420 — On the Move](https://www.last.fm/music/AK420/_/On+the+Move)
-* [Software Soul — Joosin](https://www.last.fm/music/Software+Soul/_/Joosin)<!-- LASTFM:END -->
+* [Pantone — Springy](https://www.last.fm/music/Pantone/_/Springy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
