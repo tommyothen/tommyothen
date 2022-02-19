@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Adam Panek — pole mokotowskie](https://www.last.fm/music/Adam+Panek/_/pole+mokotowskie)
-* [downstreamdream — Maybe Tomorrow](https://www.last.fm/music/downstreamdream/_/Maybe+Tomorrow)
-* [wahzaf:tru — Your Jacket Though](https://www.last.fm/music/wahzaf:tru/_/Your+Jacket+Though)
-* [aviscerall — all the things I can&#39;t control](https://www.last.fm/music/aviscerall/_/all+the+things+I+can%27t+control)
-* [lostoutside — Fade Away](https://www.last.fm/music/lostoutside/_/Fade+Away)<!-- LASTFM:END -->
+* [gsky. — Warm Breeze](https://www.last.fm/music/gsky./_/Warm+Breeze)
+* [Netta Inn — Workit](https://www.last.fm/music/Netta+Inn/_/Workit)
+* [Redmoo — shoe polish](https://www.last.fm/music/Redmoo/_/shoe+polish)
+* [Yung Dark — Coffee Break](https://www.last.fm/music/Yung+Dark/_/Coffee+Break)
+* [Adam Panek — pole mokotowskie](https://www.last.fm/music/Adam+Panek/_/pole+mokotowskie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
