@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Palmyra Flo — Bounce Around](https://www.last.fm/music/Palmyra+Flo/_/Bounce+Around)
-* [Living Room — Warm Breeze](https://www.last.fm/music/Living+Room/_/Warm+Breeze)
-* [Mo Rana — measure](https://www.last.fm/music/Mo+Rana/_/measure)
-* [Bill Snoozer — Just a Dream](https://www.last.fm/music/Bill+Snoozer/_/Just+a+Dream)
-* [Moodster — Restless](https://www.last.fm/music/Moodster/_/Restless)<!-- LASTFM:END -->
+* [Oops 123 — Santino](https://www.last.fm/music/Oops+123/_/Santino)
+* [Papir Chaser — Ewreka](https://www.last.fm/music/Papir+Chaser/_/Ewreka)
+* [Justnormal — Gracious Goodness](https://www.last.fm/music/Justnormal/_/Gracious+Goodness)
+* [Oscar — Purple love](https://www.last.fm/music/Oscar/_/Purple+love)
+* [Palmyra Flo — Bounce Around](https://www.last.fm/music/Palmyra+Flo/_/Bounce+Around)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
