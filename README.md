@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [aviscerall — all the things I can&#39;t control](https://www.last.fm/music/aviscerall/_/all+the+things+I+can%27t+control)
+* [lostoutside — Fade Away](https://www.last.fm/music/lostoutside/_/Fade+Away)
 * [x84 — Something To Sing About](https://www.last.fm/music/x84/_/Something+To+Sing+About)
 * [Gold School — Supercolor](https://www.last.fm/music/Gold+School/_/Supercolor)
-* [Flughand — Everluv](https://www.last.fm/music/Flughand/_/Everluv)
-* [Dustin Pierce — Longing Beats](https://www.last.fm/music/Dustin+Pierce/_/Longing+Beats)
-* [Oops 123 — Santino](https://www.last.fm/music/Oops+123/_/Santino)<!-- LASTFM:END -->
+* [Flughand — Everluv](https://www.last.fm/music/Flughand/_/Everluv)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
