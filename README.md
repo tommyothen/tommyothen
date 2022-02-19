@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Culprate — Mechanic Heartbeat](https://www.last.fm/music/Culprate/_/Mechanic+Heartbeat)
+* [Evenson — HOW CAN I SLEEP](https://www.last.fm/music/Evenson/_/HOW+CAN+I+SLEEP)
 * [Hovey Benjamin — Cute Not Hot](https://www.last.fm/music/Hovey+Benjamin/_/Cute+Not+Hot)
 * [Ethan Bortnick — Final Boss](https://www.last.fm/music/Ethan+Bortnick/_/Final+Boss)
-* [GOLDSPACE — Bad Love](https://www.last.fm/music/GOLDSPACE/_/Bad+Love)
-* [Properties of Nature — L.S.F.H.Q.P.](https://www.last.fm/music/Properties+of+Nature/_/L.S.F.H.Q.P.)
-* [Sub Urban — PARAMOUR &lpar;feat. AURORA&rpar;](https://www.last.fm/music/Sub+Urban/_/PARAMOUR+&lpar;feat.+AURORA&rpar;)<!-- LASTFM:END -->
+* [GOLDSPACE — Bad Love](https://www.last.fm/music/GOLDSPACE/_/Bad+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
