@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Properties of Nature — L.S.F.H.Q.P.](https://www.last.fm/music/Properties+of+Nature/_/L.S.F.H.Q.P.)
+* [Sub Urban — PARAMOUR &lpar;feat. AURORA&rpar;](https://www.last.fm/music/Sub+Urban/_/PARAMOUR+&lpar;feat.+AURORA&rpar;)
+* [Mitsunori Ikeda — Fallen Angel feat. Aimee B](https://www.last.fm/music/Mitsunori+Ikeda/_/Fallen+Angel+feat.+Aimee+B)
 * [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
-* [CyberGirlfriend — Every Little Thing](https://www.last.fm/music/CyberGirlfriend/_/Every+Little+Thing)
-* [easyFun — Be Your USA](https://www.last.fm/music/easyFun/_/Be+Your+USA)
-* [99jakes — Liquid](https://www.last.fm/music/99jakes/_/Liquid)
-* [Crapface — purrfect](https://www.last.fm/music/Crapface/_/purrfect)<!-- LASTFM:END -->
+* [CyberGirlfriend — Every Little Thing](https://www.last.fm/music/CyberGirlfriend/_/Every+Little+Thing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
