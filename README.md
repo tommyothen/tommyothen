@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Nuver — Starscapes](https://www.last.fm/music/Nuver/_/Starscapes)
-* [Ensidya — Raincoat](https://www.last.fm/music/Ensidya/_/Raincoat)
-* [Esoterak — Blossom](https://www.last.fm/music/Esoterak/_/Blossom)
-* [Curly Tree — refresh](https://www.last.fm/music/Curly+Tree/_/refresh)
-* [Baseful — Eudaemonia](https://www.last.fm/music/Baseful/_/Eudaemonia)<!-- LASTFM:END -->
+* [Beats Me, Innit? — Angel Number](https://www.last.fm/music/Beats+Me,+Innit%3F/_/Angel+Number)
+* [Raindear — Sketchy Dreamers](https://www.last.fm/music/Raindear/_/Sketchy+Dreamers)
+* [Azetz — Dirty Ensemble](https://www.last.fm/music/Azetz/_/Dirty+Ensemble)
+* [Sail &amp; Weep — Liza waited](https://www.last.fm/music/Sail+&amp;+Weep/_/Liza+waited)
+* [Phive O — LMIRL](https://www.last.fm/music/Phive+O/_/LMIRL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
