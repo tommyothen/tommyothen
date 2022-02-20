@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [hz. — Beyond the Oak Trees](https://www.last.fm/music/hz./_/Beyond+the+Oak+Trees)
-* [BƱBBLE — Fairy Tale](https://www.last.fm/music/B%C6%B1BBLE/_/Fairy+Tale)
-* [Milo The Cat — Always On Time](https://www.last.fm/music/Milo+The+Cat/_/Always+On+Time)
-* [Blackburri — Sky Lullaby](https://www.last.fm/music/Blackburri/_/Sky+Lullaby)
-* [Maci — calm motion](https://www.last.fm/music/Maci/_/calm+motion)<!-- LASTFM:END -->
+* [RSBD — Babbling Brook](https://www.last.fm/music/RSBD/_/Babbling+Brook)
+* [Mr OCB — Magic Animal](https://www.last.fm/music/Mr+OCB/_/Magic+Animal)
+* [O K O — secrets i keep](https://www.last.fm/music/O+K+O/_/secrets+i+keep)
+* [somni — Hope!](https://www.last.fm/music/somni/_/Hope!)
+* [PIÑA PINK — Cloud Studio](https://www.last.fm/music/PI%C3%91A+PINK/_/Cloud+Studio)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
