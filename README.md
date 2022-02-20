@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Smith Village Beat Street — Doheny](https://www.last.fm/music/Smith+Village+Beat+Street/_/Doheny)
-* [Analog Sunset — comin 4 ya](https://www.last.fm/music/Analog+Sunset/_/comin+4+ya)
-* [boshi — somewhat breezy](https://www.last.fm/music/boshi/_/somewhat+breezy)
-* [8track mind — Riff Raff](https://www.last.fm/music/8track+mind/_/Riff+Raff)
-* [Dynambo — Laidback Ristretto](https://www.last.fm/music/Dynambo/_/Laidback+Ristretto)<!-- LASTFM:END -->
+* [Matt Large — For Ilion &lpar;Chefen&rpar;](https://www.last.fm/music/Matt+Large/_/For+Ilion+&lpar;Chefen&rpar;)
+* [boshi — falling](https://www.last.fm/music/boshi/_/falling)
+* [Kolorama — florida keys](https://www.last.fm/music/Kolorama/_/florida+keys)
+* [Wun Two — Aqvarium](https://www.last.fm/music/Wun+Two/_/Aqvarium)
+* [AuxJack — Startup](https://www.last.fm/music/AuxJack/_/Startup)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
