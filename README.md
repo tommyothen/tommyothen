@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Beats Me, Innit? — Angel Number](https://www.last.fm/music/Beats+Me,+Innit%3F/_/Angel+Number)
-* [Raindear — Sketchy Dreamers](https://www.last.fm/music/Raindear/_/Sketchy+Dreamers)
-* [Azetz — Dirty Ensemble](https://www.last.fm/music/Azetz/_/Dirty+Ensemble)
-* [Sail &amp; Weep — Liza waited](https://www.last.fm/music/Sail+&amp;+Weep/_/Liza+waited)
-* [Phive O — LMIRL](https://www.last.fm/music/Phive+O/_/LMIRL)<!-- LASTFM:END -->
+* [Lightover — It Was One Look Into Your Eyes](https://www.last.fm/music/Lightover/_/It+Was+One+Look+Into+Your+Eyes)
+* [Baggers and Losers — Fruitee](https://www.last.fm/music/Baggers+and+Losers/_/Fruitee)
+* [drawn animal — tasting menu](https://www.last.fm/music/drawn+animal/_/tasting+menu)
+* [Idyllik Beat — Purple &amp; Yellow](https://www.last.fm/music/Idyllik+Beat/_/Purple+&amp;+Yellow)
+* [X-Raah — Lay back and Groove](https://www.last.fm/music/X-Raah/_/Lay+back+and+Groove)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
