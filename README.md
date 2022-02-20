@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Komorebi — Tonde Iru Tori](https://www.last.fm/music/Komorebi/_/Tonde+Iru+Tori)
-* [svanen — Floating](https://www.last.fm/music/svanen/_/Floating)
-* [forever grown — make it right](https://www.last.fm/music/forever+grown/_/make+it+right)
-* [Zig Zagger — And the guitar plays on](https://www.last.fm/music/Zig+Zagger/_/And+the+guitar+plays+on)
-* [Obie Hans — Floating Between](https://www.last.fm/music/Obie+Hans/_/Floating+Between)<!-- LASTFM:END -->
+* [hz. — Beyond the Oak Trees](https://www.last.fm/music/hz./_/Beyond+the+Oak+Trees)
+* [BƱBBLE — Fairy Tale](https://www.last.fm/music/B%C6%B1BBLE/_/Fairy+Tale)
+* [Milo The Cat — Always On Time](https://www.last.fm/music/Milo+The+Cat/_/Always+On+Time)
+* [Blackburri — Sky Lullaby](https://www.last.fm/music/Blackburri/_/Sky+Lullaby)
+* [Maci — calm motion](https://www.last.fm/music/Maci/_/calm+motion)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
