@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
+* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
+* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
 * [Matt Large — For Ilion &lpar;Chefen&rpar;](https://www.last.fm/music/Matt+Large/_/For+Ilion+&lpar;Chefen&rpar;)
-* [boshi — falling](https://www.last.fm/music/boshi/_/falling)
-* [Kolorama — florida keys](https://www.last.fm/music/Kolorama/_/florida+keys)
-* [Wun Two — Aqvarium](https://www.last.fm/music/Wun+Two/_/Aqvarium)
-* [AuxJack — Startup](https://www.last.fm/music/AuxJack/_/Startup)<!-- LASTFM:END -->
+* [boshi — falling](https://www.last.fm/music/boshi/_/falling)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
