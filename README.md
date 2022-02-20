@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [RSBD — Babbling Brook](https://www.last.fm/music/RSBD/_/Babbling+Brook)
-* [Mr OCB — Magic Animal](https://www.last.fm/music/Mr+OCB/_/Magic+Animal)
-* [O K O — secrets i keep](https://www.last.fm/music/O+K+O/_/secrets+i+keep)
-* [somni — Hope!](https://www.last.fm/music/somni/_/Hope!)
-* [PIÑA PINK — Cloud Studio](https://www.last.fm/music/PI%C3%91A+PINK/_/Cloud+Studio)<!-- LASTFM:END -->
+* [Smith Village Beat Street — Doheny](https://www.last.fm/music/Smith+Village+Beat+Street/_/Doheny)
+* [Analog Sunset — comin 4 ya](https://www.last.fm/music/Analog+Sunset/_/comin+4+ya)
+* [boshi — somewhat breezy](https://www.last.fm/music/boshi/_/somewhat+breezy)
+* [8track mind — Riff Raff](https://www.last.fm/music/8track+mind/_/Riff+Raff)
+* [Dynambo — Laidback Ristretto](https://www.last.fm/music/Dynambo/_/Laidback+Ristretto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
