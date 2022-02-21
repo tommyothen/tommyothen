@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
+* [Particle House — Tokyo Dreaming](https://www.last.fm/music/Particle+House/_/Tokyo+Dreaming)
+* [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
 * [Talkless — Why](https://www.last.fm/music/Talkless/_/Why)
-* [VGR — Beneath the Mask](https://www.last.fm/music/VGR/_/Beneath+the+Mask)
-* [cryjng — orange](https://www.last.fm/music/cryjng/_/orange)
-* [Reu — Dead Crab Exoskeleton](https://www.last.fm/music/Reu/_/Dead+Crab+Exoskeleton)<!-- LASTFM:END -->
+* [VGR — Beneath the Mask](https://www.last.fm/music/VGR/_/Beneath+the+Mask)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
