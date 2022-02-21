@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dazik69 — Lo-Fi Prism](https://www.last.fm/music/Dazik69/_/Lo-Fi+Prism)
-* [Embassay — city lights](https://www.last.fm/music/Embassay/_/city+lights)
-* [shawn pink — intentions](https://www.last.fm/music/shawn+pink/_/intentions)
-* [Yungie x 2 — El Mariachi](https://www.last.fm/music/Yungie+x+2/_/El+Mariachi)
-* [Lithe X — Demure](https://www.last.fm/music/Lithe+X/_/Demure)<!-- LASTFM:END -->
+* [meadowzz — subtopia](https://www.last.fm/music/meadowzz/_/subtopia)
+* [Sakloma24 — Sunshine Recorder](https://www.last.fm/music/Sakloma24/_/Sunshine+Recorder)
+* [mr mirakami — Vida Hermosa](https://www.last.fm/music/mr+mirakami/_/Vida+Hermosa)
+* [Joshua Burnside — The Only Thing I Fear - uladh. Remix](https://www.last.fm/music/Joshua+Burnside/_/The+Only+Thing+I+Fear+-+uladh.+Remix)
+* [Dazik69 — Lo-Fi Prism](https://www.last.fm/music/Dazik69/_/Lo-Fi+Prism)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
