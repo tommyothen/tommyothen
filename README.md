@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [meadowzz — subtopia](https://www.last.fm/music/meadowzz/_/subtopia)
-* [Sakloma24 — Sunshine Recorder](https://www.last.fm/music/Sakloma24/_/Sunshine+Recorder)
-* [mr mirakami — Vida Hermosa](https://www.last.fm/music/mr+mirakami/_/Vida+Hermosa)
-* [Joshua Burnside — The Only Thing I Fear - uladh. Remix](https://www.last.fm/music/Joshua+Burnside/_/The+Only+Thing+I+Fear+-+uladh.+Remix)
-* [Dazik69 — Lo-Fi Prism](https://www.last.fm/music/Dazik69/_/Lo-Fi+Prism)<!-- LASTFM:END -->
+* [Flughand — peninsula](https://www.last.fm/music/Flughand/_/peninsula)
+* [Lovely Rascals — Heart-Shaped](https://www.last.fm/music/Lovely+Rascals/_/Heart-Shaped)
+* [Bill Snoozer — Just a Dream](https://www.last.fm/music/Bill+Snoozer/_/Just+a+Dream)
+* [Blackburri — Don&#39;t Forget to Wave When You Travel Through Time](https://www.last.fm/music/Blackburri/_/Don%27t+Forget+to+Wave+When+You+Travel+Through+Time)
+* [Netta Inn — Workit](https://www.last.fm/music/Netta+Inn/_/Workit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
