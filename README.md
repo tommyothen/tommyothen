@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Papir Chaser — Ewreka](https://www.last.fm/music/Papir+Chaser/_/Ewreka)
-* [Catchaser — Lamplight](https://www.last.fm/music/Catchaser/_/Lamplight)
-* [Hype Right — 280](https://www.last.fm/music/Hype+Right/_/280)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
-* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)<!-- LASTFM:END -->
+* [Papi Pier — Pool of Swim](https://www.last.fm/music/Papi+Pier/_/Pool+of+Swim)
+* [Hand Made — Built By Clay](https://www.last.fm/music/Hand+Made/_/Built+By+Clay)
+* [Jerry Izo — Quench](https://www.last.fm/music/Jerry+Izo/_/Quench)
+* [PartIka — A Slight Return](https://www.last.fm/music/PartIka/_/A+Slight+Return)
+* [Papir Chaser — Ewreka](https://www.last.fm/music/Papir+Chaser/_/Ewreka)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
