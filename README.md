@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lithe X — Demure](https://www.last.fm/music/Lithe+X/_/Demure)
-* [Donovan&#39;s Playground — embrace](https://www.last.fm/music/Donovan%27s+Playground/_/embrace)
-* [Studymaster — Electric Staircase](https://www.last.fm/music/Studymaster/_/Electric+Staircase)
-* [Papi Pier — Pool of Swim](https://www.last.fm/music/Papi+Pier/_/Pool+of+Swim)
-* [Hand Made — Built By Clay](https://www.last.fm/music/Hand+Made/_/Built+By+Clay)<!-- LASTFM:END -->
+* [Dazik69 — Lo-Fi Prism](https://www.last.fm/music/Dazik69/_/Lo-Fi+Prism)
+* [Embassay — city lights](https://www.last.fm/music/Embassay/_/city+lights)
+* [shawn pink — intentions](https://www.last.fm/music/shawn+pink/_/intentions)
+* [Yungie x 2 — El Mariachi](https://www.last.fm/music/Yungie+x+2/_/El+Mariachi)
+* [Lithe X — Demure](https://www.last.fm/music/Lithe+X/_/Demure)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
