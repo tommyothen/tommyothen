@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
+* [Vanilla Beach — Leafy Greens](https://www.last.fm/music/Vanilla+Beach/_/Leafy+Greens)
 * [Moodster — Restless](https://www.last.fm/music/Moodster/_/Restless)
 * [boogieboo — lily](https://www.last.fm/music/boogieboo/_/lily)
-* [Flughand — peninsula](https://www.last.fm/music/Flughand/_/peninsula)
-* [Lovely Rascals — Heart-Shaped](https://www.last.fm/music/Lovely+Rascals/_/Heart-Shaped)
-* [Bill Snoozer — Just a Dream](https://www.last.fm/music/Bill+Snoozer/_/Just+a+Dream)<!-- LASTFM:END -->
+* [Flughand — peninsula](https://www.last.fm/music/Flughand/_/peninsula)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
