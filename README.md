@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mazie — i think i wanna be alone](https://www.last.fm/music/Mazie/_/i+think+i+wanna+be+alone)
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Talkless — Why](https://www.last.fm/music/Talkless/_/Why)
-* [Oliver Hoss — Makima](https://www.last.fm/music/Oliver+Hoss/_/Makima)
-* [Hatena — notfair](https://www.last.fm/music/Hatena/_/notfair)<!-- LASTFM:END -->
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
+* [Talkless — Why](https://www.last.fm/music/Talkless/_/Why)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
