@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Talkless — Why](https://www.last.fm/music/Talkless/_/Why)
+* [Oliver Hoss — Makima](https://www.last.fm/music/Oliver+Hoss/_/Makima)
+* [Hatena — notfair](https://www.last.fm/music/Hatena/_/notfair)
 * [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)
-* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
-* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)<!-- LASTFM:END -->
+* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
