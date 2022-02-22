@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
 * [Talkless — Why](https://www.last.fm/music/Talkless/_/Why)
 * [Oliver Hoss — Makima](https://www.last.fm/music/Oliver+Hoss/_/Makima)
-* [Hatena — notfair](https://www.last.fm/music/Hatena/_/notfair)
-* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)<!-- LASTFM:END -->
+* [Hatena — notfair](https://www.last.fm/music/Hatena/_/notfair)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
