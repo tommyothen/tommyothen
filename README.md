@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Between Friends — affection](https://www.last.fm/music/Between+Friends/_/affection)
 * [Mazie — i think i wanna be alone](https://www.last.fm/music/Mazie/_/i+think+i+wanna+be+alone)
 * [REI AMI — MAKE IT MINE](https://www.last.fm/music/REI+AMI/_/MAKE+IT+MINE)
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
-* [Payday — I Don&#39;t Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)<!-- LASTFM:END -->
+* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
