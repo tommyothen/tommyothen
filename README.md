@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
+* [Particle House — Tokyo Dreaming](https://www.last.fm/music/Particle+House/_/Tokyo+Dreaming)
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
 * [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
-* [Between Friends — affection](https://www.last.fm/music/Between+Friends/_/affection)
-* [Mazie — i think i wanna be alone](https://www.last.fm/music/Mazie/_/i+think+i+wanna+be+alone)
-* [REI AMI — MAKE IT MINE](https://www.last.fm/music/REI+AMI/_/MAKE+IT+MINE)<!-- LASTFM:END -->
+* [Between Friends — affection](https://www.last.fm/music/Between+Friends/_/affection)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
