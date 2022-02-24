@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Burgundy — Cigar in the Snow](https://www.last.fm/music/Burgundy/_/Cigar+in+the+Snow)
+* [Rook Monroe — Californialand](https://www.last.fm/music/Rook+Monroe/_/Californialand)
+* [ayo river — Archaeology](https://www.last.fm/music/ayo+river/_/Archaeology)
 * [Elroy — ANGEL 9](https://www.last.fm/music/Elroy/_/ANGEL+9)
-* [Lubalin — Too Much](https://www.last.fm/music/Lubalin/_/Too+Much)
-* [Miko — I Wasn&#39;t Made to Fall in Love](https://www.last.fm/music/Miko/_/I+Wasn%27t+Made+to+Fall+in+Love)
-* [tone october — why don&#39;t i feel the same](https://www.last.fm/music/tone+october/_/why+don%27t+i+feel+the+same)
-* [Molokai — Ooh Baby](https://www.last.fm/music/Molokai/_/Ooh+Baby)<!-- LASTFM:END -->
+* [Lubalin — Too Much](https://www.last.fm/music/Lubalin/_/Too+Much)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
