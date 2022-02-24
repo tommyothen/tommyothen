@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Silica Gel — Hibernation](https://www.last.fm/music/Silica+Gel/_/Hibernation)
-* [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
-* [esperr. — Did I Stutter?](https://www.last.fm/music/esperr./_/Did+I+Stutter%3F)
-* [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
+* [Piri — Mass Suicide](https://www.last.fm/music/Piri/_/Mass+Suicide)
+* [Balming Tiger — Armadillo &lpar;feat. Omega Sapien &amp; Byung un&rpar;](https://www.last.fm/music/Balming+Tiger/_/Armadillo+&lpar;feat.+Omega+Sapien+&amp;+Byung+un&rpar;)
+* [Junoflo — Acid Freestyle](https://www.last.fm/music/Junoflo/_/Acid+Freestyle)
+* [YUNHWAY — Bitchu](https://www.last.fm/music/YUNHWAY/_/Bitchu)
+* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
