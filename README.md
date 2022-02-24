@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MARCO LUKA — do me wrong](https://www.last.fm/music/MARCO+LUKA/_/do+me+wrong)
+* [On Planets — Don&#39;t Think So Hard](https://www.last.fm/music/On+Planets/_/Don%27t+Think+So+Hard)
 * [Namara — The Corner I Painted Myself Into](https://www.last.fm/music/Namara/_/The+Corner+I+Painted+Myself+Into)
 * [PLURBS — PROMISE ME](https://www.last.fm/music/PLURBS/_/PROMISE+ME)
-* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
-* [Piri — Mass Suicide](https://www.last.fm/music/Piri/_/Mass+Suicide)
-* [Balming Tiger — Armadillo &lpar;feat. Omega Sapien &amp; Byung un&rpar;](https://www.last.fm/music/Balming+Tiger/_/Armadillo+&lpar;feat.+Omega+Sapien+&amp;+Byung+un&rpar;)<!-- LASTFM:END -->
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
