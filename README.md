@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Silica Gel — Hibernation](https://www.last.fm/music/Silica+Gel/_/Hibernation)
+* [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
 * [esperr. — Did I Stutter?](https://www.last.fm/music/esperr./_/Did+I+Stutter%3F)
 * [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
-* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)<!-- LASTFM:END -->
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
