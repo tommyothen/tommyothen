@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ladiesmile — GOODMORNING!](https://www.last.fm/music/ladiesmile/_/GOODMORNING!)
+* [dev soter — Brainlesss](https://www.last.fm/music/dev+soter/_/Brainlesss)
+* [Sean Pixel — all i ever wanted](https://www.last.fm/music/Sean+Pixel/_/all+i+ever+wanted)
 * [Jean Dawson — Napster](https://www.last.fm/music/Jean+Dawson/_/Napster)
-* [Burgundy — Cigar in the Snow](https://www.last.fm/music/Burgundy/_/Cigar+in+the+Snow)
-* [Rook Monroe — Californialand](https://www.last.fm/music/Rook+Monroe/_/Californialand)
-* [ayo river — Archaeology](https://www.last.fm/music/ayo+river/_/Archaeology)
-* [Elroy — ANGEL 9](https://www.last.fm/music/Elroy/_/ANGEL+9)<!-- LASTFM:END -->
+* [Burgundy — Cigar in the Snow](https://www.last.fm/music/Burgundy/_/Cigar+in+the+Snow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
