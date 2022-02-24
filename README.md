@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sean Pixel — all i ever wanted](https://www.last.fm/music/Sean+Pixel/_/all+i+ever+wanted)
+* [Jean Dawson — Napster](https://www.last.fm/music/Jean+Dawson/_/Napster)
+* [Burgundy — Cigar in the Snow](https://www.last.fm/music/Burgundy/_/Cigar+in+the+Snow)
 * [Rook Monroe — Californialand](https://www.last.fm/music/Rook+Monroe/_/Californialand)
-* [ayo river — Archaeology](https://www.last.fm/music/ayo+river/_/Archaeology)
-* [Elroy — ANGEL 9](https://www.last.fm/music/Elroy/_/ANGEL+9)
-* [Lubalin — Too Much](https://www.last.fm/music/Lubalin/_/Too+Much)
-* [Miko — I Wasn&#39;t Made to Fall in Love](https://www.last.fm/music/Miko/_/I+Wasn%27t+Made+to+Fall+in+Love)<!-- LASTFM:END -->
+* [ayo river — Archaeology](https://www.last.fm/music/ayo+river/_/Archaeology)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
