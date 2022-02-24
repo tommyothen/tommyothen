@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [tone october — why don&#39;t i feel the same](https://www.last.fm/music/tone+october/_/why+don%27t+i+feel+the+same)
+* [Molokai — Ooh Baby](https://www.last.fm/music/Molokai/_/Ooh+Baby)
 * [Ferdous — Gravity](https://www.last.fm/music/Ferdous/_/Gravity)
 * [banzai florist — 17 AGAIN](https://www.last.fm/music/banzai+florist/_/17+AGAIN)
-* [sunflower tape machine — sophomore sweetheart](https://www.last.fm/music/sunflower+tape+machine/_/sophomore+sweetheart)
-* [8RO8 — Zip Pac](https://www.last.fm/music/8RO8/_/Zip+Pac)
-* [Eslicky — Frenz](https://www.last.fm/music/Eslicky/_/Frenz)<!-- LASTFM:END -->
+* [sunflower tape machine — sophomore sweetheart](https://www.last.fm/music/sunflower+tape+machine/_/sophomore+sweetheart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
