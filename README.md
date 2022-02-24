@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [8RO8 — Zip Pac](https://www.last.fm/music/8RO8/_/Zip+Pac)
+* [Eslicky — Frenz](https://www.last.fm/music/Eslicky/_/Frenz)
+* [MARCO LUKA — do me wrong](https://www.last.fm/music/MARCO+LUKA/_/do+me+wrong)
 * [Namara — The Corner I Painted Myself Into](https://www.last.fm/music/Namara/_/The+Corner+I+Painted+Myself+Into)
-* [PLURBS — PROMISE ME](https://www.last.fm/music/PLURBS/_/PROMISE+ME)
-* [Jesse Aicher — Last Night, 4 Years Ago](https://www.last.fm/music/Jesse+Aicher/_/Last+Night,+4+Years+Ago)
-* [Seno — Elizabeth &lpar;feat. Dominic Fike&rpar;](https://www.last.fm/music/Seno/_/Elizabeth+&lpar;feat.+Dominic+Fike&rpar;)
-* [Harry Was Here — &amp;](https://www.last.fm/music/Harry+Was+Here/_/&amp;)<!-- LASTFM:END -->
+* [PLURBS — PROMISE ME](https://www.last.fm/music/PLURBS/_/PROMISE+ME)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
