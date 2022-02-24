@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)
 * [Virtual Riot — In My Head](https://www.last.fm/music/Virtual+Riot/_/In+My+Head)
 * [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
 * [Untitled AI — Hai Domo](https://www.last.fm/music/Untitled+AI/_/Hai+Domo)
-* [khai dreams — All I Need](https://www.last.fm/music/khai+dreams/_/All+I+Need)
-* [Rich Brian — Rapapapa &lpar;feat. RZA&rpar;](https://www.last.fm/music/Rich+Brian/_/Rapapapa+&lpar;feat.+RZA&rpar;)<!-- LASTFM:END -->
+* [khai dreams — All I Need](https://www.last.fm/music/khai+dreams/_/All+I+Need)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
