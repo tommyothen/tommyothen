@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MARCO LUKA — do me wrong](https://www.last.fm/music/MARCO+LUKA/_/do+me+wrong)
+* [On Planets — Don&#39;t Think So Hard](https://www.last.fm/music/On+Planets/_/Don%27t+Think+So+Hard)
 * [Namara — The Corner I Painted Myself Into](https://www.last.fm/music/Namara/_/The+Corner+I+Painted+Myself+Into)
 * [PLURBS — PROMISE ME](https://www.last.fm/music/PLURBS/_/PROMISE+ME)
-* [Jesse Aicher — Last Night, 4 Years Ago](https://www.last.fm/music/Jesse+Aicher/_/Last+Night,+4+Years+Ago)
-* [Seno — Elizabeth &lpar;feat. Dominic Fike&rpar;](https://www.last.fm/music/Seno/_/Elizabeth+&lpar;feat.+Dominic+Fike&rpar;)
-* [Harry Was Here — &amp;](https://www.last.fm/music/Harry+Was+Here/_/&amp;)<!-- LASTFM:END -->
+* [Jesse Aicher — Last Night, 4 Years Ago](https://www.last.fm/music/Jesse+Aicher/_/Last+Night,+4+Years+Ago)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
