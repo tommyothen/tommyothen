@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Coletta — Sweet Nothin&#39;](https://www.last.fm/music/Coletta/_/Sweet+Nothin%27)
+* [POLICE CAR COLLECTIVE — ALLTHETIME](https://www.last.fm/music/POLICE+CAR+COLLECTIVE/_/ALLTHETIME)
+* [BRYVN — Not The Hills](https://www.last.fm/music/BRYVN/_/Not+The+Hills)
 * [Angelo Mota — Do Not Disturb](https://www.last.fm/music/Angelo+Mota/_/Do+Not+Disturb)
-* [Aaron Taos — Ain&#39;t Over You](https://www.last.fm/music/Aaron+Taos/_/Ain%27t+Over+You)
-* [Joey Maxwell — leaves blow over](https://www.last.fm/music/Joey+Maxwell/_/leaves+blow+over)
-* [ladiesmile — GOODMORNING!](https://www.last.fm/music/ladiesmile/_/GOODMORNING!)
-* [dev soter — Brainlesss](https://www.last.fm/music/dev+soter/_/Brainlesss)<!-- LASTFM:END -->
+* [Aaron Taos — Ain&#39;t Over You](https://www.last.fm/music/Aaron+Taos/_/Ain%27t+Over+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
