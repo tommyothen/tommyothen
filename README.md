@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
 * [Piri — Mass Suicide](https://www.last.fm/music/Piri/_/Mass+Suicide)
 * [Balming Tiger — Armadillo &lpar;feat. Omega Sapien &amp; Byung un&rpar;](https://www.last.fm/music/Balming+Tiger/_/Armadillo+&lpar;feat.+Omega+Sapien+&amp;+Byung+un&rpar;)
 * [Junoflo — Acid Freestyle](https://www.last.fm/music/Junoflo/_/Acid+Freestyle)
-* [YUNHWAY — Bitchu](https://www.last.fm/music/YUNHWAY/_/Bitchu)
-* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)<!-- LASTFM:END -->
+* [YUNHWAY — Bitchu](https://www.last.fm/music/YUNHWAY/_/Bitchu)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
