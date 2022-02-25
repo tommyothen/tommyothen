@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wiz Khalifa — The Thrill](https://www.last.fm/music/Wiz+Khalifa/_/The+Thrill)
+* [Willow — t r a n s p a r e n t s o u l feat. Travis Barker](https://www.last.fm/music/Willow/_/t+r+a+n+s+p+a+r+e+n+t+s+o+u+l+feat.+Travis+Barker)
+* [Don Broco — Everybody](https://www.last.fm/music/Don+Broco/_/Everybody)
 * [Airways — Reckless Tongue](https://www.last.fm/music/Airways/_/Reckless+Tongue)
-* [Bring Me the Horizon — What You Need](https://www.last.fm/music/Bring+Me+the+Horizon/_/What+You+Need)
-* [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)
-* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
-* [Frank Ocean — Chanel](https://www.last.fm/music/Frank+Ocean/_/Chanel)<!-- LASTFM:END -->
+* [Bring Me the Horizon — What You Need](https://www.last.fm/music/Bring+Me+the+Horizon/_/What+You+Need)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
