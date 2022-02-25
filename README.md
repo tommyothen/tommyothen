@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Palaye Royale — No Love In LA](https://www.last.fm/music/Palaye+Royale/_/No+Love+In+LA)
+* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
 * [Lil Pump — Gucci Gang](https://www.last.fm/music/Lil+Pump/_/Gucci+Gang)
 * [Mother Mother — Hayloft](https://www.last.fm/music/Mother+Mother/_/Hayloft)
-* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
-* [Will Paquin — Chandelier](https://www.last.fm/music/Will+Paquin/_/Chandelier)
-* [Airways — Will It Tear Us Apart](https://www.last.fm/music/Airways/_/Will+It+Tear+Us+Apart)<!-- LASTFM:END -->
+* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
