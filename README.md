@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Måneskin — ZITTI E BUONI](https://www.last.fm/music/M%C3%A5neskin/_/ZITTI+E+BUONI)
+* [Mura Masa — bbycakes &lpar;with Lil Uzi Vert, PinkPantheress &amp; Shygirl&rpar;](https://www.last.fm/music/Mura+Masa/_/bbycakes+&lpar;with+Lil+Uzi+Vert,+PinkPantheress+&amp;+Shygirl&rpar;)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
-* [Nemzzz — Elevate](https://www.last.fm/music/Nemzzz/_/Elevate)
-* [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
-* [SadZilla — Cell Games](https://www.last.fm/music/SadZilla/_/Cell+Games)<!-- LASTFM:END -->
+* [Nemzzz — Elevate](https://www.last.fm/music/Nemzzz/_/Elevate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
