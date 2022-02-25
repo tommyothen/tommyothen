@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)
+* [Lil Uzi Vert — XO TOUR Llif3](https://www.last.fm/music/Lil+Uzi+Vert/_/XO+TOUR+Llif3)
+* [Playboi Carti — Fell in Luv &lpar;feat. Bryson Tiller&rpar;](https://www.last.fm/music/Playboi+Carti/_/Fell+in+Luv+&lpar;feat.+Bryson+Tiller&rpar;)
 * [1NONLY — Liu Kang](https://www.last.fm/music/1NONLY/_/Liu+Kang)
-* [Tai Verdes — Let&#39;s go to Hell](https://www.last.fm/music/Tai+Verdes/_/Let%27s+go+to+Hell)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [Bayli — sushi for breakfast](https://www.last.fm/music/Bayli/_/sushi+for+breakfast)<!-- LASTFM:END -->
+* [Tai Verdes — Let&#39;s go to Hell](https://www.last.fm/music/Tai+Verdes/_/Let%27s+go+to+Hell)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
