@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [SadZilla — Cell Games](https://www.last.fm/music/SadZilla/_/Cell+Games)
-* [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)
-* [Hilltop Hoods — Cosby Sweater](https://www.last.fm/music/Hilltop+Hoods/_/Cosby+Sweater)
-* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
-* [Gift Of Gab — Freedom Form Flowing](https://www.last.fm/music/Gift+Of+Gab/_/Freedom+Form+Flowing)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
+* [Nemzzz — Elevate](https://www.last.fm/music/Nemzzz/_/Elevate)
+* [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
+* [SadZilla — Cell Games](https://www.last.fm/music/SadZilla/_/Cell+Games)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
