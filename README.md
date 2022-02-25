@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
 * [Mr.Kitty — Destroy Me](https://www.last.fm/music/Mr.Kitty/_/Destroy+Me)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)<!-- LASTFM:END -->
+* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
