@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [Yung Lean — Ginseng Strip 2002](https://www.last.fm/music/Yung+Lean/_/Ginseng+Strip+2002)
+* [siouxxie sixxsta — masquerade](https://www.last.fm/music/siouxxie+sixxsta/_/masquerade)
 * [Palaye Royale — No Love In LA](https://www.last.fm/music/Palaye+Royale/_/No+Love+In+LA)
-* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
-* [Lil Pump — Gucci Gang](https://www.last.fm/music/Lil+Pump/_/Gucci+Gang)
-* [Mother Mother — Hayloft](https://www.last.fm/music/Mother+Mother/_/Hayloft)
-* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)<!-- LASTFM:END -->
+* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
