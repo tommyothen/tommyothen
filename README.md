@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
+* [Anwar — Off@Night](https://www.last.fm/music/Anwar/_/Off@Night)
+* [K.Flay — High Enough](https://www.last.fm/music/K.Flay/_/High+Enough)
 * [Brick+Mortar — Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun)
-* [Cochise — TELL EM](https://www.last.fm/music/Cochise/_/TELL+EM)
-* [Wiz Khalifa — The Thrill](https://www.last.fm/music/Wiz+Khalifa/_/The+Thrill)
-* [Willow — t r a n s p a r e n t s o u l feat. Travis Barker](https://www.last.fm/music/Willow/_/t+r+a+n+s+p+a+r+e+n+t+s+o+u+l+feat.+Travis+Barker)
-* [Don Broco — Everybody](https://www.last.fm/music/Don+Broco/_/Everybody)<!-- LASTFM:END -->
+* [Cochise — TELL EM](https://www.last.fm/music/Cochise/_/TELL+EM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
