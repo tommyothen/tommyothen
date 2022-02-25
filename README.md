@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [1NONLY — Liu Kang](https://www.last.fm/music/1NONLY/_/Liu+Kang)
+* [Tai Verdes — Let&#39;s go to Hell](https://www.last.fm/music/Tai+Verdes/_/Let%27s+go+to+Hell)
+* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
 * [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [Bayli — sushi for breakfast](https://www.last.fm/music/Bayli/_/sushi+for+breakfast)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
-* [THE ANXIETY — Meet Me At Our Spot - Live](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot+-+Live)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
+* [Bayli — sushi for breakfast](https://www.last.fm/music/Bayli/_/sushi+for+breakfast)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
