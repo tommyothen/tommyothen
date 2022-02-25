@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
+* [Frank Ocean — Chanel](https://www.last.fm/music/Frank+Ocean/_/Chanel)
 * [a36 — Alé Alé](https://www.last.fm/music/a36/_/Al%C3%A9+Al%C3%A9)
 * [Jireel — Força](https://www.last.fm/music/Jireel/_/For%C3%A7a)
-* [Måneskin — ZITTI E BUONI](https://www.last.fm/music/M%C3%A5neskin/_/ZITTI+E+BUONI)
-* [Mura Masa — bbycakes &lpar;with Lil Uzi Vert, PinkPantheress &amp; Shygirl&rpar;](https://www.last.fm/music/Mura+Masa/_/bbycakes+&lpar;with+Lil+Uzi+Vert,+PinkPantheress+&amp;+Shygirl&rpar;)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
+* [Måneskin — ZITTI E BUONI](https://www.last.fm/music/M%C3%A5neskin/_/ZITTI+E+BUONI)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
