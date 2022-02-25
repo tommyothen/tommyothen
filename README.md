@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gift Of Gab — Freedom Form Flowing](https://www.last.fm/music/Gift+Of+Gab/_/Freedom+Form+Flowing)
+* [100 gecs — money machine](https://www.last.fm/music/100+gecs/_/money+machine)
+* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
 * [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)
-* [Lil Uzi Vert — XO TOUR Llif3](https://www.last.fm/music/Lil+Uzi+Vert/_/XO+TOUR+Llif3)
-* [Playboi Carti — Fell in Luv &lpar;feat. Bryson Tiller&rpar;](https://www.last.fm/music/Playboi+Carti/_/Fell+in+Luv+&lpar;feat.+Bryson+Tiller&rpar;)
-* [1NONLY — Liu Kang](https://www.last.fm/music/1NONLY/_/Liu+Kang)
-* [Tai Verdes — Let&#39;s go to Hell](https://www.last.fm/music/Tai+Verdes/_/Let%27s+go+to+Hell)<!-- LASTFM:END -->
+* [Lil Uzi Vert — XO TOUR Llif3](https://www.last.fm/music/Lil+Uzi+Vert/_/XO+TOUR+Llif3)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
