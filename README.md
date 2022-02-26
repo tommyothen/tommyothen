@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
 * [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
 * [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
-* [Anwar — Off@Night](https://www.last.fm/music/Anwar/_/Off@Night)
-* [K.Flay — High Enough](https://www.last.fm/music/K.Flay/_/High+Enough)
-* [Brick+Mortar — Brighter Than The Sun](https://www.last.fm/music/Brick%252BMortar/_/Brighter+Than+The+Sun)<!-- LASTFM:END -->
+* [Anwar — Off@Night](https://www.last.fm/music/Anwar/_/Off@Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
