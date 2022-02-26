@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
+* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
 * [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
 * [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
-* [Anwar — Off@Night](https://www.last.fm/music/Anwar/_/Off@Night)<!-- LASTFM:END -->
+* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
