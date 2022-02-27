@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Neanderthal — Hurt Your Lover](https://www.last.fm/music/Neanderthal/_/Hurt+Your+Lover)
 * [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
 * [The Weeknd — Die for You](https://www.last.fm/music/The+Weeknd/_/Die+for+You)
 * [Rihanna — Skin](https://www.last.fm/music/Rihanna/_/Skin)
-* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
-* [Kehlani — Nights Like This &lpar;feat. Ty Dolla $ign&rpar;](https://www.last.fm/music/Kehlani/_/Nights+Like+This+&lpar;feat.+Ty+Dolla+$ign&rpar;)<!-- LASTFM:END -->
+* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
