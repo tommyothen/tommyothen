@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rolling Quartz — BLAZE](https://www.last.fm/music/Rolling+Quartz/_/BLAZE)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
-* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
-* [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)<!-- LASTFM:END -->
+* [Rihanna — Skin](https://www.last.fm/music/Rihanna/_/Skin)
+* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
+* [Kehlani — Nights Like This &lpar;feat. Ty Dolla $ign&rpar;](https://www.last.fm/music/Kehlani/_/Nights+Like+This+&lpar;feat.+Ty+Dolla+$ign&rpar;)
+* [Doja Cat — Candy](https://www.last.fm/music/Doja+Cat/_/Candy)
+* [Joji — TEST DRIVE](https://www.last.fm/music/Joji/_/TEST+DRIVE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
