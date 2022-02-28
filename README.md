@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
+* [Billy Marchiafava — Indie Pop Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Indie+Pop+Type+Beat)
+* [Harley Reid — Out of Time](https://www.last.fm/music/Harley+Reid/_/Out+of+Time)
 * [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [HAARPER — Wtf U Mean](https://www.last.fm/music/HAARPER/_/Wtf+U+Mean)
-* [PlayaPhonk — PHONKY TOWN](https://www.last.fm/music/PlayaPhonk/_/PHONKY+TOWN)
-* [666fuckthecops — I SELL DRUGS ON ACID](https://www.last.fm/music/666fuckthecops/_/I+SELL+DRUGS+ON+ACID)<!-- LASTFM:END -->
+* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
