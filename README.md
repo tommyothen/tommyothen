@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [fkbambam — PUMP UP](https://www.last.fm/music/fkbambam/_/PUMP+UP)
-* [HAARPER — FIGHT CLUB](https://www.last.fm/music/HAARPER/_/FIGHT+CLUB)
-* [PlayaPhonk — 999](https://www.last.fm/music/PlayaPhonk/_/999)
-* [iAmJakeHill — I Chose Violence](https://www.last.fm/music/iAmJakeHill/_/I+Chose+Violence)
-* [fkbambam — GULAG](https://www.last.fm/music/fkbambam/_/GULAG)<!-- LASTFM:END -->
+* [MC ORSEN — INCOMING](https://www.last.fm/music/MC+ORSEN/_/INCOMING)
+* [Kuma the Third — I rest my case](https://www.last.fm/music/Kuma+the+Third/_/I+rest+my+case)
+* [SadZilla — ZUMIEZGIRL](https://www.last.fm/music/SadZilla/_/ZUMIEZGIRL)
+* [666fuckthecops — GUCCI COCAINE COBRA](https://www.last.fm/music/666fuckthecops/_/GUCCI+COCAINE+COBRA)
+* [fkbambam — PUMP UP](https://www.last.fm/music/fkbambam/_/PUMP+UP)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
