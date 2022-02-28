@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Won&#39;t Bite &lpar;feat. Smino&rpar;](https://www.last.fm/music/Doja+Cat/_/Won%27t+Bite+&lpar;feat.+Smino&rpar;)
+* [fkbambam — YEAH!](https://www.last.fm/music/fkbambam/_/YEAH!)
+* [Starbuck — Mist](https://www.last.fm/music/Starbuck/_/Mist)
 * [Dolorous — Pluto](https://www.last.fm/music/Dolorous/_/Pluto)
-* [Jakey — Cherrylips](https://www.last.fm/music/Jakey/_/Cherrylips)
-* [kaz moon — Mantra](https://www.last.fm/music/kaz+moon/_/Mantra)
-* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
-* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)<!-- LASTFM:END -->
+* [Jakey — Cherrylips](https://www.last.fm/music/Jakey/_/Cherrylips)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
