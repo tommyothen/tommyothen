@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [YDIZZY — not &lpar;dead&rpar;](https://www.last.fm/music/YDIZZY/_/not+&lpar;dead&rpar;)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
-* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)<!-- LASTFM:END -->
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
+* [Kute — AVOID ME](https://www.last.fm/music/Kute/_/AVOID+ME)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [DAEGHO — Enter The Fuego](https://www.last.fm/music/DAEGHO/_/Enter+The+Fuego)
+* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
