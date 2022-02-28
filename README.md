@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
+* [Bad Smith — Fuck Your Mind](https://www.last.fm/music/Bad+Smith/_/Fuck+Your+Mind)
+* [NADA5150 — The House Of The Dead](https://www.last.fm/music/NADA5150/_/The+House+Of+The+Dead)
 * [KEAN DYSSO — Plain Jane](https://www.last.fm/music/KEAN+DYSSO/_/Plain+Jane)
-* [ENCASSATOR — Never Met!](https://www.last.fm/music/ENCASSATOR/_/Never+Met!)
-* [HAARPER — The Alchemist](https://www.last.fm/music/HAARPER/_/The+Alchemist)
-* [Kuma the Third — LET IT OFF](https://www.last.fm/music/Kuma+the+Third/_/LET+IT+OFF)
-* [Tade Dust — Dropping](https://www.last.fm/music/Tade+Dust/_/Dropping)<!-- LASTFM:END -->
+* [ENCASSATOR — Never Met!](https://www.last.fm/music/ENCASSATOR/_/Never+Met!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
