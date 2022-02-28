@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gold Revere — Alibi &lpar;feat. Jomie&rpar;](https://www.last.fm/music/Gold+Revere/_/Alibi+&lpar;feat.+Jomie&rpar;)
 * [Nakanojojo — Bittersweet](https://www.last.fm/music/Nakanojojo/_/Bittersweet)
 * [Bandanabloom — gladesong](https://www.last.fm/music/Bandanabloom/_/gladesong)
 * [submerse — Rumble Pak](https://www.last.fm/music/submerse/_/Rumble+Pak)
-* [Monty.Pk — prism](https://www.last.fm/music/Monty.Pk/_/prism)
-* [DYNE SIDE — Suite 8](https://www.last.fm/music/DYNE+SIDE/_/Suite+8)<!-- LASTFM:END -->
+* [Monty.Pk — prism](https://www.last.fm/music/Monty.Pk/_/prism)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
