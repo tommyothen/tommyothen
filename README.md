@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ДЕТИ RAVE — Икры и Сала](https://www.last.fm/music/%D0%94%D0%95%D0%A2%D0%98+RAVE/_/%D0%98%D0%BA%D1%80%D1%8B+%D0%B8+%D0%A1%D0%B0%D0%BB%D0%B0)
+* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
 * [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
 * [Kute — AVOID ME](https://www.last.fm/music/Kute/_/AVOID+ME)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [DAEGHO — Enter The Fuego](https://www.last.fm/music/DAEGHO/_/Enter+The+Fuego)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
