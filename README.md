@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Pharmacist — NORTH MEMPHIS](https://www.last.fm/music/Pharmacist/_/NORTH+MEMPHIS)
-* [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)
-* [Prompto — Japanese Stutter](https://www.last.fm/music/Prompto/_/Japanese+Stutter)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [Bad Smith — Fuck Your Mind](https://www.last.fm/music/Bad+Smith/_/Fuck+Your+Mind)<!-- LASTFM:END -->
+* [mari ferrari — Bad](https://www.last.fm/music/mari+ferrari/_/Bad)
+* [LIL BOODANG — LASER PIMP](https://www.last.fm/music/LIL+BOODANG/_/LASER+PIMP)
+* [siniZter — JUST DANCE](https://www.last.fm/music/siniZter/_/JUST+DANCE)
+* [MF KHAOS — Deathwish](https://www.last.fm/music/MF+KHAOS/_/Deathwish)
+* [Pharmacist — NORTH MEMPHIS](https://www.last.fm/music/Pharmacist/_/NORTH+MEMPHIS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
