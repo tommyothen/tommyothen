@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bad Smith — WHAT THE FUCK U GONNA DO?](https://www.last.fm/music/Bad+Smith/_/WHAT+THE+FUCK+U+GONNA+DO%3F)
+* [iAmJakeHill — By the Sword](https://www.last.fm/music/iAmJakeHill/_/By+the+Sword)
+* [Ghostface Playa — KILLKA](https://www.last.fm/music/Ghostface+Playa/_/KILLKA)
 * [MC ORSEN — INCOMING](https://www.last.fm/music/MC+ORSEN/_/INCOMING)
-* [Kuma the Third — I rest my case](https://www.last.fm/music/Kuma+the+Third/_/I+rest+my+case)
-* [SadZilla — ZUMIEZGIRL](https://www.last.fm/music/SadZilla/_/ZUMIEZGIRL)
-* [666fuckthecops — GUCCI COCAINE COBRA](https://www.last.fm/music/666fuckthecops/_/GUCCI+COCAINE+COBRA)
-* [fkbambam — PUMP UP](https://www.last.fm/music/fkbambam/_/PUMP+UP)<!-- LASTFM:END -->
+* [Kuma the Third — I rest my case](https://www.last.fm/music/Kuma+the+Third/_/I+rest+my+case)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
