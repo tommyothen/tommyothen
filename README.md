@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HAARPER — The Alchemist](https://www.last.fm/music/HAARPER/_/The+Alchemist)
+* [Kuma the Third — LET IT OFF](https://www.last.fm/music/Kuma+the+Third/_/LET+IT+OFF)
+* [Tade Dust — Dropping](https://www.last.fm/music/Tade+Dust/_/Dropping)
 * [Kuma the Third — VENOM](https://www.last.fm/music/Kuma+the+Third/_/VENOM)
-* [SadZilla — Cell Games](https://www.last.fm/music/SadZilla/_/Cell+Games)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [Kxllswxtch — CRYING IN THE CLUB](https://www.last.fm/music/Kxllswxtch/_/CRYING+IN+THE+CLUB)
-* [Ghostface Playa — I Don&#39;t Give a Fuck](https://www.last.fm/music/Ghostface+Playa/_/I+Don%27t+Give+a+Fuck)<!-- LASTFM:END -->
+* [SadZilla — Cell Games](https://www.last.fm/music/SadZilla/_/Cell+Games)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
