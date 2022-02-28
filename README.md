@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nakanojojo — Bittersweet](https://www.last.fm/music/Nakanojojo/_/Bittersweet)
+* [Bandanabloom — gladesong](https://www.last.fm/music/Bandanabloom/_/gladesong)
 * [submerse — Rumble Pak](https://www.last.fm/music/submerse/_/Rumble+Pak)
 * [Monty.Pk — prism](https://www.last.fm/music/Monty.Pk/_/prism)
-* [DYNE SIDE — Suite 8](https://www.last.fm/music/DYNE+SIDE/_/Suite+8)
-* [Doja Cat — Won&#39;t Bite &lpar;feat. Smino&rpar;](https://www.last.fm/music/Doja+Cat/_/Won%27t+Bite+&lpar;feat.+Smino&rpar;)
-* [fkbambam — YEAH!](https://www.last.fm/music/fkbambam/_/YEAH!)<!-- LASTFM:END -->
+* [DYNE SIDE — Suite 8](https://www.last.fm/music/DYNE+SIDE/_/Suite+8)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
