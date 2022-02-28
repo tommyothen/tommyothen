@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
+* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
+* [Freddie Sunshine — Cross the Sun](https://www.last.fm/music/Freddie+Sunshine/_/Cross+the+Sun)
 * [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
-* [Billy Marchiafava — Indie Pop Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Indie+Pop+Type+Beat)
-* [Harley Reid — Out of Time](https://www.last.fm/music/Harley+Reid/_/Out+of+Time)
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)<!-- LASTFM:END -->
+* [Billy Marchiafava — Indie Pop Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Indie+Pop+Type+Beat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
