@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KEAN DYSSO — Plain Jane](https://www.last.fm/music/KEAN+DYSSO/_/Plain+Jane)
+* [ENCASSATOR — Never Met!](https://www.last.fm/music/ENCASSATOR/_/Never+Met!)
 * [HAARPER — The Alchemist](https://www.last.fm/music/HAARPER/_/The+Alchemist)
 * [Kuma the Third — LET IT OFF](https://www.last.fm/music/Kuma+the+Third/_/LET+IT+OFF)
-* [Tade Dust — Dropping](https://www.last.fm/music/Tade+Dust/_/Dropping)
-* [Kuma the Third — VENOM](https://www.last.fm/music/Kuma+the+Third/_/VENOM)
-* [SadZilla — Cell Games](https://www.last.fm/music/SadZilla/_/Cell+Games)<!-- LASTFM:END -->
+* [Tade Dust — Dropping](https://www.last.fm/music/Tade+Dust/_/Dropping)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
