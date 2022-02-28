@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [mari ferrari — Bad](https://www.last.fm/music/mari+ferrari/_/Bad)
-* [LIL BOODANG — LASER PIMP](https://www.last.fm/music/LIL+BOODANG/_/LASER+PIMP)
-* [siniZter — JUST DANCE](https://www.last.fm/music/siniZter/_/JUST+DANCE)
-* [MF KHAOS — Deathwish](https://www.last.fm/music/MF+KHAOS/_/Deathwish)
-* [Pharmacist — NORTH MEMPHIS](https://www.last.fm/music/Pharmacist/_/NORTH+MEMPHIS)<!-- LASTFM:END -->
+* [fkbambam — PUMP UP](https://www.last.fm/music/fkbambam/_/PUMP+UP)
+* [HAARPER — FIGHT CLUB](https://www.last.fm/music/HAARPER/_/FIGHT+CLUB)
+* [PlayaPhonk — 999](https://www.last.fm/music/PlayaPhonk/_/999)
+* [iAmJakeHill — I Chose Violence](https://www.last.fm/music/iAmJakeHill/_/I+Chose+Violence)
+* [fkbambam — GULAG](https://www.last.fm/music/fkbambam/_/GULAG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
