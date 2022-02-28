@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [Mirani — Can′t Slow Me Down](https://www.last.fm/music/Mirani/_/Can%E2%80%B2t+Slow+Me+Down)
-* [tomatoism — Someone Special](https://www.last.fm/music/tomatoism/_/Someone+Special)
-* [Gold Revere — Alibi &lpar;feat. Jomie&rpar;](https://www.last.fm/music/Gold+Revere/_/Alibi+&lpar;feat.+Jomie&rpar;)<!-- LASTFM:END -->
+* [Hans. — Honeysea II](https://www.last.fm/music/Hans./_/Honeysea+II)
+* [MrSunChips — Feet Pic](https://www.last.fm/music/MrSunChips/_/Feet+Pic)
+* [Worthikids — Wire](https://www.last.fm/music/Worthikids/_/Wire)
+* [the montreals — Y2k](https://www.last.fm/music/the+montreals/_/Y2k)
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
