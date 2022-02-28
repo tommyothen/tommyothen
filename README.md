@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ghostface Playa — I Don&#39;t Give a Fuck](https://www.last.fm/music/Ghostface+Playa/_/I+Don%27t+Give+a+Fuck)
 * [Tessa Violet — YES MOM](https://www.last.fm/music/Tessa+Violet/_/YES+MOM)
 * [Colin Royce — Jellyfish](https://www.last.fm/music/Colin+Royce/_/Jellyfish)
 * [Zoxtoro — Wasureta](https://www.last.fm/music/Zoxtoro/_/Wasureta)
-* [Hans. — Honeysea II](https://www.last.fm/music/Hans./_/Honeysea+II)
-* [MrSunChips — Feet Pic](https://www.last.fm/music/MrSunChips/_/Feet+Pic)<!-- LASTFM:END -->
+* [Hans. — Honeysea II](https://www.last.fm/music/Hans./_/Honeysea+II)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
