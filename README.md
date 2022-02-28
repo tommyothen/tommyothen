@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dolorous — Pluto](https://www.last.fm/music/Dolorous/_/Pluto)
+* [Jakey — Cherrylips](https://www.last.fm/music/Jakey/_/Cherrylips)
+* [kaz moon — Mantra](https://www.last.fm/music/kaz+moon/_/Mantra)
 * [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
-* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
-* [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
-* [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
+* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
