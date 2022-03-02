@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
+* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
 * [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
 * [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [Flowsik — 뻥 Bbung](https://www.last.fm/music/Flowsik/_/%EB%BB%A5+Bbung)
-* [Paloalto — Hi-Lite Sign &lpar;Prod. by Yosi&rpar;](https://www.last.fm/music/Paloalto/_/Hi-Lite+Sign+&lpar;Prod.+by+Yosi&rpar;)
-* [Tabber — Honey!](https://www.last.fm/music/Tabber/_/Honey!)<!-- LASTFM:END -->
+* [Flowsik — 뻥 Bbung](https://www.last.fm/music/Flowsik/_/%EB%BB%A5+Bbung)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
