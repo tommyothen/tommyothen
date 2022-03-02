@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Corbyn — BLACKWHITE](https://www.last.fm/music/Corbyn/_/BLACKWHITE)
+* [brb. — move](https://www.last.fm/music/brb./_/move)
+* [Khakii — BASS](https://www.last.fm/music/Khakii/_/BASS)
 * [Tabber — Look At My](https://www.last.fm/music/Tabber/_/Look+At+My)
-* [Hojean — Pick Up Your Phone](https://www.last.fm/music/Hojean/_/Pick+Up+Your+Phone)
-* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
-* [C Jamm — Error](https://www.last.fm/music/C+Jamm/_/Error)
-* [SURL — Silence](https://www.last.fm/music/SURL/_/Silence)<!-- LASTFM:END -->
+* [Hojean — Pick Up Your Phone](https://www.last.fm/music/Hojean/_/Pick+Up+Your+Phone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
