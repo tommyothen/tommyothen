@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Piri — NEW WORLD](https://www.last.fm/music/Piri/_/NEW+WORLD)
+* [DPR LIVE — Hula Hoops](https://www.last.fm/music/DPR+LIVE/_/Hula+Hoops)
+* [punchnello — JUNGLE &lpar;Prod. millic&rpar;](https://www.last.fm/music/punchnello/_/JUNGLE+&lpar;Prod.+millic&rpar;)
 * [Beenzino — Fashion Hoarder](https://www.last.fm/music/Beenzino/_/Fashion+Hoarder)
-* [Villain — Manitto](https://www.last.fm/music/Villain/_/Manitto)
-* [Balming Tiger — I&#39;m Sick](https://www.last.fm/music/Balming+Tiger/_/I%27m+Sick)
-* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)<!-- LASTFM:END -->
+* [Villain — Manitto](https://www.last.fm/music/Villain/_/Manitto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
