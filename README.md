@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flowsik — 뻥 Bbung](https://www.last.fm/music/Flowsik/_/%EB%BB%A5+Bbung)
 * [Paloalto — Hi-Lite Sign &lpar;Prod. by Yosi&rpar;](https://www.last.fm/music/Paloalto/_/Hi-Lite+Sign+&lpar;Prod.+by+Yosi&rpar;)
 * [Tabber — Honey!](https://www.last.fm/music/Tabber/_/Honey!)
 * [DPR IAN — Nerves](https://www.last.fm/music/DPR+IAN/_/Nerves)
-* [Dress — hug &amp; kiss](https://www.last.fm/music/Dress/_/hug+&amp;+kiss)
-* [Corbyn — BLACKWHITE](https://www.last.fm/music/Corbyn/_/BLACKWHITE)<!-- LASTFM:END -->
+* [Dress — hug &amp; kiss](https://www.last.fm/music/Dress/_/hug+&amp;+kiss)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
