@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
+* [Tom Misch — Disco Yes](https://www.last.fm/music/Tom+Misch/_/Disco+Yes)
 * [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
-* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)<!-- LASTFM:END -->
+* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
