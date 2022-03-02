@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tabber — Look At My](https://www.last.fm/music/Tabber/_/Look+At+My)
+* [Hojean — Pick Up Your Phone](https://www.last.fm/music/Hojean/_/Pick+Up+Your+Phone)
 * [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
 * [C Jamm — Error](https://www.last.fm/music/C+Jamm/_/Error)
-* [SURL — Silence](https://www.last.fm/music/SURL/_/Silence)
-* [Ash-B — Do That Thang](https://www.last.fm/music/Ash-B/_/Do+That+Thang)
-* [punchnello — BAMN &lpar;Prod. by millic&rpar;](https://www.last.fm/music/punchnello/_/BAMN+&lpar;Prod.+by+millic&rpar;)<!-- LASTFM:END -->
+* [SURL — Silence](https://www.last.fm/music/SURL/_/Silence)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
