@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [punchnello — BAMN &lpar;Prod. by millic&rpar;](https://www.last.fm/music/punchnello/_/BAMN+&lpar;Prod.+by+millic&rpar;)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
 * [Queen WA$ABII — Dingo X 퀸 와사비 - Jay Park](https://www.last.fm/music/Queen+WA$ABII/_/Dingo+X+%ED%80%B8+%EC%99%80%EC%82%AC%EB%B9%84+-+Jay+Park)
-* [Piri — 殺之無惜](https://www.last.fm/music/Piri/_/%E6%AE%BA%E4%B9%8B%E7%84%A1%E6%83%9C)
-* [Ash-B — WOO](https://www.last.fm/music/Ash-B/_/WOO)
-* [punchnello — Boy In The Mirror &lpar;Feat. Kidd King&rpar;](https://www.last.fm/music/punchnello/_/Boy+In+The+Mirror+&lpar;Feat.+Kidd+King&rpar;)
-* [PLT — Hocus Pocus](https://www.last.fm/music/PLT/_/Hocus+Pocus)<!-- LASTFM:END -->
+* [Piri — 殺之無惜](https://www.last.fm/music/Piri/_/%E6%AE%BA%E4%B9%8B%E7%84%A1%E6%83%9C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
