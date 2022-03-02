@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [PLT — Hocus Pocus](https://www.last.fm/music/PLT/_/Hocus+Pocus)
-* [Swervy — Blue](https://www.last.fm/music/Swervy/_/Blue)
-* [Balming Tiger — Armadillo &lpar;feat. Omega Sapien &amp; Byung un&rpar;](https://www.last.fm/music/Balming+Tiger/_/Armadillo+&lpar;feat.+Omega+Sapien+&amp;+Byung+un&rpar;)
-* [Piri — NEW WORLD](https://www.last.fm/music/Piri/_/NEW+WORLD)
-* [DPR LIVE — Hula Hoops](https://www.last.fm/music/DPR+LIVE/_/Hula+Hoops)<!-- LASTFM:END -->
+* [Queen WA$ABII — Dingo X 퀸 와사비 - Jay Park](https://www.last.fm/music/Queen+WA$ABII/_/Dingo+X+%ED%80%B8+%EC%99%80%EC%82%AC%EB%B9%84+-+Jay+Park)
+* [Piri — 殺之無惜](https://www.last.fm/music/Piri/_/%E6%AE%BA%E4%B9%8B%E7%84%A1%E6%83%9C)
+* [Ash-B — WOO](https://www.last.fm/music/Ash-B/_/WOO)
+* [punchnello — Boy In The Mirror &lpar;Feat. Kidd King&rpar;](https://www.last.fm/music/punchnello/_/Boy+In+The+Mirror+&lpar;Feat.+Kidd+King&rpar;)
+* [PLT — Hocus Pocus](https://www.last.fm/music/PLT/_/Hocus+Pocus)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
