@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Red Spider — &quot;D&quot;](https://www.last.fm/music/Red+Spider/_/%22D%22)
+* [Jumbo Maatch — Badboy](https://www.last.fm/music/Jumbo+Maatch/_/Badboy)
 * [YAYOI DAIMON — M.O.B](https://www.last.fm/music/YAYOI+DAIMON/_/M.O.B)
 * [MINMI — ホログラム - 黒峰朝陽ver.](https://www.last.fm/music/MINMI/_/%E3%83%9B%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0+-+%E9%BB%92%E5%B3%B0%E6%9C%9D%E9%99%BDver.)
-* [Shonan no kaze — Born to be WILD](https://www.last.fm/music/Shonan+no+kaze/_/Born+to+be+WILD)
-* [Jasmine — BADASS](https://www.last.fm/music/Jasmine/_/BADASS)
-* [DJ Chari — Buttobi](https://www.last.fm/music/DJ+Chari/_/Buttobi)<!-- LASTFM:END -->
+* [Shonan no kaze — Born to be WILD](https://www.last.fm/music/Shonan+no+kaze/_/Born+to+be+WILD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
