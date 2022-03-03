@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bandanabloom — gladesong](https://www.last.fm/music/Bandanabloom/_/gladesong)
-* [submerse — Rumble Pak](https://www.last.fm/music/submerse/_/Rumble+Pak)
-* [Monty.Pk — prism](https://www.last.fm/music/Monty.Pk/_/prism)
-* [DYNE SIDE — Suite 8](https://www.last.fm/music/DYNE+SIDE/_/Suite+8)
-* [Doja Cat — Won&#39;t Bite &lpar;feat. Smino&rpar;](https://www.last.fm/music/Doja+Cat/_/Won%27t+Bite+&lpar;feat.+Smino&rpar;)<!-- LASTFM:END -->
+* [the montreals — Y2k](https://www.last.fm/music/the+montreals/_/Y2k)
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
+* [Mirani — Can′t Slow Me Down](https://www.last.fm/music/Mirani/_/Can%E2%80%B2t+Slow+Me+Down)
+* [tomatoism — Someone Special](https://www.last.fm/music/tomatoism/_/Someone+Special)
+* [Gold Revere — Alibi &lpar;feat. Jomie&rpar;](https://www.last.fm/music/Gold+Revere/_/Alibi+&lpar;feat.+Jomie&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
