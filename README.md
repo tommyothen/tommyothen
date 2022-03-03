@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DJ Chari — Innocence](https://www.last.fm/music/DJ+Chari/_/Innocence)
+* [Dear — Futari de, Hitotsu Dakara.](https://www.last.fm/music/Dear/_/Futari+de,+Hitotsu+Dakara.)
+* [YAYOI DAIMON — NO BRA!](https://www.last.fm/music/YAYOI+DAIMON/_/NO+BRA!)
 * [Berry Goodman — Pain, Pain Go Away](https://www.last.fm/music/Berry+Goodman/_/Pain,+Pain+Go+Away)
-* [SPICY CHOCOLATE — それでも君が好き](https://www.last.fm/music/SPICY+CHOCOLATE/_/%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E5%90%9B%E3%81%8C%E5%A5%BD%E3%81%8D)
-* [Gaki Ranger — CHOUETSU](https://www.last.fm/music/Gaki+Ranger/_/CHOUETSU)
-* [Red Spider — &quot;D&quot;](https://www.last.fm/music/Red+Spider/_/%22D%22)
-* [Jumbo Maatch — Badboy](https://www.last.fm/music/Jumbo+Maatch/_/Badboy)<!-- LASTFM:END -->
+* [SPICY CHOCOLATE — それでも君が好き](https://www.last.fm/music/SPICY+CHOCOLATE/_/%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E5%90%9B%E3%81%8C%E5%A5%BD%E3%81%8D)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
