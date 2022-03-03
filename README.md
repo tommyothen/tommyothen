@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YAYOI DAIMON — MAKENNA](https://www.last.fm/music/YAYOI+DAIMON/_/MAKENNA)
+* [SPICY CHOCOLATE — ニッポン改革](https://www.last.fm/music/SPICY+CHOCOLATE/_/%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E6%94%B9%E9%9D%A9)
 * [Shonan no kaze — バブル](https://www.last.fm/music/Shonan+no+kaze/_/%E3%83%90%E3%83%96%E3%83%AB)
 * [Gaki Ranger — chottodakebaka](https://www.last.fm/music/Gaki+Ranger/_/chottodakebaka)
-* [DJ Chari — Innocence](https://www.last.fm/music/DJ+Chari/_/Innocence)
-* [Dear — Futari de, Hitotsu Dakara.](https://www.last.fm/music/Dear/_/Futari+de,+Hitotsu+Dakara.)
-* [YAYOI DAIMON — NO BRA!](https://www.last.fm/music/YAYOI+DAIMON/_/NO+BRA!)<!-- LASTFM:END -->
+* [DJ Chari — Innocence](https://www.last.fm/music/DJ+Chari/_/Innocence)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
