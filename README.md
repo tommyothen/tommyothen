@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NERDHEAD — FORGET ABOUT U](https://www.last.fm/music/NERDHEAD/_/FORGET+ABOUT+U)
+* [RISKY DICE — OUTTA CONTROL feat. APOLLO,BIG BEAR,HI-KING TAKASE,HISATOMI,KIRA,NATURAL WEAPON,RAM HEAD,RAY](https://www.last.fm/music/RISKY+DICE/_/OUTTA+CONTROL+feat.+APOLLO,BIG+BEAR,HI-KING+TAKASE,HISATOMI,KIRA,NATURAL+WEAPON,RAM+HEAD,RAY)
 * [Kvi Baba — Stoic](https://www.last.fm/music/Kvi+Baba/_/Stoic)
 * [Shonan no kaze — Grand Blue](https://www.last.fm/music/Shonan+no+kaze/_/Grand+Blue)
-* [Dohzi-T — 想い](https://www.last.fm/music/Dohzi-T/_/%E6%83%B3%E3%81%84)
-* [紅桜 — Boom Bye Bye](https://www.last.fm/music/%E7%B4%85%E6%A1%9C/_/Boom+Bye+Bye)
-* [YAYOI DAIMON — EGO](https://www.last.fm/music/YAYOI+DAIMON/_/EGO)<!-- LASTFM:END -->
+* [Dohzi-T — 想い](https://www.last.fm/music/Dohzi-T/_/%E6%83%B3%E3%81%84)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
