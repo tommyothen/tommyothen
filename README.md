@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
 * [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
 * [av4ln — syrupy](https://www.last.fm/music/av4ln/_/syrupy)
-* [Deathbrain — HABIBIA - Deathbrain Remix](https://www.last.fm/music/Deathbrain/_/HABIBIA+-+Deathbrain+Remix)
-* [Night Club — Therapy &lpar;Get High&rpar;](https://www.last.fm/music/Night+Club/_/Therapy+&lpar;Get+High&rpar;)
-* [Rome Hero Foxes — Don&#39;t Call My Name](https://www.last.fm/music/Rome+Hero+Foxes/_/Don%27t+Call+My+Name)<!-- LASTFM:END -->
+* [Deathbrain — HABIBIA - Deathbrain Remix](https://www.last.fm/music/Deathbrain/_/HABIBIA+-+Deathbrain+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
