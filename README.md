@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dohzi-T — 想い](https://www.last.fm/music/Dohzi-T/_/%E6%83%B3%E3%81%84)
 * [紅桜 — Boom Bye Bye](https://www.last.fm/music/%E7%B4%85%E6%A1%9C/_/Boom+Bye+Bye)
 * [YAYOI DAIMON — EGO](https://www.last.fm/music/YAYOI+DAIMON/_/EGO)
 * [Apollo — APOLLO STYLE 0](https://www.last.fm/music/Apollo/_/APOLLO+STYLE+0)
-* [RISKY DICE — The DEADLY SOUND feat. CHEHON, NATURAL WEAPON, HISATOMI, APOLLO, DIZZLE](https://www.last.fm/music/RISKY+DICE/_/The+DEADLY+SOUND+feat.+CHEHON,+NATURAL+WEAPON,+HISATOMI,+APOLLO,+DIZZLE)
-* [DABO — レクサスグッチ](https://www.last.fm/music/DABO/_/%E3%83%AC%E3%82%AF%E3%82%B5%E3%82%B9%E3%82%B0%E3%83%83%E3%83%81)<!-- LASTFM:END -->
+* [RISKY DICE — The DEADLY SOUND feat. CHEHON, NATURAL WEAPON, HISATOMI, APOLLO, DIZZLE](https://www.last.fm/music/RISKY+DICE/_/The+DEADLY+SOUND+feat.+CHEHON,+NATURAL+WEAPON,+HISATOMI,+APOLLO,+DIZZLE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
