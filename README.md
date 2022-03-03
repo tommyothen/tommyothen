@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DJ Chari — Buttobi](https://www.last.fm/music/DJ+Chari/_/Buttobi)
+* [MoNa a.k.a Sad Girl — Girls It Ain&#39;t Easy](https://www.last.fm/music/MoNa+a.k.a+Sad+Girl/_/Girls+It+Ain%27t+Easy)
 * [KICK THE CAN CREW — Keep It Up](https://www.last.fm/music/KICK+THE+CAN+CREW/_/Keep+It+Up)
 * [Beni — ユラユラ](https://www.last.fm/music/Beni/_/%E3%83%A6%E3%83%A9%E3%83%A6%E3%83%A9)
-* [Juliet — モトカレ](https://www.last.fm/music/Juliet/_/%E3%83%A2%E3%83%88%E3%82%AB%E3%83%AC)
-* [Rei&lpar;C&rpar;hi — JKはブランド](https://www.last.fm/music/Rei&lpar;C&rpar;hi/_/JK%E3%81%AF%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89)
-* [NERDHEAD — FORGET ABOUT U](https://www.last.fm/music/NERDHEAD/_/FORGET+ABOUT+U)<!-- LASTFM:END -->
+* [Juliet — モトカレ](https://www.last.fm/music/Juliet/_/%E3%83%A2%E3%83%88%E3%82%AB%E3%83%AC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
