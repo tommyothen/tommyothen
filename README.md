@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shurkn Pap — MY HOOD](https://www.last.fm/music/Shurkn+Pap/_/MY+HOOD)
+* [NERDHEAD — キミアイ feat.Maynard Plant &lpar;blanc./MONKEY MAJIK&rpar;](https://www.last.fm/music/NERDHEAD/_/%E3%82%AD%E3%83%9F%E3%82%A2%E3%82%A4+feat.Maynard+Plant+&lpar;blanc.%2FMONKEY+MAJIK&rpar;)
+* [Dohzi-T — ダンシング・ヒーロー &lpar;Eat You Up&rpar; feat.北乃きい](https://www.last.fm/music/Dohzi-T/_/%E3%83%80%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC+&lpar;Eat+You+Up&rpar;+feat.%E5%8C%97%E4%B9%83%E3%81%8D%E3%81%84)
 * [Infumiaikumiai — Street Survivors -Blood, Sweat, Tears &amp; Hip Hop-](https://www.last.fm/music/Infumiaikumiai/_/Street+Survivors+-Blood,+Sweat,+Tears+&amp;+Hip+Hop-)
-* [YAYOI DAIMON — Chill Like a Midnight](https://www.last.fm/music/YAYOI+DAIMON/_/Chill+Like+a+Midnight)
-* [8utterfly — ダレデモイイ feat. SLOTH](https://www.last.fm/music/8utterfly/_/%E3%83%80%E3%83%AC%E3%83%87%E3%83%A2%E3%82%A4%E3%82%A4+feat.+SLOTH)
-* [Toc — 過呼吸](https://www.last.fm/music/Toc/_/%E9%81%8E%E5%91%BC%E5%90%B8)
-* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)<!-- LASTFM:END -->
+* [YAYOI DAIMON — Chill Like a Midnight](https://www.last.fm/music/YAYOI+DAIMON/_/Chill+Like+a+Midnight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
