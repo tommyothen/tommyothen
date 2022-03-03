@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Toc — 過呼吸](https://www.last.fm/music/Toc/_/%E9%81%8E%E5%91%BC%E5%90%B8)
 * [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
 * [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
 * [Kvi Baba — Fool in the Moon](https://www.last.fm/music/Kvi+Baba/_/Fool+in+the+Moon)
-* [YAYOI DAIMON — Top Gyal](https://www.last.fm/music/YAYOI+DAIMON/_/Top+Gyal)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)<!-- LASTFM:END -->
+* [YAYOI DAIMON — Top Gyal](https://www.last.fm/music/YAYOI+DAIMON/_/Top+Gyal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
