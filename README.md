@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [av4ln — syrupy](https://www.last.fm/music/av4ln/_/syrupy)
+* [Deathbrain — HABIBIA - Deathbrain Remix](https://www.last.fm/music/Deathbrain/_/HABIBIA+-+Deathbrain+Remix)
 * [Night Club — Therapy &lpar;Get High&rpar;](https://www.last.fm/music/Night+Club/_/Therapy+&lpar;Get+High&rpar;)
 * [Rome Hero Foxes — Don&#39;t Call My Name](https://www.last.fm/music/Rome+Hero+Foxes/_/Don%27t+Call+My+Name)
-* [Jupiluxe — Like This](https://www.last.fm/music/Jupiluxe/_/Like+This)
-* [Starjunk 95 — City Girl](https://www.last.fm/music/Starjunk+95/_/City+Girl)
-* [Tessa Violet — YES MOM](https://www.last.fm/music/Tessa+Violet/_/YES+MOM)<!-- LASTFM:END -->
+* [Jupiluxe — Like This](https://www.last.fm/music/Jupiluxe/_/Like+This)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
