@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Apollo — APOLLO STYLE 0](https://www.last.fm/music/Apollo/_/APOLLO+STYLE+0)
+* [RISKY DICE — The DEADLY SOUND feat. CHEHON, NATURAL WEAPON, HISATOMI, APOLLO, DIZZLE](https://www.last.fm/music/RISKY+DICE/_/The+DEADLY+SOUND+feat.+CHEHON,+NATURAL+WEAPON,+HISATOMI,+APOLLO,+DIZZLE)
+* [DABO — レクサスグッチ](https://www.last.fm/music/DABO/_/%E3%83%AC%E3%82%AF%E3%82%B5%E3%82%B9%E3%82%B0%E3%83%83%E3%83%81)
 * [Juliet — サクラブ -桜、咲く-](https://www.last.fm/music/Juliet/_/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%96+-%E6%A1%9C%E3%80%81%E5%92%B2%E3%81%8F-)
-* [DJ Chari — Sugar](https://www.last.fm/music/DJ+Chari/_/Sugar)
-* [YAYOI DAIMON — Heel de nioudachi](https://www.last.fm/music/YAYOI+DAIMON/_/Heel+de+nioudachi)
-* [DJ RYOW — URUSAI](https://www.last.fm/music/DJ+RYOW/_/URUSAI)
-* [Shurkn Pap — MY HOOD](https://www.last.fm/music/Shurkn+Pap/_/MY+HOOD)<!-- LASTFM:END -->
+* [DJ Chari — Sugar](https://www.last.fm/music/DJ+Chari/_/Sugar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
