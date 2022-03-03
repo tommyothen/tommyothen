@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Shurkn Pap — MY HOOD](https://www.last.fm/music/Shurkn+Pap/_/MY+HOOD)
-* [NERDHEAD — キミアイ feat.Maynard Plant &lpar;blanc./MONKEY MAJIK&rpar;](https://www.last.fm/music/NERDHEAD/_/%E3%82%AD%E3%83%9F%E3%82%A2%E3%82%A4+feat.Maynard+Plant+&lpar;blanc.%2FMONKEY+MAJIK&rpar;)
-* [Dohzi-T — ダンシング・ヒーロー &lpar;Eat You Up&rpar; feat.北乃きい](https://www.last.fm/music/Dohzi-T/_/%E3%83%80%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC+&lpar;Eat+You+Up&rpar;+feat.%E5%8C%97%E4%B9%83%E3%81%8D%E3%81%84)
-* [Infumiaikumiai — Street Survivors -Blood, Sweat, Tears &amp; Hip Hop-](https://www.last.fm/music/Infumiaikumiai/_/Street+Survivors+-Blood,+Sweat,+Tears+&amp;+Hip+Hop-)
-* [YAYOI DAIMON — Chill Like a Midnight](https://www.last.fm/music/YAYOI+DAIMON/_/Chill+Like+a+Midnight)<!-- LASTFM:END -->
+* [Juliet — サクラブ -桜、咲く-](https://www.last.fm/music/Juliet/_/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%96+-%E6%A1%9C%E3%80%81%E5%92%B2%E3%81%8F-)
+* [DJ Chari — Sugar](https://www.last.fm/music/DJ+Chari/_/Sugar)
+* [YAYOI DAIMON — Heel de nioudachi](https://www.last.fm/music/YAYOI+DAIMON/_/Heel+de+nioudachi)
+* [DJ RYOW — URUSAI](https://www.last.fm/music/DJ+RYOW/_/URUSAI)
+* [Shurkn Pap — MY HOOD](https://www.last.fm/music/Shurkn+Pap/_/MY+HOOD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
