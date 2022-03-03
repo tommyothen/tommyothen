@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
+* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
 * [Kvi Baba — Too Bad Day But...](https://www.last.fm/music/Kvi+Baba/_/Too+Bad+Day+But...)
-* [YAYOI DAIMON — MAKENNA](https://www.last.fm/music/YAYOI+DAIMON/_/MAKENNA)
-* [SPICY CHOCOLATE — ニッポン改革](https://www.last.fm/music/SPICY+CHOCOLATE/_/%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E6%94%B9%E9%9D%A9)
-* [Shonan no kaze — バブル](https://www.last.fm/music/Shonan+no+kaze/_/%E3%83%90%E3%83%96%E3%83%AB)
-* [Gaki Ranger — chottodakebaka](https://www.last.fm/music/Gaki+Ranger/_/chottodakebaka)<!-- LASTFM:END -->
+* [YAYOI DAIMON — MAKENNA](https://www.last.fm/music/YAYOI+DAIMON/_/MAKENNA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
