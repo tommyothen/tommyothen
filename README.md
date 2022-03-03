@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [the montreals — Y2k](https://www.last.fm/music/the+montreals/_/Y2k)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [Mirani — Can′t Slow Me Down](https://www.last.fm/music/Mirani/_/Can%E2%80%B2t+Slow+Me+Down)
-* [tomatoism — Someone Special](https://www.last.fm/music/tomatoism/_/Someone+Special)
-* [Gold Revere — Alibi &lpar;feat. Jomie&rpar;](https://www.last.fm/music/Gold+Revere/_/Alibi+&lpar;feat.+Jomie&rpar;)<!-- LASTFM:END -->
+* [Night Club — Therapy &lpar;Get High&rpar;](https://www.last.fm/music/Night+Club/_/Therapy+&lpar;Get+High&rpar;)
+* [Rome Hero Foxes — Don&#39;t Call My Name](https://www.last.fm/music/Rome+Hero+Foxes/_/Don%27t+Call+My+Name)
+* [Jupiluxe — Like This](https://www.last.fm/music/Jupiluxe/_/Like+This)
+* [Starjunk 95 — City Girl](https://www.last.fm/music/Starjunk+95/_/City+Girl)
+* [Tessa Violet — YES MOM](https://www.last.fm/music/Tessa+Violet/_/YES+MOM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
