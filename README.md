@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Infumiaikumiai — Street Survivors -Blood, Sweat, Tears &amp; Hip Hop-](https://www.last.fm/music/Infumiaikumiai/_/Street+Survivors+-Blood,+Sweat,+Tears+&amp;+Hip+Hop-)
+* [YAYOI DAIMON — Chill Like a Midnight](https://www.last.fm/music/YAYOI+DAIMON/_/Chill+Like+a+Midnight)
+* [8utterfly — ダレデモイイ feat. SLOTH](https://www.last.fm/music/8utterfly/_/%E3%83%80%E3%83%AC%E3%83%87%E3%83%A2%E3%82%A4%E3%82%A4+feat.+SLOTH)
 * [Toc — 過呼吸](https://www.last.fm/music/Toc/_/%E9%81%8E%E5%91%BC%E5%90%B8)
-* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
-* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
-* [Kvi Baba — Fool in the Moon](https://www.last.fm/music/Kvi+Baba/_/Fool+in+the+Moon)
-* [YAYOI DAIMON — Top Gyal](https://www.last.fm/music/YAYOI+DAIMON/_/Top+Gyal)<!-- LASTFM:END -->
+* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
