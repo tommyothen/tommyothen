@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
-* [Mr.Kitty — Destroy Me](https://www.last.fm/music/Mr.Kitty/_/Destroy+Me)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
+* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
+* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
+* [KANDYTOWN — Local Area &lpar;feat. Gottz, Neetz &amp; KEIJU&rpar;](https://www.last.fm/music/KANDYTOWN/_/Local+Area+&lpar;feat.+Gottz,+Neetz+&amp;+KEIJU&rpar;)
+* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
