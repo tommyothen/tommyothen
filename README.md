@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Daichi Yamamoto — One Way](https://www.last.fm/music/Daichi+Yamamoto/_/One+Way)
+* [Miyachi — Good Night Roppongi](https://www.last.fm/music/Miyachi/_/Good+Night+Roppongi)
+* [Tade Dust — Gotta](https://www.last.fm/music/Tade+Dust/_/Gotta)
 * [KANDYTOWN — Local Area &lpar;feat. Gottz, Neetz &amp; KEIJU&rpar;](https://www.last.fm/music/KANDYTOWN/_/Local+Area+&lpar;feat.+Gottz,+Neetz+&amp;+KEIJU&rpar;)
-* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
-* [Sparzanza — Vindication](https://www.last.fm/music/Sparzanza/_/Vindication)
-* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)<!-- LASTFM:END -->
+* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
+* [NAMEDARUMAAZ — Floatin&#39;](https://www.last.fm/music/NAMEDARUMAAZ/_/Floatin%27)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
