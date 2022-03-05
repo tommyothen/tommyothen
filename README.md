@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MGF — 湿った夜の儚き嵐](https://www.last.fm/music/MGF/_/%E6%B9%BF%E3%81%A3%E3%81%9F%E5%A4%9C%E3%81%AE%E5%84%9A%E3%81%8D%E5%B5%90)
-* [KANDYTOWN — One More Dance &lpar;feat. IO, Gottz &amp; Holly Q&rpar;](https://www.last.fm/music/KANDYTOWN/_/One+More+Dance+&lpar;feat.+IO,+Gottz+&amp;+Holly+Q&rpar;)
-* [DJ RYOW — URUSAI](https://www.last.fm/music/DJ+RYOW/_/URUSAI)
-* [NAMEDARUMAAZ — Floatin&#39;](https://www.last.fm/music/NAMEDARUMAAZ/_/Floatin%27)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
+* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
+* [Daichi Yamamoto — Splash](https://www.last.fm/music/Daichi+Yamamoto/_/Splash)
+* [Jubee — Joyride](https://www.last.fm/music/Jubee/_/Joyride)
+* [Awich — NEBUTA - AL ver.](https://www.last.fm/music/Awich/_/NEBUTA+-+AL+ver.)
+* [MGF — 湿った夜の儚き嵐](https://www.last.fm/music/MGF/_/%E6%B9%BF%E3%81%A3%E3%81%9F%E5%A4%9C%E3%81%AE%E5%84%9A%E3%81%8D%E5%B5%90)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
