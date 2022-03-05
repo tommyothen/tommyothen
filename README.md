@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
 * [KANDYTOWN — Local Area &lpar;feat. Gottz, Neetz &amp; KEIJU&rpar;](https://www.last.fm/music/KANDYTOWN/_/Local+Area+&lpar;feat.+Gottz,+Neetz+&amp;+KEIJU&rpar;)
-* [mxmtoon — bon iver](https://www.last.fm/music/mxmtoon/_/bon+iver)
-* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)<!-- LASTFM:END -->
+* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
+* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
+* [KANDYTOWN — Local Area &lpar;feat. Gottz, Neetz &amp; KEIJU&rpar;](https://www.last.fm/music/KANDYTOWN/_/Local+Area+&lpar;feat.+Gottz,+Neetz+&amp;+KEIJU&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
