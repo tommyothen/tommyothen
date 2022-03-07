@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
 * [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
 * [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
 * [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
-* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
 * [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
