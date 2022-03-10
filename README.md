@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hachi — Mrs.Pumpkinの滑稽な夢 - ORIGINAL](https://www.last.fm/music/Hachi/_/Mrs.Pumpkin%E3%81%AE%E6%BB%91%E7%A8%BD%E3%81%AA%E5%A4%A2+-+ORIGINAL)
 * [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)
 * [西木野真姫&lpar;CV.Pile&rpar; — soldier game](https://www.last.fm/music/%E8%A5%BF%E6%9C%A8%E9%87%8E%E7%9C%9F%E5%A7%AB&lpar;CV.Pile&rpar;/_/soldier+game)
 * [Mitchie M — Noiseless Heart feat. 初音ミク](https://www.last.fm/music/Mitchie+M/_/Noiseless+Heart+feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF)
-* [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)
-* [Hachi — Mrs.Pumpkinの滑稽な夢 - ORIGINAL](https://www.last.fm/music/Hachi/_/Mrs.Pumpkin%E3%81%AE%E6%BB%91%E7%A8%BD%E3%81%AA%E5%A4%A2+-+ORIGINAL)<!-- LASTFM:END -->
+* [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
