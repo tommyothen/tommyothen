@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mitchie M — リングの熾天使 feat. 初音ミク, 鏡音リン, KAITO](https://www.last.fm/music/Mitchie+M/_/%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E7%86%BE%E5%A4%A9%E4%BD%BF+feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF,+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3,+KAITO)
+* [Mitchie M — ぶれないアイで feat. 初音ミク](https://www.last.fm/music/Mitchie+M/_/%E3%81%B6%E3%82%8C%E3%81%AA%E3%81%84%E3%82%A2%E3%82%A4%E3%81%A7+feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF)
 * [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
 * [Michiko Mada — Soko Kara Miteta](https://www.last.fm/music/Michiko+Mada/_/Soko+Kara+Miteta)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
-* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)<!-- LASTFM:END -->
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
