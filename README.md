@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
 * [NotNevi — CTRL](https://www.last.fm/music/NotNevi/_/CTRL)
 * [Frost Children — BL!NK](https://www.last.fm/music/Frost+Children/_/BL!NK)
 * [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
-* [Dion Dugas — alter](https://www.last.fm/music/Dion+Dugas/_/alter)
-* [CATXSCAN — Crush](https://www.last.fm/music/CATXSCAN/_/Crush)<!-- LASTFM:END -->
+* [Dion Dugas — alter](https://www.last.fm/music/Dion+Dugas/_/alter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
