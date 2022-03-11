@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chills — Burger King Foot Lettuce - Trap Remix](https://www.last.fm/music/Chills/_/Burger+King+Foot+Lettuce+-+Trap+Remix)
+* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
+* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
 * [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
-* [暁Records — Necromantic](https://www.last.fm/music/%E6%9A%81Records/_/Necromantic)
-* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
-* [NotNevi — CTRL](https://www.last.fm/music/NotNevi/_/CTRL)
-* [Frost Children — BL!NK](https://www.last.fm/music/Frost+Children/_/BL!NK)<!-- LASTFM:END -->
+* [暁Records — Necromantic](https://www.last.fm/music/%E6%9A%81Records/_/Necromantic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
