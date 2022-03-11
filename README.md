@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Essenger — Erased](https://www.last.fm/music/Essenger/_/Erased)
 * [Kings Of The Rollers — Somebody Else](https://www.last.fm/music/Kings+Of+The+Rollers/_/Somebody+Else)
 * [Clay K Slider — God&#39;s Plan](https://www.last.fm/music/Clay+K+Slider/_/God%27s+Plan)
 * [God Mvker — Cyka Blyat Rush B No Stop](https://www.last.fm/music/God+Mvker/_/Cyka+Blyat+Rush+B+No+Stop)
-* [Nelly Furtado — Say It Right](https://www.last.fm/music/Nelly+Furtado/_/Say+It+Right)
-* [Kings Of The Rollers — Somebody Else](https://www.last.fm/music/Kings+Of+The+Rollers/_/Somebody+Else)<!-- LASTFM:END -->
+* [Nelly Furtado — Say It Right](https://www.last.fm/music/Nelly+Furtado/_/Say+It+Right)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
