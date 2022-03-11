@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Diverseddie — Sparkling Clean](https://www.last.fm/music/Diverseddie/_/Sparkling+Clean)
-* [Matsushita — +♂&lpar;Plus Danshi&rpar;](https://www.last.fm/music/Matsushita/_/%252B%E2%99%82&lpar;Plus+Danshi&rpar;)
-* [Evergreen — Gemini](https://www.last.fm/music/Evergreen/_/Gemini)
-* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
-* [IY — СКУЧАТЬ ВСЕГДА](https://www.last.fm/music/IY/_/%D0%A1%D0%9A%D0%A3%D0%A7%D0%90%D0%A2%D0%AC+%D0%92%D0%A1%D0%95%D0%93%D0%94%D0%90)<!-- LASTFM:END -->
+* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
+* [Merge! — Phantasy Star Online - Remix](https://www.last.fm/music/Merge!/_/Phantasy+Star+Online+-+Remix)
+* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
+* [Origami Button — Oil &amp; Water](https://www.last.fm/music/Origami+Button/_/Oil+&amp;+Water)
+* [Diverseddie — Sparkling Clean](https://www.last.fm/music/Diverseddie/_/Sparkling+Clean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
