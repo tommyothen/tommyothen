@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kings Of The Rollers — Somebody Else](https://www.last.fm/music/Kings+Of+The+Rollers/_/Somebody+Else)
+* [Taylor Swift — I Knew You Were Trouble &lpar;Taylor&#39;s Version&rpar;](https://www.last.fm/music/Taylor+Swift/_/I+Knew+You+Were+Trouble+&lpar;Taylor%27s+Version&rpar;)
 * [Chills — Burger King Foot Lettuce - Trap Remix](https://www.last.fm/music/Chills/_/Burger+King+Foot+Lettuce+-+Trap+Remix)
 * [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
-* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
-* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
-* [暁Records — Necromantic](https://www.last.fm/music/%E6%9A%81Records/_/Necromantic)<!-- LASTFM:END -->
+* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
