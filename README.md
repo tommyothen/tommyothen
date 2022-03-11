@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Evergreen — Gemini](https://www.last.fm/music/Evergreen/_/Gemini)
+* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
+* [IY — СКУЧАТЬ ВСЕГДА](https://www.last.fm/music/IY/_/%D0%A1%D0%9A%D0%A3%D0%A7%D0%90%D0%A2%D0%AC+%D0%92%D0%A1%D0%95%D0%93%D0%94%D0%90)
 * [NotNevi — CTRL](https://www.last.fm/music/NotNevi/_/CTRL)
-* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
-* [TUV — cherry soda](https://www.last.fm/music/TUV/_/cherry+soda)
-* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [COMA-CHI — Oneness](https://www.last.fm/music/COMA-CHI/_/Oneness)<!-- LASTFM:END -->
+* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
