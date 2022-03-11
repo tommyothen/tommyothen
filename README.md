@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Merge! — Phantasy Star Online - Remix](https://www.last.fm/music/Merge!/_/Phantasy+Star+Online+-+Remix)
+* [Diverseddie — Sparkling Clean](https://www.last.fm/music/Diverseddie/_/Sparkling+Clean)
 * [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
 * [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [Michiko Mada — Soko Kara Miteta](https://www.last.fm/music/Michiko+Mada/_/Soko+Kara+Miteta)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)<!-- LASTFM:END -->
+* [Michiko Mada — Soko Kara Miteta](https://www.last.fm/music/Michiko+Mada/_/Soko+Kara+Miteta)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
