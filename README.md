@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [God Mvker — Cyka Blyat Rush B No Stop](https://www.last.fm/music/God+Mvker/_/Cyka+Blyat+Rush+B+No+Stop)
+* [Nelly Furtado — Say It Right](https://www.last.fm/music/Nelly+Furtado/_/Say+It+Right)
 * [Kings Of The Rollers — Somebody Else](https://www.last.fm/music/Kings+Of+The+Rollers/_/Somebody+Else)
 * [Taylor Swift — I Knew You Were Trouble &lpar;Taylor&#39;s Version&rpar;](https://www.last.fm/music/Taylor+Swift/_/I+Knew+You+Were+Trouble+&lpar;Taylor%27s+Version&rpar;)
-* [Chills — Burger King Foot Lettuce - Trap Remix](https://www.last.fm/music/Chills/_/Burger+King+Foot+Lettuce+-+Trap+Remix)
-* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
-* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)<!-- LASTFM:END -->
+* [Chills — Burger King Foot Lettuce - Trap Remix](https://www.last.fm/music/Chills/_/Burger+King+Foot+Lettuce+-+Trap+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
