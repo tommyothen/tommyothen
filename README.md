@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [AlsoJakob — NEW FRIENDS](https://www.last.fm/music/AlsoJakob/_/NEW+FRIENDS)
 * [Origami Button — Oil &amp; Water](https://www.last.fm/music/Origami+Button/_/Oil+&amp;+Water)
 * [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
 * [Merge! — Phantasy Star Online - Remix](https://www.last.fm/music/Merge!/_/Phantasy+Star+Online+-+Remix)
-* [Diverseddie — Sparkling Clean](https://www.last.fm/music/Diverseddie/_/Sparkling+Clean)
-* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)<!-- LASTFM:END -->
+* [Diverseddie — Sparkling Clean](https://www.last.fm/music/Diverseddie/_/Sparkling+Clean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
