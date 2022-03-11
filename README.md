@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [AlsoJakob — NEW FRIENDS](https://www.last.fm/music/AlsoJakob/_/NEW+FRIENDS)
-* [Origami Button — Oil &amp; Water](https://www.last.fm/music/Origami+Button/_/Oil+&amp;+Water)
-* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
-* [Merge! — Phantasy Star Online - Remix](https://www.last.fm/music/Merge!/_/Phantasy+Star+Online+-+Remix)
-* [Diverseddie — Sparkling Clean](https://www.last.fm/music/Diverseddie/_/Sparkling+Clean)<!-- LASTFM:END -->
+* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
+* [Dion Dugas — alter](https://www.last.fm/music/Dion+Dugas/_/alter)
+* [CATXSCAN — Crush](https://www.last.fm/music/CATXSCAN/_/Crush)
+* [Crimson Apple — War With My Mind](https://www.last.fm/music/Crimson+Apple/_/War+With+My+Mind)
+* [Evergreen — Gemini](https://www.last.fm/music/Evergreen/_/Gemini)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
