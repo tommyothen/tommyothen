@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Maybe Tomorrow — See U L8r](https://www.last.fm/music/Maybe+Tomorrow/_/See+U+L8r)
+* [NotNevi — CTRL](https://www.last.fm/music/NotNevi/_/CTRL)
+* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
 * [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [Separate Ways — Freetime](https://www.last.fm/music/Separate+Ways/_/Freetime)
-* [CATXSCAN — Crush](https://www.last.fm/music/CATXSCAN/_/Crush)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)<!-- LASTFM:END -->
+* [Separate Ways — Freetime](https://www.last.fm/music/Separate+Ways/_/Freetime)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
