@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hachi — Mrs.Pumpkinの滑稽な夢 - ORIGINAL](https://www.last.fm/music/Hachi/_/Mrs.Pumpkin%E3%81%AE%E6%BB%91%E7%A8%BD%E3%81%AA%E5%A4%A2+-+ORIGINAL)
-* [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)
-* [西木野真姫&lpar;CV.Pile&rpar; — soldier game](https://www.last.fm/music/%E8%A5%BF%E6%9C%A8%E9%87%8E%E7%9C%9F%E5%A7%AB&lpar;CV.Pile&rpar;/_/soldier+game)
-* [Mitchie M — Noiseless Heart feat. 初音ミク](https://www.last.fm/music/Mitchie+M/_/Noiseless+Heart+feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF)
-* [DECO*27 — The Vampire](https://www.last.fm/music/DECO*27/_/The+Vampire)<!-- LASTFM:END -->
+* [Separate Ways — Freetime](https://www.last.fm/music/Separate+Ways/_/Freetime)
+* [CATXSCAN — Crush](https://www.last.fm/music/CATXSCAN/_/Crush)
+* [Crimson Apple — War With My Mind](https://www.last.fm/music/Crimson+Apple/_/War+With+My+Mind)
+* [Mitchie M — 大江戸ジュリアナイト feat. 初音ミク with KAITO](https://www.last.fm/music/Mitchie+M/_/%E5%A4%A7%E6%B1%9F%E6%88%B8%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A2%E3%83%8A%E3%82%A4%E3%83%88+feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+with+KAITO)
+* [Hachi — Mrs.Pumpkinの滑稽な夢 - ORIGINAL](https://www.last.fm/music/Hachi/_/Mrs.Pumpkin%E3%81%AE%E6%BB%91%E7%A8%BD%E3%81%AA%E5%A4%A2+-+ORIGINAL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
