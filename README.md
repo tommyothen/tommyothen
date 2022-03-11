@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
+* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
 * [Frost Children — BL!NK](https://www.last.fm/music/Frost+Children/_/BL!NK)
 * [Mothé — Debt Collector](https://www.last.fm/music/Moth%C3%A9/_/Debt+Collector)
-* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
-* [Merge! — Phantasy Star Online - Remix](https://www.last.fm/music/Merge!/_/Phantasy+Star+Online+-+Remix)<!-- LASTFM:END -->
+* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
