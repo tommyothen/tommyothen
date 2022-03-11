@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Separate Ways — Freetime](https://www.last.fm/music/Separate+Ways/_/Freetime)
-* [CATXSCAN — Crush](https://www.last.fm/music/CATXSCAN/_/Crush)
-* [Crimson Apple — War With My Mind](https://www.last.fm/music/Crimson+Apple/_/War+With+My+Mind)
-* [Mitchie M — 大江戸ジュリアナイト feat. 初音ミク with KAITO](https://www.last.fm/music/Mitchie+M/_/%E5%A4%A7%E6%B1%9F%E6%88%B8%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A2%E3%83%8A%E3%82%A4%E3%83%88+feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+with+KAITO)
-* [Hachi — Mrs.Pumpkinの滑稽な夢 - ORIGINAL](https://www.last.fm/music/Hachi/_/Mrs.Pumpkin%E3%81%AE%E6%BB%91%E7%A8%BD%E3%81%AA%E5%A4%A2+-+ORIGINAL)<!-- LASTFM:END -->
+* [NotNevi — CTRL](https://www.last.fm/music/NotNevi/_/CTRL)
+* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
+* [TUV — cherry soda](https://www.last.fm/music/TUV/_/cherry+soda)
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
+* [COMA-CHI — Oneness](https://www.last.fm/music/COMA-CHI/_/Oneness)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
