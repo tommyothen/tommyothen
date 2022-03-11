@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NotNevi — CTRL](https://www.last.fm/music/NotNevi/_/CTRL)
+* [Frost Children — BL!NK](https://www.last.fm/music/Frost+Children/_/BL!NK)
 * [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
 * [Dion Dugas — alter](https://www.last.fm/music/Dion+Dugas/_/alter)
-* [CATXSCAN — Crush](https://www.last.fm/music/CATXSCAN/_/Crush)
-* [Crimson Apple — War With My Mind](https://www.last.fm/music/Crimson+Apple/_/War+With+My+Mind)
-* [Evergreen — Gemini](https://www.last.fm/music/Evergreen/_/Gemini)<!-- LASTFM:END -->
+* [CATXSCAN — Crush](https://www.last.fm/music/CATXSCAN/_/Crush)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
