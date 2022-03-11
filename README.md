@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
+* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
 * [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
 * [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
-* [Frost Children — BL!NK](https://www.last.fm/music/Frost+Children/_/BL!NK)
-* [Mothé — Debt Collector](https://www.last.fm/music/Moth%C3%A9/_/Debt+Collector)
-* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)<!-- LASTFM:END -->
+* [Frost Children — BL!NK](https://www.last.fm/music/Frost+Children/_/BL!NK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
