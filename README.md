@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Verzache — Broke Mine](https://www.last.fm/music/Verzache/_/Broke+Mine)
-* [NotNevi — CTRL](https://www.last.fm/music/NotNevi/_/CTRL)
-* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
-* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [COMA-CHI — Oneness](https://www.last.fm/music/COMA-CHI/_/Oneness)<!-- LASTFM:END -->
+* [IY — СКУЧАТЬ ВСЕГДА](https://www.last.fm/music/IY/_/%D0%A1%D0%9A%D0%A3%D0%A7%D0%90%D0%A2%D0%AC+%D0%92%D0%A1%D0%95%D0%93%D0%94%D0%90)
+* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
+* [Terry Presume — Don&#39;t Like U](https://www.last.fm/music/Terry+Presume/_/Don%27t+Like+U)
+* [Surf Curse — Freaks](https://www.last.fm/music/Surf+Curse/_/Freaks)
+* [Verzache — Broke Mine](https://www.last.fm/music/Verzache/_/Broke+Mine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
