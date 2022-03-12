@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Verzache — Broke Mine](https://www.last.fm/music/Verzache/_/Broke+Mine)
+* [NotNevi — CTRL](https://www.last.fm/music/NotNevi/_/CTRL)
+* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
 * [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [COMA-CHI — Oneness](https://www.last.fm/music/COMA-CHI/_/Oneness)
-* [Separate Ways — Freetime](https://www.last.fm/music/Separate+Ways/_/Freetime)
-* [CATXSCAN — Crush](https://www.last.fm/music/CATXSCAN/_/Crush)
-* [Crimson Apple — War With My Mind](https://www.last.fm/music/Crimson+Apple/_/War+With+My+Mind)<!-- LASTFM:END -->
+* [COMA-CHI — Oneness](https://www.last.fm/music/COMA-CHI/_/Oneness)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
