@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Evergreen — Gemini](https://www.last.fm/music/Evergreen/_/Gemini)
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
 * [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
 * [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
-* [nothing,nowhere. — blood &lpar;feat. KennyHoopla &amp; JUDGE&rpar;](https://www.last.fm/music/nothing,nowhere./_/blood+&lpar;feat.+KennyHoopla+&amp;+JUDGE&rpar;)
-* [IY — СКУЧАТЬ ВСЕГДА](https://www.last.fm/music/IY/_/%D0%A1%D0%9A%D0%A3%D0%A7%D0%90%D0%A2%D0%AC+%D0%92%D0%A1%D0%95%D0%93%D0%94%D0%90)
-* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)<!-- LASTFM:END -->
+* [nothing,nowhere. — blood &lpar;feat. KennyHoopla &amp; JUDGE&rpar;](https://www.last.fm/music/nothing,nowhere./_/blood+&lpar;feat.+KennyHoopla+&amp;+JUDGE&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
