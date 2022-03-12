@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
+* [nothing,nowhere. — blood &lpar;feat. KennyHoopla &amp; JUDGE&rpar;](https://www.last.fm/music/nothing,nowhere./_/blood+&lpar;feat.+KennyHoopla+&amp;+JUDGE&rpar;)
 * [IY — СКУЧАТЬ ВСЕГДА](https://www.last.fm/music/IY/_/%D0%A1%D0%9A%D0%A3%D0%A7%D0%90%D0%A2%D0%AC+%D0%92%D0%A1%D0%95%D0%93%D0%94%D0%90)
 * [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
-* [Terry Presume — Don&#39;t Like U](https://www.last.fm/music/Terry+Presume/_/Don%27t+Like+U)
-* [Surf Curse — Freaks](https://www.last.fm/music/Surf+Curse/_/Freaks)
-* [Verzache — Broke Mine](https://www.last.fm/music/Verzache/_/Broke+Mine)<!-- LASTFM:END -->
+* [Terry Presume — Don&#39;t Like U](https://www.last.fm/music/Terry+Presume/_/Don%27t+Like+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
