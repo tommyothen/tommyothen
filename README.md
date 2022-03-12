@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [CATXSCAN — Crush](https://www.last.fm/music/CATXSCAN/_/Crush)
+* [Crimson Apple — War With My Mind](https://www.last.fm/music/Crimson+Apple/_/War+With+My+Mind)
+* [Titanic Sinclair — Scorpio](https://www.last.fm/music/Titanic+Sinclair/_/Scorpio)
 * [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
-* [Michiko Mada — Soko Kara Miteta](https://www.last.fm/music/Michiko+Mada/_/Soko+Kara+Miteta)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
-* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)<!-- LASTFM:END -->
+* [Michiko Mada — Soko Kara Miteta](https://www.last.fm/music/Michiko+Mada/_/Soko+Kara+Miteta)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
