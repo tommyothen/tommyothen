@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Origami Button — Oil &amp; Water](https://www.last.fm/music/Origami+Button/_/Oil+&amp;+Water)
+* [Diverseddie — Sparkling Clean](https://www.last.fm/music/Diverseddie/_/Sparkling+Clean)
 * [Evergreen — Gemini](https://www.last.fm/music/Evergreen/_/Gemini)
 * [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
-* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
-* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
-* [nothing,nowhere. — blood &lpar;feat. KennyHoopla &amp; JUDGE&rpar;](https://www.last.fm/music/nothing,nowhere./_/blood+&lpar;feat.+KennyHoopla+&amp;+JUDGE&rpar;)<!-- LASTFM:END -->
+* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
