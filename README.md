@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
+* [COMA-CHI — Oneness](https://www.last.fm/music/COMA-CHI/_/Oneness)
+* [Separate Ways — Freetime](https://www.last.fm/music/Separate+Ways/_/Freetime)
 * [CATXSCAN — Crush](https://www.last.fm/music/CATXSCAN/_/Crush)
-* [Crimson Apple — War With My Mind](https://www.last.fm/music/Crimson+Apple/_/War+With+My+Mind)
-* [Titanic Sinclair — Scorpio](https://www.last.fm/music/Titanic+Sinclair/_/Scorpio)
-* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
-* [Michiko Mada — Soko Kara Miteta](https://www.last.fm/music/Michiko+Mada/_/Soko+Kara+Miteta)<!-- LASTFM:END -->
+* [Crimson Apple — War With My Mind](https://www.last.fm/music/Crimson+Apple/_/War+With+My+Mind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
