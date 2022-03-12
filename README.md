@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)
-* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
-* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
-* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
-* [Essenger — Erased](https://www.last.fm/music/Essenger/_/Erased)<!-- LASTFM:END -->
+* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
+* [Toploader — Dancing in the Moonlight](https://www.last.fm/music/Toploader/_/Dancing+in+the+Moonlight)
+* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
+* [e11ander — IYKYK](https://www.last.fm/music/e11ander/_/IYKYK)
+* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
