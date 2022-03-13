@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
+* [Carter Ace — The One And Lonely](https://www.last.fm/music/Carter+Ace/_/The+One+And+Lonely)
 * [Arthur — Woof Woof](https://www.last.fm/music/Arthur/_/Woof+Woof)
 * [Billy ! — zoo](https://www.last.fm/music/Billy+!/_/zoo)
-* [Dev Lemons — Blue Beanie](https://www.last.fm/music/Dev+Lemons/_/Blue+Beanie)
-* [Astra King — Silver](https://www.last.fm/music/Astra+King/_/Silver)
-* [MIA GLADSTONE — FOOD](https://www.last.fm/music/MIA+GLADSTONE/_/FOOD)<!-- LASTFM:END -->
+* [Dev Lemons — Blue Beanie](https://www.last.fm/music/Dev+Lemons/_/Blue+Beanie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
