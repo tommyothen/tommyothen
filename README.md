@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TUV — cherry soda](https://www.last.fm/music/TUV/_/cherry+soda)
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
 * [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [Carter Ace — The One And Lonely](https://www.last.fm/music/Carter+Ace/_/The+One+And+Lonely)
-* [Arthur — Woof Woof](https://www.last.fm/music/Arthur/_/Woof+Woof)
-* [Billy ! — zoo](https://www.last.fm/music/Billy+!/_/zoo)
-* [Dev Lemons — Blue Beanie](https://www.last.fm/music/Dev+Lemons/_/Blue+Beanie)<!-- LASTFM:END -->
+* [Carter Ace — The One And Lonely](https://www.last.fm/music/Carter+Ace/_/The+One+And+Lonely)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
