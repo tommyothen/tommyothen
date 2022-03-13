@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
+* [NotNevi — CTRL](https://www.last.fm/music/NotNevi/_/CTRL)
 * [TUV — cherry soda](https://www.last.fm/music/TUV/_/cherry+soda)
 * [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [Carter Ace — The One And Lonely](https://www.last.fm/music/Carter+Ace/_/The+One+And+Lonely)<!-- LASTFM:END -->
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
