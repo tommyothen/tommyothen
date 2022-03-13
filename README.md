@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MIA GLADSTONE — FOOD](https://www.last.fm/music/MIA+GLADSTONE/_/FOOD)
-* [Carter Ace — Just Like Money](https://www.last.fm/music/Carter+Ace/_/Just+Like+Money)
-* [4cf — Jade](https://www.last.fm/music/4cf/_/Jade)
-* [Layen_ — Shelter In Place](https://www.last.fm/music/Layen_/_/Shelter+In+Place)
-* [Dev Lemons — Don&#39;t You See The Time](https://www.last.fm/music/Dev+Lemons/_/Don%27t+You+See+The+Time)<!-- LASTFM:END -->
+* [Arthur — Woof Woof](https://www.last.fm/music/Arthur/_/Woof+Woof)
+* [Billy ! — zoo](https://www.last.fm/music/Billy+!/_/zoo)
+* [Dev Lemons — Blue Beanie](https://www.last.fm/music/Dev+Lemons/_/Blue+Beanie)
+* [Astra King — Silver](https://www.last.fm/music/Astra+King/_/Silver)
+* [MIA GLADSTONE — FOOD](https://www.last.fm/music/MIA+GLADSTONE/_/FOOD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
