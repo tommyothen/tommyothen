@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cloudy Day Suicide — Full Metal Alchemist](https://www.last.fm/music/Cloudy+Day+Suicide/_/Full+Metal+Alchemist)
 * [bludnymph — FEAST](https://www.last.fm/music/bludnymph/_/FEAST)
 * [Defsharp — jaded](https://www.last.fm/music/Defsharp/_/jaded)
 * [7 Minutes Dead — Vibin Without Chu](https://www.last.fm/music/7+Minutes+Dead/_/Vibin+Without+Chu)
-* [Clem Turner — Honeywell](https://www.last.fm/music/Clem+Turner/_/Honeywell)
-* [Cafuné — Friction](https://www.last.fm/music/Cafun%C3%A9/_/Friction)<!-- LASTFM:END -->
+* [Clem Turner — Honeywell](https://www.last.fm/music/Clem+Turner/_/Honeywell)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
