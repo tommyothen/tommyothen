@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
+* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
 * [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
 * [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
-* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
-* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
-* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)<!-- LASTFM:END -->
+* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
