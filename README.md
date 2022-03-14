@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
 * [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
 * [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
 * [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)<!-- LASTFM:END -->
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
