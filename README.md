@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
 * [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
 * [Cloudy Day Suicide — Full Metal Alchemist](https://www.last.fm/music/Cloudy+Day+Suicide/_/Full+Metal+Alchemist)
-* [bludnymph — FEAST](https://www.last.fm/music/bludnymph/_/FEAST)
-* [Defsharp — jaded](https://www.last.fm/music/Defsharp/_/jaded)
-* [7 Minutes Dead — Vibin Without Chu](https://www.last.fm/music/7+Minutes+Dead/_/Vibin+Without+Chu)<!-- LASTFM:END -->
+* [bludnymph — FEAST](https://www.last.fm/music/bludnymph/_/FEAST)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
