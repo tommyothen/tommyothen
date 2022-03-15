@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mac Miller — That&#39;s on Me](https://www.last.fm/music/Mac+Miller/_/That%27s+on+Me)
-* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
-* [goreshit — toromi hearts 2](https://www.last.fm/music/goreshit/_/toromi+hearts+2)
-* [iris day — come2grips](https://www.last.fm/music/iris+day/_/come2grips)
-* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)<!-- LASTFM:END -->
+* [twikipedia — aro](https://www.last.fm/music/twikipedia/_/aro)
+* [recovery girl — lets go bitch](https://www.last.fm/music/recovery+girl/_/lets+go+bitch)
+* [recovery girl — wasted time](https://www.last.fm/music/recovery+girl/_/wasted+time)
+* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
+* [Mac Miller — Once a Day](https://www.last.fm/music/Mac+Miller/_/Once+a+Day)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
