@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [twikipedia — born to pwn](https://www.last.fm/music/twikipedia/_/born+to+pwn)
+* [Mattu — Rock Star](https://www.last.fm/music/Mattu/_/Rock+Star)
 * [111nightshift — Pills To The Head](https://www.last.fm/music/111nightshift/_/Pills+To+The+Head)
 * [DSG — eMILF](https://www.last.fm/music/DSG/_/eMILF)
-* [Mood Killer — Strap On](https://www.last.fm/music/Mood+Killer/_/Strap+On)
-* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
-* [C Roy — Thinking of you](https://www.last.fm/music/C+Roy/_/Thinking+of+you)<!-- LASTFM:END -->
+* [Mood Killer — Strap On](https://www.last.fm/music/Mood+Killer/_/Strap+On)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
