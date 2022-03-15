@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [recovery girl — feels so good](https://www.last.fm/music/recovery+girl/_/feels+so+good)
-* [iris day — awful ways](https://www.last.fm/music/iris+day/_/awful+ways)
-* [webcage — 0M61LY5M](https://www.last.fm/music/webcage/_/0M61LY5M)
-* [dltzk — homeswitcher](https://www.last.fm/music/dltzk/_/homeswitcher)
-* [Maria Domark — Rumors - six impala Remix](https://www.last.fm/music/Maria+Domark/_/Rumors+-+six+impala+Remix)<!-- LASTFM:END -->
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
+* [Khoskger — Takhem](https://www.last.fm/music/Khoskger/_/Takhem)
+* [recovery girl — summer makes me so depressed](https://www.last.fm/music/recovery+girl/_/summer+makes+me+so+depressed)
+* [iris day — butterflies](https://www.last.fm/music/iris+day/_/butterflies)
+* [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
