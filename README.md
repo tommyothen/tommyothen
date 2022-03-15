@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [webcage — 0M61LY5M](https://www.last.fm/music/webcage/_/0M61LY5M)
+* [dltzk — homeswitcher](https://www.last.fm/music/dltzk/_/homeswitcher)
+* [Maria Domark — Rumors - six impala Remix](https://www.last.fm/music/Maria+Domark/_/Rumors+-+six+impala+Remix)
 * [twikipedia — born to pwn](https://www.last.fm/music/twikipedia/_/born+to+pwn)
-* [Mattu — Rock Star](https://www.last.fm/music/Mattu/_/Rock+Star)
-* [111nightshift — Pills To The Head](https://www.last.fm/music/111nightshift/_/Pills+To+The+Head)
-* [DSG — eMILF](https://www.last.fm/music/DSG/_/eMILF)
-* [Mood Killer — Strap On](https://www.last.fm/music/Mood+Killer/_/Strap+On)<!-- LASTFM:END -->
+* [Mattu — Rock Star](https://www.last.fm/music/Mattu/_/Rock+Star)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
