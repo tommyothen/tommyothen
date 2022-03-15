@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Clem Turner — Honeywell](https://www.last.fm/music/Clem+Turner/_/Honeywell)
+* [Cafuné — Friction](https://www.last.fm/music/Cafun%C3%A9/_/Friction)
+* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
 * [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
-* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)
-* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
-* [Rural Internet — BRAINWORMS](https://www.last.fm/music/Rural+Internet/_/BRAINWORMS)<!-- LASTFM:END -->
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
