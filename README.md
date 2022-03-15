@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mac Miller — That&#39;s on Me](https://www.last.fm/music/Mac+Miller/_/That%27s+on+Me)
+* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
 * [goreshit — toromi hearts 2](https://www.last.fm/music/goreshit/_/toromi+hearts+2)
 * [iris day — come2grips](https://www.last.fm/music/iris+day/_/come2grips)
-* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
-* [Clem Turner — Honeywell](https://www.last.fm/music/Clem+Turner/_/Honeywell)
-* [Cafuné — Friction](https://www.last.fm/music/Cafun%C3%A9/_/Friction)<!-- LASTFM:END -->
+* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
