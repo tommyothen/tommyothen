@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Whitetrash — tellmeHonestlyy](https://www.last.fm/music/Whitetrash/_/tellmeHonestlyy)
+* [twikipedia — talk down](https://www.last.fm/music/twikipedia/_/talk+down)
+* [Glitch Gum — Miss U Being Mine](https://www.last.fm/music/Glitch+Gum/_/Miss+U+Being+Mine)
 * [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [Angelus — gossip girls](https://www.last.fm/music/Angelus/_/gossip+girls)
-* [Frost Children — BL!NK](https://www.last.fm/music/Frost+Children/_/BL!NK)
-* [iris day — do u hear me?](https://www.last.fm/music/iris+day/_/do+u+hear+me%3F)
-* [RILEY THE MUSICIAN — Iced Out](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/Iced+Out)<!-- LASTFM:END -->
+* [Angelus — gossip girls](https://www.last.fm/music/Angelus/_/gossip+girls)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
