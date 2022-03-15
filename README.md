@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frost Children — BL!NK](https://www.last.fm/music/Frost+Children/_/BL!NK)
+* [iris day — do u hear me?](https://www.last.fm/music/iris+day/_/do+u+hear+me%3F)
+* [RILEY THE MUSICIAN — Iced Out](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/Iced+Out)
 * [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Khoskger — Takhem](https://www.last.fm/music/Khoskger/_/Takhem)
-* [recovery girl — summer makes me so depressed](https://www.last.fm/music/recovery+girl/_/summer+makes+me+so+depressed)
-* [iris day — butterflies](https://www.last.fm/music/iris+day/_/butterflies)
-* [111nightshift — UAV](https://www.last.fm/music/111nightshift/_/UAV)<!-- LASTFM:END -->
+* [Khoskger — Takhem](https://www.last.fm/music/Khoskger/_/Takhem)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
