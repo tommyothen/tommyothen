@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [recovery girl — feels so good](https://www.last.fm/music/recovery+girl/_/feels+so+good)
+* [iris day — awful ways](https://www.last.fm/music/iris+day/_/awful+ways)
 * [webcage — 0M61LY5M](https://www.last.fm/music/webcage/_/0M61LY5M)
 * [dltzk — homeswitcher](https://www.last.fm/music/dltzk/_/homeswitcher)
-* [Maria Domark — Rumors - six impala Remix](https://www.last.fm/music/Maria+Domark/_/Rumors+-+six+impala+Remix)
-* [twikipedia — born to pwn](https://www.last.fm/music/twikipedia/_/born+to+pwn)
-* [Mattu — Rock Star](https://www.last.fm/music/Mattu/_/Rock+Star)<!-- LASTFM:END -->
+* [Maria Domark — Rumors - six impala Remix](https://www.last.fm/music/Maria+Domark/_/Rumors+-+six+impala+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
