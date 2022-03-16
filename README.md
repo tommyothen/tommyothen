@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
 * [boofbby — Haaaa](https://www.last.fm/music/boofbby/_/Haaaa)
 * [twikipedia — hotel](https://www.last.fm/music/twikipedia/_/hotel)
-* [twikipedia — talk down](https://www.last.fm/music/twikipedia/_/talk+down)
-* [Glitch Gum — Miss U Being Mine](https://www.last.fm/music/Glitch+Gum/_/Miss+U+Being+Mine)
-* [recovery girl — summer makes me so depressed](https://www.last.fm/music/recovery+girl/_/summer+makes+me+so+depressed)<!-- LASTFM:END -->
+* [twikipedia — talk down](https://www.last.fm/music/twikipedia/_/talk+down)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
