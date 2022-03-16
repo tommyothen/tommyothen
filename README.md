@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iris day — STATIC DREAMS](https://www.last.fm/music/iris+day/_/STATIC+DREAMS)
 * [Glitch Gum — Just for me](https://www.last.fm/music/Glitch+Gum/_/Just+for+me)
 * [Whitetrash — tellmeHonestlyy](https://www.last.fm/music/Whitetrash/_/tellmeHonestlyy)
 * [twikipedia — talk down](https://www.last.fm/music/twikipedia/_/talk+down)
-* [Glitch Gum — Miss U Being Mine](https://www.last.fm/music/Glitch+Gum/_/Miss+U+Being+Mine)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
+* [Glitch Gum — Miss U Being Mine](https://www.last.fm/music/Glitch+Gum/_/Miss+U+Being+Mine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
