@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blankz — Nakama](https://www.last.fm/music/Blankz/_/Nakama)
+* [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)
 * [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
 * [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [boofbby — Haaaa](https://www.last.fm/music/boofbby/_/Haaaa)
-* [twikipedia — hotel](https://www.last.fm/music/twikipedia/_/hotel)
-* [twikipedia — talk down](https://www.last.fm/music/twikipedia/_/talk+down)<!-- LASTFM:END -->
+* [boofbby — Haaaa](https://www.last.fm/music/boofbby/_/Haaaa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
