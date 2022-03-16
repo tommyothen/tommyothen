@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [goreshit — Night Howl](https://www.last.fm/music/goreshit/_/Night+Howl)
+* [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)
+* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
 * [Moxas — Kaioken X20 Flow](https://www.last.fm/music/Moxas/_/Kaioken+X20+Flow)
-* [Jid — Workin Out](https://www.last.fm/music/Jid/_/Workin+Out)
-* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
-* [Blankz — Nakama](https://www.last.fm/music/Blankz/_/Nakama)
-* [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)<!-- LASTFM:END -->
+* [Jid — Workin Out](https://www.last.fm/music/Jid/_/Workin+Out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
