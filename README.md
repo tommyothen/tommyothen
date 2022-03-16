@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [goreshit — Gravy All Over Him](https://www.last.fm/music/goreshit/_/Gravy+All+Over+Him)
+* [goreshit — Black IHR](https://www.last.fm/music/goreshit/_/Black+IHR)
 * [goreshit — arp4joy](https://www.last.fm/music/goreshit/_/arp4joy)
 * [goreshit — I Don&#39;t Give You New Shoes](https://www.last.fm/music/goreshit/_/I+Don%27t+Give+You+New+Shoes)
-* [goreshit — Take Out Your Sax](https://www.last.fm/music/goreshit/_/Take+Out+Your+Sax)
-* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
-* [goreshit — Night Howl](https://www.last.fm/music/goreshit/_/Night+Howl)<!-- LASTFM:END -->
+* [goreshit — Take Out Your Sax](https://www.last.fm/music/goreshit/_/Take+Out+Your+Sax)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
