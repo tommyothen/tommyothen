@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fax Gang — Breathe2 &lpar;In/Out&rpar;](https://www.last.fm/music/Fax+Gang/_/Breathe2+&lpar;In%2FOut&rpar;)
+* [NANORAY — Intro](https://www.last.fm/music/NANORAY/_/Intro)
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
 * [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [goreshit — loli fantasy](https://www.last.fm/music/goreshit/_/loli+fantasy)
-* [goreshit — Ahoy My Boy](https://www.last.fm/music/goreshit/_/Ahoy+My+Boy)
-* [goreshit — Gravy All Over Him](https://www.last.fm/music/goreshit/_/Gravy+All+Over+Him)
-* [goreshit — Black IHR](https://www.last.fm/music/goreshit/_/Black+IHR)<!-- LASTFM:END -->
+* [goreshit — loli fantasy](https://www.last.fm/music/goreshit/_/loli+fantasy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
