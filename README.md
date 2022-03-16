@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mattu — Rock Star](https://www.last.fm/music/Mattu/_/Rock+Star)
-* [webcage — 0M61LY5M](https://www.last.fm/music/webcage/_/0M61LY5M)
-* [Astra King — Silver](https://www.last.fm/music/Astra+King/_/Silver)
-* [Glitch Gum — Just for me](https://www.last.fm/music/Glitch+Gum/_/Just+for+me)
-* [andy polk — burnout](https://www.last.fm/music/andy+polk/_/burnout)<!-- LASTFM:END -->
+* [boofbby — Haaaa](https://www.last.fm/music/boofbby/_/Haaaa)
+* [twikipedia — hotel](https://www.last.fm/music/twikipedia/_/hotel)
+* [twikipedia — talk down](https://www.last.fm/music/twikipedia/_/talk+down)
+* [Glitch Gum — Miss U Being Mine](https://www.last.fm/music/Glitch+Gum/_/Miss+U+Being+Mine)
+* [recovery girl — summer makes me so depressed](https://www.last.fm/music/recovery+girl/_/summer+makes+me+so+depressed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
