@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
+* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
 * [goreshit — thinking of you](https://www.last.fm/music/goreshit/_/thinking+of+you)
 * [Fax Gang — Breathe2 &lpar;In/Out&rpar;](https://www.last.fm/music/Fax+Gang/_/Breathe2+&lpar;In%2FOut&rpar;)
-* [NANORAY — Intro](https://www.last.fm/music/NANORAY/_/Intro)
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
+* [NANORAY — Intro](https://www.last.fm/music/NANORAY/_/Intro)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
