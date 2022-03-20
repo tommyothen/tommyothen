@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [McClenney — Us](https://www.last.fm/music/McClenney/_/Us)
+* [LJONES — Mango Kimono](https://www.last.fm/music/LJONES/_/Mango+Kimono)
+* [Sidney Gish — Presumably Dead Arm &lpar;617 Sessions&rpar;](https://www.last.fm/music/Sidney+Gish/_/Presumably+Dead+Arm+&lpar;617+Sessions&rpar;)
 * [The Deli — Flowers](https://www.last.fm/music/The+Deli/_/Flowers)
-* [Swell — I&#39;m Sorry](https://www.last.fm/music/Swell/_/I%27m+Sorry)
-* [[bsd.u] — French Inhale](https://www.last.fm/music/%5Bbsd.u%5D/_/French+Inhale)
-* [nohidea — sincerely, yours](https://www.last.fm/music/nohidea/_/sincerely,+yours)
-* [The Deli — 5:32PM](https://www.last.fm/music/The+Deli/_/5:32PM)<!-- LASTFM:END -->
+* [Swell — I&#39;m Sorry](https://www.last.fm/music/Swell/_/I%27m+Sorry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
