@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eevee — Like This](https://www.last.fm/music/Eevee/_/Like+This)
-* [Eevee — Smokes](https://www.last.fm/music/Eevee/_/Smokes)
-* [meltycanon — veldt](https://www.last.fm/music/meltycanon/_/veldt)
-* [Eevee — azalea](https://www.last.fm/music/Eevee/_/azalea)
-* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)<!-- LASTFM:END -->
+* [nohidea — you don&#39;t have to cry](https://www.last.fm/music/nohidea/_/you+don%27t+have+to+cry)
+* [nohidea — falling down](https://www.last.fm/music/nohidea/_/falling+down)
+* [nohidea — tick tock](https://www.last.fm/music/nohidea/_/tick+tock)
+* [nohidea — haiku](https://www.last.fm/music/nohidea/_/haiku)
+* [Eevee — Like This](https://www.last.fm/music/Eevee/_/Like+This)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
