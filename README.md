@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eevee — M I S T](https://www.last.fm/music/Eevee/_/M+I+S+T)
-* [Shamana — Besidju](https://www.last.fm/music/Shamana/_/Besidju)
-* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
-* [Cuco — Lover Is a Day](https://www.last.fm/music/Cuco/_/Lover+Is+a+Day)
-* [Kuzu Mellow — sunflower feelings](https://www.last.fm/music/Kuzu+Mellow/_/sunflower+feelings)<!-- LASTFM:END -->
+* [Eevee — azalea](https://www.last.fm/music/Eevee/_/azalea)
+* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
+* [Kina — Baby You&#39;re Worth It](https://www.last.fm/music/Kina/_/Baby+You%27re+Worth+It)
+* [idealism — Controlla](https://www.last.fm/music/idealism/_/Controlla)
+* [Eevee — M I S T](https://www.last.fm/music/Eevee/_/M+I+S+T)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
