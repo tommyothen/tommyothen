@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [Arthur — Woof Woof](https://www.last.fm/music/Arthur/_/Woof+Woof)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
-* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)<!-- LASTFM:END -->
+* [kaz moon — Aprilfools :&#39;&rpar;](https://www.last.fm/music/kaz+moon/_/Aprilfools+:%27&rpar;)
+* [MIA GLADSTONE — GEEKIN](https://www.last.fm/music/MIA+GLADSTONE/_/GEEKIN)
+* [Neanderthal — HOMEBODY](https://www.last.fm/music/Neanderthal/_/HOMEBODY)
+* [Dev Lemons — You Don&#39;t Do Laundry](https://www.last.fm/music/Dev+Lemons/_/You+Don%27t+Do+Laundry)
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
