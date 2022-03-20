@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kuzu Mellow — sunflower feelings](https://www.last.fm/music/Kuzu+Mellow/_/sunflower+feelings)
+* [Mac Ayres — Easy](https://www.last.fm/music/Mac+Ayres/_/Easy)
 * [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)
 * [Aaron May — Let Go](https://www.last.fm/music/Aaron+May/_/Let+Go)
-* [Lil Peep — White Wine](https://www.last.fm/music/Lil+Peep/_/White+Wine)
-* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
-* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)<!-- LASTFM:END -->
+* [Lil Peep — White Wine](https://www.last.fm/music/Lil+Peep/_/White+Wine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
