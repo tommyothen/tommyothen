@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Wun Two — Again](https://www.last.fm/music/Wun+Two/_/Again)
-* [JinSang — affection](https://www.last.fm/music/JinSang/_/affection)
-* [TomppaBeats — Monday Loop](https://www.last.fm/music/TomppaBeats/_/Monday+Loop)
-* [knowmadic — nod.off](https://www.last.fm/music/knowmadic/_/nod.off)
-* [knowmadic — dont get involved](https://www.last.fm/music/knowmadic/_/dont+get+involved)<!-- LASTFM:END -->
+* [The Deli — 5:32PM](https://www.last.fm/music/The+Deli/_/5:32PM)
+* [Flughand — Feblu](https://www.last.fm/music/Flughand/_/Feblu)
+* [Eery — her](https://www.last.fm/music/Eery/_/her)
+* [Eevee — viola](https://www.last.fm/music/Eevee/_/viola)
+* [Wun Two — Again](https://www.last.fm/music/Wun+Two/_/Again)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
