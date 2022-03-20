@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [nohidea — you don&#39;t have to cry](https://www.last.fm/music/nohidea/_/you+don%27t+have+to+cry)
-* [nohidea — falling down](https://www.last.fm/music/nohidea/_/falling+down)
-* [nohidea — tick tock](https://www.last.fm/music/nohidea/_/tick+tock)
-* [nohidea — haiku](https://www.last.fm/music/nohidea/_/haiku)
-* [Eevee — Like This](https://www.last.fm/music/Eevee/_/Like+This)<!-- LASTFM:END -->
+* [nohidea — Separate](https://www.last.fm/music/nohidea/_/Separate)
+* [nohidea — Dreams](https://www.last.fm/music/nohidea/_/Dreams)
+* [nohidea — Petrichor](https://www.last.fm/music/nohidea/_/Petrichor)
+* [nohidea — jewel](https://www.last.fm/music/nohidea/_/jewel)
+* [nohidea — you don&#39;t have to cry](https://www.last.fm/music/nohidea/_/you+don%27t+have+to+cry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
