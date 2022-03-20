@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kuzu Mellow — sunflower feelings](https://www.last.fm/music/Kuzu+Mellow/_/sunflower+feelings)
-* [Mac Ayres — Easy](https://www.last.fm/music/Mac+Ayres/_/Easy)
-* [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)
-* [Aaron May — Let Go](https://www.last.fm/music/Aaron+May/_/Let+Go)
-* [Lil Peep — White Wine](https://www.last.fm/music/Lil+Peep/_/White+Wine)<!-- LASTFM:END -->
+* [Eevee — M I S T](https://www.last.fm/music/Eevee/_/M+I+S+T)
+* [Shamana — Besidju](https://www.last.fm/music/Shamana/_/Besidju)
+* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
+* [Cuco — Lover Is a Day](https://www.last.fm/music/Cuco/_/Lover+Is+a+Day)
+* [Kuzu Mellow — sunflower feelings](https://www.last.fm/music/Kuzu+Mellow/_/sunflower+feelings)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
