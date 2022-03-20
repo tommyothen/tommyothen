@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [knowmadic — dont get involved](https://www.last.fm/music/knowmadic/_/dont+get+involved)
-* [knowmadic — someone](https://www.last.fm/music/knowmadic/_/someone)
-* [knowmadic — idkanymore](https://www.last.fm/music/knowmadic/_/idkanymore)
-* [nohidea — indigo](https://www.last.fm/music/nohidea/_/indigo)
-* [nohidea — indigo](https://www.last.fm/music/nohidea/_/indigo)<!-- LASTFM:END -->
+* [Wun Two — Again](https://www.last.fm/music/Wun+Two/_/Again)
+* [JinSang — affection](https://www.last.fm/music/JinSang/_/affection)
+* [TomppaBeats — Monday Loop](https://www.last.fm/music/TomppaBeats/_/Monday+Loop)
+* [knowmadic — nod.off](https://www.last.fm/music/knowmadic/_/nod.off)
+* [knowmadic — dont get involved](https://www.last.fm/music/knowmadic/_/dont+get+involved)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
