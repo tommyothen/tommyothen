@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [killedmyself — don&#39;t worry about me](https://www.last.fm/music/killedmyself/_/don%27t+worry+about+me)
+* [DJ Mitsu the Beats — A Little Piano](https://www.last.fm/music/DJ+Mitsu+the+Beats/_/A+Little+Piano)
+* [TomppaBeats — the girl next door](https://www.last.fm/music/TomppaBeats/_/the+girl+next+door)
 * [McClenney — Us](https://www.last.fm/music/McClenney/_/Us)
-* [LJONES — Mango Kimono](https://www.last.fm/music/LJONES/_/Mango+Kimono)
-* [Sidney Gish — Presumably Dead Arm &lpar;617 Sessions&rpar;](https://www.last.fm/music/Sidney+Gish/_/Presumably+Dead+Arm+&lpar;617+Sessions&rpar;)
-* [The Deli — Flowers](https://www.last.fm/music/The+Deli/_/Flowers)
-* [Swell — I&#39;m Sorry](https://www.last.fm/music/Swell/_/I%27m+Sorry)<!-- LASTFM:END -->
+* [LJONES — Mango Kimono](https://www.last.fm/music/LJONES/_/Mango+Kimono)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
