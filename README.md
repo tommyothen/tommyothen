@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
 * [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)
 * [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
 * [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
-* [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
+* [Swervy — ART GANG MONEY](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
