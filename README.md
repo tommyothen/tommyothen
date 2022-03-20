@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
 * [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)
 * [killedmyself — don&#39;t worry about me](https://www.last.fm/music/killedmyself/_/don%27t+worry+about+me)
 * [DJ Mitsu the Beats — A Little Piano](https://www.last.fm/music/DJ+Mitsu+the+Beats/_/A+Little+Piano)
-* [TomppaBeats — the girl next door](https://www.last.fm/music/TomppaBeats/_/the+girl+next+door)
-* [McClenney — Us](https://www.last.fm/music/McClenney/_/Us)<!-- LASTFM:END -->
+* [TomppaBeats — the girl next door](https://www.last.fm/music/TomppaBeats/_/the+girl+next+door)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
