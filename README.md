@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
 * [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
 * [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
 * [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)
-* [Camellia — Kisaragi](https://www.last.fm/music/Camellia/_/Kisaragi)
-* [Camellia — AREA 52](https://www.last.fm/music/Camellia/_/AREA+52)<!-- LASTFM:END -->
+* [Camellia — Kisaragi](https://www.last.fm/music/Camellia/_/Kisaragi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
