@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DLCL — Uniform](https://www.last.fm/music/DLCL/_/Uniform)
+* [LoneMoon — Day by Day](https://www.last.fm/music/LoneMoon/_/Day+by+Day)
+* [Kuro! — Weeb Nigga Antics](https://www.last.fm/music/Kuro!/_/Weeb+Nigga+Antics)
 * [rosie ugly — bad dog](https://www.last.fm/music/rosie+ugly/_/bad+dog)
-* [bahama john — Nite Lite](https://www.last.fm/music/bahama+john/_/Nite+Lite)
-* [Vexen — BLOW !](https://www.last.fm/music/Vexen/_/BLOW+!)
-* [The L.B. — untitled](https://www.last.fm/music/The+L.B./_/untitled)
-* [Alissic — Piano](https://www.last.fm/music/Alissic/_/Piano)<!-- LASTFM:END -->
+* [bahama john — Nite Lite](https://www.last.fm/music/bahama+john/_/Nite+Lite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
