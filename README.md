@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — Labyrinth in Kowloon: Walled World](https://www.last.fm/music/Camellia/_/Labyrinth+in+Kowloon:+Walled+World)
+* [Camellia — &lpar;The&rpar; Red * Room](https://www.last.fm/music/Camellia/_/&lpar;The&rpar;+Red+*+Room)
 * [Camellia — Mystery Circles Ultra / U.U.F.O.](https://www.last.fm/music/Camellia/_/Mystery+Circles+Ultra+%2F+U.U.F.O.)
 * [andy polk — pins&amp;needles](https://www.last.fm/music/andy+polk/_/pins&amp;needles)
-* [Student 1 — nippy](https://www.last.fm/music/Student+1/_/nippy)
-* [DLCL — Uniform](https://www.last.fm/music/DLCL/_/Uniform)
-* [LoneMoon — Day by Day](https://www.last.fm/music/LoneMoon/_/Day+by+Day)<!-- LASTFM:END -->
+* [Student 1 — nippy](https://www.last.fm/music/Student+1/_/nippy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
