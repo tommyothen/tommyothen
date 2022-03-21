@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [rosie ugly — bad dog](https://www.last.fm/music/rosie+ugly/_/bad+dog)
 * [bahama john — Nite Lite](https://www.last.fm/music/bahama+john/_/Nite+Lite)
 * [Vexen — BLOW !](https://www.last.fm/music/Vexen/_/BLOW+!)
 * [The L.B. — untitled](https://www.last.fm/music/The+L.B./_/untitled)
-* [Alissic — Piano](https://www.last.fm/music/Alissic/_/Piano)
-* [takayan — Antithesis](https://www.last.fm/music/takayan/_/Antithesis)<!-- LASTFM:END -->
+* [Alissic — Piano](https://www.last.fm/music/Alissic/_/Piano)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
