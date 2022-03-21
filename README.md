@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
+* [Beach Bunny — Cloud 9](https://www.last.fm/music/Beach+Bunny/_/Cloud+9)
 * [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
 * [Olivia Rodrigo — jealousy, jealousy](https://www.last.fm/music/Olivia+Rodrigo/_/jealousy,+jealousy)
-* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
-* [chloe george — ghost town &lpar;voice memo&rpar;](https://www.last.fm/music/chloe+george/_/ghost+town+&lpar;voice+memo&rpar;)
-* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)<!-- LASTFM:END -->
+* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
