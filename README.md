@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)
+* [Jess Benko — Expired](https://www.last.fm/music/Jess+Benko/_/Expired)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
 * [Gracie Abrams — Rockland](https://www.last.fm/music/Gracie+Abrams/_/Rockland)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Genevieve Stokes — Running Away](https://www.last.fm/music/Genevieve+Stokes/_/Running+Away)
-* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
-* [Chri$tian Gate$ — NUMB](https://www.last.fm/music/Chri$tian+Gate$/_/NUMB)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
