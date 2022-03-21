@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
+* [Suggi — astroboy.](https://www.last.fm/music/Suggi/_/astroboy.)
 * [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
 * [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
-* [Tate McRae — feel like shit](https://www.last.fm/music/Tate+McRae/_/feel+like+shit)
-* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
-* [Beach Bunny — Cloud 9](https://www.last.fm/music/Beach+Bunny/_/Cloud+9)<!-- LASTFM:END -->
+* [Tate McRae — feel like shit](https://www.last.fm/music/Tate+McRae/_/feel+like+shit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
