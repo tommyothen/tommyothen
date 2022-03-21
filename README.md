@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [andy polk — pins&amp;needles](https://www.last.fm/music/andy+polk/_/pins&amp;needles)
+* [Student 1 — nippy](https://www.last.fm/music/Student+1/_/nippy)
 * [DLCL — Uniform](https://www.last.fm/music/DLCL/_/Uniform)
 * [LoneMoon — Day by Day](https://www.last.fm/music/LoneMoon/_/Day+by+Day)
-* [Kuro! — Weeb Nigga Antics](https://www.last.fm/music/Kuro!/_/Weeb+Nigga+Antics)
-* [rosie ugly — bad dog](https://www.last.fm/music/rosie+ugly/_/bad+dog)
-* [bahama john — Nite Lite](https://www.last.fm/music/bahama+john/_/Nite+Lite)<!-- LASTFM:END -->
+* [Kuro! — Weeb Nigga Antics](https://www.last.fm/music/Kuro!/_/Weeb+Nigga+Antics)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
