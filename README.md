@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gracie Abrams — Better](https://www.last.fm/music/Gracie+Abrams/_/Better)
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
 * [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
 * [The Neighbourhood — Softcore](https://www.last.fm/music/The+Neighbourhood/_/Softcore)
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
-* [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)
-* [killedmyself — don&#39;t worry about me](https://www.last.fm/music/killedmyself/_/don%27t+worry+about+me)<!-- LASTFM:END -->
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
