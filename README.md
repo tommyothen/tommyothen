@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cavetown — This is home](https://www.last.fm/music/Cavetown/_/This+is+home)
+* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
+* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
 * [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
-* [Mura Masa — I Don’t Think I Can Do This Again &lpar;with Clairo&rpar;](https://www.last.fm/music/Mura+Masa/_/I+Don%E2%80%99t+Think+I+Can+Do+This+Again+&lpar;with+Clairo&rpar;)
-* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
-* [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)<!-- LASTFM:END -->
+* [Mura Masa — I Don’t Think I Can Do This Again &lpar;with Clairo&rpar;](https://www.last.fm/music/Mura+Masa/_/I+Don%E2%80%99t+Think+I+Can+Do+This+Again+&lpar;with+Clairo&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
