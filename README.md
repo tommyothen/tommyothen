@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
+* [Tate McRae — feel like shit](https://www.last.fm/music/Tate+McRae/_/feel+like+shit)
 * [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
-* [Beach Bunny — Cloud 9](https://www.last.fm/music/Beach+Bunny/_/Cloud+9)
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
-* [Olivia Rodrigo — jealousy, jealousy](https://www.last.fm/music/Olivia+Rodrigo/_/jealousy,+jealousy)
-* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)<!-- LASTFM:END -->
+* [Beach Bunny — Cloud 9](https://www.last.fm/music/Beach+Bunny/_/Cloud+9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
