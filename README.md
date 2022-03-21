@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
-* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)
-* [Tate McRae — all my friends are fake](https://www.last.fm/music/Tate+McRae/_/all+my+friends+are+fake)
-* [Elio — hurts 2 hate somebody &lpar;with Chase Atlantic &amp; No Rome&rpar;](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+&lpar;with+Chase+Atlantic+&amp;+No+Rome&rpar;)<!-- LASTFM:END -->
+* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
+* [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Joji — Run](https://www.last.fm/music/Joji/_/Run)
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
