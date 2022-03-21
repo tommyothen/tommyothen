@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
+* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
+* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
 * [Cavetown — This is home](https://www.last.fm/music/Cavetown/_/This+is+home)
-* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
-* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
-* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
-* [Mura Masa — I Don’t Think I Can Do This Again &lpar;with Clairo&rpar;](https://www.last.fm/music/Mura+Masa/_/I+Don%E2%80%99t+Think+I+Can+Do+This+Again+&lpar;with+Clairo&rpar;)<!-- LASTFM:END -->
+* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
