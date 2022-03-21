@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — We Magicians Still Alive in 2021](https://www.last.fm/music/Camellia/_/We+Magicians+Still+Alive+in+2021)
+* [Camellia — WYSI -When You See It-](https://www.last.fm/music/Camellia/_/WYSI+-When+You+See+It-)
+* [Camellia — FINAL BLENDERMAN APPEARED.](https://www.last.fm/music/Camellia/_/FINAL+BLENDERMAN+APPEARED.)
 * [Camellia — Tentaclar Aliens&#39; Epic Extraterretterrestrial Jungle Dance Party Inside Of A Super-Ultra-Mega-Gigantic U.F.O., It Maybe U.U.F.O., Silently Flying Over Illinois St.](https://www.last.fm/music/Camellia/_/Tentaclar+Aliens%27+Epic+Extraterretterrestrial+Jungle+Dance+Party+Inside+Of+A+Super-Ultra-Mega-Gigantic+U.F.O.,+It+Maybe+U.U.F.O.,+Silently+Flying+Over+Illinois+St.)
-* [Camellia — POLYBIUS GB SPEEDRUN -Glitchless 100% WR in 0:03:57-](https://www.last.fm/music/Camellia/_/POLYBIUS+GB+SPEEDRUN+-Glitchless+100%25+WR+in+0:03:57-)
-* [Camellia — KillerToy](https://www.last.fm/music/Camellia/_/KillerToy)
-* [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)
-* [Camellia — Electromagnetic Stealth Girl Born In Philadelphia](https://www.last.fm/music/Camellia/_/Electromagnetic+Stealth+Girl+Born+In+Philadelphia)<!-- LASTFM:END -->
+* [Camellia — POLYBIUS GB SPEEDRUN -Glitchless 100% WR in 0:03:57-](https://www.last.fm/music/Camellia/_/POLYBIUS+GB+SPEEDRUN+-Glitchless+100%25+WR+in+0:03:57-)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
