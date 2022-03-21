@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chri$tian Gate$ — NUMB](https://www.last.fm/music/Chri$tian+Gate$/_/NUMB)
+* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
+* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
 * [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Joji — Run](https://www.last.fm/music/Joji/_/Run)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)<!-- LASTFM:END -->
+* [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
