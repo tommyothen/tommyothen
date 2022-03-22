@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [J. Cole — 1 0 0 . m i l ‘ &lpar;with Bas&rpar;](https://www.last.fm/music/J.+Cole/_/1+0+0+.+m+i+l+%E2%80%98+&lpar;with+Bas&rpar;)
+* [J. Cole — p u n c h i n ‘ . t h e . c l o c k](https://www.last.fm/music/J.+Cole/_/p+u+n+c+h+i+n+%E2%80%98+.+t+h+e+.+c+l+o+c+k)
+* [J. Cole — a p p l y i n g . p r e s s u r e](https://www.last.fm/music/J.+Cole/_/a+p+p+l+y+i+n+g+.+p+r+e+s+s+u+r+e)
 * [J. Cole — m y . l i f e &lpar;with 21 Savage &amp; Morray&rpar;](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+&lpar;with+21+Savage+&amp;+Morray&rpar;)
-* [gugudan — The Boots](https://www.last.fm/music/gugudan/_/The+Boots)
-* [LOONA/yyxy — love4eva &lpar;feat. Grimes&rpar;](https://www.last.fm/music/LOONA%2Fyyxy/_/love4eva+&lpar;feat.+Grimes&rpar;)
-* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)<!-- LASTFM:END -->
+* [J. Cole — m y . l i f e &lpar;with 21 Savage &amp; Morray&rpar;](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+&lpar;with+21+Savage+&amp;+Morray&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
