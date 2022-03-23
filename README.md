@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mr FijiWiji — Andromeda](https://www.last.fm/music/Mr+FijiWiji/_/Andromeda)
+* [Frank Ocean — Thinkin Bout You](https://www.last.fm/music/Frank+Ocean/_/Thinkin+Bout+You)
 * [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
 * [Frank Ocean — Nights](https://www.last.fm/music/Frank+Ocean/_/Nights)
-* [Mac Miller — Hurt Feelings](https://www.last.fm/music/Mac+Miller/_/Hurt+Feelings)
-* [Frank Ocean — Lost](https://www.last.fm/music/Frank+Ocean/_/Lost)
-* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)<!-- LASTFM:END -->
+* [Mac Miller — Hurt Feelings](https://www.last.fm/music/Mac+Miller/_/Hurt+Feelings)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
