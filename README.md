@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
+* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
+* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
 * [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
-* [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)
-* [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)
-* [J. Cole — l e t . g o . m y . h a n d &lpar;with Bas &amp; 6LACK&rpar;](https://www.last.fm/music/J.+Cole/_/l+e+t+.+g+o+.+m+y+.+h+a+n+d+&lpar;with+Bas+&amp;+6LACK&rpar;)
-* [J. Cole — p r i d e . i s . t h e . d e v i l &lpar;with Lil Baby&rpar;](https://www.last.fm/music/J.+Cole/_/p+r+i+d+e+.+i+s+.+t+h+e+.+d+e+v+i+l+&lpar;with+Lil+Baby&rpar;)<!-- LASTFM:END -->
+* [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
