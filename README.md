@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [J. Cole — l e t . g o . m y . h a n d &lpar;with Bas &amp; 6LACK&rpar;](https://www.last.fm/music/J.+Cole/_/l+e+t+.+g+o+.+m+y+.+h+a+n+d+&lpar;with+Bas+&amp;+6LACK&rpar;)
 * [J. Cole — p r i d e . i s . t h e . d e v i l &lpar;with Lil Baby&rpar;](https://www.last.fm/music/J.+Cole/_/p+r+i+d+e+.+i+s+.+t+h+e+.+d+e+v+i+l+&lpar;with+Lil+Baby&rpar;)
 * [J. Cole — 1 0 0 . m i l ‘ &lpar;with Bas&rpar;](https://www.last.fm/music/J.+Cole/_/1+0+0+.+m+i+l+%E2%80%98+&lpar;with+Bas&rpar;)
 * [J. Cole — p u n c h i n ‘ . t h e . c l o c k](https://www.last.fm/music/J.+Cole/_/p+u+n+c+h+i+n+%E2%80%98+.+t+h+e+.+c+l+o+c+k)
-* [J. Cole — a p p l y i n g . p r e s s u r e](https://www.last.fm/music/J.+Cole/_/a+p+p+l+y+i+n+g+.+p+r+e+s+s+u+r+e)
-* [J. Cole — m y . l i f e &lpar;with 21 Savage &amp; Morray&rpar;](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+&lpar;with+21+Savage+&amp;+Morray&rpar;)<!-- LASTFM:END -->
+* [J. Cole — a p p l y i n g . p r e s s u r e](https://www.last.fm/music/J.+Cole/_/a+p+p+l+y+i+n+g+.+p+r+e+s+s+u+r+e)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
