@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — ATTENTION](https://www.last.fm/music/Joji/_/ATTENTION)
+* [The Weeknd — High for This](https://www.last.fm/music/The+Weeknd/_/High+for+This)
 * [Mr FijiWiji — Andromeda](https://www.last.fm/music/Mr+FijiWiji/_/Andromeda)
 * [Frank Ocean — Thinkin Bout You](https://www.last.fm/music/Frank+Ocean/_/Thinkin+Bout+You)
-* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
-* [Frank Ocean — Nights](https://www.last.fm/music/Frank+Ocean/_/Nights)
-* [Mac Miller — Hurt Feelings](https://www.last.fm/music/Mac+Miller/_/Hurt+Feelings)<!-- LASTFM:END -->
+* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
