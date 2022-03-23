@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frank Ocean — Moon River](https://www.last.fm/music/Frank+Ocean/_/Moon+River)
+* [Joji — I Don&#39;t Wanna Waste My Time](https://www.last.fm/music/Joji/_/I+Don%27t+Wanna+Waste+My+Time)
 * [Doja Cat — Streets](https://www.last.fm/music/Doja+Cat/_/Streets)
 * [Rihanna — Skin](https://www.last.fm/music/Rihanna/_/Skin)
-* [Travis Scott — BUTTERFLY EFFECT](https://www.last.fm/music/Travis+Scott/_/BUTTERFLY+EFFECT)
-* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
-* [The Weeknd — Loft Music](https://www.last.fm/music/The+Weeknd/_/Loft+Music)<!-- LASTFM:END -->
+* [Travis Scott — BUTTERFLY EFFECT](https://www.last.fm/music/Travis+Scott/_/BUTTERFLY+EFFECT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
