@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
+* [The Weeknd — Loft Music](https://www.last.fm/music/The+Weeknd/_/Loft+Music)
 * [The Weeknd — Wicked Games](https://www.last.fm/music/The+Weeknd/_/Wicked+Games)
 * [Drake — Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)
-* [Frank Ocean — Chanel](https://www.last.fm/music/Frank+Ocean/_/Chanel)
-* [Doja Cat — Candy](https://www.last.fm/music/Doja+Cat/_/Candy)
-* [Kehlani — Nights Like This &lpar;feat. Ty Dolla $ign&rpar;](https://www.last.fm/music/Kehlani/_/Nights+Like+This+&lpar;feat.+Ty+Dolla+$ign&rpar;)<!-- LASTFM:END -->
+* [Frank Ocean — Chanel](https://www.last.fm/music/Frank+Ocean/_/Chanel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
