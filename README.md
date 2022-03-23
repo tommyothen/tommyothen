@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kanye West — Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)
+* [RODERICK PORTER — I Didn&#39;t Realize How Empty My Bed Was Until You Left](https://www.last.fm/music/RODERICK+PORTER/_/I+Didn%27t+Realize+How+Empty+My+Bed+Was+Until+You+Left)
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
 * [Sarcastic Sounds — I Don&#39;t Sleep](https://www.last.fm/music/Sarcastic+Sounds/_/I+Don%27t+Sleep)
-* [YEEK — Cleaner Air](https://www.last.fm/music/YEEK/_/Cleaner+Air)
-* [demxntia — Disappear](https://www.last.fm/music/demxntia/_/Disappear)
-* [Steve Lacy — C U Girl](https://www.last.fm/music/Steve+Lacy/_/C+U+Girl)
-* [Two Feet — Love Is a Bitch](https://www.last.fm/music/Two+Feet/_/Love+Is+a+Bitch)<!-- LASTFM:END -->
+* [YEEK — Cleaner Air](https://www.last.fm/music/YEEK/_/Cleaner+Air)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
