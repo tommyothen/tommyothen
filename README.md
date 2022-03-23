@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Two Feet — Love Is a Bitch](https://www.last.fm/music/Two+Feet/_/Love+Is+a+Bitch)
-* [James Blake — Mile High &lpar;feat. Travis Scott &amp; Metro Boomin&rpar;](https://www.last.fm/music/James+Blake/_/Mile+High+&lpar;feat.+Travis+Scott+&amp;+Metro+Boomin&rpar;)
-* [Joji — TEST DRIVE](https://www.last.fm/music/Joji/_/TEST+DRIVE)
-* [Russ — Losin Control](https://www.last.fm/music/Russ/_/Losin+Control)
-* [Frank Ocean — Moon River](https://www.last.fm/music/Frank+Ocean/_/Moon+River)<!-- LASTFM:END -->
+* [Sarcastic Sounds — I Don&#39;t Sleep](https://www.last.fm/music/Sarcastic+Sounds/_/I+Don%27t+Sleep)
+* [YEEK — Cleaner Air](https://www.last.fm/music/YEEK/_/Cleaner+Air)
+* [demxntia — Disappear](https://www.last.fm/music/demxntia/_/Disappear)
+* [Steve Lacy — C U Girl](https://www.last.fm/music/Steve+Lacy/_/C+U+Girl)
+* [Two Feet — Love Is a Bitch](https://www.last.fm/music/Two+Feet/_/Love+Is+a+Bitch)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
