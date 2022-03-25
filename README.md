@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Weeknd — Wicked Games](https://www.last.fm/music/The+Weeknd/_/Wicked+Games)
 * [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
 * [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
 * [Phantogram — Black Out Days](https://www.last.fm/music/Phantogram/_/Black+Out+Days)
-* [Jakob — Velvet Light](https://www.last.fm/music/Jakob/_/Velvet+Light)
-* [Kudasaibeats — The Girl I Haven&#39;t Met](https://www.last.fm/music/Kudasaibeats/_/The+Girl+I+Haven%27t+Met)<!-- LASTFM:END -->
+* [Jakob — Velvet Light](https://www.last.fm/music/Jakob/_/Velvet+Light)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
