@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [The Weeknd — Wicked Games](https://www.last.fm/music/The+Weeknd/_/Wicked+Games)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [Phantogram — Black Out Days](https://www.last.fm/music/Phantogram/_/Black+Out+Days)
-* [Jakob — Velvet Light](https://www.last.fm/music/Jakob/_/Velvet+Light)<!-- LASTFM:END -->
+* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
+* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
+* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
+* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
