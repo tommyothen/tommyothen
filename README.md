@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Weeknd — High for This](https://www.last.fm/music/The+Weeknd/_/High+for+This)
+* [The Weeknd — Loft Music](https://www.last.fm/music/The+Weeknd/_/Loft+Music)
 * [Kehlani — Nights Like This &lpar;feat. Ty Dolla $ign&rpar;](https://www.last.fm/music/Kehlani/_/Nights+Like+This+&lpar;feat.+Ty+Dolla+$ign&rpar;)
 * [Frank Ocean — Nights](https://www.last.fm/music/Frank+Ocean/_/Nights)
-* [The Weeknd — Die for You](https://www.last.fm/music/The+Weeknd/_/Die+for+You)
-* [Mr FijiWiji — Andromeda](https://www.last.fm/music/Mr+FijiWiji/_/Andromeda)
-* [Joji — ATTENTION](https://www.last.fm/music/Joji/_/ATTENTION)<!-- LASTFM:END -->
+* [The Weeknd — Die for You](https://www.last.fm/music/The+Weeknd/_/Die+for+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
