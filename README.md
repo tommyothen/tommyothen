@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Travis Scott — BUTTERFLY EFFECT](https://www.last.fm/music/Travis+Scott/_/BUTTERFLY+EFFECT)
 * [Frank Ocean — Moon River](https://www.last.fm/music/Frank+Ocean/_/Moon+River)
 * [Mac Miller — Hurt Feelings](https://www.last.fm/music/Mac+Miller/_/Hurt+Feelings)
 * [The Weeknd — High for This](https://www.last.fm/music/The+Weeknd/_/High+for+This)
-* [The Weeknd — Loft Music](https://www.last.fm/music/The+Weeknd/_/Loft+Music)
-* [Kehlani — Nights Like This &lpar;feat. Ty Dolla $ign&rpar;](https://www.last.fm/music/Kehlani/_/Nights+Like+This+&lpar;feat.+Ty+Dolla+$ign&rpar;)<!-- LASTFM:END -->
+* [The Weeknd — Loft Music](https://www.last.fm/music/The+Weeknd/_/Loft+Music)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
