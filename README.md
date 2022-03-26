@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Doja Cat — Streets](https://www.last.fm/music/Doja+Cat/_/Streets)
-* [Frank Ocean — Thinkin Bout You](https://www.last.fm/music/Frank+Ocean/_/Thinkin+Bout+You)
-* [Joji — TEST DRIVE](https://www.last.fm/music/Joji/_/TEST+DRIVE)
-* [Travis Scott — goosebumps](https://www.last.fm/music/Travis+Scott/_/goosebumps)
-* [Frank Ocean — Chanel](https://www.last.fm/music/Frank+Ocean/_/Chanel)<!-- LASTFM:END -->
+* [Steve Lacy — C U Girl](https://www.last.fm/music/Steve+Lacy/_/C+U+Girl)
+* [Doja Cat — Candy](https://www.last.fm/music/Doja+Cat/_/Candy)
+* [Frank Ocean — Lost](https://www.last.fm/music/Frank+Ocean/_/Lost)
+* [Russ — Losin Control](https://www.last.fm/music/Russ/_/Losin+Control)
+* [Joji — I Don&#39;t Wanna Waste My Time](https://www.last.fm/music/Joji/_/I+Don%27t+Wanna+Waste+My+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
