@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Weeknd — Die for You](https://www.last.fm/music/The+Weeknd/_/Die+for+You)
+* [Mr FijiWiji — Andromeda](https://www.last.fm/music/Mr+FijiWiji/_/Andromeda)
 * [Joji — ATTENTION](https://www.last.fm/music/Joji/_/ATTENTION)
 * [Two Feet — Love Is a Bitch](https://www.last.fm/music/Two+Feet/_/Love+Is+a+Bitch)
-* [Rihanna — Skin](https://www.last.fm/music/Rihanna/_/Skin)
-* [The Weeknd — The Hills](https://www.last.fm/music/The+Weeknd/_/The+Hills)
-* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)<!-- LASTFM:END -->
+* [Rihanna — Skin](https://www.last.fm/music/Rihanna/_/Skin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
