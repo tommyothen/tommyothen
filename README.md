@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Weeknd — The Hills](https://www.last.fm/music/The+Weeknd/_/The+Hills)
+* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
 * [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
 * [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
-* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
-* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
-* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)<!-- LASTFM:END -->
+* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
