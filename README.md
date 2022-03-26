@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Streets](https://www.last.fm/music/Doja+Cat/_/Streets)
+* [Frank Ocean — Thinkin Bout You](https://www.last.fm/music/Frank+Ocean/_/Thinkin+Bout+You)
+* [Joji — TEST DRIVE](https://www.last.fm/music/Joji/_/TEST+DRIVE)
 * [Travis Scott — goosebumps](https://www.last.fm/music/Travis+Scott/_/goosebumps)
-* [Frank Ocean — Chanel](https://www.last.fm/music/Frank+Ocean/_/Chanel)
-* [James Blake — Mile High &lpar;feat. Travis Scott &amp; Metro Boomin&rpar;](https://www.last.fm/music/James+Blake/_/Mile+High+&lpar;feat.+Travis+Scott+&amp;+Metro+Boomin&rpar;)
-* [Travis Scott — BUTTERFLY EFFECT](https://www.last.fm/music/Travis+Scott/_/BUTTERFLY+EFFECT)
-* [Frank Ocean — Moon River](https://www.last.fm/music/Frank+Ocean/_/Moon+River)<!-- LASTFM:END -->
+* [Frank Ocean — Chanel](https://www.last.fm/music/Frank+Ocean/_/Chanel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
