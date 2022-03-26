@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — ATTENTION](https://www.last.fm/music/Joji/_/ATTENTION)
+* [Two Feet — Love Is a Bitch](https://www.last.fm/music/Two+Feet/_/Love+Is+a+Bitch)
+* [Rihanna — Skin](https://www.last.fm/music/Rihanna/_/Skin)
 * [The Weeknd — The Hills](https://www.last.fm/music/The+Weeknd/_/The+Hills)
-* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
-* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
-* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
-* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)<!-- LASTFM:END -->
+* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
