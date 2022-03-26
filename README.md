@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frank Ocean — Chanel](https://www.last.fm/music/Frank+Ocean/_/Chanel)
+* [James Blake — Mile High &lpar;feat. Travis Scott &amp; Metro Boomin&rpar;](https://www.last.fm/music/James+Blake/_/Mile+High+&lpar;feat.+Travis+Scott+&amp;+Metro+Boomin&rpar;)
 * [Travis Scott — BUTTERFLY EFFECT](https://www.last.fm/music/Travis+Scott/_/BUTTERFLY+EFFECT)
 * [Frank Ocean — Moon River](https://www.last.fm/music/Frank+Ocean/_/Moon+River)
-* [Mac Miller — Hurt Feelings](https://www.last.fm/music/Mac+Miller/_/Hurt+Feelings)
-* [The Weeknd — High for This](https://www.last.fm/music/The+Weeknd/_/High+for+This)
-* [The Weeknd — Loft Music](https://www.last.fm/music/The+Weeknd/_/Loft+Music)<!-- LASTFM:END -->
+* [Mac Miller — Hurt Feelings](https://www.last.fm/music/Mac+Miller/_/Hurt+Feelings)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
