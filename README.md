@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Steve Lacy — C U Girl](https://www.last.fm/music/Steve+Lacy/_/C+U+Girl)
-* [Doja Cat — Candy](https://www.last.fm/music/Doja+Cat/_/Candy)
-* [Frank Ocean — Lost](https://www.last.fm/music/Frank+Ocean/_/Lost)
-* [Russ — Losin Control](https://www.last.fm/music/Russ/_/Losin+Control)
-* [Joji — I Don&#39;t Wanna Waste My Time](https://www.last.fm/music/Joji/_/I+Don%27t+Wanna+Waste+My+Time)<!-- LASTFM:END -->
+* [Camellia — GHOUL](https://www.last.fm/music/Camellia/_/GHOUL)
+* [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)
+* [Camellia — Looking for Edge of Ground](https://www.last.fm/music/Camellia/_/Looking+for+Edge+of+Ground)
+* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
+* [The Weeknd — Wicked Games](https://www.last.fm/music/The+Weeknd/_/Wicked+Games)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
