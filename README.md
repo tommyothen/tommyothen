@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — Hello &lpar;BPM&rpar; 2021](https://www.last.fm/music/Camellia/_/Hello+&lpar;BPM&rpar;+2021)
+* [Camellia — ΩΩPARTS](https://www.last.fm/music/Camellia/_/%CE%A9%CE%A9PARTS)
 * [Camellia — Myths You Forgot](https://www.last.fm/music/Camellia/_/Myths+You+Forgot)
 * [Camellia — GHOUL](https://www.last.fm/music/Camellia/_/GHOUL)
-* [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)
-* [Camellia — t / a/n / a/s / i/n / n](https://www.last.fm/music/Camellia/_/t+%2F+a%2Fn+%2F+a%2Fs+%2F+i%2Fn+%2F+n)
-* [Camellia — ZOMBIE CIRCUS](https://www.last.fm/music/Camellia/_/ZOMBIE+CIRCUS)<!-- LASTFM:END -->
+* [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
