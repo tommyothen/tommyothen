@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)
+* [Camellia — t / a/n / a/s / i/n / n](https://www.last.fm/music/Camellia/_/t+%2F+a%2Fn+%2F+a%2Fs+%2F+i%2Fn+%2F+n)
 * [Camellia — ZOMBIE CIRCUS](https://www.last.fm/music/Camellia/_/ZOMBIE+CIRCUS)
 * [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)
-* [Camellia — SLIME INCIDENT](https://www.last.fm/music/Camellia/_/SLIME+INCIDENT)
-* [Camellia — CICADA3302](https://www.last.fm/music/Camellia/_/CICADA3302)
-* [Camellia — Bermuda Triangle](https://www.last.fm/music/Camellia/_/Bermuda+Triangle)<!-- LASTFM:END -->
+* [Camellia — SLIME INCIDENT](https://www.last.fm/music/Camellia/_/SLIME+INCIDENT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
