@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hearteyes — WEIRDO](https://www.last.fm/music/Hearteyes/_/WEIRDO)
 * [TEC — My Chain](https://www.last.fm/music/TEC/_/My+Chain)
 * [Grandee — sour](https://www.last.fm/music/Grandee/_/sour)
 * [Rey — Virtual Reality](https://www.last.fm/music/Rey/_/Virtual+Reality)
-* [低的 — 压倒性的](https://www.last.fm/music/%E4%BD%8E%E7%9A%84/_/%E5%8E%8B%E5%80%92%E6%80%A7%E7%9A%84)
-* [Catbamboo — Crave](https://www.last.fm/music/Catbamboo/_/Crave)<!-- LASTFM:END -->
+* [低的 — 压倒性的](https://www.last.fm/music/%E4%BD%8E%E7%9A%84/_/%E5%8E%8B%E5%80%92%E6%80%A7%E7%9A%84)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
