@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
+* [Dead Robot — Vampire](https://www.last.fm/music/Dead+Robot/_/Vampire)
 * [MIYAVI — I’m So](https://www.last.fm/music/MIYAVI/_/I%E2%80%99m+So)
 * [Glass Animals — Take A Slice](https://www.last.fm/music/Glass+Animals/_/Take+A+Slice)
-* [Ariana Grande — everytime](https://www.last.fm/music/Ariana+Grande/_/everytime)
-* [Doja Cat — Woman](https://www.last.fm/music/Doja+Cat/_/Woman)
-* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)<!-- LASTFM:END -->
+* [Ariana Grande — everytime](https://www.last.fm/music/Ariana+Grande/_/everytime)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
