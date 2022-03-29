@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — everytime](https://www.last.fm/music/Ariana+Grande/_/everytime)
+* [Doja Cat — Woman](https://www.last.fm/music/Doja+Cat/_/Woman)
+* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
 * [Doja Cat — Celebrity Skin](https://www.last.fm/music/Doja+Cat/_/Celebrity+Skin)
-* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)
-* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
-* [Leith Ross — we&#39;ll never have sex](https://www.last.fm/music/Leith+Ross/_/we%27ll+never+have+sex)
-* [Leith Ross — we&#39;ll never have sex](https://www.last.fm/music/Leith+Ross/_/we%27ll+never+have+sex)<!-- LASTFM:END -->
+* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
