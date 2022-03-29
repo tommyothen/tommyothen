@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)
+* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
 * [Leith Ross — we&#39;ll never have sex](https://www.last.fm/music/Leith+Ross/_/we%27ll+never+have+sex)
-* [THE ANXIETY — Meet Me At Our Spot](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot)
-* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
-* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
-* [Phantogram — Black Out Days](https://www.last.fm/music/Phantogram/_/Black+Out+Days)<!-- LASTFM:END -->
+* [Leith Ross — we&#39;ll never have sex](https://www.last.fm/music/Leith+Ross/_/we%27ll+never+have+sex)
+* [THE ANXIETY — Meet Me At Our Spot](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
