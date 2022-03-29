@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Catbamboo — Crave](https://www.last.fm/music/Catbamboo/_/Crave)
+* [Slush Puppy — Barbie Doll](https://www.last.fm/music/Slush+Puppy/_/Barbie+Doll)
+* [chelmico — EXIT](https://www.last.fm/music/chelmico/_/EXIT)
 * [WHOKILLEDXIX — Toxic &lpar;feat. BENKRO&rpar;](https://www.last.fm/music/WHOKILLEDXIX/_/Toxic+&lpar;feat.+BENKRO&rpar;)
-* [Fallen Pine — Victim](https://www.last.fm/music/Fallen+Pine/_/Victim)
-* [LAKE VINCE — TREELINES](https://www.last.fm/music/LAKE+VINCE/_/TREELINES)
-* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
-* [Dead Robot — Vampire](https://www.last.fm/music/Dead+Robot/_/Vampire)<!-- LASTFM:END -->
+* [Fallen Pine — Victim](https://www.last.fm/music/Fallen+Pine/_/Victim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
