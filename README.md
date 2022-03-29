@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JVKE — this is what falling in love feels like](https://www.last.fm/music/JVKE/_/this+is+what+falling+in+love+feels+like)
+* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [The Neighbourhood — Softcore](https://www.last.fm/music/The+Neighbourhood/_/Softcore)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
-* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)<!-- LASTFM:END -->
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
