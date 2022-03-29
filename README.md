@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
+* [Phantogram — Black Out Days](https://www.last.fm/music/Phantogram/_/Black+Out+Days)
 * [Between Friends — affection](https://www.last.fm/music/Between+Friends/_/affection)
 * [SZA — Good Days](https://www.last.fm/music/SZA/_/Good+Days)
-* [JVKE — this is what falling in love feels like](https://www.last.fm/music/JVKE/_/this+is+what+falling+in+love+feels+like)
-* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
+* [JVKE — this is what falling in love feels like](https://www.last.fm/music/JVKE/_/this+is+what+falling+in+love+feels+like)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
