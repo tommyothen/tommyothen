@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
 * [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)
 * [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)
 * [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
-* [TEC — My Chain](https://www.last.fm/music/TEC/_/My+Chain)
-* [Pride — Zarma](https://www.last.fm/music/Pride/_/Zarma)<!-- LASTFM:END -->
+* [TEC — My Chain](https://www.last.fm/music/TEC/_/My+Chain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
