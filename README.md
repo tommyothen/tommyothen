@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Thai Massage Music — Rains Water](https://www.last.fm/music/Thai+Massage+Music/_/Rains+Water)
 * [Thai Massage Music — Thought Pacific](https://www.last.fm/music/Thai+Massage+Music/_/Thought+Pacific)
 * [Thai Massage Music — Spa Heavy](https://www.last.fm/music/Thai+Massage+Music/_/Spa+Heavy)
 * [Thai Massage Music — For Joyful](https://www.last.fm/music/Thai+Massage+Music/_/For+Joyful)
-* [Thai Massage Music — Leafy Powerful](https://www.last.fm/music/Thai+Massage+Music/_/Leafy+Powerful)
-* [Thai Massage Music — Mindful Tropical](https://www.last.fm/music/Thai+Massage+Music/_/Mindful+Tropical)<!-- LASTFM:END -->
+* [Thai Massage Music — Leafy Powerful](https://www.last.fm/music/Thai+Massage+Music/_/Leafy+Powerful)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
