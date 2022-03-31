@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glass Animals — Take A Slice](https://www.last.fm/music/Glass+Animals/_/Take+A+Slice)
+* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
 * [Thai Massage Music — Atlantic Creative](https://www.last.fm/music/Thai+Massage+Music/_/Atlantic+Creative)
 * [Thai Massage Music — Feeling Low](https://www.last.fm/music/Thai+Massage+Music/_/Feeling+Low)
-* [Thai Massage Music — Glorious Wind](https://www.last.fm/music/Thai+Massage+Music/_/Glorious+Wind)
-* [Thai Massage Music — Background Plains](https://www.last.fm/music/Thai+Massage+Music/_/Background+Plains)
-* [Thai Massage Music — Sound Happy](https://www.last.fm/music/Thai+Massage+Music/_/Sound+Happy)<!-- LASTFM:END -->
+* [Thai Massage Music — Glorious Wind](https://www.last.fm/music/Thai+Massage+Music/_/Glorious+Wind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
