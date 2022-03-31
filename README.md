@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tate McRae — chaotic](https://www.last.fm/music/Tate+McRae/_/chaotic)
-* [Astrid S — Hurts So Good](https://www.last.fm/music/Astrid+S/_/Hurts+So+Good)
-* [Rey — Virtual Reality](https://www.last.fm/music/Rey/_/Virtual+Reality)
-* [低的 — 压倒性的](https://www.last.fm/music/%E4%BD%8E%E7%9A%84/_/%E5%8E%8B%E5%80%92%E6%80%A7%E7%9A%84)
-* [Catbamboo — Crave](https://www.last.fm/music/Catbamboo/_/Crave)<!-- LASTFM:END -->
+* [Thai Massage Music — Thought Pacific](https://www.last.fm/music/Thai+Massage+Music/_/Thought+Pacific)
+* [Thai Massage Music — Spa Heavy](https://www.last.fm/music/Thai+Massage+Music/_/Spa+Heavy)
+* [Thai Massage Music — For Joyful](https://www.last.fm/music/Thai+Massage+Music/_/For+Joyful)
+* [Thai Massage Music — Leafy Powerful](https://www.last.fm/music/Thai+Massage+Music/_/Leafy+Powerful)
+* [Thai Massage Music — Mindful Tropical](https://www.last.fm/music/Thai+Massage+Music/_/Mindful+Tropical)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
