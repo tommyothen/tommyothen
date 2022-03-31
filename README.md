@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Thai Massage Music — Falling Melodious](https://www.last.fm/music/Thai+Massage+Music/_/Falling+Melodious)
+* [Thai Massage Music — Clifftop Cavern](https://www.last.fm/music/Thai+Massage+Music/_/Clifftop+Cavern)
+* [Thai Massage Music — Sound Happy](https://www.last.fm/music/Thai+Massage+Music/_/Sound+Happy)
 * [Thai Massage Music — Glacier Frosty](https://www.last.fm/music/Thai+Massage+Music/_/Glacier+Frosty)
-* [Thai Massage Music — Snowy Walkway](https://www.last.fm/music/Thai+Massage+Music/_/Snowy+Walkway)
-* [Thai Massage Music — Yoga Wave](https://www.last.fm/music/Thai+Massage+Music/_/Yoga+Wave)
-* [Thai Massage Music — Tones Canopy](https://www.last.fm/music/Thai+Massage+Music/_/Tones+Canopy)
-* [Thai Massage Music — Jungle Current](https://www.last.fm/music/Thai+Massage+Music/_/Jungle+Current)<!-- LASTFM:END -->
+* [Thai Massage Music — Snowy Walkway](https://www.last.fm/music/Thai+Massage+Music/_/Snowy+Walkway)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
