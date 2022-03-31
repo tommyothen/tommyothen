@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
 * [TEC — My Chain](https://www.last.fm/music/TEC/_/My+Chain)
 * [Pride — Zarma](https://www.last.fm/music/Pride/_/Zarma)
 * [Rey — Virtual Reality](https://www.last.fm/music/Rey/_/Virtual+Reality)
-* [WHOKILLEDXIX — Toxic &lpar;feat. BENKRO&rpar;](https://www.last.fm/music/WHOKILLEDXIX/_/Toxic+&lpar;feat.+BENKRO&rpar;)
-* [Fallen Pine — Victim](https://www.last.fm/music/Fallen+Pine/_/Victim)<!-- LASTFM:END -->
+* [WHOKILLEDXIX — Toxic &lpar;feat. BENKRO&rpar;](https://www.last.fm/music/WHOKILLEDXIX/_/Toxic+&lpar;feat.+BENKRO&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
