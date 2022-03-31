@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Thai Massage Music — Flying Up](https://www.last.fm/music/Thai+Massage+Music/_/Flying+Up)
-* [Thai Massage Music — Mindful Tropical](https://www.last.fm/music/Thai+Massage+Music/_/Mindful+Tropical)
-* [Thai Massage Music — Relaxing Thai Spa](https://www.last.fm/music/Thai+Massage+Music/_/Relaxing+Thai+Spa)
-* [Thai Massage Music — Relaxing Thai Spa](https://www.last.fm/music/Thai+Massage+Music/_/Relaxing+Thai+Spa)
-* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)<!-- LASTFM:END -->
+* [Thai Massage Music — Feeling Meditation](https://www.last.fm/music/Thai+Massage+Music/_/Feeling+Meditation)
+* [Thai Massage Music — Bowls Releasing](https://www.last.fm/music/Thai+Massage+Music/_/Bowls+Releasing)
+* [Thai Massage Music — Drops Gathering](https://www.last.fm/music/Thai+Massage+Music/_/Drops+Gathering)
+* [Thai Massage Music — Yoga Wave](https://www.last.fm/music/Thai+Massage+Music/_/Yoga+Wave)
+* [Thai Massage Music — Subtle Expansive](https://www.last.fm/music/Thai+Massage+Music/_/Subtle+Expansive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
