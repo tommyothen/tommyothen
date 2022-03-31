@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tate McRae — chaotic](https://www.last.fm/music/Tate+McRae/_/chaotic)
+* [Astrid S — Hurts So Good](https://www.last.fm/music/Astrid+S/_/Hurts+So+Good)
 * [Rey — Virtual Reality](https://www.last.fm/music/Rey/_/Virtual+Reality)
 * [低的 — 压倒性的](https://www.last.fm/music/%E4%BD%8E%E7%9A%84/_/%E5%8E%8B%E5%80%92%E6%80%A7%E7%9A%84)
-* [Catbamboo — Crave](https://www.last.fm/music/Catbamboo/_/Crave)
-* [Vylet Pony — Everything Glimmer](https://www.last.fm/music/Vylet+Pony/_/Everything+Glimmer)
-* [Slush Puppy — Barbie Doll](https://www.last.fm/music/Slush+Puppy/_/Barbie+Doll)<!-- LASTFM:END -->
+* [Catbamboo — Crave](https://www.last.fm/music/Catbamboo/_/Crave)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
