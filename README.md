@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Thai Massage Music — Night Zen](https://www.last.fm/music/Thai+Massage+Music/_/Night+Zen)
-* [Thai Massage Music — Painting Atmosphere](https://www.last.fm/music/Thai+Massage+Music/_/Painting+Atmosphere)
-* [Thai Massage Music — Instrument Glorious](https://www.last.fm/music/Thai+Massage+Music/_/Instrument+Glorious)
-* [Thai Massage Music — Subtle Expansive](https://www.last.fm/music/Thai+Massage+Music/_/Subtle+Expansive)
-* [Thai Massage Music — Earth Sample](https://www.last.fm/music/Thai+Massage+Music/_/Earth+Sample)<!-- LASTFM:END -->
+* [Thai Massage Music — Tones Canopy](https://www.last.fm/music/Thai+Massage+Music/_/Tones+Canopy)
+* [Thai Massage Music — Jungle Current](https://www.last.fm/music/Thai+Massage+Music/_/Jungle+Current)
+* [Thai Massage Music — Healthy Pacific](https://www.last.fm/music/Thai+Massage+Music/_/Healthy+Pacific)
+* [Thai Massage Music — Horizons Waves](https://www.last.fm/music/Thai+Massage+Music/_/Horizons+Waves)
+* [Thai Massage Music — Night Zen](https://www.last.fm/music/Thai+Massage+Music/_/Night+Zen)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
