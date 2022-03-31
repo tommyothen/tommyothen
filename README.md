@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Thai Massage Music — Atlantic Creative](https://www.last.fm/music/Thai+Massage+Music/_/Atlantic+Creative)
 * [Thai Massage Music — Feeling Low](https://www.last.fm/music/Thai+Massage+Music/_/Feeling+Low)
 * [Thai Massage Music — Glorious Wind](https://www.last.fm/music/Thai+Massage+Music/_/Glorious+Wind)
 * [Thai Massage Music — Background Plains](https://www.last.fm/music/Thai+Massage+Music/_/Background+Plains)
-* [Thai Massage Music — Sound Happy](https://www.last.fm/music/Thai+Massage+Music/_/Sound+Happy)
-* [Thai Massage Music — Clifftop Cavern](https://www.last.fm/music/Thai+Massage+Music/_/Clifftop+Cavern)<!-- LASTFM:END -->
+* [Thai Massage Music — Sound Happy](https://www.last.fm/music/Thai+Massage+Music/_/Sound+Happy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
