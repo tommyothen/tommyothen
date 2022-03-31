@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
+* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
+* [Thai Massage Music — Notes Up](https://www.last.fm/music/Thai+Massage+Music/_/Notes+Up)
 * [Thai Massage Music — Falling Melodious](https://www.last.fm/music/Thai+Massage+Music/_/Falling+Melodious)
-* [Thai Massage Music — Clifftop Cavern](https://www.last.fm/music/Thai+Massage+Music/_/Clifftop+Cavern)
-* [Thai Massage Music — Sound Happy](https://www.last.fm/music/Thai+Massage+Music/_/Sound+Happy)
-* [Thai Massage Music — Glacier Frosty](https://www.last.fm/music/Thai+Massage+Music/_/Glacier+Frosty)
-* [Thai Massage Music — Snowy Walkway](https://www.last.fm/music/Thai+Massage+Music/_/Snowy+Walkway)<!-- LASTFM:END -->
+* [Thai Massage Music — Clifftop Cavern](https://www.last.fm/music/Thai+Massage+Music/_/Clifftop+Cavern)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
