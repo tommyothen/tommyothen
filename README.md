@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
-* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
-* [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
-* [Starmaxx — Patient Zero](https://www.last.fm/music/Starmaxx/_/Patient+Zero)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
+* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
