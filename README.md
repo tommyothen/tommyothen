@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Currents — Monsters](https://www.last.fm/music/Currents/_/Monsters)
+* [Bring Me the Horizon — True Friends](https://www.last.fm/music/Bring+Me+the+Horizon/_/True+Friends)
+* [Bring Me the Horizon — It Never Ends](https://www.last.fm/music/Bring+Me+the+Horizon/_/It+Never+Ends)
 * [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
-* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
-* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
-* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
-* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)<!-- LASTFM:END -->
+* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
