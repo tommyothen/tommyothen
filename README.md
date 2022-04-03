@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [$uicideboy$ — FOR THE LAST TIME](https://www.last.fm/music/$uicideboy$/_/FOR+THE+LAST+TIME)
-* [HAARPER — NAGA](https://www.last.fm/music/HAARPER/_/NAGA)
-* [$uicideboy$ — 122 DAYS](https://www.last.fm/music/$uicideboy$/_/122+DAYS)
-* [$uicideboy$ — I ENDED UP DRIVING THE CAMARO OFF THE CAUSEWAY BRIDGE](https://www.last.fm/music/$uicideboy$/_/I+ENDED+UP+DRIVING+THE+CAMARO+OFF+THE+CAUSEWAY+BRIDGE)
-* [Ramirez — The Mystical Warlock](https://www.last.fm/music/Ramirez/_/The+Mystical+Warlock)<!-- LASTFM:END -->
+* [HAARPER — SKINWALKER](https://www.last.fm/music/HAARPER/_/SKINWALKER)
+* [$uicideboy$ — NEW PROFILE PIC](https://www.last.fm/music/$uicideboy$/_/NEW+PROFILE+PIC)
+* [$uicideboy$ — Materialism as a Means to an End](https://www.last.fm/music/$uicideboy$/_/Materialism+as+a+Means+to+an+End)
+* [$uicideboy$ — $outh $ide $uicide](https://www.last.fm/music/$uicideboy$/_/$outh+$ide+$uicide)
+* [Scrim — Violent Secrets](https://www.last.fm/music/Scrim/_/Violent+Secrets)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
