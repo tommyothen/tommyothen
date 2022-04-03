@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [HAARPER — SKINWALKER](https://www.last.fm/music/HAARPER/_/SKINWALKER)
-* [$uicideboy$ — NEW PROFILE PIC](https://www.last.fm/music/$uicideboy$/_/NEW+PROFILE+PIC)
-* [$uicideboy$ — Materialism as a Means to an End](https://www.last.fm/music/$uicideboy$/_/Materialism+as+a+Means+to+an+End)
-* [$uicideboy$ — $outh $ide $uicide](https://www.last.fm/music/$uicideboy$/_/$outh+$ide+$uicide)<!-- LASTFM:END -->
+* [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)
+* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
+* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
+* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
