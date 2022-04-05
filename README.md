@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bring Me the Horizon — Ludens](https://www.last.fm/music/Bring+Me+the+Horizon/_/Ludens)
 * [Frank Carter &amp; The Rattlesnakes — Why a Butterfly Can&#39;t Love a Spider - The Bloody Beetroots Remix](https://www.last.fm/music/Frank+Carter+&amp;+The+Rattlesnakes/_/Why+a+Butterfly+Can%27t+Love+a+Spider+-+The+Bloody+Beetroots+Remix)
 * [Role Model — minimal](https://www.last.fm/music/Role+Model/_/minimal)
 * [Cleopatrick — sanjake](https://www.last.fm/music/Cleopatrick/_/sanjake)
-* [Lana Del Rey — Doin&#39; Time](https://www.last.fm/music/Lana+Del+Rey/_/Doin%27+Time)
-* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)<!-- LASTFM:END -->
+* [Lana Del Rey — Doin&#39; Time](https://www.last.fm/music/Lana+Del+Rey/_/Doin%27+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
