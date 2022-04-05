@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HAARPER — Wtf U Mean](https://www.last.fm/music/HAARPER/_/Wtf+U+Mean)
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
+* [blackbear — 90210](https://www.last.fm/music/blackbear/_/90210)
 * [MUNA — Silk Chiffon](https://www.last.fm/music/MUNA/_/Silk+Chiffon)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Cleopatrick — daphne did it](https://www.last.fm/music/Cleopatrick/_/daphne+did+it)
-* [Mt. Joy — Julia](https://www.last.fm/music/Mt.+Joy/_/Julia)
-* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
