@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
-* [Glass Animals — Helium](https://www.last.fm/music/Glass+Animals/_/Helium)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [N.A.S.H — You Blew Me Away](https://www.last.fm/music/N.A.S.H/_/You+Blew+Me+Away)
-* [Inhaler — My Honest Face](https://www.last.fm/music/Inhaler/_/My+Honest+Face)<!-- LASTFM:END -->
+* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
+* [Izzie Gibbs — Felonies](https://www.last.fm/music/Izzie+Gibbs/_/Felonies)
+* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
