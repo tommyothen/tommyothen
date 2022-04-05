@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
+* [Glass Animals — Helium](https://www.last.fm/music/Glass+Animals/_/Helium)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
 * [N.A.S.H — You Blew Me Away](https://www.last.fm/music/N.A.S.H/_/You+Blew+Me+Away)
-* [Inhaler — My Honest Face](https://www.last.fm/music/Inhaler/_/My+Honest+Face)
-* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
-* [Bring Me the Horizon — Ludens](https://www.last.fm/music/Bring+Me+the+Horizon/_/Ludens)<!-- LASTFM:END -->
+* [Inhaler — My Honest Face](https://www.last.fm/music/Inhaler/_/My+Honest+Face)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
