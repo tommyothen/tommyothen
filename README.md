@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [Willow — t r a n s p a r e n t s o u l feat. Travis Barker](https://www.last.fm/music/Willow/_/t+r+a+n+s+p+a+r+e+n+t+s+o+u+l+feat.+Travis+Barker)
 * [HAARPER — Wtf U Mean](https://www.last.fm/music/HAARPER/_/Wtf+U+Mean)
 * [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [blackbear — 90210](https://www.last.fm/music/blackbear/_/90210)
-* [MUNA — Silk Chiffon](https://www.last.fm/music/MUNA/_/Silk+Chiffon)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [blackbear — 90210](https://www.last.fm/music/blackbear/_/90210)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
