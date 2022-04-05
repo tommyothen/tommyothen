@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Role Model — minimal](https://www.last.fm/music/Role+Model/_/minimal)
 * [Cleopatrick — sanjake](https://www.last.fm/music/Cleopatrick/_/sanjake)
 * [Lana Del Rey — Doin&#39; Time](https://www.last.fm/music/Lana+Del+Rey/_/Doin%27+Time)
 * [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
-* [Leith Ross — we&#39;ll never have sex](https://www.last.fm/music/Leith+Ross/_/we%27ll+never+have+sex)
-* [Metric — Help I&#39;m Alive](https://www.last.fm/music/Metric/_/Help+I%27m+Alive)<!-- LASTFM:END -->
+* [Leith Ross — we&#39;ll never have sex](https://www.last.fm/music/Leith+Ross/_/we%27ll+never+have+sex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
