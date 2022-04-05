@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MUNA — Silk Chiffon](https://www.last.fm/music/MUNA/_/Silk+Chiffon)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Cleopatrick — daphne did it](https://www.last.fm/music/Cleopatrick/_/daphne+did+it)
 * [Mt. Joy — Julia](https://www.last.fm/music/Mt.+Joy/_/Julia)
-* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
-* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
-* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)<!-- LASTFM:END -->
+* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
