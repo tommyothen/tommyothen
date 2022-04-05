@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [The 502s — Just A Little While](https://www.last.fm/music/The+502s/_/Just+A+Little+While)
-* [Joshwa — My Humps](https://www.last.fm/music/Joshwa/_/My+Humps)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Glass Animals — Helium](https://www.last.fm/music/Glass+Animals/_/Helium)
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)<!-- LASTFM:END -->
+* [Lana Del Rey — Doin&#39; Time](https://www.last.fm/music/Lana+Del+Rey/_/Doin%27+Time)
+* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
+* [Leith Ross — we&#39;ll never have sex](https://www.last.fm/music/Leith+Ross/_/we%27ll+never+have+sex)
+* [Metric — Help I&#39;m Alive](https://www.last.fm/music/Metric/_/Help+I%27m+Alive)
+* [The 502s — Just A Little While](https://www.last.fm/music/The+502s/_/Just+A+Little+While)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
