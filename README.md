@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The 502s — Just A Little While](https://www.last.fm/music/The+502s/_/Just+A+Little+While)
+* [Joshwa — My Humps](https://www.last.fm/music/Joshwa/_/My+Humps)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
 * [Glass Animals — Helium](https://www.last.fm/music/Glass+Animals/_/Helium)
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
-* [Cage the Elephant — Trouble](https://www.last.fm/music/Cage+the+Elephant/_/Trouble)
-* [blackbear — 90210](https://www.last.fm/music/blackbear/_/90210)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
