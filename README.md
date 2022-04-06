@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
 * [Suki Waterhouse — Moves](https://www.last.fm/music/Suki+Waterhouse/_/Moves)
 * [Powfu — popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://www.last.fm/music/Powfu/_/popular+girl,+typical+boy+&lpar;feat.+sleep.ing&rpar;)
-* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [Izzie Gibbs — Felonies](https://www.last.fm/music/Izzie+Gibbs/_/Felonies)<!-- LASTFM:END -->
+* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
