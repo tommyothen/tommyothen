@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
+* [Dress — My Taste &lpar;Feat. ZICO&rpar;](https://www.last.fm/music/Dress/_/My+Taste+&lpar;Feat.+ZICO&rpar;)
 * [ZICO — Extreme](https://www.last.fm/music/ZICO/_/Extreme)
 * [Hoody — Sunshine](https://www.last.fm/music/Hoody/_/Sunshine)
-* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
-* [1TEAM — 습관적 VIBE](https://www.last.fm/music/1TEAM/_/%EC%8A%B5%EA%B4%80%EC%A0%81+VIBE)
-* [DPR CREAM — Color Drive](https://www.last.fm/music/DPR+CREAM/_/Color+Drive)<!-- LASTFM:END -->
+* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
