@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [Suki Waterhouse — Moves](https://www.last.fm/music/Suki+Waterhouse/_/Moves)
-* [Powfu — popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://www.last.fm/music/Powfu/_/popular+girl,+typical+boy+&lpar;feat.+sleep.ing&rpar;)
-* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)<!-- LASTFM:END -->
+* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
+* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
+* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
+* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
