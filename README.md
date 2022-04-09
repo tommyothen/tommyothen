@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Beenzino — Boogie On &amp; On](https://www.last.fm/music/Beenzino/_/Boogie+On+&amp;+On)
+* [June — Beautiful &lpar;Feat. Gaho, Moti, Jung Jin Woo&rpar;](https://www.last.fm/music/June/_/Beautiful+&lpar;Feat.+Gaho,+Moti,+Jung+Jin+Woo&rpar;)
 * [ZICO — Artist](https://www.last.fm/music/ZICO/_/Artist)
 * [Lee Jin Ah — Run &lpar;with GRAY&rpar;](https://www.last.fm/music/Lee+Jin+Ah/_/Run+&lpar;with+GRAY&rpar;)
-* [WOODZ — DIFFERENT](https://www.last.fm/music/WOODZ/_/DIFFERENT)
-* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
-* [Woo — Taste](https://www.last.fm/music/Woo/_/Taste)<!-- LASTFM:END -->
+* [WOODZ — DIFFERENT](https://www.last.fm/music/WOODZ/_/DIFFERENT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
