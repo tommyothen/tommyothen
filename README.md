@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)
+* [Woosung — FACE](https://www.last.fm/music/Woosung/_/FACE)
 * [Jamie — Stay Beautiful](https://www.last.fm/music/Jamie/_/Stay+Beautiful)
 * [ArtinB — LIPS](https://www.last.fm/music/ArtinB/_/LIPS)
-* [ELO — OSAKA](https://www.last.fm/music/ELO/_/OSAKA)
-* [Dress — My Taste &lpar;Feat. ZICO&rpar;](https://www.last.fm/music/Dress/_/My+Taste+&lpar;Feat.+ZICO&rpar;)
-* [ZICO — Extreme](https://www.last.fm/music/ZICO/_/Extreme)<!-- LASTFM:END -->
+* [ELO — OSAKA](https://www.last.fm/music/ELO/_/OSAKA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
