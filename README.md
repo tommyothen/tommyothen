@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Thai Massage Music — Relaxing Thai Spa](https://www.last.fm/music/Thai+Massage+Music/_/Relaxing+Thai+Spa)
-* [Gaeko — Cold &lpar;feat. Heize&rpar;](https://www.last.fm/music/Gaeko/_/Cold+&lpar;feat.+Heize&rpar;)
-* [Beenzino — Boogie On &amp; On](https://www.last.fm/music/Beenzino/_/Boogie+On+&amp;+On)
-* [June — Beautiful &lpar;Feat. Gaho, Moti, Jung Jin Woo&rpar;](https://www.last.fm/music/June/_/Beautiful+&lpar;Feat.+Gaho,+Moti,+Jung+Jin+Woo&rpar;)
-* [ZICO — Artist](https://www.last.fm/music/ZICO/_/Artist)<!-- LASTFM:END -->
+* [Thai Massage Music — Yoga Wave](https://www.last.fm/music/Thai+Massage+Music/_/Yoga+Wave)
+* [Thai Massage Music — Subtle Expansive](https://www.last.fm/music/Thai+Massage+Music/_/Subtle+Expansive)
+* [Thai Massage Music — Air Atmos](https://www.last.fm/music/Thai+Massage+Music/_/Air+Atmos)
+* [Thai Massage Music — Flying Up](https://www.last.fm/music/Thai+Massage+Music/_/Flying+Up)
+* [Thai Massage Music — Mindful Tropical](https://www.last.fm/music/Thai+Massage+Music/_/Mindful+Tropical)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
