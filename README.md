@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
+* [Thai Massage Music — Sound Happy](https://www.last.fm/music/Thai+Massage+Music/_/Sound+Happy)
 * [Thai Massage Music — Clifftop Cavern](https://www.last.fm/music/Thai+Massage+Music/_/Clifftop+Cavern)
 * [Thai Massage Music — Rains Water](https://www.last.fm/music/Thai+Massage+Music/_/Rains+Water)
-* [Thai Massage Music — Spring Current](https://www.last.fm/music/Thai+Massage+Music/_/Spring+Current)
-* [Thai Massage Music — Plateau Cascading](https://www.last.fm/music/Thai+Massage+Music/_/Plateau+Cascading)
-* [Thai Massage Music — Floating Winter](https://www.last.fm/music/Thai+Massage+Music/_/Floating+Winter)<!-- LASTFM:END -->
+* [Thai Massage Music — Spring Current](https://www.last.fm/music/Thai+Massage+Music/_/Spring+Current)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
