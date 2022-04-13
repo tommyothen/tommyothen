@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Thai Massage Music — Recording Earth](https://www.last.fm/music/Thai+Massage+Music/_/Recording+Earth)
+* [Thai Massage Music — Field Current](https://www.last.fm/music/Thai+Massage+Music/_/Field+Current)
+* [Thai Massage Music — Recording Earth](https://www.last.fm/music/Thai+Massage+Music/_/Recording+Earth)
 * [Thai Massage Music — Chilling Mood](https://www.last.fm/music/Thai+Massage+Music/_/Chilling+Mood)
-* [Thai Massage Music — Painting Atmosphere](https://www.last.fm/music/Thai+Massage+Music/_/Painting+Atmosphere)
-* [Thai Massage Music — Floating Cascading](https://www.last.fm/music/Thai+Massage+Music/_/Floating+Cascading)
-* [Thai Massage Music — Atlantic Creative](https://www.last.fm/music/Thai+Massage+Music/_/Atlantic+Creative)<!-- LASTFM:END -->
+* [Thai Massage Music — Painting Atmosphere](https://www.last.fm/music/Thai+Massage+Music/_/Painting+Atmosphere)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
