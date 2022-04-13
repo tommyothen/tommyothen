@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
+* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
 * [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [Thai Massage Music — Recording Earth](https://www.last.fm/music/Thai+Massage+Music/_/Recording+Earth)
-* [Thai Massage Music — Field Current](https://www.last.fm/music/Thai+Massage+Music/_/Field+Current)<!-- LASTFM:END -->
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
