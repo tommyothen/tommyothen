@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Forever Bound — Stereo Madness &lpar;Geometry Dash&rpar;](https://www.last.fm/music/Forever+Bound/_/Stereo+Madness+&lpar;Geometry+Dash&rpar;)
 * [RidersXTV — Clash Royale Theme - Drill Remix](https://www.last.fm/music/RidersXTV/_/Clash+Royale+Theme+-+Drill+Remix)
 * [Kevin Macleod — Sneaky Snitch](https://www.last.fm/music/Kevin+Macleod/_/Sneaky+Snitch)
 * [OMFG — Hello](https://www.last.fm/music/OMFG/_/Hello)
-* [Montana Kek — Fortnite Battle Pass Song](https://www.last.fm/music/Montana+Kek/_/Fortnite+Battle+Pass+Song)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)<!-- LASTFM:END -->
+* [Montana Kek — Fortnite Battle Pass Song](https://www.last.fm/music/Montana+Kek/_/Fortnite+Battle+Pass+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
