@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
+* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
 * [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [Forever Bound — Stereo Madness &lpar;Geometry Dash&rpar;](https://www.last.fm/music/Forever+Bound/_/Stereo+Madness+&lpar;Geometry+Dash&rpar;)
-* [RidersXTV — Clash Royale Theme - Drill Remix](https://www.last.fm/music/RidersXTV/_/Clash+Royale+Theme+-+Drill+Remix)
-* [Kevin Macleod — Sneaky Snitch](https://www.last.fm/music/Kevin+Macleod/_/Sneaky+Snitch)
-* [OMFG — Hello](https://www.last.fm/music/OMFG/_/Hello)<!-- LASTFM:END -->
+* [Forever Bound — Stereo Madness &lpar;Geometry Dash&rpar;](https://www.last.fm/music/Forever+Bound/_/Stereo+Madness+&lpar;Geometry+Dash&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
