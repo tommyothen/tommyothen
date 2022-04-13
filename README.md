@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
 * [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
 * [Thai Massage Music — Recording Earth](https://www.last.fm/music/Thai+Massage+Music/_/Recording+Earth)
-* [Thai Massage Music — Field Current](https://www.last.fm/music/Thai+Massage+Music/_/Field+Current)
-* [Thai Massage Music — Recording Earth](https://www.last.fm/music/Thai+Massage+Music/_/Recording+Earth)<!-- LASTFM:END -->
+* [Thai Massage Music — Field Current](https://www.last.fm/music/Thai+Massage+Music/_/Field+Current)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
