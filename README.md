@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [J. Cole — p u n c h i n ‘ . t h e . c l o c k](https://www.last.fm/music/J.+Cole/_/p+u+n+c+h+i+n+%E2%80%98+.+t+h+e+.+c+l+o+c+k)
 * [J. Cole — m y . l i f e &lpar;with 21 Savage &amp; Morray&rpar;](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+&lpar;with+21+Savage+&amp;+Morray&rpar;)
 * [J. Cole — m y . l i f e &lpar;with 21 Savage &amp; Morray&rpar;](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+&lpar;with+21+Savage+&amp;+Morray&rpar;)
 * [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
-* [uglyboy — Молодой](https://www.last.fm/music/uglyboy/_/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9)
-* [Mr. Bassmeister — Hot](https://www.last.fm/music/Mr.+Bassmeister/_/Hot)<!-- LASTFM:END -->
+* [uglyboy — Молодой](https://www.last.fm/music/uglyboy/_/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
