@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
 * [Kendrick Lamar — King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)
 * [Baby Keem — family ties &lpar;with Kendrick Lamar&rpar;](https://www.last.fm/music/Baby+Keem/_/family+ties+&lpar;with+Kendrick+Lamar&rpar;)
 * [Baby Keem — family ties &lpar;with Kendrick Lamar&rpar;](https://www.last.fm/music/Baby+Keem/_/family+ties+&lpar;with+Kendrick+Lamar&rpar;)
-* [J. Cole — l e t . g o . m y . h a n d &lpar;with Bas &amp; 6LACK&rpar;](https://www.last.fm/music/J.+Cole/_/l+e+t+.+g+o+.+m+y+.+h+a+n+d+&lpar;with+Bas+&amp;+6LACK&rpar;)
-* [J. Cole — p u n c h i n ‘ . t h e . c l o c k](https://www.last.fm/music/J.+Cole/_/p+u+n+c+h+i+n+%E2%80%98+.+t+h+e+.+c+l+o+c+k)<!-- LASTFM:END -->
+* [J. Cole — l e t . g o . m y . h a n d &lpar;with Bas &amp; 6LACK&rpar;](https://www.last.fm/music/J.+Cole/_/l+e+t+.+g+o+.+m+y+.+h+a+n+d+&lpar;with+Bas+&amp;+6LACK&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
