@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
+* [uglyboy — Молодой](https://www.last.fm/music/uglyboy/_/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9)
 * [Mr. Bassmeister — Hot](https://www.last.fm/music/Mr.+Bassmeister/_/Hot)
 * [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)
-* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
-* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
-* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)<!-- LASTFM:END -->
+* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
