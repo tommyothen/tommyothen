@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Internet Girl — asshole](https://www.last.fm/music/Internet+Girl/_/asshole)
+* [abbot — Heartbreak](https://www.last.fm/music/abbot/_/Heartbreak)
 * [Deko — unimportant](https://www.last.fm/music/Deko/_/unimportant)
 * [Lasse Lyx — Good Look](https://www.last.fm/music/Lasse+Lyx/_/Good+Look)
-* [Lil Soda Boi — plug me in](https://www.last.fm/music/Lil+Soda+Boi/_/plug+me+in)
-* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
-* [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)<!-- LASTFM:END -->
+* [Lil Soda Boi — plug me in](https://www.last.fm/music/Lil+Soda+Boi/_/plug+me+in)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
