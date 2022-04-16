@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
 * [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
 * [Eden — gold](https://www.last.fm/music/Eden/_/gold)
 * [Dreamville — Under the Sun &lpar;with J. Cole &amp; Lute feat. DaBaby&rpar;](https://www.last.fm/music/Dreamville/_/Under+the+Sun+&lpar;with+J.+Cole+&amp;+Lute+feat.+DaBaby&rpar;)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [Kendrick Lamar — King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)<!-- LASTFM:END -->
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
