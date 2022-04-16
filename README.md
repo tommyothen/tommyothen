@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [twst — Are You Filming Me?](https://www.last.fm/music/twst/_/Are+You+Filming+Me%3F)
+* [Jah — Sweatpants-&lpar;Battle Tapes Remix&rpar;](https://www.last.fm/music/Jah/_/Sweatpants-&lpar;Battle+Tapes+Remix&rpar;)
 * [Internet Girl — asshole](https://www.last.fm/music/Internet+Girl/_/asshole)
 * [abbot — Heartbreak](https://www.last.fm/music/abbot/_/Heartbreak)
-* [Deko — unimportant](https://www.last.fm/music/Deko/_/unimportant)
-* [Lasse Lyx — Good Look](https://www.last.fm/music/Lasse+Lyx/_/Good+Look)
-* [Lil Soda Boi — plug me in](https://www.last.fm/music/Lil+Soda+Boi/_/plug+me+in)<!-- LASTFM:END -->
+* [Deko — unimportant](https://www.last.fm/music/Deko/_/unimportant)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
