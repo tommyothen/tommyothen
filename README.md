@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MISOGI — Forget—Me—Not! &lpar;feat. Instupendo&rpar;](https://www.last.fm/music/MISOGI/_/Forget%E2%80%94Me%E2%80%94Not!+&lpar;feat.+Instupendo&rpar;)
+* [Tilian — Imagination &lpar;feat. Tim Henson&rpar;](https://www.last.fm/music/Tilian/_/Imagination+&lpar;feat.+Tim+Henson&rpar;)
+* [Pussy Riot — PANIC ATTACK](https://www.last.fm/music/Pussy+Riot/_/PANIC+ATTACK)
 * [twst — Are You Filming Me?](https://www.last.fm/music/twst/_/Are+You+Filming+Me%3F)
-* [Jah — Sweatpants-&lpar;Battle Tapes Remix&rpar;](https://www.last.fm/music/Jah/_/Sweatpants-&lpar;Battle+Tapes+Remix&rpar;)
-* [Internet Girl — asshole](https://www.last.fm/music/Internet+Girl/_/asshole)
-* [abbot — Heartbreak](https://www.last.fm/music/abbot/_/Heartbreak)
-* [Deko — unimportant](https://www.last.fm/music/Deko/_/unimportant)<!-- LASTFM:END -->
+* [Jah — Sweatpants-&lpar;Battle Tapes Remix&rpar;](https://www.last.fm/music/Jah/_/Sweatpants-&lpar;Battle+Tapes+Remix&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
