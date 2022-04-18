@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
 * [BABYMETAL — BxMxC](https://www.last.fm/music/BABYMETAL/_/BxMxC)
 * [I Met A Yeti — Blue-Eyes White Yeti](https://www.last.fm/music/I+Met+A+Yeti/_/Blue-Eyes+White+Yeti)
 * [forevrboy — Without U](https://www.last.fm/music/forevrboy/_/Without+U)
-* [I DONT KNOW HOW BUT THEY FOUND ME — New Invention](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/New+Invention)
-* [MISOGI — Forget—Me—Not! &lpar;feat. Instupendo&rpar;](https://www.last.fm/music/MISOGI/_/Forget%E2%80%94Me%E2%80%94Not!+&lpar;feat.+Instupendo&rpar;)<!-- LASTFM:END -->
+* [I DONT KNOW HOW BUT THEY FOUND ME — New Invention](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/New+Invention)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
