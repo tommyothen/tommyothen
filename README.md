@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
+* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
 * [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
 * [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
-* [BABYMETAL — BxMxC](https://www.last.fm/music/BABYMETAL/_/BxMxC)
-* [I Met A Yeti — Blue-Eyes White Yeti](https://www.last.fm/music/I+Met+A+Yeti/_/Blue-Eyes+White+Yeti)
-* [forevrboy — Without U](https://www.last.fm/music/forevrboy/_/Without+U)<!-- LASTFM:END -->
+* [BABYMETAL — BxMxC](https://www.last.fm/music/BABYMETAL/_/BxMxC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
