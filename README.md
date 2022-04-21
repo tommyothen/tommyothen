@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
+* [Cemeteries — Sodus](https://www.last.fm/music/Cemeteries/_/Sodus)
 * [Phem — flowers](https://www.last.fm/music/Phem/_/flowers)
 * [Numl6ck — Anxious](https://www.last.fm/music/Numl6ck/_/Anxious)
-* [Mixed Matches — Betterdays](https://www.last.fm/music/Mixed+Matches/_/Betterdays)
-* [June — Wanna Be Her](https://www.last.fm/music/June/_/Wanna+Be+Her)
-* [FrankJavCee — I Love Hating You](https://www.last.fm/music/FrankJavCee/_/I+Love+Hating+You)<!-- LASTFM:END -->
+* [Mixed Matches — Betterdays](https://www.last.fm/music/Mixed+Matches/_/Betterdays)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
