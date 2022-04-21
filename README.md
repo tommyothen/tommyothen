@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [June — Wanna Be Her](https://www.last.fm/music/June/_/Wanna+Be+Her)
+* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
 * [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
-* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
-* [ZICO — SoulMate &lpar;feat. IU&rpar;](https://www.last.fm/music/ZICO/_/SoulMate+&lpar;feat.+IU&rpar;)
-* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)<!-- LASTFM:END -->
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
