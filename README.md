@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [OFK — Follow/Unfollow](https://www.last.fm/music/OFK/_/Follow%2FUnfollow)
+* [Kill Bill: The Rapper — Inside the Cockpit of the EVA](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Inside+the+Cockpit+of+the+EVA)
 * [Phem — flowers](https://www.last.fm/music/Phem/_/flowers)
 * [Numl6ck — Anxious](https://www.last.fm/music/Numl6ck/_/Anxious)
-* [Mixed Matches — Betterdays](https://www.last.fm/music/Mixed+Matches/_/Betterdays)
-* [June — Wanna Be Her](https://www.last.fm/music/June/_/Wanna+Be+Her)
-* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)<!-- LASTFM:END -->
+* [Mixed Matches — Betterdays](https://www.last.fm/music/Mixed+Matches/_/Betterdays)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
