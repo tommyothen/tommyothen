@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
+* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
+* [ZICO — SoulMate &lpar;feat. IU&rpar;](https://www.last.fm/music/ZICO/_/SoulMate+&lpar;feat.+IU&rpar;)
 * [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
-* [Cemeteries — Sodus](https://www.last.fm/music/Cemeteries/_/Sodus)
-* [Phem — flowers](https://www.last.fm/music/Phem/_/flowers)
-* [Numl6ck — Anxious](https://www.last.fm/music/Numl6ck/_/Anxious)
-* [Mixed Matches — Betterdays](https://www.last.fm/music/Mixed+Matches/_/Betterdays)<!-- LASTFM:END -->
+* [Cemeteries — Sodus](https://www.last.fm/music/Cemeteries/_/Sodus)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
