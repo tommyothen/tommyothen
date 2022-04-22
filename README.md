@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Emothebadkid — Citylove&lpar;Red&rpar;](https://www.last.fm/music/Emothebadkid/_/Citylove&lpar;Red&rpar;)
-* [Wett Brain — Angeldust](https://www.last.fm/music/Wett+Brain/_/Angeldust)
-* [Food House — curses](https://www.last.fm/music/Food+House/_/curses)
-* [DUDE, MY DUDE — Loser](https://www.last.fm/music/DUDE,+MY+DUDE/_/Loser)
-* [OFK — Follow/Unfollow](https://www.last.fm/music/OFK/_/Follow%2FUnfollow)<!-- LASTFM:END -->
+* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
+* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
+* [Emothebadkid — Citylove&lpar;Red&rpar;](https://www.last.fm/music/Emothebadkid/_/Citylove&lpar;Red&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
