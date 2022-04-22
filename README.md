@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
-* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [Emothebadkid — Citylove&lpar;Red&rpar;](https://www.last.fm/music/Emothebadkid/_/Citylove&lpar;Red&rpar;)<!-- LASTFM:END -->
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
+* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
+* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
+* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
