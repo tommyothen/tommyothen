@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Emothebadkid — Citylove&lpar;Red&rpar;](https://www.last.fm/music/Emothebadkid/_/Citylove&lpar;Red&rpar;)
 * [Wett Brain — Angeldust](https://www.last.fm/music/Wett+Brain/_/Angeldust)
 * [Food House — curses](https://www.last.fm/music/Food+House/_/curses)
 * [DUDE, MY DUDE — Loser](https://www.last.fm/music/DUDE,+MY+DUDE/_/Loser)
-* [OFK — Follow/Unfollow](https://www.last.fm/music/OFK/_/Follow%2FUnfollow)
-* [Kill Bill: The Rapper — Inside the Cockpit of the EVA](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Inside+the+Cockpit+of+the+EVA)<!-- LASTFM:END -->
+* [OFK — Follow/Unfollow](https://www.last.fm/music/OFK/_/Follow%2FUnfollow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
