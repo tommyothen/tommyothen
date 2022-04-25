@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sad Canadian Boy — Hello Kitty Glock](https://www.last.fm/music/Sad+Canadian+Boy/_/Hello+Kitty+Glock)
+* [Baybe — rosalie](https://www.last.fm/music/Baybe/_/rosalie)
+* [Ducky — The Pain From U](https://www.last.fm/music/Ducky/_/The+Pain+From+U)
 * [Mad Kelly — In My Room](https://www.last.fm/music/Mad+Kelly/_/In+My+Room)
-* [Rab — cant get out](https://www.last.fm/music/Rab/_/cant+get+out)
-* [Hakobune — VERITAS](https://www.last.fm/music/Hakobune/_/VERITAS)
-* [Happy Hour — Cigarettes](https://www.last.fm/music/Happy+Hour/_/Cigarettes)
-* [NOT A TOY — Quit Quitting](https://www.last.fm/music/NOT+A+TOY/_/Quit+Quitting)<!-- LASTFM:END -->
+* [Rab — cant get out](https://www.last.fm/music/Rab/_/cant+get+out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
