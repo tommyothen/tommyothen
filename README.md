@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Billy Cobb — SHIT SEX MAD STRESS NO BOO NO EX SMALL COCK BOTTOM TEXT &lpar;Eat Trash Be Free&rpar;](https://www.last.fm/music/Billy+Cobb/_/SHIT+SEX+MAD+STRESS+NO+BOO+NO+EX+SMALL+COCK+BOTTOM+TEXT+&lpar;Eat+Trash+Be+Free&rpar;)
-* [NOT A TOY — Quit Quitting](https://www.last.fm/music/NOT+A+TOY/_/Quit+Quitting)
-* [dyzzy.earth — lagebericht](https://www.last.fm/music/dyzzy.earth/_/lagebericht)
-* [Donovan Melero — Odd Reasons](https://www.last.fm/music/Donovan+Melero/_/Odd+Reasons)
-* [Whipped Cream — IDFC &lpar;feat. Ravenna Golden&rpar;](https://www.last.fm/music/Whipped+Cream/_/IDFC+&lpar;feat.+Ravenna+Golden&rpar;)<!-- LASTFM:END -->
+* [Istasha — Hypothetically, We All Know Where This Is Going](https://www.last.fm/music/Istasha/_/Hypothetically,+We+All+Know+Where+This+Is+Going)
+* [Denton — Weekly](https://www.last.fm/music/Denton/_/Weekly)
+* [tsuyunoshi — b2b](https://www.last.fm/music/tsuyunoshi/_/b2b)
+* [Byemilo — Bleep Freestyle](https://www.last.fm/music/Byemilo/_/Bleep+Freestyle)
+* [LUCAS LEX — rooom impulse](https://www.last.fm/music/LUCAS+LEX/_/rooom+impulse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
