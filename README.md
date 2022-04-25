@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
+* [SMRTDEATH — Angels On My Wrist](https://www.last.fm/music/SMRTDEATH/_/Angels+On+My+Wrist)
 * [Sad Canadian Boy — Hello Kitty Glock](https://www.last.fm/music/Sad+Canadian+Boy/_/Hello+Kitty+Glock)
 * [Baybe — rosalie](https://www.last.fm/music/Baybe/_/rosalie)
-* [Ducky — The Pain From U](https://www.last.fm/music/Ducky/_/The+Pain+From+U)
-* [Mad Kelly — In My Room](https://www.last.fm/music/Mad+Kelly/_/In+My+Room)
-* [Rab — cant get out](https://www.last.fm/music/Rab/_/cant+get+out)<!-- LASTFM:END -->
+* [Ducky — The Pain From U](https://www.last.fm/music/Ducky/_/The+Pain+From+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
