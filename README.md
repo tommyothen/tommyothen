@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
-* [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)
-* [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)
-* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
-* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)<!-- LASTFM:END -->
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
+* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
+* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
+* [KANDYTOWN — Local Area &lpar;feat. Gottz, Neetz &amp; KEIJU&rpar;](https://www.last.fm/music/KANDYTOWN/_/Local+Area+&lpar;feat.+Gottz,+Neetz+&amp;+KEIJU&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
