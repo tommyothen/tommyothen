@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [Rainbow Kitten Surprise — It&#39;s Called: Freefall](https://www.last.fm/music/Rainbow+Kitten+Surprise/_/It%27s+Called:+Freefall)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [Eryn Martin — Ball](https://www.last.fm/music/Eryn+Martin/_/Ball)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)<!-- LASTFM:END -->
+* [Caroline Polachek — So Hot You&#39;re Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
+* [Paquin — Chandelier](https://www.last.fm/music/Paquin/_/Chandelier)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
