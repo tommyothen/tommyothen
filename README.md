@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [tsuyunoshi — b2b](https://www.last.fm/music/tsuyunoshi/_/b2b)
-* [Istasha — Hypothetically, We All Know Where This Is Going](https://www.last.fm/music/Istasha/_/Hypothetically,+We+All+Know+Where+This+Is+Going)
-* [ITSOKTOCRY — mirror shopping](https://www.last.fm/music/ITSOKTOCRY/_/mirror+shopping)
-* [Mad Kelly — In My Room](https://www.last.fm/music/Mad+Kelly/_/In+My+Room)
-* [Kade McCuen — THE INTERNET](https://www.last.fm/music/Kade+McCuen/_/THE+INTERNET)<!-- LASTFM:END -->
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
+* [Denton — Weekly](https://www.last.fm/music/Denton/_/Weekly)
+* [Sorry — Starstruck](https://www.last.fm/music/Sorry/_/Starstruck)
+* [Ducky — The Pain From U](https://www.last.fm/music/Ducky/_/The+Pain+From+U)
+* [tsuyunoshi — b2b](https://www.last.fm/music/tsuyunoshi/_/b2b)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
