@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)
+* [Prop Dylan — Can you imagine](https://www.last.fm/music/Prop+Dylan/_/Can+you+imagine)
 * [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
 * [Denton — Weekly](https://www.last.fm/music/Denton/_/Weekly)
-* [Sorry — Starstruck](https://www.last.fm/music/Sorry/_/Starstruck)
-* [Ducky — The Pain From U](https://www.last.fm/music/Ducky/_/The+Pain+From+U)
-* [tsuyunoshi — b2b](https://www.last.fm/music/tsuyunoshi/_/b2b)<!-- LASTFM:END -->
+* [Sorry — Starstruck](https://www.last.fm/music/Sorry/_/Starstruck)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
