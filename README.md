@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [3OH!3 — Lonely Machines &lpar;feat. 100 gecs&rpar;](https://www.last.fm/music/3OH!3/_/Lonely+Machines+&lpar;feat.+100+gecs&rpar;)
-* [Salina Killa — Mile High](https://www.last.fm/music/Salina+Killa/_/Mile+High)
-* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
-* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)<!-- LASTFM:END -->
+* [tsuyunoshi — b2b](https://www.last.fm/music/tsuyunoshi/_/b2b)
+* [Byemilo — Bleep Freestyle](https://www.last.fm/music/Byemilo/_/Bleep+Freestyle)
+* [LUCAS LEX — rooom impulse](https://www.last.fm/music/LUCAS+LEX/_/rooom+impulse)
+* [Lil Xtra — Sober](https://www.last.fm/music/Lil+Xtra/_/Sober)
+* [D-Real [愛] — Disco Night](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Disco+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
