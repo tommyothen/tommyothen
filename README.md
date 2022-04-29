@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kade McCuen — THE INTERNET](https://www.last.fm/music/Kade+McCuen/_/THE+INTERNET)
+* [Istasha — Hypothetically, We All Know Where This Is Going](https://www.last.fm/music/Istasha/_/Hypothetically,+We+All+Know+Where+This+Is+Going)
+* [Denton — Weekly](https://www.last.fm/music/Denton/_/Weekly)
 * [tsuyunoshi — b2b](https://www.last.fm/music/tsuyunoshi/_/b2b)
-* [Byemilo — Bleep Freestyle](https://www.last.fm/music/Byemilo/_/Bleep+Freestyle)
-* [LUCAS LEX — rooom impulse](https://www.last.fm/music/LUCAS+LEX/_/rooom+impulse)
-* [Lil Xtra — Sober](https://www.last.fm/music/Lil+Xtra/_/Sober)
-* [D-Real [愛] — Disco Night](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Disco+Night)<!-- LASTFM:END -->
+* [Byemilo — Bleep Freestyle](https://www.last.fm/music/Byemilo/_/Bleep+Freestyle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
