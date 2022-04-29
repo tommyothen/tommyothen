@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
-* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
-* [Rolling Quartz — BLAZE](https://www.last.fm/music/Rolling+Quartz/_/BLAZE)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)<!-- LASTFM:END -->
+* [3OH!3 — Lonely Machines &lpar;feat. 100 gecs&rpar;](https://www.last.fm/music/3OH!3/_/Lonely+Machines+&lpar;feat.+100+gecs&rpar;)
+* [Salina Killa — Mile High](https://www.last.fm/music/Salina+Killa/_/Mile+High)
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
+* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
