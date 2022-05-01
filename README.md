@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Softwilly — Pokeballer](https://www.last.fm/music/Softwilly/_/Pokeballer)
-* [Wilbur Soot — Jubilee Line](https://www.last.fm/music/Wilbur+Soot/_/Jubilee+Line)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)<!-- LASTFM:END -->
+* [Doja Cat — Woman](https://www.last.fm/music/Doja+Cat/_/Woman)
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
+* [Emma Louise — Jungle](https://www.last.fm/music/Emma+Louise/_/Jungle)
+* [Phantogram — Black Out Days](https://www.last.fm/music/Phantogram/_/Black+Out+Days)
+* [Softwilly — Pokeballer](https://www.last.fm/music/Softwilly/_/Pokeballer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
