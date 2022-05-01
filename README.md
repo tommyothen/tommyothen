@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
-* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
-* [Eden — forever//over](https://www.last.fm/music/Eden/_/forever%2F%2Fover)
-* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
+* [Caroline Polachek — So Hot You&#39;re Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [Casper — ALLES WAR SCHÖN UND NICHTS TAT WEH](https://www.last.fm/music/Casper/_/ALLES+WAR+SCH%C3%96N+UND+NICHTS+TAT+WEH)
+* [Rainbow Kitten Surprise — It&#39;s Called: Freefall](https://www.last.fm/music/Rainbow+Kitten+Surprise/_/It%27s+Called:+Freefall)
+* [girl in red — Serotonin](https://www.last.fm/music/girl+in+red/_/Serotonin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
