@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Doja Cat — Woman](https://www.last.fm/music/Doja+Cat/_/Woman)
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
-* [Emma Louise — Jungle](https://www.last.fm/music/Emma+Louise/_/Jungle)
-* [Phantogram — Black Out Days](https://www.last.fm/music/Phantogram/_/Black+Out+Days)
-* [Softwilly — Pokeballer](https://www.last.fm/music/Softwilly/_/Pokeballer)<!-- LASTFM:END -->
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
+* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
+* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
+* [The Kid LAROI — STAY &lpar;with Justin Bieber&rpar;](https://www.last.fm/music/The+Kid+LAROI/_/STAY+&lpar;with+Justin+Bieber&rpar;)
+* [Doja Cat — Woman](https://www.last.fm/music/Doja+Cat/_/Woman)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
