@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Orchards — Be Here](https://www.last.fm/music/Orchards/_/Be+Here)
+* [JOHNNASCUS — Shoot UP the Amazon Warehouse &lpar;Untitled_0026&rpar;](https://www.last.fm/music/JOHNNASCUS/_/Shoot+UP+the+Amazon+Warehouse+&lpar;Untitled_0026&rpar;)
 * [Rosesleeves — Make It Back](https://www.last.fm/music/Rosesleeves/_/Make+It+Back)
 * [Nxdia — OUCH!](https://www.last.fm/music/Nxdia/_/OUCH!)
-* [Kobenz — Sour Lemon](https://www.last.fm/music/Kobenz/_/Sour+Lemon)
-* [Omri — come around](https://www.last.fm/music/Omri/_/come+around)
-* [nihmune — Pizza in the Cosmos](https://www.last.fm/music/nihmune/_/Pizza+in+the+Cosmos)<!-- LASTFM:END -->
+* [Kobenz — Sour Lemon](https://www.last.fm/music/Kobenz/_/Sour+Lemon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
