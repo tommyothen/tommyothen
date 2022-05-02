@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Pizza in the Cosmos](https://www.last.fm/music/nihmune/_/Pizza+in+the+Cosmos)
 * [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
 * [Pasteldrip — Pistolwhip!](https://www.last.fm/music/Pasteldrip/_/Pistolwhip!)
 * [tv room — Say It Back](https://www.last.fm/music/tv+room/_/Say+It+Back)
-* [HAARPER — mukbang](https://www.last.fm/music/HAARPER/_/mukbang)
-* [Ramzoid — CASTLE](https://www.last.fm/music/Ramzoid/_/CASTLE)<!-- LASTFM:END -->
+* [HAARPER — mukbang](https://www.last.fm/music/HAARPER/_/mukbang)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
