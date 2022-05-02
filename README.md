@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rosesleeves — Make It Back](https://www.last.fm/music/Rosesleeves/_/Make+It+Back)
+* [Nxdia — OUCH!](https://www.last.fm/music/Nxdia/_/OUCH!)
 * [Kobenz — Sour Lemon](https://www.last.fm/music/Kobenz/_/Sour+Lemon)
 * [Omri — come around](https://www.last.fm/music/Omri/_/come+around)
-* [nihmune — Pizza in the Cosmos](https://www.last.fm/music/nihmune/_/Pizza+in+the+Cosmos)
-* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
-* [Pasteldrip — Pistolwhip!](https://www.last.fm/music/Pasteldrip/_/Pistolwhip!)<!-- LASTFM:END -->
+* [nihmune — Pizza in the Cosmos](https://www.last.fm/music/nihmune/_/Pizza+in+the+Cosmos)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
