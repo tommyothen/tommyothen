@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [garlagan — Do](https://www.last.fm/music/garlagan/_/Do)
-* [Retro Nicotine — P.T.S.D.](https://www.last.fm/music/Retro+Nicotine/_/P.T.S.D.)
-* [Grandma — Bested](https://www.last.fm/music/Grandma/_/Bested)
-* [BIM — Non Fiction feat. No Buses](https://www.last.fm/music/BIM/_/Non+Fiction+feat.+No+Buses)
-* [Noel — Crow](https://www.last.fm/music/Noel/_/Crow)<!-- LASTFM:END -->
+* [Pasteldrip — Pistolwhip!](https://www.last.fm/music/Pasteldrip/_/Pistolwhip!)
+* [tv room — Say It Back](https://www.last.fm/music/tv+room/_/Say+It+Back)
+* [HAARPER — mukbang](https://www.last.fm/music/HAARPER/_/mukbang)
+* [Ramzoid — CASTLE](https://www.last.fm/music/Ramzoid/_/CASTLE)
+* [garlagan — Do](https://www.last.fm/music/garlagan/_/Do)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
