@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
-* [Syko — GWALLA MACHINE GO BRR](https://www.last.fm/music/Syko/_/GWALLA+MACHINE+GO+BRR)
-* [i9bonsai — nthn](https://www.last.fm/music/i9bonsai/_/nthn)
-* [Aloe Yoroi — bored beat](https://www.last.fm/music/Aloe+Yoroi/_/bored+beat)
-* [Alice Longyu Gao — Rich Bitch Juice - Laura Les Remix](https://www.last.fm/music/Alice+Longyu+Gao/_/Rich+Bitch+Juice+-+Laura+Les+Remix)<!-- LASTFM:END -->
+* [Sub Urban — INFERNO](https://www.last.fm/music/Sub+Urban/_/INFERNO)
+* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
+* [Harley Reid — Out of Time](https://www.last.fm/music/Harley+Reid/_/Out+of+Time)
+* [Syko — PUBLIC HUMILIATION](https://www.last.fm/music/Syko/_/PUBLIC+HUMILIATION)
+* [Di Young — Pixel Pig](https://www.last.fm/music/Di+Young/_/Pixel+Pig)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
