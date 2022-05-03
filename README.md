@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cute Girls Doing Cute Things — Too Spicy](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/Too+Spicy)
-* [DayumDahlia — Cypher Demon](https://www.last.fm/music/DayumDahlia/_/Cypher+Demon)
-* [Orchards — Be Here](https://www.last.fm/music/Orchards/_/Be+Here)
-* [JOHNNASCUS — Shoot UP the Amazon Warehouse &lpar;Untitled_0026&rpar;](https://www.last.fm/music/JOHNNASCUS/_/Shoot+UP+the+Amazon+Warehouse+&lpar;Untitled_0026&rpar;)
-* [Rosesleeves — Make It Back](https://www.last.fm/music/Rosesleeves/_/Make+It+Back)<!-- LASTFM:END -->
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
+* [Internet Girl — asshole](https://www.last.fm/music/Internet+Girl/_/asshole)
+* [That Kid — Kiss Me Thru The Phone](https://www.last.fm/music/That+Kid/_/Kiss+Me+Thru+The+Phone)
+* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
+* [Kid Trash — EXOTIC](https://www.last.fm/music/Kid+Trash/_/EXOTIC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
