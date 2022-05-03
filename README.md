@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [Internet Girl — asshole](https://www.last.fm/music/Internet+Girl/_/asshole)
-* [That Kid — Kiss Me Thru The Phone](https://www.last.fm/music/That+Kid/_/Kiss+Me+Thru+The+Phone)
-* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
-* [Kid Trash — EXOTIC](https://www.last.fm/music/Kid+Trash/_/EXOTIC)<!-- LASTFM:END -->
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
