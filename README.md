@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sub Urban — INFERNO](https://www.last.fm/music/Sub+Urban/_/INFERNO)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [Harley Reid — Out of Time](https://www.last.fm/music/Harley+Reid/_/Out+of+Time)
-* [Syko — PUBLIC HUMILIATION](https://www.last.fm/music/Syko/_/PUBLIC+HUMILIATION)
-* [Di Young — Pixel Pig](https://www.last.fm/music/Di+Young/_/Pixel+Pig)<!-- LASTFM:END -->
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
+* [Sub Urban — INFERNO](https://www.last.fm/music/Sub+Urban/_/INFERNO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
