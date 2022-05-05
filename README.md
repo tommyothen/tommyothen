@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sub Urban — INFERNO](https://www.last.fm/music/Sub+Urban/_/INFERNO)
+* [MeLoveMeAlot — You Can&#39;t Kill Me I&#39;m Alive](https://www.last.fm/music/MeLoveMeAlot/_/You+Can%27t+Kill+Me+I%27m+Alive)
 * [HAARPER — mukbang](https://www.last.fm/music/HAARPER/_/mukbang)
 * [WXRMZ — Tokyo](https://www.last.fm/music/WXRMZ/_/Tokyo)
-* [Desired — Dead Inside](https://www.last.fm/music/Desired/_/Dead+Inside)
-* [Sixteenleo — Overdue](https://www.last.fm/music/Sixteenleo/_/Overdue)
-* [ElyOtto — Profane - extended](https://www.last.fm/music/ElyOtto/_/Profane+-+extended)<!-- LASTFM:END -->
+* [Desired — Dead Inside](https://www.last.fm/music/Desired/_/Dead+Inside)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
