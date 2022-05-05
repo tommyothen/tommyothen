@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sub Urban — INFERNO](https://www.last.fm/music/Sub+Urban/_/INFERNO)
-* [MeLoveMeAlot — You Can&#39;t Kill Me I&#39;m Alive](https://www.last.fm/music/MeLoveMeAlot/_/You+Can%27t+Kill+Me+I%27m+Alive)
-* [HAARPER — mukbang](https://www.last.fm/music/HAARPER/_/mukbang)
-* [WXRMZ — Tokyo](https://www.last.fm/music/WXRMZ/_/Tokyo)
-* [Desired — Dead Inside](https://www.last.fm/music/Desired/_/Dead+Inside)<!-- LASTFM:END -->
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
+* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
+* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
+* [Witt Lowry — HURT](https://www.last.fm/music/Witt+Lowry/_/HURT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
