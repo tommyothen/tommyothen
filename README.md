@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Orchards — Be Here](https://www.last.fm/music/Orchards/_/Be+Here)
-* [Kent Osborne — CLOWN!](https://www.last.fm/music/Kent+Osborne/_/CLOWN!)
-* [BIM — Non Fiction feat. No Buses](https://www.last.fm/music/BIM/_/Non+Fiction+feat.+No+Buses)
-* [tv room — Say It Back](https://www.last.fm/music/tv+room/_/Say+It+Back)
-* [Omri — come around](https://www.last.fm/music/Omri/_/come+around)<!-- LASTFM:END -->
+* [HAARPER — mukbang](https://www.last.fm/music/HAARPER/_/mukbang)
+* [WXRMZ — Tokyo](https://www.last.fm/music/WXRMZ/_/Tokyo)
+* [Desired — Dead Inside](https://www.last.fm/music/Desired/_/Dead+Inside)
+* [Sixteenleo — Overdue](https://www.last.fm/music/Sixteenleo/_/Overdue)
+* [ElyOtto — Profane - extended](https://www.last.fm/music/ElyOtto/_/Profane+-+extended)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
