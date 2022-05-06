@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [Sub Urban — PATCHWERK &lpar;with Two Feet&rpar;](https://www.last.fm/music/Sub+Urban/_/PATCHWERK+&lpar;with+Two+Feet&rpar;)
 * [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Prod. Jay — Kush Kloud](https://www.last.fm/music/Prod.+Jay/_/Kush+Kloud)
-* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
-* [stxlkin — so bitter](https://www.last.fm/music/stxlkin/_/so+bitter)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
