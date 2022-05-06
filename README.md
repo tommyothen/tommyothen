@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — HULA HOOP](https://www.last.fm/music/Loona/_/HULA+HOOP)
-* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
-* [Loona — PTT &lpar;Paint the Town&rpar;](https://www.last.fm/music/Loona/_/PTT+&lpar;Paint+the+Town&rpar;)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [TWICE — I CAN&#39;T STOP ME](https://www.last.fm/music/TWICE/_/I+CAN%27T+STOP+ME)<!-- LASTFM:END -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [Loona — Shake It](https://www.last.fm/music/Loona/_/Shake+It)
+* [Loona — Why Not?](https://www.last.fm/music/Loona/_/Why+Not%3F)
+* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
+* [Loona — HULA HOOP](https://www.last.fm/music/Loona/_/HULA+HOOP)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
