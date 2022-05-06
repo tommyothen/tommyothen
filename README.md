@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Syko — GWALLA MACHINE GO BRR](https://www.last.fm/music/Syko/_/GWALLA+MACHINE+GO+BRR)
-* [Internet Girl — asshole](https://www.last.fm/music/Internet+Girl/_/asshole)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [i9bonsai — nthn](https://www.last.fm/music/i9bonsai/_/nthn)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)
+* [Alice Longyu Gao — Rich Bitch Juice - Laura Les Remix](https://www.last.fm/music/Alice+Longyu+Gao/_/Rich+Bitch+Juice+-+Laura+Les+Remix)
+* [YukoEXE — Holiday Capsules!!](https://www.last.fm/music/YukoEXE/_/Holiday+Capsules!!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
