@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
+* [stxlkin — so bitter](https://www.last.fm/music/stxlkin/_/so+bitter)
+* [Syko — GWALLA MACHINE GO BRR](https://www.last.fm/music/Syko/_/GWALLA+MACHINE+GO+BRR)
 * [Syko — SMOSH!](https://www.last.fm/music/Syko/_/SMOSH!)
-* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
-* [YukoEXE — Holiday Capsules!!](https://www.last.fm/music/YukoEXE/_/Holiday+Capsules!!)
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)<!-- LASTFM:END -->
+* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
