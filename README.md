@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Prod. Jay — Kush Kloud](https://www.last.fm/music/Prod.+Jay/_/Kush+Kloud)
 * [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
-* [stxlkin — so bitter](https://www.last.fm/music/stxlkin/_/so+bitter)
-* [Syko — GWALLA MACHINE GO BRR](https://www.last.fm/music/Syko/_/GWALLA+MACHINE+GO+BRR)
-* [Syko — SMOSH!](https://www.last.fm/music/Syko/_/SMOSH!)
-* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)<!-- LASTFM:END -->
+* [stxlkin — so bitter](https://www.last.fm/music/stxlkin/_/so+bitter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
