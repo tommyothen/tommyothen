@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Food House — ride](https://www.last.fm/music/Food+House/_/ride)
+* [Food House — 51129](https://www.last.fm/music/Food+House/_/51129)
+* [Food House — curses](https://www.last.fm/music/Food+House/_/curses)
 * [Food House — sole](https://www.last.fm/music/Food+House/_/sole)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
-* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)<!-- LASTFM:END -->
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
