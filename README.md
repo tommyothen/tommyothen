@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
+* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
+* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)
 * [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [Food House — curses](https://www.last.fm/music/Food+House/_/curses)
-* [Food House — sole](https://www.last.fm/music/Food+House/_/sole)
-* [Food House — one you know](https://www.last.fm/music/Food+House/_/one+you+know)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)<!-- LASTFM:END -->
+* [Food House — curses](https://www.last.fm/music/Food+House/_/curses)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
