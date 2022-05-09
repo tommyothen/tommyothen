@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Food House — metal](https://www.last.fm/music/Food+House/_/metal)
-* [Food House — pharmacy](https://www.last.fm/music/Food+House/_/pharmacy)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [Food House — clown nose](https://www.last.fm/music/Food+House/_/clown+nose)
-* [Food House — ride](https://www.last.fm/music/Food+House/_/ride)<!-- LASTFM:END -->
+* [Food House — sole](https://www.last.fm/music/Food+House/_/sole)
+* [Food House — one you know](https://www.last.fm/music/Food+House/_/one+you+know)
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
+* [Food House — foresight](https://www.last.fm/music/Food+House/_/foresight)
+* [Food House — metal](https://www.last.fm/music/Food+House/_/metal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
