@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Caroline Polachek — So Hot You&#39;re Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
-* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [Rainbow Kitten Surprise — It&#39;s Called: Freefall](https://www.last.fm/music/Rainbow+Kitten+Surprise/_/It%27s+Called:+Freefall)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)<!-- LASTFM:END -->
+* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
+* [slushii — All I Need](https://www.last.fm/music/slushii/_/All+I+Need)
+* [slushii — All I Need](https://www.last.fm/music/slushii/_/All+I+Need)
+* [slushii — All I Need](https://www.last.fm/music/slushii/_/All+I+Need)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
