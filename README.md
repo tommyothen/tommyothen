@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Danger Incorporated — Shut the Fuck Up :&#39;&rpar;](https://www.last.fm/music/Danger+Incorporated/_/Shut+the+Fuck+Up+:%27&rpar;)
+* [Toast — i&#39;ve been calling](https://www.last.fm/music/Toast/_/i%27ve+been+calling)
+* [contradash — 222pm](https://www.last.fm/music/contradash/_/222pm)
 * [煮ル果実 — ヲズワルド](https://www.last.fm/music/%E7%85%AE%E3%83%AB%E6%9E%9C%E5%AE%9F/_/%E3%83%B2%E3%82%BA%E3%83%AF%E3%83%AB%E3%83%89)
-* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)
-* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)
-* [AUGUST 08 — Bussdown Your Soul &lpar;feat. Barney Bones&rpar;](https://www.last.fm/music/AUGUST+08/_/Bussdown+Your+Soul+&lpar;feat.+Barney+Bones&rpar;)
-* [Carlina — Problem](https://www.last.fm/music/Carlina/_/Problem)<!-- LASTFM:END -->
+* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
