@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lee Jin Ah — Run &lpar;with GRAY&rpar;](https://www.last.fm/music/Lee+Jin+Ah/_/Run+&lpar;with+GRAY&rpar;)
-* [LADIES&#39; CODE — The Rain](https://www.last.fm/music/LADIES%27+CODE/_/The+Rain)
-* [Boyhood — Retro Love](https://www.last.fm/music/Boyhood/_/Retro+Love)
-* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
-* [OurR — haaAakkKKK!!!](https://www.last.fm/music/OurR/_/haaAakkKKK!!!)<!-- LASTFM:END -->
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
+* [Aries — CONVERSATIONS](https://www.last.fm/music/Aries/_/CONVERSATIONS)
+* [Aries — WHEN THE LIGHTS GO OUT](https://www.last.fm/music/Aries/_/WHEN+THE+LIGHTS+GO+OUT)
+* [Aries — OUTDATED](https://www.last.fm/music/Aries/_/OUTDATED)
+* [Aries — DESPERADO](https://www.last.fm/music/Aries/_/DESPERADO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
