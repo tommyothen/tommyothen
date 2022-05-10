@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [AUGUST 08 — Bussdown Your Soul &lpar;feat. Barney Bones&rpar;](https://www.last.fm/music/AUGUST+08/_/Bussdown+Your+Soul+&lpar;feat.+Barney+Bones&rpar;)
-* [Carlina — Problem](https://www.last.fm/music/Carlina/_/Problem)
-* [URH Hip Hop — 74f150](https://www.last.fm/music/URH+Hip+Hop/_/74f150)
-* [Ryan Librada — Down Bad](https://www.last.fm/music/Ryan+Librada/_/Down+Bad)
-* [Critter — PFC](https://www.last.fm/music/Critter/_/PFC)<!-- LASTFM:END -->
+* [contradash — 222pm](https://www.last.fm/music/contradash/_/222pm)
+* [煮ル果実 — ヲズワルド](https://www.last.fm/music/%E7%85%AE%E3%83%AB%E6%9E%9C%E5%AE%9F/_/%E3%83%B2%E3%82%BA%E3%83%AF%E3%83%AB%E3%83%89)
+* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)
+* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)
+* [AUGUST 08 — Bussdown Your Soul &lpar;feat. Barney Bones&rpar;](https://www.last.fm/music/AUGUST+08/_/Bussdown+Your+Soul+&lpar;feat.+Barney+Bones&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
