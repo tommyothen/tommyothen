@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fei — 괜찮아 괜찮아 Fantasy](https://www.last.fm/music/Fei/_/%EA%B4%9C%EC%B0%AE%EC%95%84+%EA%B4%9C%EC%B0%AE%EC%95%84+Fantasy)
+* [Hus — Banana Shake](https://www.last.fm/music/Hus/_/Banana+Shake)
 * [Boyhood — Retro Love](https://www.last.fm/music/Boyhood/_/Retro+Love)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)
-* [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)
-* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)<!-- LASTFM:END -->
+* [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
