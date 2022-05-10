@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [OurR — haaAakkKKK!!!](https://www.last.fm/music/OurR/_/haaAakkKKK!!!)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
 * [vanishing girl — Washing Machine](https://www.last.fm/music/vanishing+girl/_/Washing+Machine)
 * [Fei — 괜찮아 괜찮아 Fantasy](https://www.last.fm/music/Fei/_/%EA%B4%9C%EC%B0%AE%EC%95%84+%EA%B4%9C%EC%B0%AE%EC%95%84+Fantasy)
-* [Hus — Banana Shake](https://www.last.fm/music/Hus/_/Banana+Shake)
-* [Boyhood — Retro Love](https://www.last.fm/music/Boyhood/_/Retro+Love)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
+* [Hus — Banana Shake](https://www.last.fm/music/Hus/_/Banana+Shake)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
