@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
 * [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)
 * [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
 * [Hybrid Minds — Touch](https://www.last.fm/music/Hybrid+Minds/_/Touch)
-* [Wilkinson — Afterglow](https://www.last.fm/music/Wilkinson/_/Afterglow)
-* [Nightcore Reality — How to Be a Heartbreaker](https://www.last.fm/music/Nightcore+Reality/_/How+to+Be+a+Heartbreaker)<!-- LASTFM:END -->
+* [Wilkinson — Afterglow](https://www.last.fm/music/Wilkinson/_/Afterglow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
