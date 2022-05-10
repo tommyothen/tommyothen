@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [maxime. — bonnie ‎n ‎clyde](https://www.last.fm/music/maxime./_/bonnie+%E2%80%8En+%E2%80%8Eclyde)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
+* [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)
 * [Coa White — akiba](https://www.last.fm/music/Coa+White/_/akiba)
-* [recovery girl — it&#39;s love](https://www.last.fm/music/recovery+girl/_/it%27s+love)
-* [Nikki-Chi — Homesick](https://www.last.fm/music/Nikki-Chi/_/Homesick)
-* [KevinKempt — movie](https://www.last.fm/music/KevinKempt/_/movie)
-* [Madge — H8R](https://www.last.fm/music/Madge/_/H8R)<!-- LASTFM:END -->
+* [recovery girl — it&#39;s love](https://www.last.fm/music/recovery+girl/_/it%27s+love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
