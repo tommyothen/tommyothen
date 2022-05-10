@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Coa White — akiba](https://www.last.fm/music/Coa+White/_/akiba)
+* [recovery girl — it&#39;s love](https://www.last.fm/music/recovery+girl/_/it%27s+love)
+* [Nikki-Chi — Homesick](https://www.last.fm/music/Nikki-Chi/_/Homesick)
 * [KevinKempt — movie](https://www.last.fm/music/KevinKempt/_/movie)
-* [Madge — H8R](https://www.last.fm/music/Madge/_/H8R)
-* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
-* [Sybyr — The Mill](https://www.last.fm/music/Sybyr/_/The+Mill)
-* [Danger Incorporated — Shut the Fuck Up :&#39;&rpar;](https://www.last.fm/music/Danger+Incorporated/_/Shut+the+Fuck+Up+:%27&rpar;)<!-- LASTFM:END -->
+* [Madge — H8R](https://www.last.fm/music/Madge/_/H8R)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
