@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lee Jin Ah — Run &lpar;with GRAY&rpar;](https://www.last.fm/music/Lee+Jin+Ah/_/Run+&lpar;with+GRAY&rpar;)
+* [LADIES&#39; CODE — The Rain](https://www.last.fm/music/LADIES%27+CODE/_/The+Rain)
 * [Boyhood — Retro Love](https://www.last.fm/music/Boyhood/_/Retro+Love)
 * [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
-* [OurR — haaAakkKKK!!!](https://www.last.fm/music/OurR/_/haaAakkKKK!!!)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [vanishing girl — Washing Machine](https://www.last.fm/music/vanishing+girl/_/Washing+Machine)<!-- LASTFM:END -->
+* [OurR — haaAakkKKK!!!](https://www.last.fm/music/OurR/_/haaAakkKKK!!!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
