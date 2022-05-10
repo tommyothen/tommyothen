@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
+* [Hybrid Minds — Touch](https://www.last.fm/music/Hybrid+Minds/_/Touch)
+* [Wilkinson — Afterglow](https://www.last.fm/music/Wilkinson/_/Afterglow)
 * [Nightcore Reality — How to Be a Heartbreaker](https://www.last.fm/music/Nightcore+Reality/_/How+to+Be+a+Heartbreaker)
-* [DJ Fresh — Gold Dust - Fox Stevenson Remix](https://www.last.fm/music/DJ+Fresh/_/Gold+Dust+-+Fox+Stevenson+Remix)
-* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
-* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)<!-- LASTFM:END -->
+* [DJ Fresh — Gold Dust - Fox Stevenson Remix](https://www.last.fm/music/DJ+Fresh/_/Gold+Dust+-+Fox+Stevenson+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
