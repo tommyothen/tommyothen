@@ -32,7 +32,7 @@ Now Playing\
 * [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
 * [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
 * [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
-* [slushii — All I Need](https://www.last.fm/music/slushii/_/All+I+Need)<!-- LASTFM:END -->
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
