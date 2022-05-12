@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
 * [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)
 * [Coa White — akiba](https://www.last.fm/music/Coa+White/_/akiba)
 * [maxime. — bonnie ‎n ‎clyde](https://www.last.fm/music/maxime./_/bonnie+%E2%80%8En+%E2%80%8Eclyde)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)<!-- LASTFM:END -->
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
