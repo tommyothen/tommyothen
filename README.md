@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Carlina — Problem](https://www.last.fm/music/Carlina/_/Problem)
-* [URH Hip Hop — 74f150](https://www.last.fm/music/URH+Hip+Hop/_/74f150)
-* [Ryan Librada — Down Bad](https://www.last.fm/music/Ryan+Librada/_/Down+Bad)
-* [Critter — PFC](https://www.last.fm/music/Critter/_/PFC)
-* [Mickey Darling — Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl)<!-- LASTFM:END -->
+* [maxime. — bonnie ‎n ‎clyde](https://www.last.fm/music/maxime./_/bonnie+%E2%80%8En+%E2%80%8Eclyde)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
+* [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)
+* [Coa White — akiba](https://www.last.fm/music/Coa+White/_/akiba)
+* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
