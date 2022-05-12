@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
-* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)<!-- LASTFM:END -->
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
+* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
+* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
+* [slushii — All I Need](https://www.last.fm/music/slushii/_/All+I+Need)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
