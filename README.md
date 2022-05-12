@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)
 * [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
 * [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
 * [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)<!-- LASTFM:END -->
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
