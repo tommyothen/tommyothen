@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [recovery girl — it&#39;s love](https://www.last.fm/music/recovery+girl/_/it%27s+love)
-* [Nikki-Chi — Homesick](https://www.last.fm/music/Nikki-Chi/_/Homesick)
-* [KevinKempt — movie](https://www.last.fm/music/KevinKempt/_/movie)
-* [Madge — H8R](https://www.last.fm/music/Madge/_/H8R)
-* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
+* [recovery girl — it&#39;s love](https://www.last.fm/music/recovery+girl/_/it%27s+love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
