@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [THE ANXIETY — Meet Me At Our Spot](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot)
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
 * [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
 * [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Manchester Orchestra — The Gold - Phoebe Bridgers Version](https://www.last.fm/music/Manchester+Orchestra/_/The+Gold+-+Phoebe+Bridgers+Version)
-* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
-* [Wilbur Soot — Jubilee Line](https://www.last.fm/music/Wilbur+Soot/_/Jubilee+Line)<!-- LASTFM:END -->
+* [Manchester Orchestra — The Gold - Phoebe Bridgers Version](https://www.last.fm/music/Manchester+Orchestra/_/The+Gold+-+Phoebe+Bridgers+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
