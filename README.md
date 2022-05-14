@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [contradash — 222pm](https://www.last.fm/music/contradash/_/222pm)
+* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)
 * [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)
 * [Ryan Librada — Down Bad](https://www.last.fm/music/Ryan+Librada/_/Down+Bad)
-* [Critter — PFC](https://www.last.fm/music/Critter/_/PFC)
-* [Mickey Darling — Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl)
-* [Witto Goom — Want It. Take It.](https://www.last.fm/music/Witto+Goom/_/Want+It.+Take+It.)<!-- LASTFM:END -->
+* [Critter — PFC](https://www.last.fm/music/Critter/_/PFC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
