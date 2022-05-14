@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
+* [Starmaxx — Patient Zero](https://www.last.fm/music/Starmaxx/_/Patient+Zero)
 * [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
 * [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)<!-- LASTFM:END -->
+* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
