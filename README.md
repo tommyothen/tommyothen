@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [Manchester Orchestra — The Gold - Phoebe Bridgers Version](https://www.last.fm/music/Manchester+Orchestra/_/The+Gold+-+Phoebe+Bridgers+Version)
 * [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
-* [Wilbur Soot — Jubilee Line](https://www.last.fm/music/Wilbur+Soot/_/Jubilee+Line)
-* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
-* [Aries — bounty hunter](https://www.last.fm/music/Aries/_/bounty+hunter)
-* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)<!-- LASTFM:END -->
+* [Wilbur Soot — Jubilee Line](https://www.last.fm/music/Wilbur+Soot/_/Jubilee+Line)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
