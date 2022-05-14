@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Phantogram — Black Out Days](https://www.last.fm/music/Phantogram/_/Black+Out+Days)
+* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
 * [DAT ADAM — 700 Main Street](https://www.last.fm/music/DAT+ADAM/_/700+Main+Street)
 * [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [THE ANXIETY — Meet Me At Our Spot](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)<!-- LASTFM:END -->
+* [THE ANXIETY — Meet Me At Our Spot](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
