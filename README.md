@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)
+* [Shin Sakiura — NIGHT RUNNING](https://www.last.fm/music/Shin+Sakiura/_/NIGHT+RUNNING)
+* [Tsu Nami — Party](https://www.last.fm/music/Tsu+Nami/_/Party)
+* [maxime. — bonnie ‎n ‎clyde](https://www.last.fm/music/maxime./_/bonnie+%E2%80%8En+%E2%80%8Eclyde)
 * [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
+* [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
