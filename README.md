@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
+* [Sybyr — The Mill](https://www.last.fm/music/Sybyr/_/The+Mill)
+* [Toast — i&#39;ve been calling](https://www.last.fm/music/Toast/_/i%27ve+been+calling)
 * [contradash — 222pm](https://www.last.fm/music/contradash/_/222pm)
-* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)
-* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)
-* [Ryan Librada — Down Bad](https://www.last.fm/music/Ryan+Librada/_/Down+Bad)
-* [Critter — PFC](https://www.last.fm/music/Critter/_/PFC)<!-- LASTFM:END -->
+* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
