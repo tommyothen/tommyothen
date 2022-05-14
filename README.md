@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
 * [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
 * [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
-* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)<!-- LASTFM:END -->
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
