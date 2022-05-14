@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DAT ADAM — 700 Main Street](https://www.last.fm/music/DAT+ADAM/_/700+Main+Street)
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
 * [THE ANXIETY — Meet Me At Our Spot](https://www.last.fm/music/THE+ANXIETY/_/Meet+Me+At+Our+Spot)
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Manchester Orchestra — The Gold - Phoebe Bridgers Version](https://www.last.fm/music/Manchester+Orchestra/_/The+Gold+-+Phoebe+Bridgers+Version)<!-- LASTFM:END -->
+* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
