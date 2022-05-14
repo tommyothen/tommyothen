@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
+* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
 * [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
 * [The Neighbourhood — Softcore](https://www.last.fm/music/The+Neighbourhood/_/Softcore)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
