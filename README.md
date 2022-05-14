@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shin Sakiura — NIGHT RUNNING](https://www.last.fm/music/Shin+Sakiura/_/NIGHT+RUNNING)
+* [Tsu Nami — Party](https://www.last.fm/music/Tsu+Nami/_/Party)
+* [Dios — Runaway](https://www.last.fm/music/Dios/_/Runaway)
 * [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)
-* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
-* [Sybyr — The Mill](https://www.last.fm/music/Sybyr/_/The+Mill)<!-- LASTFM:END -->
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
