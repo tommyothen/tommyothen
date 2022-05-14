@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
+* [Warren Hue — omomo punk](https://www.last.fm/music/Warren+Hue/_/omomo+punk)
 * [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
-* [Sybyr — The Mill](https://www.last.fm/music/Sybyr/_/The+Mill)
-* [Toast — i&#39;ve been calling](https://www.last.fm/music/Toast/_/i%27ve+been+calling)
-* [contradash — 222pm](https://www.last.fm/music/contradash/_/222pm)
-* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)<!-- LASTFM:END -->
+* [Sybyr — The Mill](https://www.last.fm/music/Sybyr/_/The+Mill)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
