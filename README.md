@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eryn Martin — Ball](https://www.last.fm/music/Eryn+Martin/_/Ball)
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
 * [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
 * [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
-* [Rainbow Kitten Surprise — It&#39;s Called: Freefall](https://www.last.fm/music/Rainbow+Kitten+Surprise/_/It%27s+Called:+Freefall)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)<!-- LASTFM:END -->
+* [Rainbow Kitten Surprise — It&#39;s Called: Freefall](https://www.last.fm/music/Rainbow+Kitten+Surprise/_/It%27s+Called:+Freefall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
