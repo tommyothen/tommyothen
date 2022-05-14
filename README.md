@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Toast — i&#39;ve been calling](https://www.last.fm/music/Toast/_/i%27ve+been+calling)
-* [contradash — 222pm](https://www.last.fm/music/contradash/_/222pm)
-* [煮ル果実 — ヲズワルド](https://www.last.fm/music/%E7%85%AE%E3%83%AB%E6%9E%9C%E5%AE%9F/_/%E3%83%B2%E3%82%BA%E3%83%AF%E3%83%AB%E3%83%89)
-* [MIREI — Lonely in Tokyo](https://www.last.fm/music/MIREI/_/Lonely+in+Tokyo)
-* [Carlina — Problem](https://www.last.fm/music/Carlina/_/Problem)<!-- LASTFM:END -->
+* [KevinKempt — movie](https://www.last.fm/music/KevinKempt/_/movie)
+* [Madge — H8R](https://www.last.fm/music/Madge/_/H8R)
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
+* [Sybyr — The Mill](https://www.last.fm/music/Sybyr/_/The+Mill)
+* [Toast — i&#39;ve been calling](https://www.last.fm/music/Toast/_/i%27ve+been+calling)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
