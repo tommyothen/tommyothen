@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jean Dawson — MENTHOL*](https://www.last.fm/music/Jean+Dawson/_/MENTHOL*)
+* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
+* [Ryan Librada — Down Bad](https://www.last.fm/music/Ryan+Librada/_/Down+Bad)
 * [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
-* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)<!-- LASTFM:END -->
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
