@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
+* [Phoebe Bridgers — Kyoto](https://www.last.fm/music/Phoebe+Bridgers/_/Kyoto)
 * [Jean Dawson — MENTHOL*](https://www.last.fm/music/Jean+Dawson/_/MENTHOL*)
 * [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [Ryan Librada — Down Bad](https://www.last.fm/music/Ryan+Librada/_/Down+Bad)
-* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
-* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)<!-- LASTFM:END -->
+* [Ryan Librada — Down Bad](https://www.last.fm/music/Ryan+Librada/_/Down+Bad)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
