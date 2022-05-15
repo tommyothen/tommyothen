@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Oh Wonder — Landslide](https://www.last.fm/music/Oh+Wonder/_/Landslide)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
 * [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
-* [Phoebe Bridgers — Kyoto](https://www.last.fm/music/Phoebe+Bridgers/_/Kyoto)
-* [Jean Dawson — MENTHOL*](https://www.last.fm/music/Jean+Dawson/_/MENTHOL*)
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [Ryan Librada — Down Bad](https://www.last.fm/music/Ryan+Librada/_/Down+Bad)<!-- LASTFM:END -->
+* [Phoebe Bridgers — Kyoto](https://www.last.fm/music/Phoebe+Bridgers/_/Kyoto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
