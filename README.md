@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
 * [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
 * [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)
-* [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)
-* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
-* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)<!-- LASTFM:END -->
+* [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
