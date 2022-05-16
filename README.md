@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Coa White — Akiba &lpar;feat. kosame &amp; Ohiorabbit&rpar;](https://www.last.fm/music/Coa+White/_/Akiba+&lpar;feat.+kosame+&amp;+Ohiorabbit&rpar;)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
 * [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
 * [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)<!-- LASTFM:END -->
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
