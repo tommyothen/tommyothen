@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ku One Chan — Dear You &lpar;feat. Chang Sukhoon&rpar;](https://www.last.fm/music/Ku+One+Chan/_/Dear+You+&lpar;feat.+Chang+Sukhoon&rpar;)
+* [LORD$OFDOGTOWN — AUTUMN](https://www.last.fm/music/LORD$OFDOGTOWN/_/AUTUMN)
 * [SEBii — BONErr](https://www.last.fm/music/SEBii/_/BONErr)
 * [Summet — can i talk to you?](https://www.last.fm/music/Summet/_/can+i+talk+to+you%3F)
-* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)<!-- LASTFM:END -->
+* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
