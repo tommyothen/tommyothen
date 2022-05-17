@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Boshi Boi — Goth Girls On My Xbox](https://www.last.fm/music/Boshi+Boi/_/Goth+Girls+On+My+Xbox)
-* [r u s s e l b u c k — Just Be Competent](https://www.last.fm/music/r+u+s+s+e+l+b+u+c+k/_/Just+Be+Competent)
-* [Bandoum — port](https://www.last.fm/music/Bandoum/_/port)
-* [James Ivy — Snakes](https://www.last.fm/music/James+Ivy/_/Snakes)
-* [Miind — distraction](https://www.last.fm/music/Miind/_/distraction)<!-- LASTFM:END -->
+* [Vincente Void — Common Ground &lpar;feat. Damien Cane&rpar;](https://www.last.fm/music/Vincente+Void/_/Common+Ground+&lpar;feat.+Damien+Cane&rpar;)
+* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
+* [Vincente Void — Common Ground &lpar;feat. Damien Cane&rpar;](https://www.last.fm/music/Vincente+Void/_/Common+Ground+&lpar;feat.+Damien+Cane&rpar;)
+* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
+* [Boshi Boi — Goth Girls On My Xbox](https://www.last.fm/music/Boshi+Boi/_/Goth+Girls+On+My+Xbox)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
