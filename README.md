@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Freddie Sunshine — Cross the Sun](https://www.last.fm/music/Freddie+Sunshine/_/Cross+the+Sun)
-* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
+* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
+* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
 * [Tommy Tsunami — Okay.](https://www.last.fm/music/Tommy+Tsunami/_/Okay.)
-* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
-* [Vincente Void — Necktie &lpar;feat. Lil HBK&rpar;](https://www.last.fm/music/Vincente+Void/_/Necktie+&lpar;feat.+Lil+HBK&rpar;)<!-- LASTFM:END -->
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
+* [Vincente Void — February &lpar;feat. LUCIEL&rpar;](https://www.last.fm/music/Vincente+Void/_/February+&lpar;feat.+LUCIEL&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
