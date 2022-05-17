@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Vincente Void — Common Ground &lpar;feat. Damien Cane&rpar;](https://www.last.fm/music/Vincente+Void/_/Common+Ground+&lpar;feat.+Damien+Cane&rpar;)
-* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
-* [Vincente Void — Common Ground &lpar;feat. Damien Cane&rpar;](https://www.last.fm/music/Vincente+Void/_/Common+Ground+&lpar;feat.+Damien+Cane&rpar;)
-* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
-* [Boshi Boi — Goth Girls On My Xbox](https://www.last.fm/music/Boshi+Boi/_/Goth+Girls+On+My+Xbox)<!-- LASTFM:END -->
+* [Freddie Sunshine — Cross the Sun](https://www.last.fm/music/Freddie+Sunshine/_/Cross+the+Sun)
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
+* [Tommy Tsunami — Okay.](https://www.last.fm/music/Tommy+Tsunami/_/Okay.)
+* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
+* [Vincente Void — Necktie &lpar;feat. Lil HBK&rpar;](https://www.last.fm/music/Vincente+Void/_/Necktie+&lpar;feat.+Lil+HBK&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
