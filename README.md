@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [X LOVERS — Dreams Where Ur Murdered](https://www.last.fm/music/X+LOVERS/_/Dreams+Where+Ur+Murdered)
-* [X LOVERS — Dreams Where Ur Murdered](https://www.last.fm/music/X+LOVERS/_/Dreams+Where+Ur+Murdered)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [CVLTE — Happy. &lpar;feat. 釈迦坊主&rpar;](https://www.last.fm/music/CVLTE/_/Happy.+&lpar;feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB&rpar;)
-* [Kane Lacey — She](https://www.last.fm/music/Kane+Lacey/_/She)<!-- LASTFM:END -->
+* [Happy Hour — Twenty-Six](https://www.last.fm/music/Happy+Hour/_/Twenty-Six)
+* [Death and All His Friends — Alone](https://www.last.fm/music/Death+and+All+His+Friends/_/Alone)
+* [Coletta — Blossom](https://www.last.fm/music/Coletta/_/Blossom)
+* [sacha online — PRAY](https://www.last.fm/music/sacha+online/_/PRAY)
+* [X LOVERS — Dreams Where Ur Murdered](https://www.last.fm/music/X+LOVERS/_/Dreams+Where+Ur+Murdered)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
