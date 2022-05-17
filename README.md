@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
-* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
-* [Tommy Tsunami — Okay.](https://www.last.fm/music/Tommy+Tsunami/_/Okay.)
-* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
-* [Vincente Void — February &lpar;feat. LUCIEL&rpar;](https://www.last.fm/music/Vincente+Void/_/February+&lpar;feat.+LUCIEL&rpar;)<!-- LASTFM:END -->
+* [Kane Lacey — She](https://www.last.fm/music/Kane+Lacey/_/She)
+* [The Clean Tramps — Warm Bodies](https://www.last.fm/music/The+Clean+Tramps/_/Warm+Bodies)
+* [Fizzy Blood — Strangers](https://www.last.fm/music/Fizzy+Blood/_/Strangers)
+* [MIYAVI — I’m So](https://www.last.fm/music/MIYAVI/_/I%E2%80%99m+So)
+* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
