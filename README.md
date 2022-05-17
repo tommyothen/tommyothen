@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
 * [Happy Hour — Twenty-Six](https://www.last.fm/music/Happy+Hour/_/Twenty-Six)
 * [Death and All His Friends — Alone](https://www.last.fm/music/Death+and+All+His+Friends/_/Alone)
 * [Coletta — Blossom](https://www.last.fm/music/Coletta/_/Blossom)
-* [sacha online — PRAY](https://www.last.fm/music/sacha+online/_/PRAY)
-* [X LOVERS — Dreams Where Ur Murdered](https://www.last.fm/music/X+LOVERS/_/Dreams+Where+Ur+Murdered)<!-- LASTFM:END -->
+* [sacha online — PRAY](https://www.last.fm/music/sacha+online/_/PRAY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
