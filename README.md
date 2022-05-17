@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Erangerang — Nothing Changed](https://www.last.fm/music/Erangerang/_/Nothing+Changed)
+* [Nev Ver — Break Shit.](https://www.last.fm/music/Nev+Ver/_/Break+Shit.)
+* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
 * [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Happy Hour — Twenty-Six](https://www.last.fm/music/Happy+Hour/_/Twenty-Six)
-* [Death and All His Friends — Alone](https://www.last.fm/music/Death+and+All+His+Friends/_/Alone)
-* [Coletta — Blossom](https://www.last.fm/music/Coletta/_/Blossom)
-* [sacha online — PRAY](https://www.last.fm/music/sacha+online/_/PRAY)<!-- LASTFM:END -->
+* [Happy Hour — Twenty-Six](https://www.last.fm/music/Happy+Hour/_/Twenty-Six)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
