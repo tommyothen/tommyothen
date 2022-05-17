@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [Strawberry Hospital — Tacit](https://www.last.fm/music/Strawberry+Hospital/_/Tacit)
-* [Serialist — sometimes](https://www.last.fm/music/Serialist/_/sometimes)
-* [Yoursever — High Stakes](https://www.last.fm/music/Yoursever/_/High+Stakes)<!-- LASTFM:END -->
+* [Coa White — Akiba &lpar;feat. kosame &amp; Ohiorabbit&rpar;](https://www.last.fm/music/Coa+White/_/Akiba+&lpar;feat.+kosame+&amp;+Ohiorabbit&rpar;)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
+* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
