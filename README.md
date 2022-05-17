@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Coa White — Akiba &lpar;feat. kosame &amp; Ohiorabbit&rpar;](https://www.last.fm/music/Coa+White/_/Akiba+&lpar;feat.+kosame+&amp;+Ohiorabbit&rpar;)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
+* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
+* [Eryn Martin — Ball](https://www.last.fm/music/Eryn+Martin/_/Ball)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
