@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
-* [Eryn Martin — Ball](https://www.last.fm/music/Eryn+Martin/_/Ball)<!-- LASTFM:END -->
+* [Harley Reid — Out of Time](https://www.last.fm/music/Harley+Reid/_/Out+of+Time)
+* [Emma Louise — Jungle](https://www.last.fm/music/Emma+Louise/_/Jungle)
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
+* [Phantogram — Black Out Days](https://www.last.fm/music/Phantogram/_/Black+Out+Days)
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
