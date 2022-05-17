@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ku One Chan — Dear You &lpar;feat. Chang Sukhoon&rpar;](https://www.last.fm/music/Ku+One+Chan/_/Dear+You+&lpar;feat.+Chang+Sukhoon&rpar;)
-* [LORD$OFDOGTOWN — AUTUMN](https://www.last.fm/music/LORD$OFDOGTOWN/_/AUTUMN)
-* [SEBii — BONErr](https://www.last.fm/music/SEBii/_/BONErr)
-* [Summet — can i talk to you?](https://www.last.fm/music/Summet/_/can+i+talk+to+you%3F)
-* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)<!-- LASTFM:END -->
+* [Boshi Boi — Goth Girls On My Xbox](https://www.last.fm/music/Boshi+Boi/_/Goth+Girls+On+My+Xbox)
+* [r u s s e l b u c k — Just Be Competent](https://www.last.fm/music/r+u+s+s+e+l+b+u+c+k/_/Just+Be+Competent)
+* [Bandoum — port](https://www.last.fm/music/Bandoum/_/port)
+* [James Ivy — Snakes](https://www.last.fm/music/James+Ivy/_/Snakes)
+* [Miind — distraction](https://www.last.fm/music/Miind/_/distraction)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
