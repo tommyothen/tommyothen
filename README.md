@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
+* [Strawberry Hospital — Tacit](https://www.last.fm/music/Strawberry+Hospital/_/Tacit)
 * [Serialist — sometimes](https://www.last.fm/music/Serialist/_/sometimes)
-* [Yoursever — High Stakes](https://www.last.fm/music/Yoursever/_/High+Stakes)
-* [Erangerang — Nothing Changed](https://www.last.fm/music/Erangerang/_/Nothing+Changed)
-* [Nev Ver — Break Shit.](https://www.last.fm/music/Nev+Ver/_/Break+Shit.)
-* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)<!-- LASTFM:END -->
+* [Yoursever — High Stakes](https://www.last.fm/music/Yoursever/_/High+Stakes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
