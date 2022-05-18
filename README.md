@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vincente Void — Common Ground &lpar;feat. Damien Cane&rpar;](https://www.last.fm/music/Vincente+Void/_/Common+Ground+&lpar;feat.+Damien+Cane&rpar;)
+* [pierre XO — Let Me Explain](https://www.last.fm/music/pierre+XO/_/Let+Me+Explain)
 * [DYNE SIDE — Suite 8](https://www.last.fm/music/DYNE+SIDE/_/Suite+8)
 * [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)
-* [guesst — Thick Iron Fog](https://www.last.fm/music/guesst/_/Thick+Iron+Fog)
-* [Ivory Rasmus — what i&#39;ve become](https://www.last.fm/music/Ivory+Rasmus/_/what+i%27ve+become)
-* [Vincente Void — D.O.G.](https://www.last.fm/music/Vincente+Void/_/D.O.G.)<!-- LASTFM:END -->
+* [guesst — Thick Iron Fog](https://www.last.fm/music/guesst/_/Thick+Iron+Fog)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
