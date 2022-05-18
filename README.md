@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [abbot — Heartbreak](https://www.last.fm/music/abbot/_/Heartbreak)
+* [Belle — February](https://www.last.fm/music/Belle/_/February)
 * [sacha online — PRAY](https://www.last.fm/music/sacha+online/_/PRAY)
 * [Dbmk — City](https://www.last.fm/music/Dbmk/_/City)
-* [Vincente Void — February &lpar;feat. LUCIEL&rpar;](https://www.last.fm/music/Vincente+Void/_/February+&lpar;feat.+LUCIEL&rpar;)
-* [The Plastic Love — Sangria](https://www.last.fm/music/The+Plastic+Love/_/Sangria)
-* [CVLTE — Falling Apart](https://www.last.fm/music/CVLTE/_/Falling+Apart)<!-- LASTFM:END -->
+* [Vincente Void — February &lpar;feat. LUCIEL&rpar;](https://www.last.fm/music/Vincente+Void/_/February+&lpar;feat.+LUCIEL&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
