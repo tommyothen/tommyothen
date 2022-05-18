@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sonic Sea Turtles — Dancing](https://www.last.fm/music/Sonic+Sea+Turtles/_/Dancing)
+* [Dbmk — Haunted House](https://www.last.fm/music/Dbmk/_/Haunted+House)
+* [Vincente Void — no1 knows &lpar;feat. TSUN&rpar;](https://www.last.fm/music/Vincente+Void/_/no1+knows+&lpar;feat.+TSUN&rpar;)
 * [Fallen Pine — Sucker](https://www.last.fm/music/Fallen+Pine/_/Sucker)
-* [ABSRDST — Imaginary Friend](https://www.last.fm/music/ABSRDST/_/Imaginary+Friend)
-* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
-* [Gp. — Kill My Friends](https://www.last.fm/music/Gp./_/Kill+My+Friends)
-* [Happy Hour — Holding On](https://www.last.fm/music/Happy+Hour/_/Holding+On)<!-- LASTFM:END -->
+* [ABSRDST — Imaginary Friend](https://www.last.fm/music/ABSRDST/_/Imaginary+Friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
