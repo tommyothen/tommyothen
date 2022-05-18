@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fallen Pine — Sucker](https://www.last.fm/music/Fallen+Pine/_/Sucker)
+* [ABSRDST — Imaginary Friend](https://www.last.fm/music/ABSRDST/_/Imaginary+Friend)
 * [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
 * [Gp. — Kill My Friends](https://www.last.fm/music/Gp./_/Kill+My+Friends)
-* [Happy Hour — Holding On](https://www.last.fm/music/Happy+Hour/_/Holding+On)
-* [Vincente Void — Common Ground &lpar;feat. Damien Cane&rpar;](https://www.last.fm/music/Vincente+Void/_/Common+Ground+&lpar;feat.+Damien+Cane&rpar;)
-* [pierre XO — Let Me Explain](https://www.last.fm/music/pierre+XO/_/Let+Me+Explain)<!-- LASTFM:END -->
+* [Happy Hour — Holding On](https://www.last.fm/music/Happy+Hour/_/Holding+On)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
