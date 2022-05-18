@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
+* [Gp. — Kill My Friends](https://www.last.fm/music/Gp./_/Kill+My+Friends)
 * [Happy Hour — Holding On](https://www.last.fm/music/Happy+Hour/_/Holding+On)
 * [Vincente Void — Common Ground &lpar;feat. Damien Cane&rpar;](https://www.last.fm/music/Vincente+Void/_/Common+Ground+&lpar;feat.+Damien+Cane&rpar;)
-* [pierre XO — Let Me Explain](https://www.last.fm/music/pierre+XO/_/Let+Me+Explain)
-* [DYNE SIDE — Suite 8](https://www.last.fm/music/DYNE+SIDE/_/Suite+8)
-* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)<!-- LASTFM:END -->
+* [pierre XO — Let Me Explain](https://www.last.fm/music/pierre+XO/_/Let+Me+Explain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
