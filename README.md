@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MIYAVI — I’m So](https://www.last.fm/music/MIYAVI/_/I%E2%80%99m+So)
+* [Vincente Void — Necktie &lpar;feat. Lil HBK&rpar;](https://www.last.fm/music/Vincente+Void/_/Necktie+&lpar;feat.+Lil+HBK&rpar;)
+* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
 * [Hail Your Highness — Parallel](https://www.last.fm/music/Hail+Your+Highness/_/Parallel)
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Kane Lacey — She](https://www.last.fm/music/Kane+Lacey/_/She)
-* [Minshara — Gravity](https://www.last.fm/music/Minshara/_/Gravity)
-* [X LOVERS — Dreams Where Ur Murdered](https://www.last.fm/music/X+LOVERS/_/Dreams+Where+Ur+Murdered)<!-- LASTFM:END -->
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
