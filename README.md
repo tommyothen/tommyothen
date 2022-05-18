@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vincente Void — February &lpar;feat. LUCIEL&rpar;](https://www.last.fm/music/Vincente+Void/_/February+&lpar;feat.+LUCIEL&rpar;)
+* [The Plastic Love — Sangria](https://www.last.fm/music/The+Plastic+Love/_/Sangria)
 * [CVLTE — Falling Apart](https://www.last.fm/music/CVLTE/_/Falling+Apart)
 * [abbot — undermyskin](https://www.last.fm/music/abbot/_/undermyskin)
-* [MIYAVI — I’m So](https://www.last.fm/music/MIYAVI/_/I%E2%80%99m+So)
-* [Vincente Void — Necktie &lpar;feat. Lil HBK&rpar;](https://www.last.fm/music/Vincente+Void/_/Necktie+&lpar;feat.+Lil+HBK&rpar;)
-* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)<!-- LASTFM:END -->
+* [MIYAVI — I’m So](https://www.last.fm/music/MIYAVI/_/I%E2%80%99m+So)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
