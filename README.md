@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
-* [Eryn Martin — Ball](https://www.last.fm/music/Eryn+Martin/_/Ball)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
-* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)<!-- LASTFM:END -->
+* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
+* [Phantogram — Black Out Days](https://www.last.fm/music/Phantogram/_/Black+Out+Days)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [The Neighbourhood — Softcore](https://www.last.fm/music/The+Neighbourhood/_/Softcore)
+* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
