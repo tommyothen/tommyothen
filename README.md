@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
+* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
 * [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
 * [Lil Xtra — Sober](https://www.last.fm/music/Lil+Xtra/_/Sober)
-* [Sonic Sea Turtles — Dancing](https://www.last.fm/music/Sonic+Sea+Turtles/_/Dancing)
-* [Dbmk — Haunted House](https://www.last.fm/music/Dbmk/_/Haunted+House)
-* [Vincente Void — no1 knows &lpar;feat. TSUN&rpar;](https://www.last.fm/music/Vincente+Void/_/no1+knows+&lpar;feat.+TSUN&rpar;)<!-- LASTFM:END -->
+* [Sonic Sea Turtles — Dancing](https://www.last.fm/music/Sonic+Sea+Turtles/_/Dancing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
