@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
-* [KANDYTOWN — Local Area &lpar;feat. Gottz, Neetz &amp; KEIJU&rpar;](https://www.last.fm/music/KANDYTOWN/_/Local+Area+&lpar;feat.+Gottz,+Neetz+&amp;+KEIJU&rpar;)
-* [MGF — 湿った夜の儚き嵐](https://www.last.fm/music/MGF/_/%E6%B9%BF%E3%81%A3%E3%81%9F%E5%A4%9C%E3%81%AE%E5%84%9A%E3%81%8D%E5%B5%90)
-* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
-* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)<!-- LASTFM:END -->
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
+* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
+* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
+* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
+* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
