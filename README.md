@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Duckwrth — I&#39;M DEAD](https://www.last.fm/music/Duckwrth/_/I%27M+DEAD)
+* [Duckwrth — RUUUN](https://www.last.fm/music/Duckwrth/_/RUUUN)
+* [kEedFouR — Mi$ery](https://www.last.fm/music/kEedFouR/_/Mi$ery)
 * [SUPERFRUIT — GUY.exe](https://www.last.fm/music/SUPERFRUIT/_/GUY.exe)
-* [Dwilly — ugh!](https://www.last.fm/music/Dwilly/_/ugh!)
-* [Aim Vision — GET USED TO ME](https://www.last.fm/music/Aim+Vision/_/GET+USED+TO+ME)
-* [LOOΠΔ / ODD EYE CIRCLE — LOONATIC - Eng. Ver.](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/LOONATIC+-+Eng.+Ver.)
-* [Lando! — paranoid!](https://www.last.fm/music/Lando!/_/paranoid!)<!-- LASTFM:END -->
+* [Dwilly — ugh!](https://www.last.fm/music/Dwilly/_/ugh!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
