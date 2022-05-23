@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SUPERFRUIT — GUY.exe](https://www.last.fm/music/SUPERFRUIT/_/GUY.exe)
+* [Dwilly — ugh!](https://www.last.fm/music/Dwilly/_/ugh!)
 * [Aim Vision — GET USED TO ME](https://www.last.fm/music/Aim+Vision/_/GET+USED+TO+ME)
 * [LOOΠΔ / ODD EYE CIRCLE — LOONATIC - Eng. Ver.](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/LOONATIC+-+Eng.+Ver.)
-* [Lando! — paranoid!](https://www.last.fm/music/Lando!/_/paranoid!)
-* [Have a nice day! — わたしの名はブルー](https://www.last.fm/music/Have+a+nice+day!/_/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E5%90%8D%E3%81%AF%E3%83%96%E3%83%AB%E3%83%BC)
-* [1 800 PAIN — CRACK](https://www.last.fm/music/1+800+PAIN/_/CRACK)<!-- LASTFM:END -->
+* [Lando! — paranoid!](https://www.last.fm/music/Lando!/_/paranoid!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
