@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [No Potion — Lindsay Lohan Circa 2009](https://www.last.fm/music/No+Potion/_/Lindsay+Lohan+Circa+2009)
-* [Lord Aethelstan — TEARS IN WELSH RAIN](https://www.last.fm/music/Lord+Aethelstan/_/TEARS+IN+WELSH+RAIN)
-* [Freddie Dredd — CHA CHA](https://www.last.fm/music/Freddie+Dredd/_/CHA+CHA)
-* [Duckwrth — I&#39;M DEAD](https://www.last.fm/music/Duckwrth/_/I%27M+DEAD)
-* [Duckwrth — RUUUN](https://www.last.fm/music/Duckwrth/_/RUUUN)<!-- LASTFM:END -->
+* [$nigg — Myrtle Beach](https://www.last.fm/music/$nigg/_/Myrtle+Beach)
+* [LongStoryShort — Lost Summer](https://www.last.fm/music/LongStoryShort/_/Lost+Summer)
+* [シベール &lpar;Vo. Maika Loubte&rpar; — La ballade](https://www.last.fm/music/%E3%82%B7%E3%83%99%E3%83%BC%E3%83%AB+&lpar;Vo.+Maika+Loubte&rpar;/_/La+ballade)
+* [j $ensei — She Don&#39;t Sleep](https://www.last.fm/music/j+$ensei/_/She+Don%27t+Sleep)
+* [No Potion — Lindsay Lohan Circa 2009](https://www.last.fm/music/No+Potion/_/Lindsay+Lohan+Circa+2009)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
