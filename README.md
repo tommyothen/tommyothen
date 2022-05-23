@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lando! — paranoid!](https://www.last.fm/music/Lando!/_/paranoid!)
+* [Have a nice day! — わたしの名はブルー](https://www.last.fm/music/Have+a+nice+day!/_/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E5%90%8D%E3%81%AF%E3%83%96%E3%83%AB%E3%83%BC)
+* [1 800 PAIN — CRACK](https://www.last.fm/music/1+800+PAIN/_/CRACK)
 * [MoxiFloxi — Brat](https://www.last.fm/music/MoxiFloxi/_/Brat)
-* [Sewerslvt — Pretty Cvnt](https://www.last.fm/music/Sewerslvt/_/Pretty+Cvnt)
-* [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
-* [Louverture — DIGITAL CONGLOMERATE](https://www.last.fm/music/Louverture/_/DIGITAL+CONGLOMERATE)
-* [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)<!-- LASTFM:END -->
+* [Sewerslvt — Pretty Cvnt](https://www.last.fm/music/Sewerslvt/_/Pretty+Cvnt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
