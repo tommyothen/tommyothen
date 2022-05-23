@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lucian — Trip to California](https://www.last.fm/music/Lucian/_/Trip+to+California)
+* [Shinjuku Mad — Resistor](https://www.last.fm/music/Shinjuku+Mad/_/Resistor)
+* [Mario Judah — Miss The Rage](https://www.last.fm/music/Mario+Judah/_/Miss+The+Rage)
 * [Pseudo — End Up Dead](https://www.last.fm/music/Pseudo/_/End+Up+Dead)
-* [YOASOBI — 夜に駆ける](https://www.last.fm/music/YOASOBI/_/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B)
-* [$nigg — Myrtle Beach](https://www.last.fm/music/$nigg/_/Myrtle+Beach)
-* [LongStoryShort — Lost Summer](https://www.last.fm/music/LongStoryShort/_/Lost+Summer)
-* [シベール &lpar;Vo. Maika Loubte&rpar; — La ballade](https://www.last.fm/music/%E3%82%B7%E3%83%99%E3%83%BC%E3%83%AB+&lpar;Vo.+Maika+Loubte&rpar;/_/La+ballade)<!-- LASTFM:END -->
+* [YOASOBI — 夜に駆ける](https://www.last.fm/music/YOASOBI/_/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
