@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
 * [Louverture — DIGITAL CONGLOMERATE](https://www.last.fm/music/Louverture/_/DIGITAL+CONGLOMERATE)
 * [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)
 * [Kreayshawn — Missing Kitty](https://www.last.fm/music/Kreayshawn/_/Missing+Kitty)
-* [The Knocks — Bedroom Eyes &lpar;feat. Studio Killers&rpar;](https://www.last.fm/music/The+Knocks/_/Bedroom+Eyes+&lpar;feat.+Studio+Killers&rpar;)
-* [Mountain Johnson — Lost Umbrella](https://www.last.fm/music/Mountain+Johnson/_/Lost+Umbrella)<!-- LASTFM:END -->
+* [The Knocks — Bedroom Eyes &lpar;feat. Studio Killers&rpar;](https://www.last.fm/music/The+Knocks/_/Bedroom+Eyes+&lpar;feat.+Studio+Killers&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
