@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
 * [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
 * [Louverture — DIGITAL CONGLOMERATE](https://www.last.fm/music/Louverture/_/DIGITAL+CONGLOMERATE)
 * [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)
-* [Kreayshawn — Missing Kitty](https://www.last.fm/music/Kreayshawn/_/Missing+Kitty)
-* [The Knocks — Bedroom Eyes &lpar;feat. Studio Killers&rpar;](https://www.last.fm/music/The+Knocks/_/Bedroom+Eyes+&lpar;feat.+Studio+Killers&rpar;)<!-- LASTFM:END -->
+* [Kreayshawn — Missing Kitty](https://www.last.fm/music/Kreayshawn/_/Missing+Kitty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
