@@ -31,8 +31,8 @@ Now Playing\
 * [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
 * [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
 * [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
-* [Louverture — DIGITAL CONGLOMERATE](https://www.last.fm/music/Louverture/_/DIGITAL+CONGLOMERATE)
-* [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)<!-- LASTFM:END -->
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
+* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
