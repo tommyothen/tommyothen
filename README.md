@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
 * [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)
 * [Shinjuku Mad — Resistor](https://www.last.fm/music/Shinjuku+Mad/_/Resistor)
 * [Mario Judah — Miss The Rage](https://www.last.fm/music/Mario+Judah/_/Miss+The+Rage)
-* [Pseudo — End Up Dead](https://www.last.fm/music/Pseudo/_/End+Up+Dead)
-* [YOASOBI — 夜に駆ける](https://www.last.fm/music/YOASOBI/_/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B)<!-- LASTFM:END -->
+* [Pseudo — End Up Dead](https://www.last.fm/music/Pseudo/_/End+Up+Dead)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
