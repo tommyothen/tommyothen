@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [LOOΠΔ / ODD EYE CIRCLE — LOONATIC - Eng. Ver.](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/LOONATIC+-+Eng.+Ver.)
-* [Lando! — paranoid!](https://www.last.fm/music/Lando!/_/paranoid!)
-* [1 800 PAIN — CRACK](https://www.last.fm/music/1+800+PAIN/_/CRACK)
-* [MoxiFloxi — Brat](https://www.last.fm/music/MoxiFloxi/_/Brat)
-* [Sewerslvt — Pretty Cvnt](https://www.last.fm/music/Sewerslvt/_/Pretty+Cvnt)<!-- LASTFM:END -->
+* [Lord Aethelstan — TEARS IN WELSH RAIN](https://www.last.fm/music/Lord+Aethelstan/_/TEARS+IN+WELSH+RAIN)
+* [Freddie Dredd — CHA CHA](https://www.last.fm/music/Freddie+Dredd/_/CHA+CHA)
+* [Duckwrth — RUUUN](https://www.last.fm/music/Duckwrth/_/RUUUN)
+* [kEedFouR — Mi$ery](https://www.last.fm/music/kEedFouR/_/Mi$ery)
+* [SUPERFRUIT — GUY.exe](https://www.last.fm/music/SUPERFRUIT/_/GUY.exe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
