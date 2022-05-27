@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MoxiFloxi — Brat](https://www.last.fm/music/MoxiFloxi/_/Brat)
-* [Sewerslvt — Pretty Cvnt](https://www.last.fm/music/Sewerslvt/_/Pretty+Cvnt)
+* [DLB — биг тейсти](https://www.last.fm/music/DLB/_/%D0%B1%D0%B8%D0%B3+%D1%82%D0%B5%D0%B9%D1%81%D1%82%D0%B8)
 * [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
+* [Louverture — DIGITAL CONGLOMERATE](https://www.last.fm/music/Louverture/_/DIGITAL+CONGLOMERATE)
 * [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)
-* [Coa White — Akiba &lpar;feat. kosame &amp; Ohiorabbit&rpar;](https://www.last.fm/music/Coa+White/_/Akiba+&lpar;feat.+kosame+&amp;+Ohiorabbit&rpar;)<!-- LASTFM:END -->
+* [1 800 PAIN — CRACK](https://www.last.fm/music/1+800+PAIN/_/CRACK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
