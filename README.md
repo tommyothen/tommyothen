@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
+* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
 * [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
-* [DLB — биг тейсти](https://www.last.fm/music/DLB/_/%D0%B1%D0%B8%D0%B3+%D1%82%D0%B5%D0%B9%D1%81%D1%82%D0%B8)
-* [Astrophysics — soft goth](https://www.last.fm/music/Astrophysics/_/soft+goth)
-* [Louverture — DIGITAL CONGLOMERATE](https://www.last.fm/music/Louverture/_/DIGITAL+CONGLOMERATE)
-* [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)<!-- LASTFM:END -->
+* [DLB — биг тейсти](https://www.last.fm/music/DLB/_/%D0%B1%D0%B8%D0%B3+%D1%82%D0%B5%D0%B9%D1%81%D1%82%D0%B8)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
