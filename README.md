@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bixby — throw ur life away](https://www.last.fm/music/Bixby/_/throw+ur+life+away)
+* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
+* [8485 — skinz](https://www.last.fm/music/8485/_/skinz)
 * [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
-* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
-* [Softwilly — ZONIN](https://www.last.fm/music/Softwilly/_/ZONIN)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [6HOST — Collateral](https://www.last.fm/music/6HOST/_/Collateral)<!-- LASTFM:END -->
+* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
