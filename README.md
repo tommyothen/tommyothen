@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TSS — The Wrong Way](https://www.last.fm/music/TSS/_/The+Wrong+Way)
-* [DeLorean Black — It Girl](https://www.last.fm/music/DeLorean+Black/_/It+Girl)
-* [Life After Youth — 2](https://www.last.fm/music/Life+After+Youth/_/2)
-* [Inferiority Complex — Yours Sincerely](https://www.last.fm/music/Inferiority+Complex/_/Yours+Sincerely)
-* [Bin — children](https://www.last.fm/music/Bin/_/children)<!-- LASTFM:END -->
+* [Vincente Void — February &lpar;feat. LUCIEL&rpar;](https://www.last.fm/music/Vincente+Void/_/February+&lpar;feat.+LUCIEL&rpar;)
+* [s0cliché — Fifty Shades](https://www.last.fm/music/s0clich%C3%A9/_/Fifty+Shades)
+* [DanielFromSalem — Vampire](https://www.last.fm/music/DanielFromSalem/_/Vampire)
+* [X LOVERS — Dreams Where Ur Murdered](https://www.last.fm/music/X+LOVERS/_/Dreams+Where+Ur+Murdered)
+* [TSS — The Wrong Way](https://www.last.fm/music/TSS/_/The+Wrong+Way)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
