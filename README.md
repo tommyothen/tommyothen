@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
 * [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
-* [1 800 PAIN — CRACK](https://www.last.fm/music/1+800+PAIN/_/CRACK)
-* [1 800 PAIN — CRACK](https://www.last.fm/music/1+800+PAIN/_/CRACK)
 * [1 800 PAIN — CRACK](https://www.last.fm/music/1+800+PAIN/_/CRACK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
