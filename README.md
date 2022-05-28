@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [1 800 PAIN — CRACK](https://www.last.fm/music/1+800+PAIN/_/CRACK)
+* [Shawn Wasabi — tokyo tea &lpar;feat. Spacegirl Gemmy&rpar;](https://www.last.fm/music/Shawn+Wasabi/_/tokyo+tea+&lpar;feat.+Spacegirl+Gemmy&rpar;)
 * [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
 * [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
-* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
-* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
-* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)<!-- LASTFM:END -->
+* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
