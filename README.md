@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TSS — The Wrong Way](https://www.last.fm/music/TSS/_/The+Wrong+Way)
+* [DeLorean Black — It Girl](https://www.last.fm/music/DeLorean+Black/_/It+Girl)
+* [Life After Youth — 2](https://www.last.fm/music/Life+After+Youth/_/2)
 * [Inferiority Complex — Yours Sincerely](https://www.last.fm/music/Inferiority+Complex/_/Yours+Sincerely)
-* [Bin — children](https://www.last.fm/music/Bin/_/children)
-* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
-* [CVLTE — Happy. &lpar;feat. 釈迦坊主&rpar;](https://www.last.fm/music/CVLTE/_/Happy.+&lpar;feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB&rpar;)
-* [CVLTE — Happy. &lpar;feat. 釈迦坊主&rpar;](https://www.last.fm/music/CVLTE/_/Happy.+&lpar;feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB&rpar;)<!-- LASTFM:END -->
+* [Bin — children](https://www.last.fm/music/Bin/_/children)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
