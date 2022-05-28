@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [6HOST — Collateral](https://www.last.fm/music/6HOST/_/Collateral)
+* [Happy Hour — Already Dead](https://www.last.fm/music/Happy+Hour/_/Already+Dead)
 * [Vincente Void — February &lpar;feat. LUCIEL&rpar;](https://www.last.fm/music/Vincente+Void/_/February+&lpar;feat.+LUCIEL&rpar;)
-* [s0cliché — Fifty Shades](https://www.last.fm/music/s0clich%C3%A9/_/Fifty+Shades)
-* [DanielFromSalem — Vampire](https://www.last.fm/music/DanielFromSalem/_/Vampire)
-* [X LOVERS — Dreams Where Ur Murdered](https://www.last.fm/music/X+LOVERS/_/Dreams+Where+Ur+Murdered)
-* [TSS — The Wrong Way](https://www.last.fm/music/TSS/_/The+Wrong+Way)<!-- LASTFM:END -->
+* [s0cliché — Fifty Shades](https://www.last.fm/music/s0clich%C3%A9/_/Fifty+Shades)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
