@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
 * [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
 * [Softwilly — ZONIN](https://www.last.fm/music/Softwilly/_/ZONIN)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [6HOST — Collateral](https://www.last.fm/music/6HOST/_/Collateral)
-* [Happy Hour — Already Dead](https://www.last.fm/music/Happy+Hour/_/Already+Dead)<!-- LASTFM:END -->
+* [6HOST — Collateral](https://www.last.fm/music/6HOST/_/Collateral)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
