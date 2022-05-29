@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Avit — stuck-up](https://www.last.fm/music/Avit/_/stuck-up)
-* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)<!-- LASTFM:END -->
+* [Avit — fiction](https://www.last.fm/music/Avit/_/fiction)
+* [Avit — my savior](https://www.last.fm/music/Avit/_/my+savior)
+* [Avit — lilith](https://www.last.fm/music/Avit/_/lilith)
+* [Avit — goodbye](https://www.last.fm/music/Avit/_/goodbye)
+* [Avit — stuck-up](https://www.last.fm/music/Avit/_/stuck-up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
