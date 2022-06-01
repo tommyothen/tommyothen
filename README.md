@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
-* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
-* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
-* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
-* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)<!-- LASTFM:END -->
+* [minchanbaby — luzzy](https://www.last.fm/music/minchanbaby/_/luzzy)
+* [MedizenKid — Late Night Drive 2012](https://www.last.fm/music/MedizenKid/_/Late+Night+Drive+2012)
+* [Mamoru Miyano — Dream on](https://www.last.fm/music/Mamoru+Miyano/_/Dream+on)
+* [Too Asian — Castles](https://www.last.fm/music/Too+Asian/_/Castles)
+* [keshore — Sweet Coochie](https://www.last.fm/music/keshore/_/Sweet+Coochie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
