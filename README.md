@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
 * [A子 — drug](https://www.last.fm/music/A%E5%AD%90/_/drug)
 * [Jay Rock — King&#39;s Dead &lpar;with Kendrick Lamar, Future &amp; James Blake&rpar;](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+&lpar;with+Kendrick+Lamar,+Future+&amp;+James+Blake&rpar;)
 * [Omniboi — 1 Slash Million](https://www.last.fm/music/Omniboi/_/1+Slash+Million)
-* [Sunday Cruise — Test Run](https://www.last.fm/music/Sunday+Cruise/_/Test+Run)
-* [minchanbaby — luzzy](https://www.last.fm/music/minchanbaby/_/luzzy)<!-- LASTFM:END -->
+* [Sunday Cruise — Test Run](https://www.last.fm/music/Sunday+Cruise/_/Test+Run)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
