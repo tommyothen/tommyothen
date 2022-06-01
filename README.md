@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)
-* [YFU BABY — DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)
-* [Savage Ga$p — go bestie](https://www.last.fm/music/Savage+Ga$p/_/go+bestie)
-* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)
-* [YFU BABY — DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)<!-- LASTFM:END -->
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
+* [Limbo — Crown](https://www.last.fm/music/Limbo/_/Crown)
+* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
+* [Glass Beach — 1015](https://www.last.fm/music/Glass+Beach/_/1015)
+* [Ernest rareberrg — Tearing Me Apart](https://www.last.fm/music/Ernest+rareberrg/_/Tearing+Me+Apart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
