@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Omniboi — 1 Slash Million](https://www.last.fm/music/Omniboi/_/1+Slash+Million)
+* [Sunday Cruise — Test Run](https://www.last.fm/music/Sunday+Cruise/_/Test+Run)
 * [minchanbaby — luzzy](https://www.last.fm/music/minchanbaby/_/luzzy)
 * [MedizenKid — Late Night Drive 2012](https://www.last.fm/music/MedizenKid/_/Late+Night+Drive+2012)
-* [Mamoru Miyano — Dream on](https://www.last.fm/music/Mamoru+Miyano/_/Dream+on)
-* [Too Asian — Castles](https://www.last.fm/music/Too+Asian/_/Castles)
-* [keshore — Sweet Coochie](https://www.last.fm/music/keshore/_/Sweet+Coochie)<!-- LASTFM:END -->
+* [Mamoru Miyano — Dream on](https://www.last.fm/music/Mamoru+Miyano/_/Dream+on)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
