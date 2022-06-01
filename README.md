@@ -31,8 +31,8 @@ Now Playing\
 * [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)
 * [YFU BABY — DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)
 * [Savage Ga$p — go bestie](https://www.last.fm/music/Savage+Ga$p/_/go+bestie)
-* [Aaron Cartier — GETITRIGHTBACK](https://www.last.fm/music/Aaron+Cartier/_/GETITRIGHTBACK)
-* [Hitchhiker — Sugar](https://www.last.fm/music/Hitchhiker/_/Sugar)<!-- LASTFM:END -->
+* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)
+* [YFU BABY — DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
