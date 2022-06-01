@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Limbo — Crown](https://www.last.fm/music/Limbo/_/Crown)
-* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
-* [Glass Beach — 1015](https://www.last.fm/music/Glass+Beach/_/1015)
-* [Ernest rareberrg — Tearing Me Apart](https://www.last.fm/music/Ernest+rareberrg/_/Tearing+Me+Apart)
-* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)<!-- LASTFM:END -->
+* [jades — Meantime](https://www.last.fm/music/jades/_/Meantime)
+* [Carl Wheezer — All of Those!](https://www.last.fm/music/Carl+Wheezer/_/All+of+Those!)
+* [okayceci — falling on me](https://www.last.fm/music/okayceci/_/falling+on+me)
+* [A子 — drug](https://www.last.fm/music/A%E5%AD%90/_/drug)
+* [Omniboi — 1 Slash Million](https://www.last.fm/music/Omniboi/_/1+Slash+Million)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
