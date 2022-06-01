@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [minchanbaby — luzzy](https://www.last.fm/music/minchanbaby/_/luzzy)
-* [MedizenKid — Late Night Drive 2012](https://www.last.fm/music/MedizenKid/_/Late+Night+Drive+2012)
-* [Mamoru Miyano — Dream on](https://www.last.fm/music/Mamoru+Miyano/_/Dream+on)
-* [Too Asian — Castles](https://www.last.fm/music/Too+Asian/_/Castles)
-* [keshore — Sweet Coochie](https://www.last.fm/music/keshore/_/Sweet+Coochie)<!-- LASTFM:END -->
+* [Limbo — Crown](https://www.last.fm/music/Limbo/_/Crown)
+* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
+* [Glass Beach — 1015](https://www.last.fm/music/Glass+Beach/_/1015)
+* [Ernest rareberrg — Tearing Me Apart](https://www.last.fm/music/Ernest+rareberrg/_/Tearing+Me+Apart)
+* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
