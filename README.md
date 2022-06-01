@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mamoru Miyano — Dream on](https://www.last.fm/music/Mamoru+Miyano/_/Dream+on)
+* [Too Asian — Castles](https://www.last.fm/music/Too+Asian/_/Castles)
+* [keshore — Sweet Coochie](https://www.last.fm/music/keshore/_/Sweet+Coochie)
 * [spill tab — PISTOLWHIP](https://www.last.fm/music/spill+tab/_/PISTOLWHIP)
-* [UPTOWN BOYBAND — I GO &lpar;아이고&rpar;](https://www.last.fm/music/UPTOWN+BOYBAND/_/I+GO+&lpar;%EC%95%84%EC%9D%B4%EA%B3%A0&rpar;)
-* [Ash Blakk — ifellinlovewiththebeat](https://www.last.fm/music/Ash+Blakk/_/ifellinlovewiththebeat)
-* [Xowie Jones — UH OH!](https://www.last.fm/music/Xowie+Jones/_/UH+OH!)
-* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)<!-- LASTFM:END -->
+* [UPTOWN BOYBAND — I GO &lpar;아이고&rpar;](https://www.last.fm/music/UPTOWN+BOYBAND/_/I+GO+&lpar;%EC%95%84%EC%9D%B4%EA%B3%A0&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
