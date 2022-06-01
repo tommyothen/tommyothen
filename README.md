@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [jades — Meantime](https://www.last.fm/music/jades/_/Meantime)
-* [Carl Wheezer — All of Those!](https://www.last.fm/music/Carl+Wheezer/_/All+of+Those!)
-* [okayceci — falling on me](https://www.last.fm/music/okayceci/_/falling+on+me)
-* [A子 — drug](https://www.last.fm/music/A%E5%AD%90/_/drug)
-* [Omniboi — 1 Slash Million](https://www.last.fm/music/Omniboi/_/1+Slash+Million)<!-- LASTFM:END -->
+* [Mother Fortune — Winnie the Pooh](https://www.last.fm/music/Mother+Fortune/_/Winnie+the+Pooh)
+* [YFU BABY — DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)
+* [Savage Ga$p — go bestie](https://www.last.fm/music/Savage+Ga$p/_/go+bestie)
+* [Aaron Cartier — GETITRIGHTBACK](https://www.last.fm/music/Aaron+Cartier/_/GETITRIGHTBACK)
+* [Hitchhiker — Sugar](https://www.last.fm/music/Hitchhiker/_/Sugar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
