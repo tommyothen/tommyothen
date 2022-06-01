@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
-* [Limbo — Crown](https://www.last.fm/music/Limbo/_/Crown)
-* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
-* [Glass Beach — 1015](https://www.last.fm/music/Glass+Beach/_/1015)
-* [Ernest rareberrg — Tearing Me Apart](https://www.last.fm/music/Ernest+rareberrg/_/Tearing+Me+Apart)<!-- LASTFM:END -->
+* [spill tab — PISTOLWHIP](https://www.last.fm/music/spill+tab/_/PISTOLWHIP)
+* [UPTOWN BOYBAND — I GO &lpar;아이고&rpar;](https://www.last.fm/music/UPTOWN+BOYBAND/_/I+GO+&lpar;%EC%95%84%EC%9D%B4%EA%B3%A0&rpar;)
+* [Ash Blakk — ifellinlovewiththebeat](https://www.last.fm/music/Ash+Blakk/_/ifellinlovewiththebeat)
+* [Xowie Jones — UH OH!](https://www.last.fm/music/Xowie+Jones/_/UH+OH!)
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
