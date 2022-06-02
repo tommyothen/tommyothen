@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
-* [Coa White — Akiba &lpar;feat. kosame &amp; Ohiorabbit&rpar;](https://www.last.fm/music/Coa+White/_/Akiba+&lpar;feat.+kosame+&amp;+Ohiorabbit&rpar;)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
-* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)<!-- LASTFM:END -->
+* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
+* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
+* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
+* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
