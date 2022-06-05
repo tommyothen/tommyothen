@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joey Valence — Punk Tactics](https://www.last.fm/music/Joey+Valence/_/Punk+Tactics)
 * [Korn — Chi](https://www.last.fm/music/Korn/_/Chi)
 * [Korn — Twist](https://www.last.fm/music/Korn/_/Twist)
 * [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
-* [Coa White — Akiba &lpar;feat. kosame &amp; Ohiorabbit&rpar;](https://www.last.fm/music/Coa+White/_/Akiba+&lpar;feat.+kosame+&amp;+Ohiorabbit&rpar;)<!-- LASTFM:END -->
+* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
