@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — mona lisa](https://www.last.fm/music/mxmtoon/_/mona+lisa)
+* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
 * [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
 * [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [Lil Loski — Fiji &lpar;Bonus Track&rpar;](https://www.last.fm/music/Lil+Loski/_/Fiji+&lpar;Bonus+Track&rpar;)
-* [GARZI — Demonstrate](https://www.last.fm/music/GARZI/_/Demonstrate)
-* [Lil Tecca — Ransom](https://www.last.fm/music/Lil+Tecca/_/Ransom)<!-- LASTFM:END -->
+* [Lil Loski — Fiji &lpar;Bonus Track&rpar;](https://www.last.fm/music/Lil+Loski/_/Fiji+&lpar;Bonus+Track&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
