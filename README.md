@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ash-B — Part-Time](https://www.last.fm/music/Ash-B/_/Part-Time)
+* [Dori — 2 O&#39; CLOCK](https://www.last.fm/music/Dori/_/2+O%27+CLOCK)
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
 * [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [Jessi — ZOOM](https://www.last.fm/music/Jessi/_/ZOOM)
-* [Joey Valence — Punk Tactics](https://www.last.fm/music/Joey+Valence/_/Punk+Tactics)
-* [Ash Blakk — ifellinlovewiththebeat](https://www.last.fm/music/Ash+Blakk/_/ifellinlovewiththebeat)
-* [Xowie Jones — UH OH!](https://www.last.fm/music/Xowie+Jones/_/UH+OH!)<!-- LASTFM:END -->
+* [Jessi — ZOOM](https://www.last.fm/music/Jessi/_/ZOOM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
