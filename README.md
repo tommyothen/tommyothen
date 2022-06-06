@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
+* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
+* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
 * [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
-* [Joey Valence — Punk Tactics](https://www.last.fm/music/Joey+Valence/_/Punk+Tactics)
-* [REFUND SISTERS — DON&#39;T TOUCH ME](https://www.last.fm/music/REFUND+SISTERS/_/DON%27T+TOUCH+ME)
-* [D.Ark — Do My Best &lpar;Feat. Jessi&rpar; &lpar;Prod. Way Ched&rpar;](https://www.last.fm/music/D.Ark/_/Do+My+Best+&lpar;Feat.+Jessi&rpar;+&lpar;Prod.+Way+Ched&rpar;)
-* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)<!-- LASTFM:END -->
+* [Joey Valence — Punk Tactics](https://www.last.fm/music/Joey+Valence/_/Punk+Tactics)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
