@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YFU BABY — DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)
+* [Savage Ga$p — go bestie](https://www.last.fm/music/Savage+Ga$p/_/go+bestie)
+* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
 * [Joey Valence — Punk Tactics](https://www.last.fm/music/Joey+Valence/_/Punk+Tactics)
-* [Korn — Chi](https://www.last.fm/music/Korn/_/Chi)
-* [Korn — Twist](https://www.last.fm/music/Korn/_/Twist)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)<!-- LASTFM:END -->
+* [Korn — Chi](https://www.last.fm/music/Korn/_/Chi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
