@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ash Blakk — ifellinlovewiththebeat](https://www.last.fm/music/Ash+Blakk/_/ifellinlovewiththebeat)
 * [Xowie Jones — UH OH!](https://www.last.fm/music/Xowie+Jones/_/UH+OH!)
 * [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
 * [Limbo — Crown](https://www.last.fm/music/Limbo/_/Crown)
-* [YFU BABY — DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)
-* [Savage Ga$p — go bestie](https://www.last.fm/music/Savage+Ga$p/_/go+bestie)<!-- LASTFM:END -->
+* [YFU BABY — DE$IGN](https://www.last.fm/music/YFU+BABY/_/DE$IGN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
