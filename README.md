@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DAWN 던 — 던디리던 &lpar;feat. 제시&rpar;](https://www.last.fm/music/DAWN+%EB%8D%98/_/%EB%8D%98%EB%94%94%EB%A6%AC%EB%8D%98+&lpar;feat.+%EC%A0%9C%EC%8B%9C&rpar;)
+* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
 * [Ash-B — Part-Time](https://www.last.fm/music/Ash-B/_/Part-Time)
 * [Dori — 2 O&#39; CLOCK](https://www.last.fm/music/Dori/_/2+O%27+CLOCK)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [Jessi — ZOOM](https://www.last.fm/music/Jessi/_/ZOOM)<!-- LASTFM:END -->
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
