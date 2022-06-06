@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bang Yongguk — Up](https://www.last.fm/music/Bang+Yongguk/_/Up)
-* [TWICE — The Feels](https://www.last.fm/music/TWICE/_/The+Feels)
-* [Mirani — Can′t Slow Me Down](https://www.last.fm/music/Mirani/_/Can%E2%80%B2t+Slow+Me+Down)
-* [Ash-B — Do That Thang](https://www.last.fm/music/Ash-B/_/Do+That+Thang)
-* [Way Ched — EVERYTHING](https://www.last.fm/music/Way+Ched/_/EVERYTHING)<!-- LASTFM:END -->
+* [OMEGA X — LOVE ME LIKE](https://www.last.fm/music/OMEGA+X/_/LOVE+ME+LIKE)
+* [Ash-B — Yellow Gang](https://www.last.fm/music/Ash-B/_/Yellow+Gang)
+* [MAMADOL — WooAh HIP](https://www.last.fm/music/MAMADOL/_/WooAh+HIP)
+* [Ezuz — Twerk it](https://www.last.fm/music/Ezuz/_/Twerk+it)
+* [Bang Yongguk — Up](https://www.last.fm/music/Bang+Yongguk/_/Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
