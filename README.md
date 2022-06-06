@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [D.Ark — Do My Best &lpar;Feat. Jessi&rpar; &lpar;Prod. Way Ched&rpar;](https://www.last.fm/music/D.Ark/_/Do+My+Best+&lpar;Feat.+Jessi&rpar;+&lpar;Prod.+Way+Ched&rpar;)
+* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
+* [Ash-B — Booty &lpar;feat. Mckdaddy&rpar;](https://www.last.fm/music/Ash-B/_/Booty+&lpar;feat.+Mckdaddy&rpar;)
 * [Flowsik — 젖어&#39;S &lpar;Wet&rpar;](https://www.last.fm/music/Flowsik/_/%EC%A0%96%EC%96%B4%27S+&lpar;Wet&rpar;)
-* [Shala — Random Ass White Girl](https://www.last.fm/music/Shala/_/Random+Ass+White+Girl)
-* [Ramengvrl — FACTS](https://www.last.fm/music/Ramengvrl/_/FACTS)
-* [HELLOVENUS — Hellovenus 5th Single `위글위글`](https://www.last.fm/music/HELLOVENUS/_/Hellovenus+5th+Single+%60%EC%9C%84%EA%B8%80%EC%9C%84%EA%B8%80%60)
-* [Coldin — Romantic Devil](https://www.last.fm/music/Coldin/_/Romantic+Devil)<!-- LASTFM:END -->
+* [Shala — Random Ass White Girl](https://www.last.fm/music/Shala/_/Random+Ass+White+Girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
