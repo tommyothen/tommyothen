@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Coldin — Romantic Devil](https://www.last.fm/music/Coldin/_/Romantic+Devil)
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
-* [Loona — PTT &lpar;Paint the Town&rpar;](https://www.last.fm/music/Loona/_/PTT+&lpar;Paint+the+Town&rpar;)
-* [OMEGA X — LOVE ME LIKE](https://www.last.fm/music/OMEGA+X/_/LOVE+ME+LIKE)
-* [Ash-B — Yellow Gang](https://www.last.fm/music/Ash-B/_/Yellow+Gang)<!-- LASTFM:END -->
+* [Flowsik — 젖어&#39;S &lpar;Wet&rpar;](https://www.last.fm/music/Flowsik/_/%EC%A0%96%EC%96%B4%27S+&lpar;Wet&rpar;)
+* [Shala — Random Ass White Girl](https://www.last.fm/music/Shala/_/Random+Ass+White+Girl)
+* [Ramengvrl — FACTS](https://www.last.fm/music/Ramengvrl/_/FACTS)
+* [HELLOVENUS — Hellovenus 5th Single `위글위글`](https://www.last.fm/music/HELLOVENUS/_/Hellovenus+5th+Single+%60%EC%9C%84%EA%B8%80%EC%9C%84%EA%B8%80%60)
+* [Coldin — Romantic Devil](https://www.last.fm/music/Coldin/_/Romantic+Devil)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
