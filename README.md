@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Coldin — Romantic Devil](https://www.last.fm/music/Coldin/_/Romantic+Devil)
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
+* [Loona — PTT &lpar;Paint the Town&rpar;](https://www.last.fm/music/Loona/_/PTT+&lpar;Paint+the+Town&rpar;)
 * [OMEGA X — LOVE ME LIKE](https://www.last.fm/music/OMEGA+X/_/LOVE+ME+LIKE)
-* [Ash-B — Yellow Gang](https://www.last.fm/music/Ash-B/_/Yellow+Gang)
-* [MAMADOL — WooAh HIP](https://www.last.fm/music/MAMADOL/_/WooAh+HIP)
-* [Ezuz — Twerk it](https://www.last.fm/music/Ezuz/_/Twerk+it)
-* [Bang Yongguk — Up](https://www.last.fm/music/Bang+Yongguk/_/Up)<!-- LASTFM:END -->
+* [Ash-B — Yellow Gang](https://www.last.fm/music/Ash-B/_/Yellow+Gang)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
