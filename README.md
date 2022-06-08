@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [STEFAN THEV — ghouls! zombies! skeletons!](https://www.last.fm/music/STEFAN+THEV/_/ghouls!+zombies!+skeletons!)
-* [Nikitata — ДРЕССКОД](https://www.last.fm/music/Nikitata/_/%D0%94%D0%A0%D0%95%D0%A1%D0%A1%D0%9A%D0%9E%D0%94)
-* [Starkids — FLASH](https://www.last.fm/music/Starkids/_/FLASH)
-* [Chester Lockhart — Bound](https://www.last.fm/music/Chester+Lockhart/_/Bound)
-* [emotegi — earth](https://www.last.fm/music/emotegi/_/earth)<!-- LASTFM:END -->
+* [dasu — 5 O](https://www.last.fm/music/dasu/_/5+O)
+* [Rozz Dyliams — the day you lost your voice](https://www.last.fm/music/Rozz+Dyliams/_/the+day+you+lost+your+voice)
+* [Stafford Beats — Temporary](https://www.last.fm/music/Stafford+Beats/_/Temporary)
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
+* [I&#39;m Geist — staying on pace](https://www.last.fm/music/I%27m+Geist/_/staying+on+pace)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
