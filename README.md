@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [STEFAN THEV — ghouls! zombies! skeletons!](https://www.last.fm/music/STEFAN+THEV/_/ghouls!+zombies!+skeletons!)
+* [Nikitata — ДРЕССКОД](https://www.last.fm/music/Nikitata/_/%D0%94%D0%A0%D0%95%D0%A1%D0%A1%D0%9A%D0%9E%D0%94)
+* [Starkids — FLASH](https://www.last.fm/music/Starkids/_/FLASH)
 * [Chester Lockhart — Bound](https://www.last.fm/music/Chester+Lockhart/_/Bound)
-* [emotegi — earth](https://www.last.fm/music/emotegi/_/earth)
-* [Haru Nemuri — 愛よりたしかなものなんてない](https://www.last.fm/music/Haru+Nemuri/_/%E6%84%9B%E3%82%88%E3%82%8A%E3%81%9F%E3%81%97%E3%81%8B%E3%81%AA%E3%82%82%E3%81%AE%E3%81%AA%E3%82%93%E3%81%A6%E3%81%AA%E3%81%84)
-* [Desolate — Missingno. &lpar;177013&rpar;](https://www.last.fm/music/Desolate/_/Missingno.+&lpar;177013&rpar;)
-* [Riley — Under Pressure &lpar;feat. Chase Atlantic&rpar;](https://www.last.fm/music/Riley/_/Under+Pressure+&lpar;feat.+Chase+Atlantic&rpar;)<!-- LASTFM:END -->
+* [emotegi — earth](https://www.last.fm/music/emotegi/_/earth)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
