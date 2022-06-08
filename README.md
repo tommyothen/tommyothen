@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [wifi mami — Strawb3rry Sh0rtcak3](https://www.last.fm/music/wifi+mami/_/Strawb3rry+Sh0rtcak3)
+* [Baba — Club Baba](https://www.last.fm/music/Baba/_/Club+Baba)
+* [Kyunchi — Lice](https://www.last.fm/music/Kyunchi/_/Lice)
 * [Три Дня Дождя — Демоны](https://www.last.fm/music/%D0%A2%D1%80%D0%B8+%D0%94%D0%BD%D1%8F+%D0%94%D0%BE%D0%B6%D0%B4%D1%8F/_/%D0%94%D0%B5%D0%BC%D0%BE%D0%BD%D1%8B)
-* [willow.x — scared of myself](https://www.last.fm/music/willow.x/_/scared+of+myself)
-* [Hadji Gaviota — 1-800-PUR-GTRY](https://www.last.fm/music/Hadji+Gaviota/_/1-800-PUR-GTRY)
-* [Kamaara — Dr0nched In Sw0t](https://www.last.fm/music/Kamaara/_/Dr0nched+In+Sw0t)
-* [STEFAN THEV — ghouls! zombies! skeletons!](https://www.last.fm/music/STEFAN+THEV/_/ghouls!+zombies!+skeletons!)<!-- LASTFM:END -->
+* [willow.x — scared of myself](https://www.last.fm/music/willow.x/_/scared+of+myself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
