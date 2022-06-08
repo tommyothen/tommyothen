@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kamaara — Dr0nched In Sw0t](https://www.last.fm/music/Kamaara/_/Dr0nched+In+Sw0t)
 * [STEFAN THEV — ghouls! zombies! skeletons!](https://www.last.fm/music/STEFAN+THEV/_/ghouls!+zombies!+skeletons!)
 * [Nikitata — ДРЕССКОД](https://www.last.fm/music/Nikitata/_/%D0%94%D0%A0%D0%95%D0%A1%D0%A1%D0%9A%D0%9E%D0%94)
 * [Starkids — FLASH](https://www.last.fm/music/Starkids/_/FLASH)
-* [Chester Lockhart — Bound](https://www.last.fm/music/Chester+Lockhart/_/Bound)
-* [emotegi — earth](https://www.last.fm/music/emotegi/_/earth)<!-- LASTFM:END -->
+* [Chester Lockhart — Bound](https://www.last.fm/music/Chester+Lockhart/_/Bound)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
