@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
+* [J. Cole — m y . l i f e &lpar;with 21 Savage &amp; Morray&rpar;](https://www.last.fm/music/J.+Cole/_/m+y+.+l+i+f+e+&lpar;with+21+Savage+&amp;+Morray&rpar;)
 * [Jack Harlow — First Class](https://www.last.fm/music/Jack+Harlow/_/First+Class)
 * [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [Rainbow Kitten Surprise — It&#39;s Called: Freefall](https://www.last.fm/music/Rainbow+Kitten+Surprise/_/It%27s+Called:+Freefall)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [Casper — MIESES LEBEN / WOLKEN &lpar;feat. Haiyti&rpar;](https://www.last.fm/music/Casper/_/MIESES+LEBEN+%2F+WOLKEN+&lpar;feat.+Haiyti&rpar;)<!-- LASTFM:END -->
+* [Rainbow Kitten Surprise — It&#39;s Called: Freefall](https://www.last.fm/music/Rainbow+Kitten+Surprise/_/It%27s+Called:+Freefall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
