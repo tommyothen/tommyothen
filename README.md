@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Timmy Trumpet — Punjabi](https://www.last.fm/music/Timmy+Trumpet/_/Punjabi)
-* [Panjabi MC — Mundian To Bach Ke &lpar;Beware of the Boys - Jay Z Remix&rpar;](https://www.last.fm/music/Panjabi+MC/_/Mundian+To+Bach+Ke+&lpar;Beware+of+the+Boys+-+Jay+Z+Remix&rpar;)
-* [Panjabi MC — Mundian to Bach Ke](https://www.last.fm/music/Panjabi+MC/_/Mundian+to+Bach+Ke)
-* [Kylie Minogue — Can&#39;t Get You Out of My Head](https://www.last.fm/music/Kylie+Minogue/_/Can%27t+Get+You+Out+of+My+Head)
-* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)<!-- LASTFM:END -->
+* [STEFAN THEV — ghouls! zombies! skeletons!](https://www.last.fm/music/STEFAN+THEV/_/ghouls!+zombies!+skeletons!)
+* [Nikitata — ДРЕССКОД](https://www.last.fm/music/Nikitata/_/%D0%94%D0%A0%D0%95%D0%A1%D0%A1%D0%9A%D0%9E%D0%94)
+* [Starkids — FLASH](https://www.last.fm/music/Starkids/_/FLASH)
+* [Chester Lockhart — Bound](https://www.last.fm/music/Chester+Lockhart/_/Bound)
+* [emotegi — earth](https://www.last.fm/music/emotegi/_/earth)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
