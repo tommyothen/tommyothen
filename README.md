@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DeFalco — mr brightside](https://www.last.fm/music/DeFalco/_/mr+brightside)
+* [death&#39;s dynamic shroud — CD Player, Pt. III](https://www.last.fm/music/death%27s+dynamic+shroud/_/CD+Player,+Pt.+III)
 * [wifi mami — Strawb3rry Sh0rtcak3](https://www.last.fm/music/wifi+mami/_/Strawb3rry+Sh0rtcak3)
 * [Baba — Club Baba](https://www.last.fm/music/Baba/_/Club+Baba)
-* [Kyunchi — Lice](https://www.last.fm/music/Kyunchi/_/Lice)
-* [Три Дня Дождя — Демоны](https://www.last.fm/music/%D0%A2%D1%80%D0%B8+%D0%94%D0%BD%D1%8F+%D0%94%D0%BE%D0%B6%D0%B4%D1%8F/_/%D0%94%D0%B5%D0%BC%D0%BE%D0%BD%D1%8B)
-* [willow.x — scared of myself](https://www.last.fm/music/willow.x/_/scared+of+myself)<!-- LASTFM:END -->
+* [Kyunchi — Lice](https://www.last.fm/music/Kyunchi/_/Lice)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
