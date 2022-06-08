@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
+* [Cafuné — Tek It - Sped Up](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It+-+Sped+Up)
+* [Doja Cat — Celebrity Skin](https://www.last.fm/music/Doja+Cat/_/Celebrity+Skin)
 * [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [Aries — bounty hunter](https://www.last.fm/music/Aries/_/bounty+hunter)
-* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [Sam Lans! — The Cure](https://www.last.fm/music/Sam+Lans!/_/The+Cure)<!-- LASTFM:END -->
+* [Aries — bounty hunter](https://www.last.fm/music/Aries/_/bounty+hunter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
