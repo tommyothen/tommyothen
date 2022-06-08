@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [dasu — 5 O](https://www.last.fm/music/dasu/_/5+O)
+* [Rozz Dyliams — the day you lost your voice](https://www.last.fm/music/Rozz+Dyliams/_/the+day+you+lost+your+voice)
 * [Stafford Beats — Temporary](https://www.last.fm/music/Stafford+Beats/_/Temporary)
 * [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [I&#39;m Geist — staying on pace](https://www.last.fm/music/I%27m+Geist/_/staying+on+pace)
-* [vvpskvd. — めちゃくちゃ](https://www.last.fm/music/vvpskvd./_/%E3%82%81%E3%81%A1%E3%82%83%E3%81%8F%E3%81%A1%E3%82%83)
-* [DeFalco — mr brightside](https://www.last.fm/music/DeFalco/_/mr+brightside)<!-- LASTFM:END -->
+* [I&#39;m Geist — staying on pace](https://www.last.fm/music/I%27m+Geist/_/staying+on+pace)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
