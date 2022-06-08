@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chester Lockhart — Bound](https://www.last.fm/music/Chester+Lockhart/_/Bound)
+* [emotegi — earth](https://www.last.fm/music/emotegi/_/earth)
+* [Haru Nemuri — 愛よりたしかなものなんてない](https://www.last.fm/music/Haru+Nemuri/_/%E6%84%9B%E3%82%88%E3%82%8A%E3%81%9F%E3%81%97%E3%81%8B%E3%81%AA%E3%82%82%E3%81%AE%E3%81%AA%E3%82%93%E3%81%A6%E3%81%AA%E3%81%84)
 * [Desolate — Missingno. &lpar;177013&rpar;](https://www.last.fm/music/Desolate/_/Missingno.+&lpar;177013&rpar;)
-* [Riley — Under Pressure &lpar;feat. Chase Atlantic&rpar;](https://www.last.fm/music/Riley/_/Under+Pressure+&lpar;feat.+Chase+Atlantic&rpar;)
-* [Bronze — pa$ the time](https://www.last.fm/music/Bronze/_/pa$+the+time)
-* [CURTIS WATERS — MANIC MAN](https://www.last.fm/music/CURTIS+WATERS/_/MANIC+MAN)
-* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)<!-- LASTFM:END -->
+* [Riley — Under Pressure &lpar;feat. Chase Atlantic&rpar;](https://www.last.fm/music/Riley/_/Under+Pressure+&lpar;feat.+Chase+Atlantic&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
