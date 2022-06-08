@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Leith Ross — we&#39;ll never have sex](https://www.last.fm/music/Leith+Ross/_/we%27ll+never+have+sex)
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
+* [DeZi — Venus in Gemini](https://www.last.fm/music/DeZi/_/Venus+in+Gemini)
 * [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [Paquin — Chandelier](https://www.last.fm/music/Paquin/_/Chandelier)
-* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
+* [Paquin — Chandelier](https://www.last.fm/music/Paquin/_/Chandelier)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
