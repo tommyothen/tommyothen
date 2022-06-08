@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Leith Ross — we&#39;ll never have sex](https://www.last.fm/music/Leith+Ross/_/we%27ll+never+have+sex)
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
-* [DeZi — Venus in Gemini](https://www.last.fm/music/DeZi/_/Venus+in+Gemini)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [Paquin — Chandelier](https://www.last.fm/music/Paquin/_/Chandelier)<!-- LASTFM:END -->
+* [Rainbow Kitten Surprise — It&#39;s Called: Freefall](https://www.last.fm/music/Rainbow+Kitten+Surprise/_/It%27s+Called:+Freefall)
+* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
+* [Casper — MIESES LEBEN / WOLKEN &lpar;feat. Haiyti&rpar;](https://www.last.fm/music/Casper/_/MIESES+LEBEN+%2F+WOLKEN+&lpar;feat.+Haiyti&rpar;)
+* [Starmaxx — Patient Zero](https://www.last.fm/music/Starmaxx/_/Patient+Zero)
+* [Leith Ross — we&#39;ll never have sex](https://www.last.fm/music/Leith+Ross/_/we%27ll+never+have+sex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
