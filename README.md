@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
 * [Alice Gas — CONTACT](https://www.last.fm/music/Alice+Gas/_/CONTACT)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [dante red — HahahaDie](https://www.last.fm/music/dante+red/_/HahahaDie)
-* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
-* [K.Flay — High Enough](https://www.last.fm/music/K.Flay/_/High+Enough)<!-- LASTFM:END -->
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
