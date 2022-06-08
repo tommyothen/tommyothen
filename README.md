@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Три Дня Дождя — Демоны](https://www.last.fm/music/%D0%A2%D1%80%D0%B8+%D0%94%D0%BD%D1%8F+%D0%94%D0%BE%D0%B6%D0%B4%D1%8F/_/%D0%94%D0%B5%D0%BC%D0%BE%D0%BD%D1%8B)
+* [willow.x — scared of myself](https://www.last.fm/music/willow.x/_/scared+of+myself)
 * [Hadji Gaviota — 1-800-PUR-GTRY](https://www.last.fm/music/Hadji+Gaviota/_/1-800-PUR-GTRY)
 * [Kamaara — Dr0nched In Sw0t](https://www.last.fm/music/Kamaara/_/Dr0nched+In+Sw0t)
-* [STEFAN THEV — ghouls! zombies! skeletons!](https://www.last.fm/music/STEFAN+THEV/_/ghouls!+zombies!+skeletons!)
-* [Nikitata — ДРЕССКОД](https://www.last.fm/music/Nikitata/_/%D0%94%D0%A0%D0%95%D0%A1%D0%A1%D0%9A%D0%9E%D0%94)
-* [Starkids — FLASH](https://www.last.fm/music/Starkids/_/FLASH)<!-- LASTFM:END -->
+* [STEFAN THEV — ghouls! zombies! skeletons!](https://www.last.fm/music/STEFAN+THEV/_/ghouls!+zombies!+skeletons!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
