@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
+* [Aries — bounty hunter](https://www.last.fm/music/Aries/_/bounty+hunter)
 * [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
 * [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [Sam Lans! — The Cure](https://www.last.fm/music/Sam+Lans!/_/The+Cure)
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
-* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)<!-- LASTFM:END -->
+* [Sam Lans! — The Cure](https://www.last.fm/music/Sam+Lans!/_/The+Cure)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
