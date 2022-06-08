@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Desolate — Missingno. &lpar;177013&rpar;](https://www.last.fm/music/Desolate/_/Missingno.+&lpar;177013&rpar;)
+* [Riley — Under Pressure &lpar;feat. Chase Atlantic&rpar;](https://www.last.fm/music/Riley/_/Under+Pressure+&lpar;feat.+Chase+Atlantic&rpar;)
+* [Bronze — pa$ the time](https://www.last.fm/music/Bronze/_/pa$+the+time)
 * [CURTIS WATERS — MANIC MAN](https://www.last.fm/music/CURTIS+WATERS/_/MANIC+MAN)
-* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
-* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
-* [Donatachi — B2B Heartbeat](https://www.last.fm/music/Donatachi/_/B2B+Heartbeat)
-* [Fats&#39;e — picking myself up again](https://www.last.fm/music/Fats%27e/_/picking+myself+up+again)<!-- LASTFM:END -->
+* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
