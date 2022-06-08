@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [girl in red — Serotonin](https://www.last.fm/music/girl+in+red/_/Serotonin)
-* [The Front Bottoms — Twin Size Mattress](https://www.last.fm/music/The+Front+Bottoms/_/Twin+Size+Mattress)
-* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
-* [The Mountain Goats — No Children](https://www.last.fm/music/The+Mountain+Goats/_/No+Children)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)<!-- LASTFM:END -->
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
+* [Phoebe Bridgers — I Know the End](https://www.last.fm/music/Phoebe+Bridgers/_/I+Know+the+End)
+* [girl in red — Serotonin](https://www.last.fm/music/girl+in+red/_/Serotonin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
