@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
+* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
 * [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
 * [Cafuné — Tek It - Sped Up](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It+-+Sped+Up)
-* [Doja Cat — Celebrity Skin](https://www.last.fm/music/Doja+Cat/_/Celebrity+Skin)
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [Aries — bounty hunter](https://www.last.fm/music/Aries/_/bounty+hunter)<!-- LASTFM:END -->
+* [Doja Cat — Celebrity Skin](https://www.last.fm/music/Doja+Cat/_/Celebrity+Skin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
