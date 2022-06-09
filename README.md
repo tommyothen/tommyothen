@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Stafford Beats — Temporary](https://www.last.fm/music/Stafford+Beats/_/Temporary)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [I&#39;m Geist — staying on pace](https://www.last.fm/music/I%27m+Geist/_/staying+on+pace)
-* [vvpskvd. — めちゃくちゃ](https://www.last.fm/music/vvpskvd./_/%E3%82%81%E3%81%A1%E3%82%83%E3%81%8F%E3%81%A1%E3%82%83)
-* [DeFalco — mr brightside](https://www.last.fm/music/DeFalco/_/mr+brightside)<!-- LASTFM:END -->
+* [Riley — Under Pressure &lpar;feat. Chase Atlantic&rpar;](https://www.last.fm/music/Riley/_/Under+Pressure+&lpar;feat.+Chase+Atlantic&rpar;)
+* [Bronze — pa$ the time](https://www.last.fm/music/Bronze/_/pa$+the+time)
+* [CURTIS WATERS — MANIC MAN](https://www.last.fm/music/CURTIS+WATERS/_/MANIC+MAN)
+* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
+* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
