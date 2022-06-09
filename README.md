@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
+* [Joey Valence — Punk Tactics](https://www.last.fm/music/Joey+Valence/_/Punk+Tactics)
+* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
 * [Jessi — ZOOM](https://www.last.fm/music/Jessi/_/ZOOM)
-* [Riley — Under Pressure &lpar;feat. Chase Atlantic&rpar;](https://www.last.fm/music/Riley/_/Under+Pressure+&lpar;feat.+Chase+Atlantic&rpar;)
-* [Bronze — pa$ the time](https://www.last.fm/music/Bronze/_/pa$+the+time)
-* [CURTIS WATERS — MANIC MAN](https://www.last.fm/music/CURTIS+WATERS/_/MANIC+MAN)
-* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)<!-- LASTFM:END -->
+* [Riley — Under Pressure &lpar;feat. Chase Atlantic&rpar;](https://www.last.fm/music/Riley/_/Under+Pressure+&lpar;feat.+Chase+Atlantic&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
