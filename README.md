@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
-* [Alice Longyu Gao — 100 Boyfriends](https://www.last.fm/music/Alice+Longyu+Gao/_/100+Boyfriends)
-* [Flavia — Ripe](https://www.last.fm/music/Flavia/_/Ripe)
-* [Eryn Martin — KID](https://www.last.fm/music/Eryn+Martin/_/KID)<!-- LASTFM:END -->
+* [Avit — stuck-up](https://www.last.fm/music/Avit/_/stuck-up)
+* [brb. — move](https://www.last.fm/music/brb./_/move)
+* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
+* [Angelus — revenge](https://www.last.fm/music/Angelus/_/revenge)
+* [Alice Gas — leg room](https://www.last.fm/music/Alice+Gas/_/leg+room)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
