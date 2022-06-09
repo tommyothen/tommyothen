@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
-* [Alice Gas — CONTACT](https://www.last.fm/music/Alice+Gas/_/CONTACT)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)<!-- LASTFM:END -->
+* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
+* [Alice Longyu Gao — 100 Boyfriends](https://www.last.fm/music/Alice+Longyu+Gao/_/100+Boyfriends)
+* [Flavia — Ripe](https://www.last.fm/music/Flavia/_/Ripe)
+* [Eryn Martin — KID](https://www.last.fm/music/Eryn+Martin/_/KID)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
