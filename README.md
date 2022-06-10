@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ferdous — Gravity](https://www.last.fm/music/Ferdous/_/Gravity)
+* [acloudyskye — Downfall](https://www.last.fm/music/acloudyskye/_/Downfall)
 * [vowl. — headlock](https://www.last.fm/music/vowl./_/headlock)
 * [Delto — 4get](https://www.last.fm/music/Delto/_/4get)
-* [Harmful Logic — 100PERCENTFEELINGS](https://www.last.fm/music/Harmful+Logic/_/100PERCENTFEELINGS)
-* [TOKYOPILL — Cyber Psyche Green](https://www.last.fm/music/TOKYOPILL/_/Cyber+Psyche+Green)
-* [4cf — Jade](https://www.last.fm/music/4cf/_/Jade)<!-- LASTFM:END -->
+* [Harmful Logic — 100PERCENTFEELINGS](https://www.last.fm/music/Harmful+Logic/_/100PERCENTFEELINGS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
