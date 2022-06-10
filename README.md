@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [38KEA — Head Start](https://www.last.fm/music/38KEA/_/Head+Start)
-* [Passing Currents — &#39;BIMMER&#39;](https://www.last.fm/music/Passing+Currents/_/%27BIMMER%27)
-* [Starjunk 95 — Infinite Waves](https://www.last.fm/music/Starjunk+95/_/Infinite+Waves)
-* [TOKYOPILL — ESCape](https://www.last.fm/music/TOKYOPILL/_/ESCape)
-* [Ferdous — Gravity](https://www.last.fm/music/Ferdous/_/Gravity)<!-- LASTFM:END -->
+* [Layen_ — Shelter In Place](https://www.last.fm/music/Layen_/_/Shelter+In+Place)
+* [DOWNHILL2k01 — Lost In Cyberspace](https://www.last.fm/music/DOWNHILL2k01/_/Lost+In+Cyberspace)
+* [Starjunk 95 — Ocean&#39;s End](https://www.last.fm/music/Starjunk+95/_/Ocean%27s+End)
+* [yvncc — don&#39;t do it](https://www.last.fm/music/yvncc/_/don%27t+do+it)
+* [TOKYOPILL — Let&#39;s All Love Lain](https://www.last.fm/music/TOKYOPILL/_/Let%27s+All+Love+Lain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
