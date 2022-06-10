@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bliss3three — rosy&#39;s aqua garden of pure love and ecstasy](https://www.last.fm/music/bliss3three/_/rosy%27s+aqua+garden+of+pure+love+and+ecstasy)
+* [strxwberrymilk — Agoraphobia](https://www.last.fm/music/strxwberrymilk/_/Agoraphobia)
 * [TOKYOPILL — CULT MEMBERS ONLY](https://www.last.fm/music/TOKYOPILL/_/CULT+MEMBERS+ONLY)
 * [kmoe — peroxide](https://www.last.fm/music/kmoe/_/peroxide)
-* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)
-* [Pearly Drops — Smokescreen](https://www.last.fm/music/Pearly+Drops/_/Smokescreen)
-* [death&#39;s dynamic shroud — 너 땜에 맘이 맘이 맘이 맘이 괴로워요](https://www.last.fm/music/death%27s+dynamic+shroud/_/%EB%84%88+%EB%95%9C%EC%97%90+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EA%B4%B4%EB%A1%9C%EC%9B%8C%EC%9A%94)<!-- LASTFM:END -->
+* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
