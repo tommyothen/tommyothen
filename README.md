@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [death&#39;s dynamic shroud — 너 땜에 맘이 맘이 맘이 맘이 괴로워요](https://www.last.fm/music/death%27s+dynamic+shroud/_/%EB%84%88+%EB%95%9C%EC%97%90+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EA%B4%B4%EB%A1%9C%EC%9B%8C%EC%9A%94)
-* [Astrophysics — you&#39;re killing me](https://www.last.fm/music/Astrophysics/_/you%27re+killing+me)
-* [TOKYOPILL — Destroy The WIRED](https://www.last.fm/music/TOKYOPILL/_/Destroy+The+WIRED)
-* [emotegi — earth](https://www.last.fm/music/emotegi/_/earth)
-* [Angelus — hope u doing well](https://www.last.fm/music/Angelus/_/hope+u+doing+well)<!-- LASTFM:END -->
+* [TOKYOPILL — CULT MEMBERS ONLY](https://www.last.fm/music/TOKYOPILL/_/CULT+MEMBERS+ONLY)
+* [kmoe — peroxide](https://www.last.fm/music/kmoe/_/peroxide)
+* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)
+* [Pearly Drops — Smokescreen](https://www.last.fm/music/Pearly+Drops/_/Smokescreen)
+* [death&#39;s dynamic shroud — 너 땜에 맘이 맘이 맘이 맘이 괴로워요](https://www.last.fm/music/death%27s+dynamic+shroud/_/%EB%84%88+%EB%95%9C%EC%97%90+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EB%A7%98%EC%9D%B4+%EA%B4%B4%EB%A1%9C%EC%9B%8C%EC%9A%94)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
