@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
-* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)<!-- LASTFM:END -->
+* [TOKYOPILL — Destroy The WIRED](https://www.last.fm/music/TOKYOPILL/_/Destroy+The+WIRED)
+* [emotegi — earth](https://www.last.fm/music/emotegi/_/earth)
+* [Angelus — hope u doing well](https://www.last.fm/music/Angelus/_/hope+u+doing+well)
+* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
