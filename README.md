@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [death&#39;s dynamic shroud — CD Player, Pt. III](https://www.last.fm/music/death%27s+dynamic+shroud/_/CD+Player,+Pt.+III)
+* [Slater — Trix](https://www.last.fm/music/Slater/_/Trix)
 * [bliss3three — rosy&#39;s aqua garden of pure love and ecstasy](https://www.last.fm/music/bliss3three/_/rosy%27s+aqua+garden+of+pure+love+and+ecstasy)
 * [strxwberrymilk — Agoraphobia](https://www.last.fm/music/strxwberrymilk/_/Agoraphobia)
-* [TOKYOPILL — CULT MEMBERS ONLY](https://www.last.fm/music/TOKYOPILL/_/CULT+MEMBERS+ONLY)
-* [kmoe — peroxide](https://www.last.fm/music/kmoe/_/peroxide)
-* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)<!-- LASTFM:END -->
+* [TOKYOPILL — CULT MEMBERS ONLY](https://www.last.fm/music/TOKYOPILL/_/CULT+MEMBERS+ONLY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
