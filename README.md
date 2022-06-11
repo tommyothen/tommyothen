@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
 * [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
 * [Jessi — ZOOM](https://www.last.fm/music/Jessi/_/ZOOM)
 * [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)<!-- LASTFM:END -->
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
