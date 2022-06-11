@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Starjunk 95 — Ocean&#39;s End](https://www.last.fm/music/Starjunk+95/_/Ocean%27s+End)
-* [vowl. — headlock](https://www.last.fm/music/vowl./_/headlock)
-* [strxwberrymilk — My Head Hurts](https://www.last.fm/music/strxwberrymilk/_/My+Head+Hurts)
-* [Nedaj — code](https://www.last.fm/music/Nedaj/_/code)
-* [dltzk — homeswitcher](https://www.last.fm/music/dltzk/_/homeswitcher)<!-- LASTFM:END -->
+* [Black Balloons — EMERALD HANDS](https://www.last.fm/music/Black+Balloons/_/EMERALD+HANDS)
+* [TOKYOPILL — FINAL ACT: TOKYO](https://www.last.fm/music/TOKYOPILL/_/FINAL+ACT:+TOKYO)
+* [Booshi — Gucci Gucci Louis Louis](https://www.last.fm/music/Booshi/_/Gucci+Gucci+Louis+Louis)
+* [Too Asian — Castles](https://www.last.fm/music/Too+Asian/_/Castles)
+* [strxwberrymilk — Just Leave Me Alone](https://www.last.fm/music/strxwberrymilk/_/Just+Leave+Me+Alone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
