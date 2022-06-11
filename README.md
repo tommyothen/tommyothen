@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [4cf — WTF](https://www.last.fm/music/4cf/_/WTF)
+* [TOKYOPILL — S K Y L I N E](https://www.last.fm/music/TOKYOPILL/_/S+K+Y+L+I+N+E)
 * [Fax Gang — Breathe2 &lpar;In/Out&rpar;](https://www.last.fm/music/Fax+Gang/_/Breathe2+&lpar;In%2FOut&rpar;)
 * [d0llywood1 — ihonestlymightjustgiveup](https://www.last.fm/music/d0llywood1/_/ihonestlymightjustgiveup)
-* [Yandere — Dream of You](https://www.last.fm/music/Yandere/_/Dream+of+You)
-* [Shya — inlove](https://www.last.fm/music/Shya/_/inlove)
-* [twikipedia — again](https://www.last.fm/music/twikipedia/_/again)<!-- LASTFM:END -->
+* [Yandere — Dream of You](https://www.last.fm/music/Yandere/_/Dream+of+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
