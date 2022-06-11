@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [quannnic — life imitates life](https://www.last.fm/music/quannnic/_/life+imitates+life)
-* [Zaphyre — ghost](https://www.last.fm/music/Zaphyre/_/ghost)
-* [TOKYOPILL — B r e a t h e .](https://www.last.fm/music/TOKYOPILL/_/B+r+e+a+t+h+e+.)<!-- LASTFM:END -->
+* [Starjunk 95 — Ocean&#39;s End](https://www.last.fm/music/Starjunk+95/_/Ocean%27s+End)
+* [vowl. — headlock](https://www.last.fm/music/vowl./_/headlock)
+* [strxwberrymilk — My Head Hurts](https://www.last.fm/music/strxwberrymilk/_/My+Head+Hurts)
+* [Nedaj — code](https://www.last.fm/music/Nedaj/_/code)
+* [dltzk — homeswitcher](https://www.last.fm/music/dltzk/_/homeswitcher)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
