@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
 * [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
 * [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
 * [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
-* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
-* [Ne Obliviscaris — Painters of the Tempest - Part III - Reveries from the Stained Glass Womb](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+III+-+Reveries+from+the+Stained+Glass+Womb)<!-- LASTFM:END -->
+* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
