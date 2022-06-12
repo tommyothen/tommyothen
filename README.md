@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
 * [Ne Obliviscaris — Painters of the Tempest - Part III - Reveries from the Stained Glass Womb](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+III+-+Reveries+from+the+Stained+Glass+Womb)
 * [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
 * [Ne Obliviscaris — Painters of the Tempest - Part I - Wyrmholes](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+I+-+Wyrmholes)
-* [Desolate — Missingno. &lpar;177013&rpar;](https://www.last.fm/music/Desolate/_/Missingno.+&lpar;177013&rpar;)
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)<!-- LASTFM:END -->
+* [Desolate — Missingno. &lpar;177013&rpar;](https://www.last.fm/music/Desolate/_/Missingno.+&lpar;177013&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
