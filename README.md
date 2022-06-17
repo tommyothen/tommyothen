@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sugar&amp;Co. — tape/stop/night](https://www.last.fm/music/Sugar&amp;Co./_/tape%2Fstop%2Fnight)
+* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
 * [Suckerpunk — Without Me](https://www.last.fm/music/Suckerpunk/_/Without+Me)
 * [PiNKii — Hard Candy](https://www.last.fm/music/PiNKii/_/Hard+Candy)
-* [shiey — Confusion](https://www.last.fm/music/shiey/_/Confusion)
-* [Login — 2EYES](https://www.last.fm/music/Login/_/2EYES)
-* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)<!-- LASTFM:END -->
+* [shiey — Confusion](https://www.last.fm/music/shiey/_/Confusion)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
