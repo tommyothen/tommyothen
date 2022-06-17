@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MASEWONDER — I don’t care &lpar;feat. YANU&rpar;](https://www.last.fm/music/MASEWONDER/_/I+don%E2%80%99t+care+&lpar;feat.+YANU&rpar;)
 * [MaxD — Stuart](https://www.last.fm/music/MaxD/_/Stuart)
 * [Xan Griffin — Searching](https://www.last.fm/music/Xan+Griffin/_/Searching)
 * [333 — Wild Place](https://www.last.fm/music/333/_/Wild+Place)
-* [Maison book girl — faithlessness](https://www.last.fm/music/Maison+book+girl/_/faithlessness)
-* [RARE AKUMA — GANTZ!](https://www.last.fm/music/RARE+AKUMA/_/GANTZ!)<!-- LASTFM:END -->
+* [Maison book girl — faithlessness](https://www.last.fm/music/Maison+book+girl/_/faithlessness)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
