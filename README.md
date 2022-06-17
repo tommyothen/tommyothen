@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [RARE AKUMA — GANTZ!](https://www.last.fm/music/RARE+AKUMA/_/GANTZ!)
-* [Sugar&amp;Co. — tape/stop/night](https://www.last.fm/music/Sugar&amp;Co./_/tape%2Fstop%2Fnight)
-* [Suckerpunk — Without Me](https://www.last.fm/music/Suckerpunk/_/Without+Me)
-* [PiNKii — Hard Candy](https://www.last.fm/music/PiNKii/_/Hard+Candy)
-* [shiey — Confusion](https://www.last.fm/music/shiey/_/Confusion)<!-- LASTFM:END -->
+* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)
+* [Belaganas — Panic Disco](https://www.last.fm/music/Belaganas/_/Panic+Disco)
+* [Jimm — НА ДОРОГУ](https://www.last.fm/music/Jimm/_/%D0%9D%D0%90+%D0%94%D0%9E%D0%A0%D0%9E%D0%93%D0%A3)
+* [NILFRUITS — Traffic Jam](https://www.last.fm/music/NILFRUITS/_/Traffic+Jam)
+* [Magdalena Bay — How to Get Physical](https://www.last.fm/music/Magdalena+Bay/_/How+to+Get+Physical)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
