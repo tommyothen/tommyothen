@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [RARE AKUMA — GANTZ!](https://www.last.fm/music/RARE+AKUMA/_/GANTZ!)
+* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
 * [Sugar&amp;Co. — tape/stop/night](https://www.last.fm/music/Sugar&amp;Co./_/tape%2Fstop%2Fnight)
 * [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
-* [Suckerpunk — Without Me](https://www.last.fm/music/Suckerpunk/_/Without+Me)
-* [PiNKii — Hard Candy](https://www.last.fm/music/PiNKii/_/Hard+Candy)
-* [shiey — Confusion](https://www.last.fm/music/shiey/_/Confusion)<!-- LASTFM:END -->
+* [Suckerpunk — Without Me](https://www.last.fm/music/Suckerpunk/_/Without+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
