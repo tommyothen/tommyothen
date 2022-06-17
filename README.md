@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tiny Meat Gang — Sofia](https://www.last.fm/music/Tiny+Meat+Gang/_/Sofia)
-* [yde — BlindLife](https://www.last.fm/music/yde/_/BlindLife)
-* [kidsnextdoor — Megan](https://www.last.fm/music/kidsnextdoor/_/Megan)
-* [DUSTCELL — DERO](https://www.last.fm/music/DUSTCELL/_/DERO)
-* [Stranger Club — Tulips](https://www.last.fm/music/Stranger+Club/_/Tulips)<!-- LASTFM:END -->
+* [aNTOJE — Your Money Sucks](https://www.last.fm/music/aNTOJE/_/Your+Money+Sucks)
+* [Kojoe — KING SONG](https://www.last.fm/music/Kojoe/_/KING+SONG)
+* [Yusei — Death Note](https://www.last.fm/music/Yusei/_/Death+Note)
+* [Bibi — KAZINO](https://www.last.fm/music/Bibi/_/KAZINO)
+* [Tiny Meat Gang — Sofia](https://www.last.fm/music/Tiny+Meat+Gang/_/Sofia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
