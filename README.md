@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DUSTCELL — DERO](https://www.last.fm/music/DUSTCELL/_/DERO)
+* [Stranger Club — Tulips](https://www.last.fm/music/Stranger+Club/_/Tulips)
 * [Breathe Electric — Electronic Lover](https://www.last.fm/music/Breathe+Electric/_/Electronic+Lover)
 * [ATARASHII GAKKO! — NAINAINAI](https://www.last.fm/music/ATARASHII+GAKKO!/_/NAINAINAI)
-* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)
-* [Belaganas — Panic Disco](https://www.last.fm/music/Belaganas/_/Panic+Disco)
-* [Jimm — НА ДОРОГУ](https://www.last.fm/music/Jimm/_/%D0%9D%D0%90+%D0%94%D0%9E%D0%A0%D0%9E%D0%93%D0%A3)<!-- LASTFM:END -->
+* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
