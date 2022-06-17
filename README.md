@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NILFRUITS — Traffic Jam](https://www.last.fm/music/NILFRUITS/_/Traffic+Jam)
+* [Magdalena Bay — How to Get Physical](https://www.last.fm/music/Magdalena+Bay/_/How+to+Get+Physical)
+* [DYLIS — &quot;I Want You To Rip My Heart Out&quot; - Extended Version](https://www.last.fm/music/DYLIS/_/%22I+Want+You+To+Rip+My+Heart+Out%22+-+Extended+Version)
 * [MASEWONDER — I don’t care &lpar;feat. YANU&rpar;](https://www.last.fm/music/MASEWONDER/_/I+don%E2%80%99t+care+&lpar;feat.+YANU&rpar;)
-* [MaxD — Stuart](https://www.last.fm/music/MaxD/_/Stuart)
-* [Xan Griffin — Searching](https://www.last.fm/music/Xan+Griffin/_/Searching)
-* [333 — Wild Place](https://www.last.fm/music/333/_/Wild+Place)
-* [Maison book girl — faithlessness](https://www.last.fm/music/Maison+book+girl/_/faithlessness)<!-- LASTFM:END -->
+* [MaxD — Stuart](https://www.last.fm/music/MaxD/_/Stuart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
