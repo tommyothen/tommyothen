@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Suckerpunk — Without Me](https://www.last.fm/music/Suckerpunk/_/Without+Me)
 * [PiNKii — Hard Candy](https://www.last.fm/music/PiNKii/_/Hard+Candy)
 * [shiey — Confusion](https://www.last.fm/music/shiey/_/Confusion)
 * [Login — 2EYES](https://www.last.fm/music/Login/_/2EYES)
-* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
-* [Moe Shop — GHOST FOOD &lpar;feat. TORIENA&rpar;](https://www.last.fm/music/Moe+Shop/_/GHOST+FOOD+&lpar;feat.+TORIENA&rpar;)<!-- LASTFM:END -->
+* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
