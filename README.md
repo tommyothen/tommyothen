@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [RARE AKUMA — GANTZ!](https://www.last.fm/music/RARE+AKUMA/_/GANTZ!)
-* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
-* [Sugar&amp;Co. — tape/stop/night](https://www.last.fm/music/Sugar&amp;Co./_/tape%2Fstop%2Fnight)
-* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
-* [Suckerpunk — Without Me](https://www.last.fm/music/Suckerpunk/_/Without+Me)<!-- LASTFM:END -->
+* [MaxD — Stuart](https://www.last.fm/music/MaxD/_/Stuart)
+* [Xan Griffin — Searching](https://www.last.fm/music/Xan+Griffin/_/Searching)
+* [333 — Wild Place](https://www.last.fm/music/333/_/Wild+Place)
+* [Maison book girl — faithlessness](https://www.last.fm/music/Maison+book+girl/_/faithlessness)
+* [RARE AKUMA — GANTZ!](https://www.last.fm/music/RARE+AKUMA/_/GANTZ!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
