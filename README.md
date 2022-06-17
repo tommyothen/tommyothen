@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)
-* [Belaganas — Panic Disco](https://www.last.fm/music/Belaganas/_/Panic+Disco)
-* [Jimm — НА ДОРОГУ](https://www.last.fm/music/Jimm/_/%D0%9D%D0%90+%D0%94%D0%9E%D0%A0%D0%9E%D0%93%D0%A3)
-* [NILFRUITS — Traffic Jam](https://www.last.fm/music/NILFRUITS/_/Traffic+Jam)
-* [Magdalena Bay — How to Get Physical](https://www.last.fm/music/Magdalena+Bay/_/How+to+Get+Physical)<!-- LASTFM:END -->
+* [PiNKii — Hard Candy](https://www.last.fm/music/PiNKii/_/Hard+Candy)
+* [shiey — Confusion](https://www.last.fm/music/shiey/_/Confusion)
+* [Login — 2EYES](https://www.last.fm/music/Login/_/2EYES)
+* [015B — My Hair Is Green](https://www.last.fm/music/015B/_/My+Hair+Is+Green)
+* [Moe Shop — GHOST FOOD &lpar;feat. TORIENA&rpar;](https://www.last.fm/music/Moe+Shop/_/GHOST+FOOD+&lpar;feat.+TORIENA&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
