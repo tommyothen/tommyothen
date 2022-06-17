@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tiny Meat Gang — Sofia](https://www.last.fm/music/Tiny+Meat+Gang/_/Sofia)
+* [yde — BlindLife](https://www.last.fm/music/yde/_/BlindLife)
+* [kidsnextdoor — Megan](https://www.last.fm/music/kidsnextdoor/_/Megan)
 * [DUSTCELL — DERO](https://www.last.fm/music/DUSTCELL/_/DERO)
-* [Stranger Club — Tulips](https://www.last.fm/music/Stranger+Club/_/Tulips)
-* [Breathe Electric — Electronic Lover](https://www.last.fm/music/Breathe+Electric/_/Electronic+Lover)
-* [ATARASHII GAKKO! — NAINAINAI](https://www.last.fm/music/ATARASHII+GAKKO!/_/NAINAINAI)
-* [fromtheheart — MIDWESTEMO2](https://www.last.fm/music/fromtheheart/_/MIDWESTEMO2)<!-- LASTFM:END -->
+* [Stranger Club — Tulips](https://www.last.fm/music/Stranger+Club/_/Tulips)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
