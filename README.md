@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Like You Do](https://www.last.fm/music/Joji/_/Like+You+Do)
 * [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
 * [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
 * [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
-* [Joji — Worldstar Money &lpar;Interlude&rpar;](https://www.last.fm/music/Joji/_/Worldstar+Money+&lpar;Interlude&rpar;)
-* [Joji — YEAH RIGHT](https://www.last.fm/music/Joji/_/YEAH+RIGHT)<!-- LASTFM:END -->
+* [Joji — Worldstar Money &lpar;Interlude&rpar;](https://www.last.fm/music/Joji/_/Worldstar+Money+&lpar;Interlude&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
