@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
+* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
 * [Joji — Like You Do](https://www.last.fm/music/Joji/_/Like+You+Do)
 * [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
-* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)<!-- LASTFM:END -->
+* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
