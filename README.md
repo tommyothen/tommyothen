@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Graveyardguy — Final Girl](https://www.last.fm/music/Graveyardguy/_/Final+Girl)
-* [Underscores — set u off &lpar;365&rpar;](https://www.last.fm/music/Underscores/_/set+u+off+&lpar;365&rpar;)
-* [BABii — Drown U](https://www.last.fm/music/BABii/_/Drown+U)
-* [TCY Force — CHOCOLAT feat. Mariya Ise](https://www.last.fm/music/TCY+Force/_/CHOCOLAT+feat.+Mariya+Ise)
-* [azari — Casino](https://www.last.fm/music/azari/_/Casino)<!-- LASTFM:END -->
+* [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
+* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
+* [Graveyardguy — Final Girl](https://www.last.fm/music/Graveyardguy/_/Final+Girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
