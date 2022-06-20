@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [azari — Casino](https://www.last.fm/music/azari/_/Casino)
+* [Yun Head — Cats on Mars](https://www.last.fm/music/Yun+Head/_/Cats+on+Mars)
 * [2td — Shoelaces](https://www.last.fm/music/2td/_/Shoelaces)
 * [Delaney Kai — Facetime Unavailable](https://www.last.fm/music/Delaney+Kai/_/Facetime+Unavailable)
-* [Ikurru — Ortni](https://www.last.fm/music/Ikurru/_/Ortni)
-* [kiwifrooot — go to work](https://www.last.fm/music/kiwifrooot/_/go+to+work)
-* [RADWIMPS — Hyperventilation](https://www.last.fm/music/RADWIMPS/_/Hyperventilation)<!-- LASTFM:END -->
+* [Ikurru — Ortni](https://www.last.fm/music/Ikurru/_/Ortni)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
