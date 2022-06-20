@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Graveyardguy — Final Girl](https://www.last.fm/music/Graveyardguy/_/Final+Girl)
 * [Underscores — set u off &lpar;365&rpar;](https://www.last.fm/music/Underscores/_/set+u+off+&lpar;365&rpar;)
 * [BABii — Drown U](https://www.last.fm/music/BABii/_/Drown+U)
 * [TCY Force — CHOCOLAT feat. Mariya Ise](https://www.last.fm/music/TCY+Force/_/CHOCOLAT+feat.+Mariya+Ise)
-* [azari — Casino](https://www.last.fm/music/azari/_/Casino)
-* [Yun Head — Cats on Mars](https://www.last.fm/music/Yun+Head/_/Cats+on+Mars)<!-- LASTFM:END -->
+* [azari — Casino](https://www.last.fm/music/azari/_/Casino)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
