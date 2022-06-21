@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lord Gasp — Fleshlike plastic](https://www.last.fm/music/Lord+Gasp/_/Fleshlike+plastic)
+* [DAEGHO — Subliminal Criminal](https://www.last.fm/music/DAEGHO/_/Subliminal+Criminal)
+* [unknxwn. — novana!](https://www.last.fm/music/unknxwn./_/novana!)
 * [Freddie Sunshine — Sun and The Moon](https://www.last.fm/music/Freddie+Sunshine/_/Sun+and+The+Moon)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [Cemetery Drive — 02 MURCI](https://www.last.fm/music/Cemetery+Drive/_/02+MURCI)
-* [Istasha — Obsolete](https://www.last.fm/music/Istasha/_/Obsolete)
-* [DanielFromSalem — Run From Home](https://www.last.fm/music/DanielFromSalem/_/Run+From+Home)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
