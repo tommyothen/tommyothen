@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PLURBS — PROMISE ME](https://www.last.fm/music/PLURBS/_/PROMISE+ME)
+* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
 * [Lord Gasp — Fleshlike plastic](https://www.last.fm/music/Lord+Gasp/_/Fleshlike+plastic)
 * [DAEGHO — Subliminal Criminal](https://www.last.fm/music/DAEGHO/_/Subliminal+Criminal)
-* [unknxwn. — novana!](https://www.last.fm/music/unknxwn./_/novana!)
-* [Freddie Sunshine — Sun and The Moon](https://www.last.fm/music/Freddie+Sunshine/_/Sun+and+The+Moon)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
+* [unknxwn. — novana!](https://www.last.fm/music/unknxwn./_/novana!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
