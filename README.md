@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Freddie Sunshine — Sun and The Moon](https://www.last.fm/music/Freddie+Sunshine/_/Sun+and+The+Moon)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [Cemetery Drive — 02 MURCI](https://www.last.fm/music/Cemetery+Drive/_/02+MURCI)
 * [Istasha — Obsolete](https://www.last.fm/music/Istasha/_/Obsolete)
-* [DanielFromSalem — Run From Home](https://www.last.fm/music/DanielFromSalem/_/Run+From+Home)
-* [VXXS — NOWYGLXCK](https://www.last.fm/music/VXXS/_/NOWYGLXCK)
-* [NXCRE — 2am in Penn Station](https://www.last.fm/music/NXCRE/_/2am+in+Penn+Station)
-* [RARE AKUMA — GANTZ!](https://www.last.fm/music/RARE+AKUMA/_/GANTZ!)<!-- LASTFM:END -->
+* [DanielFromSalem — Run From Home](https://www.last.fm/music/DanielFromSalem/_/Run+From+Home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
