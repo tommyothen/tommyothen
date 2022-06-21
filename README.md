@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
 * [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
 * [Istasha — Obsolete](https://www.last.fm/music/Istasha/_/Obsolete)
 * [DanielFromSalem — Run From Home](https://www.last.fm/music/DanielFromSalem/_/Run+From+Home)
-* [VXXS — NOWYGLXCK](https://www.last.fm/music/VXXS/_/NOWYGLXCK)
-* [NXCRE — 2am in Penn Station](https://www.last.fm/music/NXCRE/_/2am+in+Penn+Station)<!-- LASTFM:END -->
+* [VXXS — NOWYGLXCK](https://www.last.fm/music/VXXS/_/NOWYGLXCK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
