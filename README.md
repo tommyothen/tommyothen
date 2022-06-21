@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
-* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
-* [Istasha — Obsolete](https://www.last.fm/music/Istasha/_/Obsolete)
-* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
-* [Joey Valence — Punk Tactics](https://www.last.fm/music/Joey+Valence/_/Punk+Tactics)<!-- LASTFM:END -->
+* [NXCRE — 2am in Penn Station](https://www.last.fm/music/NXCRE/_/2am+in+Penn+Station)
+* [RARE AKUMA — GANTZ!](https://www.last.fm/music/RARE+AKUMA/_/GANTZ!)
+* [Freddie Sunshine — Cross the Sun](https://www.last.fm/music/Freddie+Sunshine/_/Cross+the+Sun)
+* [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
+* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
