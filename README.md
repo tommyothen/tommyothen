@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
+* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
+* [EZEDIEL — INTO THE MIDNIGHT](https://www.last.fm/music/EZEDIEL/_/INTO+THE+MIDNIGHT)
 * [Freddie Sunshine — Lines](https://www.last.fm/music/Freddie+Sunshine/_/Lines)
-* [Cemetery Drive — Basilisk](https://www.last.fm/music/Cemetery+Drive/_/Basilisk)
-* [Kxllswxtch — CRYING IN THE CLUB](https://www.last.fm/music/Kxllswxtch/_/CRYING+IN+THE+CLUB)
-* [Lord Gasp — Sudo](https://www.last.fm/music/Lord+Gasp/_/Sudo)
-* [Kylof Söze — DRILL | дрель | ドリル |](https://www.last.fm/music/Kylof+S%C3%B6ze/_/DRILL+%7C+%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%7C+%E3%83%89%E3%83%AA%E3%83%AB+%7C)<!-- LASTFM:END -->
+* [Cemetery Drive — Basilisk](https://www.last.fm/music/Cemetery+Drive/_/Basilisk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
