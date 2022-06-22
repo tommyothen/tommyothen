@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [PLURBS — PROMISE ME](https://www.last.fm/music/PLURBS/_/PROMISE+ME)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [Lord Gasp — Fleshlike plastic](https://www.last.fm/music/Lord+Gasp/_/Fleshlike+plastic)
-* [DAEGHO — Subliminal Criminal](https://www.last.fm/music/DAEGHO/_/Subliminal+Criminal)
-* [unknxwn. — novana!](https://www.last.fm/music/unknxwn./_/novana!)<!-- LASTFM:END -->
+* [Freddie Sunshine — Lines](https://www.last.fm/music/Freddie+Sunshine/_/Lines)
+* [Cemetery Drive — Basilisk](https://www.last.fm/music/Cemetery+Drive/_/Basilisk)
+* [Kxllswxtch — CRYING IN THE CLUB](https://www.last.fm/music/Kxllswxtch/_/CRYING+IN+THE+CLUB)
+* [Lord Gasp — Sudo](https://www.last.fm/music/Lord+Gasp/_/Sudo)
+* [Kylof Söze — DRILL | дрель | ドリル |](https://www.last.fm/music/Kylof+S%C3%B6ze/_/DRILL+%7C+%D0%B4%D1%80%D0%B5%D0%BB%D1%8C+%7C+%E3%83%89%E3%83%AA%E3%83%AB+%7C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
