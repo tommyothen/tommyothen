@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
 * [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
 * [Oliver Francis — TOXIC PARADISE](https://www.last.fm/music/Oliver+Francis/_/TOXIC+PARADISE)
 * [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
-* [Mothica — Can You Feel My Heart &lpar;Mothica Version&rpar;](https://www.last.fm/music/Mothica/_/Can+You+Feel+My+Heart+&lpar;Mothica+Version&rpar;)
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)<!-- LASTFM:END -->
+* [Mothica — Can You Feel My Heart &lpar;Mothica Version&rpar;](https://www.last.fm/music/Mothica/_/Can+You+Feel+My+Heart+&lpar;Mothica+Version&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
