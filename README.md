@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
+* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
+* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
 * [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
-* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
-* [Oliver Francis — TOXIC PARADISE](https://www.last.fm/music/Oliver+Francis/_/TOXIC+PARADISE)
-* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
-* [Mothica — Can You Feel My Heart &lpar;Mothica Version&rpar;](https://www.last.fm/music/Mothica/_/Can+You+Feel+My+Heart+&lpar;Mothica+Version&rpar;)<!-- LASTFM:END -->
+* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
