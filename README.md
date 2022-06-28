@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Desired — Wake Up](https://www.last.fm/music/Desired/_/Wake+Up)
-* [half•alive — The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall)
-* [Glass Animals — Tokyo Drifting &lpar;with Denzel Curry&rpar;](https://www.last.fm/music/Glass+Animals/_/Tokyo+Drifting+&lpar;with+Denzel+Curry&rpar;)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
-* [bbno$ — stucco](https://www.last.fm/music/bbno$/_/stucco)<!-- LASTFM:END -->
+* [Infected Mushroom — Spitfire](https://www.last.fm/music/Infected+Mushroom/_/Spitfire)
+* [Call Me Karizma — Rebels](https://www.last.fm/music/Call+Me+Karizma/_/Rebels)
+* [Haywyre — Insight](https://www.last.fm/music/Haywyre/_/Insight)
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
+* [heiakim — Omae Wa Mou Lofi Desu](https://www.last.fm/music/heiakim/_/Omae+Wa+Mou+Lofi+Desu)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
