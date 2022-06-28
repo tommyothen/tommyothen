@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Halo Boy — Yum Yum](https://www.last.fm/music/Halo+Boy/_/Yum+Yum)
-* [The Color 8 — Savage Season](https://www.last.fm/music/The+Color+8/_/Savage+Season)
-* [Ky Vöss — Masochism](https://www.last.fm/music/Ky+V%C3%B6ss/_/Masochism)
-* [anait — Пустота](https://www.last.fm/music/anait/_/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D1%82%D0%B0)
-* [Cuno — TOKYO 2020/1995](https://www.last.fm/music/Cuno/_/TOKYO+2020%2F1995)<!-- LASTFM:END -->
+* [Lauren Bousfield — Used to Be Better](https://www.last.fm/music/Lauren+Bousfield/_/Used+to+Be+Better)
+* [Suisai — calm down](https://www.last.fm/music/Suisai/_/calm+down)
+* [Boy Jr. — Mystery of Love](https://www.last.fm/music/Boy+Jr./_/Mystery+of+Love)
+* [電音部 — Eat Sleep Dance](https://www.last.fm/music/%E9%9B%BB%E9%9F%B3%E9%83%A8/_/Eat+Sleep+Dance)
+* [MOL$ — SEKAI](https://www.last.fm/music/MOL$/_/SEKAI)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
