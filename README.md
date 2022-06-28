@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
 * [khai dreams — Find My Way](https://www.last.fm/music/khai+dreams/_/Find+My+Way)
 * [bbno$ — moneytalk](https://www.last.fm/music/bbno$/_/moneytalk)
-* [Elohim — Sensations - Whethan Remix](https://www.last.fm/music/Elohim/_/Sensations+-+Whethan+Remix)
-* [Mungo&#39;s Hi Fi — Babylon Raid](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Babylon+Raid)
-* [BLACKPINK — Don&#39;t Know What to Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+to+Do)<!-- LASTFM:END -->
+* [Elohim — Sensations - Whethan Remix](https://www.last.fm/music/Elohim/_/Sensations+-+Whethan+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
