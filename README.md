@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lauren Bousfield — Used to Be Better](https://www.last.fm/music/Lauren+Bousfield/_/Used+to+Be+Better)
-* [Suisai — calm down](https://www.last.fm/music/Suisai/_/calm+down)
-* [Boy Jr. — Mystery of Love](https://www.last.fm/music/Boy+Jr./_/Mystery+of+Love)
-* [電音部 — Eat Sleep Dance](https://www.last.fm/music/%E9%9B%BB%E9%9F%B3%E9%83%A8/_/Eat+Sleep+Dance)
-* [MOL$ — SEKAI](https://www.last.fm/music/MOL$/_/SEKAI)<!-- LASTFM:END -->
+* [Ieuan — I HAVE NO MOUTH AND I MUST SCREAM](https://www.last.fm/music/Ieuan/_/I+HAVE+NO+MOUTH+AND+I+MUST+SCREAM)
+* [Her Ex — Her Spirit AKA 1 Samuel 16 Verse 7 AKA I&#39;d Kiss Your Pentagram Tattoos](https://www.last.fm/music/Her+Ex/_/Her+Spirit+AKA+1+Samuel+16+Verse+7+AKA+I%27d+Kiss+Your+Pentagram+Tattoos)
+* [Archie Summers — By Your Side](https://www.last.fm/music/Archie+Summers/_/By+Your+Side)
+* [KA$TRO — zombie &lpar;hyper&rpar;](https://www.last.fm/music/KA$TRO/_/zombie+&lpar;hyper&rpar;)
+* [screwyounick — im the worst](https://www.last.fm/music/screwyounick/_/im+the+worst)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
