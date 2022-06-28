@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
-* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)<!-- LASTFM:END -->
+* [Desired — Wake Up](https://www.last.fm/music/Desired/_/Wake+Up)
+* [half•alive — The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall)
+* [Glass Animals — Tokyo Drifting &lpar;with Denzel Curry&rpar;](https://www.last.fm/music/Glass+Animals/_/Tokyo+Drifting+&lpar;with+Denzel+Curry&rpar;)
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
+* [bbno$ — stucco](https://www.last.fm/music/bbno$/_/stucco)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
