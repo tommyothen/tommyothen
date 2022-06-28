@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Infected Mushroom — Spitfire](https://www.last.fm/music/Infected+Mushroom/_/Spitfire)
-* [Call Me Karizma — Rebels](https://www.last.fm/music/Call+Me+Karizma/_/Rebels)
-* [Haywyre — Insight](https://www.last.fm/music/Haywyre/_/Insight)
-* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
-* [heiakim — Omae Wa Mou Lofi Desu](https://www.last.fm/music/heiakim/_/Omae+Wa+Mou+Lofi+Desu)<!-- LASTFM:END -->
+* [sapientdream — walls](https://www.last.fm/music/sapientdream/_/walls)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [[bsd.u] — French Inhale](https://www.last.fm/music/%5Bbsd.u%5D/_/French+Inhale)
+* [Guardin — what i got](https://www.last.fm/music/Guardin/_/what+i+got)
+* [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
