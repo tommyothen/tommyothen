@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
+* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)
+* [Eryn Martin — Ball](https://www.last.fm/music/Eryn+Martin/_/Ball)
 * [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
-* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)
-* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
-* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)<!-- LASTFM:END -->
+* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
