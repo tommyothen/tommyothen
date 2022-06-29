@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — DOA](https://www.last.fm/music/Rich+Brian/_/DOA)
 * [Rich Brian — Lagoon](https://www.last.fm/music/Rich+Brian/_/Lagoon)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
-* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)<!-- LASTFM:END -->
+* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
+* [Rich Brian — Lagoon](https://www.last.fm/music/Rich+Brian/_/Lagoon)
+* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
