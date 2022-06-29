@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
 * [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
 * [Rich Brian — DOA](https://www.last.fm/music/Rich+Brian/_/DOA)
-* [Rich Brian — Lagoon](https://www.last.fm/music/Rich+Brian/_/Lagoon)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
 * [Rich Brian — Lagoon](https://www.last.fm/music/Rich+Brian/_/Lagoon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
