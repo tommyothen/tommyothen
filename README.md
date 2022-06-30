@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Suisai — calm down](https://www.last.fm/music/Suisai/_/calm+down)
-* [Lord Aethelstan — TEARS IN WELSH RAIN](https://www.last.fm/music/Lord+Aethelstan/_/TEARS+IN+WELSH+RAIN)
-* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
-* [jades — Meantime](https://www.last.fm/music/jades/_/Meantime)
-* [Wingy — One and Only](https://www.last.fm/music/Wingy/_/One+and+Only)<!-- LASTFM:END -->
+* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)
+* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
+* [Suisai — calm down](https://www.last.fm/music/Suisai/_/calm+down)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
