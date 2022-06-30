@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [k.xxiv — Risk!](https://www.last.fm/music/k.xxiv/_/Risk!)
+* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
 * [sapientdream — walls](https://www.last.fm/music/sapientdream/_/walls)
 * [PLURBS — PROMISE ME](https://www.last.fm/music/PLURBS/_/PROMISE+ME)
-* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
-* [tobi lou — I Was Sad Last Night I&#39;m OK Now](https://www.last.fm/music/tobi+lou/_/I+Was+Sad+Last+Night+I%27m+OK+Now)
-* [Brock Wilson — play](https://www.last.fm/music/Brock+Wilson/_/play)<!-- LASTFM:END -->
+* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
