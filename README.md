@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
-* [Billy Marchiafava — Indie Pop Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Indie+Pop+Type+Beat)
-* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
-* [Rich Brian — Lagoon](https://www.last.fm/music/Rich+Brian/_/Lagoon)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)<!-- LASTFM:END -->
+* [Freddie Sunshine — Sun and The Moon](https://www.last.fm/music/Freddie+Sunshine/_/Sun+and+The+Moon)
+* [Ikurru — Ortni](https://www.last.fm/music/Ikurru/_/Ortni)
+* [Joji — YEAH RIGHT](https://www.last.fm/music/Joji/_/YEAH+RIGHT)
+* [Chuck Sutton — Chess Bling](https://www.last.fm/music/Chuck+Sutton/_/Chess+Bling)
+* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
