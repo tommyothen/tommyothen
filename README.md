@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Freddie Sunshine — Sun and The Moon](https://www.last.fm/music/Freddie+Sunshine/_/Sun+and+The+Moon)
-* [Ikurru — Ortni](https://www.last.fm/music/Ikurru/_/Ortni)
-* [Joji — YEAH RIGHT](https://www.last.fm/music/Joji/_/YEAH+RIGHT)
-* [Chuck Sutton — Chess Bling](https://www.last.fm/music/Chuck+Sutton/_/Chess+Bling)
-* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)<!-- LASTFM:END -->
+* [jades — Meantime](https://www.last.fm/music/jades/_/Meantime)
+* [Wingy — One and Only](https://www.last.fm/music/Wingy/_/One+and+Only)
+* [Delaney Kai — Facetime Unavailable](https://www.last.fm/music/Delaney+Kai/_/Facetime+Unavailable)
+* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
+* [Freddie Sunshine — Sun and The Moon](https://www.last.fm/music/Freddie+Sunshine/_/Sun+and+The+Moon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
