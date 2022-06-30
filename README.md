@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Suisai — calm down](https://www.last.fm/music/Suisai/_/calm+down)
+* [Lord Aethelstan — TEARS IN WELSH RAIN](https://www.last.fm/music/Lord+Aethelstan/_/TEARS+IN+WELSH+RAIN)
+* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
 * [jades — Meantime](https://www.last.fm/music/jades/_/Meantime)
-* [Wingy — One and Only](https://www.last.fm/music/Wingy/_/One+and+Only)
-* [Delaney Kai — Facetime Unavailable](https://www.last.fm/music/Delaney+Kai/_/Facetime+Unavailable)
-* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
-* [Freddie Sunshine — Sun and The Moon](https://www.last.fm/music/Freddie+Sunshine/_/Sun+and+The+Moon)<!-- LASTFM:END -->
+* [Wingy — One and Only](https://www.last.fm/music/Wingy/_/One+and+Only)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
