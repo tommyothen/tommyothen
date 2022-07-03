@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
+* [DBangz — THICK NIGGAS AND ANIME TIDDIES](https://www.last.fm/music/DBangz/_/THICK+NIGGAS+AND+ANIME+TIDDIES)
 * [Shahmen — infinite bliss](https://www.last.fm/music/Shahmen/_/infinite+bliss)
 * [Oliver Tree — Movement](https://www.last.fm/music/Oliver+Tree/_/Movement)
-* [bbno$ — pennies up](https://www.last.fm/music/bbno$/_/pennies+up)
-* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
-* [Rich Brian — Where Does the Time Go &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Where+Does+the+Time+Go+&lpar;feat.+Joji&rpar;)<!-- LASTFM:END -->
+* [bbno$ — pennies up](https://www.last.fm/music/bbno$/_/pennies+up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
