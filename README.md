@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
 * [Chase &amp; Status — End Credits](https://www.last.fm/music/Chase+&amp;+Status/_/End+Credits)
 * [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
 * [bbno$ — jurassic](https://www.last.fm/music/bbno$/_/jurassic)
-* [HENTAI DUDE — After Hours](https://www.last.fm/music/HENTAI+DUDE/_/After+Hours)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)<!-- LASTFM:END -->
+* [HENTAI DUDE — After Hours](https://www.last.fm/music/HENTAI+DUDE/_/After+Hours)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
