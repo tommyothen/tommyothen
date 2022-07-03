@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
+* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
 * [Freddie Dredd — Oh Darling &lpar;feat. Soudiere&rpar;](https://www.last.fm/music/Freddie+Dredd/_/Oh+Darling+&lpar;feat.+Soudiere&rpar;)
 * [Kill Bill: The Rapper — Black Coffee](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Black+Coffee)
-* [Kitty — disconnect](https://www.last.fm/music/Kitty/_/disconnect)
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)<!-- LASTFM:END -->
+* [Kitty — disconnect](https://www.last.fm/music/Kitty/_/disconnect)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
