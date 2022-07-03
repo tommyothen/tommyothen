@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — jurassic](https://www.last.fm/music/bbno$/_/jurassic)
+* [HENTAI DUDE — After Hours](https://www.last.fm/music/HENTAI+DUDE/_/After+Hours)
 * [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
 * [DBangz — THICK NIGGAS AND ANIME TIDDIES](https://www.last.fm/music/DBangz/_/THICK+NIGGAS+AND+ANIME+TIDDIES)
-* [Shahmen — infinite bliss](https://www.last.fm/music/Shahmen/_/infinite+bliss)
-* [Oliver Tree — Movement](https://www.last.fm/music/Oliver+Tree/_/Movement)
-* [bbno$ — pennies up](https://www.last.fm/music/bbno$/_/pennies+up)<!-- LASTFM:END -->
+* [Shahmen — infinite bliss](https://www.last.fm/music/Shahmen/_/infinite+bliss)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
