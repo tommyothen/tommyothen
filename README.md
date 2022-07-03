@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — roo doo](https://www.last.fm/music/bbno$/_/roo+doo)
+* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)
+* [Hobo Johnson — Father](https://www.last.fm/music/Hobo+Johnson/_/Father)
 * [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
-* [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
-* [khai dreams — All I Need](https://www.last.fm/music/khai+dreams/_/All+I+Need)
-* [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)
-* [Moe Shop — Natural](https://www.last.fm/music/Moe+Shop/_/Natural)<!-- LASTFM:END -->
+* [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
