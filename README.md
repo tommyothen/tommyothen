@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Whethan — When I&#39;m Down](https://www.last.fm/music/Whethan/_/When+I%27m+Down)
-* [Colliding With Mars — HEIRLOOM](https://www.last.fm/music/Colliding+With+Mars/_/HEIRLOOM)
-* [bbno$ — roo doo](https://www.last.fm/music/bbno$/_/roo+doo)
-* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)
-* [Hobo Johnson — Father](https://www.last.fm/music/Hobo+Johnson/_/Father)<!-- LASTFM:END -->
+* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
+* [Cemetery Drive — Slowly](https://www.last.fm/music/Cemetery+Drive/_/Slowly)
+* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
+* [William Bolton — Dream at Night](https://www.last.fm/music/William+Bolton/_/Dream+at+Night)
+* [Whethan — When I&#39;m Down](https://www.last.fm/music/Whethan/_/When+I%27m+Down)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
