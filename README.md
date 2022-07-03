@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
 * [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [Chase &amp; Status — End Credits](https://www.last.fm/music/Chase+&amp;+Status/_/End+Credits)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
-* [bbno$ — jurassic](https://www.last.fm/music/bbno$/_/jurassic)
-* [HENTAI DUDE — After Hours](https://www.last.fm/music/HENTAI+DUDE/_/After+Hours)<!-- LASTFM:END -->
+* [Chase &amp; Status — End Credits](https://www.last.fm/music/Chase+&amp;+Status/_/End+Credits)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
