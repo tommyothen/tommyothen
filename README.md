@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — moneytalk](https://www.last.fm/music/bbno$/_/moneytalk)
-* [Trails — Learn to Love Me](https://www.last.fm/music/Trails/_/Learn+to+Love+Me)
-* [Fusq — Perfume!](https://www.last.fm/music/Fusq/_/Perfume!)
-* [bbno$ — money conversation](https://www.last.fm/music/bbno$/_/money+conversation)
-* [bbno$ — roo doo](https://www.last.fm/music/bbno$/_/roo+doo)<!-- LASTFM:END -->
+* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
+* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
+* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Chase &amp; Status — End Credits](https://www.last.fm/music/Chase+&amp;+Status/_/End+Credits)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
