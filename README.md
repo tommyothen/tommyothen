@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
 * [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
 * [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
-* [Fliptrix — Graffiti Won&#39;t Die](https://www.last.fm/music/Fliptrix/_/Graffiti+Won%27t+Die)
-* [boy pablo — Feeling Lonely](https://www.last.fm/music/boy+pablo/_/Feeling+Lonely)
-* [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)<!-- LASTFM:END -->
+* [Fliptrix — Graffiti Won&#39;t Die](https://www.last.fm/music/Fliptrix/_/Graffiti+Won%27t+Die)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
