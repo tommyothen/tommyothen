@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — roo doo](https://www.last.fm/music/bbno$/_/roo+doo)
-* [P.MO — Impatient](https://www.last.fm/music/P.MO/_/Impatient)
-* [Area21 — Girls](https://www.last.fm/music/Area21/_/Girls)
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Grant — Weapon](https://www.last.fm/music/Grant/_/Weapon)<!-- LASTFM:END -->
+* [bbno$ — moneytalk](https://www.last.fm/music/bbno$/_/moneytalk)
+* [Trails — Learn to Love Me](https://www.last.fm/music/Trails/_/Learn+to+Love+Me)
+* [Fusq — Perfume!](https://www.last.fm/music/Fusq/_/Perfume!)
+* [bbno$ — money conversation](https://www.last.fm/music/bbno$/_/money+conversation)
+* [bbno$ — roo doo](https://www.last.fm/music/bbno$/_/roo+doo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
