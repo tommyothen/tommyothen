@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)
 * [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
-* [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
-* [Fliptrix — Graffiti Won&#39;t Die](https://www.last.fm/music/Fliptrix/_/Graffiti+Won%27t+Die)<!-- LASTFM:END -->
+* [Royal &amp; the Serpent — Weddings &amp; Funerals](https://www.last.fm/music/Royal+&amp;+the+Serpent/_/Weddings+&amp;+Funerals)
+* [bbno$ — coasting](https://www.last.fm/music/bbno$/_/coasting)
+* [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
