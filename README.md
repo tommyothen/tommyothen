@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)
+* [Rich Brian — The Sailor](https://www.last.fm/music/Rich+Brian/_/The+Sailor)
 * [bbno$ — nursery](https://www.last.fm/music/bbno$/_/nursery)
 * [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
-* [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)<!-- LASTFM:END -->
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
