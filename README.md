@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jackson Wang — TITANIC &lpar;feat. Rich Brian&rpar;](https://www.last.fm/music/Jackson+Wang/_/TITANIC+&lpar;feat.+Rich+Brian&rpar;)
 * [EARTHGANG — Meditate &lpar;feat. J.I.D.&rpar;](https://www.last.fm/music/EARTHGANG/_/Meditate+&lpar;feat.+J.I.D.&rpar;)
 * [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
 * [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
-* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
