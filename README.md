@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
+* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
 * [lund — Nintey-Six](https://www.last.fm/music/lund/_/Nintey-Six)
 * [Ashnikko — Slumber Party &lpar;feat. Princess Nokia&rpar;](https://www.last.fm/music/Ashnikko/_/Slumber+Party+&lpar;feat.+Princess+Nokia&rpar;)
-* [Rich Brian — Attention &lpar;feat. Offset&rpar;](https://www.last.fm/music/Rich+Brian/_/Attention+&lpar;feat.+Offset&rpar;)
-* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)
-* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)<!-- LASTFM:END -->
+* [Rich Brian — Attention &lpar;feat. Offset&rpar;](https://www.last.fm/music/Rich+Brian/_/Attention+&lpar;feat.+Offset&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
