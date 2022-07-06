@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [T. Shan — Pheromone](https://www.last.fm/music/T.+Shan/_/Pheromone)
 * [In Love With a Ghost — x_hyper_feelings_x](https://www.last.fm/music/In+Love+With+a+Ghost/_/x_hyper_feelings_x)
 * [JERHELL — Ice Cream -](https://www.last.fm/music/JERHELL/_/Ice+Cream+-)
 * [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
-* [REI AMI — SNOWCONE](https://www.last.fm/music/REI+AMI/_/SNOWCONE)
-* [Niki — Sugarplum Elegy](https://www.last.fm/music/Niki/_/Sugarplum+Elegy)<!-- LASTFM:END -->
+* [REI AMI — SNOWCONE](https://www.last.fm/music/REI+AMI/_/SNOWCONE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
