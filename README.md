@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jianbo — Music or Money](https://www.last.fm/music/Jianbo/_/Music+or+Money)
 * [Jianbo — S.H.A.O.L.I.N](https://www.last.fm/music/Jianbo/_/S.H.A.O.L.I.N)
 * [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)
 * [Unlike Pluto — Worst In Me](https://www.last.fm/music/Unlike+Pluto/_/Worst+In+Me)
-* [Triple One — Autumn Collection](https://www.last.fm/music/Triple+One/_/Autumn+Collection)
-* [Unlike Pluto — No Scrubs](https://www.last.fm/music/Unlike+Pluto/_/No+Scrubs)<!-- LASTFM:END -->
+* [Triple One — Autumn Collection](https://www.last.fm/music/Triple+One/_/Autumn+Collection)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
