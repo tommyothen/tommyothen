@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [s0cliché — Ted Bundy](https://www.last.fm/music/s0clich%C3%A9/_/Ted+Bundy)
-* [Trechor Boy — FEMBOY](https://www.last.fm/music/Trechor+Boy/_/FEMBOY)
-* [Carson Elliott — Not Ghosting U](https://www.last.fm/music/Carson+Elliott/_/Not+Ghosting+U)
-* [Rory Webley — Something Super Sweet](https://www.last.fm/music/Rory+Webley/_/Something+Super+Sweet)<!-- LASTFM:END -->
+* [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)
+* [Unlike Pluto — Worst In Me](https://www.last.fm/music/Unlike+Pluto/_/Worst+In+Me)
+* [Triple One — Autumn Collection](https://www.last.fm/music/Triple+One/_/Autumn+Collection)
+* [Unlike Pluto — No Scrubs](https://www.last.fm/music/Unlike+Pluto/_/No+Scrubs)
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
