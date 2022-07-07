@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vantage — 50//50](https://www.last.fm/music/Vantage/_/50%2F%2F50)
 * [Jukio Kallio — Fall &#39;N&#39; Roll](https://www.last.fm/music/Jukio+Kallio/_/Fall+%27N%27+Roll)
 * [Jukio Kallio — Fall &#39;N&#39; Roll](https://www.last.fm/music/Jukio+Kallio/_/Fall+%27N%27+Roll)
 * [Jianbo — Mongkok Madness](https://www.last.fm/music/Jianbo/_/Mongkok+Madness)
-* [Jianbo — Music or Money](https://www.last.fm/music/Jianbo/_/Music+or+Money)
-* [Jianbo — S.H.A.O.L.I.N](https://www.last.fm/music/Jianbo/_/S.H.A.O.L.I.N)<!-- LASTFM:END -->
+* [Jianbo — Music or Money](https://www.last.fm/music/Jianbo/_/Music+or+Money)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
