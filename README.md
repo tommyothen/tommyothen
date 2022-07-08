@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
+* [Aiobahn — ここにいる - Stephen Walking Remix](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+-+Stephen+Walking+Remix)
+* [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)
 * [King Kavalier — Bad Drugs](https://www.last.fm/music/King+Kavalier/_/Bad+Drugs)
-* [Verzache — Losing My Love](https://www.last.fm/music/Verzache/_/Losing+My+Love)
-* [Rich Brian — Attention &lpar;feat. Offset&rpar;](https://www.last.fm/music/Rich+Brian/_/Attention+&lpar;feat.+Offset&rpar;)
-* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
-* [nothing,nowhere. — hammer](https://www.last.fm/music/nothing,nowhere./_/hammer)<!-- LASTFM:END -->
+* [Verzache — Losing My Love](https://www.last.fm/music/Verzache/_/Losing+My+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
