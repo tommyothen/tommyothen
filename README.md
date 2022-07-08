@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
+* [KidPsycho — Sesame Street](https://www.last.fm/music/KidPsycho/_/Sesame+Street)
 * [92 — Just Say You Want It](https://www.last.fm/music/92/_/Just+Say+You+Want+It)
 * [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
-* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
-* [slowthai — terms &lpar;feat. Dominic Fike &amp; Denzel Curry&rpar;](https://www.last.fm/music/slowthai/_/terms+&lpar;feat.+Dominic+Fike+&amp;+Denzel+Curry&rpar;)<!-- LASTFM:END -->
+* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
