@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
-* [Kazuo — OH WOW](https://www.last.fm/music/Kazuo/_/OH+WOW)
-* [D-Real [愛] — Love In The East](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Love+In+The+East)
-* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
-* [Kuwago — Let&#39;s start](https://www.last.fm/music/Kuwago/_/Let%27s+start)<!-- LASTFM:END -->
+* [King Kavalier — Bad Drugs](https://www.last.fm/music/King+Kavalier/_/Bad+Drugs)
+* [Verzache — Losing My Love](https://www.last.fm/music/Verzache/_/Losing+My+Love)
+* [Rich Brian — Attention &lpar;feat. Offset&rpar;](https://www.last.fm/music/Rich+Brian/_/Attention+&lpar;feat.+Offset&rpar;)
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
+* [nothing,nowhere. — hammer](https://www.last.fm/music/nothing,nowhere./_/hammer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
