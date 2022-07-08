@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kuwago — Let&#39;s start](https://www.last.fm/music/Kuwago/_/Let%27s+start)
+* [Eden — wonder](https://www.last.fm/music/Eden/_/wonder)
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
 * [Moxas — Kaioken X20 Flow](https://www.last.fm/music/Moxas/_/Kaioken+X20+Flow)
-* [Pusher — Sober](https://www.last.fm/music/Pusher/_/Sober)
-* [Shahmen — Dirt](https://www.last.fm/music/Shahmen/_/Dirt)
-* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
-* [Rich Brian — Arizona &lpar;feat. AUGUST 08&rpar;](https://www.last.fm/music/Rich+Brian/_/Arizona+&lpar;feat.+AUGUST+08&rpar;)<!-- LASTFM:END -->
+* [Pusher — Sober](https://www.last.fm/music/Pusher/_/Sober)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
