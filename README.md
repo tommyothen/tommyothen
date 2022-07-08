@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Stephen — Play Me Like a Violin](https://www.last.fm/music/Stephen/_/Play+Me+Like+a+Violin)
+* [Moe Shop — Natural](https://www.last.fm/music/Moe+Shop/_/Natural)
 * [Niki — Sugarplum Elegy](https://www.last.fm/music/Niki/_/Sugarplum+Elegy)
 * [Yung Gravy — Buttered Up](https://www.last.fm/music/Yung+Gravy/_/Buttered+Up)
-* [Tove Lo — disco tits](https://www.last.fm/music/Tove+Lo/_/disco+tits)
-* [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)
-* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)<!-- LASTFM:END -->
+* [Tove Lo — disco tits](https://www.last.fm/music/Tove+Lo/_/disco+tits)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
