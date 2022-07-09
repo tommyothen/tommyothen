@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Wun Two — Leave A Froze](https://www.last.fm/music/Wun+Two/_/Leave+A+Froze)
-* [Hobo Johnson — Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story)
-* [CHUNG HA — Stay Tonight](https://www.last.fm/music/CHUNG+HA/_/Stay+Tonight)
-* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
-* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)<!-- LASTFM:END -->
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
+* [M83 — Outro](https://www.last.fm/music/M83/_/Outro)
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
+* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
+* [Wun Two — Leave A Froze](https://www.last.fm/music/Wun+Two/_/Leave+A+Froze)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
