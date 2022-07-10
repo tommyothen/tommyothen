@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MAX — Blueberry Eyes &lpar;feat. SUGA of BTS&rpar;](https://www.last.fm/music/MAX/_/Blueberry+Eyes+&lpar;feat.+SUGA+of+BTS&rpar;)
+* [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
 * [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [rei brown — Street Fighter](https://www.last.fm/music/rei+brown/_/Street+Fighter)
-* [D-Real [愛] — Interstellar Love Story](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Interstellar+Love+Story)
-* [D-Real [愛] — Coast Ghost](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Coast+Ghost)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)<!-- LASTFM:END -->
+* [rei brown — Street Fighter](https://www.last.fm/music/rei+brown/_/Street+Fighter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
