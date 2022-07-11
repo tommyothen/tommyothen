@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
-* [Kaiyko — Killer on the Drive Home](https://www.last.fm/music/Kaiyko/_/Killer+on+the+Drive+Home)
-* [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)
-* [Rich Brian — Love In My Pocket](https://www.last.fm/music/Rich+Brian/_/Love+In+My+Pocket)
-* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)<!-- LASTFM:END -->
+* [Unprocessed — Real - LLUCID Remix](https://www.last.fm/music/Unprocessed/_/Real+-+LLUCID+Remix)
+* [fish narc — MY BEST](https://www.last.fm/music/fish+narc/_/MY+BEST)
+* [bhertuy — seasons](https://www.last.fm/music/bhertuy/_/seasons)
+* [Kinneret — No Wind Resistance!](https://www.last.fm/music/Kinneret/_/No+Wind+Resistance!)
+* [Blankz — Ice Queen](https://www.last.fm/music/Blankz/_/Ice+Queen)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
