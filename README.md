@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fox Stevenson — All Eyes On Me](https://www.last.fm/music/Fox+Stevenson/_/All+Eyes+On+Me)
+* [Nova Charisma — Gemini](https://www.last.fm/music/Nova+Charisma/_/Gemini)
+* [Resilia — Gambit](https://www.last.fm/music/Resilia/_/Gambit)
 * [driftcat — puzzle](https://www.last.fm/music/driftcat/_/puzzle)
-* [Cat Company — Sad Dance](https://www.last.fm/music/Cat+Company/_/Sad+Dance)
-* [Coletta — Raspberry Cough](https://www.last.fm/music/Coletta/_/Raspberry+Cough)
-* [Poetically — Make It Good](https://www.last.fm/music/Poetically/_/Make+It+Good)
-* [Sake — dishonest](https://www.last.fm/music/Sake/_/dishonest)<!-- LASTFM:END -->
+* [Cat Company — Sad Dance](https://www.last.fm/music/Cat+Company/_/Sad+Dance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
