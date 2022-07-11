@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Acme — ROTTEN ORANGE](https://www.last.fm/music/Acme/_/ROTTEN+ORANGE)
+* [sleepisformortals — WITCH DEN](https://www.last.fm/music/sleepisformortals/_/WITCH+DEN)
+* [93FEETOFSMOKE — ALLTHETHINGSUSAID](https://www.last.fm/music/93FEETOFSMOKE/_/ALLTHETHINGSUSAID)
 * [XXSAGEXX — decaying](https://www.last.fm/music/XXSAGEXX/_/decaying)
-* [Illuminate — Taxi Man](https://www.last.fm/music/Illuminate/_/Taxi+Man)
-* [April 94 — Black Screen](https://www.last.fm/music/April+94/_/Black+Screen)
-* [Mikazuki BIGWAVE — idolstep Yumemi &lpar;&#39;19 Remastered&rpar;](https://www.last.fm/music/Mikazuki+BIGWAVE/_/idolstep+Yumemi+&lpar;%2719+Remastered&rpar;)
-* [The Seafloor Cinema — Find Yourself](https://www.last.fm/music/The+Seafloor+Cinema/_/Find+Yourself)<!-- LASTFM:END -->
+* [Illuminate — Taxi Man](https://www.last.fm/music/Illuminate/_/Taxi+Man)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
