@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXSAGEXX — decaying](https://www.last.fm/music/XXSAGEXX/_/decaying)
+* [Illuminate — Taxi Man](https://www.last.fm/music/Illuminate/_/Taxi+Man)
+* [April 94 — Black Screen](https://www.last.fm/music/April+94/_/Black+Screen)
 * [Mikazuki BIGWAVE — idolstep Yumemi &lpar;&#39;19 Remastered&rpar;](https://www.last.fm/music/Mikazuki+BIGWAVE/_/idolstep+Yumemi+&lpar;%2719+Remastered&rpar;)
-* [The Seafloor Cinema — Find Yourself](https://www.last.fm/music/The+Seafloor+Cinema/_/Find+Yourself)
-* [Jawny — Super Bad Mantra](https://www.last.fm/music/Jawny/_/Super+Bad+Mantra)
-* [Unprocessed — Real - LLUCID Remix](https://www.last.fm/music/Unprocessed/_/Real+-+LLUCID+Remix)
-* [fish narc — MY BEST](https://www.last.fm/music/fish+narc/_/MY+BEST)<!-- LASTFM:END -->
+* [The Seafloor Cinema — Find Yourself](https://www.last.fm/music/The+Seafloor+Cinema/_/Find+Yourself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
