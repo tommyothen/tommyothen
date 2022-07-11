@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Zubin — Perfect Hell](https://www.last.fm/music/Zubin/_/Perfect+Hell)
-* [Hello Yello — Without Me](https://www.last.fm/music/Hello+Yello/_/Without+Me)
-* [ADA ROOK — sardonica](https://www.last.fm/music/ADA+ROOK/_/sardonica)
-* [DROELOE — World Full of Snakes](https://www.last.fm/music/DROELOE/_/World+Full+of+Snakes)
-* [Acme — ROTTEN ORANGE](https://www.last.fm/music/Acme/_/ROTTEN+ORANGE)<!-- LASTFM:END -->
+* [Coletta — Raspberry Cough](https://www.last.fm/music/Coletta/_/Raspberry+Cough)
+* [Poetically — Make It Good](https://www.last.fm/music/Poetically/_/Make+It+Good)
+* [Sake — dishonest](https://www.last.fm/music/Sake/_/dishonest)
+* [BLAHSUM — I&#39;m Alone](https://www.last.fm/music/BLAHSUM/_/I%27m+Alone)
+* [Zubin — Perfect Hell](https://www.last.fm/music/Zubin/_/Perfect+Hell)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
