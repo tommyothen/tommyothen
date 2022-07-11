@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blankz — Ice Queen](https://www.last.fm/music/Blankz/_/Ice+Queen)
+* [Kaiyko — Killer on the Drive Home](https://www.last.fm/music/Kaiyko/_/Killer+on+the+Drive+Home)
 * [Fox Stevenson — All Eyes On Me](https://www.last.fm/music/Fox+Stevenson/_/All+Eyes+On+Me)
 * [Nova Charisma — Gemini](https://www.last.fm/music/Nova+Charisma/_/Gemini)
-* [Resilia — Gambit](https://www.last.fm/music/Resilia/_/Gambit)
-* [driftcat — puzzle](https://www.last.fm/music/driftcat/_/puzzle)
-* [Cat Company — Sad Dance](https://www.last.fm/music/Cat+Company/_/Sad+Dance)<!-- LASTFM:END -->
+* [Resilia — Gambit](https://www.last.fm/music/Resilia/_/Gambit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
