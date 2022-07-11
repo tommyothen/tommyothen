@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [driftcat — puzzle](https://www.last.fm/music/driftcat/_/puzzle)
+* [Cat Company — Sad Dance](https://www.last.fm/music/Cat+Company/_/Sad+Dance)
 * [Coletta — Raspberry Cough](https://www.last.fm/music/Coletta/_/Raspberry+Cough)
 * [Poetically — Make It Good](https://www.last.fm/music/Poetically/_/Make+It+Good)
-* [Sake — dishonest](https://www.last.fm/music/Sake/_/dishonest)
-* [BLAHSUM — I&#39;m Alone](https://www.last.fm/music/BLAHSUM/_/I%27m+Alone)
-* [Zubin — Perfect Hell](https://www.last.fm/music/Zubin/_/Perfect+Hell)<!-- LASTFM:END -->
+* [Sake — dishonest](https://www.last.fm/music/Sake/_/dishonest)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
