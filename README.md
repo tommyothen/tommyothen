@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Unprocessed — Real - LLUCID Remix](https://www.last.fm/music/Unprocessed/_/Real+-+LLUCID+Remix)
+* [fish narc — MY BEST](https://www.last.fm/music/fish+narc/_/MY+BEST)
 * [limeboiler — TFW NO CURE](https://www.last.fm/music/limeboiler/_/TFW+NO+CURE)
 * [bhertuy — seasons](https://www.last.fm/music/bhertuy/_/seasons)
-* [Kinneret — No Wind Resistance!](https://www.last.fm/music/Kinneret/_/No+Wind+Resistance!)
-* [Blankz — Ice Queen](https://www.last.fm/music/Blankz/_/Ice+Queen)
-* [Kaiyko — Killer on the Drive Home](https://www.last.fm/music/Kaiyko/_/Killer+on+the+Drive+Home)<!-- LASTFM:END -->
+* [Kinneret — No Wind Resistance!](https://www.last.fm/music/Kinneret/_/No+Wind+Resistance!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
