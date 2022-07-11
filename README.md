@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
+* [Kaiyko — Killer on the Drive Home](https://www.last.fm/music/Kaiyko/_/Killer+on+the+Drive+Home)
+* [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)
 * [Rich Brian — Love In My Pocket](https://www.last.fm/music/Rich+Brian/_/Love+In+My+Pocket)
-* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
-* [Yung Gravy — Rotisserie](https://www.last.fm/music/Yung+Gravy/_/Rotisserie)
-* [Global Dan — Dark Out](https://www.last.fm/music/Global+Dan/_/Dark+Out)
-* [slushii — Luv U Need U](https://www.last.fm/music/slushii/_/Luv+U+Need+U)<!-- LASTFM:END -->
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
