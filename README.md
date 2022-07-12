@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
+* [Aaron Cartier — GETITRIGHTBACK](https://www.last.fm/music/Aaron+Cartier/_/GETITRIGHTBACK)
+* [Joey Valence — Underground Sound](https://www.last.fm/music/Joey+Valence/_/Underground+Sound)
 * [Kaiyko — Killer on the Drive Home](https://www.last.fm/music/Kaiyko/_/Killer+on+the+Drive+Home)
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [Jukio Kallio — Fall &#39;N&#39; Roll](https://www.last.fm/music/Jukio+Kallio/_/Fall+%27N%27+Roll)
-* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
-* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)<!-- LASTFM:END -->
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
