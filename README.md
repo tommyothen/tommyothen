@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jukio Kallio — Fall &#39;N&#39; Roll](https://www.last.fm/music/Jukio+Kallio/_/Fall+%27N%27+Roll)
+* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
 * [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
 * [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)
-* [Jorja Smith — Blue Lights](https://www.last.fm/music/Jorja+Smith/_/Blue+Lights)
-* [ADA ROOK — sardonica](https://www.last.fm/music/ADA+ROOK/_/sardonica)
-* [DROELOE — World Full of Snakes](https://www.last.fm/music/DROELOE/_/World+Full+of+Snakes)<!-- LASTFM:END -->
+* [Jorja Smith — Blue Lights](https://www.last.fm/music/Jorja+Smith/_/Blue+Lights)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
