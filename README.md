@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)
+* [Jorja Smith — Blue Lights](https://www.last.fm/music/Jorja+Smith/_/Blue+Lights)
+* [ADA ROOK — sardonica](https://www.last.fm/music/ADA+ROOK/_/sardonica)
 * [DROELOE — World Full of Snakes](https://www.last.fm/music/DROELOE/_/World+Full+of+Snakes)
-* [Acme — ROTTEN ORANGE](https://www.last.fm/music/Acme/_/ROTTEN+ORANGE)
-* [sleepisformortals — WITCH DEN](https://www.last.fm/music/sleepisformortals/_/WITCH+DEN)
-* [93FEETOFSMOKE — ALLTHETHINGSUSAID](https://www.last.fm/music/93FEETOFSMOKE/_/ALLTHETHINGSUSAID)
-* [XXSAGEXX — decaying](https://www.last.fm/music/XXSAGEXX/_/decaying)<!-- LASTFM:END -->
+* [Acme — ROTTEN ORANGE](https://www.last.fm/music/Acme/_/ROTTEN+ORANGE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
