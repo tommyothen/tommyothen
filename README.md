@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kaiyko — Killer on the Drive Home](https://www.last.fm/music/Kaiyko/_/Killer+on+the+Drive+Home)
 * [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
 * [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
 * [Aaron Cartier — GETITRIGHTBACK](https://www.last.fm/music/Aaron+Cartier/_/GETITRIGHTBACK)
-* [Joey Valence — Underground Sound](https://www.last.fm/music/Joey+Valence/_/Underground+Sound)
-* [Kaiyko — Killer on the Drive Home](https://www.last.fm/music/Kaiyko/_/Killer+on+the+Drive+Home)<!-- LASTFM:END -->
+* [Joey Valence — Underground Sound](https://www.last.fm/music/Joey+Valence/_/Underground+Sound)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
