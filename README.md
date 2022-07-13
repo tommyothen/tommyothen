@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Geoxor — Abandoned](https://www.last.fm/music/Geoxor/_/Abandoned)
 * [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
 * [Superfly — 覚醒](https://www.last.fm/music/Superfly/_/%E8%A6%9A%E9%86%92)
 * [Atlas — BROKEN BEARINGS](https://www.last.fm/music/Atlas/_/BROKEN+BEARINGS)
-* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
-* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)<!-- LASTFM:END -->
+* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
