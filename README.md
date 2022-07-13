@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
 * [Atlas — BROKEN BEARINGS](https://www.last.fm/music/Atlas/_/BROKEN+BEARINGS)
 * [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
 * [June — Something To Lose](https://www.last.fm/music/June/_/Something+To+Lose)
-* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)
-* [sleepdealer — Escape](https://www.last.fm/music/sleepdealer/_/Escape)<!-- LASTFM:END -->
+* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
