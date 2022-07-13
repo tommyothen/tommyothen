@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gift Of Gab — Freedom Form Flowing](https://www.last.fm/music/Gift+Of+Gab/_/Freedom+Form+Flowing)
+* [Johnny Balik — Honey](https://www.last.fm/music/Johnny+Balik/_/Honey)
+* [Home — We&#39;re Finally Landing](https://www.last.fm/music/Home/_/We%27re+Finally+Landing)
 * [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
-* [Rejjie Snow — Egyptian Luvr &lpar;feat. Aminé and Dana Williams&rpar;](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr+&lpar;feat.+Amin%C3%A9+and+Dana+Williams&rpar;)
-* [MISSIO — Rad Drugz](https://www.last.fm/music/MISSIO/_/Rad+Drugz)
-* [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)
-* [Red Velvet — 러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)<!-- LASTFM:END -->
+* [Rejjie Snow — Egyptian Luvr &lpar;feat. Aminé and Dana Williams&rpar;](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr+&lpar;feat.+Amin%C3%A9+and+Dana+Williams&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
