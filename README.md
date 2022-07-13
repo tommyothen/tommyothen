@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [sapientdream — walls](https://www.last.fm/music/sapientdream/_/walls)
+* [Justin Stone — Bite My Tongue](https://www.last.fm/music/Justin+Stone/_/Bite+My+Tongue)
 * [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
 * [Rich Brian — Cold](https://www.last.fm/music/Rich+Brian/_/Cold)
-* [Marvin Divine — Back Again](https://www.last.fm/music/Marvin+Divine/_/Back+Again)
-* [Niki — move!](https://www.last.fm/music/Niki/_/move!)
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)<!-- LASTFM:END -->
+* [Marvin Divine — Back Again](https://www.last.fm/music/Marvin+Divine/_/Back+Again)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
