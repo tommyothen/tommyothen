@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [sleepdealer — Escape](https://www.last.fm/music/sleepdealer/_/Escape)
+* [Neovaii — Should&#39;ve Started](https://www.last.fm/music/Neovaii/_/Should%27ve+Started)
+* [Superfly — 覚醒](https://www.last.fm/music/Superfly/_/%E8%A6%9A%E9%86%92)
 * [Ark Patrol — Hex](https://www.last.fm/music/Ark+Patrol/_/Hex)
-* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
-* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)
-* [Billy Marchiafava — With Ease](https://www.last.fm/music/Billy+Marchiafava/_/With+Ease)
-* [blackbear — chateau](https://www.last.fm/music/blackbear/_/chateau)<!-- LASTFM:END -->
+* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
