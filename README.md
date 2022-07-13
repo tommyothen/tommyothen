@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Introvert &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Introvert+&lpar;feat.+Joji&rpar;)
+* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
 * [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
-* [Kaiyko — Killer on the Drive Home](https://www.last.fm/music/Kaiyko/_/Killer+on+the+Drive+Home)
-* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
-* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
-* [Aaron Cartier — GETITRIGHTBACK](https://www.last.fm/music/Aaron+Cartier/_/GETITRIGHTBACK)<!-- LASTFM:END -->
+* [Kaiyko — Killer on the Drive Home](https://www.last.fm/music/Kaiyko/_/Killer+on+the+Drive+Home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
