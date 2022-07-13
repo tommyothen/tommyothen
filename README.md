@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
-* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [Moe Shop — Natural](https://www.last.fm/music/Moe+Shop/_/Natural)<!-- LASTFM:END -->
+* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
+* [The Prototypes — Kill The Silence](https://www.last.fm/music/The+Prototypes/_/Kill+The+Silence)
+* [Strawberry Station — Disco Queens](https://www.last.fm/music/Strawberry+Station/_/Disco+Queens)
+* [bbno$ — 3mo](https://www.last.fm/music/bbno$/_/3mo)
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
