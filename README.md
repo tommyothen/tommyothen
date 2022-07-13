@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [sleepdealer — Escape](https://www.last.fm/music/sleepdealer/_/Escape)
-* [Neovaii — Should&#39;ve Started](https://www.last.fm/music/Neovaii/_/Should%27ve+Started)
-* [Superfly — 覚醒](https://www.last.fm/music/Superfly/_/%E8%A6%9A%E9%86%92)
-* [Ark Patrol — Hex](https://www.last.fm/music/Ark+Patrol/_/Hex)
-* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)<!-- LASTFM:END -->
+* [Atlas — BROKEN BEARINGS](https://www.last.fm/music/Atlas/_/BROKEN+BEARINGS)
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
+* [June — Something To Lose](https://www.last.fm/music/June/_/Something+To+Lose)
+* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)
+* [sleepdealer — Escape](https://www.last.fm/music/sleepdealer/_/Escape)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
