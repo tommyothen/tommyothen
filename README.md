@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)
-* [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)
-* [Desired — Broken Heart](https://www.last.fm/music/Desired/_/Broken+Heart)
-* [Sub Focus — Desire &lpar;with Dimension&rpar;](https://www.last.fm/music/Sub+Focus/_/Desire+&lpar;with+Dimension&rpar;)
-* [D-Real [愛] — Nerd Won&#39;t Stop](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Nerd+Won%27t+Stop)<!-- LASTFM:END -->
+* [Lofi.Samurai — dearest](https://www.last.fm/music/Lofi.Samurai/_/dearest)
+* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
+* [Ruel — Dazed &amp; Confused](https://www.last.fm/music/Ruel/_/Dazed+&amp;+Confused)
+* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
+* [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
