@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Su Lee — Cocoa Butter Kisses](https://www.last.fm/music/Su+Lee/_/Cocoa+Butter+Kisses)
-* [bbno$ — imma](https://www.last.fm/music/bbno$/_/imma)
-* [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)
-* [Public Theatre — Anime Intro](https://www.last.fm/music/Public+Theatre/_/Anime+Intro)
-* [Ghost Data — Voice of Eternity](https://www.last.fm/music/Ghost+Data/_/Voice+of+Eternity)<!-- LASTFM:END -->
+* [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)
+* [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)
+* [Desired — Broken Heart](https://www.last.fm/music/Desired/_/Broken+Heart)
+* [Sub Focus — Desire &lpar;with Dimension&rpar;](https://www.last.fm/music/Sub+Focus/_/Desire+&lpar;with+Dimension&rpar;)
+* [D-Real [愛] — Nerd Won&#39;t Stop](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Nerd+Won%27t+Stop)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
