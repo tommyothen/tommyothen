@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
+* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
 * [KidPsycho — Sesame Street](https://www.last.fm/music/KidPsycho/_/Sesame+Street)
 * [Dreamer Isioma — Sensitive](https://www.last.fm/music/Dreamer+Isioma/_/Sensitive)
-* [ProleteR — Throw It Back &lpar;feat. Taskrok&rpar;](https://www.last.fm/music/ProleteR/_/Throw+It+Back+&lpar;feat.+Taskrok&rpar;)
-* [Chance the Rapper — Same Drugs](https://www.last.fm/music/Chance+the+Rapper/_/Same+Drugs)
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)<!-- LASTFM:END -->
+* [ProleteR — Throw It Back &lpar;feat. Taskrok&rpar;](https://www.last.fm/music/ProleteR/_/Throw+It+Back+&lpar;feat.+Taskrok&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
