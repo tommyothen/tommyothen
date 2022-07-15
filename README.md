@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
+* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
 * [Burbank — Sorry, I Like You](https://www.last.fm/music/Burbank/_/Sorry,+I+Like+You)
 * [Global Dan — Dark Out](https://www.last.fm/music/Global+Dan/_/Dark+Out)
-* [Quadeca — Uh Huh!](https://www.last.fm/music/Quadeca/_/Uh+Huh!)
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [Dionysus — Bump The Bass.exe &lpar;Bonus Track&rpar;](https://www.last.fm/music/Dionysus/_/Bump+The+Bass.exe+&lpar;Bonus+Track&rpar;)<!-- LASTFM:END -->
+* [Quadeca — Uh Huh!](https://www.last.fm/music/Quadeca/_/Uh+Huh!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
