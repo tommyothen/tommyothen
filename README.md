@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Duckwrth — I&#39;M DEAD](https://www.last.fm/music/Duckwrth/_/I%27M+DEAD)
 * [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
 * [Kazuo — ICHIBAN](https://www.last.fm/music/Kazuo/_/ICHIBAN)
 * [BROCKHAMPTON — 1999 WILDFIRE](https://www.last.fm/music/BROCKHAMPTON/_/1999+WILDFIRE)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)<!-- LASTFM:END -->
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
