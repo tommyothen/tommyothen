@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [slushii — Luv U Need U](https://www.last.fm/music/slushii/_/Luv+U+Need+U)
-* [Shawn Wasabi — Squeez®](https://www.last.fm/music/Shawn+Wasabi/_/Squeez%C2%AE)
-* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
-* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
-* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)<!-- LASTFM:END -->
+* [KidPsycho — Sesame Street](https://www.last.fm/music/KidPsycho/_/Sesame+Street)
+* [Dreamer Isioma — Sensitive](https://www.last.fm/music/Dreamer+Isioma/_/Sensitive)
+* [ProleteR — Throw It Back &lpar;feat. Taskrok&rpar;](https://www.last.fm/music/ProleteR/_/Throw+It+Back+&lpar;feat.+Taskrok&rpar;)
+* [Chance the Rapper — Same Drugs](https://www.last.fm/music/Chance+the+Rapper/_/Same+Drugs)
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
