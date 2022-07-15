@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lofi.Samurai — dearest](https://www.last.fm/music/Lofi.Samurai/_/dearest)
-* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
-* [Ruel — Dazed &amp; Confused](https://www.last.fm/music/Ruel/_/Dazed+&amp;+Confused)
-* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
-* [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)<!-- LASTFM:END -->
+* [Dionysus — Bump The Bass.exe &lpar;Bonus Track&rpar;](https://www.last.fm/music/Dionysus/_/Bump+The+Bass.exe+&lpar;Bonus+Track&rpar;)
+* [Dionysus — Home](https://www.last.fm/music/Dionysus/_/Home)
+* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
+* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
+* [Lofi.Samurai — dearest](https://www.last.fm/music/Lofi.Samurai/_/dearest)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
