@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LIL DUSTY G — INSECTS](https://www.last.fm/music/LIL+DUSTY+G/_/INSECTS)
+* [khai dreams — Summer is Like a Dream](https://www.last.fm/music/khai+dreams/_/Summer+is+Like+a+Dream)
+* [Rainych — Say So - Japanese Version](https://www.last.fm/music/Rainych/_/Say+So+-+Japanese+Version)
 * [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
-* [Su Lee — Cocoa Butter Kisses](https://www.last.fm/music/Su+Lee/_/Cocoa+Butter+Kisses)
-* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [Area21 — Girls](https://www.last.fm/music/Area21/_/Girls)<!-- LASTFM:END -->
+* [Su Lee — Cocoa Butter Kisses](https://www.last.fm/music/Su+Lee/_/Cocoa+Butter+Kisses)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
