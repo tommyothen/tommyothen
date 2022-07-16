@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Moe Shop — Superstar](https://www.last.fm/music/Moe+Shop/_/Superstar)
+* [knowmadic — Fade](https://www.last.fm/music/knowmadic/_/Fade)
 * [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
 * [Chloe Moriondo — Ghost Adventure Spirit Orb](https://www.last.fm/music/Chloe+Moriondo/_/Ghost+Adventure+Spirit+Orb)
-* [Stonebank — To The Top](https://www.last.fm/music/Stonebank/_/To+The+Top)
-* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
-* [teeawgo — Hijack](https://www.last.fm/music/teeawgo/_/Hijack)<!-- LASTFM:END -->
+* [Stonebank — To The Top](https://www.last.fm/music/Stonebank/_/To+The+Top)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
