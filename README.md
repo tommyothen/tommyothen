@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Bitter Fuck](https://www.last.fm/music/Joji/_/Bitter+Fuck)
+* [Rich Brian — The Sailor](https://www.last.fm/music/Rich+Brian/_/The+Sailor)
 * [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
 * [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
-* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
-* [Moe Shop — Superstar](https://www.last.fm/music/Moe+Shop/_/Superstar)
-* [knowmadic — Fade](https://www.last.fm/music/knowmadic/_/Fade)<!-- LASTFM:END -->
+* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
