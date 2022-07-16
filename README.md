@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
+* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
+* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
 * [Moe Shop — Superstar](https://www.last.fm/music/Moe+Shop/_/Superstar)
-* [knowmadic — Fade](https://www.last.fm/music/knowmadic/_/Fade)
-* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
-* [Chloe Moriondo — Ghost Adventure Spirit Orb](https://www.last.fm/music/Chloe+Moriondo/_/Ghost+Adventure+Spirit+Orb)
-* [Stonebank — To The Top](https://www.last.fm/music/Stonebank/_/To+The+Top)<!-- LASTFM:END -->
+* [knowmadic — Fade](https://www.last.fm/music/knowmadic/_/Fade)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
