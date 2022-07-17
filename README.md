@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
+* [love-sadKiD — Vinyl](https://www.last.fm/music/love-sadKiD/_/Vinyl)
 * [21 Savage — a lot](https://www.last.fm/music/21+Savage/_/a+lot)
 * [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
-* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)
-* [Desired — Sunshine City](https://www.last.fm/music/Desired/_/Sunshine+City)
-* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)<!-- LASTFM:END -->
+* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
