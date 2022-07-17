@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [Grant — The Edge](https://www.last.fm/music/Grant/_/The+Edge)
-* [11 Acorn Lane — Mellow Mouser](https://www.last.fm/music/11+Acorn+Lane/_/Mellow+Mouser)
-* [Young Lungs — &#39;97 Leo 2](https://www.last.fm/music/Young+Lungs/_/%2797+Leo+2)<!-- LASTFM:END -->
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
+* [CHUNG HA — Stay Tonight](https://www.last.fm/music/CHUNG+HA/_/Stay+Tonight)
+* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
