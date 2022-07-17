@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Where Does the Time Go &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Where+Does+the+Time+Go+&lpar;feat.+Joji&rpar;)
+* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
+* [Rich Brian — Arizona &lpar;feat. AUGUST 08&rpar;](https://www.last.fm/music/Rich+Brian/_/Arizona+&lpar;feat.+AUGUST+08&rpar;)
 * [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
-* [Joji — Bitter Fuck](https://www.last.fm/music/Joji/_/Bitter+Fuck)
-* [Rich Brian — The Sailor](https://www.last.fm/music/Rich+Brian/_/The+Sailor)
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)<!-- LASTFM:END -->
+* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
