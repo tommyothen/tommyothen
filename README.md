@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Twice — LOVE FOOLISH](https://www.last.fm/music/Twice/_/LOVE+FOOLISH)
 * [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
 * [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
 * [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
-* [Dreamcatcher — Chase Me](https://www.last.fm/music/Dreamcatcher/_/Chase+Me)<!-- LASTFM:END -->
+* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
