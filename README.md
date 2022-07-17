@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
 * [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
 * [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
-* [TWICE — KNOCK KNOCK](https://www.last.fm/music/TWICE/_/KNOCK+KNOCK)
-* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
-* [Red Velvet - IRENE &amp; SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&amp;+SEULGI/_/Naughty)<!-- LASTFM:END -->
+* [TWICE — KNOCK KNOCK](https://www.last.fm/music/TWICE/_/KNOCK+KNOCK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
