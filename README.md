@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
 * [Aiobahn — ここにいる - Stephen Walking Remix](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+-+Stephen+Walking+Remix)
-* [JKuch — Luna](https://www.last.fm/music/JKuch/_/Luna)
-* [templuv — bleachers](https://www.last.fm/music/templuv/_/bleachers)
-* [Mood Killer — Alien](https://www.last.fm/music/Mood+Killer/_/Alien)
-* [JANE POP — Pulp Fiction](https://www.last.fm/music/JANE+POP/_/Pulp+Fiction)<!-- LASTFM:END -->
+* [JKuch — Luna](https://www.last.fm/music/JKuch/_/Luna)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
