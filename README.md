@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aiobahn — ここにいる - Stephen Walking Remix](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+-+Stephen+Walking+Remix)
 * [JKuch — Luna](https://www.last.fm/music/JKuch/_/Luna)
 * [templuv — bleachers](https://www.last.fm/music/templuv/_/bleachers)
 * [Mood Killer — Alien](https://www.last.fm/music/Mood+Killer/_/Alien)
-* [JANE POP — Pulp Fiction](https://www.last.fm/music/JANE+POP/_/Pulp+Fiction)
-* [trolleycat — =ටᆼට=](https://www.last.fm/music/trolleycat/_/=%E0%B6%A7%E1%86%BC%E0%B6%A7=)<!-- LASTFM:END -->
+* [JANE POP — Pulp Fiction](https://www.last.fm/music/JANE+POP/_/Pulp+Fiction)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
