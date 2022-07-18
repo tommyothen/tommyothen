@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [REI AMI — REI AMI](https://www.last.fm/music/REI+AMI/_/REI+AMI)
-* [REI AMI — damn.](https://www.last.fm/music/REI+AMI/_/damn.)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [REI AMI — do it right &lpar;feat. Aminé&rpar;](https://www.last.fm/music/REI+AMI/_/do+it+right+&lpar;feat.+Amin%C3%A9&rpar;)<!-- LASTFM:END -->
+* [Delto — Problem](https://www.last.fm/music/Delto/_/Problem)
+* [James Landino — Reaction - OSU Edit](https://www.last.fm/music/James+Landino/_/Reaction+-+OSU+Edit)
+* [Juno — Hero](https://www.last.fm/music/Juno/_/Hero)
+* [Deijuvhs — Scumbag Anthem](https://www.last.fm/music/Deijuvhs/_/Scumbag+Anthem)
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
