@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mood Killer — Alien](https://www.last.fm/music/Mood+Killer/_/Alien)
+* [JANE POP — Pulp Fiction](https://www.last.fm/music/JANE+POP/_/Pulp+Fiction)
 * [trolleycat — =ටᆼට=](https://www.last.fm/music/trolleycat/_/=%E0%B6%A7%E1%86%BC%E0%B6%A7=)
 * [siouxxie sixxsta — ketamine](https://www.last.fm/music/siouxxie+sixxsta/_/ketamine)
-* [Juliana Chahayed — Yellow](https://www.last.fm/music/Juliana+Chahayed/_/Yellow)
-* [Delto — Problem](https://www.last.fm/music/Delto/_/Problem)
-* [James Landino — Reaction - OSU Edit](https://www.last.fm/music/James+Landino/_/Reaction+-+OSU+Edit)<!-- LASTFM:END -->
+* [Juliana Chahayed — Yellow](https://www.last.fm/music/Juliana+Chahayed/_/Yellow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
