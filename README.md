@@ -28,9 +28,9 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
+* [Joey Valence — Underground Sound](https://www.last.fm/music/Joey+Valence/_/Underground+Sound)
+* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
+* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
 * [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
 * [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)<!-- LASTFM:END -->
 
