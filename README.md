@@ -31,8 +31,8 @@ Now Playing\
 * [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
 * [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
 * [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)<!-- LASTFM:END -->
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
