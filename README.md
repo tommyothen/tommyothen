@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Twilight Force — Dawn Of The Dragonstar](https://www.last.fm/music/Twilight+Force/_/Dawn+Of+The+Dragonstar)
 * [Belzebubs — Cathedrals Of Mourning](https://www.last.fm/music/Belzebubs/_/Cathedrals+Of+Mourning)
 * [Æther Realm — The Tower](https://www.last.fm/music/%C3%86ther+Realm/_/The+Tower)
 * [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
-* [Burbank — Sorry, I Like You](https://www.last.fm/music/Burbank/_/Sorry,+I+Like+You)<!-- LASTFM:END -->
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
