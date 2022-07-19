@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
+* [Burbank — Sorry, I Like You](https://www.last.fm/music/Burbank/_/Sorry,+I+Like+You)
+* [Yakkle — 愛密集](https://www.last.fm/music/Yakkle/_/%E6%84%9B%E5%AF%86%E9%9B%86)
 * [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
-* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
-* [Dark Cat — Hot Chocolate](https://www.last.fm/music/Dark+Cat/_/Hot+Chocolate)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)<!-- LASTFM:END -->
+* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
