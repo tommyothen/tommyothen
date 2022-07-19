@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Æther Realm — Slave to the Riff](https://www.last.fm/music/%C3%86ther+Realm/_/Slave+to+the+Riff)
+* [The Koxx — A Fool Moon Night](https://www.last.fm/music/The+Koxx/_/A+Fool+Moon+Night)
 * [Twilight Force — Dawn Of The Dragonstar](https://www.last.fm/music/Twilight+Force/_/Dawn+Of+The+Dragonstar)
 * [Belzebubs — Cathedrals Of Mourning](https://www.last.fm/music/Belzebubs/_/Cathedrals+Of+Mourning)
-* [Æther Realm — The Tower](https://www.last.fm/music/%C3%86ther+Realm/_/The+Tower)
-* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)<!-- LASTFM:END -->
+* [Æther Realm — The Tower](https://www.last.fm/music/%C3%86ther+Realm/_/The+Tower)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
