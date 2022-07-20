@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
+* [Bella Poarch — Build A Bitch](https://www.last.fm/music/Bella+Poarch/_/Build+A+Bitch)
+* [Bella Poarch — Dolls](https://www.last.fm/music/Bella+Poarch/_/Dolls)
 * [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Æther Realm — Cycle](https://www.last.fm/music/%C3%86ther+Realm/_/Cycle)
-* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
-* [Sunless Rise — Awakening](https://www.last.fm/music/Sunless+Rise/_/Awakening)<!-- LASTFM:END -->
+* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
