@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
 * [Æther Realm — Cycle](https://www.last.fm/music/%C3%86ther+Realm/_/Cycle)
 * [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
-* [Sunless Rise — Awakening](https://www.last.fm/music/Sunless+Rise/_/Awakening)
-* [Jynx — Fails](https://www.last.fm/music/Jynx/_/Fails)
-* [Xanthochroid — The Sound of a Glinting Blade](https://www.last.fm/music/Xanthochroid/_/The+Sound+of+a+Glinting+Blade)<!-- LASTFM:END -->
+* [Sunless Rise — Awakening](https://www.last.fm/music/Sunless+Rise/_/Awakening)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
