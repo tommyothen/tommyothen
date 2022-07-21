@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Juliana Chahayed — Yellow](https://www.last.fm/music/Juliana+Chahayed/_/Yellow)
-* [JKuch — Luna](https://www.last.fm/music/JKuch/_/Luna)
-* [Kai Whiston — II - Beautiful Losers](https://www.last.fm/music/Kai+Whiston/_/II+-+Beautiful+Losers)
-* [templuv — bleachers](https://www.last.fm/music/templuv/_/bleachers)
-* [Girls Rituals — I Know](https://www.last.fm/music/Girls+Rituals/_/I+Know)<!-- LASTFM:END -->
+* [Nikki Simmons — Fireflies &lpar;Funk Fiction remix&rpar;](https://www.last.fm/music/Nikki+Simmons/_/Fireflies+&lpar;Funk+Fiction+remix&rpar;)
+* [Mood Killer — Alien](https://www.last.fm/music/Mood+Killer/_/Alien)
+* [James Landino — Reaction - OSU Edit](https://www.last.fm/music/James+Landino/_/Reaction+-+OSU+Edit)
+* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)
+* [RAZEGOD — She Is](https://www.last.fm/music/RAZEGOD/_/She+Is)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
