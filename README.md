@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [James Landino — Reaction - OSU Edit](https://www.last.fm/music/James+Landino/_/Reaction+-+OSU+Edit)
-* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)
-* [RAZEGOD — She Is](https://www.last.fm/music/RAZEGOD/_/She+Is)
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
+* [templuv — bleachers](https://www.last.fm/music/templuv/_/bleachers)
+* [Girls Rituals — I Know](https://www.last.fm/music/Girls+Rituals/_/I+Know)
+* [Ben Rosett — Flareon](https://www.last.fm/music/Ben+Rosett/_/Flareon)
+* [STEREO DIVE FOUNDATION — Fabiana](https://www.last.fm/music/STEREO+DIVE+FOUNDATION/_/Fabiana)
+* [senzawa — kiss yo homies](https://www.last.fm/music/senzawa/_/kiss+yo+homies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
