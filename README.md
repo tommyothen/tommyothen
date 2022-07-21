@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Nikki Simmons — Fireflies &lpar;Funk Fiction remix&rpar;](https://www.last.fm/music/Nikki+Simmons/_/Fireflies+&lpar;Funk+Fiction+remix&rpar;)
-* [Mood Killer — Alien](https://www.last.fm/music/Mood+Killer/_/Alien)
-* [James Landino — Reaction - OSU Edit](https://www.last.fm/music/James+Landino/_/Reaction+-+OSU+Edit)
-* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)
-* [RAZEGOD — She Is](https://www.last.fm/music/RAZEGOD/_/She+Is)<!-- LASTFM:END -->
+* [Utsu-P — The Beautiful Puke](https://www.last.fm/music/Utsu-P/_/The+Beautiful+Puke)
+* [Origami Angel — XD Gale of Darkness](https://www.last.fm/music/Origami+Angel/_/XD+Gale+of+Darkness)
+* [LIL NARNIA — come back](https://www.last.fm/music/LIL+NARNIA/_/come+back)
+* [Delto — Problem](https://www.last.fm/music/Delto/_/Problem)
+* [Juno — Hero](https://www.last.fm/music/Juno/_/Hero)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
