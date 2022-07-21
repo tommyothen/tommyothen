@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [James Landino — Reaction - OSU Edit](https://www.last.fm/music/James+Landino/_/Reaction+-+OSU+Edit)
+* [KROI — Fire Brain](https://www.last.fm/music/KROI/_/Fire+Brain)
+* [RAZEGOD — She Is](https://www.last.fm/music/RAZEGOD/_/She+Is)
 * [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Bella Poarch — Build A Bitch](https://www.last.fm/music/Bella+Poarch/_/Build+A+Bitch)
-* [Bella Poarch — Dolls](https://www.last.fm/music/Bella+Poarch/_/Dolls)
 * [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
