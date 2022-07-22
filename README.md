@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Utsu-P — The Beautiful Puke](https://www.last.fm/music/Utsu-P/_/The+Beautiful+Puke)
-* [Origami Angel — XD Gale of Darkness](https://www.last.fm/music/Origami+Angel/_/XD+Gale+of+Darkness)
-* [LIL NARNIA — come back](https://www.last.fm/music/LIL+NARNIA/_/come+back)
-* [Delto — Problem](https://www.last.fm/music/Delto/_/Problem)
-* [Juno — Hero](https://www.last.fm/music/Juno/_/Hero)<!-- LASTFM:END -->
+* [templuv — bleachers](https://www.last.fm/music/templuv/_/bleachers)
+* [Girls Rituals — I Know](https://www.last.fm/music/Girls+Rituals/_/I+Know)
+* [Ben Rosett — Flareon](https://www.last.fm/music/Ben+Rosett/_/Flareon)
+* [STEREO DIVE FOUNDATION — Fabiana](https://www.last.fm/music/STEREO+DIVE+FOUNDATION/_/Fabiana)
+* [senzawa — kiss yo homies](https://www.last.fm/music/senzawa/_/kiss+yo+homies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
