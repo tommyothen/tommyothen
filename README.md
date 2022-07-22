@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kai Whiston — II - Beautiful Losers](https://www.last.fm/music/Kai+Whiston/_/II+-+Beautiful+Losers)
 * [templuv — bleachers](https://www.last.fm/music/templuv/_/bleachers)
 * [Girls Rituals — I Know](https://www.last.fm/music/Girls+Rituals/_/I+Know)
 * [Ben Rosett — Flareon](https://www.last.fm/music/Ben+Rosett/_/Flareon)
-* [STEREO DIVE FOUNDATION — Fabiana](https://www.last.fm/music/STEREO+DIVE+FOUNDATION/_/Fabiana)
-* [senzawa — kiss yo homies](https://www.last.fm/music/senzawa/_/kiss+yo+homies)<!-- LASTFM:END -->
+* [STEREO DIVE FOUNDATION — Fabiana](https://www.last.fm/music/STEREO+DIVE+FOUNDATION/_/Fabiana)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
