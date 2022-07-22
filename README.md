@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kai Whiston — II - Beautiful Losers](https://www.last.fm/music/Kai+Whiston/_/II+-+Beautiful+Losers)
-* [templuv — bleachers](https://www.last.fm/music/templuv/_/bleachers)
-* [Girls Rituals — I Know](https://www.last.fm/music/Girls+Rituals/_/I+Know)
-* [Ben Rosett — Flareon](https://www.last.fm/music/Ben+Rosett/_/Flareon)
-* [STEREO DIVE FOUNDATION — Fabiana](https://www.last.fm/music/STEREO+DIVE+FOUNDATION/_/Fabiana)<!-- LASTFM:END -->
+* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
+* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
