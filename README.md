@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Dead Memories](https://www.last.fm/music/Slipknot/_/Dead+Memories)
 * [love-sadKiD — Cash](https://www.last.fm/music/love-sadKiD/_/Cash)
 * [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
 * [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
-* [Moe Shop — Natural](https://www.last.fm/music/Moe+Shop/_/Natural)
-* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)<!-- LASTFM:END -->
+* [Moe Shop — Natural](https://www.last.fm/music/Moe+Shop/_/Natural)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
