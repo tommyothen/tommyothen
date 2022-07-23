@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
 * [Leonz — Among Us Trap Beat #2](https://www.last.fm/music/Leonz/_/Among+Us+Trap+Beat+%232)
 * [Leonz — Among Us... but its Lucid Dreams](https://www.last.fm/music/Leonz/_/Among+Us...+but+its+Lucid+Dreams)
-* [Leonz — Pigstep](https://www.last.fm/music/Leonz/_/Pigstep)
-* [Leonz — Balls In Your Jaws](https://www.last.fm/music/Leonz/_/Balls+In+Your+Jaws)<!-- LASTFM:END -->
+* [Leonz — Pigstep](https://www.last.fm/music/Leonz/_/Pigstep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
