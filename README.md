@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
+* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
+* [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)
 * [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
-* [Izzie Gibbs — Felonies](https://www.last.fm/music/Izzie+Gibbs/_/Felonies)
-* [Rob $tone — Chill Bill &lpar;feat. J. Davi$ &amp; Spooks&rpar;](https://www.last.fm/music/Rob+$tone/_/Chill+Bill+&lpar;feat.+J.+Davi$+&amp;+Spooks&rpar;)
-* [Pete &amp; Bas — Quick Little Freestyle](https://www.last.fm/music/Pete+&amp;+Bas/_/Quick+Little+Freestyle)
-* [Life of Hojj — Monday](https://www.last.fm/music/Life+of+Hojj/_/Monday)<!-- LASTFM:END -->
+* [Izzie Gibbs — Felonies](https://www.last.fm/music/Izzie+Gibbs/_/Felonies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
