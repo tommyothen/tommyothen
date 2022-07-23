@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rob $tone — Chill Bill &lpar;feat. J. Davi$ &amp; Spooks&rpar;](https://www.last.fm/music/Rob+$tone/_/Chill+Bill+&lpar;feat.+J.+Davi$+&amp;+Spooks&rpar;)
+* [Pete &amp; Bas — Quick Little Freestyle](https://www.last.fm/music/Pete+&amp;+Bas/_/Quick+Little+Freestyle)
 * [Life of Hojj — Monday](https://www.last.fm/music/Life+of+Hojj/_/Monday)
 * [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Leonz — Among Us Trap Beat #2](https://www.last.fm/music/Leonz/_/Among+Us+Trap+Beat+%232)
-* [Leonz — Among Us... but its Lucid Dreams](https://www.last.fm/music/Leonz/_/Among+Us...+but+its+Lucid+Dreams)<!-- LASTFM:END -->
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
