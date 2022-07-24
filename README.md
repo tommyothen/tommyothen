@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
-* [bbno$ — 3mo](https://www.last.fm/music/bbno$/_/3mo)
-* [bbno$ — thankful](https://www.last.fm/music/bbno$/_/thankful)
-* [Eminem — Godzilla &lpar;feat. Juice WRLD&rpar;](https://www.last.fm/music/Eminem/_/Godzilla+&lpar;feat.+Juice+WRLD&rpar;)
-* [Guardin — i think you&#39;re really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)<!-- LASTFM:END -->
+* [Anderson .Paak — Come Down](https://www.last.fm/music/Anderson+.Paak/_/Come+Down)
+* [Grabbitz — Polaroid](https://www.last.fm/music/Grabbitz/_/Polaroid)
+* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
+* [Ark Patrol — Hex](https://www.last.fm/music/Ark+Patrol/_/Hex)
+* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
