@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
 * [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
 * [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
 * [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
-* [khai dreams — Nice Colors](https://www.last.fm/music/khai+dreams/_/Nice+Colors)
-* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)<!-- LASTFM:END -->
+* [khai dreams — Nice Colors](https://www.last.fm/music/khai+dreams/_/Nice+Colors)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
