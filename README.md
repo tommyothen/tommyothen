@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
-* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
-* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
-* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
-* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)<!-- LASTFM:END -->
+* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
+* [sleepdealer — Escape](https://www.last.fm/music/sleepdealer/_/Escape)
+* [Ark Patrol — Let Go](https://www.last.fm/music/Ark+Patrol/_/Let+Go)
+* [Eden — Billie Jean](https://www.last.fm/music/Eden/_/Billie+Jean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
