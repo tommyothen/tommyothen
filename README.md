@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
+* [Forrest. — Your Soul](https://www.last.fm/music/Forrest./_/Your+Soul)
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
 * [Halberd — basement](https://www.last.fm/music/Halberd/_/basement)
-* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
-* [emune — Bonfire](https://www.last.fm/music/emune/_/Bonfire)
-* [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)
-* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)<!-- LASTFM:END -->
+* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
