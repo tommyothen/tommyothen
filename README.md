@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
-* [sleepdealer — Escape](https://www.last.fm/music/sleepdealer/_/Escape)
-* [Ark Patrol — Let Go](https://www.last.fm/music/Ark+Patrol/_/Let+Go)
-* [Eden — Billie Jean](https://www.last.fm/music/Eden/_/Billie+Jean)<!-- LASTFM:END -->
+* [Kudasaibeats — The Girl I Haven&#39;t Met &lpar;Biskwiq Flip&rpar;](https://www.last.fm/music/Kudasaibeats/_/The+Girl+I+Haven%27t+Met+&lpar;Biskwiq+Flip&rpar;)
+* [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
+* [XXXTENTACION — Carry On](https://www.last.fm/music/XXXTENTACION/_/Carry+On)
+* [Shoffy — I Can&#39;t Help](https://www.last.fm/music/Shoffy/_/I+Can%27t+Help)
+* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
