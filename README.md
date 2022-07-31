@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
+* [Abhi The Nomad — Sex n&#39; Drugs](https://www.last.fm/music/Abhi+The+Nomad/_/Sex+n%27+Drugs)
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
 * [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [Forrest. — Your Soul](https://www.last.fm/music/Forrest./_/Your+Soul)
-* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
-* [Halberd — basement](https://www.last.fm/music/Halberd/_/basement)
-* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)<!-- LASTFM:END -->
+* [Forrest. — Your Soul](https://www.last.fm/music/Forrest./_/Your+Soul)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
