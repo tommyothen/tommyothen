@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [elijah who — my new love](https://www.last.fm/music/elijah+who/_/my+new+love)
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [Joji — Bitter Fuck](https://www.last.fm/music/Joji/_/Bitter+Fuck)
 * [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
-* [Abhi The Nomad — Sex n&#39; Drugs](https://www.last.fm/music/Abhi+The+Nomad/_/Sex+n%27+Drugs)
-* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [Forrest. — Your Soul](https://www.last.fm/music/Forrest./_/Your+Soul)<!-- LASTFM:END -->
+* [Abhi The Nomad — Sex n&#39; Drugs](https://www.last.fm/music/Abhi+The+Nomad/_/Sex+n%27+Drugs)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
