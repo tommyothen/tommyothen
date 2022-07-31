@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Samsa — Superlative Heroes](https://www.last.fm/music/Samsa/_/Superlative+Heroes)
 * [XXXTentacion — Jocelyn Flores](https://www.last.fm/music/XXXTentacion/_/Jocelyn+Flores)
 * [Atwood — Best Friends](https://www.last.fm/music/Atwood/_/Best+Friends)
 * [Ciki — Syndrome](https://www.last.fm/music/Ciki/_/Syndrome)
-* [elijah who — my new love](https://www.last.fm/music/elijah+who/_/my+new+love)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)<!-- LASTFM:END -->
+* [elijah who — my new love](https://www.last.fm/music/elijah+who/_/my+new+love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
