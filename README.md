@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kudasaibeats — The Girl I Haven&#39;t Met &lpar;Biskwiq Flip&rpar;](https://www.last.fm/music/Kudasaibeats/_/The+Girl+I+Haven%27t+Met+&lpar;Biskwiq+Flip&rpar;)
-* [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
-* [XXXTENTACION — Carry On](https://www.last.fm/music/XXXTENTACION/_/Carry+On)
-* [Shoffy — I Can&#39;t Help](https://www.last.fm/music/Shoffy/_/I+Can%27t+Help)
-* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)<!-- LASTFM:END -->
+* [Halberd — basement](https://www.last.fm/music/Halberd/_/basement)
+* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
+* [emune — Bonfire](https://www.last.fm/music/emune/_/Bonfire)
+* [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)
+* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
