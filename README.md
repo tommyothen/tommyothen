@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
 * [eli filosov [ p h i l o ] — oneofone_rwrk](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/oneofone_rwrk)
 * [FEDUK — Не одно и тоже](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B5+%D0%BE%D0%B4%D0%BD%D0%BE+%D0%B8+%D1%82%D0%BE%D0%B6%D0%B5)
 * [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
-* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
-* [Samsa — Superlative Heroes](https://www.last.fm/music/Samsa/_/Superlative+Heroes)<!-- LASTFM:END -->
+* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
