@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
+* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
+* [Antoha MC — Сладкий чай - Aslamin Remix](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B9+%D1%87%D0%B0%D0%B9+-+Aslamin+Remix)
 * [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
-* [eli filosov [ p h i l o ] — oneofone_rwrk](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/oneofone_rwrk)
-* [FEDUK — Не одно и тоже](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B5+%D0%BE%D0%B4%D0%BD%D0%BE+%D0%B8+%D1%82%D0%BE%D0%B6%D0%B5)
-* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
-* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)<!-- LASTFM:END -->
+* [eli filosov [ p h i l o ] — oneofone_rwrk](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/oneofone_rwrk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
