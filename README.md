@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cuushe — Magic - Iglooghost Remix](https://www.last.fm/music/Cuushe/_/Magic+-+Iglooghost+Remix)
+* [Plastic Dagger — BETWEEN THE FLAMES](https://www.last.fm/music/Plastic+Dagger/_/BETWEEN+THE+FLAMES)
+* [Lilac — Lightning Priest](https://www.last.fm/music/Lilac/_/Lightning+Priest)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)<!-- LASTFM:END -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
