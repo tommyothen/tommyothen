@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [Fifty Grand — Sudden Loss](https://www.last.fm/music/Fifty+Grand/_/Sudden+Loss)<!-- LASTFM:END -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
