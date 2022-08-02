@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
 * [Pendulum — Self vs Self &lpar;feat. In Flames&rpar;](https://www.last.fm/music/Pendulum/_/Self+vs+Self+&lpar;feat.+In+Flames&rpar;)
 * [Tyler, The Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+The+Creator/_/EARFQUAKE)
 * [Top Bunk — Karma - En Español](https://www.last.fm/music/Top+Bunk/_/Karma+-+En+Espa%C3%B1ol)
-* [Jarv &amp; Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&amp;+Thief/_/Slack-Jaw)
 * [Jarv &amp; Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&amp;+Thief/_/Slack-Jaw)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
