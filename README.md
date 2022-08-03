@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
 * [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
 * [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
 * [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Cuushe — Magic - Iglooghost Remix](https://www.last.fm/music/Cuushe/_/Magic+-+Iglooghost+Remix)
-* [Plastic Dagger — BETWEEN THE FLAMES](https://www.last.fm/music/Plastic+Dagger/_/BETWEEN+THE+FLAMES)<!-- LASTFM:END -->
+* [Cuushe — Magic - Iglooghost Remix](https://www.last.fm/music/Cuushe/_/Magic+-+Iglooghost+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
