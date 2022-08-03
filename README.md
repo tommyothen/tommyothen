@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
 * [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
 * [Cuushe — Magic - Iglooghost Remix](https://www.last.fm/music/Cuushe/_/Magic+-+Iglooghost+Remix)
 * [Plastic Dagger — BETWEEN THE FLAMES](https://www.last.fm/music/Plastic+Dagger/_/BETWEEN+THE+FLAMES)
-* [Lilac — Lightning Priest](https://www.last.fm/music/Lilac/_/Lightning+Priest)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
+* [Lilac — Lightning Priest](https://www.last.fm/music/Lilac/_/Lightning+Priest)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
