@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fifty Grand — Sudden Loss](https://www.last.fm/music/Fifty+Grand/_/Sudden+Loss)
+* [50landing — pains](https://www.last.fm/music/50landing/_/pains)
 * [BOY $COUT GATSBY — Let Me In](https://www.last.fm/music/BOY+$COUT+GATSBY/_/Let+Me+In)
 * [平田志穂子 — Heartbeat,Heartbreak](https://www.last.fm/music/%E5%B9%B3%E7%94%B0%E5%BF%97%E7%A9%82%E5%AD%90/_/Heartbeat,Heartbreak)
-* [Cottontail — My Bloody Valentine](https://www.last.fm/music/Cottontail/_/My+Bloody+Valentine)
-* [De&#39;Wayne — Radio-Active](https://www.last.fm/music/De%27Wayne/_/Radio-Active)
-* [Heffy — too bizarre](https://www.last.fm/music/Heffy/_/too+bizarre)<!-- LASTFM:END -->
+* [Cottontail — My Bloody Valentine](https://www.last.fm/music/Cottontail/_/My+Bloody+Valentine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
