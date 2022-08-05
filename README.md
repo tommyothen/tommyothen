@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lilac — Lightning Priest](https://www.last.fm/music/Lilac/_/Lightning+Priest)
+* [Frums — XNOR XNOR XNOR](https://www.last.fm/music/Frums/_/XNOR+XNOR+XNOR)
 * [Sleepa — 619](https://www.last.fm/music/Sleepa/_/619)
 * [The Gentle Men — Your Boyfriend Doesn&#39;t Scare Me](https://www.last.fm/music/The+Gentle+Men/_/Your+Boyfriend+Doesn%27t+Scare+Me)
-* [Quadeca — Sisyphus](https://www.last.fm/music/Quadeca/_/Sisyphus)
-* [Cuushe — Magic - Iglooghost Remix](https://www.last.fm/music/Cuushe/_/Magic+-+Iglooghost+Remix)
-* [Plastic Dagger — BETWEEN THE FLAMES](https://www.last.fm/music/Plastic+Dagger/_/BETWEEN+THE+FLAMES)<!-- LASTFM:END -->
+* [Quadeca — Sisyphus](https://www.last.fm/music/Quadeca/_/Sisyphus)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
