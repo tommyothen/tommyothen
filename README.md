@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Igorrr — Tendon](https://www.last.fm/music/Igorrr/_/Tendon)
-* [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)
-* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
-* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
-* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)<!-- LASTFM:END -->
+* [Cuushe — Magic - Iglooghost Remix](https://www.last.fm/music/Cuushe/_/Magic+-+Iglooghost+Remix)
+* [Plastic Dagger — BETWEEN THE FLAMES](https://www.last.fm/music/Plastic+Dagger/_/BETWEEN+THE+FLAMES)
+* [Cray — eat your heart out](https://www.last.fm/music/Cray/_/eat+your+heart+out)
+* [Jakey — Pine Barrens](https://www.last.fm/music/Jakey/_/Pine+Barrens)
+* [SPEC — Losin&#39; It](https://www.last.fm/music/SPEC/_/Losin%27+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
