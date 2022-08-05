@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cottontail — My Bloody Valentine](https://www.last.fm/music/Cottontail/_/My+Bloody+Valentine)
+* [De&#39;Wayne — Radio-Active](https://www.last.fm/music/De%27Wayne/_/Radio-Active)
+* [Heffy — too bizarre](https://www.last.fm/music/Heffy/_/too+bizarre)
 * [Lilac — Lightning Priest](https://www.last.fm/music/Lilac/_/Lightning+Priest)
-* [Frums — XNOR XNOR XNOR](https://www.last.fm/music/Frums/_/XNOR+XNOR+XNOR)
-* [Sleepa — 619](https://www.last.fm/music/Sleepa/_/619)
-* [The Gentle Men — Your Boyfriend Doesn&#39;t Scare Me](https://www.last.fm/music/The+Gentle+Men/_/Your+Boyfriend+Doesn%27t+Scare+Me)
-* [Quadeca — Sisyphus](https://www.last.fm/music/Quadeca/_/Sisyphus)<!-- LASTFM:END -->
+* [Frums — XNOR XNOR XNOR](https://www.last.fm/music/Frums/_/XNOR+XNOR+XNOR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
