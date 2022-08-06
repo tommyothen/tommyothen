@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
-* [Fifty Grand — Sudden Loss](https://www.last.fm/music/Fifty+Grand/_/Sudden+Loss)
-* [50landing — pains](https://www.last.fm/music/50landing/_/pains)
-* [BOY $COUT GATSBY — Let Me In](https://www.last.fm/music/BOY+$COUT+GATSBY/_/Let+Me+In)
-* [平田志穂子 — Heartbeat,Heartbreak](https://www.last.fm/music/%E5%B9%B3%E7%94%B0%E5%BF%97%E7%A9%82%E5%AD%90/_/Heartbeat,Heartbreak)<!-- LASTFM:END -->
+* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
+* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)
+* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
+* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
