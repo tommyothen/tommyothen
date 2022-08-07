@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Tendon](https://www.last.fm/music/Igorrr/_/Tendon)
+* [Igorrr — Tendon](https://www.last.fm/music/Igorrr/_/Tendon)
 * [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
 * [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
-* [Joey Valence — Punk Tactics](https://www.last.fm/music/Joey+Valence/_/Punk+Tactics)
-* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
-* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)<!-- LASTFM:END -->
+* [Joey Valence — Punk Tactics](https://www.last.fm/music/Joey+Valence/_/Punk+Tactics)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
