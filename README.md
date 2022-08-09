@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
+* [Igorrr — Problème d&#39;émotion](https://www.last.fm/music/Igorrr/_/Probl%C3%A8me+d%27%C3%A9motion)
 * [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
-* [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)
-* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
-* [8485 — So Dark](https://www.last.fm/music/8485/_/So+Dark)
-* [ceo@business.net — take a trip](https://www.last.fm/music/ceo@business.net/_/take+a+trip)<!-- LASTFM:END -->
+* [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
