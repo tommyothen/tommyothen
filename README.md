@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glen Check — Dreaming Kills](https://www.last.fm/music/Glen+Check/_/Dreaming+Kills)
+* [8485 — So Dark](https://www.last.fm/music/8485/_/So+Dark)
 * [Magic Circuit — Witch](https://www.last.fm/music/Magic+Circuit/_/Witch)
 * [Nightlife — all i know](https://www.last.fm/music/Nightlife/_/all+i+know)
-* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
-* [nobody nobody — SAD!](https://www.last.fm/music/nobody+nobody/_/SAD!)
-* [Waterparks — Snow Globe](https://www.last.fm/music/Waterparks/_/Snow+Globe)<!-- LASTFM:END -->
+* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
