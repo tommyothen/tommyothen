@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — I Knew You Were Trouble.](https://www.last.fm/music/Taylor+Swift/_/I+Knew+You+Were+Trouble.)
 * [Lady Gaga — Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)
 * [Paloma Faith — Only Love Can Hurt Like This](https://www.last.fm/music/Paloma+Faith/_/Only+Love+Can+Hurt+Like+This)
 * [Taylor Swift — Shake It Off](https://www.last.fm/music/Taylor+Swift/_/Shake+It+Off)
-* [Adele — Love Is a Game](https://www.last.fm/music/Adele/_/Love+Is+a+Game)
-* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)<!-- LASTFM:END -->
+* [Adele — Love Is a Game](https://www.last.fm/music/Adele/_/Love+Is+a+Game)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
