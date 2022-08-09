@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Igorrr — Hollow Tree](https://www.last.fm/music/Igorrr/_/Hollow+Tree)
-* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)
-* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)
-* [Igorrr — Downgrade Desert](https://www.last.fm/music/Igorrr/_/Downgrade+Desert)
-* [Igorrr — Houmous](https://www.last.fm/music/Igorrr/_/Houmous)<!-- LASTFM:END -->
+* [Magic Circuit — Witch](https://www.last.fm/music/Magic+Circuit/_/Witch)
+* [Nightlife — all i know](https://www.last.fm/music/Nightlife/_/all+i+know)
+* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
+* [nobody nobody — SAD!](https://www.last.fm/music/nobody+nobody/_/SAD!)
+* [Waterparks — Snow Globe](https://www.last.fm/music/Waterparks/_/Snow+Globe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
