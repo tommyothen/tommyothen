@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
-* [Kresnt — 응프리스타일 Eung Freestyle](https://www.last.fm/music/Kresnt/_/%EC%9D%91%ED%94%84%EB%A6%AC%EC%8A%A4%ED%83%80%EC%9D%BC+Eung+Freestyle)<!-- LASTFM:END -->
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
+* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
