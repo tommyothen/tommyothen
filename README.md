@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
+* [Grimes — Symphonia IX &lpar;My Wait Is U&rpar;](https://www.last.fm/music/Grimes/_/Symphonia+IX+&lpar;My+Wait+Is+U&rpar;)
 * [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
 * [Grimes — My Sister Says the Saddest Things](https://www.last.fm/music/Grimes/_/My+Sister+Says+the+Saddest+Things)
-* [Grimes — Zoal, Face Dancer](https://www.last.fm/music/Grimes/_/Zoal,+Face+Dancer)
-* [Neanderthal — Hurt Your Lover](https://www.last.fm/music/Neanderthal/_/Hurt+Your+Lover)
-* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)<!-- LASTFM:END -->
+* [Grimes — Zoal, Face Dancer](https://www.last.fm/music/Grimes/_/Zoal,+Face+Dancer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
