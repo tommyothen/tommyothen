@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
+* [Gastel — Rene](https://www.last.fm/music/Gastel/_/Rene)
+* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
 * [Igorrr — Damaged Wig](https://www.last.fm/music/Igorrr/_/Damaged+Wig)
-* [Igorrr — Excessive Funeral](https://www.last.fm/music/Igorrr/_/Excessive+Funeral)
-* [Igorrr — Houmous](https://www.last.fm/music/Igorrr/_/Houmous)
-* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
-* [Igorrr — Tendon](https://www.last.fm/music/Igorrr/_/Tendon)<!-- LASTFM:END -->
+* [Igorrr — Excessive Funeral](https://www.last.fm/music/Igorrr/_/Excessive+Funeral)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
