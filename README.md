@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Houmous](https://www.last.fm/music/Igorrr/_/Houmous)
+* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
 * [Igorrr — Tendon](https://www.last.fm/music/Igorrr/_/Tendon)
 * [Igorrr — Opus Brain](https://www.last.fm/music/Igorrr/_/Opus+Brain)
-* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
-* [Igorrr — Double Monk](https://www.last.fm/music/Igorrr/_/Double+Monk)
-* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)<!-- LASTFM:END -->
+* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
