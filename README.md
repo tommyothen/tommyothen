@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
 * [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
 * [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
 * [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
-* [Grimes — Symphonia IX &lpar;My Wait Is U&rpar;](https://www.last.fm/music/Grimes/_/Symphonia+IX+&lpar;My+Wait+Is+U&rpar;)
-* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)<!-- LASTFM:END -->
+* [Grimes — Symphonia IX &lpar;My Wait Is U&rpar;](https://www.last.fm/music/Grimes/_/Symphonia+IX+&lpar;My+Wait+Is+U&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
