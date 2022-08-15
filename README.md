@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Niki — The Apartment We Won&#39;t Share](https://www.last.fm/music/Niki/_/The+Apartment+We+Won%27t+Share)
+* [Niki — Keeping Tabs](https://www.last.fm/music/Niki/_/Keeping+Tabs)
+* [Niki — Backburner](https://www.last.fm/music/Niki/_/Backburner)
 * [Niki — High School in Jakarta](https://www.last.fm/music/Niki/_/High+School+in+Jakarta)
-* [Niki — Before](https://www.last.fm/music/Niki/_/Before)
-* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
+* [Niki — Before](https://www.last.fm/music/Niki/_/Before)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
