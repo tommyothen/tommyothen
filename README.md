@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
+* [Niki — Take A Chance With Me](https://www.last.fm/music/Niki/_/Take+A+Chance+With+Me)
 * [Niki — On the Drive Home](https://www.last.fm/music/Niki/_/On+the+Drive+Home)
 * [Niki — Oceans &amp; Engines](https://www.last.fm/music/Niki/_/Oceans+&amp;+Engines)
-* [Niki — Autumn](https://www.last.fm/music/Niki/_/Autumn)
-* [Niki — Milk Teeth](https://www.last.fm/music/Niki/_/Milk+Teeth)
-* [Niki — Anaheim](https://www.last.fm/music/Niki/_/Anaheim)<!-- LASTFM:END -->
+* [Niki — Autumn](https://www.last.fm/music/Niki/_/Autumn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
