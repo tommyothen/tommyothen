@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [No Buses — Home](https://www.last.fm/music/No+Buses/_/Home)
+* [Kizuna Ai — RADIO LOVE HIGHWAY](https://www.last.fm/music/Kizuna+Ai/_/RADIO+LOVE+HIGHWAY)
 * [Hi, I&#39;m Chris — Depression Nap](https://www.last.fm/music/Hi,+I%27m+Chris/_/Depression+Nap)
 * [Kazuo — ORIGAMI!](https://www.last.fm/music/Kazuo/_/ORIGAMI!)
-* [Alice Longyu Gao — LEGEND](https://www.last.fm/music/Alice+Longyu+Gao/_/LEGEND)
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
-* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)<!-- LASTFM:END -->
+* [Alice Longyu Gao — LEGEND](https://www.last.fm/music/Alice+Longyu+Gao/_/LEGEND)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
