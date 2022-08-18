@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mystery Skulls — Glass Casket](https://www.last.fm/music/Mystery+Skulls/_/Glass+Casket)
+* [Castele — Witch&#39;s Flower](https://www.last.fm/music/Castele/_/Witch%27s+Flower)
 * [Left at London — Pills &amp; Good Advice](https://www.last.fm/music/Left+at+London/_/Pills+&amp;+Good+Advice)
 * [LIL BOODANG — Jesus Don&#39;t Like That I&#39;m Gay but Satans Cool With It](https://www.last.fm/music/LIL+BOODANG/_/Jesus+Don%27t+Like+That+I%27m+Gay+but+Satans+Cool+With+It)
-* [CreepP — R.I.P.](https://www.last.fm/music/CreepP/_/R.I.P.)
-* [INNOSENT in FORMAL — Highway](https://www.last.fm/music/INNOSENT+in+FORMAL/_/Highway)
-* [Yung Angel — Lets Fall Apart Together](https://www.last.fm/music/Yung+Angel/_/Lets+Fall+Apart+Together)<!-- LASTFM:END -->
+* [CreepP — R.I.P.](https://www.last.fm/music/CreepP/_/R.I.P.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
