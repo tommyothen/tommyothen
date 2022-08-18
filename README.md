@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)
+* [Dr. Dre — The Next Episode](https://www.last.fm/music/Dr.+Dre/_/The+Next+Episode)
+* [The Kid LAROI — STAY &lpar;with Justin Bieber&rpar;](https://www.last.fm/music/The+Kid+LAROI/_/STAY+&lpar;with+Justin+Bieber&rpar;)
 * [Duke &amp; Jones — Jiggle Jiggle](https://www.last.fm/music/Duke+&amp;+Jones/_/Jiggle+Jiggle)
-* [Pitbull — Time of Our Lives](https://www.last.fm/music/Pitbull/_/Time+of+Our+Lives)
-* [INNOSENT in FORMAL — Highway](https://www.last.fm/music/INNOSENT+in+FORMAL/_/Highway)
-* [Yung Angel — Lets Fall Apart Together](https://www.last.fm/music/Yung+Angel/_/Lets+Fall+Apart+Together)
-* [Ano — SWEETSIDE SUICIDE](https://www.last.fm/music/Ano/_/SWEETSIDE+SUICIDE)<!-- LASTFM:END -->
+* [Pitbull — Time of Our Lives](https://www.last.fm/music/Pitbull/_/Time+of+Our+Lives)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
