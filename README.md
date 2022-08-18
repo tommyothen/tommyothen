@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Angel — Lets Fall Apart Together](https://www.last.fm/music/Yung+Angel/_/Lets+Fall+Apart+Together)
+* [Ano — SWEETSIDE SUICIDE](https://www.last.fm/music/Ano/_/SWEETSIDE+SUICIDE)
 * [Kero Kero Bonito — The Princess and the Clock](https://www.last.fm/music/Kero+Kero+Bonito/_/The+Princess+and+the+Clock)
 * [That Kid — Rocket](https://www.last.fm/music/That+Kid/_/Rocket)
-* [Metaroom — TRASH CLAN](https://www.last.fm/music/Metaroom/_/TRASH+CLAN)
-* [Tiffany Day — SPOILED BITCH](https://www.last.fm/music/Tiffany+Day/_/SPOILED+BITCH)
-* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)<!-- LASTFM:END -->
+* [Metaroom — TRASH CLAN](https://www.last.fm/music/Metaroom/_/TRASH+CLAN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
