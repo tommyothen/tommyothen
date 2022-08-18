@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hi, I&#39;m Chris — Depression Nap](https://www.last.fm/music/Hi,+I%27m+Chris/_/Depression+Nap)
 * [Kazuo — ORIGAMI!](https://www.last.fm/music/Kazuo/_/ORIGAMI!)
 * [Alice Longyu Gao — LEGEND](https://www.last.fm/music/Alice+Longyu+Gao/_/LEGEND)
 * [Katy Perry — California Gurls &lpar;feat. Snoop Dogg&rpar;](https://www.last.fm/music/Katy+Perry/_/California+Gurls+&lpar;feat.+Snoop+Dogg&rpar;)
-* [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)
-* [Dr. Dre — The Next Episode](https://www.last.fm/music/Dr.+Dre/_/The+Next+Episode)<!-- LASTFM:END -->
+* [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
