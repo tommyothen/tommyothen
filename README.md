@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Duke &amp; Jones — Jiggle Jiggle](https://www.last.fm/music/Duke+&amp;+Jones/_/Jiggle+Jiggle)
+* [Pitbull — Time of Our Lives](https://www.last.fm/music/Pitbull/_/Time+of+Our+Lives)
+* [INNOSENT in FORMAL — Highway](https://www.last.fm/music/INNOSENT+in+FORMAL/_/Highway)
 * [Yung Angel — Lets Fall Apart Together](https://www.last.fm/music/Yung+Angel/_/Lets+Fall+Apart+Together)
-* [Ano — SWEETSIDE SUICIDE](https://www.last.fm/music/Ano/_/SWEETSIDE+SUICIDE)
-* [Kero Kero Bonito — The Princess and the Clock](https://www.last.fm/music/Kero+Kero+Bonito/_/The+Princess+and+the+Clock)
-* [That Kid — Rocket](https://www.last.fm/music/That+Kid/_/Rocket)
-* [Metaroom — TRASH CLAN](https://www.last.fm/music/Metaroom/_/TRASH+CLAN)<!-- LASTFM:END -->
+* [Ano — SWEETSIDE SUICIDE](https://www.last.fm/music/Ano/_/SWEETSIDE+SUICIDE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
