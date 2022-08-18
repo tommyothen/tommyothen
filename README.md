@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kero Kero Bonito — The Princess and the Clock](https://www.last.fm/music/Kero+Kero+Bonito/_/The+Princess+and+the+Clock)
+* [That Kid — Rocket](https://www.last.fm/music/That+Kid/_/Rocket)
 * [Metaroom — TRASH CLAN](https://www.last.fm/music/Metaroom/_/TRASH+CLAN)
 * [Tiffany Day — SPOILED BITCH](https://www.last.fm/music/Tiffany+Day/_/SPOILED+BITCH)
-* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)
-* [No Buses — Home](https://www.last.fm/music/No+Buses/_/Home)
-* [Kizuna Ai — RADIO LOVE HIGHWAY](https://www.last.fm/music/Kizuna+Ai/_/RADIO+LOVE+HIGHWAY)<!-- LASTFM:END -->
+* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
