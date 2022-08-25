@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)
+* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
+* [Igorrr — Hollow Tree](https://www.last.fm/music/Igorrr/_/Hollow+Tree)
 * [Igorrr — Au Revoir](https://www.last.fm/music/Igorrr/_/Au+Revoir)
-* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)
-* [Igorrr — Polyphonic Rust](https://www.last.fm/music/Igorrr/_/Polyphonic+Rust)
-* [Igorrr — Tendon](https://www.last.fm/music/Igorrr/_/Tendon)
-* [Johnny Balik — Honey](https://www.last.fm/music/Johnny+Balik/_/Honey)<!-- LASTFM:END -->
+* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
