@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
 * [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)
 * [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
 * [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
-* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)<!-- LASTFM:END -->
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
