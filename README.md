@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
+* [Igorrr — Lost in Introspection](https://www.last.fm/music/Igorrr/_/Lost+in+Introspection)
 * [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)
 * [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
-* [Igorrr — Hollow Tree](https://www.last.fm/music/Igorrr/_/Hollow+Tree)
-* [Igorrr — Au Revoir](https://www.last.fm/music/Igorrr/_/Au+Revoir)
-* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)<!-- LASTFM:END -->
+* [Igorrr — Hollow Tree](https://www.last.fm/music/Igorrr/_/Hollow+Tree)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
