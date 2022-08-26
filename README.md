@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)
+* [Ky Vöss — Masochism](https://www.last.fm/music/Ky+V%C3%B6ss/_/Masochism)
 * [Ky Vöss — Trust Me](https://www.last.fm/music/Ky+V%C3%B6ss/_/Trust+Me)
 * [Ky Vöss — Catch Yourself](https://www.last.fm/music/Ky+V%C3%B6ss/_/Catch+Yourself)
-* [Ky Vöss — Thank You, Sorry](https://www.last.fm/music/Ky+V%C3%B6ss/_/Thank+You,+Sorry)
-* [Charlie Curtis-Beard — Anime &amp; Chardonnay](https://www.last.fm/music/Charlie+Curtis-Beard/_/Anime+&amp;+Chardonnay)
-* [Lucrecia — Sleeping slaves of fate](https://www.last.fm/music/Lucrecia/_/Sleeping+slaves+of+fate)<!-- LASTFM:END -->
+* [Ky Vöss — Thank You, Sorry](https://www.last.fm/music/Ky+V%C3%B6ss/_/Thank+You,+Sorry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
