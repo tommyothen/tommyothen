@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [aguagu11 — while &lpar;money&gt;0&rpar;](https://www.last.fm/music/aguagu11/_/while+&lpar;money%3E0&rpar;)
 * [Joji — YUKON &lpar;INTERLUDE&rpar;](https://www.last.fm/music/Joji/_/YUKON+&lpar;INTERLUDE&rpar;)
 * [Vana — You&#39;re Not the Only One](https://www.last.fm/music/Vana/_/You%27re+Not+the+Only+One)
 * [Leo IV — High Maintenance](https://www.last.fm/music/Leo+IV/_/High+Maintenance)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Igorrr — Lost in Introspection](https://www.last.fm/music/Igorrr/_/Lost+in+Introspection)<!-- LASTFM:END -->
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
