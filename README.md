@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ky Vöss — Trust Me](https://www.last.fm/music/Ky+V%C3%B6ss/_/Trust+Me)
+* [Ky Vöss — Catch Yourself](https://www.last.fm/music/Ky+V%C3%B6ss/_/Catch+Yourself)
 * [Ky Vöss — Thank You, Sorry](https://www.last.fm/music/Ky+V%C3%B6ss/_/Thank+You,+Sorry)
 * [Charlie Curtis-Beard — Anime &amp; Chardonnay](https://www.last.fm/music/Charlie+Curtis-Beard/_/Anime+&amp;+Chardonnay)
-* [Lucrecia — Sleeping slaves of fate](https://www.last.fm/music/Lucrecia/_/Sleeping+slaves+of+fate)
-* [Funk Fiction — vs. SAYU &lpar;Vaporwave Version&rpar;](https://www.last.fm/music/Funk+Fiction/_/vs.+SAYU+&lpar;Vaporwave+Version&rpar;)
-* [Mere Notilde — Now That I Have You](https://www.last.fm/music/Mere+Notilde/_/Now+That+I+Have+You)<!-- LASTFM:END -->
+* [Lucrecia — Sleeping slaves of fate](https://www.last.fm/music/Lucrecia/_/Sleeping+slaves+of+fate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
