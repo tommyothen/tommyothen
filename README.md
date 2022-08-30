@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — 777](https://www.last.fm/music/Joji/_/777)
+* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
 * [Mildrage — Silent spear](https://www.last.fm/music/Mildrage/_/Silent+spear)
 * [The Virus and Antidote — BitchYouGotMeFuckedUp](https://www.last.fm/music/The+Virus+and+Antidote/_/BitchYouGotMeFuckedUp)
-* [re6ce — cabin fever](https://www.last.fm/music/re6ce/_/cabin+fever)
-* [CORNER STORE KINGDOM — DESKTOP!!](https://www.last.fm/music/CORNER+STORE+KINGDOM/_/DESKTOP!!)
-* [Haze — hikikomori rock](https://www.last.fm/music/Haze/_/hikikomori+rock)<!-- LASTFM:END -->
+* [re6ce — cabin fever](https://www.last.fm/music/re6ce/_/cabin+fever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
