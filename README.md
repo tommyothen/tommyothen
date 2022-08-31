@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chloe Moriondo — Fruity](https://www.last.fm/music/Chloe+Moriondo/_/Fruity)
+* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
 * [Castle Carousel — Internet Moms](https://www.last.fm/music/Castle+Carousel/_/Internet+Moms)
 * [Taisei Iwasaki — BLOCK SCHOLARS](https://www.last.fm/music/Taisei+Iwasaki/_/BLOCK+SCHOLARS)
-* [Dynastic — caldecott](https://www.last.fm/music/Dynastic/_/caldecott)
-* [bbno$ — yoga &lpar;feat. Rebecca Black&rpar;](https://www.last.fm/music/bbno$/_/yoga+&lpar;feat.+Rebecca+Black&rpar;)
-* [L&#39;exquisite Douleur — I&#39;ll Be Late For My Funeral](https://www.last.fm/music/L%27exquisite+Douleur/_/I%27ll+Be+Late+For+My+Funeral)<!-- LASTFM:END -->
+* [Dynastic — caldecott](https://www.last.fm/music/Dynastic/_/caldecott)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
