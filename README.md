@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
 * [HEARTCORE — 60 BPM](https://www.last.fm/music/HEARTCORE/_/60+BPM)
 * [kaz moon — Furious](https://www.last.fm/music/kaz+moon/_/Furious)
 * [Joji — 777](https://www.last.fm/music/Joji/_/777)
-* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
-* [Mildrage — Silent spear](https://www.last.fm/music/Mildrage/_/Silent+spear)<!-- LASTFM:END -->
+* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
