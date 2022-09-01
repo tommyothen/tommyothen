@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ur pretty — I&#39;ll Never Let You Go](https://www.last.fm/music/ur+pretty/_/I%27ll+Never+Let+You+Go)
-* [Slayyyter — Serial Killer](https://www.last.fm/music/Slayyyter/_/Serial+Killer)
-* [Kensuke Ushio — Devilman No Uta](https://www.last.fm/music/Kensuke+Ushio/_/Devilman+No+Uta)
-* [Mildrage — Silent spear](https://www.last.fm/music/Mildrage/_/Silent+spear)
-* [The Virus and Antidote — BitchYouGotMeFuckedUp](https://www.last.fm/music/The+Virus+and+Antidote/_/BitchYouGotMeFuckedUp)<!-- LASTFM:END -->
+* [fl.vco — worms will eat you one day](https://www.last.fm/music/fl.vco/_/worms+will+eat+you+one+day)
+* [keshi — GET IT](https://www.last.fm/music/keshi/_/GET+IT)
+* [tricot — 混ぜるな危険](https://www.last.fm/music/tricot/_/%E6%B7%B7%E3%81%9C%E3%82%8B%E3%81%AA%E5%8D%B1%E9%99%BA)
+* [sparr00w — Rauch](https://www.last.fm/music/sparr00w/_/Rauch)
+* [League of Legends — Rell, The Iron Maiden](https://www.last.fm/music/League+of+Legends/_/Rell,+The+Iron+Maiden)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
