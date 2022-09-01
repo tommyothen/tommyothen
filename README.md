@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
+* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
 * [Chloe Moriondo — Fruity](https://www.last.fm/music/Chloe+Moriondo/_/Fruity)
 * [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
-* [Castle Carousel — Internet Moms](https://www.last.fm/music/Castle+Carousel/_/Internet+Moms)
-* [Taisei Iwasaki — BLOCK SCHOLARS](https://www.last.fm/music/Taisei+Iwasaki/_/BLOCK+SCHOLARS)<!-- LASTFM:END -->
+* [Castle Carousel — Internet Moms](https://www.last.fm/music/Castle+Carousel/_/Internet+Moms)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
