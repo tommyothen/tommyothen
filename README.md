@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Novacane — GIRLFRIEND](https://www.last.fm/music/Novacane/_/GIRLFRIEND)
+* [Valorant — Fire Again](https://www.last.fm/music/Valorant/_/Fire+Again)
 * [1300 — Rocksta](https://www.last.fm/music/1300/_/Rocksta)
 * [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
-* [Saphir — Jaded](https://www.last.fm/music/Saphir/_/Jaded)
-* [Gloombros — Wig Split](https://www.last.fm/music/Gloombros/_/Wig+Split)
-* [HEARTCORE — 60 BPM](https://www.last.fm/music/HEARTCORE/_/60+BPM)<!-- LASTFM:END -->
+* [Saphir — Jaded](https://www.last.fm/music/Saphir/_/Jaded)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
