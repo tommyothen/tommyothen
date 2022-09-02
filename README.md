@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [kaz moon — Furious](https://www.last.fm/music/kaz+moon/_/Furious)
+* [Joji — 777](https://www.last.fm/music/Joji/_/777)
 * [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
 * [outsiderX — BAD BLOOD](https://www.last.fm/music/outsiderX/_/BAD+BLOOD)
-* [fl.vco — worms will eat you one day](https://www.last.fm/music/fl.vco/_/worms+will+eat+you+one+day)
-* [keshi — GET IT](https://www.last.fm/music/keshi/_/GET+IT)
-* [tricot — 混ぜるな危険](https://www.last.fm/music/tricot/_/%E6%B7%B7%E3%81%9C%E3%82%8B%E3%81%AA%E5%8D%B1%E9%99%BA)<!-- LASTFM:END -->
+* [fl.vco — worms will eat you one day](https://www.last.fm/music/fl.vco/_/worms+will+eat+you+one+day)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
