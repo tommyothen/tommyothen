@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [League of Legends — Rell, The Iron Maiden](https://www.last.fm/music/League+of+Legends/_/Rell,+The+Iron+Maiden)
+* [ur pretty — I&#39;ll Never Let You Go](https://www.last.fm/music/ur+pretty/_/I%27ll+Never+Let+You+Go)
 * [Slayyyter — Serial Killer](https://www.last.fm/music/Slayyyter/_/Serial+Killer)
 * [Kensuke Ushio — Devilman No Uta](https://www.last.fm/music/Kensuke+Ushio/_/Devilman+No+Uta)
-* [Mildrage — Silent spear](https://www.last.fm/music/Mildrage/_/Silent+spear)
-* [The Virus and Antidote — BitchYouGotMeFuckedUp](https://www.last.fm/music/The+Virus+and+Antidote/_/BitchYouGotMeFuckedUp)
-* [re6ce — cabin fever](https://www.last.fm/music/re6ce/_/cabin+fever)<!-- LASTFM:END -->
+* [Mildrage — Silent spear](https://www.last.fm/music/Mildrage/_/Silent+spear)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
