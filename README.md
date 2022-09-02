@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [L&#39;exquisite Douleur — I&#39;ll Be Late For My Funeral](https://www.last.fm/music/L%27exquisite+Douleur/_/I%27ll+Be+Late+For+My+Funeral)
+* [outsiderX — BAD BLOOD](https://www.last.fm/music/outsiderX/_/BAD+BLOOD)
+* [fl.vco — worms will eat you one day](https://www.last.fm/music/fl.vco/_/worms+will+eat+you+one+day)
 * [keshi — GET IT](https://www.last.fm/music/keshi/_/GET+IT)
-* [tricot — 混ぜるな危険](https://www.last.fm/music/tricot/_/%E6%B7%B7%E3%81%9C%E3%82%8B%E3%81%AA%E5%8D%B1%E9%99%BA)
-* [sparr00w — Rauch](https://www.last.fm/music/sparr00w/_/Rauch)
-* [League of Legends — Rell, The Iron Maiden](https://www.last.fm/music/League+of+Legends/_/Rell,+The+Iron+Maiden)
-* [ur pretty — I&#39;ll Never Let You Go](https://www.last.fm/music/ur+pretty/_/I%27ll+Never+Let+You+Go)<!-- LASTFM:END -->
+* [tricot — 混ぜるな危険](https://www.last.fm/music/tricot/_/%E6%B7%B7%E3%81%9C%E3%82%8B%E3%81%AA%E5%8D%B1%E9%99%BA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
