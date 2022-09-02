@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Saphir — Jaded](https://www.last.fm/music/Saphir/_/Jaded)
+* [Gloombros — Wig Split](https://www.last.fm/music/Gloombros/_/Wig+Split)
+* [HEARTCORE — 60 BPM](https://www.last.fm/music/HEARTCORE/_/60+BPM)
 * [kaz moon — Furious](https://www.last.fm/music/kaz+moon/_/Furious)
-* [Joji — 777](https://www.last.fm/music/Joji/_/777)
-* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
-* [Castle Carousel — Internet Moms](https://www.last.fm/music/Castle+Carousel/_/Internet+Moms)
-* [Taisei Iwasaki — BLOCK SCHOLARS](https://www.last.fm/music/Taisei+Iwasaki/_/BLOCK+SCHOLARS)<!-- LASTFM:END -->
+* [Joji — 777](https://www.last.fm/music/Joji/_/777)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
