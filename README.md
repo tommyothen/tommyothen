@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slayyyter — Serial Killer](https://www.last.fm/music/Slayyyter/_/Serial+Killer)
 * [Kensuke Ushio — Devilman No Uta](https://www.last.fm/music/Kensuke+Ushio/_/Devilman+No+Uta)
 * [Mildrage — Silent spear](https://www.last.fm/music/Mildrage/_/Silent+spear)
 * [The Virus and Antidote — BitchYouGotMeFuckedUp](https://www.last.fm/music/The+Virus+and+Antidote/_/BitchYouGotMeFuckedUp)
-* [re6ce — cabin fever](https://www.last.fm/music/re6ce/_/cabin+fever)
-* [CORNER STORE KINGDOM — DESKTOP!!](https://www.last.fm/music/CORNER+STORE+KINGDOM/_/DESKTOP!!)<!-- LASTFM:END -->
+* [re6ce — cabin fever](https://www.last.fm/music/re6ce/_/cabin+fever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
