@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
+* [Kuwago — Let&#39;s start](https://www.last.fm/music/Kuwago/_/Let%27s+start)
+* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
 * [Ghostemane — Mercury: Retrograde](https://www.last.fm/music/Ghostemane/_/Mercury:+Retrograde)
-* [Joji — 777](https://www.last.fm/music/Joji/_/777)
-* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
-* [re6ce — cabin fever](https://www.last.fm/music/re6ce/_/cabin+fever)
-* [CORNER STORE KINGDOM — DESKTOP!!](https://www.last.fm/music/CORNER+STORE+KINGDOM/_/DESKTOP!!)<!-- LASTFM:END -->
+* [Joji — 777](https://www.last.fm/music/Joji/_/777)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
