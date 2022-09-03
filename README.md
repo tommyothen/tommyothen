@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [1300 — Rocksta](https://www.last.fm/music/1300/_/Rocksta)
 * [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
 * [Saphir — Jaded](https://www.last.fm/music/Saphir/_/Jaded)
 * [Gloombros — Wig Split](https://www.last.fm/music/Gloombros/_/Wig+Split)
-* [HEARTCORE — 60 BPM](https://www.last.fm/music/HEARTCORE/_/60+BPM)
-* [kaz moon — Furious](https://www.last.fm/music/kaz+moon/_/Furious)<!-- LASTFM:END -->
+* [HEARTCORE — 60 BPM](https://www.last.fm/music/HEARTCORE/_/60+BPM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
