@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)
 * [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
 * [gianni &amp; kyle — tension](https://www.last.fm/music/gianni+&amp;+kyle/_/tension)
 * [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
-* [Kuwago — Let&#39;s start](https://www.last.fm/music/Kuwago/_/Let%27s+start)
-* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)<!-- LASTFM:END -->
+* [Kuwago — Let&#39;s start](https://www.last.fm/music/Kuwago/_/Let%27s+start)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
