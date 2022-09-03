@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
+* [Froki Drip — Red Sun In The Sky | Drip](https://www.last.fm/music/Froki+Drip/_/Red+Sun+In+The+Sky+%7C+Drip)
+* [The Virus and Antidote — BitchYouGotMeFuckedUp](https://www.last.fm/music/The+Virus+and+Antidote/_/BitchYouGotMeFuckedUp)
 * [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
-* [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)
-* [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
-* [gianni &amp; kyle — tension](https://www.last.fm/music/gianni+&amp;+kyle/_/tension)
-* [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)<!-- LASTFM:END -->
+* [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
