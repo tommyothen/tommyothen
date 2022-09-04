@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
+* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
 * [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
 * [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
-* [Kensuke Ushio — Devilman No Uta](https://www.last.fm/music/Kensuke+Ushio/_/Devilman+No+Uta)
-* [Fei Yu-Ching — 一翦梅](https://www.last.fm/music/Fei+Yu-Ching/_/%E4%B8%80%E7%BF%A6%E6%A2%85)
-* [Fei Yu-Ching — 一翦梅](https://www.last.fm/music/Fei+Yu-Ching/_/%E4%B8%80%E7%BF%A6%E6%A2%85)<!-- LASTFM:END -->
+* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
