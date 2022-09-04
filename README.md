@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
+* [Kensuke Ushio — Devilman No Uta](https://www.last.fm/music/Kensuke+Ushio/_/Devilman+No+Uta)
 * [Fei Yu-Ching — 一翦梅](https://www.last.fm/music/Fei+Yu-Ching/_/%E4%B8%80%E7%BF%A6%E6%A2%85)
-* [Fortuna — Red Sun In The Sky](https://www.last.fm/music/Fortuna/_/Red+Sun+In+The+Sky)
-* [Fortuna — Red Sun In The Sky](https://www.last.fm/music/Fortuna/_/Red+Sun+In+The+Sky)
-* [Fortuna — Red Sun In The Sky](https://www.last.fm/music/Fortuna/_/Red+Sun+In+The+Sky)
+* [Fei Yu-Ching — 一翦梅](https://www.last.fm/music/Fei+Yu-Ching/_/%E4%B8%80%E7%BF%A6%E6%A2%85)
 * [Fortuna — Red Sun In The Sky](https://www.last.fm/music/Fortuna/_/Red+Sun+In+The+Sky)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
