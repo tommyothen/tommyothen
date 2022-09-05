@@ -28,7 +28,7 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Fortuna — Red Sun In The Sky](https://www.last.fm/music/Fortuna/_/Red+Sun+In+The+Sky)
+* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
 * [Fortuna — Red Sun In The Sky](https://www.last.fm/music/Fortuna/_/Red+Sun+In+The+Sky)
 * [Fortuna — Red Sun In The Sky](https://www.last.fm/music/Fortuna/_/Red+Sun+In+The+Sky)
 * [Fortuna — Red Sun In The Sky](https://www.last.fm/music/Fortuna/_/Red+Sun+In+The+Sky)
