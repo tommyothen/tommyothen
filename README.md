@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
 * [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
 * [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
-* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)<!-- LASTFM:END -->
+* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
