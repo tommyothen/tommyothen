@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jagwar Twin — Happy Face](https://www.last.fm/music/Jagwar+Twin/_/Happy+Face)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
-* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)<!-- LASTFM:END -->
+* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
+* [Chloe Moriondo — Fruity](https://www.last.fm/music/Chloe+Moriondo/_/Fruity)
+* [Capsule — Hello](https://www.last.fm/music/Capsule/_/Hello)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
+* [Jagwar Twin — Happy Face](https://www.last.fm/music/Jagwar+Twin/_/Happy+Face)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
