@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Suzi Wu — Hungry](https://www.last.fm/music/Suzi+Wu/_/Hungry)
-* [Vaeo — growing pains](https://www.last.fm/music/Vaeo/_/growing+pains)
-* [FLOOR BABA — WIGGLECORE](https://www.last.fm/music/FLOOR+BABA/_/WIGGLECORE)
-* [Chrissa SJE — Fuck Gabi](https://www.last.fm/music/Chrissa+SJE/_/Fuck+Gabi)<!-- LASTFM:END -->
+* [Mickey Darling — Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl)
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
