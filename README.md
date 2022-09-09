@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
+* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
+* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
 * [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
-* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
-* [SAFARIO — Pressure Love](https://www.last.fm/music/SAFARIO/_/Pressure+Love)
-* [The Kid LAROI — STAY &lpar;with Justin Bieber&rpar;](https://www.last.fm/music/The+Kid+LAROI/_/STAY+&lpar;with+Justin+Bieber&rpar;)
-* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)<!-- LASTFM:END -->
+* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
