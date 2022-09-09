@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cafuné — Tek It - Sped Up](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It+-+Sped+Up)
+* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
+* [Chloe Moriondo — Fruity](https://www.last.fm/music/Chloe+Moriondo/_/Fruity)
 * [Capsule — Hello](https://www.last.fm/music/Capsule/_/Hello)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [Jagwar Twin — Happy Face](https://www.last.fm/music/Jagwar+Twin/_/Happy+Face)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)<!-- LASTFM:END -->
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
