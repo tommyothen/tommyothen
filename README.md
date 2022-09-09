@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tom Cardy — Mixed messages](https://www.last.fm/music/Tom+Cardy/_/Mixed+messages)
-* [Soupy Garbage Juice — If Ya Wanna Drink a Juice](https://www.last.fm/music/Soupy+Garbage+Juice/_/If+Ya+Wanna+Drink+a+Juice)
-* [Kid Smoko — Tommy Boy](https://www.last.fm/music/Kid+Smoko/_/Tommy+Boy)
-* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
-* [Isaac Dunbar — comme des garçons &lpar;like the boys&rpar;](https://www.last.fm/music/Isaac+Dunbar/_/comme+des+gar%C3%A7ons+&lpar;like+the+boys&rpar;)<!-- LASTFM:END -->
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [millennium parade — U - English Version](https://www.last.fm/music/millennium+parade/_/U+-+English+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
