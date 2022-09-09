@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
+* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
 * [SAFARIO — Pressure Love](https://www.last.fm/music/SAFARIO/_/Pressure+Love)
 * [The Kid LAROI — STAY &lpar;with Justin Bieber&rpar;](https://www.last.fm/music/The+Kid+LAROI/_/STAY+&lpar;with+Justin+Bieber&rpar;)
-* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Jawny — Anything You Want](https://www.last.fm/music/Jawny/_/Anything+You+Want)<!-- LASTFM:END -->
+* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
