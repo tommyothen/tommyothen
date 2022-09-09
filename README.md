@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SAFARIO — Pressure Love](https://www.last.fm/music/SAFARIO/_/Pressure+Love)
+* [The Kid LAROI — STAY &lpar;with Justin Bieber&rpar;](https://www.last.fm/music/The+Kid+LAROI/_/STAY+&lpar;with+Justin+Bieber&rpar;)
+* [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Jawny — Anything You Want](https://www.last.fm/music/Jawny/_/Anything+You+Want)
-* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
-* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)<!-- LASTFM:END -->
+* [Jawny — Anything You Want](https://www.last.fm/music/Jawny/_/Anything+You+Want)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
