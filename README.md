@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Fitz and the Tantrums — Out of My League](https://www.last.fm/music/Fitz+and+the+Tantrums/_/Out+of+My+League)
-* [Worry Club — Japanese](https://www.last.fm/music/Worry+Club/_/Japanese)
-* [Jhameel — Feisty &lpar;remix&rpar;](https://www.last.fm/music/Jhameel/_/Feisty+&lpar;remix&rpar;)
-* [Jack Stauber&#39;s Micropop — Benny Worm](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Benny+Worm)
-* [Rex Orange County — Television / So Far So Good](https://www.last.fm/music/Rex+Orange+County/_/Television+%2F+So+Far+So+Good)<!-- LASTFM:END -->
+* [Isaac Dunbar — comme des garçons &lpar;like the boys&rpar;](https://www.last.fm/music/Isaac+Dunbar/_/comme+des+gar%C3%A7ons+&lpar;like+the+boys&rpar;)
+* [Nicky Youre — Sunroof](https://www.last.fm/music/Nicky+Youre/_/Sunroof)
+* [347aidan — Dancing in My Room](https://www.last.fm/music/347aidan/_/Dancing+in+My+Room)
+* [Vantage — I Found You &lpar;feat. Benjamin Ingrosso&rpar;](https://www.last.fm/music/Vantage/_/I+Found+You+&lpar;feat.+Benjamin+Ingrosso&rpar;)
+* [Fitz and the Tantrums — Out of My League](https://www.last.fm/music/Fitz+and+the+Tantrums/_/Out+of+My+League)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
