@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Chrissa SJE — Fuck Gabi](https://www.last.fm/music/Chrissa+SJE/_/Fuck+Gabi)
-* [Spider — Water Sign](https://www.last.fm/music/Spider/_/Water+Sign)
-* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [Suzi Wu — Hungry](https://www.last.fm/music/Suzi+Wu/_/Hungry)
+* [Vaeo — growing pains](https://www.last.fm/music/Vaeo/_/growing+pains)
+* [FLOOR BABA — WIGGLECORE](https://www.last.fm/music/FLOOR+BABA/_/WIGGLECORE)
+* [Chrissa SJE — Fuck Gabi](https://www.last.fm/music/Chrissa+SJE/_/Fuck+Gabi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
