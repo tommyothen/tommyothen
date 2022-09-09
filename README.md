@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
+* [Mickey Darling — Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl)
 * [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [millennium parade — U - English Version](https://www.last.fm/music/millennium+parade/_/U+-+English+Version)<!-- LASTFM:END -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
