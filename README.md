@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
+* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
 * [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
 * [Mickey Darling — Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl)
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)<!-- LASTFM:END -->
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
