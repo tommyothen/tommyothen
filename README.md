@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [347aidan — Dancing in My Room](https://www.last.fm/music/347aidan/_/Dancing+in+My+Room)
-* [Vantage — I Found You &lpar;feat. Benjamin Ingrosso&rpar;](https://www.last.fm/music/Vantage/_/I+Found+You+&lpar;feat.+Benjamin+Ingrosso&rpar;)
-* [Fitz and the Tantrums — Out of My League](https://www.last.fm/music/Fitz+and+the+Tantrums/_/Out+of+My+League)
-* [Worry Club — Japanese](https://www.last.fm/music/Worry+Club/_/Japanese)
-* [Jhameel — Feisty &lpar;remix&rpar;](https://www.last.fm/music/Jhameel/_/Feisty+&lpar;remix&rpar;)<!-- LASTFM:END -->
+* [Tom Cardy — Mixed messages](https://www.last.fm/music/Tom+Cardy/_/Mixed+messages)
+* [Soupy Garbage Juice — If Ya Wanna Drink a Juice](https://www.last.fm/music/Soupy+Garbage+Juice/_/If+Ya+Wanna+Drink+a+Juice)
+* [Kid Smoko — Tommy Boy](https://www.last.fm/music/Kid+Smoko/_/Tommy+Boy)
+* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
+* [Isaac Dunbar — comme des garçons &lpar;like the boys&rpar;](https://www.last.fm/music/Isaac+Dunbar/_/comme+des+gar%C3%A7ons+&lpar;like+the+boys&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
