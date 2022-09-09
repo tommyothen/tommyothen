@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jack Stauber&#39;s Micropop — Peppermint](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Peppermint)
-* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
-* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
-* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
-* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)<!-- LASTFM:END -->
+* [Frances Forever — Space Girl](https://www.last.fm/music/Frances+Forever/_/Space+Girl)
+* [Hot Freaks — Puppy Princess](https://www.last.fm/music/Hot+Freaks/_/Puppy+Princess)
+* [A-wall — Loverboy](https://www.last.fm/music/A-wall/_/Loverboy)
+* [Cavetown — Devil Town](https://www.last.fm/music/Cavetown/_/Devil+Town)
+* [Jack Stauber&#39;s Micropop — Peppermint](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Peppermint)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
