@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Frances Forever — Space Girl](https://www.last.fm/music/Frances+Forever/_/Space+Girl)
-* [Hot Freaks — Puppy Princess](https://www.last.fm/music/Hot+Freaks/_/Puppy+Princess)
-* [A-wall — Loverboy](https://www.last.fm/music/A-wall/_/Loverboy)
-* [Cavetown — Devil Town](https://www.last.fm/music/Cavetown/_/Devil+Town)
-* [Jack Stauber&#39;s Micropop — Peppermint](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Peppermint)<!-- LASTFM:END -->
+* [Fitz and the Tantrums — Out of My League](https://www.last.fm/music/Fitz+and+the+Tantrums/_/Out+of+My+League)
+* [Worry Club — Japanese](https://www.last.fm/music/Worry+Club/_/Japanese)
+* [Jhameel — Feisty &lpar;remix&rpar;](https://www.last.fm/music/Jhameel/_/Feisty+&lpar;remix&rpar;)
+* [Jack Stauber&#39;s Micropop — Benny Worm](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Benny+Worm)
+* [Rex Orange County — Television / So Far So Good](https://www.last.fm/music/Rex+Orange+County/_/Television+%2F+So+Far+So+Good)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
