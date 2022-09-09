@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Capsule — Hello](https://www.last.fm/music/Capsule/_/Hello)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
+* [Jagwar Twin — Happy Face](https://www.last.fm/music/Jagwar+Twin/_/Happy+Face)
 * [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
-* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
-* [Mickey Darling — Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl)<!-- LASTFM:END -->
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
