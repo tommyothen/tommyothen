@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
-* [SAFARIO — Pressure Love](https://www.last.fm/music/SAFARIO/_/Pressure+Love)
-* [Puppet — 2018](https://www.last.fm/music/Puppet/_/2018)
 * [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
-* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)<!-- LASTFM:END -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
+* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
