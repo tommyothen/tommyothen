@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jack Stauber&#39;s Micropop — Choice](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Choice)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
-* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)
-* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)<!-- LASTFM:END -->
+* [Capsule — Hello](https://www.last.fm/music/Capsule/_/Hello)
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
+* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [Jack Stauber&#39;s Micropop — Choice](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Choice)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
