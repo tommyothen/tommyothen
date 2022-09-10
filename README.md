@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chloe Moriondo — Fruity](https://www.last.fm/music/Chloe+Moriondo/_/Fruity)
+* [SUPERFRUIT — GUY.exe](https://www.last.fm/music/SUPERFRUIT/_/GUY.exe)
+* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
 * [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
-* [Mickey Darling — Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl)
-* [Capsule — Hello](https://www.last.fm/music/Capsule/_/Hello)<!-- LASTFM:END -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
