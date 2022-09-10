@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Capsule — Hello](https://www.last.fm/music/Capsule/_/Hello)
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
-* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Jack Stauber&#39;s Micropop — Choice](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Choice)<!-- LASTFM:END -->
+* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
+* [Mickey Darling — Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl)
+* [Capsule — Hello](https://www.last.fm/music/Capsule/_/Hello)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
