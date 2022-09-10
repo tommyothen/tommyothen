@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
 * [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
 * [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
 * [Coin — Crash My Car](https://www.last.fm/music/Coin/_/Crash+My+Car)
-* [Derivakat — HONEY](https://www.last.fm/music/Derivakat/_/HONEY)
-* [Jack Stauber&#39;s Micropop — Benny Worm](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Benny+Worm)<!-- LASTFM:END -->
+* [Derivakat — HONEY](https://www.last.fm/music/Derivakat/_/HONEY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
