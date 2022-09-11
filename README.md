@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jagwar Twin — Happy Face](https://www.last.fm/music/Jagwar+Twin/_/Happy+Face)
 * [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
 * [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
 * [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [The Kid LAROI — STAY &lpar;with Justin Bieber&rpar;](https://www.last.fm/music/The+Kid+LAROI/_/STAY+&lpar;with+Justin+Bieber&rpar;)
-* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)<!-- LASTFM:END -->
+* [The Kid LAROI — STAY &lpar;with Justin Bieber&rpar;](https://www.last.fm/music/The+Kid+LAROI/_/STAY+&lpar;with+Justin+Bieber&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
