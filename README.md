@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
+* [The Wombats — Greek Tragedy - Oliver Nelson TikTok Remix](https://www.last.fm/music/The+Wombats/_/Greek+Tragedy+-+Oliver+Nelson+TikTok+Remix)
 * [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
 * [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
-* [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
-* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)<!-- LASTFM:END -->
+* [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
