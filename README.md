@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fitz and the Tantrums — Out of My League](https://www.last.fm/music/Fitz+and+the+Tantrums/_/Out+of+My+League)
+* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
 * [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
 * [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
-* [AJR — World&#39;s Smallest Violin](https://www.last.fm/music/AJR/_/World%27s+Smallest+Violin)
-* [JVKE — this is what falling in love feels like](https://www.last.fm/music/JVKE/_/this+is+what+falling+in+love+feels+like)<!-- LASTFM:END -->
+* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
