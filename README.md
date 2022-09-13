@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
+* [Jack Stauber&#39;s Micropop — Choice](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Choice)
+* [Kid Smoko — Tommy Boy](https://www.last.fm/music/Kid+Smoko/_/Tommy+Boy)
 * [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
-* [Jagwar Twin — Happy Face](https://www.last.fm/music/Jagwar+Twin/_/Happy+Face)
-* [347aidan — Dancing in My Room](https://www.last.fm/music/347aidan/_/Dancing+in+My+Room)
-* [SAFARIO — Pressure Love](https://www.last.fm/music/SAFARIO/_/Pressure+Love)
-* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)<!-- LASTFM:END -->
+* [Jagwar Twin — Happy Face](https://www.last.fm/music/Jagwar+Twin/_/Happy+Face)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
