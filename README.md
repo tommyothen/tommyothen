@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rex Orange County — Television / So Far So Good](https://www.last.fm/music/Rex+Orange+County/_/Television+%2F+So+Far+So+Good)
-* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
-* [millennium parade — U - English Version](https://www.last.fm/music/millennium+parade/_/U+-+English+Version)
-* [Frances Forever — Space Girl](https://www.last.fm/music/Frances+Forever/_/Space+Girl)
-* [Fitz and the Tantrums — Out of My League](https://www.last.fm/music/Fitz+and+the+Tantrums/_/Out+of+My+League)<!-- LASTFM:END -->
+* [Pharrell Williams — Hug Me](https://www.last.fm/music/Pharrell+Williams/_/Hug+Me)
+* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
+* [The Kid LAROI — STAY &lpar;with Justin Bieber&rpar;](https://www.last.fm/music/The+Kid+LAROI/_/STAY+&lpar;with+Justin+Bieber&rpar;)
+* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
+* [Rex Orange County — Television / So Far So Good](https://www.last.fm/music/Rex+Orange+County/_/Television+%2F+So+Far+So+Good)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
