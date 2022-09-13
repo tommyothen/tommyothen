@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Fitz and the Tantrums — Out of My League](https://www.last.fm/music/Fitz+and+the+Tantrums/_/Out+of+My+League)
-* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)<!-- LASTFM:END -->
+* [Rex Orange County — Television / So Far So Good](https://www.last.fm/music/Rex+Orange+County/_/Television+%2F+So+Far+So+Good)
+* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
+* [millennium parade — U - English Version](https://www.last.fm/music/millennium+parade/_/U+-+English+Version)
+* [Frances Forever — Space Girl](https://www.last.fm/music/Frances+Forever/_/Space+Girl)
+* [Fitz and the Tantrums — Out of My League](https://www.last.fm/music/Fitz+and+the+Tantrums/_/Out+of+My+League)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
