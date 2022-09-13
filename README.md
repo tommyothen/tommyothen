@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
+* [Cafuné — Tek It - Sped Up](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It+-+Sped+Up)
 * [Bo Burnham — Unpaid Intern](https://www.last.fm/music/Bo+Burnham/_/Unpaid+Intern)
 * [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [Shakka — When Will I See You Again](https://www.last.fm/music/Shakka/_/When+Will+I+See+You+Again)
-* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
+* [Shakka — When Will I See You Again](https://www.last.fm/music/Shakka/_/When+Will+I+See+You+Again)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
