@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
 * [Rex Orange County — Television / So Far So Good](https://www.last.fm/music/Rex+Orange+County/_/Television+%2F+So+Far+So+Good)
 * [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
 * [Cafuné — Tek It - Sped Up](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It+-+Sped+Up)
-* [Chloe Moriondo — Fruity](https://www.last.fm/music/Chloe+Moriondo/_/Fruity)
-* [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)<!-- LASTFM:END -->
+* [Chloe Moriondo — Fruity](https://www.last.fm/music/Chloe+Moriondo/_/Fruity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
