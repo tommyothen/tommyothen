@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mickey Darling — Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl)
+* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
 * [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
 * [Cavetown — Devil Town](https://www.last.fm/music/Cavetown/_/Devil+Town)
-* [Isaac Dunbar — comme des garçons &lpar;like the boys&rpar;](https://www.last.fm/music/Isaac+Dunbar/_/comme+des+gar%C3%A7ons+&lpar;like+the+boys&rpar;)
-* [Jawny — Anything You Want](https://www.last.fm/music/Jawny/_/Anything+You+Want)
-* [Pharrell Williams — Hug Me](https://www.last.fm/music/Pharrell+Williams/_/Hug+Me)<!-- LASTFM:END -->
+* [Isaac Dunbar — comme des garçons &lpar;like the boys&rpar;](https://www.last.fm/music/Isaac+Dunbar/_/comme+des+gar%C3%A7ons+&lpar;like+the+boys&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
