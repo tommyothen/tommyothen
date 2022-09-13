@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shakka — When Will I See You Again](https://www.last.fm/music/Shakka/_/When+Will+I+See+You+Again)
+* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
 * [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)
-* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
-* [Worry Club — Japanese](https://www.last.fm/music/Worry+Club/_/Japanese)
-* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)<!-- LASTFM:END -->
+* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
