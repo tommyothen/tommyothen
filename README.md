@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mac Miller — The Spins](https://www.last.fm/music/Mac+Miller/_/The+Spins)
+* [Derivakat — HONEY](https://www.last.fm/music/Derivakat/_/HONEY)
+* [Hot Freaks — Puppy Princess](https://www.last.fm/music/Hot+Freaks/_/Puppy+Princess)
 * [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
-* [Cafuné — Tek It - Sped Up](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It+-+Sped+Up)
-* [Bo Burnham — Unpaid Intern](https://www.last.fm/music/Bo+Burnham/_/Unpaid+Intern)
-* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [Shakka — When Will I See You Again](https://www.last.fm/music/Shakka/_/When+Will+I+See+You+Again)<!-- LASTFM:END -->
+* [Cafuné — Tek It - Sped Up](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It+-+Sped+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
