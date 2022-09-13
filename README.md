@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
+* [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)
 * [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
 * [Worry Club — Japanese](https://www.last.fm/music/Worry+Club/_/Japanese)
-* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Dayglow — Hot Rod](https://www.last.fm/music/Dayglow/_/Hot+Rod)<!-- LASTFM:END -->
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
