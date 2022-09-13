@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
+* [Worry Club — Japanese](https://www.last.fm/music/Worry+Club/_/Japanese)
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Dayglow — Hot Rod](https://www.last.fm/music/Dayglow/_/Hot+Rod)
-* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
-* [Jack Stauber&#39;s Micropop — Choice](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Choice)
-* [Kid Smoko — Tommy Boy](https://www.last.fm/music/Kid+Smoko/_/Tommy+Boy)<!-- LASTFM:END -->
+* [Dayglow — Hot Rod](https://www.last.fm/music/Dayglow/_/Hot+Rod)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
