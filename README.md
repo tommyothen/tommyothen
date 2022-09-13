@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SAFARIO — Pressure Love](https://www.last.fm/music/SAFARIO/_/Pressure+Love)
+* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
+* [Chloe Moriondo — Fruity](https://www.last.fm/music/Chloe+Moriondo/_/Fruity)
 * [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Jhameel — Feisty &lpar;remix&rpar;](https://www.last.fm/music/Jhameel/_/Feisty+&lpar;remix&rpar;)
-* [Mickey Darling — Reverse Cowgirl](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl)
-* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)<!-- LASTFM:END -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
