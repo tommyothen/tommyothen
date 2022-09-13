@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dayglow — Hot Rod](https://www.last.fm/music/Dayglow/_/Hot+Rod)
-* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
-* [Jhameel — Feisty &lpar;remix&rpar;](https://www.last.fm/music/Jhameel/_/Feisty+&lpar;remix&rpar;)
-* [Jawny — Anything You Want](https://www.last.fm/music/Jawny/_/Anything+You+Want)
-* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)<!-- LASTFM:END -->
+* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
+* [Frances Forever — Space Girl](https://www.last.fm/music/Frances+Forever/_/Space+Girl)
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
+* [Hot Freaks — Puppy Princess](https://www.last.fm/music/Hot+Freaks/_/Puppy+Princess)
+* [Dayglow — Hot Rod](https://www.last.fm/music/Dayglow/_/Hot+Rod)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
