@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dayglow — Hot Rod](https://www.last.fm/music/Dayglow/_/Hot+Rod)
+* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
+* [Jhameel — Feisty &lpar;remix&rpar;](https://www.last.fm/music/Jhameel/_/Feisty+&lpar;remix&rpar;)
 * [Jawny — Anything You Want](https://www.last.fm/music/Jawny/_/Anything+You+Want)
-* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [Jack Stauber&#39;s Micropop — Choice](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Choice)
-* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)<!-- LASTFM:END -->
+* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
