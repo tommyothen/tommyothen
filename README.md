@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
 * [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)
 * [Derivakat — HONEY](https://www.last.fm/music/Derivakat/_/HONEY)
 * [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)<!-- LASTFM:END -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
