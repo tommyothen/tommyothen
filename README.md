@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dayglow — Hot Rod](https://www.last.fm/music/Dayglow/_/Hot+Rod)
-* [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)
-* [Jagwar Twin — Happy Face](https://www.last.fm/music/Jagwar+Twin/_/Happy+Face)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
+* [Jawny — Anything You Want](https://www.last.fm/music/Jawny/_/Anything+You+Want)
+* [Lonely God — Marlboro Nights](https://www.last.fm/music/Lonely+God/_/Marlboro+Nights)
+* [Fitz and the Tantrums — Out of My League](https://www.last.fm/music/Fitz+and+the+Tantrums/_/Out+of+My+League)
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
+* [Rex Orange County — Television / So Far So Good](https://www.last.fm/music/Rex+Orange+County/_/Television+%2F+So+Far+So+Good)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
