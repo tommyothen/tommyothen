@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
+* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
 * [Shakka — When Will I See You Again](https://www.last.fm/music/Shakka/_/When+Will+I+See+You+Again)
 * [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)
-* [Willow — Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)<!-- LASTFM:END -->
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
