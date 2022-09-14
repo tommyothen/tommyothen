@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
 * [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
+* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
 * [Shakka — When Will I See You Again](https://www.last.fm/music/Shakka/_/When+Will+I+See+You+Again)
-* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
+* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
