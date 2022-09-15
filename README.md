@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)
-* [Rich Brian — Trespass](https://www.last.fm/music/Rich+Brian/_/Trespass)
-* [slowthai — CANCELLED &lpar;feat. Skepta&rpar;](https://www.last.fm/music/slowthai/_/CANCELLED+&lpar;feat.+Skepta&rpar;)
-* [slowthai — CANCELLED &lpar;feat. Skepta&rpar;](https://www.last.fm/music/slowthai/_/CANCELLED+&lpar;feat.+Skepta&rpar;)<!-- LASTFM:END -->
+* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
+* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
+* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)
+* [Freddie Dredd — WEATHER](https://www.last.fm/music/Freddie+Dredd/_/WEATHER)
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
