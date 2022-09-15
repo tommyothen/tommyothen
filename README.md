@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katie — Remember](https://www.last.fm/music/Katie/_/Remember)
+* [Ramson Badbonez — Hypnodic](https://www.last.fm/music/Ramson+Badbonez/_/Hypnodic)
+* [Ramson Badbonez — Hypnodic](https://www.last.fm/music/Ramson+Badbonez/_/Hypnodic)
 * [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)
-* [lil ricefield — HOHO!](https://www.last.fm/music/lil+ricefield/_/HOHO!)
-* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)
-* [Minecraft King27 — Emerald](https://www.last.fm/music/Minecraft+King27/_/Emerald)
-* [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)<!-- LASTFM:END -->
+* [lil ricefield — HOHO!](https://www.last.fm/music/lil+ricefield/_/HOHO!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
