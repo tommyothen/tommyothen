@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [21 Savage — a lot](https://www.last.fm/music/21+Savage/_/a+lot)
-* [Reece Brunke — Funk Wave](https://www.last.fm/music/Reece+Brunke/_/Funk+Wave)
-* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
-* [Deca — Mammon&#39;s Mantra](https://www.last.fm/music/Deca/_/Mammon%27s+Mantra)
-* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)<!-- LASTFM:END -->
+* [NEVER GET USED TO PEOPLE — Life Letters](https://www.last.fm/music/NEVER+GET+USED+TO+PEOPLE/_/Life+Letters)
+* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
+* [FEDUK — Наш остров &lpar;feat. Garri Vu&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B0%D1%88+%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2+&lpar;feat.+Garri+Vu&rpar;)
+* [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)
+* [Life of Hojj — Monday](https://www.last.fm/music/Life+of+Hojj/_/Monday)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
