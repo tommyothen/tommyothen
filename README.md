@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
-* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
-* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
-* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)<!-- LASTFM:END -->
+* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
+* [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)
+* [Gigi D&#39;Agostino — L&#39;Amour Toujours](https://www.last.fm/music/Gigi+D%27Agostino/_/L%27Amour+Toujours)
+* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
+* [Pouya — Torch](https://www.last.fm/music/Pouya/_/Torch)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
