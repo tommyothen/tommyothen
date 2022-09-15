@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
-* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)
-* [Katie — Remember](https://www.last.fm/music/Katie/_/Remember)
-* [Ramson Badbonez — Hypnodic](https://www.last.fm/music/Ramson+Badbonez/_/Hypnodic)
-* [Ramson Badbonez — Hypnodic](https://www.last.fm/music/Ramson+Badbonez/_/Hypnodic)<!-- LASTFM:END -->
+* [Magic Circuit — Slip](https://www.last.fm/music/Magic+Circuit/_/Slip)
+* [Atlas — BROKEN BEARINGS](https://www.last.fm/music/Atlas/_/BROKEN+BEARINGS)
+* [Kazuo — MOM SAID NO](https://www.last.fm/music/Kazuo/_/MOM+SAID+NO)
+* [FEDUK — Моряк](https://www.last.fm/music/FEDUK/_/%D0%9C%D0%BE%D1%80%D1%8F%D0%BA)
+* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
