@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [NEVER GET USED TO PEOPLE — Life Letters](https://www.last.fm/music/NEVER+GET+USED+TO+PEOPLE/_/Life+Letters)
-* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
-* [FEDUK — Наш остров &lpar;feat. Garri Vu&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B0%D1%88+%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2+&lpar;feat.+Garri+Vu&rpar;)
-* [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)
-* [Life of Hojj — Monday](https://www.last.fm/music/Life+of+Hojj/_/Monday)<!-- LASTFM:END -->
+* [slowthai — CANCELLED &lpar;feat. Skepta&rpar;](https://www.last.fm/music/slowthai/_/CANCELLED+&lpar;feat.+Skepta&rpar;)
+* [slowthai — CANCELLED &lpar;feat. Skepta&rpar;](https://www.last.fm/music/slowthai/_/CANCELLED+&lpar;feat.+Skepta&rpar;)
+* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
+* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
+* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
