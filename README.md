@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
+* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)
 * [Katie — Remember](https://www.last.fm/music/Katie/_/Remember)
 * [Ramson Badbonez — Hypnodic](https://www.last.fm/music/Ramson+Badbonez/_/Hypnodic)
-* [Ramson Badbonez — Hypnodic](https://www.last.fm/music/Ramson+Badbonez/_/Hypnodic)
-* [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)
-* [lil ricefield — HOHO!](https://www.last.fm/music/lil+ricefield/_/HOHO!)<!-- LASTFM:END -->
+* [Ramson Badbonez — Hypnodic](https://www.last.fm/music/Ramson+Badbonez/_/Hypnodic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
