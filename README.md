@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
+* [whitewoods — Be Home Free](https://www.last.fm/music/whitewoods/_/Be+Home+Free)
 * [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
 * [Slipknot — Dead Memories](https://www.last.fm/music/Slipknot/_/Dead+Memories)
-* [slowthai — CANCELLED &lpar;feat. Skepta&rpar;](https://www.last.fm/music/slowthai/_/CANCELLED+&lpar;feat.+Skepta&rpar;)
-* [slowthai — terms &lpar;feat. Dominic Fike &amp; Denzel Curry&rpar;](https://www.last.fm/music/slowthai/_/terms+&lpar;feat.+Dominic+Fike+&amp;+Denzel+Curry&rpar;)
-* [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)<!-- LASTFM:END -->
+* [slowthai — CANCELLED &lpar;feat. Skepta&rpar;](https://www.last.fm/music/slowthai/_/CANCELLED+&lpar;feat.+Skepta&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
