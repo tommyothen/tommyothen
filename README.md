@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Stormzy — Shut Up](https://www.last.fm/music/Stormzy/_/Shut+Up)
-* [Skepta — That&#39;s Not Me](https://www.last.fm/music/Skepta/_/That%27s+Not+Me)
-* [A$AP Rocky — Praise the Lord &lpar;Da Shine&rpar; &lpar;feat. Skepta&rpar;](https://www.last.fm/music/A$AP+Rocky/_/Praise+the+Lord+&lpar;Da+Shine&rpar;+&lpar;feat.+Skepta&rpar;)
-* [Skepta — Shutdown](https://www.last.fm/music/Skepta/_/Shutdown)
-* [Kollegah — Alpha](https://www.last.fm/music/Kollegah/_/Alpha)<!-- LASTFM:END -->
+* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
+* [P Money — Gunfingers &lpar;Feat. JME, Wiley&rpar;](https://www.last.fm/music/P+Money/_/Gunfingers+&lpar;Feat.+JME,+Wiley&rpar;)
+* [Project North — Lethal](https://www.last.fm/music/Project+North/_/Lethal)
+* [Stormzy — Know Me From](https://www.last.fm/music/Stormzy/_/Know+Me+From)
+* [Hardy Caprio — Guten Tag](https://www.last.fm/music/Hardy+Caprio/_/Guten+Tag)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
