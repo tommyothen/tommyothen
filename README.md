@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)
 * [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
 * [P Money — Gunfingers &lpar;Feat. JME, Wiley&rpar;](https://www.last.fm/music/P+Money/_/Gunfingers+&lpar;Feat.+JME,+Wiley&rpar;)
 * [Project North — Lethal](https://www.last.fm/music/Project+North/_/Lethal)
-* [Stormzy — Know Me From](https://www.last.fm/music/Stormzy/_/Know+Me+From)
-* [Hardy Caprio — Guten Tag](https://www.last.fm/music/Hardy+Caprio/_/Guten+Tag)<!-- LASTFM:END -->
+* [Stormzy — Know Me From](https://www.last.fm/music/Stormzy/_/Know+Me+From)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
