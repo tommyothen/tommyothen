@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Smiths — Heaven Knows I&#39;m Miserable Now - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Heaven+Knows+I%27m+Miserable+Now+-+2011+Remaster)
+* [The Strokes — Someday](https://www.last.fm/music/The+Strokes/_/Someday)
 * [Arctic Monkeys — R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F)
 * [Aries — SAYONARA](https://www.last.fm/music/Aries/_/SAYONARA)
-* [Arctic Monkeys — Fluorescent Adolescent](https://www.last.fm/music/Arctic+Monkeys/_/Fluorescent+Adolescent)
-* [Mac Miller — Soulmate](https://www.last.fm/music/Mac+Miller/_/Soulmate)
-* [Noah Cyrus — Mad at You &lpar;with Gallant&rpar;](https://www.last.fm/music/Noah+Cyrus/_/Mad+at+You+&lpar;with+Gallant&rpar;)<!-- LASTFM:END -->
+* [Arctic Monkeys — Fluorescent Adolescent](https://www.last.fm/music/Arctic+Monkeys/_/Fluorescent+Adolescent)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
