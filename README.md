@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rema — Calm Down &lpar;with Selena Gomez&rpar;](https://www.last.fm/music/Rema/_/Calm+Down+&lpar;with+Selena+Gomez&rpar;)
-* [OneRepublic — I Ain&#39;t Worried](https://www.last.fm/music/OneRepublic/_/I+Ain%27t+Worried)
-* [JVKE — golden hour](https://www.last.fm/music/JVKE/_/golden+hour)
-* [Central Cee — Doja](https://www.last.fm/music/Central+Cee/_/Doja)
-* [Central Cee — Doja](https://www.last.fm/music/Central+Cee/_/Doja)<!-- LASTFM:END -->
+* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
+* [Jack Harlow — First Class](https://www.last.fm/music/Jack+Harlow/_/First+Class)
+* [Eliza Rose — B.O.T.A. &lpar;Baddest Of Them All&rpar; - Edit](https://www.last.fm/music/Eliza+Rose/_/B.O.T.A.+&lpar;Baddest+Of+Them+All&rpar;+-+Edit)
+* [Nicki Minaj — Super Freaky Girl](https://www.last.fm/music/Nicki+Minaj/_/Super+Freaky+Girl)
+* [Rema — Calm Down &lpar;with Selena Gomez&rpar;](https://www.last.fm/music/Rema/_/Calm+Down+&lpar;with+Selena+Gomez&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
