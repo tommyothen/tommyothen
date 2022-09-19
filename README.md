@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Miraa May — Angles &lpar;feat. JME&rpar;](https://www.last.fm/music/Miraa+May/_/Angles+&lpar;feat.+JME&rpar;)
-* [JME — P](https://www.last.fm/music/JME/_/P)
-* [JME — Man Don&#39;t Care](https://www.last.fm/music/JME/_/Man+Don%27t+Care)
-* [UK DRILL — Clutch in Clutch Out](https://www.last.fm/music/UK+DRILL/_/Clutch+in+Clutch+Out)
-* [UK DRILL — Hotbox Freestyle](https://www.last.fm/music/UK+DRILL/_/Hotbox+Freestyle)<!-- LASTFM:END -->
+* [Stormzy — Shut Up](https://www.last.fm/music/Stormzy/_/Shut+Up)
+* [Skepta — That&#39;s Not Me](https://www.last.fm/music/Skepta/_/That%27s+Not+Me)
+* [A$AP Rocky — Praise the Lord &lpar;Da Shine&rpar; &lpar;feat. Skepta&rpar;](https://www.last.fm/music/A$AP+Rocky/_/Praise+the+Lord+&lpar;Da+Shine&rpar;+&lpar;feat.+Skepta&rpar;)
+* [Skepta — Shutdown](https://www.last.fm/music/Skepta/_/Shutdown)
+* [Kollegah — Alpha](https://www.last.fm/music/Kollegah/_/Alpha)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
