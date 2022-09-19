@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
+* [Beyoncé — BREAK MY SOUL](https://www.last.fm/music/Beyonc%C3%A9/_/BREAK+MY+SOUL)
 * [Stephen Sanchez — Until I Found You](https://www.last.fm/music/Stephen+Sanchez/_/Until+I+Found+You)
 * [Benny Blanco — Bad Decisions &lpar;with BTS &amp; Snoop Dogg&rpar;](https://www.last.fm/music/Benny+Blanco/_/Bad+Decisions+&lpar;with+BTS+&amp;+Snoop+Dogg&rpar;)
-* [Nicky Youre — Sunroof](https://www.last.fm/music/Nicky+Youre/_/Sunroof)
-* [Dove Cameron — Boyfriend](https://www.last.fm/music/Dove+Cameron/_/Boyfriend)
-* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)<!-- LASTFM:END -->
+* [Nicky Youre — Sunroof](https://www.last.fm/music/Nicky+Youre/_/Sunroof)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
