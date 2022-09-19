@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
-* [Jack Harlow — First Class](https://www.last.fm/music/Jack+Harlow/_/First+Class)
-* [Eliza Rose — B.O.T.A. &lpar;Baddest Of Them All&rpar; - Edit](https://www.last.fm/music/Eliza+Rose/_/B.O.T.A.+&lpar;Baddest+Of+Them+All&rpar;+-+Edit)
-* [Nicki Minaj — Super Freaky Girl](https://www.last.fm/music/Nicki+Minaj/_/Super+Freaky+Girl)
-* [Rema — Calm Down &lpar;with Selena Gomez&rpar;](https://www.last.fm/music/Rema/_/Calm+Down+&lpar;with+Selena+Gomez&rpar;)<!-- LASTFM:END -->
+* [Stephen Sanchez — Until I Found You](https://www.last.fm/music/Stephen+Sanchez/_/Until+I+Found+You)
+* [Benny Blanco — Bad Decisions &lpar;with BTS &amp; Snoop Dogg&rpar;](https://www.last.fm/music/Benny+Blanco/_/Bad+Decisions+&lpar;with+BTS+&amp;+Snoop+Dogg&rpar;)
+* [Nicky Youre — Sunroof](https://www.last.fm/music/Nicky+Youre/_/Sunroof)
+* [Dove Cameron — Boyfriend](https://www.last.fm/music/Dove+Cameron/_/Boyfriend)
+* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
