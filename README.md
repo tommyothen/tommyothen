@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mr FijiWiji — Andromeda](https://www.last.fm/music/Mr+FijiWiji/_/Andromeda)
-* [Russ — Losin Control](https://www.last.fm/music/Russ/_/Losin+Control)
-* [James Blake — Mile High &lpar;feat. Travis Scott &amp; Metro Boomin&rpar;](https://www.last.fm/music/James+Blake/_/Mile+High+&lpar;feat.+Travis+Scott+&amp;+Metro+Boomin&rpar;)
-* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
-* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)<!-- LASTFM:END -->
+* [Joji — ATTENTION](https://www.last.fm/music/Joji/_/ATTENTION)
+* [Travis Scott — goosebumps](https://www.last.fm/music/Travis+Scott/_/goosebumps)
+* [Joji — I Don&#39;t Wanna Waste My Time](https://www.last.fm/music/Joji/_/I+Don%27t+Wanna+Waste+My+Time)
+* [The Weeknd — High for This](https://www.last.fm/music/The+Weeknd/_/High+for+This)
+* [Mr FijiWiji — Andromeda](https://www.last.fm/music/Mr+FijiWiji/_/Andromeda)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
