@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jeremy Zucker — all the kids are depressed](https://www.last.fm/music/Jeremy+Zucker/_/all+the+kids+are+depressed)
-* [The Smiths — Heaven Knows I&#39;m Miserable Now - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Heaven+Knows+I%27m+Miserable+Now+-+2011+Remaster)
-* [The Strokes — Someday](https://www.last.fm/music/The+Strokes/_/Someday)
-* [Arctic Monkeys — R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F)
-* [Aries — SAYONARA](https://www.last.fm/music/Aries/_/SAYONARA)<!-- LASTFM:END -->
+* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
+* [Tyler, The Creator — See You Again &lpar;feat. Kali Uchis&rpar;](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+&lpar;feat.+Kali+Uchis&rpar;)
+* [The Strokes — Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)
+* [Joy Division — Love Will Tear Us Apart](https://www.last.fm/music/Joy+Division/_/Love+Will+Tear+Us+Apart)
+* [Jeremy Zucker — all the kids are depressed](https://www.last.fm/music/Jeremy+Zucker/_/all+the+kids+are+depressed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
