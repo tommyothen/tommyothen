@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rema — Calm Down &lpar;with Selena Gomez&rpar;](https://www.last.fm/music/Rema/_/Calm+Down+&lpar;with+Selena+Gomez&rpar;)
+* [OneRepublic — I Ain&#39;t Worried](https://www.last.fm/music/OneRepublic/_/I+Ain%27t+Worried)
+* [JVKE — golden hour](https://www.last.fm/music/JVKE/_/golden+hour)
 * [Central Cee — Doja](https://www.last.fm/music/Central+Cee/_/Doja)
-* [$uicideboy$ — Matte Black](https://www.last.fm/music/$uicideboy$/_/Matte+Black)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)
-* [Warren Hue — candy choppa](https://www.last.fm/music/Warren+Hue/_/candy+choppa)<!-- LASTFM:END -->
+* [Central Cee — Doja](https://www.last.fm/music/Central+Cee/_/Doja)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
