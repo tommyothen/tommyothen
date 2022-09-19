@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Where Does the Time Go &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Where+Does+the+Time+Go+&lpar;feat.+Joji&rpar;)
 * [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
 * [Beyoncé — BREAK MY SOUL](https://www.last.fm/music/Beyonc%C3%A9/_/BREAK+MY+SOUL)
 * [Stephen Sanchez — Until I Found You](https://www.last.fm/music/Stephen+Sanchez/_/Until+I+Found+You)
-* [Benny Blanco — Bad Decisions &lpar;with BTS &amp; Snoop Dogg&rpar;](https://www.last.fm/music/Benny+Blanco/_/Bad+Decisions+&lpar;with+BTS+&amp;+Snoop+Dogg&rpar;)
-* [Nicky Youre — Sunroof](https://www.last.fm/music/Nicky+Youre/_/Sunroof)<!-- LASTFM:END -->
+* [Benny Blanco — Bad Decisions &lpar;with BTS &amp; Snoop Dogg&rpar;](https://www.last.fm/music/Benny+Blanco/_/Bad+Decisions+&lpar;with+BTS+&amp;+Snoop+Dogg&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
