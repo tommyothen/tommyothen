@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Arctic Monkeys — R U Mine?](https://www.last.fm/music/Arctic+Monkeys/_/R+U+Mine%3F)
+* [Aries — SAYONARA](https://www.last.fm/music/Aries/_/SAYONARA)
 * [Arctic Monkeys — Fluorescent Adolescent](https://www.last.fm/music/Arctic+Monkeys/_/Fluorescent+Adolescent)
 * [Mac Miller — Soulmate](https://www.last.fm/music/Mac+Miller/_/Soulmate)
-* [Noah Cyrus — Mad at You &lpar;with Gallant&rpar;](https://www.last.fm/music/Noah+Cyrus/_/Mad+at+You+&lpar;with+Gallant&rpar;)
-* [Rich Brian — Where Does the Time Go &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Where+Does+the+Time+Go+&lpar;feat.+Joji&rpar;)
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)<!-- LASTFM:END -->
+* [Noah Cyrus — Mad at You &lpar;with Gallant&rpar;](https://www.last.fm/music/Noah+Cyrus/_/Mad+at+You+&lpar;with+Gallant&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
