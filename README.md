@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Central Cee — Doja](https://www.last.fm/music/Central+Cee/_/Doja)
+* [$uicideboy$ — Matte Black](https://www.last.fm/music/$uicideboy$/_/Matte+Black)
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
 * [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)
-* [Warren Hue — candy choppa](https://www.last.fm/music/Warren+Hue/_/candy+choppa)
-* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
-* [whitewoods — Be Home Free](https://www.last.fm/music/whitewoods/_/Be+Home+Free)
-* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)<!-- LASTFM:END -->
+* [Warren Hue — candy choppa](https://www.last.fm/music/Warren+Hue/_/candy+choppa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
