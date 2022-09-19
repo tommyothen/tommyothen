@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Travis Scott — BUTTERFLY EFFECT](https://www.last.fm/music/Travis+Scott/_/BUTTERFLY+EFFECT)
-* [Post Malone — Better Now](https://www.last.fm/music/Post+Malone/_/Better+Now)
-* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
-* [Tyler, The Creator — See You Again &lpar;feat. Kali Uchis&rpar;](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+&lpar;feat.+Kali+Uchis&rpar;)<!-- LASTFM:END -->
+* [Miraa May — Angles &lpar;feat. JME&rpar;](https://www.last.fm/music/Miraa+May/_/Angles+&lpar;feat.+JME&rpar;)
+* [JME — P](https://www.last.fm/music/JME/_/P)
+* [JME — Man Don&#39;t Care](https://www.last.fm/music/JME/_/Man+Don%27t+Care)
+* [UK DRILL — Clutch in Clutch Out](https://www.last.fm/music/UK+DRILL/_/Clutch+in+Clutch+Out)
+* [UK DRILL — Hotbox Freestyle](https://www.last.fm/music/UK+DRILL/_/Hotbox+Freestyle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
