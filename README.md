@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Joji — ATTENTION](https://www.last.fm/music/Joji/_/ATTENTION)
-* [Travis Scott — goosebumps](https://www.last.fm/music/Travis+Scott/_/goosebumps)
-* [Joji — I Don&#39;t Wanna Waste My Time](https://www.last.fm/music/Joji/_/I+Don%27t+Wanna+Waste+My+Time)
-* [The Weeknd — High for This](https://www.last.fm/music/The+Weeknd/_/High+for+This)
-* [Mr FijiWiji — Andromeda](https://www.last.fm/music/Mr+FijiWiji/_/Andromeda)<!-- LASTFM:END -->
+* [Travis Scott — BUTTERFLY EFFECT](https://www.last.fm/music/Travis+Scott/_/BUTTERFLY+EFFECT)
+* [Joji — TEST DRIVE](https://www.last.fm/music/Joji/_/TEST+DRIVE)
+* [Doja Cat — Candy](https://www.last.fm/music/Doja+Cat/_/Candy)
+* [Kehlani — Nights Like This &lpar;feat. Ty Dolla $ign&rpar;](https://www.last.fm/music/Kehlani/_/Nights+Like+This+&lpar;feat.+Ty+Dolla+$ign&rpar;)
+* [Joji — ATTENTION](https://www.last.fm/music/Joji/_/ATTENTION)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
