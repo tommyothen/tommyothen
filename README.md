@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
+* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
 * [whitewoods — Be Home Free](https://www.last.fm/music/whitewoods/_/Be+Home+Free)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
-* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
-* [Steve Lacy — C U Girl](https://www.last.fm/music/Steve+Lacy/_/C+U+Girl)
-* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)<!-- LASTFM:END -->
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
