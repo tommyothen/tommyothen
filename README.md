@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Joji — Gimme Love](https://www.last.fm/music/Joji/_/Gimme+Love)
-* [Hobo Johnson — Father](https://www.last.fm/music/Hobo+Johnson/_/Father)
-* [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)
-* [takayan — Just disappear](https://www.last.fm/music/takayan/_/Just+disappear)
-* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)<!-- LASTFM:END -->
+* [Doja Cat — Naked](https://www.last.fm/music/Doja+Cat/_/Naked)
+* [Doja Cat — You Right](https://www.last.fm/music/Doja+Cat/_/You+Right)
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
+* [Doja Cat — Woman](https://www.last.fm/music/Doja+Cat/_/Woman)
+* [Post Malone — I Like You &lpar;A Happier Song&rpar; &lpar;with Doja Cat&rpar;](https://www.last.fm/music/Post+Malone/_/I+Like+You+&lpar;A+Happier+Song&rpar;+&lpar;with+Doja+Cat&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
