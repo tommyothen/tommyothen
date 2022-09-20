@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
+* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
 * [Steve Lacy — C U Girl](https://www.last.fm/music/Steve+Lacy/_/C+U+Girl)
 * [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
-* [Travis Scott — BUTTERFLY EFFECT](https://www.last.fm/music/Travis+Scott/_/BUTTERFLY+EFFECT)
-* [Joji — TEST DRIVE](https://www.last.fm/music/Joji/_/TEST+DRIVE)
-* [Doja Cat — Candy](https://www.last.fm/music/Doja+Cat/_/Candy)<!-- LASTFM:END -->
+* [Travis Scott — BUTTERFLY EFFECT](https://www.last.fm/music/Travis+Scott/_/BUTTERFLY+EFFECT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
