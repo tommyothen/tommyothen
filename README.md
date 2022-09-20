@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Doja Cat — Love to Dream](https://www.last.fm/music/Doja+Cat/_/Love+to+Dream)
-* [Doja Cat — I Don&#39;t Do Drugs &lpar;feat. Ariana Grande&rpar;](https://www.last.fm/music/Doja+Cat/_/I+Don%27t+Do+Drugs+&lpar;feat.+Ariana+Grande&rpar;)
-* [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
-* [Doja Cat — Naked](https://www.last.fm/music/Doja+Cat/_/Naked)
-* [Doja Cat — You Right](https://www.last.fm/music/Doja+Cat/_/You+Right)<!-- LASTFM:END -->
+* [Doja Cat — Alone](https://www.last.fm/music/Doja+Cat/_/Alone)
+* [Doja Cat — Imagine](https://www.last.fm/music/Doja+Cat/_/Imagine)
+* [Doja Cat — Ain&#39;t Shit](https://www.last.fm/music/Doja+Cat/_/Ain%27t+Shit)
+* [Doja Cat — Options &lpar;feat. JID&rpar;](https://www.last.fm/music/Doja+Cat/_/Options+&lpar;feat.+JID&rpar;)
+* [Doja Cat — Love to Dream](https://www.last.fm/music/Doja+Cat/_/Love+to+Dream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
