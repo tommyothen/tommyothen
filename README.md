@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Bottom Bitch](https://www.last.fm/music/Doja+Cat/_/Bottom+Bitch)
+* [Doja Cat — Rules](https://www.last.fm/music/Doja+Cat/_/Rules)
 * [Doja Cat — Won&#39;t Bite &lpar;feat. Smino&rpar;](https://www.last.fm/music/Doja+Cat/_/Won%27t+Bite+&lpar;feat.+Smino&rpar;)
 * [Doja Cat — Cyber Sex](https://www.last.fm/music/Doja+Cat/_/Cyber+Sex)
-* [Doja Cat — Alone](https://www.last.fm/music/Doja+Cat/_/Alone)
-* [Doja Cat — Imagine](https://www.last.fm/music/Doja+Cat/_/Imagine)
-* [Doja Cat — Ain&#39;t Shit](https://www.last.fm/music/Doja+Cat/_/Ain%27t+Shit)<!-- LASTFM:END -->
+* [Doja Cat — Alone](https://www.last.fm/music/Doja+Cat/_/Alone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
