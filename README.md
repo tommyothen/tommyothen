@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Doja Cat — Bottom Bitch](https://www.last.fm/music/Doja+Cat/_/Bottom+Bitch)
+* [Doja Cat — Like That &lpar;feat. Gucci Mane&rpar;](https://www.last.fm/music/Doja+Cat/_/Like+That+&lpar;feat.+Gucci+Mane&rpar;)
 * [Doja Cat — Say So](https://www.last.fm/music/Doja+Cat/_/Say+So)
 * [Doja Cat — Bottom Bitch](https://www.last.fm/music/Doja+Cat/_/Bottom+Bitch)
-* [Doja Cat — Rules](https://www.last.fm/music/Doja+Cat/_/Rules)
-* [Doja Cat — Won&#39;t Bite &lpar;feat. Smino&rpar;](https://www.last.fm/music/Doja+Cat/_/Won%27t+Bite+&lpar;feat.+Smino&rpar;)<!-- LASTFM:END -->
+* [Doja Cat — Say So](https://www.last.fm/music/Doja+Cat/_/Say+So)
+* [Doja Cat — Bottom Bitch](https://www.last.fm/music/Doja+Cat/_/Bottom+Bitch)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
