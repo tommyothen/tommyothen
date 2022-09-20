@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Suki Waterhouse — Good Looking](https://www.last.fm/music/Suki+Waterhouse/_/Good+Looking)
+* [Nicki Minaj — Super Freaky Girl](https://www.last.fm/music/Nicki+Minaj/_/Super+Freaky+Girl)
+* [Phoebe Bridgers — Scott Street](https://www.last.fm/music/Phoebe+Bridgers/_/Scott+Street)
 * [Doja Cat — Like That &lpar;feat. Gucci Mane&rpar;](https://www.last.fm/music/Doja+Cat/_/Like+That+&lpar;feat.+Gucci+Mane&rpar;)
-* [Doja Cat — Say So](https://www.last.fm/music/Doja+Cat/_/Say+So)
-* [Doja Cat — Bottom Bitch](https://www.last.fm/music/Doja+Cat/_/Bottom+Bitch)
-* [Doja Cat — Rules](https://www.last.fm/music/Doja+Cat/_/Rules)
-* [Doja Cat — Streets](https://www.last.fm/music/Doja+Cat/_/Streets)<!-- LASTFM:END -->
+* [Doja Cat — Say So](https://www.last.fm/music/Doja+Cat/_/Say+So)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
