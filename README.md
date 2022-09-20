@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
 * [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
 * [YUNG BAE — I Can Tell](https://www.last.fm/music/YUNG+BAE/_/I+Can+Tell)
 * [The Tech Thieves — Flowers](https://www.last.fm/music/The+Tech+Thieves/_/Flowers)
-* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
-* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)<!-- LASTFM:END -->
+* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
