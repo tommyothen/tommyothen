@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YUNG BAE — I Can Tell](https://www.last.fm/music/YUNG+BAE/_/I+Can+Tell)
+* [The Tech Thieves — Flowers](https://www.last.fm/music/The+Tech+Thieves/_/Flowers)
 * [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
 * [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [whitewoods — Be Home Free](https://www.last.fm/music/whitewoods/_/Be+Home+Free)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)<!-- LASTFM:END -->
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
