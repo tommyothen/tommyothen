@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cafuné — Tek It - Sped Up](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It+-+Sped+Up)
-* [Black Eyed Peas — Just Can’t Get Enough](https://www.last.fm/music/Black+Eyed+Peas/_/Just+Can%E2%80%99t+Get+Enough)
-* [Suki Waterhouse — Good Looking](https://www.last.fm/music/Suki+Waterhouse/_/Good+Looking)
-* [Nicki Minaj — Super Freaky Girl](https://www.last.fm/music/Nicki+Minaj/_/Super+Freaky+Girl)
-* [Phoebe Bridgers — Scott Street](https://www.last.fm/music/Phoebe+Bridgers/_/Scott+Street)<!-- LASTFM:END -->
+* [sped up nightcore — Drowning - Sped Up Version](https://www.last.fm/music/sped+up+nightcore/_/Drowning+-+Sped+Up+Version)
+* [Beach Weather — Sex, Drugs, Etc.](https://www.last.fm/music/Beach+Weather/_/Sex,+Drugs,+Etc.)
+* [Baby Keem — HONEST](https://www.last.fm/music/Baby+Keem/_/HONEST)
+* [IzzaMuzzic — Shootout](https://www.last.fm/music/IzzaMuzzic/_/Shootout)
+* [Cafuné — Tek It - Sped Up](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It+-+Sped+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
