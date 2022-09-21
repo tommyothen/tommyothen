@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
+* [Billie Eilish — xanny](https://www.last.fm/music/Billie+Eilish/_/xanny)
 * [Strawberry Station — Disco Queens](https://www.last.fm/music/Strawberry+Station/_/Disco+Queens)
 * [Kill Bill: The Rapper — Chinatown](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Chinatown)
-* [PINK GUY — Fried Noodles &lpar;Getter Remix&rpar;](https://www.last.fm/music/PINK+GUY/_/Fried+Noodles+&lpar;Getter+Remix&rpar;)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [D-Real [愛] — Nerd Won&#39;t Stop](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Nerd+Won%27t+Stop)<!-- LASTFM:END -->
+* [PINK GUY — Fried Noodles &lpar;Getter Remix&rpar;](https://www.last.fm/music/PINK+GUY/_/Fried+Noodles+&lpar;Getter+Remix&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
