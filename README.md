@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
+* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
+* [The Neighbourhood — Softcore](https://www.last.fm/music/The+Neighbourhood/_/Softcore)
 * [sped up nightcore — Drowning - Sped Up Version](https://www.last.fm/music/sped+up+nightcore/_/Drowning+-+Sped+Up+Version)
-* [Beach Weather — Sex, Drugs, Etc.](https://www.last.fm/music/Beach+Weather/_/Sex,+Drugs,+Etc.)
-* [Baby Keem — HONEST](https://www.last.fm/music/Baby+Keem/_/HONEST)
-* [IzzaMuzzic — Shootout](https://www.last.fm/music/IzzaMuzzic/_/Shootout)
-* [Cafuné — Tek It - Sped Up](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It+-+Sped+Up)<!-- LASTFM:END -->
+* [Beach Weather — Sex, Drugs, Etc.](https://www.last.fm/music/Beach+Weather/_/Sex,+Drugs,+Etc.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
