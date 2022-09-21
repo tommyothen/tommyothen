@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — STUPID &lpar;feat. Yung Baby Tate&rpar;](https://www.last.fm/music/Ashnikko/_/STUPID+&lpar;feat.+Yung+Baby+Tate&rpar;)
+* [Arizona Zervas — Roxanne](https://www.last.fm/music/Arizona+Zervas/_/Roxanne)
+* [galdive — Sorbet](https://www.last.fm/music/galdive/_/Sorbet)
 * [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
-* [Billie Eilish — xanny](https://www.last.fm/music/Billie+Eilish/_/xanny)
-* [Strawberry Station — Disco Queens](https://www.last.fm/music/Strawberry+Station/_/Disco+Queens)
-* [Kill Bill: The Rapper — Chinatown](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Chinatown)
-* [PINK GUY — Fried Noodles &lpar;Getter Remix&rpar;](https://www.last.fm/music/PINK+GUY/_/Fried+Noodles+&lpar;Getter+Remix&rpar;)<!-- LASTFM:END -->
+* [Billie Eilish — xanny](https://www.last.fm/music/Billie+Eilish/_/xanny)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
