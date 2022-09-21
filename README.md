@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Candy](https://www.last.fm/music/Doja+Cat/_/Candy)
+* [Ariana Grande — break up with your girlfriend, i&#39;m bored](https://www.last.fm/music/Ariana+Grande/_/break+up+with+your+girlfriend,+i%27m+bored)
+* [toopoor — CRAZY GIRLS](https://www.last.fm/music/toopoor/_/CRAZY+GIRLS)
 * [Tove Lo — Stay High - Habits Remix](https://www.last.fm/music/Tove+Lo/_/Stay+High+-+Habits+Remix)
-* [Doja Cat — Rules](https://www.last.fm/music/Doja+Cat/_/Rules)
-* [Ashnikko — STUPID &lpar;feat. Yung Baby Tate&rpar;](https://www.last.fm/music/Ashnikko/_/STUPID+&lpar;feat.+Yung+Baby+Tate&rpar;)
-* [Arizona Zervas — Roxanne](https://www.last.fm/music/Arizona+Zervas/_/Roxanne)
-* [galdive — Sorbet](https://www.last.fm/music/galdive/_/Sorbet)<!-- LASTFM:END -->
+* [Doja Cat — Rules](https://www.last.fm/music/Doja+Cat/_/Rules)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
