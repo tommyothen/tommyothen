@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kanye West — Wolves](https://www.last.fm/music/Kanye+West/_/Wolves)
+* [Kanye West — Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)
+* [Between Friends — affection](https://www.last.fm/music/Between+Friends/_/affection)
 * [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [Joey Valence &amp; Brae — Underground Sound](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/Underground+Sound)
-* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
+* [Joey Valence &amp; Brae — Underground Sound](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/Underground+Sound)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
