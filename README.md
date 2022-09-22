@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Wolf Alice — Blush](https://www.last.fm/music/Wolf+Alice/_/Blush)
-* [The Pigeon Detectives — Romantic Type](https://www.last.fm/music/The+Pigeon+Detectives/_/Romantic+Type)
-* [The Wombats — Let&#39;s Dance to Joy Division](https://www.last.fm/music/The+Wombats/_/Let%27s+Dance+to+Joy+Division)
-* [Arcade Fire — Reflektor](https://www.last.fm/music/Arcade+Fire/_/Reflektor)
-* [Catfish and the Bottlemen — Kathleen](https://www.last.fm/music/Catfish+and+the+Bottlemen/_/Kathleen)<!-- LASTFM:END -->
+* [Rihanna — Love on the Brain](https://www.last.fm/music/Rihanna/_/Love+on+the+Brain)
+* [The Killers — Mr. Brightside](https://www.last.fm/music/The+Killers/_/Mr.+Brightside)
+* [The Strokes — Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)
+* [Arctic Monkeys — Mardy Bum](https://www.last.fm/music/Arctic+Monkeys/_/Mardy+Bum)
+* [Nirvana — Heart-Shaped Box](https://www.last.fm/music/Nirvana/_/Heart-Shaped+Box)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
