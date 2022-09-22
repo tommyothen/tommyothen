@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Uzi Vert — The Way Life Goes &lpar;feat. Oh Wonder&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/The+Way+Life+Goes+&lpar;feat.+Oh+Wonder&rpar;)
+* [Lil Uzi Vert — XO TOUR Llif3](https://www.last.fm/music/Lil+Uzi+Vert/_/XO+TOUR+Llif3)
+* [Bryson Tiller — Don&#39;t](https://www.last.fm/music/Bryson+Tiller/_/Don%27t)
 * [Kanye West — Wolves](https://www.last.fm/music/Kanye+West/_/Wolves)
-* [Kanye West — Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)
-* [Between Friends — affection](https://www.last.fm/music/Between+Friends/_/affection)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [Joey Valence &amp; Brae — Underground Sound](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/Underground+Sound)<!-- LASTFM:END -->
+* [Kanye West — Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
