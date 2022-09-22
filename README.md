@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [$uicideboy$ — Limp Wrist](https://www.last.fm/music/$uicideboy$/_/Limp+Wrist)
+* [$uicideboy$ — DEJECTION](https://www.last.fm/music/$uicideboy$/_/DEJECTION)
+* [$uicideboy$ — BREAKDALAW2K16](https://www.last.fm/music/$uicideboy$/_/BREAKDALAW2K16)
 * [$uicideboy$ — KILL YOURSELF](https://www.last.fm/music/$uicideboy$/_/KILL+YOURSELF)
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
-* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)
-* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
-* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)<!-- LASTFM:END -->
+* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
