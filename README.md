@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [$uicideboy$ — THE CRESCENT MOON AND THE RISING SUN](https://www.last.fm/music/$uicideboy$/_/THE+CRESCENT+MOON+AND+THE+RISING+SUN)
+* [$uicideboy$ — CERBERUS](https://www.last.fm/music/$uicideboy$/_/CERBERUS)
 * [$uicideboy$ — Limp Wrist](https://www.last.fm/music/$uicideboy$/_/Limp+Wrist)
 * [$uicideboy$ — DEJECTION](https://www.last.fm/music/$uicideboy$/_/DEJECTION)
-* [$uicideboy$ — BREAKDALAW2K16](https://www.last.fm/music/$uicideboy$/_/BREAKDALAW2K16)
-* [$uicideboy$ — KILL YOURSELF](https://www.last.fm/music/$uicideboy$/_/KILL+YOURSELF)
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)<!-- LASTFM:END -->
+* [$uicideboy$ — BREAKDALAW2K16](https://www.last.fm/music/$uicideboy$/_/BREAKDALAW2K16)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
