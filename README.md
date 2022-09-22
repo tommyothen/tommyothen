@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
+* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
 * [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
 * [$uicideboy$ — FUCKTHEPOPULATION](https://www.last.fm/music/$uicideboy$/_/FUCKTHEPOPULATION)
-* [$uicideboy$ — THE CRESCENT MOON AND THE RISING SUN](https://www.last.fm/music/$uicideboy$/_/THE+CRESCENT+MOON+AND+THE+RISING+SUN)
-* [$uicideboy$ — CERBERUS](https://www.last.fm/music/$uicideboy$/_/CERBERUS)
-* [$uicideboy$ — Limp Wrist](https://www.last.fm/music/$uicideboy$/_/Limp+Wrist)<!-- LASTFM:END -->
+* [$uicideboy$ — THE CRESCENT MOON AND THE RISING SUN](https://www.last.fm/music/$uicideboy$/_/THE+CRESCENT+MOON+AND+THE+RISING+SUN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
