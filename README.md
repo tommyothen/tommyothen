@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Courteeners — Are You In Love With A Notion?](https://www.last.fm/music/Courteeners/_/Are+You+In+Love+With+A+Notion%3F)
+* [Two Door Cinema Club — Changing of the Seasons](https://www.last.fm/music/Two+Door+Cinema+Club/_/Changing+of+the+Seasons)
 * [AJR — World&#39;s Smallest Violin](https://www.last.fm/music/AJR/_/World%27s+Smallest+Violin)
 * [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
-* [Dua Lipa — New Rules](https://www.last.fm/music/Dua+Lipa/_/New+Rules)
-* [Doja Cat — Candy](https://www.last.fm/music/Doja+Cat/_/Candy)
-* [Ariana Grande — break up with your girlfriend, i&#39;m bored](https://www.last.fm/music/Ariana+Grande/_/break+up+with+your+girlfriend,+i%27m+bored)<!-- LASTFM:END -->
+* [Dua Lipa — New Rules](https://www.last.fm/music/Dua+Lipa/_/New+Rules)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
