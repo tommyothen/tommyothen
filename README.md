@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rihanna — Love on the Brain](https://www.last.fm/music/Rihanna/_/Love+on+the+Brain)
-* [The Killers — Mr. Brightside](https://www.last.fm/music/The+Killers/_/Mr.+Brightside)
-* [The Strokes — Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)
-* [Arctic Monkeys — Mardy Bum](https://www.last.fm/music/Arctic+Monkeys/_/Mardy+Bum)
-* [Nirvana — Heart-Shaped Box](https://www.last.fm/music/Nirvana/_/Heart-Shaped+Box)<!-- LASTFM:END -->
+* [Post Malone — Sunflower - Spider-Man: Into the Spider-Verse](https://www.last.fm/music/Post+Malone/_/Sunflower+-+Spider-Man:+Into+the+Spider-Verse)
+* [The Weeknd — Blinding Lights](https://www.last.fm/music/The+Weeknd/_/Blinding+Lights)
+* [Doja Cat — Tia Tamera &lpar;feat. Rico Nasty&rpar;](https://www.last.fm/music/Doja+Cat/_/Tia+Tamera+&lpar;feat.+Rico+Nasty&rpar;)
+* [Arizona Zervas — Roxanne](https://www.last.fm/music/Arizona+Zervas/_/Roxanne)
+* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
