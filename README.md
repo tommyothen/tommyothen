@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Post Malone — Sunflower - Spider-Man: Into the Spider-Verse](https://www.last.fm/music/Post+Malone/_/Sunflower+-+Spider-Man:+Into+the+Spider-Verse)
-* [The Weeknd — Blinding Lights](https://www.last.fm/music/The+Weeknd/_/Blinding+Lights)
-* [Doja Cat — Tia Tamera &lpar;feat. Rico Nasty&rpar;](https://www.last.fm/music/Doja+Cat/_/Tia+Tamera+&lpar;feat.+Rico+Nasty&rpar;)
-* [Arizona Zervas — Roxanne](https://www.last.fm/music/Arizona+Zervas/_/Roxanne)
-* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)<!-- LASTFM:END -->
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
+* [Pop Smoke — Mood Swings &lpar;feat. Lil Tjay&rpar;](https://www.last.fm/music/Pop+Smoke/_/Mood+Swings+&lpar;feat.+Lil+Tjay&rpar;)
+* [Y2K — Lalala](https://www.last.fm/music/Y2K/_/Lalala)
+* [The Weeknd — Starboy](https://www.last.fm/music/The+Weeknd/_/Starboy)
+* [Internet Money — Lemonade](https://www.last.fm/music/Internet+Money/_/Lemonade)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
