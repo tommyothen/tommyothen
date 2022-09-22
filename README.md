@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
+* [Dua Lipa — New Rules](https://www.last.fm/music/Dua+Lipa/_/New+Rules)
 * [Doja Cat — Candy](https://www.last.fm/music/Doja+Cat/_/Candy)
 * [Ariana Grande — break up with your girlfriend, i&#39;m bored](https://www.last.fm/music/Ariana+Grande/_/break+up+with+your+girlfriend,+i%27m+bored)
-* [toopoor — CRAZY GIRLS](https://www.last.fm/music/toopoor/_/CRAZY+GIRLS)
-* [Tove Lo — Stay High - Habits Remix](https://www.last.fm/music/Tove+Lo/_/Stay+High+-+Habits+Remix)
-* [Doja Cat — Rules](https://www.last.fm/music/Doja+Cat/_/Rules)<!-- LASTFM:END -->
+* [toopoor — CRAZY GIRLS](https://www.last.fm/music/toopoor/_/CRAZY+GIRLS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
