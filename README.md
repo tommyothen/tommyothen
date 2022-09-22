@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Arcade Fire — Reflektor](https://www.last.fm/music/Arcade+Fire/_/Reflektor)
+* [Catfish and the Bottlemen — Kathleen](https://www.last.fm/music/Catfish+and+the+Bottlemen/_/Kathleen)
+* [Arctic Monkeys — I Wanna Be Yours](https://www.last.fm/music/Arctic+Monkeys/_/I+Wanna+Be+Yours)
 * [Catfish and the Bottlemen — 7](https://www.last.fm/music/Catfish+and+the+Bottlemen/_/7)
-* [Doves — There Goes The Fear](https://www.last.fm/music/Doves/_/There+Goes+The+Fear)
-* [The Smiths — There Is a Light That Never Goes Out - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/There+Is+a+Light+That+Never+Goes+Out+-+2011+Remaster)
-* [Kings of Leon — Red Morning Light](https://www.last.fm/music/Kings+of+Leon/_/Red+Morning+Light)
-* [Arctic Monkeys — Fireside](https://www.last.fm/music/Arctic+Monkeys/_/Fireside)<!-- LASTFM:END -->
+* [Doves — There Goes The Fear](https://www.last.fm/music/Doves/_/There+Goes+The+Fear)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
