@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Travis Scott — goosebumps](https://www.last.fm/music/Travis+Scott/_/goosebumps)
+* [Ty Dolla $ign — Or Nah &lpar;feat. The Weeknd, Wiz Khalifa &amp; DJ Mustard&rpar; - Remix](https://www.last.fm/music/Ty+Dolla+$ign/_/Or+Nah+&lpar;feat.+The+Weeknd,+Wiz+Khalifa+&amp;+DJ+Mustard&rpar;+-+Remix)
 * [Jeremih — oui](https://www.last.fm/music/Jeremih/_/oui)
 * [Kanye West — Pt. 2](https://www.last.fm/music/Kanye+West/_/Pt.+2)
-* [Kanye West — Waves](https://www.last.fm/music/Kanye+West/_/Waves)
-* [Pop Smoke — What You Know Bout Love](https://www.last.fm/music/Pop+Smoke/_/What+You+Know+Bout+Love)
-* [Lil Uzi Vert — The Way Life Goes &lpar;feat. Oh Wonder&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/The+Way+Life+Goes+&lpar;feat.+Oh+Wonder&rpar;)<!-- LASTFM:END -->
+* [Kanye West — Waves](https://www.last.fm/music/Kanye+West/_/Waves)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
