@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Smiths — There Is a Light That Never Goes Out - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/There+Is+a+Light+That+Never+Goes+Out+-+2011+Remaster)
 * [Kings of Leon — Red Morning Light](https://www.last.fm/music/Kings+of+Leon/_/Red+Morning+Light)
 * [Arctic Monkeys — Fireside](https://www.last.fm/music/Arctic+Monkeys/_/Fireside)
 * [Gorillaz — On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)
-* [Two Door Cinema Club — Something Good Can Work](https://www.last.fm/music/Two+Door+Cinema+Club/_/Something+Good+Can+Work)
-* [Two Door Cinema Club — Sleep Alone](https://www.last.fm/music/Two+Door+Cinema+Club/_/Sleep+Alone)<!-- LASTFM:END -->
+* [Two Door Cinema Club — Something Good Can Work](https://www.last.fm/music/Two+Door+Cinema+Club/_/Something+Good+Can+Work)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
