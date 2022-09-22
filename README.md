@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Two Door Cinema Club — Something Good Can Work](https://www.last.fm/music/Two+Door+Cinema+Club/_/Something+Good+Can+Work)
+* [Two Door Cinema Club — Sleep Alone](https://www.last.fm/music/Two+Door+Cinema+Club/_/Sleep+Alone)
 * [Courteeners — Are You In Love With A Notion?](https://www.last.fm/music/Courteeners/_/Are+You+In+Love+With+A+Notion%3F)
 * [Two Door Cinema Club — Changing of the Seasons](https://www.last.fm/music/Two+Door+Cinema+Club/_/Changing+of+the+Seasons)
-* [AJR — World&#39;s Smallest Violin](https://www.last.fm/music/AJR/_/World%27s+Smallest+Violin)
-* [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
-* [Dua Lipa — New Rules](https://www.last.fm/music/Dua+Lipa/_/New+Rules)<!-- LASTFM:END -->
+* [AJR — World&#39;s Smallest Violin](https://www.last.fm/music/AJR/_/World%27s+Smallest+Violin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
