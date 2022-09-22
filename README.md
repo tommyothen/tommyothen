@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mac Miller — Self Care](https://www.last.fm/music/Mac+Miller/_/Self+Care)
 * [Travis Scott — goosebumps](https://www.last.fm/music/Travis+Scott/_/goosebumps)
 * [Ty Dolla $ign — Or Nah &lpar;feat. The Weeknd, Wiz Khalifa &amp; DJ Mustard&rpar; - Remix](https://www.last.fm/music/Ty+Dolla+$ign/_/Or+Nah+&lpar;feat.+The+Weeknd,+Wiz+Khalifa+&amp;+DJ+Mustard&rpar;+-+Remix)
 * [Jeremih — oui](https://www.last.fm/music/Jeremih/_/oui)
-* [Kanye West — Pt. 2](https://www.last.fm/music/Kanye+West/_/Pt.+2)
-* [Kanye West — Waves](https://www.last.fm/music/Kanye+West/_/Waves)<!-- LASTFM:END -->
+* [Kanye West — Pt. 2](https://www.last.fm/music/Kanye+West/_/Pt.+2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
