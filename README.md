@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Juice WRLD — Righteous](https://www.last.fm/music/Juice+WRLD/_/Righteous)
+* [Juice WRLD — Robbery](https://www.last.fm/music/Juice+WRLD/_/Robbery)
 * [Juice WRLD — Wishing Well](https://www.last.fm/music/Juice+WRLD/_/Wishing+Well)
 * [Mac Miller — Self Care](https://www.last.fm/music/Mac+Miller/_/Self+Care)
-* [Travis Scott — goosebumps](https://www.last.fm/music/Travis+Scott/_/goosebumps)
-* [Ty Dolla $ign — Or Nah &lpar;feat. The Weeknd, Wiz Khalifa &amp; DJ Mustard&rpar; - Remix](https://www.last.fm/music/Ty+Dolla+$ign/_/Or+Nah+&lpar;feat.+The+Weeknd,+Wiz+Khalifa+&amp;+DJ+Mustard&rpar;+-+Remix)
-* [Jeremih — oui](https://www.last.fm/music/Jeremih/_/oui)<!-- LASTFM:END -->
+* [Travis Scott — goosebumps](https://www.last.fm/music/Travis+Scott/_/goosebumps)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
