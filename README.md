@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [InterWorld — METAMORPHOSIS](https://www.last.fm/music/InterWorld/_/METAMORPHOSIS)
-* [ONIMXRU — SHADOW](https://www.last.fm/music/ONIMXRU/_/SHADOW)
-* [PLAYAMANE — MIDNIGHT](https://www.last.fm/music/PLAYAMANE/_/MIDNIGHT)
-* [Mupp — vendetta!](https://www.last.fm/music/Mupp/_/vendetta!)
-* [MoonDeity — WAKE UP!](https://www.last.fm/music/MoonDeity/_/WAKE+UP!)<!-- LASTFM:END -->
+* [Xantesha — SUNRISE &lpar;Slowed + Reverb&rpar;](https://www.last.fm/music/Xantesha/_/SUNRISE+&lpar;Slowed+%252B+Reverb&rpar;)
+* [Kordhell — Live Another Day](https://www.last.fm/music/Kordhell/_/Live+Another+Day)
+* [Kute — AVOID ME](https://www.last.fm/music/Kute/_/AVOID+ME)
+* [Hensonn — Sahara](https://www.last.fm/music/Hensonn/_/Sahara)
+* [MoonDeity — NEON BLADE](https://www.last.fm/music/MoonDeity/_/NEON+BLADE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
