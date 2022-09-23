@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)
+* [Camellia — Electromagnetic Stealth Girl Born In Philadelphia](https://www.last.fm/music/Camellia/_/Electromagnetic+Stealth+Girl+Born+In+Philadelphia)
+* [Camellia — Labyrinth in Kowloon: Walled World](https://www.last.fm/music/Camellia/_/Labyrinth+in+Kowloon:+Walled+World)
 * [Camellia — &lpar;The&rpar; Red * Room](https://www.last.fm/music/Camellia/_/&lpar;The&rpar;+Red+*+Room)
-* [Camellia — Mystery Circles Ultra / U.U.F.O.](https://www.last.fm/music/Camellia/_/Mystery+Circles+Ultra+%2F+U.U.F.O.)
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)<!-- LASTFM:END -->
+* [Camellia — Mystery Circles Ultra / U.U.F.O.](https://www.last.fm/music/Camellia/_/Mystery+Circles+Ultra+%2F+U.U.F.O.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
