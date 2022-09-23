@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — CICADA3302](https://www.last.fm/music/Camellia/_/CICADA3302)
 * [Camellia — Bermuda Triangle](https://www.last.fm/music/Camellia/_/Bermuda+Triangle)
 * [Camellia — Kisaragi](https://www.last.fm/music/Camellia/_/Kisaragi)
 * [Camellia — AREA 52](https://www.last.fm/music/Camellia/_/AREA+52)
-* [Camellia — We Magicians Still Alive in 2021](https://www.last.fm/music/Camellia/_/We+Magicians+Still+Alive+in+2021)
-* [Camellia — WYSI -When You See It-](https://www.last.fm/music/Camellia/_/WYSI+-When+You+See+It-)<!-- LASTFM:END -->
+* [Camellia — We Magicians Still Alive in 2021](https://www.last.fm/music/Camellia/_/We+Magicians+Still+Alive+in+2021)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
