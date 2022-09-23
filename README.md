@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mr FijiWiji — Andromeda](https://www.last.fm/music/Mr+FijiWiji/_/Andromeda)
+* [demxntia — Disappear](https://www.last.fm/music/demxntia/_/Disappear)
+* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
 * [Eminem — The Real Slim Shady](https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady)
-* [Eminem — Without Me](https://www.last.fm/music/Eminem/_/Without+Me)
-* [Drake — Chicago Freestyle &lpar;feat. Giveon&rpar;](https://www.last.fm/music/Drake/_/Chicago+Freestyle+&lpar;feat.+Giveon&rpar;)
-* [Kid Cudi — Mr. Rager](https://www.last.fm/music/Kid+Cudi/_/Mr.+Rager)
-* [Roddy Ricch — The Box](https://www.last.fm/music/Roddy+Ricch/_/The+Box)<!-- LASTFM:END -->
+* [Eminem — Without Me](https://www.last.fm/music/Eminem/_/Without+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
