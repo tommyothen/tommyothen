@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Roddy Ricch — The Box](https://www.last.fm/music/Roddy+Ricch/_/The+Box)
+* [Octavian — Papi Chulo](https://www.last.fm/music/Octavian/_/Papi+Chulo)
 * [Kid Cudi — Show Out &lpar;with Skepta &amp; Pop Smoke&rpar;](https://www.last.fm/music/Kid+Cudi/_/Show+Out+&lpar;with+Skepta+&amp;+Pop+Smoke&rpar;)
 * [Young T &amp; Bugsey — Don&#39;t Rush &lpar;feat. DaBaby&rpar;](https://www.last.fm/music/Young+T+&amp;+Bugsey/_/Don%27t+Rush+&lpar;feat.+DaBaby&rpar;)
-* [Travis Scott — HIGHEST IN THE ROOM](https://www.last.fm/music/Travis+Scott/_/HIGHEST+IN+THE+ROOM)
-* [J. Cole — No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)
-* [Juice WRLD — Righteous](https://www.last.fm/music/Juice+WRLD/_/Righteous)<!-- LASTFM:END -->
+* [Travis Scott — HIGHEST IN THE ROOM](https://www.last.fm/music/Travis+Scott/_/HIGHEST+IN+THE+ROOM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
