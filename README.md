@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kordhell — Murder In My Mind](https://www.last.fm/music/Kordhell/_/Murder+In+My+Mind)
-* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
-* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
-* [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)<!-- LASTFM:END -->
+* [InterWorld — METAMORPHOSIS](https://www.last.fm/music/InterWorld/_/METAMORPHOSIS)
+* [ONIMXRU — SHADOW](https://www.last.fm/music/ONIMXRU/_/SHADOW)
+* [PLAYAMANE — MIDNIGHT](https://www.last.fm/music/PLAYAMANE/_/MIDNIGHT)
+* [Mupp — vendetta!](https://www.last.fm/music/Mupp/_/vendetta!)
+* [MoonDeity — WAKE UP!](https://www.last.fm/music/MoonDeity/_/WAKE+UP!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
