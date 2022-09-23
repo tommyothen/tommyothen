@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Xantesha — SUNRISE &lpar;Slowed + Reverb&rpar;](https://www.last.fm/music/Xantesha/_/SUNRISE+&lpar;Slowed+%252B+Reverb&rpar;)
-* [Kordhell — Live Another Day](https://www.last.fm/music/Kordhell/_/Live+Another+Day)
-* [Kute — AVOID ME](https://www.last.fm/music/Kute/_/AVOID+ME)
-* [Hensonn — Sahara](https://www.last.fm/music/Hensonn/_/Sahara)
-* [MoonDeity — NEON BLADE](https://www.last.fm/music/MoonDeity/_/NEON+BLADE)<!-- LASTFM:END -->
+* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
+* [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
+* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
+* [Funk Tribu — Phonky Tribu](https://www.last.fm/music/Funk+Tribu/_/Phonky+Tribu)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
