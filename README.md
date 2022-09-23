@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Drake — Chicago Freestyle &lpar;feat. Giveon&rpar;](https://www.last.fm/music/Drake/_/Chicago+Freestyle+&lpar;feat.+Giveon&rpar;)
+* [Kid Cudi — Mr. Rager](https://www.last.fm/music/Kid+Cudi/_/Mr.+Rager)
 * [Roddy Ricch — The Box](https://www.last.fm/music/Roddy+Ricch/_/The+Box)
 * [Octavian — Papi Chulo](https://www.last.fm/music/Octavian/_/Papi+Chulo)
-* [Kid Cudi — Show Out &lpar;with Skepta &amp; Pop Smoke&rpar;](https://www.last.fm/music/Kid+Cudi/_/Show+Out+&lpar;with+Skepta+&amp;+Pop+Smoke&rpar;)
-* [Young T &amp; Bugsey — Don&#39;t Rush &lpar;feat. DaBaby&rpar;](https://www.last.fm/music/Young+T+&amp;+Bugsey/_/Don%27t+Rush+&lpar;feat.+DaBaby&rpar;)
-* [Travis Scott — HIGHEST IN THE ROOM](https://www.last.fm/music/Travis+Scott/_/HIGHEST+IN+THE+ROOM)<!-- LASTFM:END -->
+* [Kid Cudi — Show Out &lpar;with Skepta &amp; Pop Smoke&rpar;](https://www.last.fm/music/Kid+Cudi/_/Show+Out+&lpar;with+Skepta+&amp;+Pop+Smoke&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
