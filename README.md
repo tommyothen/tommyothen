@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kordhell — Murder In My Mind](https://www.last.fm/music/Kordhell/_/Murder+In+My+Mind)
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
+* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
 * [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
-* [Eden — Reaching 2](https://www.last.fm/music/Eden/_/Reaching+2)
-* [Eden — sex](https://www.last.fm/music/Eden/_/sex)
-* [Eden — Sci-Fi](https://www.last.fm/music/Eden/_/Sci-Fi)<!-- LASTFM:END -->
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
