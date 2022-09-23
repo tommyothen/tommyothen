@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
+* [Shamana — Besidju](https://www.last.fm/music/Shamana/_/Besidju)
+* [Ariana Grande — break up with your girlfriend, i&#39;m bored](https://www.last.fm/music/Ariana+Grande/_/break+up+with+your+girlfriend,+i%27m+bored)
 * [Mr FijiWiji — Andromeda](https://www.last.fm/music/Mr+FijiWiji/_/Andromeda)
-* [demxntia — Disappear](https://www.last.fm/music/demxntia/_/Disappear)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
-* [Eminem — The Real Slim Shady](https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady)
-* [Eminem — Without Me](https://www.last.fm/music/Eminem/_/Without+Me)<!-- LASTFM:END -->
+* [demxntia — Disappear](https://www.last.fm/music/demxntia/_/Disappear)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
