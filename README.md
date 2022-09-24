@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
 * [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
 * [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
 * [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
-* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
-* [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)<!-- LASTFM:END -->
+* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
