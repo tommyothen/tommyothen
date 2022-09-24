@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
 * [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
-* [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)
-* [Camellia — t / a/n / a/s / i/n / n](https://www.last.fm/music/Camellia/_/t+%2F+a%2Fn+%2F+a%2Fs+%2F+i%2Fn+%2F+n)
-* [Camellia — ZOMBIE CIRCUS](https://www.last.fm/music/Camellia/_/ZOMBIE+CIRCUS)<!-- LASTFM:END -->
+* [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
+* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
+* [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
