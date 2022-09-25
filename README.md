@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tea — i wanna know](https://www.last.fm/music/Tea/_/i+wanna+know)
 * [ev.exi — You Can&#39;t Run](https://www.last.fm/music/ev.exi/_/You+Can%27t+Run)
 * [Jaron — escape](https://www.last.fm/music/Jaron/_/escape)
 * [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
-* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)<!-- LASTFM:END -->
+* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
