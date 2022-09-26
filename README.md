@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Devon Again — Suburbia](https://www.last.fm/music/Devon+Again/_/Suburbia)
+* [WHOKILLEDXIX — Killjoy](https://www.last.fm/music/WHOKILLEDXIX/_/Killjoy)
+* [takayan — Bouquet On The Sea](https://www.last.fm/music/takayan/_/Bouquet+On+The+Sea)
 * [Tea — i wanna know](https://www.last.fm/music/Tea/_/i+wanna+know)
-* [ev.exi — You Can&#39;t Run](https://www.last.fm/music/ev.exi/_/You+Can%27t+Run)
-* [Jaron — escape](https://www.last.fm/music/Jaron/_/escape)
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)<!-- LASTFM:END -->
+* [ev.exi — You Can&#39;t Run](https://www.last.fm/music/ev.exi/_/You+Can%27t+Run)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
