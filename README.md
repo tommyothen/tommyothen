@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Khary — Fembrook Dr](https://www.last.fm/music/Khary/_/Fembrook+Dr)
 * [Devon Again — Suburbia](https://www.last.fm/music/Devon+Again/_/Suburbia)
 * [WHOKILLEDXIX — Killjoy](https://www.last.fm/music/WHOKILLEDXIX/_/Killjoy)
 * [takayan — Bouquet On The Sea](https://www.last.fm/music/takayan/_/Bouquet+On+The+Sea)
-* [Tea — i wanna know](https://www.last.fm/music/Tea/_/i+wanna+know)
-* [ev.exi — You Can&#39;t Run](https://www.last.fm/music/ev.exi/_/You+Can%27t+Run)<!-- LASTFM:END -->
+* [Tea — i wanna know](https://www.last.fm/music/Tea/_/i+wanna+know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
