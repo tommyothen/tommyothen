@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Khary — Fembrook Dr](https://www.last.fm/music/Khary/_/Fembrook+Dr)
-* [Devon Again — Suburbia](https://www.last.fm/music/Devon+Again/_/Suburbia)
-* [WHOKILLEDXIX — Killjoy](https://www.last.fm/music/WHOKILLEDXIX/_/Killjoy)
-* [takayan — Bouquet On The Sea](https://www.last.fm/music/takayan/_/Bouquet+On+The+Sea)
-* [Tea — i wanna know](https://www.last.fm/music/Tea/_/i+wanna+know)<!-- LASTFM:END -->
+* [The Weeknd — Stargirl Interlude](https://www.last.fm/music/The+Weeknd/_/Stargirl+Interlude)
+* [Post Malone — I Like You &lpar;A Happier Song&rpar; &lpar;with Doja Cat&rpar;](https://www.last.fm/music/Post+Malone/_/I+Like+You+&lpar;A+Happier+Song&rpar;+&lpar;with+Doja+Cat&rpar;)
+* [Mitski — Nobody](https://www.last.fm/music/Mitski/_/Nobody)
+* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
+* [Khary — Fembrook Dr](https://www.last.fm/music/Khary/_/Fembrook+Dr)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
