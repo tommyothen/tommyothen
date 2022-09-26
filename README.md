@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SZA — Good Days](https://www.last.fm/music/SZA/_/Good+Days)
+* [pinkpantheress — Pain](https://www.last.fm/music/pinkpantheress/_/Pain)
+* [Doja Cat — Woman](https://www.last.fm/music/Doja+Cat/_/Woman)
 * [The Weeknd — Stargirl Interlude](https://www.last.fm/music/The+Weeknd/_/Stargirl+Interlude)
-* [Post Malone — I Like You &lpar;A Happier Song&rpar; &lpar;with Doja Cat&rpar;](https://www.last.fm/music/Post+Malone/_/I+Like+You+&lpar;A+Happier+Song&rpar;+&lpar;with+Doja+Cat&rpar;)
-* [Mitski — Nobody](https://www.last.fm/music/Mitski/_/Nobody)
-* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
-* [Khary — Fembrook Dr](https://www.last.fm/music/Khary/_/Fembrook+Dr)<!-- LASTFM:END -->
+* [Post Malone — I Like You &lpar;A Happier Song&rpar; &lpar;with Doja Cat&rpar;](https://www.last.fm/music/Post+Malone/_/I+Like+You+&lpar;A+Happier+Song&rpar;+&lpar;with+Doja+Cat&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
