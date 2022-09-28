@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
-* [$uicideboy$ — No Matter Which Direction I&#39;m Going in, I Never Chase These Hoes](https://www.last.fm/music/$uicideboy$/_/No+Matter+Which+Direction+I%27m+Going+in,+I+Never+Chase+These+Hoes)
-* [SZA — Good Days](https://www.last.fm/music/SZA/_/Good+Days)
-* [pinkpantheress — Pain](https://www.last.fm/music/pinkpantheress/_/Pain)
-* [Doja Cat — Woman](https://www.last.fm/music/Doja+Cat/_/Woman)<!-- LASTFM:END -->
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
+* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
+* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
+* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
