@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Breakbot — Baby I&#39;m Yours](https://www.last.fm/music/Breakbot/_/Baby+I%27m+Yours)
+* [Armand van Helden — U Don&#39;t Know Me &lpar;feat. Duane Harden&rpar;](https://www.last.fm/music/Armand+van+Helden/_/U+Don%27t+Know+Me+&lpar;feat.+Duane+Harden&rpar;)
 * [The Bucketheads — The Bomb &lpar;These Sounds Fall Into My Mind&rpar;](https://www.last.fm/music/The+Bucketheads/_/The+Bomb+&lpar;These+Sounds+Fall+Into+My+Mind&rpar;)
 * [Guru Josh Project — Infinity 2008 &lpar;Klaas Vocal Edit&rpar;](https://www.last.fm/music/Guru+Josh+Project/_/Infinity+2008+&lpar;Klaas+Vocal+Edit&rpar;)
-* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
-* [Deftones — Be Quiet and Drive &lpar;Far Away&rpar;](https://www.last.fm/music/Deftones/_/Be+Quiet+and+Drive+&lpar;Far+Away&rpar;)
-* [Deftones — Sextape](https://www.last.fm/music/Deftones/_/Sextape)<!-- LASTFM:END -->
+* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
