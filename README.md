@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Broken By The Scream — アイハキミノモノ](https://www.last.fm/music/Broken+By+The+Scream/_/%E3%82%A2%E3%82%A4%E3%83%8F%E3%82%AD%E3%83%9F%E3%83%8E%E3%83%A2%E3%83%8E)
-* [Digga D — STFU](https://www.last.fm/music/Digga+D/_/STFU)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Polyphia — G.O.A.T.](https://www.last.fm/music/Polyphia/_/G.O.A.T.)
-* [LANDMVRKS — Lost in a Wave](https://www.last.fm/music/LANDMVRKS/_/Lost+in+a+Wave)<!-- LASTFM:END -->
+* [Jianbo — S.H.A.O.L.I.N](https://www.last.fm/music/Jianbo/_/S.H.A.O.L.I.N)
+* [Karma — Life&#39;s Sh*t](https://www.last.fm/music/Karma/_/Life%27s+Sh*t)
+* [MEEKZ — Like Me](https://www.last.fm/music/MEEKZ/_/Like+Me)
+* [CASisDEAD — Play &lpar;Faze Miyake Remix&rpar;](https://www.last.fm/music/CASisDEAD/_/Play+&lpar;Faze+Miyake+Remix&rpar;)
+* [Broken By The Scream — アイハキミノモノ](https://www.last.fm/music/Broken+By+The+Scream/_/%E3%82%A2%E3%82%A4%E3%83%8F%E3%82%AD%E3%83%9F%E3%83%8E%E3%83%A2%E3%83%8E)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
