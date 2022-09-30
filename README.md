@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Deftones — Sextape](https://www.last.fm/music/Deftones/_/Sextape)
+* [Pete &amp; Bas — Quick Little Freestyle](https://www.last.fm/music/Pete+&amp;+Bas/_/Quick+Little+Freestyle)
+* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
 * [Jianbo — S.H.A.O.L.I.N](https://www.last.fm/music/Jianbo/_/S.H.A.O.L.I.N)
-* [Karma — Life&#39;s Sh*t](https://www.last.fm/music/Karma/_/Life%27s+Sh*t)
-* [MEEKZ — Like Me](https://www.last.fm/music/MEEKZ/_/Like+Me)
-* [CASisDEAD — Play &lpar;Faze Miyake Remix&rpar;](https://www.last.fm/music/CASisDEAD/_/Play+&lpar;Faze+Miyake+Remix&rpar;)
-* [Broken By The Scream — アイハキミノモノ](https://www.last.fm/music/Broken+By+The+Scream/_/%E3%82%A2%E3%82%A4%E3%83%8F%E3%82%AD%E3%83%9F%E3%83%8E%E3%83%A2%E3%83%8E)<!-- LASTFM:END -->
+* [Karma — Life&#39;s Sh*t](https://www.last.fm/music/Karma/_/Life%27s+Sh*t)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
