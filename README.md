@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cloacal Kiss — Necrobot](https://www.last.fm/music/Cloacal+Kiss/_/Necrobot)
+* [nanobii — Rainbow Road](https://www.last.fm/music/nanobii/_/Rainbow+Road)
+* [Street Sects — And I Grew into Ribbons](https://www.last.fm/music/Street+Sects/_/And+I+Grew+into+Ribbons)
 * [Myrkur — Två Konungabarn &lpar;Single&rpar;](https://www.last.fm/music/Myrkur/_/Tv%C3%A5+Konungabarn+&lpar;Single&rpar;)
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
-* [The Beef Seeds — Get Lucky](https://www.last.fm/music/The+Beef+Seeds/_/Get+Lucky)
-* [Burna Boy — Love, Damini &lpar;feat. Ladysmith Black Mambazo&rpar;](https://www.last.fm/music/Burna+Boy/_/Love,+Damini+&lpar;feat.+Ladysmith+Black+Mambazo&rpar;)
-* [Florida Georgia Line — Cruise](https://www.last.fm/music/Florida+Georgia+Line/_/Cruise)<!-- LASTFM:END -->
+* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
