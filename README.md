@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [High Tide Lofi — Sea Shanty 2 &lpar;Runescape&rpar;](https://www.last.fm/music/High+Tide+Lofi/_/Sea+Shanty+2+&lpar;Runescape&rpar;)
 * [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
 * [Cryex — Combining Forces - 2022 Edit](https://www.last.fm/music/Cryex/_/Combining+Forces+-+2022+Edit)
 * [The Wookies — Ora Pinches Vergas](https://www.last.fm/music/The+Wookies/_/Ora+Pinches+Vergas)
-* [Boom Kitty — Bassgasm](https://www.last.fm/music/Boom+Kitty/_/Bassgasm)
-* [Kabza De Small — Abalele](https://www.last.fm/music/Kabza+De+Small/_/Abalele)<!-- LASTFM:END -->
+* [Boom Kitty — Bassgasm](https://www.last.fm/music/Boom+Kitty/_/Bassgasm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
