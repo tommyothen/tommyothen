@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kabza De Small — Abalele](https://www.last.fm/music/Kabza+De+Small/_/Abalele)
+* [Shamana — Dolphin Splash It When I Whip It](https://www.last.fm/music/Shamana/_/Dolphin+Splash+It+When+I+Whip+It)
+* [The Jolly Rogers — The Flying Dutchman](https://www.last.fm/music/The+Jolly+Rogers/_/The+Flying+Dutchman)
 * [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
-* [Der Große Zerstückler — Jung und Grenzdebil](https://www.last.fm/music/Der+Gro%C3%9Fe+Zerst%C3%BCckler/_/Jung+und+Grenzdebil)
-* [Igorrr — Tendon](https://www.last.fm/music/Igorrr/_/Tendon)
-* [Stephen Walking — Glide](https://www.last.fm/music/Stephen+Walking/_/Glide)
-* [Original Hamster — Hamsta My Dear](https://www.last.fm/music/Original+Hamster/_/Hamsta+My+Dear)<!-- LASTFM:END -->
+* [Der Große Zerstückler — Jung und Grenzdebil](https://www.last.fm/music/Der+Gro%C3%9Fe+Zerst%C3%BCckler/_/Jung+und+Grenzdebil)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
