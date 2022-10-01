@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Danny Brown — Ain&#39;t it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)
+* [Distant — Chasm of Despair](https://www.last.fm/music/Distant/_/Chasm+of+Despair)
 * [Shamana — McMuffin](https://www.last.fm/music/Shamana/_/McMuffin)
 * [Partiboi69 — K On My D + C](https://www.last.fm/music/Partiboi69/_/K+On+My+D+%252B+C)
-* [Sheb Wooley — The Purple People Eater](https://www.last.fm/music/Sheb+Wooley/_/The+Purple+People+Eater)
-* [S3RL — MTC](https://www.last.fm/music/S3RL/_/MTC)
-* [¿Téo? — Palm Trees](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Palm+Trees)<!-- LASTFM:END -->
+* [Sheb Wooley — The Purple People Eater](https://www.last.fm/music/Sheb+Wooley/_/The+Purple+People+Eater)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
