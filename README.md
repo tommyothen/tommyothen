@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Wookies — Ora Pinches Vergas](https://www.last.fm/music/The+Wookies/_/Ora+Pinches+Vergas)
+* [Boom Kitty — Bassgasm](https://www.last.fm/music/Boom+Kitty/_/Bassgasm)
 * [Kabza De Small — Abalele](https://www.last.fm/music/Kabza+De+Small/_/Abalele)
 * [Shamana — Dolphin Splash It When I Whip It](https://www.last.fm/music/Shamana/_/Dolphin+Splash+It+When+I+Whip+It)
-* [The Jolly Rogers — The Flying Dutchman](https://www.last.fm/music/The+Jolly+Rogers/_/The+Flying+Dutchman)
-* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
-* [Der Große Zerstückler — Jung und Grenzdebil](https://www.last.fm/music/Der+Gro%C3%9Fe+Zerst%C3%BCckler/_/Jung+und+Grenzdebil)<!-- LASTFM:END -->
+* [The Jolly Rogers — The Flying Dutchman](https://www.last.fm/music/The+Jolly+Rogers/_/The+Flying+Dutchman)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
