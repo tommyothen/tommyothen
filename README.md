@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [¿Téo? — Palm Trees](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Palm+Trees)
-* [Aphex Twin — Alberto Balsalm](https://www.last.fm/music/Aphex+Twin/_/Alberto+Balsalm)
-* [High Tide Lofi — Sea Shanty 2 &lpar;Runescape&rpar;](https://www.last.fm/music/High+Tide+Lofi/_/Sea+Shanty+2+&lpar;Runescape&rpar;)
-* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
-* [Cryex — Combining Forces - 2022 Edit](https://www.last.fm/music/Cryex/_/Combining+Forces+-+2022+Edit)<!-- LASTFM:END -->
+* [Shamana — McMuffin](https://www.last.fm/music/Shamana/_/McMuffin)
+* [Partiboi69 — K On My D + C](https://www.last.fm/music/Partiboi69/_/K+On+My+D+%252B+C)
+* [Sheb Wooley — The Purple People Eater](https://www.last.fm/music/Sheb+Wooley/_/The+Purple+People+Eater)
+* [S3RL — MTC](https://www.last.fm/music/S3RL/_/MTC)
+* [¿Téo? — Palm Trees](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Palm+Trees)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
