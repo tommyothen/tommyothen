@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
+* [Cryex — Combining Forces - 2022 Edit](https://www.last.fm/music/Cryex/_/Combining+Forces+-+2022+Edit)
 * [The Wookies — Ora Pinches Vergas](https://www.last.fm/music/The+Wookies/_/Ora+Pinches+Vergas)
 * [Boom Kitty — Bassgasm](https://www.last.fm/music/Boom+Kitty/_/Bassgasm)
-* [Kabza De Small — Abalele](https://www.last.fm/music/Kabza+De+Small/_/Abalele)
-* [Shamana — Dolphin Splash It When I Whip It](https://www.last.fm/music/Shamana/_/Dolphin+Splash+It+When+I+Whip+It)
-* [The Jolly Rogers — The Flying Dutchman](https://www.last.fm/music/The+Jolly+Rogers/_/The+Flying+Dutchman)<!-- LASTFM:END -->
+* [Kabza De Small — Abalele](https://www.last.fm/music/Kabza+De+Small/_/Abalele)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
