@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Myrkur — Två Konungabarn &lpar;Single&rpar;](https://www.last.fm/music/Myrkur/_/Tv%C3%A5+Konungabarn+&lpar;Single&rpar;)
+* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
 * [The Beef Seeds — Get Lucky](https://www.last.fm/music/The+Beef+Seeds/_/Get+Lucky)
 * [Burna Boy — Love, Damini &lpar;feat. Ladysmith Black Mambazo&rpar;](https://www.last.fm/music/Burna+Boy/_/Love,+Damini+&lpar;feat.+Ladysmith+Black+Mambazo&rpar;)
-* [Florida Georgia Line — Cruise](https://www.last.fm/music/Florida+Georgia+Line/_/Cruise)
-* [Jessica Rylan — Please Come to Meet Me There](https://www.last.fm/music/Jessica+Rylan/_/Please+Come+to+Meet+Me+There)
-* [Tengger Cavalry — War Horse &lpar;2012&rpar;](https://www.last.fm/music/Tengger+Cavalry/_/War+Horse+&lpar;2012&rpar;)<!-- LASTFM:END -->
+* [Florida Georgia Line — Cruise](https://www.last.fm/music/Florida+Georgia+Line/_/Cruise)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
