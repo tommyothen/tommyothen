@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Spongebob Squarepants — Goofy Goober Rock](https://www.last.fm/music/Spongebob+Squarepants/_/Goofy+Goober+Rock)
+* [Eminem — The Real Slim Shady](https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady)
 * [Piano Fantasia — Song for Denise](https://www.last.fm/music/Piano+Fantasia/_/Song+for+Denise)
 * [Panjabi MC — Mundian to Bach Ke](https://www.last.fm/music/Panjabi+MC/_/Mundian+to+Bach+Ke)
-* [Future — Mask Off](https://www.last.fm/music/Future/_/Mask+Off)
-* [Gigi D&#39;Agostino — L&#39;Amour Toujours](https://www.last.fm/music/Gigi+D%27Agostino/_/L%27Amour+Toujours)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
+* [Future — Mask Off](https://www.last.fm/music/Future/_/Mask+Off)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
