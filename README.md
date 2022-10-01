@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Original Hamster — Hamsta My Dear](https://www.last.fm/music/Original+Hamster/_/Hamsta+My+Dear)
-* [Dionysus — FVCKED UP](https://www.last.fm/music/Dionysus/_/FVCKED+UP)
-* [GPF — Going in Dry](https://www.last.fm/music/GPF/_/Going+in+Dry)
-* [Cloacal Kiss — Necrobot](https://www.last.fm/music/Cloacal+Kiss/_/Necrobot)
-* [nanobii — Rainbow Road](https://www.last.fm/music/nanobii/_/Rainbow+Road)<!-- LASTFM:END -->
+* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
+* [Der Große Zerstückler — Jung und Grenzdebil](https://www.last.fm/music/Der+Gro%C3%9Fe+Zerst%C3%BCckler/_/Jung+und+Grenzdebil)
+* [Igorrr — Tendon](https://www.last.fm/music/Igorrr/_/Tendon)
+* [Stephen Walking — Glide](https://www.last.fm/music/Stephen+Walking/_/Glide)
+* [Original Hamster — Hamsta My Dear](https://www.last.fm/music/Original+Hamster/_/Hamsta+My+Dear)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
