@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lilac — weluvurgirl](https://www.last.fm/music/Lilac/_/weluvurgirl)
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
-* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)<!-- LASTFM:END -->
+* [yugica — Gasou](https://www.last.fm/music/yugica/_/Gasou)
+* [KasaLovr — if i cant be urs](https://www.last.fm/music/KasaLovr/_/if+i+cant+be+urs)
+* [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
+* [Yandere — Dream of You](https://www.last.fm/music/Yandere/_/Dream+of+You)
+* [HiTECH NINJA — Modelista](https://www.last.fm/music/HiTECH+NINJA/_/Modelista)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
