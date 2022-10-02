@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
 * [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
 * [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
 * [Danny Brown — Ain&#39;t it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)
-* [Distant — Chasm of Despair](https://www.last.fm/music/Distant/_/Chasm+of+Despair)
-* [Shamana — McMuffin](https://www.last.fm/music/Shamana/_/McMuffin)<!-- LASTFM:END -->
+* [Distant — Chasm of Despair](https://www.last.fm/music/Distant/_/Chasm+of+Despair)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
