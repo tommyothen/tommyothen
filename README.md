@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [yugica — Gasou](https://www.last.fm/music/yugica/_/Gasou)
-* [KasaLovr — if i cant be urs](https://www.last.fm/music/KasaLovr/_/if+i+cant+be+urs)
-* [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
-* [Yandere — Dream of You](https://www.last.fm/music/Yandere/_/Dream+of+You)
-* [HiTECH NINJA — Modelista](https://www.last.fm/music/HiTECH+NINJA/_/Modelista)<!-- LASTFM:END -->
+* [Astrophysics — you&#39;re killing me](https://www.last.fm/music/Astrophysics/_/you%27re+killing+me)
+* [YUC&#39;e — Sunset Tea Cup](https://www.last.fm/music/YUC%27e/_/Sunset+Tea+Cup)
+* [DV-i — Resonance](https://www.last.fm/music/DV-i/_/Resonance)
+* [Lilac — access denied](https://www.last.fm/music/Lilac/_/access+denied)
+* [yugica — Gasou](https://www.last.fm/music/yugica/_/Gasou)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
