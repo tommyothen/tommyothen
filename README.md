@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
 * [Astrophysics — you&#39;re killing me](https://www.last.fm/music/Astrophysics/_/you%27re+killing+me)
 * [YUC&#39;e — Sunset Tea Cup](https://www.last.fm/music/YUC%27e/_/Sunset+Tea+Cup)
 * [DV-i — Resonance](https://www.last.fm/music/DV-i/_/Resonance)
-* [Lilac — access denied](https://www.last.fm/music/Lilac/_/access+denied)
-* [yugica — Gasou](https://www.last.fm/music/yugica/_/Gasou)<!-- LASTFM:END -->
+* [Lilac — access denied](https://www.last.fm/music/Lilac/_/access+denied)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
