@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Samsa — Superlative Heroes](https://www.last.fm/music/Samsa/_/Superlative+Heroes)
 * [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
 * [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
 * [Cloacal Kiss — Necrobot](https://www.last.fm/music/Cloacal+Kiss/_/Necrobot)
-* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
-* [Astrophysics — you&#39;re killing me](https://www.last.fm/music/Astrophysics/_/you%27re+killing+me)<!-- LASTFM:END -->
+* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
