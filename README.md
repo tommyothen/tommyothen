@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
+* [Ghost Data — Voice of Eternity](https://www.last.fm/music/Ghost+Data/_/Voice+of+Eternity)
 * [Samsa — Superlative Heroes](https://www.last.fm/music/Samsa/_/Superlative+Heroes)
 * [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
-* [Cloacal Kiss — Necrobot](https://www.last.fm/music/Cloacal+Kiss/_/Necrobot)
-* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)<!-- LASTFM:END -->
+* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
