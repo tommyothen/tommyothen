@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [Ghost Data — Voice of Eternity](https://www.last.fm/music/Ghost+Data/_/Voice+of+Eternity)
-* [Samsa — Superlative Heroes](https://www.last.fm/music/Samsa/_/Superlative+Heroes)
-* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)<!-- LASTFM:END -->
+* [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
+* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
+* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
