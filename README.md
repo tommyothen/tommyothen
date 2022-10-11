@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [love-sadKiD — Paris](https://www.last.fm/music/love-sadKiD/_/Paris)
-* [Antoha MC — Будь Здоров !](https://www.last.fm/music/Antoha+MC/_/%D0%91%D1%83%D0%B4%D1%8C+%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2+!)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [XXXTENTACION — looking for a star](https://www.last.fm/music/XXXTENTACION/_/looking+for+a+star)<!-- LASTFM:END -->
+* [Softwilly — #FreeRobuxIfYouShareSong_draft_v2](https://www.last.fm/music/Softwilly/_/%23FreeRobuxIfYouShareSong_draft_v2)
+* [Kailee Morgue — black sheep](https://www.last.fm/music/Kailee+Morgue/_/black+sheep)
+* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
+* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)
+* [love-sadKiD — Paris](https://www.last.fm/music/love-sadKiD/_/Paris)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
