@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
-* [Clarx — Voodoo People](https://www.last.fm/music/Clarx/_/Voodoo+People)
-* [Flux Pavilion — Pull The Trigger - Maduk Remix](https://www.last.fm/music/Flux+Pavilion/_/Pull+The+Trigger+-+Maduk+Remix)
-* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)<!-- LASTFM:END -->
+* [Marcy Playground — Sex &amp; Candy](https://www.last.fm/music/Marcy+Playground/_/Sex+&amp;+Candy)
+* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
+* [Anderson .Paak — Come Down](https://www.last.fm/music/Anderson+.Paak/_/Come+Down)
+* [D-Real [愛] — Zero Two](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Zero+Two)
+* [Chloe Moriondo — Ghost Adventure Spirit Orb](https://www.last.fm/music/Chloe+Moriondo/_/Ghost+Adventure+Spirit+Orb)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
