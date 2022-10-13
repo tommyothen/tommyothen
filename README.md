@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTentacion — infinity &lpar;888&rpar; - feat. Joey Bada$](https://www.last.fm/music/XXXTentacion/_/infinity+&lpar;888&rpar;+-+feat.+Joey+Bada$)
 * [Flamingosis — Sunset Park](https://www.last.fm/music/Flamingosis/_/Sunset+Park)
 * [Peppou — Cache](https://www.last.fm/music/Peppou/_/Cache)
 * [Radiohead — Karma Police](https://www.last.fm/music/Radiohead/_/Karma+Police)
-* [Marcy Playground — Sex &amp; Candy](https://www.last.fm/music/Marcy+Playground/_/Sex+&amp;+Candy)
-* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)<!-- LASTFM:END -->
+* [Marcy Playground — Sex &amp; Candy](https://www.last.fm/music/Marcy+Playground/_/Sex+&amp;+Candy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
