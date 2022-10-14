@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yameii Online — yummy dummy *°:⋆ₓₒ╰&lpar;◡‿◡✿╰&rpar;](https://www.last.fm/music/Yameii+Online/_/yummy+dummy+*%C2%B0:%E2%8B%86%E2%82%93%E2%82%92%E2%95%B0&lpar;%E2%97%A1%E2%80%BF%E2%97%A1%E2%9C%BF%E2%95%B0&rpar;)
 * [Alice Longyu Gao — MAKE U 3 ME](https://www.last.fm/music/Alice+Longyu+Gao/_/MAKE+U+3+ME)
 * [Courtney Paige Nelson — Bury It - Alice Longyu Gao Remix](https://www.last.fm/music/Courtney+Paige+Nelson/_/Bury+It+-+Alice+Longyu+Gao+Remix)
 * [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [XXXTentacion — infinity &lpar;888&rpar; - feat. Joey Bada$](https://www.last.fm/music/XXXTentacion/_/infinity+&lpar;888&rpar;+-+feat.+Joey+Bada$)
-* [Flamingosis — Sunset Park](https://www.last.fm/music/Flamingosis/_/Sunset+Park)<!-- LASTFM:END -->
+* [XXXTentacion — infinity &lpar;888&rpar; - feat. Joey Bada$](https://www.last.fm/music/XXXTentacion/_/infinity+&lpar;888&rpar;+-+feat.+Joey+Bada$)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
