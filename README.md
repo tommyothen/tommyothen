@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alice Longyu Gao — MAKE U 3 ME](https://www.last.fm/music/Alice+Longyu+Gao/_/MAKE+U+3+ME)
+* [Courtney Paige Nelson — Bury It - Alice Longyu Gao Remix](https://www.last.fm/music/Courtney+Paige+Nelson/_/Bury+It+-+Alice+Longyu+Gao+Remix)
 * [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
 * [XXXTentacion — infinity &lpar;888&rpar; - feat. Joey Bada$](https://www.last.fm/music/XXXTentacion/_/infinity+&lpar;888&rpar;+-+feat.+Joey+Bada$)
-* [Flamingosis — Sunset Park](https://www.last.fm/music/Flamingosis/_/Sunset+Park)
-* [Peppou — Cache](https://www.last.fm/music/Peppou/_/Cache)
-* [Radiohead — Karma Police](https://www.last.fm/music/Radiohead/_/Karma+Police)<!-- LASTFM:END -->
+* [Flamingosis — Sunset Park](https://www.last.fm/music/Flamingosis/_/Sunset+Park)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
