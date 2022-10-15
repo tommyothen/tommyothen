@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
-* [Early Eyes — Revel Berry](https://www.last.fm/music/Early+Eyes/_/Revel+Berry)
-* [H8 Music — BLISTER!](https://www.last.fm/music/H8+Music/_/BLISTER!)
-* [L-Vokal — YO](https://www.last.fm/music/L-Vokal/_/YO)
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)<!-- LASTFM:END -->
+* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
+* [$uicideboy$ — Matte Black](https://www.last.fm/music/$uicideboy$/_/Matte+Black)
+* [8485 — southview](https://www.last.fm/music/8485/_/southview)
+* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
