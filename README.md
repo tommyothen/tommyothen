@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
-* [The Kid LAROI — STAY &lpar;with Justin Bieber&rpar;](https://www.last.fm/music/The+Kid+LAROI/_/STAY+&lpar;with+Justin+Bieber&rpar;)
-* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
-* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
-* [Aries — bounty hunter](https://www.last.fm/music/Aries/_/bounty+hunter)<!-- LASTFM:END -->
+* [Anamanaguchi — Miku](https://www.last.fm/music/Anamanaguchi/_/Miku)
+* [Eryn Martin — Ball](https://www.last.fm/music/Eryn+Martin/_/Ball)
+* [maxime. — the apathy song](https://www.last.fm/music/maxime./_/the+apathy+song)
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
+* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
