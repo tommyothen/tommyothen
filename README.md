@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
+* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
 * [DeZi — Venus in Gemini](https://www.last.fm/music/DeZi/_/Venus+in+Gemini)
-* [Doja Cat — Won&#39;t Bite &lpar;feat. Smino&rpar;](https://www.last.fm/music/Doja+Cat/_/Won%27t+Bite+&lpar;feat.+Smino&rpar;)
-* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)
-* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
+* [Doja Cat — Won&#39;t Bite &lpar;feat. Smino&rpar;](https://www.last.fm/music/Doja+Cat/_/Won%27t+Bite+&lpar;feat.+Smino&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
