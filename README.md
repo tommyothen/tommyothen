@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aries — bounty hunter](https://www.last.fm/music/Aries/_/bounty+hunter)
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
 * [Eden — modern warfare](https://www.last.fm/music/Eden/_/modern+warfare)
 * [Doja Cat — Celebrity Skin](https://www.last.fm/music/Doja+Cat/_/Celebrity+Skin)
-* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
-* [Caroline Polachek — So Hot You&#39;re Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
-* [MUNA — Silk Chiffon](https://www.last.fm/music/MUNA/_/Silk+Chiffon)<!-- LASTFM:END -->
+* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
