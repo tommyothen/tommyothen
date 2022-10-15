@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Aries — bounty hunter](https://www.last.fm/music/Aries/_/bounty+hunter)
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [Eden — modern warfare](https://www.last.fm/music/Eden/_/modern+warfare)
-* [Doja Cat — Celebrity Skin](https://www.last.fm/music/Doja+Cat/_/Celebrity+Skin)
-* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)<!-- LASTFM:END -->
+* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
+* [The Kid LAROI — STAY &lpar;with Justin Bieber&rpar;](https://www.last.fm/music/The+Kid+LAROI/_/STAY+&lpar;with+Justin+Bieber&rpar;)
+* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
+* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
+* [Aries — bounty hunter](https://www.last.fm/music/Aries/_/bounty+hunter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
