@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cao White — Hai Domo](https://www.last.fm/music/Cao+White/_/Hai+Domo)
+* [stxlkin — so bitter](https://www.last.fm/music/stxlkin/_/so+bitter)
 * [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)
 * [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
-* [Pure Gem — moe shoppu lovu tastu is tha weh](https://www.last.fm/music/Pure+Gem/_/moe+shoppu+lovu+tastu+is+tha+weh)
-* [Hot Freaks — Puppy Princess](https://www.last.fm/music/Hot+Freaks/_/Puppy+Princess)<!-- LASTFM:END -->
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
