@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
 * [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
 * [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)
 * [lund — By My Side](https://www.last.fm/music/lund/_/By+My+Side)
-* [Bambee — Bumble Bee](https://www.last.fm/music/Bambee/_/Bumble+Bee)
-* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)<!-- LASTFM:END -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
