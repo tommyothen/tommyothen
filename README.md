@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XXXTENTACION — going down!](https://www.last.fm/music/XXXTENTACION/_/going+down!)
-* [potsu — I&#39;m Closing My Eyes](https://www.last.fm/music/potsu/_/I%27m+Closing+My+Eyes)
-* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
-* [LIL DUSTY G — INSECTS](https://www.last.fm/music/LIL+DUSTY+G/_/INSECTS)
-* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)<!-- LASTFM:END -->
+* [Josh A — Rest in Pieces](https://www.last.fm/music/Josh+A/_/Rest+in+Pieces)
+* [Josh A — Broken](https://www.last.fm/music/Josh+A/_/Broken)
+* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)
+* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
+* [Eden — XO](https://www.last.fm/music/Eden/_/XO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
