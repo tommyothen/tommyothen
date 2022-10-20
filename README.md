@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Josh A — Rest in Pieces](https://www.last.fm/music/Josh+A/_/Rest+in+Pieces)
-* [Josh A — Broken](https://www.last.fm/music/Josh+A/_/Broken)
-* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)
-* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
-* [Eden — XO](https://www.last.fm/music/Eden/_/XO)<!-- LASTFM:END -->
+* [Billie Eilish — 8](https://www.last.fm/music/Billie+Eilish/_/8)
+* [Guardin — i think you&#39;re really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)
+* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
+* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)
+* [Josh A — Rest in Pieces](https://www.last.fm/music/Josh+A/_/Rest+in+Pieces)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
