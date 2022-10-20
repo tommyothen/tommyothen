@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — lost//found](https://www.last.fm/music/Eden/_/lost%2F%2Ffound)
+* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)
 * [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
 * [Billie Eilish — ocean eyes](https://www.last.fm/music/Billie+Eilish/_/ocean+eyes)
-* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
-* [Guardin — in my sleep](https://www.last.fm/music/Guardin/_/in+my+sleep)
-* [Billie Eilish — lovely](https://www.last.fm/music/Billie+Eilish/_/lovely)<!-- LASTFM:END -->
+* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
