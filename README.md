@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
+* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
 * [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)
 * [Eden — gold](https://www.last.fm/music/Eden/_/gold)
-* [Sleepy — Hai Domo](https://www.last.fm/music/Sleepy/_/Hai+Domo)
-* [Porter Robinson — Divinity - filous Remix](https://www.last.fm/music/Porter+Robinson/_/Divinity+-+filous+Remix)
-* [Kudasaibeats — The Girl I Haven&#39;t Met &lpar;Biskwiq Flip&rpar;](https://www.last.fm/music/Kudasaibeats/_/The+Girl+I+Haven%27t+Met+&lpar;Biskwiq+Flip&rpar;)<!-- LASTFM:END -->
+* [Sleepy — Hai Domo](https://www.last.fm/music/Sleepy/_/Hai+Domo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
