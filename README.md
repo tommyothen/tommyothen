@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — forever//over](https://www.last.fm/music/Eden/_/forever%2F%2Fover)
-* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)
-* [Au/Ra — Panic Room](https://www.last.fm/music/Au%2FRa/_/Panic+Room)
-* [Eden Project — drowning.](https://www.last.fm/music/Eden+Project/_/drowning.)
-* [guccihighwaters — Oh Fuck I&#39;m Drunk](https://www.last.fm/music/guccihighwaters/_/Oh+Fuck+I%27m+Drunk)<!-- LASTFM:END -->
+* [XXXTENTACION — going down!](https://www.last.fm/music/XXXTENTACION/_/going+down!)
+* [potsu — I&#39;m Closing My Eyes](https://www.last.fm/music/potsu/_/I%27m+Closing+My+Eyes)
+* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
+* [LIL DUSTY G — INSECTS](https://www.last.fm/music/LIL+DUSTY+G/_/INSECTS)
+* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
