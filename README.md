@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — forever//over](https://www.last.fm/music/Eden/_/forever%2F%2Fover)
+* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)
+* [Au/Ra — Panic Room](https://www.last.fm/music/Au%2FRa/_/Panic+Room)
 * [Eden Project — drowning.](https://www.last.fm/music/Eden+Project/_/drowning.)
-* [guccihighwaters — Oh Fuck I&#39;m Drunk](https://www.last.fm/music/guccihighwaters/_/Oh+Fuck+I%27m+Drunk)
-* [XXXTentacion — Revenge](https://www.last.fm/music/XXXTentacion/_/Revenge)
-* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
-* [Trevor Daniel — Falling &lpar;feat. blackbear&rpar; - blackbear Remix](https://www.last.fm/music/Trevor+Daniel/_/Falling+&lpar;feat.+blackbear&rpar;+-+blackbear+Remix)<!-- LASTFM:END -->
+* [guccihighwaters — Oh Fuck I&#39;m Drunk](https://www.last.fm/music/guccihighwaters/_/Oh+Fuck+I%27m+Drunk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
