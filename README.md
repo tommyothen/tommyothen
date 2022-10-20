@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)
 * [Autograf — Sleepless In NYC](https://www.last.fm/music/Autograf/_/Sleepless+In+NYC)
 * [Anamanaguchi — Miku](https://www.last.fm/music/Anamanaguchi/_/Miku)
 * [Cao White — Hai Domo](https://www.last.fm/music/Cao+White/_/Hai+Domo)
-* [stxlkin — so bitter](https://www.last.fm/music/stxlkin/_/so+bitter)
-* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)<!-- LASTFM:END -->
+* [stxlkin — so bitter](https://www.last.fm/music/stxlkin/_/so+bitter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
