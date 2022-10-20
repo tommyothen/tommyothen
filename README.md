@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kris Wu — 18](https://www.last.fm/music/Kris+Wu/_/18)
+* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
 * [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)
 * [Autograf — Sleepless In NYC](https://www.last.fm/music/Autograf/_/Sleepless+In+NYC)
-* [Anamanaguchi — Miku](https://www.last.fm/music/Anamanaguchi/_/Miku)
-* [Cao White — Hai Domo](https://www.last.fm/music/Cao+White/_/Hai+Domo)
-* [stxlkin — so bitter](https://www.last.fm/music/stxlkin/_/so+bitter)<!-- LASTFM:END -->
+* [Anamanaguchi — Miku](https://www.last.fm/music/Anamanaguchi/_/Miku)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
