@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Saib — Come with me](https://www.last.fm/music/Saib/_/Come+with+me)
-* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
-* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
-* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)
-* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)<!-- LASTFM:END -->
+* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
+* [bbno$ — run this shit](https://www.last.fm/music/bbno$/_/run+this+shit)
+* [Camellia — Exit This Earth&#39;s Atomosphere](https://www.last.fm/music/Camellia/_/Exit+This+Earth%27s+Atomosphere)
+* [DAOKO — さみしいかみさま](https://www.last.fm/music/DAOKO/_/%E3%81%95%E3%81%BF%E3%81%97%E3%81%84%E3%81%8B%E3%81%BF%E3%81%95%E3%81%BE)
+* [XXXTENTACION — HOPE](https://www.last.fm/music/XXXTENTACION/_/HOPE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
