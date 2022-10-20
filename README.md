@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden Project — drowning.](https://www.last.fm/music/Eden+Project/_/drowning.)
+* [guccihighwaters — Oh Fuck I&#39;m Drunk](https://www.last.fm/music/guccihighwaters/_/Oh+Fuck+I%27m+Drunk)
 * [XXXTentacion — Revenge](https://www.last.fm/music/XXXTentacion/_/Revenge)
 * [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
-* [Trevor Daniel — Falling &lpar;feat. blackbear&rpar; - blackbear Remix](https://www.last.fm/music/Trevor+Daniel/_/Falling+&lpar;feat.+blackbear&rpar;+-+blackbear+Remix)
-* [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
-* [Eden — wonder](https://www.last.fm/music/Eden/_/wonder)<!-- LASTFM:END -->
+* [Trevor Daniel — Falling &lpar;feat. blackbear&rpar; - blackbear Remix](https://www.last.fm/music/Trevor+Daniel/_/Falling+&lpar;feat.+blackbear&rpar;+-+blackbear+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
