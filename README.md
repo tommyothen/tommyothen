@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
-* [bbno$ — run this shit](https://www.last.fm/music/bbno$/_/run+this+shit)
-* [Camellia — Exit This Earth&#39;s Atomosphere](https://www.last.fm/music/Camellia/_/Exit+This+Earth%27s+Atomosphere)
-* [DAOKO — さみしいかみさま](https://www.last.fm/music/DAOKO/_/%E3%81%95%E3%81%BF%E3%81%97%E3%81%84%E3%81%8B%E3%81%BF%E3%81%95%E3%81%BE)
-* [XXXTENTACION — HOPE](https://www.last.fm/music/XXXTENTACION/_/HOPE)<!-- LASTFM:END -->
+* [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)
+* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
+* [Sleepy — Hai Domo](https://www.last.fm/music/Sleepy/_/Hai+Domo)
+* [Porter Robinson — Divinity - filous Remix](https://www.last.fm/music/Porter+Robinson/_/Divinity+-+filous+Remix)
+* [Kudasaibeats — The Girl I Haven&#39;t Met &lpar;Biskwiq Flip&rpar;](https://www.last.fm/music/Kudasaibeats/_/The+Girl+I+Haven%27t+Met+&lpar;Biskwiq+Flip&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
