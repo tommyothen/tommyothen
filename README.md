@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Joji — Plastic Taste](https://www.last.fm/music/Joji/_/Plastic+Taste)
-* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)
-* [Yung Lean — Kyoto](https://www.last.fm/music/Yung+Lean/_/Kyoto)
-* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
-* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)<!-- LASTFM:END -->
+* [Billie Eilish — goodbye](https://www.last.fm/music/Billie+Eilish/_/goodbye)
+* [Joji — YEAH RIGHT](https://www.last.fm/music/Joji/_/YEAH+RIGHT)
+* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
+* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)
+* [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
