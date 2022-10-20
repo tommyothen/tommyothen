@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — YEAH RIGHT](https://www.last.fm/music/Joji/_/YEAH+RIGHT)
+* [XXXTENTACION — schizophrenia](https://www.last.fm/music/XXXTENTACION/_/schizophrenia)
+* [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)
 * [potsu — I&#39;m Closing My Eyes](https://www.last.fm/music/potsu/_/I%27m+Closing+My+Eyes)
-* [Billie Eilish — when the party&#39;s over](https://www.last.fm/music/Billie+Eilish/_/when+the+party%27s+over)
-* [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)
-* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
-* [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)<!-- LASTFM:END -->
+* [Billie Eilish — when the party&#39;s over](https://www.last.fm/music/Billie+Eilish/_/when+the+party%27s+over)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
