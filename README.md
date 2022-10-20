@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
-* [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)
-* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
-* [Sleepy — Hai Domo](https://www.last.fm/music/Sleepy/_/Hai+Domo)<!-- LASTFM:END -->
+* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
+* [AMpm — more](https://www.last.fm/music/AMpm/_/more)
+* [maretu — Coin Locker Baby](https://www.last.fm/music/maretu/_/Coin+Locker+Baby)
+* [Magic Circuit — Slip](https://www.last.fm/music/Magic+Circuit/_/Slip)
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
