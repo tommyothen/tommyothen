@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
+* [Porter Robinson — Goodbye To A World](https://www.last.fm/music/Porter+Robinson/_/Goodbye+To+A+World)
+* [Joji — Worldstar Money &lpar;Interlude&rpar;](https://www.last.fm/music/Joji/_/Worldstar+Money+&lpar;Interlude&rpar;)
 * [Atlas — facade](https://www.last.fm/music/Atlas/_/facade)
-* [Eden — and](https://www.last.fm/music/Eden/_/and)
-* [nothing,nowhere. — hammer](https://www.last.fm/music/nothing,nowhere./_/hammer)
-* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
-* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)<!-- LASTFM:END -->
+* [Eden — and](https://www.last.fm/music/Eden/_/and)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
