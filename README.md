@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
 * [Niki — Sugarplum Elegy](https://www.last.fm/music/Niki/_/Sugarplum+Elegy)
 * [XXXTENTACION — Fuck Love &lpar;Feat. Trippie Redd&rpar;](https://www.last.fm/music/XXXTENTACION/_/Fuck+Love+&lpar;Feat.+Trippie+Redd&rpar;)
 * [Joji — YEAH RIGHT](https://www.last.fm/music/Joji/_/YEAH+RIGHT)
-* [XXXTENTACION — schizophrenia](https://www.last.fm/music/XXXTENTACION/_/schizophrenia)
-* [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)<!-- LASTFM:END -->
+* [XXXTENTACION — schizophrenia](https://www.last.fm/music/XXXTENTACION/_/schizophrenia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
