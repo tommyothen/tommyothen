@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
+* [LIL DUSTY G — INSECTS](https://www.last.fm/music/LIL+DUSTY+G/_/INSECTS)
 * [Billie Eilish — goodbye](https://www.last.fm/music/Billie+Eilish/_/goodbye)
 * [Joji — YEAH RIGHT](https://www.last.fm/music/Joji/_/YEAH+RIGHT)
-* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
-* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)
-* [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)<!-- LASTFM:END -->
+* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
