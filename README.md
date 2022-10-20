@@ -2,8 +2,8 @@
 ```json
 {
   "Name": "Tommy Othen",
-  "Age": 20,
-  "Occupation": "Student",
+  "Age": 21,
+  "Occupation": "Graudate",
   "Interests": ["Programming", "Games", "Anime"],
   "Learning": ["Kubernetes", "Ansible"]
 }
