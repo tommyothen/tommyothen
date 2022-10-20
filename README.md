@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)
+* [Billie Eilish — i love you](https://www.last.fm/music/Billie+Eilish/_/i+love+you)
+* [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)
 * [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
-* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
-* [Ryan Oakes — Drinking About You](https://www.last.fm/music/Ryan+Oakes/_/Drinking+About+You)
-* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
-* [XXXTentacion — Everybody Dies in Their Nightmares](https://www.last.fm/music/XXXTentacion/_/Everybody+Dies+in+Their+Nightmares)<!-- LASTFM:END -->
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
