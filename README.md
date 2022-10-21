@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bennytheghost — Papercut](https://www.last.fm/music/bennytheghost/_/Papercut)
-* [EmoCosine — This Club is Not 4 U](https://www.last.fm/music/EmoCosine/_/This+Club+is+Not+4+U)
-* [Allie X — June Gloom](https://www.last.fm/music/Allie+X/_/June+Gloom)
-* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
-* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)<!-- LASTFM:END -->
+* [Aiden Williams — Waterfall](https://www.last.fm/music/Aiden+Williams/_/Waterfall)
+* [Murrumur — flowers bloom inside my head](https://www.last.fm/music/Murrumur/_/flowers+bloom+inside+my+head)
+* [Zekk — フリーフォール](https://www.last.fm/music/Zekk/_/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB)
+* [The Hellp — Tu Tu Neurotic](https://www.last.fm/music/The+Hellp/_/Tu+Tu+Neurotic)
+* [bennytheghost — Papercut](https://www.last.fm/music/bennytheghost/_/Papercut)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
