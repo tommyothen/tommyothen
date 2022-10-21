@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)
-* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
-* [ASCA — RESISTER](https://www.last.fm/music/ASCA/_/RESISTER)
-* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)<!-- LASTFM:END -->
+* [Lil Yachty — Poland](https://www.last.fm/music/Lil+Yachty/_/Poland)
+* [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)
+* [Adam Jensen — Bad Luck](https://www.last.fm/music/Adam+Jensen/_/Bad+Luck)
+* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
+* [love-sadKiD — Cash](https://www.last.fm/music/love-sadKiD/_/Cash)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
