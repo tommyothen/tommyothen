@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)
+* [JUICEB☮X — Mushroom](https://www.last.fm/music/JUICEB%E2%98%AEX/_/Mushroom)
 * [Lil Yachty — Poland](https://www.last.fm/music/Lil+Yachty/_/Poland)
 * [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)
-* [Adam Jensen — Bad Luck](https://www.last.fm/music/Adam+Jensen/_/Bad+Luck)
-* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)
-* [love-sadKiD — Cash](https://www.last.fm/music/love-sadKiD/_/Cash)<!-- LASTFM:END -->
+* [Adam Jensen — Bad Luck](https://www.last.fm/music/Adam+Jensen/_/Bad+Luck)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
