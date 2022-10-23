@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)
+* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
+* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
 * [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
-* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
-* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)<!-- LASTFM:END -->
+* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
