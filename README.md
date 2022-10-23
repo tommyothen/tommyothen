@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fusq — Perfume!](https://www.last.fm/music/Fusq/_/Perfume!)
 * [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
 * [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)
 * [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
-* [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)
-* [c0nv0 — December](https://www.last.fm/music/c0nv0/_/December)<!-- LASTFM:END -->
+* [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
