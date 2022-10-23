@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
+* [sim_bex — blood_thinner](https://www.last.fm/music/sim_bex/_/blood_thinner)
 * [Allie X — June Gloom](https://www.last.fm/music/Allie+X/_/June+Gloom)
 * [bennytheghost — Papercut](https://www.last.fm/music/bennytheghost/_/Papercut)
-* [TORIENA — C.Q.C](https://www.last.fm/music/TORIENA/_/C.Q.C)
-* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
-* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)<!-- LASTFM:END -->
+* [TORIENA — C.Q.C](https://www.last.fm/music/TORIENA/_/C.Q.C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
