@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Angelus — hope u doing well](https://www.last.fm/music/Angelus/_/hope+u+doing+well)
-* [LIL DUSTY G — INBETWEEN](https://www.last.fm/music/LIL+DUSTY+G/_/INBETWEEN)
-* [kaz moon — Left Hand](https://www.last.fm/music/kaz+moon/_/Left+Hand)
-* [tomcbumpz — sour](https://www.last.fm/music/tomcbumpz/_/sour)
-* [meltycanon — sabbath](https://www.last.fm/music/meltycanon/_/sabbath)<!-- LASTFM:END -->
+* [tomcbumpz — droopy](https://www.last.fm/music/tomcbumpz/_/droopy)
+* [Weston Estate — So Good](https://www.last.fm/music/Weston+Estate/_/So+Good)
+* [TOKYOPILL — Club Cyberia](https://www.last.fm/music/TOKYOPILL/_/Club+Cyberia)
+* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)
+* [LIL DUSTY G — All I Have Is My Smile](https://www.last.fm/music/LIL+DUSTY+G/_/All+I+Have+Is+My+Smile)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
