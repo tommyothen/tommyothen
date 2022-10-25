@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [meltycanon — sabbath](https://www.last.fm/music/meltycanon/_/sabbath)
-* [Khary — Fembrook Dr](https://www.last.fm/music/Khary/_/Fembrook+Dr)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [ivri — glow worms](https://www.last.fm/music/ivri/_/glow+worms)<!-- LASTFM:END -->
+* [Angelus — hope u doing well](https://www.last.fm/music/Angelus/_/hope+u+doing+well)
+* [LIL DUSTY G — INBETWEEN](https://www.last.fm/music/LIL+DUSTY+G/_/INBETWEEN)
+* [kaz moon — Left Hand](https://www.last.fm/music/kaz+moon/_/Left+Hand)
+* [tomcbumpz — sour](https://www.last.fm/music/tomcbumpz/_/sour)
+* [meltycanon — sabbath](https://www.last.fm/music/meltycanon/_/sabbath)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
