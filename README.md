@@ -28,8 +28,8 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ivri — glow worms](https://www.last.fm/music/ivri/_/glow+worms)
-* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
+* [meltycanon — sabbath](https://www.last.fm/music/meltycanon/_/sabbath)
+* [Khary — Fembrook Dr](https://www.last.fm/music/Khary/_/Fembrook+Dr)
 * [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
 * [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
 * [ivri — glow worms](https://www.last.fm/music/ivri/_/glow+worms)<!-- LASTFM:END -->
