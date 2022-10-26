@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Zekk — MEJIRUSHI](https://www.last.fm/music/Zekk/_/MEJIRUSHI)
-* [Asha Imuno — ZIG ZAGGING](https://www.last.fm/music/Asha+Imuno/_/ZIG+ZAGGING)
-* [Kobaryo — Dimension Hacker](https://www.last.fm/music/Kobaryo/_/Dimension+Hacker)
-* [HiTECH NINJA — Modelista](https://www.last.fm/music/HiTECH+NINJA/_/Modelista)
-* [Kobaryo — Invisible Frenzy](https://www.last.fm/music/Kobaryo/_/Invisible+Frenzy)<!-- LASTFM:END -->
+* [P*Light — TWINKLE MAGIC](https://www.last.fm/music/P*Light/_/TWINKLE+MAGIC)
+* [TOKYOPILL — text me back](https://www.last.fm/music/TOKYOPILL/_/text+me+back)
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
+* [Camellia — &lpar;The&rpar; Red * Room](https://www.last.fm/music/Camellia/_/&lpar;The&rpar;+Red+*+Room)
+* [Zekk — MEJIRUSHI](https://www.last.fm/music/Zekk/_/MEJIRUSHI)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
