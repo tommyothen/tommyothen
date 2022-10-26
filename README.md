@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
+* [Pearly Drops — Bloom For Me](https://www.last.fm/music/Pearly+Drops/_/Bloom+For+Me)
+* [TOKYOPILL — Dreamin About You !](https://www.last.fm/music/TOKYOPILL/_/Dreamin+About+You+!)
 * [Joey Valence &amp; Brae — PUNK TACTICS](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/PUNK+TACTICS)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Isaak Wolf — Devious Red &lpar;Yoclesh&rpar;](https://www.last.fm/music/Isaak+Wolf/_/Devious+Red+&lpar;Yoclesh&rpar;)
-* [MeiaUm — Goodbye](https://www.last.fm/music/MeiaUm/_/Goodbye)
-* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)<!-- LASTFM:END -->
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
