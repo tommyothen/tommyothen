@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
+* [lasah — GHOST OF LORELEY](https://www.last.fm/music/lasah/_/GHOST+OF+LORELEY)
 * [Silentroom — Aegleseeker](https://www.last.fm/music/Silentroom/_/Aegleseeker)
 * [MIYAVI — Snakes &lpar;from the series Arcane League of Legends&rpar;](https://www.last.fm/music/MIYAVI/_/Snakes+&lpar;from+the+series+Arcane+League+of+Legends&rpar;)
-* [Wez Atlas — Zuum!](https://www.last.fm/music/Wez+Atlas/_/Zuum!)
-* [sim_bex — blood_thinner](https://www.last.fm/music/sim_bex/_/blood_thinner)
-* [epsyle — Couture](https://www.last.fm/music/epsyle/_/Couture)<!-- LASTFM:END -->
+* [Wez Atlas — Zuum!](https://www.last.fm/music/Wez+Atlas/_/Zuum!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
