@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joey Valence &amp; Brae — PUNK TACTICS](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/PUNK+TACTICS)
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
+* [Isaak Wolf — Devious Red &lpar;Yoclesh&rpar;](https://www.last.fm/music/Isaak+Wolf/_/Devious+Red+&lpar;Yoclesh&rpar;)
 * [MeiaUm — Goodbye](https://www.last.fm/music/MeiaUm/_/Goodbye)
-* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)
-* [Marskye — Without a Weapon](https://www.last.fm/music/Marskye/_/Without+a+Weapon)
-* [Amateras Records — Tear Rain feat. えみぃ](https://www.last.fm/music/Amateras+Records/_/Tear+Rain+feat.+%E3%81%88%E3%81%BF%E3%81%83)
-* [TORIENA — C.Q.C](https://www.last.fm/music/TORIENA/_/C.Q.C)<!-- LASTFM:END -->
+* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
