@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Khary — Fembrook Dr](https://www.last.fm/music/Khary/_/Fembrook+Dr)
-* [spill tab — Grade A &lpar;feat. JAWNY&rpar;](https://www.last.fm/music/spill+tab/_/Grade+A+&lpar;feat.+JAWNY&rpar;)
-* [Younger Hunger — Dead or Alive](https://www.last.fm/music/Younger+Hunger/_/Dead+or+Alive)
-* [tv room — Say It Back](https://www.last.fm/music/tv+room/_/Say+It+Back)
-* [Hans. — Honeysea II](https://www.last.fm/music/Hans./_/Honeysea+II)<!-- LASTFM:END -->
+* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
+* [P*Light — EVE](https://www.last.fm/music/P*Light/_/EVE)
+* [CFCF — Punksong](https://www.last.fm/music/CFCF/_/Punksong)
+* [Kitty — Last Minute](https://www.last.fm/music/Kitty/_/Last+Minute)
+* [Zekk — フリーフォール](https://www.last.fm/music/Zekk/_/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
