@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
+* [Nate Traveller — Passive Aggressive](https://www.last.fm/music/Nate+Traveller/_/Passive+Aggressive)
 * [midwxst — Riddle](https://www.last.fm/music/midwxst/_/Riddle)
 * [tomcbumpz — droopy](https://www.last.fm/music/tomcbumpz/_/droopy)
-* [Weston Estate — So Good](https://www.last.fm/music/Weston+Estate/_/So+Good)
-* [TOKYOPILL — Club Cyberia](https://www.last.fm/music/TOKYOPILL/_/Club+Cyberia)
-* [dante red — finale](https://www.last.fm/music/dante+red/_/finale)<!-- LASTFM:END -->
+* [Weston Estate — So Good](https://www.last.fm/music/Weston+Estate/_/So+Good)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
