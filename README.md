@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Superlove — btw! i adore u](https://www.last.fm/music/Superlove/_/btw!+i+adore+u)
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Superlove — btw! i adore u](https://www.last.fm/music/Superlove/_/btw!+i+adore+u)
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Schwank — Fresh!](https://www.last.fm/music/Schwank/_/Fresh!)<!-- LASTFM:END -->
+* [Amateras Records — Tear Rain feat. えみぃ](https://www.last.fm/music/Amateras+Records/_/Tear+Rain+feat.+%E3%81%88%E3%81%BF%E3%81%83)
+* [TORIENA — C.Q.C](https://www.last.fm/music/TORIENA/_/C.Q.C)
+* [Anto The Wayward — I-5](https://www.last.fm/music/Anto+The+Wayward/_/I-5)
+* [Schwank — Fresh!](https://www.last.fm/music/Schwank/_/Fresh!)
+* [Superlove — btw! i adore u](https://www.last.fm/music/Superlove/_/btw!+i+adore+u)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
