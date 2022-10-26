@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
+* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
+* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)
 * [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
-* [Nate Traveller — Passive Aggressive](https://www.last.fm/music/Nate+Traveller/_/Passive+Aggressive)
-* [midwxst — Riddle](https://www.last.fm/music/midwxst/_/Riddle)
-* [tomcbumpz — droopy](https://www.last.fm/music/tomcbumpz/_/droopy)
-* [Weston Estate — So Good](https://www.last.fm/music/Weston+Estate/_/So+Good)<!-- LASTFM:END -->
+* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
