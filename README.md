@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MeiaUm — Goodbye](https://www.last.fm/music/MeiaUm/_/Goodbye)
+* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)
+* [Marskye — Without a Weapon](https://www.last.fm/music/Marskye/_/Without+a+Weapon)
 * [Amateras Records — Tear Rain feat. えみぃ](https://www.last.fm/music/Amateras+Records/_/Tear+Rain+feat.+%E3%81%88%E3%81%BF%E3%81%83)
-* [TORIENA — C.Q.C](https://www.last.fm/music/TORIENA/_/C.Q.C)
-* [Anto The Wayward — I-5](https://www.last.fm/music/Anto+The+Wayward/_/I-5)
-* [Schwank — Fresh!](https://www.last.fm/music/Schwank/_/Fresh!)
-* [Superlove — btw! i adore u](https://www.last.fm/music/Superlove/_/btw!+i+adore+u)<!-- LASTFM:END -->
+* [TORIENA — C.Q.C](https://www.last.fm/music/TORIENA/_/C.Q.C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
