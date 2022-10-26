@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MISOGI — Heart Chained &lpar;feat. Master Peace &amp; No Rome&rpar;](https://www.last.fm/music/MISOGI/_/Heart+Chained+&lpar;feat.+Master+Peace+&amp;+No+Rome&rpar;)
+* [Rob Robinson — Evangelina](https://www.last.fm/music/Rob+Robinson/_/Evangelina)
 * [Aiden Williams — Waterfall](https://www.last.fm/music/Aiden+Williams/_/Waterfall)
 * [Murrumur — flowers bloom inside my head](https://www.last.fm/music/Murrumur/_/flowers+bloom+inside+my+head)
-* [Zekk — フリーフォール](https://www.last.fm/music/Zekk/_/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB)
-* [The Hellp — Tu Tu Neurotic](https://www.last.fm/music/The+Hellp/_/Tu+Tu+Neurotic)
-* [bennytheghost — Papercut](https://www.last.fm/music/bennytheghost/_/Papercut)<!-- LASTFM:END -->
+* [Zekk — フリーフォール](https://www.last.fm/music/Zekk/_/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
