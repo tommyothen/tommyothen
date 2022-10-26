@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Silentroom — Aegleseeker](https://www.last.fm/music/Silentroom/_/Aegleseeker)
+* [MIYAVI — Snakes &lpar;from the series Arcane League of Legends&rpar;](https://www.last.fm/music/MIYAVI/_/Snakes+&lpar;from+the+series+Arcane+League+of+Legends&rpar;)
 * [Wez Atlas — Zuum!](https://www.last.fm/music/Wez+Atlas/_/Zuum!)
 * [sim_bex — blood_thinner](https://www.last.fm/music/sim_bex/_/blood_thinner)
-* [epsyle — Couture](https://www.last.fm/music/epsyle/_/Couture)
-* [Daysormay — Ego](https://www.last.fm/music/Daysormay/_/Ego)
-* [MISOGI — Heart Chained &lpar;feat. Master Peace &amp; No Rome&rpar;](https://www.last.fm/music/MISOGI/_/Heart+Chained+&lpar;feat.+Master+Peace+&amp;+No+Rome&rpar;)<!-- LASTFM:END -->
+* [epsyle — Couture](https://www.last.fm/music/epsyle/_/Couture)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
