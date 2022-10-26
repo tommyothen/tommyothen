@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hans. — Honeysea II](https://www.last.fm/music/Hans./_/Honeysea+II)
-* [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
-* [Khary — Blueberry Biscotti](https://www.last.fm/music/Khary/_/Blueberry+Biscotti)
-* [Aran — Mazy Metroplex](https://www.last.fm/music/Aran/_/Mazy+Metroplex)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)<!-- LASTFM:END -->
+* [Khary — Fembrook Dr](https://www.last.fm/music/Khary/_/Fembrook+Dr)
+* [spill tab — Grade A &lpar;feat. JAWNY&rpar;](https://www.last.fm/music/spill+tab/_/Grade+A+&lpar;feat.+JAWNY&rpar;)
+* [Younger Hunger — Dead or Alive](https://www.last.fm/music/Younger+Hunger/_/Dead+or+Alive)
+* [tv room — Say It Back](https://www.last.fm/music/tv+room/_/Say+It+Back)
+* [Hans. — Honeysea II](https://www.last.fm/music/Hans./_/Honeysea+II)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
