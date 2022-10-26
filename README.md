@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Schwank — Fresh!](https://www.last.fm/music/Schwank/_/Fresh!)
 * [Superlove — btw! i adore u](https://www.last.fm/music/Superlove/_/btw!+i+adore+u)
 * [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [lasah — GHOST OF LORELEY](https://www.last.fm/music/lasah/_/GHOST+OF+LORELEY)<!-- LASTFM:END -->
+* [Superlove — btw! i adore u](https://www.last.fm/music/Superlove/_/btw!+i+adore+u)
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
+* [Schwank — Fresh!](https://www.last.fm/music/Schwank/_/Fresh!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
