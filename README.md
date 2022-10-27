@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
-* [Khary — Deep Conversations](https://www.last.fm/music/Khary/_/Deep+Conversations)
-* [DJ Noriken — Comet Coaster](https://www.last.fm/music/DJ+Noriken/_/Comet+Coaster)
-* [USAO — Cthugha](https://www.last.fm/music/USAO/_/Cthugha)
-* [Kitty — disconnect](https://www.last.fm/music/Kitty/_/disconnect)<!-- LASTFM:END -->
+* [wylie hopkins — Must Be Dreaming](https://www.last.fm/music/wylie+hopkins/_/Must+Be+Dreaming)
+* [EmoCosine — MAGENTA POTION](https://www.last.fm/music/EmoCosine/_/MAGENTA+POTION)
+* [USAO — Cyaegha](https://www.last.fm/music/USAO/_/Cyaegha)
+* [EmoCosine — This Club is Not 4 U](https://www.last.fm/music/EmoCosine/_/This+Club+is+Not+4+U)
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
