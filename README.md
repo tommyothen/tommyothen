@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [Zekk — Libertas](https://www.last.fm/music/Zekk/_/Libertas)
-* [P*Light — TWINKLE MAGIC](https://www.last.fm/music/P*Light/_/TWINKLE+MAGIC)
-* [TOKYOPILL — text me back](https://www.last.fm/music/TOKYOPILL/_/text+me+back)
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)<!-- LASTFM:END -->
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
+* [Khary — Deep Conversations](https://www.last.fm/music/Khary/_/Deep+Conversations)
+* [DJ Noriken — Comet Coaster](https://www.last.fm/music/DJ+Noriken/_/Comet+Coaster)
+* [USAO — Cthugha](https://www.last.fm/music/USAO/_/Cthugha)
+* [Kitty — disconnect](https://www.last.fm/music/Kitty/_/disconnect)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
