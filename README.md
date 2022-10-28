@@ -13,14 +13,14 @@
 <details>
   <summary>GitHub stats</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=DaSushiAsian&show_icons=true&count_private=true&hide=prs,issues">
+    <img src="https://github-readme-stats.vercel.app/api?username=tommyothen&show_icons=true&count_private=true&hide=prs,issues">
   </a>
 </details>
 
 <details>
   <summary>This Weeks Stats</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DaSushiAsian&cache_seconds=1800&custom_title=Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tommyothen&cache_seconds=1800&custom_title=Top Languages">
   </a>
 </details>
 
