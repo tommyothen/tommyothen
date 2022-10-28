@@ -20,7 +20,7 @@
 <details>
   <summary>This Weeks Stats</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tommyothen&cache_seconds=1800&custom_title=Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tommyothen&cache_seconds=1800&custom_title=Top%20Languages">
   </a>
 </details>
 
