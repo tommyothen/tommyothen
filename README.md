@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BLACKPINK — Shut Down](https://www.last.fm/music/BLACKPINK/_/Shut+Down)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
-* [Distant — Apex](https://www.last.fm/music/Distant/_/Apex)
-* [Cryex — Combining Forces - 2022 Edit](https://www.last.fm/music/Cryex/_/Combining+Forces+-+2022+Edit)
-* [nanobii — Rainbow Road](https://www.last.fm/music/nanobii/_/Rainbow+Road)<!-- LASTFM:END -->
+* [BLACKPINK — Tally](https://www.last.fm/music/BLACKPINK/_/Tally)
+* [BLACKPINK — Hard To Love](https://www.last.fm/music/BLACKPINK/_/Hard+To+Love)
+* [BLACKPINK — Typa Girl](https://www.last.fm/music/BLACKPINK/_/Typa+Girl)
+* [BLACKPINK — Pink Venom](https://www.last.fm/music/BLACKPINK/_/Pink+Venom)
+* [BLACKPINK — Shut Down](https://www.last.fm/music/BLACKPINK/_/Shut+Down)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
