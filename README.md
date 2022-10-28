@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Skepta — I Spy](https://www.last.fm/music/Skepta/_/I+Spy)
+* [Mr. Tape — Whatify](https://www.last.fm/music/Mr.+Tape/_/Whatify)
+* [PsyOpus — Scissor Fuck Paper Doll](https://www.last.fm/music/PsyOpus/_/Scissor+Fuck+Paper+Doll)
 * [Doja Cat — Mooo!](https://www.last.fm/music/Doja+Cat/_/Mooo!)
-* [BLACKPINK — Tally](https://www.last.fm/music/BLACKPINK/_/Tally)
-* [BLACKPINK — Hard To Love](https://www.last.fm/music/BLACKPINK/_/Hard+To+Love)
-* [BLACKPINK — Typa Girl](https://www.last.fm/music/BLACKPINK/_/Typa+Girl)
-* [BLACKPINK — Pink Venom](https://www.last.fm/music/BLACKPINK/_/Pink+Venom)<!-- LASTFM:END -->
+* [BLACKPINK — Tally](https://www.last.fm/music/BLACKPINK/_/Tally)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
