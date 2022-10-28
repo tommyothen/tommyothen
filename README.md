@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)
+* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
+* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
 * [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
-* [wylie hopkins — Must Be Dreaming](https://www.last.fm/music/wylie+hopkins/_/Must+Be+Dreaming)
-* [EmoCosine — MAGENTA POTION](https://www.last.fm/music/EmoCosine/_/MAGENTA+POTION)
-* [USAO — Cyaegha](https://www.last.fm/music/USAO/_/Cyaegha)<!-- LASTFM:END -->
+* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
