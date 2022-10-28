@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
-* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
-* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
-* [Aran — Mazy Metroplex](https://www.last.fm/music/Aran/_/Mazy+Metroplex)
-* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)<!-- LASTFM:END -->
+* [Clown Core — Song](https://www.last.fm/music/Clown+Core/_/Song)
+* [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)
+* [Distant — The Broken Cross](https://www.last.fm/music/Distant/_/The+Broken+Cross)
+* [Flume — Only Fans](https://www.last.fm/music/Flume/_/Only+Fans)
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
