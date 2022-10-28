@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
 * [Skepta — I Spy](https://www.last.fm/music/Skepta/_/I+Spy)
-* [Mr. Tape — Whatify](https://www.last.fm/music/Mr.+Tape/_/Whatify)
-* [PsyOpus — Scissor Fuck Paper Doll](https://www.last.fm/music/PsyOpus/_/Scissor+Fuck+Paper+Doll)
-* [Doja Cat — Mooo!](https://www.last.fm/music/Doja+Cat/_/Mooo!)
-* [BLACKPINK — Tally](https://www.last.fm/music/BLACKPINK/_/Tally)<!-- LASTFM:END -->
+* [Mr. Tape — Whatify](https://www.last.fm/music/Mr.+Tape/_/Whatify)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
