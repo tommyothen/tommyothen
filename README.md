@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Clown Core — Song](https://www.last.fm/music/Clown+Core/_/Song)
-* [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)
-* [Distant — The Broken Cross](https://www.last.fm/music/Distant/_/The+Broken+Cross)
-* [Flume — Only Fans](https://www.last.fm/music/Flume/_/Only+Fans)
-* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)<!-- LASTFM:END -->
+* [BLACKPINK — Shut Down](https://www.last.fm/music/BLACKPINK/_/Shut+Down)
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
+* [Distant — Apex](https://www.last.fm/music/Distant/_/Apex)
+* [Cryex — Combining Forces - 2022 Edit](https://www.last.fm/music/Cryex/_/Combining+Forces+-+2022+Edit)
+* [nanobii — Rainbow Road](https://www.last.fm/music/nanobii/_/Rainbow+Road)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
