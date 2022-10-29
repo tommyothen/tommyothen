@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Wombats — Greek Tragedy - Oliver Nelson TikTok Remix](https://www.last.fm/music/The+Wombats/_/Greek+Tragedy+-+Oliver+Nelson+TikTok+Remix)
 * [347aidan — Dancing in My Room](https://www.last.fm/music/347aidan/_/Dancing+in+My+Room)
 * [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
 * [Mac Miller — The Spins](https://www.last.fm/music/Mac+Miller/_/The+Spins)
-* [A-wall — Loverboy](https://www.last.fm/music/A-wall/_/Loverboy)
-* [Jawny — Anything You Want](https://www.last.fm/music/Jawny/_/Anything+You+Want)<!-- LASTFM:END -->
+* [A-wall — Loverboy](https://www.last.fm/music/A-wall/_/Loverboy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
