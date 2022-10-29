@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Superfruit — GUY.exe](https://www.last.fm/music/Superfruit/_/GUY.exe)
+* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
+* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
 * [Nicky Youre — Sunroof](https://www.last.fm/music/Nicky+Youre/_/Sunroof)
-* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [Red Velvet — Psycho](https://www.last.fm/music/Red+Velvet/_/Psycho)
-* [Hans. — Honeysea II](https://www.last.fm/music/Hans./_/Honeysea+II)
-* [Worry Club — Japanese](https://www.last.fm/music/Worry+Club/_/Japanese)<!-- LASTFM:END -->
+* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
