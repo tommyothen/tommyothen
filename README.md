@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Skepta — I Spy](https://www.last.fm/music/Skepta/_/I+Spy)
-* [Mr. Tape — Whatify](https://www.last.fm/music/Mr.+Tape/_/Whatify)<!-- LASTFM:END -->
+* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)
+* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
+* [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
