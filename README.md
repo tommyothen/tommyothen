@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Worry Club — Japanese](https://www.last.fm/music/Worry+Club/_/Japanese)
-* [Pharrell Williams — Hug Me](https://www.last.fm/music/Pharrell+Williams/_/Hug+Me)
-* [millennium parade — U - English Version](https://www.last.fm/music/millennium+parade/_/U+-+English+Version)
-* [The Wombats — Greek Tragedy - Oliver Nelson TikTok Remix](https://www.last.fm/music/The+Wombats/_/Greek+Tragedy+-+Oliver+Nelson+TikTok+Remix)
-* [347aidan — Dancing in My Room](https://www.last.fm/music/347aidan/_/Dancing+in+My+Room)<!-- LASTFM:END -->
+* [Nicky Youre — Sunroof](https://www.last.fm/music/Nicky+Youre/_/Sunroof)
+* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
+* [Red Velvet — Psycho](https://www.last.fm/music/Red+Velvet/_/Psycho)
+* [Hans. — Honeysea II](https://www.last.fm/music/Hans./_/Honeysea+II)
+* [Worry Club — Japanese](https://www.last.fm/music/Worry+Club/_/Japanese)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
