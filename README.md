@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [347aidan — Dancing in My Room](https://www.last.fm/music/347aidan/_/Dancing+in+My+Room)
+* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
+* [Mac Miller — The Spins](https://www.last.fm/music/Mac+Miller/_/The+Spins)
 * [A-wall — Loverboy](https://www.last.fm/music/A-wall/_/Loverboy)
-* [Jawny — Anything You Want](https://www.last.fm/music/Jawny/_/Anything+You+Want)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)<!-- LASTFM:END -->
+* [Jawny — Anything You Want](https://www.last.fm/music/Jawny/_/Anything+You+Want)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
