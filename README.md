@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
+* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
 * [Dayglow — Hot Rod](https://www.last.fm/music/Dayglow/_/Hot+Rod)
 * [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)
-* [Isaac Dunbar — comme des garçons &lpar;like the boys&rpar;](https://www.last.fm/music/Isaac+Dunbar/_/comme+des+gar%C3%A7ons+&lpar;like+the+boys&rpar;)
-* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
-* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)<!-- LASTFM:END -->
+* [Isaac Dunbar — comme des garçons &lpar;like the boys&rpar;](https://www.last.fm/music/Isaac+Dunbar/_/comme+des+gar%C3%A7ons+&lpar;like+the+boys&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
