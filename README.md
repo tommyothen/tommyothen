@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zekk — フリーフォール](https://www.last.fm/music/Zekk/_/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB)
+* [Anto The Wayward — I-5](https://www.last.fm/music/Anto+The+Wayward/_/I-5)
+* [Rob Robinson — Evangelina](https://www.last.fm/music/Rob+Robinson/_/Evangelina)
 * [The Hellp — Tu Tu Neurotic](https://www.last.fm/music/The+Hellp/_/Tu+Tu+Neurotic)
-* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)
-* [bennytheghost — Papercut](https://www.last.fm/music/bennytheghost/_/Papercut)
-* [sim_bex — blood_thinner](https://www.last.fm/music/sim_bex/_/blood_thinner)
-* [Amateras Records — Tear Rain feat. えみぃ](https://www.last.fm/music/Amateras+Records/_/Tear+Rain+feat.+%E3%81%88%E3%81%BF%E3%81%83)<!-- LASTFM:END -->
+* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
