@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Allie X — June Gloom](https://www.last.fm/music/Allie+X/_/June+Gloom)
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
+* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)
 * [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
-* [bennytheghost — Papercut](https://www.last.fm/music/bennytheghost/_/Papercut)
-* [Zekk — フリーフォール](https://www.last.fm/music/Zekk/_/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB)
-* [Superlove — btw! i adore u](https://www.last.fm/music/Superlove/_/btw!+i+adore+u)<!-- LASTFM:END -->
+* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
+* [Allie X — June Gloom](https://www.last.fm/music/Allie+X/_/June+Gloom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
