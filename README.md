@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MeiaUm — Goodbye](https://www.last.fm/music/MeiaUm/_/Goodbye)
-* [EmoCosine — This Club is Not 4 U](https://www.last.fm/music/EmoCosine/_/This+Club+is+Not+4+U)
-* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
-* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)<!-- LASTFM:END -->
+* [bennytheghost — Papercut](https://www.last.fm/music/bennytheghost/_/Papercut)
+* [Zekk — フリーフォール](https://www.last.fm/music/Zekk/_/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB)
+* [Superlove — btw! i adore u](https://www.last.fm/music/Superlove/_/btw!+i+adore+u)
+* [Isaak Wolf — Devious Red &lpar;Yoclesh&rpar;](https://www.last.fm/music/Isaak+Wolf/_/Devious+Red+&lpar;Yoclesh&rpar;)
+* [epsyle — Couture](https://www.last.fm/music/epsyle/_/Couture)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
