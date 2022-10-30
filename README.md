@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
 * [JME — Man Don&#39;t Care](https://www.last.fm/music/JME/_/Man+Don%27t+Care)
 * [Eyedress — Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)
 * [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
-* [Dayglow — Hot Rod](https://www.last.fm/music/Dayglow/_/Hot+Rod)
-* [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)<!-- LASTFM:END -->
+* [Dayglow — Hot Rod](https://www.last.fm/music/Dayglow/_/Hot+Rod)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
