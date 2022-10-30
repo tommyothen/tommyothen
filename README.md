@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [sim_bex — blood_thinner](https://www.last.fm/music/sim_bex/_/blood_thinner)
 * [Amateras Records — Tear Rain feat. えみぃ](https://www.last.fm/music/Amateras+Records/_/Tear+Rain+feat.+%E3%81%88%E3%81%BF%E3%81%83)
 * [Silentroom — Aegleseeker](https://www.last.fm/music/Silentroom/_/Aegleseeker)
 * [MISOGI — Heart Chained &lpar;feat. Master Peace &amp; No Rome&rpar;](https://www.last.fm/music/MISOGI/_/Heart+Chained+&lpar;feat.+Master+Peace+&amp;+No+Rome&rpar;)
-* [Superlove — btw! i adore u](https://www.last.fm/music/Superlove/_/btw!+i+adore+u)
-* [Marskye — Without a Weapon](https://www.last.fm/music/Marskye/_/Without+a+Weapon)<!-- LASTFM:END -->
+* [Superlove — btw! i adore u](https://www.last.fm/music/Superlove/_/btw!+i+adore+u)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
