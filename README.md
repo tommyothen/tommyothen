@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Daysormay — Ego](https://www.last.fm/music/Daysormay/_/Ego)
+* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
 * [Zekk — フリーフォール](https://www.last.fm/music/Zekk/_/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB)
 * [Anto The Wayward — I-5](https://www.last.fm/music/Anto+The+Wayward/_/I-5)
-* [Rob Robinson — Evangelina](https://www.last.fm/music/Rob+Robinson/_/Evangelina)
-* [The Hellp — Tu Tu Neurotic](https://www.last.fm/music/The+Hellp/_/Tu+Tu+Neurotic)
-* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)<!-- LASTFM:END -->
+* [Rob Robinson — Evangelina](https://www.last.fm/music/Rob+Robinson/_/Evangelina)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
