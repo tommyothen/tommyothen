@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Odie — North Face](https://www.last.fm/music/Odie/_/North+Face)
-* [sakehands — PLASTIC](https://www.last.fm/music/sakehands/_/PLASTIC)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
-* [Khalid — Love Lies &lpar;with Normani&rpar;](https://www.last.fm/music/Khalid/_/Love+Lies+&lpar;with+Normani&rpar;)
-* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)<!-- LASTFM:END -->
+* [Rosé — On The Ground](https://www.last.fm/music/Ros%C3%A9/_/On+The+Ground)
+* [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)
+* [Joey Bada$ — THE REV3NGE](https://www.last.fm/music/Joey+Bada$/_/THE+REV3NGE)
+* [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
+* [Odie — North Face](https://www.last.fm/music/Odie/_/North+Face)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
