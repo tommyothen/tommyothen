@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Odie — North Face](https://www.last.fm/music/Odie/_/North+Face)
+* [sakehands — PLASTIC](https://www.last.fm/music/sakehands/_/PLASTIC)
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
 * [Khalid — Love Lies &lpar;with Normani&rpar;](https://www.last.fm/music/Khalid/_/Love+Lies+&lpar;with+Normani&rpar;)
-* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)<!-- LASTFM:END -->
+* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
