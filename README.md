@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MIYAVI — Snakes &lpar;from the series Arcane League of Legends&rpar;](https://www.last.fm/music/MIYAVI/_/Snakes+&lpar;from+the+series+Arcane+League+of+Legends&rpar;)
-* [Murrumur — flowers bloom inside my head](https://www.last.fm/music/Murrumur/_/flowers+bloom+inside+my+head)
-* [Daysormay — Ego](https://www.last.fm/music/Daysormay/_/Ego)
-* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
-* [Zekk — フリーフォール](https://www.last.fm/music/Zekk/_/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB)<!-- LASTFM:END -->
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
+* [Isaak Wolf — Devious Red &lpar;Yoclesh&rpar;](https://www.last.fm/music/Isaak+Wolf/_/Devious+Red+&lpar;Yoclesh&rpar;)
+* [Schwank — Fresh!](https://www.last.fm/music/Schwank/_/Fresh!)
+* [EmoCosine — This Club is Not 4 U](https://www.last.fm/music/EmoCosine/_/This+Club+is+Not+4+U)
+* [lasah — GHOST OF LORELEY](https://www.last.fm/music/lasah/_/GHOST+OF+LORELEY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
