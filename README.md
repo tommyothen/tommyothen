@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
-* [DJ Noriken — Comet Coaster](https://www.last.fm/music/DJ+Noriken/_/Comet+Coaster)
-* [spill tab — Grade A &lpar;feat. JAWNY&rpar;](https://www.last.fm/music/spill+tab/_/Grade+A+&lpar;feat.+JAWNY&rpar;)
-* [kaz moon — Left Hand](https://www.last.fm/music/kaz+moon/_/Left+Hand)
-* [Souly Had — aesthetic](https://www.last.fm/music/Souly+Had/_/aesthetic)<!-- LASTFM:END -->
+* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
+* [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)
+* [Fortuna — Red Sun In The Sky](https://www.last.fm/music/Fortuna/_/Red+Sun+In+The+Sky)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
