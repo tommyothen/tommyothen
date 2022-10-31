@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BLACKPINK — Shut Down](https://www.last.fm/music/BLACKPINK/_/Shut+Down)
-* [BLACKPINK — Pink Venom](https://www.last.fm/music/BLACKPINK/_/Pink+Venom)
-* [BLACKPINK — Yeah Yeah Yeah](https://www.last.fm/music/BLACKPINK/_/Yeah+Yeah+Yeah)
 * [BLACKPINK — The Happiest Girl](https://www.last.fm/music/BLACKPINK/_/The+Happiest+Girl)
-* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)<!-- LASTFM:END -->
+* [BLACKPINK — Hard To Love](https://www.last.fm/music/BLACKPINK/_/Hard+To+Love)
+* [BLACKPINK — Yeah Yeah Yeah](https://www.last.fm/music/BLACKPINK/_/Yeah+Yeah+Yeah)
+* [BLACKPINK — Typa Girl](https://www.last.fm/music/BLACKPINK/_/Typa+Girl)
+* [BLACKPINK — Shut Down](https://www.last.fm/music/BLACKPINK/_/Shut+Down)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
