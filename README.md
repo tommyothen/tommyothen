@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Isaak Wolf — Devious Red &lpar;Yoclesh&rpar;](https://www.last.fm/music/Isaak+Wolf/_/Devious+Red+&lpar;Yoclesh&rpar;)
-* [Schwank — Fresh!](https://www.last.fm/music/Schwank/_/Fresh!)
-* [EmoCosine — This Club is Not 4 U](https://www.last.fm/music/EmoCosine/_/This+Club+is+Not+4+U)
-* [lasah — GHOST OF LORELEY](https://www.last.fm/music/lasah/_/GHOST+OF+LORELEY)<!-- LASTFM:END -->
+* [USAO — Cyaegha](https://www.last.fm/music/USAO/_/Cyaegha)
+* [P*Light — EVE](https://www.last.fm/music/P*Light/_/EVE)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Aran — Mazy Metroplex](https://www.last.fm/music/Aran/_/Mazy+Metroplex)
+* [brb. — move](https://www.last.fm/music/brb./_/move)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
