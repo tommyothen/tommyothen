@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [USAO — Cyaegha](https://www.last.fm/music/USAO/_/Cyaegha)
-* [P*Light — EVE](https://www.last.fm/music/P*Light/_/EVE)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Aran — Mazy Metroplex](https://www.last.fm/music/Aran/_/Mazy+Metroplex)
-* [brb. — move](https://www.last.fm/music/brb./_/move)<!-- LASTFM:END -->
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
+* [DJ Noriken — Comet Coaster](https://www.last.fm/music/DJ+Noriken/_/Comet+Coaster)
+* [spill tab — Grade A &lpar;feat. JAWNY&rpar;](https://www.last.fm/music/spill+tab/_/Grade+A+&lpar;feat.+JAWNY&rpar;)
+* [kaz moon — Left Hand](https://www.last.fm/music/kaz+moon/_/Left+Hand)
+* [Souly Had — aesthetic](https://www.last.fm/music/Souly+Had/_/aesthetic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
