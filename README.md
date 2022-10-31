@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — Hard To Love](https://www.last.fm/music/BLACKPINK/_/Hard+To+Love)
+* [BLACKPINK — Typa Girl](https://www.last.fm/music/BLACKPINK/_/Typa+Girl)
 * [BLACKPINK — Pink Venom](https://www.last.fm/music/BLACKPINK/_/Pink+Venom)
 * [BLACKPINK — Shut Down](https://www.last.fm/music/BLACKPINK/_/Shut+Down)
-* [Russ — Losin Control](https://www.last.fm/music/Russ/_/Losin+Control)
-* [Rosé — On The Ground](https://www.last.fm/music/Ros%C3%A9/_/On+The+Ground)
-* [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)<!-- LASTFM:END -->
+* [Russ — Losin Control](https://www.last.fm/music/Russ/_/Losin+Control)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
