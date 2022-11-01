@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — Love To Hate Me + You Never Know - Live](https://www.last.fm/music/BLACKPINK/_/Love+To+Hate+Me+%252B+You+Never+Know+-+Live)
 * [BLACKPINK — Lovesick Girls - Live](https://www.last.fm/music/BLACKPINK/_/Lovesick+Girls+-+Live)
 * [BLACKPINK — PLAYING WITH FIRE - Live](https://www.last.fm/music/BLACKPINK/_/PLAYING+WITH+FIRE+-+Live)
 * [BLACKPINK — Don&#39;t Know What To Do - Live](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+To+Do+-+Live)
-* [BLACKPINK — How You Like That - Live](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That+-+Live)
-* [BLACKPINK — Crazy Over You - Live](https://www.last.fm/music/BLACKPINK/_/Crazy+Over+You+-+Live)<!-- LASTFM:END -->
+* [BLACKPINK — How You Like That - Live](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That+-+Live)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
