@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HAARPER — 4AM](https://www.last.fm/music/HAARPER/_/4AM)
 * [ichika Nito — Branching Paths](https://www.last.fm/music/ichika+Nito/_/Branching+Paths)
 * [Noahh — Mirror](https://www.last.fm/music/Noahh/_/Mirror)
 * [The StickHouse — wtf im crying 9tail](https://www.last.fm/music/The+StickHouse/_/wtf+im+crying+9tail)
-* [hakushi hasegawa — わたしをみて](https://www.last.fm/music/hakushi+hasegawa/_/%E3%82%8F%E3%81%9F%E3%81%97%E3%82%92%E3%81%BF%E3%81%A6)
-* [Valentine — Free](https://www.last.fm/music/Valentine/_/Free)<!-- LASTFM:END -->
+* [hakushi hasegawa — わたしをみて](https://www.last.fm/music/hakushi+hasegawa/_/%E3%82%8F%E3%81%9F%E3%81%97%E3%82%92%E3%81%BF%E3%81%A6)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
