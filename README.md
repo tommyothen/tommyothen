@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Iglooghost — Sylph Fossil](https://www.last.fm/music/Iglooghost/_/Sylph+Fossil)
-* [Shya — 卒業ですね](https://www.last.fm/music/Shya/_/%E5%8D%92%E6%A5%AD%E3%81%A7%E3%81%99%E3%81%AD)
-* [Donovan Melero — The Color of Growth](https://www.last.fm/music/Donovan+Melero/_/The+Color+of+Growth)
-* [TXCKA — invisible](https://www.last.fm/music/TXCKA/_/invisible)
-* [Pasteldrip — slay the system](https://www.last.fm/music/Pasteldrip/_/slay+the+system)<!-- LASTFM:END -->
+* [Brevin Kim — the wedding!](https://www.last.fm/music/Brevin+Kim/_/the+wedding!)
+* [CJ The X — Quit](https://www.last.fm/music/CJ+The+X/_/Quit)
+* [LUCAS LEX — blindfold](https://www.last.fm/music/LUCAS+LEX/_/blindfold)
+* [6feet — Chauffeur](https://www.last.fm/music/6feet/_/Chauffeur)
+* [Iglooghost — Sylph Fossil](https://www.last.fm/music/Iglooghost/_/Sylph+Fossil)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
