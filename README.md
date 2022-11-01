@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Brevin Kim — the wedding!](https://www.last.fm/music/Brevin+Kim/_/the+wedding!)
-* [CJ The X — Quit](https://www.last.fm/music/CJ+The+X/_/Quit)
-* [LUCAS LEX — blindfold](https://www.last.fm/music/LUCAS+LEX/_/blindfold)
-* [6feet — Chauffeur](https://www.last.fm/music/6feet/_/Chauffeur)
-* [Iglooghost — Sylph Fossil](https://www.last.fm/music/Iglooghost/_/Sylph+Fossil)<!-- LASTFM:END -->
+* [valknee — DEVIL IN MY HEAD](https://www.last.fm/music/valknee/_/DEVIL+IN+MY+HEAD)
+* [fkbambam — GHOST OF YOU](https://www.last.fm/music/fkbambam/_/GHOST+OF+YOU)
+* [7ounze — heartsick - Mr. Kill Myself Flip](https://www.last.fm/music/7ounze/_/heartsick+-+Mr.+Kill+Myself+Flip)
+* [Vampillia — Endless Summer 2014 &lpar;feat. Tujiko Noriko&rpar;](https://www.last.fm/music/Vampillia/_/Endless+Summer+2014+&lpar;feat.+Tujiko+Noriko&rpar;)
+* [Brevin Kim — the wedding!](https://www.last.fm/music/Brevin+Kim/_/the+wedding!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
