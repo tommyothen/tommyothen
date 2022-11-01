@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BLACKPINK — Love To Hate Me + You Never Know - Live](https://www.last.fm/music/BLACKPINK/_/Love+To+Hate+Me+%252B+You+Never+Know+-+Live)
-* [BLACKPINK — Lovesick Girls - Live](https://www.last.fm/music/BLACKPINK/_/Lovesick+Girls+-+Live)
-* [BLACKPINK — PLAYING WITH FIRE - Live](https://www.last.fm/music/BLACKPINK/_/PLAYING+WITH+FIRE+-+Live)
-* [BLACKPINK — Don&#39;t Know What To Do - Live](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+To+Do+-+Live)
-* [BLACKPINK — How You Like That - Live](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That+-+Live)<!-- LASTFM:END -->
+* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
+* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
+* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
