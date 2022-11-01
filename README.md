@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [valknee — DEVIL IN MY HEAD](https://www.last.fm/music/valknee/_/DEVIL+IN+MY+HEAD)
-* [fkbambam — GHOST OF YOU](https://www.last.fm/music/fkbambam/_/GHOST+OF+YOU)
-* [7ounze — heartsick - Mr. Kill Myself Flip](https://www.last.fm/music/7ounze/_/heartsick+-+Mr.+Kill+Myself+Flip)
-* [Vampillia — Endless Summer 2014 &lpar;feat. Tujiko Noriko&rpar;](https://www.last.fm/music/Vampillia/_/Endless+Summer+2014+&lpar;feat.+Tujiko+Noriko&rpar;)
-* [Brevin Kim — the wedding!](https://www.last.fm/music/Brevin+Kim/_/the+wedding!)<!-- LASTFM:END -->
+* [ichika Nito — Branching Paths](https://www.last.fm/music/ichika+Nito/_/Branching+Paths)
+* [Noahh — Mirror](https://www.last.fm/music/Noahh/_/Mirror)
+* [The StickHouse — wtf im crying 9tail](https://www.last.fm/music/The+StickHouse/_/wtf+im+crying+9tail)
+* [hakushi hasegawa — わたしをみて](https://www.last.fm/music/hakushi+hasegawa/_/%E3%82%8F%E3%81%9F%E3%81%97%E3%82%92%E3%81%BF%E3%81%A6)
+* [Valentine — Free](https://www.last.fm/music/Valentine/_/Free)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
