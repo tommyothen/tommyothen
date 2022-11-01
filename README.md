@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)<!-- LASTFM:END -->
+* [TXCKA — invisible](https://www.last.fm/music/TXCKA/_/invisible)
+* [Pasteldrip — slay the system](https://www.last.fm/music/Pasteldrip/_/slay+the+system)
+* [Salina Killa — Nectarine Lane](https://www.last.fm/music/Salina+Killa/_/Nectarine+Lane)
+* [SGUCCY — BUNGEE GUM](https://www.last.fm/music/SGUCCY/_/BUNGEE+GUM)
+* [ITSOKTOCRY — running away](https://www.last.fm/music/ITSOKTOCRY/_/running+away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
