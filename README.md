@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Iglooghost — Sylph Fossil](https://www.last.fm/music/Iglooghost/_/Sylph+Fossil)
 * [Shya — 卒業ですね](https://www.last.fm/music/Shya/_/%E5%8D%92%E6%A5%AD%E3%81%A7%E3%81%99%E3%81%AD)
 * [Donovan Melero — The Color of Growth](https://www.last.fm/music/Donovan+Melero/_/The+Color+of+Growth)
 * [TXCKA — invisible](https://www.last.fm/music/TXCKA/_/invisible)
-* [Pasteldrip — slay the system](https://www.last.fm/music/Pasteldrip/_/slay+the+system)
-* [Salina Killa — Nectarine Lane](https://www.last.fm/music/Salina+Killa/_/Nectarine+Lane)<!-- LASTFM:END -->
+* [Pasteldrip — slay the system](https://www.last.fm/music/Pasteldrip/_/slay+the+system)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
