@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ichikoro — Ally](https://www.last.fm/music/Ichikoro/_/Ally)
-* [CHON — Ghost](https://www.last.fm/music/CHON/_/Ghost)
-* [Anomalie — Bond](https://www.last.fm/music/Anomalie/_/Bond)
-* [Strawberry Girls — Tasmanian Glow](https://www.last.fm/music/Strawberry+Girls/_/Tasmanian+Glow)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
+* [Manuel Gardner Fernandes — Second](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/Second)
+* [Strawberry Girls — Bay of Fires](https://www.last.fm/music/Strawberry+Girls/_/Bay+of+Fires)
+* [Polyphia — O.D.](https://www.last.fm/music/Polyphia/_/O.D.)
+* [Frums — XNOR XNOR XNOR](https://www.last.fm/music/Frums/_/XNOR+XNOR+XNOR)
+* [Ichikoro — Ally](https://www.last.fm/music/Ichikoro/_/Ally)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
