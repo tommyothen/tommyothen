@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Thundercat — How Sway](https://www.last.fm/music/Thundercat/_/How+Sway)
-* [Kjjjjjjjjj — Cartus](https://www.last.fm/music/Kjjjjjjjjj/_/Cartus)
-* [The Fearless Flyers — Patrol Acrobatique](https://www.last.fm/music/The+Fearless+Flyers/_/Patrol+Acrobatique)
-* [Polyphia — Symmetry](https://www.last.fm/music/Polyphia/_/Symmetry)
-* [Clown Core — Song](https://www.last.fm/music/Clown+Core/_/Song)<!-- LASTFM:END -->
+* [your best friend jippy — Yes, The Music Is A Feeling](https://www.last.fm/music/your+best+friend+jippy/_/Yes,+The+Music+Is+A+Feeling)
+* [Nyu. — Stormy](https://www.last.fm/music/Nyu./_/Stormy)
+* [Polyphia — Inferno](https://www.last.fm/music/Polyphia/_/Inferno)
+* [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
+* [Thundercat — How Sway](https://www.last.fm/music/Thundercat/_/How+Sway)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
