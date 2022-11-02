@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Arrow — SUGARUSH - Remix](https://www.last.fm/music/Arrow/_/SUGARUSH+-+Remix)
-* [Polyphia — So Strange](https://www.last.fm/music/Polyphia/_/So+Strange)
-* [CHON — Peace](https://www.last.fm/music/CHON/_/Peace)
-* [Anomalie — Hummingbird](https://www.last.fm/music/Anomalie/_/Hummingbird)
-* [Clown Core — Two](https://www.last.fm/music/Clown+Core/_/Two)<!-- LASTFM:END -->
+* [Polyphia — Rich Kids](https://www.last.fm/music/Polyphia/_/Rich+Kids)
+* [Mouse on the Keys — Spectres de Mouse](https://www.last.fm/music/Mouse+on+the+Keys/_/Spectres+de+Mouse)
+* [Anomalie — Untouchable](https://www.last.fm/music/Anomalie/_/Untouchable)
+* [ZackGrooves — Outro](https://www.last.fm/music/ZackGrooves/_/Outro)
+* [Arrow — SUGARUSH - Remix](https://www.last.fm/music/Arrow/_/SUGARUSH+-+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
