@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syncatto — Farewell](https://www.last.fm/music/Syncatto/_/Farewell)
+* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
+* [VARRA — BIRDO II](https://www.last.fm/music/VARRA/_/BIRDO+II)
 * [your best friend jippy — Yes, The Music Is A Feeling](https://www.last.fm/music/your+best+friend+jippy/_/Yes,+The+Music+Is+A+Feeling)
-* [Nyu. — Stormy](https://www.last.fm/music/Nyu./_/Stormy)
-* [Polyphia — Inferno](https://www.last.fm/music/Polyphia/_/Inferno)
-* [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
-* [Thundercat — How Sway](https://www.last.fm/music/Thundercat/_/How+Sway)<!-- LASTFM:END -->
+* [Nyu. — Stormy](https://www.last.fm/music/Nyu./_/Stormy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
