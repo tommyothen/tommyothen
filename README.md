@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Elephant Gym — Witches](https://www.last.fm/music/Elephant+Gym/_/Witches)
+* [toe — A Desert of Human](https://www.last.fm/music/toe/_/A+Desert+of+Human)
 * [PandRezz — So What](https://www.last.fm/music/PandRezz/_/So+What)
 * [Sungazer — Ether](https://www.last.fm/music/Sungazer/_/Ether)
-* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)
-* [Elephant Gym — Anima](https://www.last.fm/music/Elephant+Gym/_/Anima)
-* [Moray Pringle — Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty)<!-- LASTFM:END -->
+* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
