@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Their Dogs Were Astronauts — Low Life](https://www.last.fm/music/Their+Dogs+Were+Astronauts/_/Low+Life)
-* [toe — The World According To](https://www.last.fm/music/toe/_/The+World+According+To)
-* [Clown Core — Four](https://www.last.fm/music/Clown+Core/_/Four)
-* [Ichikoro — SAMURAI](https://www.last.fm/music/Ichikoro/_/SAMURAI)
-* [Polyphia — Rich Kids](https://www.last.fm/music/Polyphia/_/Rich+Kids)<!-- LASTFM:END -->
+* [ZackGrooves — different ideas](https://www.last.fm/music/ZackGrooves/_/different+ideas)
+* [Manuel Gardner Fernandes — Lullaby](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/Lullaby)
+* [Clown Core — One](https://www.last.fm/music/Clown+Core/_/One)
+* [Polyphia — Florence](https://www.last.fm/music/Polyphia/_/Florence)
+* [Their Dogs Were Astronauts — Low Life](https://www.last.fm/music/Their+Dogs+Were+Astronauts/_/Low+Life)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
