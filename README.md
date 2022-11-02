@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ichikoro — Ally](https://www.last.fm/music/Ichikoro/_/Ally)
 * [CHON — Ghost](https://www.last.fm/music/CHON/_/Ghost)
 * [Anomalie — Bond](https://www.last.fm/music/Anomalie/_/Bond)
 * [Strawberry Girls — Tasmanian Glow](https://www.last.fm/music/Strawberry+Girls/_/Tasmanian+Glow)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Waxamilion — Reminincense](https://www.last.fm/music/Waxamilion/_/Reminincense)<!-- LASTFM:END -->
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
