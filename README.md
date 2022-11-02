@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
+* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
 * [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)
-* [dontaskalex — s l o w](https://www.last.fm/music/dontaskalex/_/s+l+o+w)
-* [HAARPER — 4AM](https://www.last.fm/music/HAARPER/_/4AM)
-* [ichika Nito — Branching Paths](https://www.last.fm/music/ichika+Nito/_/Branching+Paths)
-* [Noahh — Mirror](https://www.last.fm/music/Noahh/_/Mirror)<!-- LASTFM:END -->
+* [dontaskalex — s l o w](https://www.last.fm/music/dontaskalex/_/s+l+o+w)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
