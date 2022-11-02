@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PandRezz — So What](https://www.last.fm/music/PandRezz/_/So+What)
+* [Sungazer — Ether](https://www.last.fm/music/Sungazer/_/Ether)
+* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)
 * [Elephant Gym — Anima](https://www.last.fm/music/Elephant+Gym/_/Anima)
-* [Moray Pringle — Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty)
-* [Manuel Gardner Fernandes — Second](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/Second)
-* [Strawberry Girls — Bay of Fires](https://www.last.fm/music/Strawberry+Girls/_/Bay+of+Fires)
-* [Polyphia — O.D.](https://www.last.fm/music/Polyphia/_/O.D.)<!-- LASTFM:END -->
+* [Moray Pringle — Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
