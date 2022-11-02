@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — G.O.A.T.](https://www.last.fm/music/Polyphia/_/G.O.A.T.)
+* [Mouse on the Keys — Time &lpar;feat. Mario Camarena of CHON&rpar;](https://www.last.fm/music/Mouse+on+the+Keys/_/Time+&lpar;feat.+Mario+Camarena+of+CHON&rpar;)
 * [Syncatto — Farewell](https://www.last.fm/music/Syncatto/_/Farewell)
 * [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
-* [VARRA — BIRDO II](https://www.last.fm/music/VARRA/_/BIRDO+II)
-* [your best friend jippy — Yes, The Music Is A Feeling](https://www.last.fm/music/your+best+friend+jippy/_/Yes,+The+Music+Is+A+Feeling)
-* [Nyu. — Stormy](https://www.last.fm/music/Nyu./_/Stormy)<!-- LASTFM:END -->
+* [VARRA — BIRDO II](https://www.last.fm/music/VARRA/_/BIRDO+II)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
