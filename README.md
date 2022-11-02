@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Polyphia — Rich Kids](https://www.last.fm/music/Polyphia/_/Rich+Kids)
-* [Mouse on the Keys — Spectres de Mouse](https://www.last.fm/music/Mouse+on+the+Keys/_/Spectres+de+Mouse)
-* [Anomalie — Untouchable](https://www.last.fm/music/Anomalie/_/Untouchable)
-* [ZackGrooves — Outro](https://www.last.fm/music/ZackGrooves/_/Outro)
-* [Arrow — SUGARUSH - Remix](https://www.last.fm/music/Arrow/_/SUGARUSH+-+Remix)<!-- LASTFM:END -->
+* [Their Dogs Were Astronauts — Low Life](https://www.last.fm/music/Their+Dogs+Were+Astronauts/_/Low+Life)
+* [toe — The World According To](https://www.last.fm/music/toe/_/The+World+According+To)
+* [Clown Core — Four](https://www.last.fm/music/Clown+Core/_/Four)
+* [Ichikoro — SAMURAI](https://www.last.fm/music/Ichikoro/_/SAMURAI)
+* [Polyphia — Rich Kids](https://www.last.fm/music/Polyphia/_/Rich+Kids)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
