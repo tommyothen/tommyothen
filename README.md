@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Waxamilion — Reminincense](https://www.last.fm/music/Waxamilion/_/Reminincense)
-* [Oceans Ate Alaska — Ukiyo](https://www.last.fm/music/Oceans+Ate+Alaska/_/Ukiyo)
-* [Stage Kids — Welcome to the Jungle](https://www.last.fm/music/Stage+Kids/_/Welcome+to+the+Jungle)
-* [Manuel Gardner Fernandes — Rozeskin](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/Rozeskin)
-* [Unprocessed — Real - LLUCID Remix](https://www.last.fm/music/Unprocessed/_/Real+-+LLUCID+Remix)<!-- LASTFM:END -->
+* [CHON — Ghost](https://www.last.fm/music/CHON/_/Ghost)
+* [Anomalie — Bond](https://www.last.fm/music/Anomalie/_/Bond)
+* [Strawberry Girls — Tasmanian Glow](https://www.last.fm/music/Strawberry+Girls/_/Tasmanian+Glow)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
+* [Waxamilion — Reminincense](https://www.last.fm/music/Waxamilion/_/Reminincense)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
