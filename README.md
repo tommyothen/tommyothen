@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [ZICO — Any song](https://www.last.fm/music/ZICO/_/Any+song)
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)<!-- LASTFM:END -->
+* [The Fearless Flyers — Patrol Acrobatique](https://www.last.fm/music/The+Fearless+Flyers/_/Patrol+Acrobatique)
+* [Polyphia — Symmetry](https://www.last.fm/music/Polyphia/_/Symmetry)
+* [Clown Core — Song](https://www.last.fm/music/Clown+Core/_/Song)
+* [Arrow — Sprout](https://www.last.fm/music/Arrow/_/Sprout)
+* [your best friend jippy — ARMED MAN](https://www.last.fm/music/your+best+friend+jippy/_/ARMED+MAN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
