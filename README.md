@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Polyphia — Crosty](https://www.last.fm/music/Polyphia/_/Crosty)
-* [Nyu. — Downstream](https://www.last.fm/music/Nyu./_/Downstream)
-* [ZackGrooves — different ideas](https://www.last.fm/music/ZackGrooves/_/different+ideas)
-* [Manuel Gardner Fernandes — Lullaby](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/Lullaby)
-* [Clown Core — One](https://www.last.fm/music/Clown+Core/_/One)<!-- LASTFM:END -->
+* [I Built the Sky — A Halpern Hand](https://www.last.fm/music/I+Built+the+Sky/_/A+Halpern+Hand)
+* [Manuel Gardner Fernandes — Clown](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/Clown)
+* [Polyphia — Ivory](https://www.last.fm/music/Polyphia/_/Ivory)
+* [Moon Hooch — RAR](https://www.last.fm/music/Moon+Hooch/_/RAR)
+* [Anomalie — Lune](https://www.last.fm/music/Anomalie/_/Lune)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
