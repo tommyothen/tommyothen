@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mouse on the Keys — Seiren](https://www.last.fm/music/Mouse+on+the+Keys/_/Seiren)
-* [ZackGrooves — she&#39;s never coming back](https://www.last.fm/music/ZackGrooves/_/she%27s+never+coming+back)
-* [Thrailkill — Exercise in Futility](https://www.last.fm/music/Thrailkill/_/Exercise+in+Futility)
-* [Intervals — 5-HTP](https://www.last.fm/music/Intervals/_/5-HTP)
-* [Polyphia — Yas](https://www.last.fm/music/Polyphia/_/Yas)<!-- LASTFM:END -->
+* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
+* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
+* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
+* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)
+* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
