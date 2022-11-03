@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
-* [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru - TV](https://myanimelist.net/anime/47790/Sekai_Saikou_no_Ansatsusha_Isekai_Kizoku_ni_Tensei_suru) - Completed - 12 of 12 episodes
-* [Tenkuu Shinpan - ONA](https://myanimelist.net/anime/43690/Tenkuu_Shinpan) - Watching - 1 of 12 episodes
-* [Zombieland Saga - TV](https://myanimelist.net/anime/37976/Zombieland_Saga) - Watching - 2 of 12 episodes
-* [Kekkai Sensen - TV](https://myanimelist.net/anime/24439/Kekkai_Sensen) - Watching - 1 of 12 episodes
-* [Kiseijuu: Sei no Kakuritsu - TV](https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu) - Watching - 19 of 24 episodes<!-- ANIME-LIST:END -->
+* [Baki - ONA](https://myanimelist.net/anime/34443/Baki) - Watching - 1 of 26 episodes
+* [Angel Beats! - TV](https://myanimelist.net/anime/6547/Angel_Beats) - Dropped - 5 of 13 episodes
+* [Mieruko-chan - TV](https://myanimelist.net/anime/48483/Mieruko-chan) - Watching - 1 of 12 episodes
+* [Lycoris Recoil - TV](https://myanimelist.net/anime/50709/Lycoris_Recoil) - Watching - 3 of 13 episodes
+* [Chainsaw Man - TV](https://myanimelist.net/anime/44511/Chainsaw_Man) - Watching - 1 of 12 episodes<!-- ANIME-LIST:END -->
