@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Guardin — i think you&#39;re really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)
+* [hakushi hasegawa — わたしをみて](https://www.last.fm/music/hakushi+hasegawa/_/%E3%82%8F%E3%81%9F%E3%81%97%E3%82%92%E3%81%BF%E3%81%A6)
 * [ITSOKTOCRY — running away](https://www.last.fm/music/ITSOKTOCRY/_/running+away)
 * [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
-* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
-* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
-* [Narozol — You Know](https://www.last.fm/music/Narozol/_/You+Know)<!-- LASTFM:END -->
+* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
