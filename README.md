@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
 * [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
 * [Rich Amiri — Keep All That](https://www.last.fm/music/Rich+Amiri/_/Keep+All+That)
-* [Azizi Gibson — Petty Tings](https://www.last.fm/music/Azizi+Gibson/_/Petty+Tings)
-* [Brevin Kim — I&#39;D GIVE IT ALL UP](https://www.last.fm/music/Brevin+Kim/_/I%27D+GIVE+IT+ALL+UP)<!-- LASTFM:END -->
+* [Azizi Gibson — Petty Tings](https://www.last.fm/music/Azizi+Gibson/_/Petty+Tings)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
