@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Azizi Gibson — Cobra](https://www.last.fm/music/Azizi+Gibson/_/Cobra)
+* [Trippie Redd — Love me more](https://www.last.fm/music/Trippie+Redd/_/Love+me+more)
+* [Kodak Black — Skrt](https://www.last.fm/music/Kodak+Black/_/Skrt)
 * [Juice WRLD — I&#39;m Still](https://www.last.fm/music/Juice+WRLD/_/I%27m+Still)
-* [Polo G — Beautiful Pain &lpar;Losin My Mind&rpar;](https://www.last.fm/music/Polo+G/_/Beautiful+Pain+&lpar;Losin+My+Mind&rpar;)
-* [$NOT — Moon &amp; Stars &lpar;feat. Maggie Lindemann&rpar;](https://www.last.fm/music/$NOT/_/Moon+&amp;+Stars+&lpar;feat.+Maggie+Lindemann&rpar;)
-* [NAV — Up](https://www.last.fm/music/NAV/_/Up)
-* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)<!-- LASTFM:END -->
+* [Polo G — Beautiful Pain &lpar;Losin My Mind&rpar;](https://www.last.fm/music/Polo+G/_/Beautiful+Pain+&lpar;Losin+My+Mind&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
