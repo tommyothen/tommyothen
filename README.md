@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nothing,nowhere. — trauma factory](https://www.last.fm/music/nothing,nowhere./_/trauma+factory)
+* [brakence — rosier](https://www.last.fm/music/brakence/_/rosier)
 * [brakence — brakence 2.0 freestyle &lpar;feat. Majent&rpar;](https://www.last.fm/music/brakence/_/brakence+2.0+freestyle+&lpar;feat.+Majent&rpar;)
 * [Aaron May — I&#39;m Good Luv, Enjoy.](https://www.last.fm/music/Aaron+May/_/I%27m+Good+Luv,+Enjoy.)
-* [Azizi Gibson — Cobra](https://www.last.fm/music/Azizi+Gibson/_/Cobra)
-* [Trippie Redd — Love me more](https://www.last.fm/music/Trippie+Redd/_/Love+me+more)
-* [Kodak Black — Skrt](https://www.last.fm/music/Kodak+Black/_/Skrt)<!-- LASTFM:END -->
+* [Azizi Gibson — Cobra](https://www.last.fm/music/Azizi+Gibson/_/Cobra)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
