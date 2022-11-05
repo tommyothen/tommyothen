@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTentacion — Bad Vibes Forever](https://www.last.fm/music/XXXTentacion/_/Bad+Vibes+Forever)
+* [J. Cole — l e t . g o . m y . h a n d &lpar;with Bas &amp; 6LACK&rpar;](https://www.last.fm/music/J.+Cole/_/l+e+t+.+g+o+.+m+y+.+h+a+n+d+&lpar;with+Bas+&amp;+6LACK&rpar;)
+* [Khalid — Saved](https://www.last.fm/music/Khalid/_/Saved)
 * [Dro Kenji — Kill Em for Me &lpar;feat. KA$HDAMI&rpar;](https://www.last.fm/music/Dro+Kenji/_/Kill+Em+for+Me+&lpar;feat.+KA$HDAMI&rpar;)
-* [Dro Kenji — Oh Wow](https://www.last.fm/music/Dro+Kenji/_/Oh+Wow)
-* [Aaron May — I&#39;m Good Luv, Enjoy.](https://www.last.fm/music/Aaron+May/_/I%27m+Good+Luv,+Enjoy.)
-* [Guardin — i think you&#39;re really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)
-* [hakushi hasegawa — わたしをみて](https://www.last.fm/music/hakushi+hasegawa/_/%E3%82%8F%E3%81%9F%E3%81%97%E3%82%92%E3%81%BF%E3%81%A6)<!-- LASTFM:END -->
+* [Dro Kenji — Oh Wow](https://www.last.fm/music/Dro+Kenji/_/Oh+Wow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
