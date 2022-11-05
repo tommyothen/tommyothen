@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Joji — Die For You](https://www.last.fm/music/Joji/_/Die+For+You)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [nothing,nowhere. — trauma factory](https://www.last.fm/music/nothing,nowhere./_/trauma+factory)
-* [brakence — rosier](https://www.last.fm/music/brakence/_/rosier)
-* [brakence — brakence 2.0 freestyle &lpar;feat. Majent&rpar;](https://www.last.fm/music/brakence/_/brakence+2.0+freestyle+&lpar;feat.+Majent&rpar;)<!-- LASTFM:END -->
+* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
+* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
+* [Rich Amiri — Keep All That](https://www.last.fm/music/Rich+Amiri/_/Keep+All+That)
+* [Azizi Gibson — Petty Tings](https://www.last.fm/music/Azizi+Gibson/_/Petty+Tings)
+* [Brevin Kim — I&#39;D GIVE IT ALL UP](https://www.last.fm/music/Brevin+Kim/_/I%27D+GIVE+IT+ALL+UP)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
