@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XXXTentacion — Bad Vibes Forever](https://www.last.fm/music/XXXTentacion/_/Bad+Vibes+Forever)
-* [J. Cole — l e t . g o . m y . h a n d &lpar;with Bas &amp; 6LACK&rpar;](https://www.last.fm/music/J.+Cole/_/l+e+t+.+g+o+.+m+y+.+h+a+n+d+&lpar;with+Bas+&amp;+6LACK&rpar;)
-* [Khalid — Saved](https://www.last.fm/music/Khalid/_/Saved)
-* [Dro Kenji — Kill Em for Me &lpar;feat. KA$HDAMI&rpar;](https://www.last.fm/music/Dro+Kenji/_/Kill+Em+for+Me+&lpar;feat.+KA$HDAMI&rpar;)
-* [Dro Kenji — Oh Wow](https://www.last.fm/music/Dro+Kenji/_/Oh+Wow)<!-- LASTFM:END -->
+* [timmies — loosing interest](https://www.last.fm/music/timmies/_/loosing+interest)
+* [XXXTENTACION — Whoa &lpar;mind in awe&rpar;](https://www.last.fm/music/XXXTENTACION/_/Whoa+&lpar;mind+in+awe&rpar;)
+* [Post Malone — Waiting for a Miracle](https://www.last.fm/music/Post+Malone/_/Waiting+for+a+Miracle)
+* [Drake — Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)
+* [Salvia Palth — I Was All Over Her](https://www.last.fm/music/Salvia+Palth/_/I+Was+All+Over+Her)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
