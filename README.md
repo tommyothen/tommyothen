@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [timmies — loosing interest](https://www.last.fm/music/timmies/_/loosing+interest)
-* [XXXTENTACION — Whoa &lpar;mind in awe&rpar;](https://www.last.fm/music/XXXTENTACION/_/Whoa+&lpar;mind+in+awe&rpar;)
-* [Post Malone — Waiting for a Miracle](https://www.last.fm/music/Post+Malone/_/Waiting+for+a+Miracle)
-* [Drake — Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)
-* [Salvia Palth — I Was All Over Her](https://www.last.fm/music/Salvia+Palth/_/I+Was+All+Over+Her)<!-- LASTFM:END -->
+* [Juice WRLD — I&#39;m Still](https://www.last.fm/music/Juice+WRLD/_/I%27m+Still)
+* [Polo G — Beautiful Pain &lpar;Losin My Mind&rpar;](https://www.last.fm/music/Polo+G/_/Beautiful+Pain+&lpar;Losin+My+Mind&rpar;)
+* [$NOT — Moon &amp; Stars &lpar;feat. Maggie Lindemann&rpar;](https://www.last.fm/music/$NOT/_/Moon+&amp;+Stars+&lpar;feat.+Maggie+Lindemann&rpar;)
+* [NAV — Up](https://www.last.fm/music/NAV/_/Up)
+* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
