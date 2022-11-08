@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Delta Sleep — Afterimage](https://www.last.fm/music/Delta+Sleep/_/Afterimage)
-* [Ichikoro — SAMURAI](https://www.last.fm/music/Ichikoro/_/SAMURAI)
-* [I Built the Sky — A Halpern Hand](https://www.last.fm/music/I+Built+the+Sky/_/A+Halpern+Hand)
-* [Sungazer — Sequence Start](https://www.last.fm/music/Sungazer/_/Sequence+Start)
-* [Manuel Gardner Fernandes — Heaviest](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/Heaviest)<!-- LASTFM:END -->
+* [Sungazer — Ether](https://www.last.fm/music/Sungazer/_/Ether)
+* [CHON — Ghost](https://www.last.fm/music/CHON/_/Ghost)
+* [Emarosa — Attention](https://www.last.fm/music/Emarosa/_/Attention)
+* [Manuel Gardner Fernandes — gLaSs](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/gLaSs)
+* [FUNKY TIMES — Groove Window](https://www.last.fm/music/FUNKY+TIMES/_/Groove+Window)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
