@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
-* [Oceans Ate Alaska — Ukiyo](https://www.last.fm/music/Oceans+Ate+Alaska/_/Ukiyo)
-* [Nyu. — Stormy](https://www.last.fm/music/Nyu./_/Stormy)
-* [Strawberry Girls — Tasmanian Glow](https://www.last.fm/music/Strawberry+Girls/_/Tasmanian+Glow)
-* [Arrow — Sprout](https://www.last.fm/music/Arrow/_/Sprout)<!-- LASTFM:END -->
+* [Their Dogs Were Astronauts — Oasis](https://www.last.fm/music/Their+Dogs+Were+Astronauts/_/Oasis)
+* [Strawberry Girls — Bay of Fires](https://www.last.fm/music/Strawberry+Girls/_/Bay+of+Fires)
+* [Manuel Gardner Fernandes — Rozeskin](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/Rozeskin)
+* [Tilian — Imagination &lpar;feat. Tim Henson&rpar;](https://www.last.fm/music/Tilian/_/Imagination+&lpar;feat.+Tim+Henson&rpar;)
+* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
