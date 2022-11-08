@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Manuel Gardner Fernandes — iSlanD](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/iSlanD)
+* [The Home Team — Slow Bloom](https://www.last.fm/music/The+Home+Team/_/Slow+Bloom)
+* [Polyphia — James Franco](https://www.last.fm/music/Polyphia/_/James+Franco)
 * [Unprocessed — Real - LLUCID Remix](https://www.last.fm/music/Unprocessed/_/Real+-+LLUCID+Remix)
-* [Intervals — 5-HTP](https://www.last.fm/music/Intervals/_/5-HTP)
-* [Clown Core — Computers](https://www.last.fm/music/Clown+Core/_/Computers)
-* [Manuel Gardner Fernandes — SpiEgEl](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/SpiEgEl)
-* [Polyphia — Fuck Around and Find Out &lpar;feat. $not&rpar;](https://www.last.fm/music/Polyphia/_/Fuck+Around+and+Find+Out+&lpar;feat.+$not&rpar;)<!-- LASTFM:END -->
+* [Intervals — 5-HTP](https://www.last.fm/music/Intervals/_/5-HTP)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
