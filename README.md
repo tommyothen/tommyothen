@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Unprocessed — Real - LLUCID Remix](https://www.last.fm/music/Unprocessed/_/Real+-+LLUCID+Remix)
+* [Intervals — 5-HTP](https://www.last.fm/music/Intervals/_/5-HTP)
 * [Clown Core — Computers](https://www.last.fm/music/Clown+Core/_/Computers)
 * [Manuel Gardner Fernandes — SpiEgEl](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/SpiEgEl)
-* [Polyphia — Fuck Around and Find Out &lpar;feat. $not&rpar;](https://www.last.fm/music/Polyphia/_/Fuck+Around+and+Find+Out+&lpar;feat.+$not&rpar;)
-* [Ichikoro — JOKE](https://www.last.fm/music/Ichikoro/_/JOKE)
-* [Sungazer — Ether](https://www.last.fm/music/Sungazer/_/Ether)<!-- LASTFM:END -->
+* [Polyphia — Fuck Around and Find Out &lpar;feat. $not&rpar;](https://www.last.fm/music/Polyphia/_/Fuck+Around+and+Find+Out+&lpar;feat.+$not&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
