@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
-* [Internet Girl — living far away](https://www.last.fm/music/Internet+Girl/_/living+far+away)
-* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
-* [Mouse on the Keys — Time &lpar;feat. Mario Camarena of CHON&rpar;](https://www.last.fm/music/Mouse+on+the+Keys/_/Time+&lpar;feat.+Mario+Camarena+of+CHON&rpar;)<!-- LASTFM:END -->
+* [Oceans Ate Alaska — Ukiyo](https://www.last.fm/music/Oceans+Ate+Alaska/_/Ukiyo)
+* [Nyu. — Stormy](https://www.last.fm/music/Nyu./_/Stormy)
+* [Strawberry Girls — Tasmanian Glow](https://www.last.fm/music/Strawberry+Girls/_/Tasmanian+Glow)
+* [Arrow — Sprout](https://www.last.fm/music/Arrow/_/Sprout)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
