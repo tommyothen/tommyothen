@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
-* [Ichikoro — Ally](https://www.last.fm/music/Ichikoro/_/Ally)
-* [Anomalie — Lune](https://www.last.fm/music/Anomalie/_/Lune)
-* [Maromaro — salamander](https://www.last.fm/music/Maromaro/_/salamander)
-* [Alpha Wolf — bleed 4 you - Lofi Remix](https://www.last.fm/music/Alpha+Wolf/_/bleed+4+you+-+Lofi+Remix)<!-- LASTFM:END -->
+* [Delta Sleep — Afterimage](https://www.last.fm/music/Delta+Sleep/_/Afterimage)
+* [Ichikoro — SAMURAI](https://www.last.fm/music/Ichikoro/_/SAMURAI)
+* [I Built the Sky — A Halpern Hand](https://www.last.fm/music/I+Built+the+Sky/_/A+Halpern+Hand)
+* [Sungazer — Sequence Start](https://www.last.fm/music/Sungazer/_/Sequence+Start)
+* [Manuel Gardner Fernandes — Heaviest](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/Heaviest)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
