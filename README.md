@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
-* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
-* [Rich Amiri — Keep All That](https://www.last.fm/music/Rich+Amiri/_/Keep+All+That)
-* [Azizi Gibson — Petty Tings](https://www.last.fm/music/Azizi+Gibson/_/Petty+Tings)<!-- LASTFM:END -->
+* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
+* [Ajay Che — Lifeline &lpar;Ajay Che&rpar; [Single from Apex Legends]](https://www.last.fm/music/Ajay+Che/_/Lifeline+&lpar;Ajay+Che&rpar;+%5BSingle+from+Apex+Legends%5D)
+* [Nyu. — Downstream](https://www.last.fm/music/Nyu./_/Downstream)
+* [Owane — Groove of Satan](https://www.last.fm/music/Owane/_/Groove+of+Satan)
+* [Jan Cyrka — Stomp and Roll](https://www.last.fm/music/Jan+Cyrka/_/Stomp+and+Roll)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
