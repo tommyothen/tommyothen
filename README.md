@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
+* [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
-* [Polyphia — Symmetry](https://www.last.fm/music/Polyphia/_/Symmetry)
-* [Their Dogs Were Astronauts — Oasis](https://www.last.fm/music/Their+Dogs+Were+Astronauts/_/Oasis)
-* [Nyu. — Stormy](https://www.last.fm/music/Nyu./_/Stormy)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
+* [Oceans Ate Alaska — Ukiyo](https://www.last.fm/music/Oceans+Ate+Alaska/_/Ukiyo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
