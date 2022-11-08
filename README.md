@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [CHON — Bubble Dream](https://www.last.fm/music/CHON/_/Bubble+Dream)
-* [Manuel Gardner Fernandes — First](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/First)
-* [Ichikoro — James?](https://www.last.fm/music/Ichikoro/_/James%3F)
-* [I Built the Sky — Let Yourself Dream](https://www.last.fm/music/I+Built+the+Sky/_/Let+Yourself+Dream)
-* [Their Dogs Were Astronauts — Low Life](https://www.last.fm/music/Their+Dogs+Were+Astronauts/_/Low+Life)<!-- LASTFM:END -->
+* [Alpha Wolf — bleed 4 you - Lofi Remix](https://www.last.fm/music/Alpha+Wolf/_/bleed+4+you+-+Lofi+Remix)
+* [Dawid Podsiadło — Let You Down](https://www.last.fm/music/Dawid+Podsiad%C5%82o/_/Let+You+Down)
+* [Strawberry Girls — Party Nights](https://www.last.fm/music/Strawberry+Girls/_/Party+Nights)
+* [Syncatto — Farewell](https://www.last.fm/music/Syncatto/_/Farewell)
+* [Anomalie — Untouchable](https://www.last.fm/music/Anomalie/_/Untouchable)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
