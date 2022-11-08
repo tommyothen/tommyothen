@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Strawberry Girls — Tasmanian Glow](https://www.last.fm/music/Strawberry+Girls/_/Tasmanian+Glow)
+* [Arrow — Sprout](https://www.last.fm/music/Arrow/_/Sprout)
 * [Manuel Gardner Fernandes — iSlanD](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/iSlanD)
 * [The Home Team — Slow Bloom](https://www.last.fm/music/The+Home+Team/_/Slow+Bloom)
-* [Polyphia — James Franco](https://www.last.fm/music/Polyphia/_/James+Franco)
-* [Unprocessed — Real - LLUCID Remix](https://www.last.fm/music/Unprocessed/_/Real+-+LLUCID+Remix)
-* [Intervals — 5-HTP](https://www.last.fm/music/Intervals/_/5-HTP)<!-- LASTFM:END -->
+* [Polyphia — James Franco](https://www.last.fm/music/Polyphia/_/James+Franco)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
