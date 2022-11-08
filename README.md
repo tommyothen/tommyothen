@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Their Dogs Were Astronauts — Oasis](https://www.last.fm/music/Their+Dogs+Were+Astronauts/_/Oasis)
-* [Strawberry Girls — Bay of Fires](https://www.last.fm/music/Strawberry+Girls/_/Bay+of+Fires)
-* [Manuel Gardner Fernandes — Rozeskin](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/Rozeskin)
-* [Tilian — Imagination &lpar;feat. Tim Henson&rpar;](https://www.last.fm/music/Tilian/_/Imagination+&lpar;feat.+Tim+Henson&rpar;)
-* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)<!-- LASTFM:END -->
+* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
+* [Anomalie — Bond](https://www.last.fm/music/Anomalie/_/Bond)
+* [Doppelganger — Money So Big - Alex Coats](https://www.last.fm/music/Doppelganger/_/Money+So+Big+-+Alex+Coats)
+* [Manuel Gardner Fernandes — Second](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/Second)
+* [RAT BOY — Who&#39;s Ready for Tomorrow](https://www.last.fm/music/RAT+BOY/_/Who%27s+Ready+for+Tomorrow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
