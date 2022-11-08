@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Alpha Wolf — bleed 4 you - Lofi Remix](https://www.last.fm/music/Alpha+Wolf/_/bleed+4+you+-+Lofi+Remix)
-* [Dawid Podsiadło — Let You Down](https://www.last.fm/music/Dawid+Podsiad%C5%82o/_/Let+You+Down)
-* [Strawberry Girls — Party Nights](https://www.last.fm/music/Strawberry+Girls/_/Party+Nights)
-* [Syncatto — Farewell](https://www.last.fm/music/Syncatto/_/Farewell)
-* [Anomalie — Untouchable](https://www.last.fm/music/Anomalie/_/Untouchable)<!-- LASTFM:END -->
+* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
+* [Ichikoro — Ally](https://www.last.fm/music/Ichikoro/_/Ally)
+* [Anomalie — Lune](https://www.last.fm/music/Anomalie/_/Lune)
+* [Maromaro — salamander](https://www.last.fm/music/Maromaro/_/salamander)
+* [Alpha Wolf — bleed 4 you - Lofi Remix](https://www.last.fm/music/Alpha+Wolf/_/bleed+4+you+-+Lofi+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
