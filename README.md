@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sungazer — Ether](https://www.last.fm/music/Sungazer/_/Ether)
-* [CHON — Ghost](https://www.last.fm/music/CHON/_/Ghost)
-* [Emarosa — Attention](https://www.last.fm/music/Emarosa/_/Attention)
-* [Manuel Gardner Fernandes — gLaSs](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/gLaSs)
-* [FUNKY TIMES — Groove Window](https://www.last.fm/music/FUNKY+TIMES/_/Groove+Window)<!-- LASTFM:END -->
+* [Clown Core — Computers](https://www.last.fm/music/Clown+Core/_/Computers)
+* [Manuel Gardner Fernandes — SpiEgEl](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/SpiEgEl)
+* [Polyphia — Fuck Around and Find Out &lpar;feat. $not&rpar;](https://www.last.fm/music/Polyphia/_/Fuck+Around+and+Find+Out+&lpar;feat.+$not&rpar;)
+* [Ichikoro — JOKE](https://www.last.fm/music/Ichikoro/_/JOKE)
+* [Sungazer — Ether](https://www.last.fm/music/Sungazer/_/Ether)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
