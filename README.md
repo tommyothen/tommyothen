@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
-* [Anomalie — Bond](https://www.last.fm/music/Anomalie/_/Bond)
-* [Doppelganger — Money So Big - Alex Coats](https://www.last.fm/music/Doppelganger/_/Money+So+Big+-+Alex+Coats)
-* [Manuel Gardner Fernandes — Second](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/Second)
-* [RAT BOY — Who&#39;s Ready for Tomorrow](https://www.last.fm/music/RAT+BOY/_/Who%27s+Ready+for+Tomorrow)<!-- LASTFM:END -->
+* [CHON — Bubble Dream](https://www.last.fm/music/CHON/_/Bubble+Dream)
+* [Manuel Gardner Fernandes — First](https://www.last.fm/music/Manuel+Gardner+Fernandes/_/First)
+* [Ichikoro — James?](https://www.last.fm/music/Ichikoro/_/James%3F)
+* [I Built the Sky — Let Yourself Dream](https://www.last.fm/music/I+Built+the+Sky/_/Let+Yourself+Dream)
+* [Their Dogs Were Astronauts — Low Life](https://www.last.fm/music/Their+Dogs+Were+Astronauts/_/Low+Life)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
