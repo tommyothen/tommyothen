@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
-* [Mouse on the Keys — Time &lpar;feat. Mario Camarena of CHON&rpar;](https://www.last.fm/music/Mouse+on+the+Keys/_/Time+&lpar;feat.+Mario+Camarena+of+CHON&rpar;)
-* [Ajay Che — Lifeline &lpar;Ajay Che&rpar; [Single from Apex Legends]](https://www.last.fm/music/Ajay+Che/_/Lifeline+&lpar;Ajay+Che&rpar;+%5BSingle+from+Apex+Legends%5D)
-* [Nyu. — Downstream](https://www.last.fm/music/Nyu./_/Downstream)
-* [Owane — Groove of Satan](https://www.last.fm/music/Owane/_/Groove+of+Satan)<!-- LASTFM:END -->
+* [Internet Girl — living far away](https://www.last.fm/music/Internet+Girl/_/living+far+away)
+* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
+* [Mouse on the Keys — Time &lpar;feat. Mario Camarena of CHON&rpar;](https://www.last.fm/music/Mouse+on+the+Keys/_/Time+&lpar;feat.+Mario+Camarena+of+CHON&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
