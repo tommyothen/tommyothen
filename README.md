@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Die Antwoord — ZONKE BONKE](https://www.last.fm/music/Die+Antwoord/_/ZONKE+BONKE)
 * [Die Antwoord — OPEN THE DOOR](https://www.last.fm/music/Die+Antwoord/_/OPEN+THE+DOOR)
 * [Die Antwoord — MFUM MFUM](https://www.last.fm/music/Die+Antwoord/_/MFUM+MFUM)
 * [Die Antwoord — Age Of Illusion](https://www.last.fm/music/Die+Antwoord/_/Age+Of+Illusion)
-* [Die Antwoord — Pitbull Terrier](https://www.last.fm/music/Die+Antwoord/_/Pitbull+Terrier)
-* [Die Antwoord — Fatty Boom Boom](https://www.last.fm/music/Die+Antwoord/_/Fatty+Boom+Boom)<!-- LASTFM:END -->
+* [Die Antwoord — Pitbull Terrier](https://www.last.fm/music/Die+Antwoord/_/Pitbull+Terrier)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
