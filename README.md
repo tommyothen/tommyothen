@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Die Antwoord — I Fink U Freeky](https://www.last.fm/music/Die+Antwoord/_/I+Fink+U+Freeky)
+* [Die Antwoord — Baby&#39;s on Fire](https://www.last.fm/music/Die+Antwoord/_/Baby%27s+on+Fire)
 * [BPM15Q — Kyo You Mu](https://www.last.fm/music/BPM15Q/_/Kyo+You+Mu)
 * [TANUKI — The Witch](https://www.last.fm/music/TANUKI/_/The+Witch)
-* [twst — Are You Filming Me?](https://www.last.fm/music/twst/_/Are+You+Filming+Me%3F)
-* [Tiffi — drive by](https://www.last.fm/music/Tiffi/_/drive+by)
-* [Snuffles — what the](https://www.last.fm/music/Snuffles/_/what+the)<!-- LASTFM:END -->
+* [twst — Are You Filming Me?](https://www.last.fm/music/twst/_/Are+You+Filming+Me%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
