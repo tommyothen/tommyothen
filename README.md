@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [wetter — GGONDAE](https://www.last.fm/music/wetter/_/GGONDAE)
+* [Starjunk 95 — Virtual Paradise](https://www.last.fm/music/Starjunk+95/_/Virtual+Paradise)
 * [Noel — Rat Race](https://www.last.fm/music/Noel/_/Rat+Race)
 * [Angelus — gossip girls](https://www.last.fm/music/Angelus/_/gossip+girls)
-* [ElyOtto — Profane](https://www.last.fm/music/ElyOtto/_/Profane)
-* [MeLoveMeAlot — You Can&#39;t Kill Me I&#39;m Alive](https://www.last.fm/music/MeLoveMeAlot/_/You+Can%27t+Kill+Me+I%27m+Alive)
-* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)<!-- LASTFM:END -->
+* [ElyOtto — Profane](https://www.last.fm/music/ElyOtto/_/Profane)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
