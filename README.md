@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Die Antwoord — Age Of Illusion](https://www.last.fm/music/Die+Antwoord/_/Age+Of+Illusion)
+* [Die Antwoord — Pitbull Terrier](https://www.last.fm/music/Die+Antwoord/_/Pitbull+Terrier)
 * [Die Antwoord — Fatty Boom Boom](https://www.last.fm/music/Die+Antwoord/_/Fatty+Boom+Boom)
 * [Die Antwoord — Enter the Ninja](https://www.last.fm/music/Die+Antwoord/_/Enter+the+Ninja)
-* [Die Antwoord — Cookie Thumper!](https://www.last.fm/music/Die+Antwoord/_/Cookie+Thumper!)
-* [Die Antwoord — Ugly Boy](https://www.last.fm/music/Die+Antwoord/_/Ugly+Boy)
-* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)<!-- LASTFM:END -->
+* [Die Antwoord — Cookie Thumper!](https://www.last.fm/music/Die+Antwoord/_/Cookie+Thumper!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
