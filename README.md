@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BPM15Q — Kyo You Mu](https://www.last.fm/music/BPM15Q/_/Kyo+You+Mu)
+* [TANUKI — The Witch](https://www.last.fm/music/TANUKI/_/The+Witch)
+* [twst — Are You Filming Me?](https://www.last.fm/music/twst/_/Are+You+Filming+Me%3F)
 * [Tiffi — drive by](https://www.last.fm/music/Tiffi/_/drive+by)
-* [Snuffles — what the](https://www.last.fm/music/Snuffles/_/what+the)
-* [Mad Kelly — In My Room](https://www.last.fm/music/Mad+Kelly/_/In+My+Room)
-* [wetter — GGONDAE](https://www.last.fm/music/wetter/_/GGONDAE)
-* [Starjunk 95 — Virtual Paradise](https://www.last.fm/music/Starjunk+95/_/Virtual+Paradise)<!-- LASTFM:END -->
+* [Snuffles — what the](https://www.last.fm/music/Snuffles/_/what+the)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
