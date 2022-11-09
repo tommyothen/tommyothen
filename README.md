@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tiffi — drive by](https://www.last.fm/music/Tiffi/_/drive+by)
+* [Snuffles — what the](https://www.last.fm/music/Snuffles/_/what+the)
+* [Mad Kelly — In My Room](https://www.last.fm/music/Mad+Kelly/_/In+My+Room)
 * [wetter — GGONDAE](https://www.last.fm/music/wetter/_/GGONDAE)
-* [Starjunk 95 — Virtual Paradise](https://www.last.fm/music/Starjunk+95/_/Virtual+Paradise)
-* [Noel — Rat Race](https://www.last.fm/music/Noel/_/Rat+Race)
-* [Angelus — gossip girls](https://www.last.fm/music/Angelus/_/gossip+girls)
-* [ElyOtto — Profane](https://www.last.fm/music/ElyOtto/_/Profane)<!-- LASTFM:END -->
+* [Starjunk 95 — Virtual Paradise](https://www.last.fm/music/Starjunk+95/_/Virtual+Paradise)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
