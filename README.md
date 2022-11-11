@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
+* [KANDYTOWN — Local Area &lpar;feat. Gottz, Neetz &amp; KEIJU&rpar;](https://www.last.fm/music/KANDYTOWN/_/Local+Area+&lpar;feat.+Gottz,+Neetz+&amp;+KEIJU&rpar;)
 * [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
-* [Jukio Kallio — Didn&#39;t Fall! &lpar;You Win&rpar;](https://www.last.fm/music/Jukio+Kallio/_/Didn%27t+Fall!+&lpar;You+Win&rpar;)
-* [Jukio Kallio — Final Fall](https://www.last.fm/music/Jukio+Kallio/_/Final+Fall)
-* [Jukio Kallio — Fall for the Team](https://www.last.fm/music/Jukio+Kallio/_/Fall+for+the+Team)
-* [Jukio Kallio — Survive the Fall](https://www.last.fm/music/Jukio+Kallio/_/Survive+the+Fall)<!-- LASTFM:END -->
+* [Jukio Kallio — Didn&#39;t Fall! &lpar;You Win&rpar;](https://www.last.fm/music/Jukio+Kallio/_/Didn%27t+Fall!+&lpar;You+Win&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
