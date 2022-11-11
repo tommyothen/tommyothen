@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jukio Kallio — Survive the Fall](https://www.last.fm/music/Jukio+Kallio/_/Survive+the+Fall)
+* [Jukio Kallio — Fall &#39;N&#39; Roll](https://www.last.fm/music/Jukio+Kallio/_/Fall+%27N%27+Roll)
 * [Jukio Kallio — Everybody Falls &lpar;Fall Guys Theme&rpar;](https://www.last.fm/music/Jukio+Kallio/_/Everybody+Falls+&lpar;Fall+Guys+Theme&rpar;)
 * [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)<!-- LASTFM:END -->
+* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
