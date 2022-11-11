@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Nns — Gold Medal](https://www.last.fm/music/Nns/_/Gold+Medal)
-* [Zekk — Libertas](https://www.last.fm/music/Zekk/_/Libertas)
-* [P*Light — EVE](https://www.last.fm/music/P*Light/_/EVE)
+* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)<!-- LASTFM:END -->
+* [Internet Girl — living far away](https://www.last.fm/music/Internet+Girl/_/living+far+away)
+* [BPM15Q — Kyo You Mu](https://www.last.fm/music/BPM15Q/_/Kyo+You+Mu)
+* [hitogoto — Believing and Being](https://www.last.fm/music/hitogoto/_/Believing+and+Being)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
