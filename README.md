@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jukio Kallio — Survive the Fall](https://www.last.fm/music/Jukio+Kallio/_/Survive+the+Fall)
-* [Jukio Kallio — Fall &#39;N&#39; Roll](https://www.last.fm/music/Jukio+Kallio/_/Fall+%27N%27+Roll)
-* [Jukio Kallio — Everybody Falls &lpar;Fall Guys Theme&rpar;](https://www.last.fm/music/Jukio+Kallio/_/Everybody+Falls+&lpar;Fall+Guys+Theme&rpar;)
-* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)<!-- LASTFM:END -->
+* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
+* [Jukio Kallio — Didn&#39;t Fall! &lpar;You Win&rpar;](https://www.last.fm/music/Jukio+Kallio/_/Didn%27t+Fall!+&lpar;You+Win&rpar;)
+* [Jukio Kallio — Final Fall](https://www.last.fm/music/Jukio+Kallio/_/Final+Fall)
+* [Jukio Kallio — Fall for the Team](https://www.last.fm/music/Jukio+Kallio/_/Fall+for+the+Team)
+* [Jukio Kallio — Survive the Fall](https://www.last.fm/music/Jukio+Kallio/_/Survive+the+Fall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
