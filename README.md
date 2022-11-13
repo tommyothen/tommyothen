@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Chimera &lpar;feat. Lil West&rpar;](https://www.last.fm/music/Polyphia/_/Chimera+&lpar;feat.+Lil+West&rpar;)
+* [Polyphia — So Strange](https://www.last.fm/music/Polyphia/_/So+Strange)
 * [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
 * [Polyphia — Amour](https://www.last.fm/music/Polyphia/_/Amour)
-* [Polyphia — Memento Mori &lpar;feat. Killstation&rpar;](https://www.last.fm/music/Polyphia/_/Memento+Mori+&lpar;feat.+Killstation&rpar;)
-* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
-* [Polyphia — Symmetry](https://www.last.fm/music/Polyphia/_/Symmetry)<!-- LASTFM:END -->
+* [Polyphia — Memento Mori &lpar;feat. Killstation&rpar;](https://www.last.fm/music/Polyphia/_/Memento+Mori+&lpar;feat.+Killstation&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
