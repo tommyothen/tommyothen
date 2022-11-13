@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Nightmare](https://www.last.fm/music/Polyphia/_/Nightmare)
+* [Polyphia — O.D.](https://www.last.fm/music/Polyphia/_/O.D.)
+* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Polyphia — Ignite](https://www.last.fm/music/Polyphia/_/Ignite)
-* [Polyphia — Look But Don&#39;t Touch](https://www.last.fm/music/Polyphia/_/Look+But+Don%27t+Touch)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)<!-- LASTFM:END -->
+* [Polyphia — Ignite](https://www.last.fm/music/Polyphia/_/Ignite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
