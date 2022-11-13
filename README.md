@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
+* [L.Dre — Across the Country](https://www.last.fm/music/L.Dre/_/Across+the+Country)
 * [Getter — Forget It &lpar;feat. Oliver Tree&rpar;](https://www.last.fm/music/Getter/_/Forget+It+&lpar;feat.+Oliver+Tree&rpar;)
 * [Boba Boyz — Thai Tea Trippin&#39;](https://www.last.fm/music/Boba+Boyz/_/Thai+Tea+Trippin%27)
-* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
-* [bbno$ — zoom](https://www.last.fm/music/bbno$/_/zoom)
-* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)<!-- LASTFM:END -->
+* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
