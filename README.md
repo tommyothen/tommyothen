@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Duckwrth — I&#39;M DEAD](https://www.last.fm/music/Duckwrth/_/I%27M+DEAD)
-* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
-* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)<!-- LASTFM:END -->
+* [Jarv &amp; Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&amp;+Thief/_/Slack-Jaw)
+* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
+* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)
+* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
