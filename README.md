@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
 * [Polyphia — Crush](https://www.last.fm/music/Polyphia/_/Crush)
 * [Polyphia — James Franco](https://www.last.fm/music/Polyphia/_/James+Franco)
 * [Polyphia — Yas](https://www.last.fm/music/Polyphia/_/Yas)
-* [Polyphia — Nasty](https://www.last.fm/music/Polyphia/_/Nasty)
-* [Polyphia — Impassion](https://www.last.fm/music/Polyphia/_/Impassion)<!-- LASTFM:END -->
+* [Polyphia — Nasty](https://www.last.fm/music/Polyphia/_/Nasty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
