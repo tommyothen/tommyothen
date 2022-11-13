@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)
-* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
-* [Polyphia — Crush](https://www.last.fm/music/Polyphia/_/Crush)
-* [Polyphia — James Franco](https://www.last.fm/music/Polyphia/_/James+Franco)<!-- LASTFM:END -->
+* [Polyphia — Ignite](https://www.last.fm/music/Polyphia/_/Ignite)
+* [Polyphia — Look But Don&#39;t Touch](https://www.last.fm/music/Polyphia/_/Look+But+Don%27t+Touch)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
+* [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
