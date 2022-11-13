@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bring Me the Horizon — Alligator Blood](https://www.last.fm/music/Bring+Me+the+Horizon/_/Alligator+Blood)
 * [Taylor Swift — cardigan](https://www.last.fm/music/Taylor+Swift/_/cardigan)
 * [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
 * [girl in red — summer depression](https://www.last.fm/music/girl+in+red/_/summer+depression)
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
-* [Elio — hurts 2 hate somebody &lpar;with Chase Atlantic &amp; No Rome&rpar;](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+&lpar;with+Chase+Atlantic+&amp;+No+Rome&rpar;)<!-- LASTFM:END -->
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
