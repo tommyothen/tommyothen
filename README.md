@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)
 * [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
 * [The Neighbourhood — Cry Baby](https://www.last.fm/music/The+Neighbourhood/_/Cry+Baby)
 * [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
-* [Gift Of Gab — Freedom Form Flowing](https://www.last.fm/music/Gift+Of+Gab/_/Freedom+Form+Flowing)
-* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)<!-- LASTFM:END -->
+* [Gift Of Gab — Freedom Form Flowing](https://www.last.fm/music/Gift+Of+Gab/_/Freedom+Form+Flowing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
