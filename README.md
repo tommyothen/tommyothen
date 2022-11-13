@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Goose](https://www.last.fm/music/Polyphia/_/Goose)
+* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
+* [Polyphia — Baditude](https://www.last.fm/music/Polyphia/_/Baditude)
 * [Polyphia — Bittersweet](https://www.last.fm/music/Polyphia/_/Bittersweet)
-* [Polyphia — Fuck Around and Find Out &lpar;feat. $not&rpar;](https://www.last.fm/music/Polyphia/_/Fuck+Around+and+Find+Out+&lpar;feat.+$not&rpar;)
-* [Polyphia — Icronic](https://www.last.fm/music/Polyphia/_/Icronic)
-* [Polyphia — Transcend](https://www.last.fm/music/Polyphia/_/Transcend)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
+* [Polyphia — Fuck Around and Find Out &lpar;feat. $not&rpar;](https://www.last.fm/music/Polyphia/_/Fuck+Around+and+Find+Out+&lpar;feat.+$not&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
