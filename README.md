@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)
-* [BROCKHAMPTON — 1999 WILDFIRE](https://www.last.fm/music/BROCKHAMPTON/_/1999+WILDFIRE)
-* [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)
-* [Headhaunter — Intergalasstic II](https://www.last.fm/music/Headhaunter/_/Intergalasstic+II)
-* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)<!-- LASTFM:END -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [Duckwrth — I&#39;M DEAD](https://www.last.fm/music/Duckwrth/_/I%27M+DEAD)
+* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
+* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
