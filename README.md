@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Playing God - Beat Version](https://www.last.fm/music/Polyphia/_/Playing+God+-+Beat+Version)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
-* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
-* [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
-* [Kids See Ghosts — 4th Dimension](https://www.last.fm/music/Kids+See+Ghosts/_/4th+Dimension)<!-- LASTFM:END -->
+* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
