@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Memory](https://www.last.fm/music/Polyphia/_/Memory)
+* [Polyphia — Bad](https://www.last.fm/music/Polyphia/_/Bad)
 * [Polyphia — Fuck Around and Find Out &lpar;feat. $not&rpar;](https://www.last.fm/music/Polyphia/_/Fuck+Around+and+Find+Out+&lpar;feat.+$not&rpar;)
 * [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
-* [Polyphia — Persevere &lpar;feat. Aaron Marshall&rpar;](https://www.last.fm/music/Polyphia/_/Persevere+&lpar;feat.+Aaron+Marshall&rpar;)
-* [Polyphia — LIT](https://www.last.fm/music/Polyphia/_/LIT)
-* [Polyphia — Playing God - Beat Version](https://www.last.fm/music/Polyphia/_/Playing+God+-+Beat+Version)<!-- LASTFM:END -->
+* [Polyphia — Persevere &lpar;feat. Aaron Marshall&rpar;](https://www.last.fm/music/Polyphia/_/Persevere+&lpar;feat.+Aaron+Marshall&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
