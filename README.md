@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
+* [EARTHGANG — Meditate &lpar;feat. J.I.D.&rpar;](https://www.last.fm/music/EARTHGANG/_/Meditate+&lpar;feat.+J.I.D.&rpar;)
 * [Bring Me the Horizon — Alligator Blood](https://www.last.fm/music/Bring+Me+the+Horizon/_/Alligator+Blood)
 * [Taylor Swift — cardigan](https://www.last.fm/music/Taylor+Swift/_/cardigan)
-* [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
-* [girl in red — summer depression](https://www.last.fm/music/girl+in+red/_/summer+depression)
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)<!-- LASTFM:END -->
+* [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
