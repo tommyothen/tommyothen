@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Polyphia — Neurotica - Beat Version](https://www.last.fm/music/Polyphia/_/Neurotica+-+Beat+Version)
-* [Polyphia — Genesis &lpar;feat. Brasstracks&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;feat.+Brasstracks&rpar;)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Polyphia — Hourglass](https://www.last.fm/music/Polyphia/_/Hourglass)<!-- LASTFM:END -->
+* [Polyphia — Chimera &lpar;feat. Lil West&rpar;](https://www.last.fm/music/Polyphia/_/Chimera+&lpar;feat.+Lil+West&rpar;)
+* [Polyphia — Euphoria](https://www.last.fm/music/Polyphia/_/Euphoria)
+* [Polyphia — Neurotica - Beat Version](https://www.last.fm/music/Polyphia/_/Neurotica+-+Beat+Version)
+* [Polyphia — Genesis &lpar;feat. Brasstracks&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;feat.+Brasstracks&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
