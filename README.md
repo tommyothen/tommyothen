@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
+* [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)
 * [Tech N9ne — Speedom &lpar;Wwc2&rpar;](https://www.last.fm/music/Tech+N9ne/_/Speedom+&lpar;Wwc2&rpar;)
 * [Nicki Minaj — Majesty &lpar;with Labrinth &amp; feat. Eminem&rpar;](https://www.last.fm/music/Nicki+Minaj/_/Majesty+&lpar;with+Labrinth+&amp;+feat.+Eminem&rpar;)
-* [Eminem — Stan](https://www.last.fm/music/Eminem/_/Stan)
-* [Eminem — Godzilla &lpar;feat. Juice WRLD&rpar;](https://www.last.fm/music/Eminem/_/Godzilla+&lpar;feat.+Juice+WRLD&rpar;)
-* [The Notorious B.I.G. — Notorious Thugs - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Notorious+Thugs+-+2014+Remaster)<!-- LASTFM:END -->
+* [Eminem — Stan](https://www.last.fm/music/Eminem/_/Stan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
