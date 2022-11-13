@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
+* [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever-Guitar Instrumental-](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever-Guitar+Instrumental-)
 * [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
-* [UNDEAD CORPORATION DOUJIN WORKS — Adore Your Pain](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Adore+Your+Pain)
-* [UNDEAD CORPORATION DOUJIN WORKS — The Empress](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/The+Empress)
-* [UNDEAD CORPORATION DOUJIN WORKS — 夜啼く兎は夢を見る](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/%E5%A4%9C%E5%95%BC%E3%81%8F%E5%85%8E%E3%81%AF%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B)
-* [UNDEAD CORPORATION DOUJIN WORKS — Embraced by the Flame](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Embraced+by+the+Flame)<!-- LASTFM:END -->
+* [UNDEAD CORPORATION DOUJIN WORKS — Adore Your Pain](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Adore+Your+Pain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
