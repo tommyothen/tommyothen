@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Niki — move!](https://www.last.fm/music/Niki/_/move!)
-* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
-* [Halberd — basement](https://www.last.fm/music/Halberd/_/basement)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
-* [slowthai — terms &lpar;feat. Dominic Fike &amp; Denzel Curry&rpar;](https://www.last.fm/music/slowthai/_/terms+&lpar;feat.+Dominic+Fike+&amp;+Denzel+Curry&rpar;)<!-- LASTFM:END -->
+* [bbno$ — zoom](https://www.last.fm/music/bbno$/_/zoom)
+* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
+* [bbno$ — coasting](https://www.last.fm/music/bbno$/_/coasting)
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
+* [Niki — move!](https://www.last.fm/music/Niki/_/move!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
