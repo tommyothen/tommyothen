@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
+* [Gift Of Gab — Freedom Form Flowing](https://www.last.fm/music/Gift+Of+Gab/_/Freedom+Form+Flowing)
 * [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
 * [EARTHGANG — Meditate &lpar;feat. J.I.D.&rpar;](https://www.last.fm/music/EARTHGANG/_/Meditate+&lpar;feat.+J.I.D.&rpar;)
-* [Bring Me the Horizon — Alligator Blood](https://www.last.fm/music/Bring+Me+the+Horizon/_/Alligator+Blood)
-* [Taylor Swift — cardigan](https://www.last.fm/music/Taylor+Swift/_/cardigan)
-* [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)<!-- LASTFM:END -->
+* [Bring Me the Horizon — Alligator Blood](https://www.last.fm/music/Bring+Me+the+Horizon/_/Alligator+Blood)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
