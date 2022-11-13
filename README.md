@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glass Animals — Tokyo Drifting &lpar;with Denzel Curry&rpar;](https://www.last.fm/music/Glass+Animals/_/Tokyo+Drifting+&lpar;with+Denzel+Curry&rpar;)
+* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
+* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
 * [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)
-* [Tech N9ne — Speedom &lpar;Wwc2&rpar;](https://www.last.fm/music/Tech+N9ne/_/Speedom+&lpar;Wwc2&rpar;)
-* [Nicki Minaj — Majesty &lpar;with Labrinth &amp; feat. Eminem&rpar;](https://www.last.fm/music/Nicki+Minaj/_/Majesty+&lpar;with+Labrinth+&amp;+feat.+Eminem&rpar;)
-* [Eminem — Stan](https://www.last.fm/music/Eminem/_/Stan)<!-- LASTFM:END -->
+* [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
