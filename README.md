@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
-* [Polyphia — Symmetry](https://www.last.fm/music/Polyphia/_/Symmetry)
-* [Polyphia — Aviator](https://www.last.fm/music/Polyphia/_/Aviator)
-* [Polyphia — Memory](https://www.last.fm/music/Polyphia/_/Memory)
-* [Polyphia — Bad](https://www.last.fm/music/Polyphia/_/Bad)<!-- LASTFM:END -->
+* [Polyphia — Amour](https://www.last.fm/music/Polyphia/_/Amour)
+* [Polyphia — Memento Mori &lpar;feat. Killstation&rpar;](https://www.last.fm/music/Polyphia/_/Memento+Mori+&lpar;feat.+Killstation&rpar;)
+* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
+* [Polyphia — Symmetry](https://www.last.fm/music/Polyphia/_/Symmetry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
