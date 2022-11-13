@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eminem — Stan](https://www.last.fm/music/Eminem/_/Stan)
+* [Eminem — Godzilla &lpar;feat. Juice WRLD&rpar;](https://www.last.fm/music/Eminem/_/Godzilla+&lpar;feat.+Juice+WRLD&rpar;)
+* [The Notorious B.I.G. — Notorious Thugs - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Notorious+Thugs+-+2014+Remaster)
 * [Jarv &amp; Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&amp;+Thief/_/Slack-Jaw)
-* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
-* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)
-* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
+* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
