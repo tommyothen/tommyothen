@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Mood Swing](https://www.last.fm/music/Polyphia/_/Mood+Swing)
+* [Polyphia — Aviator](https://www.last.fm/music/Polyphia/_/Aviator)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)
-* [Polyphia — Florence](https://www.last.fm/music/Polyphia/_/Florence)
-* [Polyphia — Goose](https://www.last.fm/music/Polyphia/_/Goose)
-* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)<!-- LASTFM:END -->
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
