@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Genesis &lpar;feat. Brasstracks&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;feat.+Brasstracks&rpar;)
+* [Polyphia — Baditude](https://www.last.fm/music/Polyphia/_/Baditude)
+* [Polyphia — Chimera &lpar;feat. Lil West&rpar;](https://www.last.fm/music/Polyphia/_/Chimera+&lpar;feat.+Lil+West&rpar;)
 * [Polyphia — Mood Swing](https://www.last.fm/music/Polyphia/_/Mood+Swing)
-* [Polyphia — Aviator](https://www.last.fm/music/Polyphia/_/Aviator)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
+* [Polyphia — Aviator](https://www.last.fm/music/Polyphia/_/Aviator)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
