@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Saucy](https://www.last.fm/music/Polyphia/_/Saucy)
+* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
 * [Polyphia — G.O.A.T.](https://www.last.fm/music/Polyphia/_/G.O.A.T.)
 * [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
-* [Polyphia — Hourglass](https://www.last.fm/music/Polyphia/_/Hourglass)
-* [Polyphia — Rich Kids](https://www.last.fm/music/Polyphia/_/Rich+Kids)
-* [Polyphia — Genesis &lpar;feat. Brasstracks&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;feat.+Brasstracks&rpar;)<!-- LASTFM:END -->
+* [Polyphia — Hourglass](https://www.last.fm/music/Polyphia/_/Hourglass)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
