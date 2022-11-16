@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
 * [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
 * [isaacwhy — I TOOK A PERC](https://www.last.fm/music/isaacwhy/_/I+TOOK+A+PERC)
-* [Polyphia — Amour](https://www.last.fm/music/Polyphia/_/Amour)
-* [Polyphia — Memory](https://www.last.fm/music/Polyphia/_/Memory)
-* [Polyphia — Inspire](https://www.last.fm/music/Polyphia/_/Inspire)<!-- LASTFM:END -->
+* [Polyphia — Amour](https://www.last.fm/music/Polyphia/_/Amour)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
