@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LIL DUSTY G — LET GO](https://www.last.fm/music/LIL+DUSTY+G/_/LET+GO)
+* [Skinny Atlas — you never meant it](https://www.last.fm/music/Skinny+Atlas/_/you+never+meant+it)
+* [BPM15Q — Kyo You Mu](https://www.last.fm/music/BPM15Q/_/Kyo+You+Mu)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)<!-- LASTFM:END -->
+* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
