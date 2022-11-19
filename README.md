@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
 * [Miraie — Back to 2d](https://www.last.fm/music/Miraie/_/Back+to+2d)
 * [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
-* [Teen Jesus and the Jean Teasers — AHHHH!](https://www.last.fm/music/Teen+Jesus+and+the+Jean+Teasers/_/AHHHH!)
-* [Calva Louise — Outrageous](https://www.last.fm/music/Calva+Louise/_/Outrageous)
-* [EKKSTACY — wish i was dead](https://www.last.fm/music/EKKSTACY/_/wish+i+was+dead)<!-- LASTFM:END -->
+* [Teen Jesus and the Jean Teasers — AHHHH!](https://www.last.fm/music/Teen+Jesus+and+the+Jean+Teasers/_/AHHHH!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
