@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [VLUSH — Byof](https://www.last.fm/music/VLUSH/_/Byof)
+* [Here&#39;s To Now — Rose Gold](https://www.last.fm/music/Here%27s+To+Now/_/Rose+Gold)
+* [Lucy — Telepathic Humans](https://www.last.fm/music/Lucy/_/Telepathic+Humans)
 * [Canadian Softball — ... and yet, I fish](https://www.last.fm/music/Canadian+Softball/_/...+and+yet,+I+fish)
-* [Blood Code — S E L F | aware](https://www.last.fm/music/Blood+Code/_/S+E+L+F+%7C+aware)
-* [Oddeeo — Chinatown Blues](https://www.last.fm/music/Oddeeo/_/Chinatown+Blues)
-* [Ferdous — Counting Stars](https://www.last.fm/music/Ferdous/_/Counting+Stars)
-* [Mana Garden — Do U Wanna Stay?](https://www.last.fm/music/Mana+Garden/_/Do+U+Wanna+Stay%3F)<!-- LASTFM:END -->
+* [Blood Code — S E L F | aware](https://www.last.fm/music/Blood+Code/_/S+E+L+F+%7C+aware)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
