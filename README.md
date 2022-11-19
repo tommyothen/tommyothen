@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Royal Coda — Becoming The Memory](https://www.last.fm/music/Royal+Coda/_/Becoming+The+Memory)
-* [Patchymate — perception&#39;s really all that you have](https://www.last.fm/music/Patchymate/_/perception%27s+really+all+that+you+have)
-* [Hundredth — Too Late](https://www.last.fm/music/Hundredth/_/Too+Late)
-* [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)
-* [James Ivy — Pushin&#39; Thru It](https://www.last.fm/music/James+Ivy/_/Pushin%27+Thru+It)<!-- LASTFM:END -->
+* [Teen Jesus and the Jean Teasers — AHHHH!](https://www.last.fm/music/Teen+Jesus+and+the+Jean+Teasers/_/AHHHH!)
+* [Calva Louise — Outrageous](https://www.last.fm/music/Calva+Louise/_/Outrageous)
+* [EKKSTACY — wish i was dead](https://www.last.fm/music/EKKSTACY/_/wish+i+was+dead)
+* [Statues Of Men — Choke](https://www.last.fm/music/Statues+Of+Men/_/Choke)
+* [Royal Coda — Becoming The Memory](https://www.last.fm/music/Royal+Coda/_/Becoming+The+Memory)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
