@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [So Much Light — Simple and Clean](https://www.last.fm/music/So+Much+Light/_/Simple+and+Clean)
+* [Kid Bloom — I Kissed A Girl, And She Kissed Me](https://www.last.fm/music/Kid+Bloom/_/I+Kissed+A+Girl,+And+She+Kissed+Me)
+* [Dan Mason ダン·メイソン — Melatonin High - Rework 2021](https://www.last.fm/music/Dan+Mason+%E3%83%80%E3%83%B3%C2%B7%E3%83%A1%E3%82%A4%E3%82%BD%E3%83%B3/_/Melatonin+High+-+Rework+2021)
 * [VLUSH — Byof](https://www.last.fm/music/VLUSH/_/Byof)
-* [Here&#39;s To Now — Rose Gold](https://www.last.fm/music/Here%27s+To+Now/_/Rose+Gold)
-* [Lucy — Telepathic Humans](https://www.last.fm/music/Lucy/_/Telepathic+Humans)
-* [Canadian Softball — ... and yet, I fish](https://www.last.fm/music/Canadian+Softball/_/...+and+yet,+I+fish)
-* [Blood Code — S E L F | aware](https://www.last.fm/music/Blood+Code/_/S+E+L+F+%7C+aware)<!-- LASTFM:END -->
+* [Here&#39;s To Now — Rose Gold](https://www.last.fm/music/Here%27s+To+Now/_/Rose+Gold)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
