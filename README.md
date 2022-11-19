@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mana Garden — Do U Wanna Stay?](https://www.last.fm/music/Mana+Garden/_/Do+U+Wanna+Stay%3F)
-* [Good Tiger — Kimbal](https://www.last.fm/music/Good+Tiger/_/Kimbal)
-* [Royal Coda — Becoming The Memory](https://www.last.fm/music/Royal+Coda/_/Becoming+The+Memory)
-* [sadeyes — i&#39;m not okay](https://www.last.fm/music/sadeyes/_/i%27m+not+okay)
-* [Teqkoi — I&#39;m Not Enough and I&#39;m Sorry](https://www.last.fm/music/Teqkoi/_/I%27m+Not+Enough+and+I%27m+Sorry)<!-- LASTFM:END -->
+* [Canadian Softball — ... and yet, I fish](https://www.last.fm/music/Canadian+Softball/_/...+and+yet,+I+fish)
+* [Blood Code — S E L F | aware](https://www.last.fm/music/Blood+Code/_/S+E+L+F+%7C+aware)
+* [Oddeeo — Chinatown Blues](https://www.last.fm/music/Oddeeo/_/Chinatown+Blues)
+* [Ferdous — Counting Stars](https://www.last.fm/music/Ferdous/_/Counting+Stars)
+* [Mana Garden — Do U Wanna Stay?](https://www.last.fm/music/Mana+Garden/_/Do+U+Wanna+Stay%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
