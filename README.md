@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Patchymate — perception&#39;s really all that you have](https://www.last.fm/music/Patchymate/_/perception%27s+really+all+that+you+have)
 * [Hundredth — Too Late](https://www.last.fm/music/Hundredth/_/Too+Late)
 * [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)
 * [James Ivy — Pushin&#39; Thru It](https://www.last.fm/music/James+Ivy/_/Pushin%27+Thru+It)
-* [Daniel Koestner — Raccoon House Music](https://www.last.fm/music/Daniel+Koestner/_/Raccoon+House+Music)
-* [Mirrored Theory — Imagine](https://www.last.fm/music/Mirrored+Theory/_/Imagine)<!-- LASTFM:END -->
+* [Daniel Koestner — Raccoon House Music](https://www.last.fm/music/Daniel+Koestner/_/Raccoon+House+Music)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
