@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mana Garden — Do U Wanna Stay?](https://www.last.fm/music/Mana+Garden/_/Do+U+Wanna+Stay%3F)
+* [Good Tiger — Kimbal](https://www.last.fm/music/Good+Tiger/_/Kimbal)
+* [Royal Coda — Becoming The Memory](https://www.last.fm/music/Royal+Coda/_/Becoming+The+Memory)
 * [sadeyes — i&#39;m not okay](https://www.last.fm/music/sadeyes/_/i%27m+not+okay)
-* [Teqkoi — I&#39;m Not Enough and I&#39;m Sorry](https://www.last.fm/music/Teqkoi/_/I%27m+Not+Enough+and+I%27m+Sorry)
-* [LIL DUSTY G — LET GO](https://www.last.fm/music/LIL+DUSTY+G/_/LET+GO)
-* [Skinny Atlas — you never meant it](https://www.last.fm/music/Skinny+Atlas/_/you+never+meant+it)
-* [BPM15Q — Kyo You Mu](https://www.last.fm/music/BPM15Q/_/Kyo+You+Mu)<!-- LASTFM:END -->
+* [Teqkoi — I&#39;m Not Enough and I&#39;m Sorry](https://www.last.fm/music/Teqkoi/_/I%27m+Not+Enough+and+I%27m+Sorry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
