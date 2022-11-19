@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Byemilo — SAM&#39;s Freestyle](https://www.last.fm/music/Byemilo/_/SAM%27s+Freestyle)
+* [The Long Faces — Sail Away](https://www.last.fm/music/The+Long+Faces/_/Sail+Away)
 * [Sybyr — Then We Get Nast&lpar;y&rpar;](https://www.last.fm/music/Sybyr/_/Then+We+Get+Nast&lpar;y&rpar;)
 * [nihmune — Nostalgic Sunshine](https://www.last.fm/music/nihmune/_/Nostalgic+Sunshine)
-* [So Much Light — Simple and Clean](https://www.last.fm/music/So+Much+Light/_/Simple+and+Clean)
-* [Kid Bloom — I Kissed A Girl, And She Kissed Me](https://www.last.fm/music/Kid+Bloom/_/I+Kissed+A+Girl,+And+She+Kissed+Me)
-* [Dan Mason ダン·メイソン — Melatonin High - Rework 2021](https://www.last.fm/music/Dan+Mason+%E3%83%80%E3%83%B3%C2%B7%E3%83%A1%E3%82%A4%E3%82%BD%E3%83%B3/_/Melatonin+High+-+Rework+2021)<!-- LASTFM:END -->
+* [So Much Light — Simple and Clean](https://www.last.fm/music/So+Much+Light/_/Simple+and+Clean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
