@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hundredth — Too Late](https://www.last.fm/music/Hundredth/_/Too+Late)
+* [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)
+* [James Ivy — Pushin&#39; Thru It](https://www.last.fm/music/James+Ivy/_/Pushin%27+Thru+It)
 * [Daniel Koestner — Raccoon House Music](https://www.last.fm/music/Daniel+Koestner/_/Raccoon+House+Music)
-* [Mirrored Theory — Imagine](https://www.last.fm/music/Mirrored+Theory/_/Imagine)
-* [NUU$HI — Sakura VIP](https://www.last.fm/music/NUU$HI/_/Sakura+VIP)
-* [Yutaka Yamada — Alone - Soru Remix](https://www.last.fm/music/Yutaka+Yamada/_/Alone+-+Soru+Remix)
-* [Byemilo — SAM&#39;s Freestyle](https://www.last.fm/music/Byemilo/_/SAM%27s+Freestyle)<!-- LASTFM:END -->
+* [Mirrored Theory — Imagine](https://www.last.fm/music/Mirrored+Theory/_/Imagine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
