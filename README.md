@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Daniel Koestner — Raccoon House Music](https://www.last.fm/music/Daniel+Koestner/_/Raccoon+House+Music)
+* [Mirrored Theory — Imagine](https://www.last.fm/music/Mirrored+Theory/_/Imagine)
 * [NUU$HI — Sakura VIP](https://www.last.fm/music/NUU$HI/_/Sakura+VIP)
 * [Yutaka Yamada — Alone - Soru Remix](https://www.last.fm/music/Yutaka+Yamada/_/Alone+-+Soru+Remix)
-* [Byemilo — SAM&#39;s Freestyle](https://www.last.fm/music/Byemilo/_/SAM%27s+Freestyle)
-* [The Long Faces — Sail Away](https://www.last.fm/music/The+Long+Faces/_/Sail+Away)
-* [Sybyr — Then We Get Nast&lpar;y&rpar;](https://www.last.fm/music/Sybyr/_/Then+We+Get+Nast&lpar;y&rpar;)<!-- LASTFM:END -->
+* [Byemilo — SAM&#39;s Freestyle](https://www.last.fm/music/Byemilo/_/SAM%27s+Freestyle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
