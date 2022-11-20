@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Genesis &lpar;feat. Brasstracks&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;feat.+Brasstracks&rpar;)
+* [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)
 * [Polyphia — Fuck Around and Find Out &lpar;feat. $not&rpar;](https://www.last.fm/music/Polyphia/_/Fuck+Around+and+Find+Out+&lpar;feat.+$not&rpar;)
 * [Polyphia — Chimera &lpar;feat. Lil West&rpar;](https://www.last.fm/music/Polyphia/_/Chimera+&lpar;feat.+Lil+West&rpar;)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)<!-- LASTFM:END -->
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
