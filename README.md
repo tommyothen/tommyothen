@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [AnimalJam — Sertraline](https://www.last.fm/music/AnimalJam/_/Sertraline)
-* [maxime. — read ‎receipts](https://www.last.fm/music/maxime./_/read+%E2%80%8Ereceipts)
+* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
+* [LUCAS LEX — blame it on your love](https://www.last.fm/music/LUCAS+LEX/_/blame+it+on+your+love)
 * [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Polyphia — Memento Mori &lpar;feat. Killstation&rpar;](https://www.last.fm/music/Polyphia/_/Memento+Mori+&lpar;feat.+Killstation&rpar;)<!-- LASTFM:END -->
+* [AnimalJam — Sertraline](https://www.last.fm/music/AnimalJam/_/Sertraline)
+* [maxime. — read ‎receipts](https://www.last.fm/music/maxime./_/read+%E2%80%8Ereceipts)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
