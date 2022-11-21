@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [AnimalJam — Sertraline](https://www.last.fm/music/AnimalJam/_/Sertraline)
+* [maxime. — read ‎receipts](https://www.last.fm/music/maxime./_/read+%E2%80%8Ereceipts)
 * [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
 * [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Polyphia — Memento Mori &lpar;feat. Killstation&rpar;](https://www.last.fm/music/Polyphia/_/Memento+Mori+&lpar;feat.+Killstation&rpar;)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)<!-- LASTFM:END -->
+* [Polyphia — Memento Mori &lpar;feat. Killstation&rpar;](https://www.last.fm/music/Polyphia/_/Memento+Mori+&lpar;feat.+Killstation&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
