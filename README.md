@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Miind — distraction](https://www.last.fm/music/Miind/_/distraction)
+* [SPEC — Losin&#39; It](https://www.last.fm/music/SPEC/_/Losin%27+It)
 * [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
 * [LUCAS LEX — blame it on your love](https://www.last.fm/music/LUCAS+LEX/_/blame+it+on+your+love)
-* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
-* [AnimalJam — Sertraline](https://www.last.fm/music/AnimalJam/_/Sertraline)
-* [maxime. — read ‎receipts](https://www.last.fm/music/maxime./_/read+%E2%80%8Ereceipts)<!-- LASTFM:END -->
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
