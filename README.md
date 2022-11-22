@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
+* [BLACKPINK — Shut Down](https://www.last.fm/music/BLACKPINK/_/Shut+Down)
 * [XG — MASCARA](https://www.last.fm/music/XG/_/MASCARA)
 * [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
-* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
-* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)
-* [Glass Animals — Tokyo Drifting &lpar;with Denzel Curry&rpar;](https://www.last.fm/music/Glass+Animals/_/Tokyo+Drifting+&lpar;with+Denzel+Curry&rpar;)<!-- LASTFM:END -->
+* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
