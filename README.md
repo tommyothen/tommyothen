@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Seafloor Cinema — Crash Nebula... On Ice!](https://www.last.fm/music/The+Seafloor+Cinema/_/Crash+Nebula...+On+Ice!)
+* [CommonWealth — Fear](https://www.last.fm/music/CommonWealth/_/Fear)
 * [ur pretty — I&#39;ll Never Let You Go](https://www.last.fm/music/ur+pretty/_/I%27ll+Never+Let+You+Go)
 * [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
-* [Starjunk 95 — Groove District](https://www.last.fm/music/Starjunk+95/_/Groove+District)
-* [Starjunk 95 — Stardust Circuit](https://www.last.fm/music/Starjunk+95/_/Stardust+Circuit)
-* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)<!-- LASTFM:END -->
+* [Starjunk 95 — Groove District](https://www.last.fm/music/Starjunk+95/_/Groove+District)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
