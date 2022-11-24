@@ -28,9 +28,9 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
-* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
-* [ur pretty — I&#39;ll Never Let You Go](https://www.last.fm/music/ur+pretty/_/I%27ll+Never+Let+You+Go)
+* [BPM15Q — Kyo You Mu](https://www.last.fm/music/BPM15Q/_/Kyo+You+Mu)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
 * [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
 * [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)<!-- LASTFM:END -->
 
