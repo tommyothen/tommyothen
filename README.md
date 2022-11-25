@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
+* [Crypton — The Ghost In Me](https://www.last.fm/music/Crypton/_/The+Ghost+In+Me)
+* [Mr. Bassmeister — Bong Bong](https://www.last.fm/music/Mr.+Bassmeister/_/Bong+Bong)
 * [Vandal — Warriors](https://www.last.fm/music/Vandal/_/Warriors)
-* [Billx — Ceremony](https://www.last.fm/music/Billx/_/Ceremony)
-* [JKLL — I Don&#39;t Care](https://www.last.fm/music/JKLL/_/I+Don%27t+Care)
-* [Crypton — Bonded](https://www.last.fm/music/Crypton/_/Bonded)
-* [Francesco Zeta — Rock N&#39; Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)<!-- LASTFM:END -->
+* [Billx — Ceremony](https://www.last.fm/music/Billx/_/Ceremony)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
