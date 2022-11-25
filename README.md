@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [uglyboy — Молодой](https://www.last.fm/music/uglyboy/_/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9)
 * [Hotzzen — Russian Criminality](https://www.last.fm/music/Hotzzen/_/Russian+Criminality)
 * [poproboval — НА ТАКСИ](https://www.last.fm/music/poproboval/_/%D0%9D%D0%90+%D0%A2%D0%90%D0%9A%D0%A1%D0%98)
 * [хрися — нокия](https://www.last.fm/music/%D1%85%D1%80%D0%B8%D1%81%D1%8F/_/%D0%BD%D0%BE%D0%BA%D0%B8%D1%8F)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)<!-- LASTFM:END -->
+* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
