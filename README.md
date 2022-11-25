@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vandal — Warriors](https://www.last.fm/music/Vandal/_/Warriors)
 * [Billx — Ceremony](https://www.last.fm/music/Billx/_/Ceremony)
 * [JKLL — I Don&#39;t Care](https://www.last.fm/music/JKLL/_/I+Don%27t+Care)
 * [Crypton — Bonded](https://www.last.fm/music/Crypton/_/Bonded)
-* [Francesco Zeta — Rock N&#39; Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)
-* [General Guyble — - Bring &#39;Em](https://www.last.fm/music/General+Guyble/_/-+Bring+%27Em)<!-- LASTFM:END -->
+* [Francesco Zeta — Rock N&#39; Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
