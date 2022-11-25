@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tevvez — Sigma](https://www.last.fm/music/Tevvez/_/Sigma)
+* [yosuf — Tren](https://www.last.fm/music/yosuf/_/Tren)
 * [Tevvez — Legend](https://www.last.fm/music/Tevvez/_/Legend)
 * [Dionysus — FVCKED UP](https://www.last.fm/music/Dionysus/_/FVCKED+UP)
-* [Olivia Rodrigo — jealousy, jealousy](https://www.last.fm/music/Olivia+Rodrigo/_/jealousy,+jealousy)
-* [Internet Girl — living far away](https://www.last.fm/music/Internet+Girl/_/living+far+away)
-* [BPM15Q — Kyo You Mu](https://www.last.fm/music/BPM15Q/_/Kyo+You+Mu)<!-- LASTFM:END -->
+* [Olivia Rodrigo — jealousy, jealousy](https://www.last.fm/music/Olivia+Rodrigo/_/jealousy,+jealousy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
