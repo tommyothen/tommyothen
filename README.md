@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billx — Ceremony](https://www.last.fm/music/Billx/_/Ceremony)
+* [JKLL — I Don&#39;t Care](https://www.last.fm/music/JKLL/_/I+Don%27t+Care)
 * [Crypton — Bonded](https://www.last.fm/music/Crypton/_/Bonded)
 * [Francesco Zeta — Rock N&#39; Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)
-* [General Guyble — - Bring &#39;Em](https://www.last.fm/music/General+Guyble/_/-+Bring+%27Em)
-* [Mr. Bassmeister — Hot](https://www.last.fm/music/Mr.+Bassmeister/_/Hot)
-* [DLB — биг тейсти](https://www.last.fm/music/DLB/_/%D0%B1%D0%B8%D0%B3+%D1%82%D0%B5%D0%B9%D1%81%D1%82%D0%B8)<!-- LASTFM:END -->
+* [General Guyble — - Bring &#39;Em](https://www.last.fm/music/General+Guyble/_/-+Bring+%27Em)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
