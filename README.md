@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
-* [Crypton — The Ghost In Me](https://www.last.fm/music/Crypton/_/The+Ghost+In+Me)
-* [Mr. Bassmeister — Bong Bong](https://www.last.fm/music/Mr.+Bassmeister/_/Bong+Bong)
-* [Vandal — Warriors](https://www.last.fm/music/Vandal/_/Warriors)
-* [Billx — Ceremony](https://www.last.fm/music/Billx/_/Ceremony)<!-- LASTFM:END -->
+* [Hotzzen — Russian Criminality](https://www.last.fm/music/Hotzzen/_/Russian+Criminality)
+* [poproboval — НА ТАКСИ](https://www.last.fm/music/poproboval/_/%D0%9D%D0%90+%D0%A2%D0%90%D0%9A%D0%A1%D0%98)
+* [хрися — нокия](https://www.last.fm/music/%D1%85%D1%80%D0%B8%D1%81%D1%8F/_/%D0%BD%D0%BE%D0%BA%D0%B8%D1%8F)
+* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
+* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
