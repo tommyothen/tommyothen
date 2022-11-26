@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Porter Robinson — Goodbye To A World](https://www.last.fm/music/Porter+Robinson/_/Goodbye+To+A+World)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [SICK LEGEND — LIGHTS HARDSTYLE SPED UP REMIX](https://www.last.fm/music/SICK+LEGEND/_/LIGHTS+HARDSTYLE+SPED+UP+REMIX)<!-- LASTFM:END -->
+* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Porter Robinson — Shelter](https://www.last.fm/music/Porter+Robinson/_/Shelter)
+* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
+* [Porter Robinson — Goodbye To A World](https://www.last.fm/music/Porter+Robinson/_/Goodbye+To+A+World)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
