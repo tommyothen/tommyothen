@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dark Cat — Hot Chocolate](https://www.last.fm/music/Dark+Cat/_/Hot+Chocolate)
+* [Joji — Worldstar Money &lpar;Interlude&rpar;](https://www.last.fm/music/Joji/_/Worldstar+Money+&lpar;Interlude&rpar;)
+* [pxzvc — Bad Idea](https://www.last.fm/music/pxzvc/_/Bad+Idea)
 * [11:11 Music Group — Past Lives](https://www.last.fm/music/11:11+Music+Group/_/Past+Lives)
-* [glue70 — Casin](https://www.last.fm/music/glue70/_/Casin)
-* [Haywyre — Insight](https://www.last.fm/music/Haywyre/_/Insight)
-* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [glue70 — Casin](https://www.last.fm/music/glue70/_/Casin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
