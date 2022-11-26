@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [11:11 Music Group — Past Lives](https://www.last.fm/music/11:11+Music+Group/_/Past+Lives)
+* [glue70 — Casin](https://www.last.fm/music/glue70/_/Casin)
+* [Haywyre — Insight](https://www.last.fm/music/Haywyre/_/Insight)
 * [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Porter Robinson — Shelter](https://www.last.fm/music/Porter+Robinson/_/Shelter)
-* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)
-* [Porter Robinson — Goodbye To A World](https://www.last.fm/music/Porter+Robinson/_/Goodbye+To+A+World)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
