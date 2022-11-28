@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
 * [Kute — AVOID ME 2 - Sped Up](https://www.last.fm/music/Kute/_/AVOID+ME+2+-+Sped+Up)
 * [Dxrk ダーク — DO OR DIE](https://www.last.fm/music/Dxrk+%E3%83%80%E3%83%BC%E3%82%AF/_/DO+OR+DIE)
 * [SICK LEGEND — JUST DANCE HARDSTYLE](https://www.last.fm/music/SICK+LEGEND/_/JUST+DANCE+HARDSTYLE)
-* [Xantesha — SUNRISE](https://www.last.fm/music/Xantesha/_/SUNRISE)
-* [crypvolk — Can You Feel My Heart &lpar;Hardstyle&rpar;](https://www.last.fm/music/crypvolk/_/Can+You+Feel+My+Heart+&lpar;Hardstyle&rpar;)<!-- LASTFM:END -->
+* [Xantesha — SUNRISE](https://www.last.fm/music/Xantesha/_/SUNRISE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
