@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Polyphia — O.D.](https://www.last.fm/music/Polyphia/_/O.D.)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)<!-- LASTFM:END -->
+* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
+* [Tomorrow — ННД](https://www.last.fm/music/Tomorrow/_/%D0%9D%D0%9D%D0%94)
+* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
+* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
+* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
