@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [crypvolk — Can You Feel My Heart &lpar;Hardstyle&rpar;](https://www.last.fm/music/crypvolk/_/Can+You+Feel+My+Heart+&lpar;Hardstyle&rpar;)
 * [Tomorrow — ННД](https://www.last.fm/music/Tomorrow/_/%D0%9D%D0%9D%D0%94)
 * [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
 * [yosuf — Tren](https://www.last.fm/music/yosuf/_/Tren)
-* [Yvetzal — Miss The Rage - Phonk Remix](https://www.last.fm/music/Yvetzal/_/Miss+The+Rage+-+Phonk+Remix)
-* [Mupp — vendetta! - sped up](https://www.last.fm/music/Mupp/_/vendetta!+-+sped+up)<!-- LASTFM:END -->
+* [Yvetzal — Miss The Rage - Phonk Remix](https://www.last.fm/music/Yvetzal/_/Miss+The+Rage+-+Phonk+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
