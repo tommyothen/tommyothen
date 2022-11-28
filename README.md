@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kordhell — Murder In My Mind](https://www.last.fm/music/Kordhell/_/Murder+In+My+Mind)
-* [Kute — AVOID ME](https://www.last.fm/music/Kute/_/AVOID+ME)
-* [yosuf — Barbatos](https://www.last.fm/music/yosuf/_/Barbatos)
-* [Dxrk ダーク — Phonk Web](https://www.last.fm/music/Dxrk+%E3%83%80%E3%83%BC%E3%82%AF/_/Phonk+Web)
-* [OFFL1NX — UPGRADE](https://www.last.fm/music/OFFL1NX/_/UPGRADE)<!-- LASTFM:END -->
+* [Yvetzal — Miss The Rage - Phonk Remix](https://www.last.fm/music/Yvetzal/_/Miss+The+Rage+-+Phonk+Remix)
+* [Mupp — vendetta! - sped up](https://www.last.fm/music/Mupp/_/vendetta!+-+sped+up)
+* [DVRST — I Hate You I Love You](https://www.last.fm/music/DVRST/_/I+Hate+You+I+Love+You)
+* [Poseidon — S&amp;M - HARDSTYLE](https://www.last.fm/music/Poseidon/_/S&amp;M+-+HARDSTYLE)
+* [Kordhell — Murder In My Mind](https://www.last.fm/music/Kordhell/_/Murder+In+My+Mind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
