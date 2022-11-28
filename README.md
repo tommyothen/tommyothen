@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
-* [Kute — AVOID ME 2 - Sped Up](https://www.last.fm/music/Kute/_/AVOID+ME+2+-+Sped+Up)
-* [Dxrk ダーク — DO OR DIE](https://www.last.fm/music/Dxrk+%E3%83%80%E3%83%BC%E3%82%AF/_/DO+OR+DIE)
-* [SICK LEGEND — JUST DANCE HARDSTYLE](https://www.last.fm/music/SICK+LEGEND/_/JUST+DANCE+HARDSTYLE)
-* [Xantesha — SUNRISE](https://www.last.fm/music/Xantesha/_/SUNRISE)<!-- LASTFM:END -->
+* [Dxrk ダーク — Phonk Web](https://www.last.fm/music/Dxrk+%E3%83%80%E3%83%BC%E3%82%AF/_/Phonk+Web)
+* [OFFL1NX — UPGRADE](https://www.last.fm/music/OFFL1NX/_/UPGRADE)
+* [4Wheel — KERAUNOS KILLER - Speed Up](https://www.last.fm/music/4Wheel/_/KERAUNOS+KILLER+-+Speed+Up)
+* [Funk Tribu — Phonky Tribu](https://www.last.fm/music/Funk+Tribu/_/Phonky+Tribu)
+* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
