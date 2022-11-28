@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [crypvolk — Can You Feel My Heart &lpar;Hardstyle&rpar;](https://www.last.fm/music/crypvolk/_/Can+You+Feel+My+Heart+&lpar;Hardstyle&rpar;)
-* [Tomorrow — ННД](https://www.last.fm/music/Tomorrow/_/%D0%9D%D0%9D%D0%94)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [Tomorrow — ННД](https://www.last.fm/music/Tomorrow/_/%D0%9D%D0%9D%D0%94)<!-- LASTFM:END -->
+* [Kute — AVOID ME 2 - Sped Up](https://www.last.fm/music/Kute/_/AVOID+ME+2+-+Sped+Up)
+* [Dxrk ダーク — DO OR DIE](https://www.last.fm/music/Dxrk+%E3%83%80%E3%83%BC%E3%82%AF/_/DO+OR+DIE)
+* [SICK LEGEND — JUST DANCE HARDSTYLE](https://www.last.fm/music/SICK+LEGEND/_/JUST+DANCE+HARDSTYLE)
+* [Xantesha — SUNRISE](https://www.last.fm/music/Xantesha/_/SUNRISE)
+* [crypvolk — Can You Feel My Heart &lpar;Hardstyle&rpar;](https://www.last.fm/music/crypvolk/_/Can+You+Feel+My+Heart+&lpar;Hardstyle&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
