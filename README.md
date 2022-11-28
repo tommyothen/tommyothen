@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tomorrow — ННД](https://www.last.fm/music/Tomorrow/_/%D0%9D%D0%9D%D0%94)
+* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
+* [yosuf — Tren](https://www.last.fm/music/yosuf/_/Tren)
 * [Yvetzal — Miss The Rage - Phonk Remix](https://www.last.fm/music/Yvetzal/_/Miss+The+Rage+-+Phonk+Remix)
-* [Mupp — vendetta! - sped up](https://www.last.fm/music/Mupp/_/vendetta!+-+sped+up)
-* [DVRST — I Hate You I Love You](https://www.last.fm/music/DVRST/_/I+Hate+You+I+Love+You)
-* [Poseidon — S&amp;M - HARDSTYLE](https://www.last.fm/music/Poseidon/_/S&amp;M+-+HARDSTYLE)
-* [Kordhell — Murder In My Mind](https://www.last.fm/music/Kordhell/_/Murder+In+My+Mind)<!-- LASTFM:END -->
+* [Mupp — vendetta! - sped up](https://www.last.fm/music/Mupp/_/vendetta!+-+sped+up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
