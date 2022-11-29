@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Rich Kids](https://www.last.fm/music/Polyphia/_/Rich+Kids)
+* [Polyphia — So Strange](https://www.last.fm/music/Polyphia/_/So+Strange)
 * [Polyphia — Yas](https://www.last.fm/music/Polyphia/_/Yas)
 * [Polyphia — Saucy](https://www.last.fm/music/Polyphia/_/Saucy)
-* [Polyphia — Drown](https://www.last.fm/music/Polyphia/_/Drown)
-* [Polyphia — Bad](https://www.last.fm/music/Polyphia/_/Bad)
-* [Polyphia — Death Note](https://www.last.fm/music/Polyphia/_/Death+Note)<!-- LASTFM:END -->
+* [Polyphia — Drown](https://www.last.fm/music/Polyphia/_/Drown)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
