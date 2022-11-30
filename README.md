@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
+* [Kylie Minogue — Can&#39;t Get You Out of My Head](https://www.last.fm/music/Kylie+Minogue/_/Can%27t+Get+You+Out+of+My+Head)
+* [Madonna — Like a Virgin](https://www.last.fm/music/Madonna/_/Like+a+Virgin)
 * [Madonna — Material Girl](https://www.last.fm/music/Madonna/_/Material+Girl)
-* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
-* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
-* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)<!-- LASTFM:END -->
+* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
