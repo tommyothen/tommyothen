@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Girls Aloud — Sound of the Underground](https://www.last.fm/music/Girls+Aloud/_/Sound+of+the+Underground)
+* [Madonna — Jimmy Jimmy](https://www.last.fm/music/Madonna/_/Jimmy+Jimmy)
 * [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
 * [Kylie Minogue — Can&#39;t Get You Out of My Head](https://www.last.fm/music/Kylie+Minogue/_/Can%27t+Get+You+Out+of+My+Head)
-* [Madonna — Like a Virgin](https://www.last.fm/music/Madonna/_/Like+a+Virgin)
-* [Madonna — Material Girl](https://www.last.fm/music/Madonna/_/Material+Girl)
-* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)<!-- LASTFM:END -->
+* [Madonna — Like a Virgin](https://www.last.fm/music/Madonna/_/Like+a+Virgin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
