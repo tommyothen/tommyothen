@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rihanna — Shut Up and Drive](https://www.last.fm/music/Rihanna/_/Shut+Up+and+Drive)
+* [Britney Spears — Toxic](https://www.last.fm/music/Britney+Spears/_/Toxic)
+* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)
 * [Girls Aloud — Sound of the Underground](https://www.last.fm/music/Girls+Aloud/_/Sound+of+the+Underground)
-* [Madonna — Jimmy Jimmy](https://www.last.fm/music/Madonna/_/Jimmy+Jimmy)
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
-* [Kylie Minogue — Can&#39;t Get You Out of My Head](https://www.last.fm/music/Kylie+Minogue/_/Can%27t+Get+You+Out+of+My+Head)
-* [Madonna — Like a Virgin](https://www.last.fm/music/Madonna/_/Like+a+Virgin)<!-- LASTFM:END -->
+* [Madonna — Jimmy Jimmy](https://www.last.fm/music/Madonna/_/Jimmy+Jimmy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
