@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
 * [Rihanna — S&amp;M](https://www.last.fm/music/Rihanna/_/S&amp;M)
 * [Lady Gaga — Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)
 * [Michael Bublé — It&#39;s Beginning to Look a Lot Like Christmas](https://www.last.fm/music/Michael+Bubl%C3%A9/_/It%27s+Beginning+to+Look+a+Lot+Like+Christmas)
-* [Lady Gaga — Bad Romance](https://www.last.fm/music/Lady+Gaga/_/Bad+Romance)
-* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)<!-- LASTFM:END -->
+* [Lady Gaga — Bad Romance](https://www.last.fm/music/Lady+Gaga/_/Bad+Romance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
