@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bobby Helms — Jingle Bell Rock](https://www.last.fm/music/Bobby+Helms/_/Jingle+Bell+Rock)
+* [Eduardo XD — Sin City Slowed - Remix](https://www.last.fm/music/Eduardo+XD/_/Sin+City+Slowed+-+Remix)
 * [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)
 * [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
-* [Brenda Lee — Rockin&#39; Around the Christmas Tree](https://www.last.fm/music/Brenda+Lee/_/Rockin%27+Around+the+Christmas+Tree)
-* [Kylie Minogue — Can&#39;t Get You Out of My Head](https://www.last.fm/music/Kylie+Minogue/_/Can%27t+Get+You+Out+of+My+Head)
-* [Girls Aloud — Sound of the Underground](https://www.last.fm/music/Girls+Aloud/_/Sound+of+the+Underground)<!-- LASTFM:END -->
+* [Brenda Lee — Rockin&#39; Around the Christmas Tree](https://www.last.fm/music/Brenda+Lee/_/Rockin%27+Around+the+Christmas+Tree)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
