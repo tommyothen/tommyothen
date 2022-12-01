@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
 * [Katy Perry — California Gurls](https://www.last.fm/music/Katy+Perry/_/California+Gurls)
 * [Lady Gaga — Telephone](https://www.last.fm/music/Lady+Gaga/_/Telephone)
 * [Bobby Helms — Jingle Bell Rock](https://www.last.fm/music/Bobby+Helms/_/Jingle+Bell+Rock)
-* [Eduardo XD — Sin City Slowed - Remix](https://www.last.fm/music/Eduardo+XD/_/Sin+City+Slowed+-+Remix)
-* [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)<!-- LASTFM:END -->
+* [Eduardo XD — Sin City Slowed - Remix](https://www.last.fm/music/Eduardo+XD/_/Sin+City+Slowed+-+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
