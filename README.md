@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [yosuf — War](https://www.last.fm/music/yosuf/_/War)
-* [yosuf — Masteron](https://www.last.fm/music/yosuf/_/Masteron)
-* [yosuf — We&#39;re All Gonna Make It](https://www.last.fm/music/yosuf/_/We%27re+All+Gonna+Make+It)
-* [yosuf — HGH](https://www.last.fm/music/yosuf/_/HGH)
-* [yosuf — Tren](https://www.last.fm/music/yosuf/_/Tren)<!-- LASTFM:END -->
+* [yosuf — Tren 200mg](https://www.last.fm/music/yosuf/_/Tren+200mg)
+* [yosuf — Malika](https://www.last.fm/music/yosuf/_/Malika)
+* [Oliver Tree — Miss You - Remix](https://www.last.fm/music/Oliver+Tree/_/Miss+You+-+Remix)
+* [yosuf — You&#39;re On My Mind Broe &lpar;Parv0 Remix&rpar;](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe+&lpar;Parv0+Remix&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
