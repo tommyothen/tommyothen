@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Amen](https://www.last.fm/music/Rich+Brian/_/Amen)
+* [KANDYTOWN — Local Area &lpar;feat. Gottz, Neetz &amp; KEIJU&rpar;](https://www.last.fm/music/KANDYTOWN/_/Local+Area+&lpar;feat.+Gottz,+Neetz+&amp;+KEIJU&rpar;)
+* [DBangz — THICK NIGGAS AND ANIME TIDDIES](https://www.last.fm/music/DBangz/_/THICK+NIGGAS+AND+ANIME+TIDDIES)
 * [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
-* [Hobo Johnson — Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story)
-* [Made in M — Pero Asi](https://www.last.fm/music/Made+in+M/_/Pero+Asi)
-* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)<!-- LASTFM:END -->
+* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
