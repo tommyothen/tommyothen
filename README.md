@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Michael Bublé — It&#39;s Beginning to Look a Lot Like Christmas](https://www.last.fm/music/Michael+Bubl%C3%A9/_/It%27s+Beginning+to+Look+a+Lot+Like+Christmas)
+* [Lady Gaga — Bad Romance](https://www.last.fm/music/Lady+Gaga/_/Bad+Romance)
 * [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
 * [Katy Perry — California Gurls](https://www.last.fm/music/Katy+Perry/_/California+Gurls)
-* [Lady Gaga — Telephone](https://www.last.fm/music/Lady+Gaga/_/Telephone)
-* [Bobby Helms — Jingle Bell Rock](https://www.last.fm/music/Bobby+Helms/_/Jingle+Bell+Rock)
-* [Eduardo XD — Sin City Slowed - Remix](https://www.last.fm/music/Eduardo+XD/_/Sin+City+Slowed+-+Remix)<!-- LASTFM:END -->
+* [Lady Gaga — Telephone](https://www.last.fm/music/Lady+Gaga/_/Telephone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
