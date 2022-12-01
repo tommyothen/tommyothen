@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)
+* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
 * [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
 * [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
-* [PINK GUY — Fried Noodles &lpar;Getter Remix&rpar;](https://www.last.fm/music/PINK+GUY/_/Fried+Noodles+&lpar;Getter+Remix&rpar;)
-* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)
-* [TERROR REID — DEAD TO ME](https://www.last.fm/music/TERROR+REID/_/DEAD+TO+ME)<!-- LASTFM:END -->
+* [PINK GUY — Fried Noodles &lpar;Getter Remix&rpar;](https://www.last.fm/music/PINK+GUY/_/Fried+Noodles+&lpar;Getter+Remix&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
