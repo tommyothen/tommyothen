@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)
-* [bbno$ — edamame &lpar;feat. Rich Brian&rpar;](https://www.last.fm/music/bbno$/_/edamame+&lpar;feat.+Rich+Brian&rpar;)
-* [Tia — Deal with the devil](https://www.last.fm/music/Tia/_/Deal+with+the+devil)
-* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
-* [Eery — her](https://www.last.fm/music/Eery/_/her)<!-- LASTFM:END -->
+* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
+* [Hobo Johnson — Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story)
+* [Made in M — Pero Asi](https://www.last.fm/music/Made+in+M/_/Pero+Asi)
+* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
+* [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
