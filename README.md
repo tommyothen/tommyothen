@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
+* [Packy — Like This](https://www.last.fm/music/Packy/_/Like+This)
 * [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
-* [Dreamcatcher — GOOD NIGHT](https://www.last.fm/music/Dreamcatcher/_/GOOD+NIGHT)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)<!-- LASTFM:END -->
+* [Dreamcatcher — GOOD NIGHT](https://www.last.fm/music/Dreamcatcher/_/GOOD+NIGHT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
