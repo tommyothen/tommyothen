@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Niki — move!](https://www.last.fm/music/Niki/_/move!)
+* [c0nv0 — December](https://www.last.fm/music/c0nv0/_/December)
+* [CVLTE — Happy. &lpar;feat. 釈迦坊主&rpar;](https://www.last.fm/music/CVLTE/_/Happy.+&lpar;feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB&rpar;)
 * [Porter Robinson — Goodbye To A World](https://www.last.fm/music/Porter+Robinson/_/Goodbye+To+A+World)
-* [Oliver Tree — All I Got](https://www.last.fm/music/Oliver+Tree/_/All+I+Got)
-* [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)
-* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
-* [ur pretty — I&#39;ll Never Let You Go](https://www.last.fm/music/ur+pretty/_/I%27ll+Never+Let+You+Go)<!-- LASTFM:END -->
+* [Oliver Tree — All I Got](https://www.last.fm/music/Oliver+Tree/_/All+I+Got)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
