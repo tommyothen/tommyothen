@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
-* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
-* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)<!-- LASTFM:END -->
+* [yosuf — War](https://www.last.fm/music/yosuf/_/War)
+* [yosuf — Masteron](https://www.last.fm/music/yosuf/_/Masteron)
+* [yosuf — We&#39;re All Gonna Make It](https://www.last.fm/music/yosuf/_/We%27re+All+Gonna+Make+It)
+* [yosuf — HGH](https://www.last.fm/music/yosuf/_/HGH)
+* [yosuf — Tren](https://www.last.fm/music/yosuf/_/Tren)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
