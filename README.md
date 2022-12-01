@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
 * [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
 * [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
 * [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)<!-- LASTFM:END -->
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
