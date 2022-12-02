@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yvetzal — Miss The Rage - Phonk Remix](https://www.last.fm/music/Yvetzal/_/Miss+The+Rage+-+Phonk+Remix)
+* [PureMiND — Only Girl](https://www.last.fm/music/PureMiND/_/Only+Girl)
 * [Octatonez — Exorcist](https://www.last.fm/music/Octatonez/_/Exorcist)
 * [FORGOTTENAGE — End of the World](https://www.last.fm/music/FORGOTTENAGE/_/End+of+the+World)
-* [my!lane — This Feeling](https://www.last.fm/music/my!lane/_/This+Feeling)
-* [MIMIDEATH — Yoooooooooo](https://www.last.fm/music/MIMIDEATH/_/Yoooooooooo)
-* [SICK LEGEND — MISS YOU HARDSTYLE](https://www.last.fm/music/SICK+LEGEND/_/MISS+YOU+HARDSTYLE)<!-- LASTFM:END -->
+* [my!lane — This Feeling](https://www.last.fm/music/my!lane/_/This+Feeling)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
