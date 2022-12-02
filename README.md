@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SICK LEGEND — COOL FOR THE SUMMER SPED UP HARDSTYLE](https://www.last.fm/music/SICK+LEGEND/_/COOL+FOR+THE+SUMMER+SPED+UP+HARDSTYLE)
+* [HARDSTYLE CVNT — LIGHTS](https://www.last.fm/music/HARDSTYLE+CVNT/_/LIGHTS)
+* [HARDSTYLE DEMON — ON THE FLOOR](https://www.last.fm/music/HARDSTYLE+DEMON/_/ON+THE+FLOOR)
 * [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
-* [SICK LEGEND — PART OF ME HARDSTYLE &lpar;SPED UP&rpar;](https://www.last.fm/music/SICK+LEGEND/_/PART+OF+ME+HARDSTYLE+&lpar;SPED+UP&rpar;)
-* [yosuf — Skar](https://www.last.fm/music/yosuf/_/Skar)
-* [yosuf — We&#39;re All Gonna Make It](https://www.last.fm/music/yosuf/_/We%27re+All+Gonna+Make+It)
-* [Xantesha — SUNRISE](https://www.last.fm/music/Xantesha/_/SUNRISE)<!-- LASTFM:END -->
+* [SICK LEGEND — PART OF ME HARDSTYLE &lpar;SPED UP&rpar;](https://www.last.fm/music/SICK+LEGEND/_/PART+OF+ME+HARDSTYLE+&lpar;SPED+UP&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
