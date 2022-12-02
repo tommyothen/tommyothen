@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
 * [Cypis — Gdzie jest biały węgorz ? &lpar;Zejście&rpar;](https://www.last.fm/music/Cypis/_/Gdzie+jest+bia%C5%82y+w%C4%99gorz+%3F+&lpar;Zej%C5%9Bcie&rpar;)
 * [Cypis — Gdzie jest biały węgorz ? &lpar;Zejście&rpar;](https://www.last.fm/music/Cypis/_/Gdzie+jest+bia%C5%82y+w%C4%99gorz+%3F+&lpar;Zej%C5%9Bcie&rpar;)
 * [Cypis — Gdzie jest biały węgorz ? &lpar;Zejście&rpar;](https://www.last.fm/music/Cypis/_/Gdzie+jest+bia%C5%82y+w%C4%99gorz+%3F+&lpar;Zej%C5%9Bcie&rpar;)
-* [Cypis — Gdzie jest biały węgorz ? &lpar;Zejście&rpar;](https://www.last.fm/music/Cypis/_/Gdzie+jest+bia%C5%82y+w%C4%99gorz+%3F+&lpar;Zej%C5%9Bcie&rpar;)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)<!-- LASTFM:END -->
+* [Cypis — Gdzie jest biały węgorz ? &lpar;Zejście&rpar;](https://www.last.fm/music/Cypis/_/Gdzie+jest+bia%C5%82y+w%C4%99gorz+%3F+&lpar;Zej%C5%9Bcie&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
