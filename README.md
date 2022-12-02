@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [yosuf — Eternity](https://www.last.fm/music/yosuf/_/Eternity)
-* [yosuf — Dbol](https://www.last.fm/music/yosuf/_/Dbol)
-* [prodByLone — Stay High - Hardstyle Remix](https://www.last.fm/music/prodByLone/_/Stay+High+-+Hardstyle+Remix)
-* [crypvolk — Can You Feel My Heart &lpar;Hardstyle&rpar;](https://www.last.fm/music/crypvolk/_/Can+You+Feel+My+Heart+&lpar;Hardstyle&rpar;)
-* [Dionysus — FVCKED UP](https://www.last.fm/music/Dionysus/_/FVCKED+UP)<!-- LASTFM:END -->
+* [stxrz — Tokyo Night](https://www.last.fm/music/stxrz/_/Tokyo+Night)
+* [OBLXKQ — EUPHORIA SECRET](https://www.last.fm/music/OBLXKQ/_/EUPHORIA+SECRET)
+* [Shogun — Skyfire &lpar;Mixed&rpar;](https://www.last.fm/music/Shogun/_/Skyfire+&lpar;Mixed&rpar;)
+* [MC ORSEN — WARNING - Sped Up](https://www.last.fm/music/MC+ORSEN/_/WARNING+-+Sped+Up)
+* [HARDSTYLE DEMON — DISTURBIA](https://www.last.fm/music/HARDSTYLE+DEMON/_/DISTURBIA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
