@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katy Perry — Teenage Dream](https://www.last.fm/music/Katy+Perry/_/Teenage+Dream)
+* [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)
 * [Kesha — We R Who We R](https://www.last.fm/music/Kesha/_/We+R+Who+We+R)
 * [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
-* [Lady Gaga — Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)
-* [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)
-* [Katy Perry — California Gurls](https://www.last.fm/music/Katy+Perry/_/California+Gurls)<!-- LASTFM:END -->
+* [Lady Gaga — Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
