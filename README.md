@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Isolate.exe — Crystals](https://www.last.fm/music/Isolate.exe/_/Crystals)
-* [Kute — AVOID ME 2 - Sped Up](https://www.last.fm/music/Kute/_/AVOID+ME+2+-+Sped+Up)
-* [SHADXWBXRN — PRINCE OF DARKNESS](https://www.last.fm/music/SHADXWBXRN/_/PRINCE+OF+DARKNESS)
-* [Kute — AVOID ME](https://www.last.fm/music/Kute/_/AVOID+ME)
-* [Tomorrow — All The Things She Said](https://www.last.fm/music/Tomorrow/_/All+The+Things+She+Said)<!-- LASTFM:END -->
+* [MIMIDEATH — Yoooooooooo](https://www.last.fm/music/MIMIDEATH/_/Yoooooooooo)
+* [SICK LEGEND — MISS YOU HARDSTYLE](https://www.last.fm/music/SICK+LEGEND/_/MISS+YOU+HARDSTYLE)
+* [yosuf — Shevanni](https://www.last.fm/music/yosuf/_/Shevanni)
+* [yosuf — Tren](https://www.last.fm/music/yosuf/_/Tren)
+* [Isolate.exe — Crystals](https://www.last.fm/music/Isolate.exe/_/Crystals)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
