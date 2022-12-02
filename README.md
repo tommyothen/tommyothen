@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
 * [Kordhell — Scopin](https://www.last.fm/music/Kordhell/_/Scopin)
 * [DVRST — I Hate You I Love You](https://www.last.fm/music/DVRST/_/I+Hate+You+I+Love+You)
 * [DVRST — I Hate You I Love You](https://www.last.fm/music/DVRST/_/I+Hate+You+I+Love+You)
-* [SICK LEGEND — COOL FOR THE SUMMER SPED UP HARDSTYLE](https://www.last.fm/music/SICK+LEGEND/_/COOL+FOR+THE+SUMMER+SPED+UP+HARDSTYLE)
-* [HARDSTYLE CVNT — LIGHTS](https://www.last.fm/music/HARDSTYLE+CVNT/_/LIGHTS)<!-- LASTFM:END -->
+* [SICK LEGEND — COOL FOR THE SUMMER SPED UP HARDSTYLE](https://www.last.fm/music/SICK+LEGEND/_/COOL+FOR+THE+SUMMER+SPED+UP+HARDSTYLE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
