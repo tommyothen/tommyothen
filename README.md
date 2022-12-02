@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lady Gaga — Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)
+* [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)
 * [Katy Perry — California Gurls](https://www.last.fm/music/Katy+Perry/_/California+Gurls)
 * [Lady Gaga — Telephone](https://www.last.fm/music/Lady+Gaga/_/Telephone)
-* [Kesha — TiK ToK](https://www.last.fm/music/Kesha/_/TiK+ToK)
-* [Rihanna — Shut Up and Drive](https://www.last.fm/music/Rihanna/_/Shut+Up+and+Drive)
-* [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)<!-- LASTFM:END -->
+* [Kesha — TiK ToK](https://www.last.fm/music/Kesha/_/TiK+ToK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
