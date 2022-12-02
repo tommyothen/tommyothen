@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [stxrz — Tokyo Night](https://www.last.fm/music/stxrz/_/Tokyo+Night)
-* [OBLXKQ — EUPHORIA SECRET](https://www.last.fm/music/OBLXKQ/_/EUPHORIA+SECRET)
-* [Shogun — Skyfire &lpar;Mixed&rpar;](https://www.last.fm/music/Shogun/_/Skyfire+&lpar;Mixed&rpar;)
-* [MC ORSEN — WARNING - Sped Up](https://www.last.fm/music/MC+ORSEN/_/WARNING+-+Sped+Up)
-* [HARDSTYLE DEMON — DISTURBIA](https://www.last.fm/music/HARDSTYLE+DEMON/_/DISTURBIA)<!-- LASTFM:END -->
+* [Mupp — vendetta! - sped up](https://www.last.fm/music/Mupp/_/vendetta!+-+sped+up)
+* [SICK LEGEND — BETTER OFF ALONE HARDSTYLE SPED UP](https://www.last.fm/music/SICK+LEGEND/_/BETTER+OFF+ALONE+HARDSTYLE+SPED+UP)
+* [ANIZYZ — Stay With Me](https://www.last.fm/music/ANIZYZ/_/Stay+With+Me)
+* [SICK LEGEND — OUTSIDE HARDSTYLE SPED UP](https://www.last.fm/music/SICK+LEGEND/_/OUTSIDE+HARDSTYLE+SPED+UP)
+* [Elenius — Fuarkstyle](https://www.last.fm/music/Elenius/_/Fuarkstyle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
