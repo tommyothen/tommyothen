@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Octatonez — Exorcist](https://www.last.fm/music/Octatonez/_/Exorcist)
+* [FORGOTTENAGE — End of the World](https://www.last.fm/music/FORGOTTENAGE/_/End+of+the+World)
+* [my!lane — This Feeling](https://www.last.fm/music/my!lane/_/This+Feeling)
 * [MIMIDEATH — Yoooooooooo](https://www.last.fm/music/MIMIDEATH/_/Yoooooooooo)
-* [SICK LEGEND — MISS YOU HARDSTYLE](https://www.last.fm/music/SICK+LEGEND/_/MISS+YOU+HARDSTYLE)
-* [yosuf — Shevanni](https://www.last.fm/music/yosuf/_/Shevanni)
-* [yosuf — Tren](https://www.last.fm/music/yosuf/_/Tren)
-* [Isolate.exe — Crystals](https://www.last.fm/music/Isolate.exe/_/Crystals)<!-- LASTFM:END -->
+* [SICK LEGEND — MISS YOU HARDSTYLE](https://www.last.fm/music/SICK+LEGEND/_/MISS+YOU+HARDSTYLE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
