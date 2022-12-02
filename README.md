@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mupp — vendetta! - sped up](https://www.last.fm/music/Mupp/_/vendetta!+-+sped+up)
-* [SICK LEGEND — BETTER OFF ALONE HARDSTYLE SPED UP](https://www.last.fm/music/SICK+LEGEND/_/BETTER+OFF+ALONE+HARDSTYLE+SPED+UP)
-* [ANIZYZ — Stay With Me](https://www.last.fm/music/ANIZYZ/_/Stay+With+Me)
-* [SICK LEGEND — OUTSIDE HARDSTYLE SPED UP](https://www.last.fm/music/SICK+LEGEND/_/OUTSIDE+HARDSTYLE+SPED+UP)
-* [Elenius — Fuarkstyle](https://www.last.fm/music/Elenius/_/Fuarkstyle)<!-- LASTFM:END -->
+* [Isolate.exe — Crystals](https://www.last.fm/music/Isolate.exe/_/Crystals)
+* [Kute — AVOID ME 2 - Sped Up](https://www.last.fm/music/Kute/_/AVOID+ME+2+-+Sped+Up)
+* [SHADXWBXRN — PRINCE OF DARKNESS](https://www.last.fm/music/SHADXWBXRN/_/PRINCE+OF+DARKNESS)
+* [Kute — AVOID ME](https://www.last.fm/music/Kute/_/AVOID+ME)
+* [Tomorrow — All The Things She Said](https://www.last.fm/music/Tomorrow/_/All+The+Things+She+Said)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
