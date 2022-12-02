@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
-* [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
-* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)<!-- LASTFM:END -->
+* [yosuf — Eternity](https://www.last.fm/music/yosuf/_/Eternity)
+* [yosuf — Dbol](https://www.last.fm/music/yosuf/_/Dbol)
+* [prodByLone — Stay High - Hardstyle Remix](https://www.last.fm/music/prodByLone/_/Stay+High+-+Hardstyle+Remix)
+* [crypvolk — Can You Feel My Heart &lpar;Hardstyle&rpar;](https://www.last.fm/music/crypvolk/_/Can+You+Feel+My+Heart+&lpar;Hardstyle&rpar;)
+* [Dionysus — FVCKED UP](https://www.last.fm/music/Dionysus/_/FVCKED+UP)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
