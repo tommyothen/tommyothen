@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [yosuf — We&#39;re All Gonna Make It](https://www.last.fm/music/yosuf/_/We%27re+All+Gonna+Make+It)
+* [Xantesha — SUNRISE](https://www.last.fm/music/Xantesha/_/SUNRISE)
+* [SHADXWBXRN — ADRENALIN](https://www.last.fm/music/SHADXWBXRN/_/ADRENALIN)
 * [Yvetzal — Miss The Rage - Phonk Remix](https://www.last.fm/music/Yvetzal/_/Miss+The+Rage+-+Phonk+Remix)
-* [PureMiND — Only Girl](https://www.last.fm/music/PureMiND/_/Only+Girl)
-* [Octatonez — Exorcist](https://www.last.fm/music/Octatonez/_/Exorcist)
-* [FORGOTTENAGE — End of the World](https://www.last.fm/music/FORGOTTENAGE/_/End+of+the+World)
-* [my!lane — This Feeling](https://www.last.fm/music/my!lane/_/This+Feeling)<!-- LASTFM:END -->
+* [PureMiND — Only Girl](https://www.last.fm/music/PureMiND/_/Only+Girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
