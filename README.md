@@ -31,8 +31,8 @@ Now Playing\
 * [Cypis — Gdzie jest biały węgorz ? &lpar;Zejście&rpar;](https://www.last.fm/music/Cypis/_/Gdzie+jest+bia%C5%82y+w%C4%99gorz+%3F+&lpar;Zej%C5%9Bcie&rpar;)
 * [Cypis — Gdzie jest biały węgorz ? &lpar;Zejście&rpar;](https://www.last.fm/music/Cypis/_/Gdzie+jest+bia%C5%82y+w%C4%99gorz+%3F+&lpar;Zej%C5%9Bcie&rpar;)
 * [Cypis — Gdzie jest biały węgorz ? &lpar;Zejście&rpar;](https://www.last.fm/music/Cypis/_/Gdzie+jest+bia%C5%82y+w%C4%99gorz+%3F+&lpar;Zej%C5%9Bcie&rpar;)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
-* [Kordhell — Scopin](https://www.last.fm/music/Kordhell/_/Scopin)<!-- LASTFM:END -->
+* [Cypis — Gdzie jest biały węgorz ? &lpar;Zejście&rpar;](https://www.last.fm/music/Cypis/_/Gdzie+jest+bia%C5%82y+w%C4%99gorz+%3F+&lpar;Zej%C5%9Bcie&rpar;)
+* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
