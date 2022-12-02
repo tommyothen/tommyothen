@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jennifer Lopez — On The Floor - Radio Edit](https://www.last.fm/music/Jennifer+Lopez/_/On+The+Floor+-+Radio+Edit)
+* [Beyoncé — Single Ladies &lpar;Put a Ring on It&rpar;](https://www.last.fm/music/Beyonc%C3%A9/_/Single+Ladies+&lpar;Put+a+Ring+on+It&rpar;)
 * [Katy Perry — Teenage Dream](https://www.last.fm/music/Katy+Perry/_/Teenage+Dream)
 * [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)
-* [Kesha — We R Who We R](https://www.last.fm/music/Kesha/_/We+R+Who+We+R)
-* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
-* [Lady Gaga — Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)<!-- LASTFM:END -->
+* [Kesha — We R Who We R](https://www.last.fm/music/Kesha/_/We+R+Who+We+R)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
