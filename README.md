@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
+* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
 * [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
-* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
-* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)<!-- LASTFM:END -->
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
