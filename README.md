@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
-* [ur pretty — I&#39;ll Never Let You Go](https://www.last.fm/music/ur+pretty/_/I%27ll+Never+Let+You+Go)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)<!-- LASTFM:END -->
+* [ur pretty — I&#39;ll Never Let You Go](https://www.last.fm/music/ur+pretty/_/I%27ll+Never+Let+You+Go)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
