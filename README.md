@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
 * [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
 * [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)<!-- LASTFM:END -->
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
