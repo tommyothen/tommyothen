@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ur pretty — I&#39;ll Never Let You Go](https://www.last.fm/music/ur+pretty/_/I%27ll+Never+Let+You+Go)
+* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
+* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
 * [The Northern Boys — Party Time](https://www.last.fm/music/The+Northern+Boys/_/Party+Time)
-* [Internet Girl — living far away](https://www.last.fm/music/Internet+Girl/_/living+far+away)
-* [BPM15Q — Kyo You Mu](https://www.last.fm/music/BPM15Q/_/Kyo+You+Mu)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)<!-- LASTFM:END -->
+* [Internet Girl — living far away](https://www.last.fm/music/Internet+Girl/_/living+far+away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
