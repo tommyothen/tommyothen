@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
+* [Neck Deep — A Part of Me &lpar;feat. Laura Whiteside&rpar;](https://www.last.fm/music/Neck+Deep/_/A+Part+of+Me+&lpar;feat.+Laura+Whiteside&rpar;)
 * [ur pretty — I&#39;ll Never Let You Go](https://www.last.fm/music/ur+pretty/_/I%27ll+Never+Let+You+Go)
 * [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
-* [MCCAFFERTY — Bottom](https://www.last.fm/music/MCCAFFERTY/_/Bottom)
-* [The Front Bottoms — Lonely Eyes](https://www.last.fm/music/The+Front+Bottoms/_/Lonely+Eyes)<!-- LASTFM:END -->
+* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
