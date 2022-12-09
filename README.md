@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MCCAFFERTY — Bottom](https://www.last.fm/music/MCCAFFERTY/_/Bottom)
+* [The Front Bottoms — Lonely Eyes](https://www.last.fm/music/The+Front+Bottoms/_/Lonely+Eyes)
 * [The Front Bottoms — Be Nice to Me](https://www.last.fm/music/The+Front+Bottoms/_/Be+Nice+to+Me)
 * [Slaughter Beach, Dog — 104 degrees](https://www.last.fm/music/Slaughter+Beach,+Dog/_/104+degrees)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Modern Baseball — Your Graduation](https://www.last.fm/music/Modern+Baseball/_/Your+Graduation)
-* [It Looks Sad. — Creature](https://www.last.fm/music/It+Looks+Sad./_/Creature)<!-- LASTFM:END -->
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
