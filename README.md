@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
+* [The 1975 — Robbers](https://www.last.fm/music/The+1975/_/Robbers)
 * [The 1975 — She Way Out](https://www.last.fm/music/The+1975/_/She+Way+Out)
 * [The 1975 — When We Are Together](https://www.last.fm/music/The+1975/_/When+We+Are+Together)
-* [The 1975 — I&#39;m in Love With You](https://www.last.fm/music/The+1975/_/I%27m+in+Love+With+You)
-* [The 1975 — All I Need to Hear](https://www.last.fm/music/The+1975/_/All+I+Need+to+Hear)
-* [The 1975 — About You](https://www.last.fm/music/The+1975/_/About+You)<!-- LASTFM:END -->
+* [The 1975 — I&#39;m in Love With You](https://www.last.fm/music/The+1975/_/I%27m+in+Love+With+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
