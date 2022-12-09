@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
-* [The 1975 — Robbers](https://www.last.fm/music/The+1975/_/Robbers)
-* [The 1975 — She Way Out](https://www.last.fm/music/The+1975/_/She+Way+Out)
-* [The 1975 — When We Are Together](https://www.last.fm/music/The+1975/_/When+We+Are+Together)
-* [The 1975 — I&#39;m in Love With You](https://www.last.fm/music/The+1975/_/I%27m+in+Love+With+You)<!-- LASTFM:END -->
+* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
+* [Internet Girl — living far away](https://www.last.fm/music/Internet+Girl/_/living+far+away)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
