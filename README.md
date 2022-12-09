@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
 * [Swervy — ART GANG MONEY &lpar;Feat. Reddy&rpar;](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY+&lpar;Feat.+Reddy&rpar;)
 * [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
 * [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
-* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)<!-- LASTFM:END -->
+* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
