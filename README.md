@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The 1975 — About You](https://www.last.fm/music/The+1975/_/About+You)
+* [beabadoobee — Last Day on Earth](https://www.last.fm/music/beabadoobee/_/Last+Day+on+Earth)
 * [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
 * [Neck Deep — Wish You Were Here](https://www.last.fm/music/Neck+Deep/_/Wish+You+Were+Here)
-* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
-* [Neck Deep — A Part of Me &lpar;feat. Laura Whiteside&rpar;](https://www.last.fm/music/Neck+Deep/_/A+Part+of+Me+&lpar;feat.+Laura+Whiteside&rpar;)
-* [ur pretty — I&#39;ll Never Let You Go](https://www.last.fm/music/ur+pretty/_/I%27ll+Never+Let+You+Go)<!-- LASTFM:END -->
+* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
