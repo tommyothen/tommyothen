@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Britney Spears — Toxic](https://www.last.fm/music/Britney+Spears/_/Toxic)
-* [Rihanna — Shut Up and Drive](https://www.last.fm/music/Rihanna/_/Shut+Up+and+Drive)
-* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
-* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)<!-- LASTFM:END -->
+* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
+* [Cam Steady — Dead by Daylight](https://www.last.fm/music/Cam+Steady/_/Dead+by+Daylight)
+* [Valley of the Sun — Old Gods](https://www.last.fm/music/Valley+of+the+Sun/_/Old+Gods)
+* [Bo Burnham — Welcome to the Internet](https://www.last.fm/music/Bo+Burnham/_/Welcome+to+the+Internet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
