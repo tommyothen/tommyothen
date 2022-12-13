@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tony22 — cozy](https://www.last.fm/music/Tony22/_/cozy)
+* [Dyl Dion — see me now](https://www.last.fm/music/Dyl+Dion/_/see+me+now)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
 * [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
-* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)<!-- LASTFM:END -->
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
