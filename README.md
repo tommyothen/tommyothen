@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
-* [Cage the Elephant — Trouble](https://www.last.fm/music/Cage+the+Elephant/_/Trouble)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
-* [Cam Steady — Dead by Daylight](https://www.last.fm/music/Cam+Steady/_/Dead+by+Daylight)
-* [Valley of the Sun — Old Gods](https://www.last.fm/music/Valley+of+the+Sun/_/Old+Gods)<!-- LASTFM:END -->
+* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
+* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
+* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
+* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)
+* [Deko — Midnight Tokyo](https://www.last.fm/music/Deko/_/Midnight+Tokyo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
