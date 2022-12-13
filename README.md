@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
+* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Easy Life — OJPL](https://www.last.fm/music/Easy+Life/_/OJPL)
-* [MC Virgins — Trap Anthem](https://www.last.fm/music/MC+Virgins/_/Trap+Anthem)
-* [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Dizzee Rascal — Don&#39;t Gas Me](https://www.last.fm/music/Dizzee+Rascal/_/Don%27t+Gas+Me)<!-- LASTFM:END -->
+* [MC Virgins — Trap Anthem](https://www.last.fm/music/MC+Virgins/_/Trap+Anthem)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
