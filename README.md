@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jane Remover — homeswitcher](https://www.last.fm/music/Jane+Remover/_/homeswitcher)
+* [Eden — C&#39;est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
+* [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
 * [MISSIO — Rad Drugz](https://www.last.fm/music/MISSIO/_/Rad+Drugz)
-* [bbno$ — pouch](https://www.last.fm/music/bbno$/_/pouch)
-* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
-* [DNMO — Sick Of You](https://www.last.fm/music/DNMO/_/Sick+Of+You)
-* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)<!-- LASTFM:END -->
+* [bbno$ — pouch](https://www.last.fm/music/bbno$/_/pouch)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
