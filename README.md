@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vincente Void — 비통 &lpar;feat. Lynden Rook&rpar;](https://www.last.fm/music/Vincente+Void/_/%EB%B9%84%ED%86%B5+&lpar;feat.+Lynden+Rook&rpar;)
 * [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
 * [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)
 * [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)<!-- LASTFM:END -->
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
