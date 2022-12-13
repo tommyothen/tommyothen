@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
+* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
 * [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
 * [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
-* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
-* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
-* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)<!-- LASTFM:END -->
+* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
