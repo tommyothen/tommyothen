@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
-* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
-* [Starmaxx — Patient Zero](https://www.last.fm/music/Starmaxx/_/Patient+Zero)<!-- LASTFM:END -->
+* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
+* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
+* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
+* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
