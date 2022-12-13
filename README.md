@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kings Of The Rollers — Somebody Else](https://www.last.fm/music/Kings+Of+The+Rollers/_/Somebody+Else)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
 * [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
 * [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
-* [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)
-* [Tyler, the Creator — LUMBERJACK](https://www.last.fm/music/Tyler,+the+Creator/_/LUMBERJACK)
-* [LANDMVRKS — Lost in a Wave](https://www.last.fm/music/LANDMVRKS/_/Lost+in+a+Wave)<!-- LASTFM:END -->
+* [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
