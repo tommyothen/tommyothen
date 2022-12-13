@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [Polyphia — 87](https://www.last.fm/music/Polyphia/_/87)
 * [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
 * [Polyphia — Inferno](https://www.last.fm/music/Polyphia/_/Inferno)
-* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)
-* [uglyboy — Молодой](https://www.last.fm/music/uglyboy/_/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9)
-* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)<!-- LASTFM:END -->
+* [SKURT — Zaeboja](https://www.last.fm/music/SKURT/_/Zaeboja)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
