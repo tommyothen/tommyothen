@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
+* [Dizzee Rascal — Don&#39;t Gas Me](https://www.last.fm/music/Dizzee+Rascal/_/Don%27t+Gas+Me)
 * [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
 * [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
-* [YUI — again](https://www.last.fm/music/YUI/_/again)
-* [Bring Me the Horizon — Teardrops](https://www.last.fm/music/Bring+Me+the+Horizon/_/Teardrops)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)<!-- LASTFM:END -->
+* [YUI — again](https://www.last.fm/music/YUI/_/again)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
