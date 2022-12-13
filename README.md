@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
+* [Cage the Elephant — Trouble](https://www.last.fm/music/Cage+the+Elephant/_/Trouble)
 * [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
 * [Cam Steady — Dead by Daylight](https://www.last.fm/music/Cam+Steady/_/Dead+by+Daylight)
-* [Valley of the Sun — Old Gods](https://www.last.fm/music/Valley+of+the+Sun/_/Old+Gods)
-* [Bo Burnham — Welcome to the Internet](https://www.last.fm/music/Bo+Burnham/_/Welcome+to+the+Internet)<!-- LASTFM:END -->
+* [Valley of the Sun — Old Gods](https://www.last.fm/music/Valley+of+the+Sun/_/Old+Gods)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
