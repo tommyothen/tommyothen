@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)
 * [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
 * [Dizzee Rascal — Don&#39;t Gas Me](https://www.last.fm/music/Dizzee+Rascal/_/Don%27t+Gas+Me)
 * [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
-* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
-* [YUI — again](https://www.last.fm/music/YUI/_/again)<!-- LASTFM:END -->
+* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
