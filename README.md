@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lil Uzi Vert — XO TOUR Llif3](https://www.last.fm/music/Lil+Uzi+Vert/_/XO+TOUR+Llif3)
-* [Joji — Run](https://www.last.fm/music/Joji/_/Run)
-* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
-* [Bring Me the Horizon — Parasite Eve](https://www.last.fm/music/Bring+Me+the+Horizon/_/Parasite+Eve)
-* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)<!-- LASTFM:END -->
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
+* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
+* [Lil Uzi Vert — XO TOUR Llif3](https://www.last.fm/music/Lil+Uzi+Vert/_/XO+TOUR+Llif3)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
