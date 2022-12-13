@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
 * [High Tide Lofi — Sea Shanty 2 &lpar;Runescape&rpar;](https://www.last.fm/music/High+Tide+Lofi/_/Sea+Shanty+2+&lpar;Runescape&rpar;)
 * [Flume — Only Fans](https://www.last.fm/music/Flume/_/Only+Fans)
 * [Whethan — COMPLICATED &lpar;feat. aldn &amp; 8485&rpar;](https://www.last.fm/music/Whethan/_/COMPLICATED+&lpar;feat.+aldn+&amp;+8485&rpar;)
-* [Jane Remover — homeswitcher](https://www.last.fm/music/Jane+Remover/_/homeswitcher)
-* [Eden — C&#39;est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)<!-- LASTFM:END -->
+* [Jane Remover — homeswitcher](https://www.last.fm/music/Jane+Remover/_/homeswitcher)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
