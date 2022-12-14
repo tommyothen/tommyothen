@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Spice Girls — Wannabe](https://www.last.fm/music/Spice+Girls/_/Wannabe)
+* [Kesha — We R Who We R](https://www.last.fm/music/Kesha/_/We+R+Who+We+R)
+* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
 * [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)
-* [Cascada — Evacuate the Dancefloor](https://www.last.fm/music/Cascada/_/Evacuate+the+Dancefloor)
-* [Avril Lavigne — Girlfriend](https://www.last.fm/music/Avril+Lavigne/_/Girlfriend)
-* [Britney Spears — Toxic](https://www.last.fm/music/Britney+Spears/_/Toxic)
-* [Rihanna — Shut Up and Drive](https://www.last.fm/music/Rihanna/_/Shut+Up+and+Drive)<!-- LASTFM:END -->
+* [Cascada — Evacuate the Dancefloor](https://www.last.fm/music/Cascada/_/Evacuate+the+Dancefloor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
