@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Denton — Not Good Enough](https://www.last.fm/music/Denton/_/Not+Good+Enough)
 * [Oooz — dark opal scythe](https://www.last.fm/music/Oooz/_/dark+opal+scythe)
 * [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
 * [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
-* [The Chalkeaters — Furrýmon: Gotta Smash ’Em All!](https://www.last.fm/music/The+Chalkeaters/_/Furr%C3%BDmon:+Gotta+Smash+%E2%80%99Em+All!)
 * [The Chalkeaters — Furrýmon: Gotta Smash ’Em All!](https://www.last.fm/music/The+Chalkeaters/_/Furr%C3%BDmon:+Gotta+Smash+%E2%80%99Em+All!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
