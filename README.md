@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [SR — Welcome To Brixton](https://www.last.fm/music/SR/_/Welcome+To+Brixton)
-* [Knucks — Los Pollos Hermanos](https://www.last.fm/music/Knucks/_/Los+Pollos+Hermanos)
-* [Loose — Welcome To Moscow](https://www.last.fm/music/Loose/_/Welcome+To+Moscow)
+* [Post Malone — Hollywood&#39;s Bleeding](https://www.last.fm/music/Post+Malone/_/Hollywood%27s+Bleeding)
+* [SR — What&#39;s Good](https://www.last.fm/music/SR/_/What%27s+Good)
 * [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
-* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)<!-- LASTFM:END -->
+* [SR — Welcome To Brixton](https://www.last.fm/music/SR/_/Welcome+To+Brixton)
+* [Knucks — Los Pollos Hermanos](https://www.last.fm/music/Knucks/_/Los+Pollos+Hermanos)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
