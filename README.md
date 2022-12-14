@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Britney Spears — Oops!...I Did It Again](https://www.last.fm/music/Britney+Spears/_/Oops!...I+Did+It+Again)
+* [Lady Gaga — Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)
 * [P!nk — So What](https://www.last.fm/music/P!nk/_/So+What)
 * [Cascade — Evacuate The Dancefloor](https://www.last.fm/music/Cascade/_/Evacuate+The+Dancefloor)
-* [Spice Girls — Wannabe](https://www.last.fm/music/Spice+Girls/_/Wannabe)
-* [Kesha — We R Who We R](https://www.last.fm/music/Kesha/_/We+R+Who+We+R)
-* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)<!-- LASTFM:END -->
+* [Spice Girls — Wannabe](https://www.last.fm/music/Spice+Girls/_/Wannabe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
