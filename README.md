@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
 * [Britney Spears — Oops!...I Did It Again](https://www.last.fm/music/Britney+Spears/_/Oops!...I+Did+It+Again)
 * [Lady Gaga — Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)
 * [P!nk — So What](https://www.last.fm/music/P!nk/_/So+What)
-* [Cascade — Evacuate The Dancefloor](https://www.last.fm/music/Cascade/_/Evacuate+The+Dancefloor)
-* [Spice Girls — Wannabe](https://www.last.fm/music/Spice+Girls/_/Wannabe)<!-- LASTFM:END -->
+* [Cascade — Evacuate The Dancefloor](https://www.last.fm/music/Cascade/_/Evacuate+The+Dancefloor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
