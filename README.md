@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
 * [Tyler, the Creator — LUMBERJACK](https://www.last.fm/music/Tyler,+the+Creator/_/LUMBERJACK)
 * [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
 * [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
-* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
-* [Post Malone — Hollywood&#39;s Bleeding](https://www.last.fm/music/Post+Malone/_/Hollywood%27s+Bleeding)<!-- LASTFM:END -->
+* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
