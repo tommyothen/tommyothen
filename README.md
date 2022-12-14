@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [The Chalkeaters — Furrýmon: Gotta Smash ’Em All!](https://www.last.fm/music/The+Chalkeaters/_/Furr%C3%BDmon:+Gotta+Smash+%E2%80%99Em+All!)
-* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)<!-- LASTFM:END -->
+* [Joey Valence &amp; Brae — PUNK TACTICS](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/PUNK+TACTICS)
+* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
+* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
