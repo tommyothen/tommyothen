@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Joey Valence &amp; Brae — PUNK TACTICS](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/PUNK+TACTICS)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
-* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)<!-- LASTFM:END -->
+* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
+* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
+* [Billy Marchiafava — Indie Pop Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Indie+Pop+Type+Beat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
