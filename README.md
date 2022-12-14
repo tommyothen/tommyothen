@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
+* [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)
+* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
 * [Ham Sandwich — ITTY BITTY TITTY COMMITTEE](https://www.last.fm/music/Ham+Sandwich/_/ITTY+BITTY+TITTY+COMMITTEE)
-* [Ham Sandwich — ADDICTED TO MONSTER GIRLS](https://www.last.fm/music/Ham+Sandwich/_/ADDICTED+TO+MONSTER+GIRLS)
-* [The Chalkeaters — Furrýmon: Gotta Smash ’Em All!](https://www.last.fm/music/The+Chalkeaters/_/Furr%C3%BDmon:+Gotta+Smash+%E2%80%99Em+All!)
-* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
-* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)<!-- LASTFM:END -->
+* [Ham Sandwich — ADDICTED TO MONSTER GIRLS](https://www.last.fm/music/Ham+Sandwich/_/ADDICTED+TO+MONSTER+GIRLS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
