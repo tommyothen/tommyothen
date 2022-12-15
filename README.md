@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — Body F10ating in the Zero Gravity Space](https://www.last.fm/music/Camellia/_/Body+F10ating+in+the+Zero+Gravity+Space)
+* [P*Light — EVE](https://www.last.fm/music/P*Light/_/EVE)
+* [Camellia — GHOST - 2020 Halloween+++++++++ VIP](https://www.last.fm/music/Camellia/_/GHOST+-+2020+Halloween%252B%252B%252B%252B%252B%252B%252B%252B%252B+VIP)
 * [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)
-* [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)
-* [Camellia — Spin Eternally](https://www.last.fm/music/Camellia/_/Spin+Eternally)<!-- LASTFM:END -->
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
