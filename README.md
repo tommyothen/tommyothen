@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
 * [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)
 * [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)
 * [Camellia — Spin Eternally](https://www.last.fm/music/Camellia/_/Spin+Eternally)
-* [Slipknot — Sarcastrophe](https://www.last.fm/music/Slipknot/_/Sarcastrophe)
-* [Slipknot — The Devil in I](https://www.last.fm/music/Slipknot/_/The+Devil+in+I)<!-- LASTFM:END -->
+* [Slipknot — Sarcastrophe](https://www.last.fm/music/Slipknot/_/Sarcastrophe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
