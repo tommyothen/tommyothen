@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)
-* [Camellia — Body F10ating in the Zero Gravity Space](https://www.last.fm/music/Camellia/_/Body+F10ating+in+the+Zero+Gravity+Space)
-* [P*Light — EVE](https://www.last.fm/music/P*Light/_/EVE)
-* [Camellia — GHOST - 2020 Halloween+++++++++ VIP](https://www.last.fm/music/Camellia/_/GHOST+-+2020+Halloween%252B%252B%252B%252B%252B%252B%252B%252B%252B+VIP)
+* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
+* [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
 * [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
