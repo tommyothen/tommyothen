@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
-* [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)
-* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
-* [Lil Darkie — FUCK ALL OF YOU &lt;3](https://www.last.fm/music/Lil+Darkie/_/FUCK+ALL+OF+YOU+%3C3)
-* [Superlove — btw! i adore u](https://www.last.fm/music/Superlove/_/btw!+i+adore+u)<!-- LASTFM:END -->
+* [The Chalkeaters — Furrýmon: Gotta Smash ’Em All!](https://www.last.fm/music/The+Chalkeaters/_/Furr%C3%BDmon:+Gotta+Smash+%E2%80%99Em+All!)
+* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
+* [midwxst — Riddle](https://www.last.fm/music/midwxst/_/Riddle)
+* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
