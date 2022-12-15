@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
+* [Isaac Dunbar — pink party](https://www.last.fm/music/Isaac+Dunbar/_/pink+party)
 * [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
-* [Glaive — icarus](https://www.last.fm/music/Glaive/_/icarus)
-* [Glaive — fuck this town](https://www.last.fm/music/Glaive/_/fuck+this+town)<!-- LASTFM:END -->
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
