@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
 * [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
-* [Kloud — Satisfied - Chapter IV](https://www.last.fm/music/Kloud/_/Satisfied+-+Chapter+IV)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
