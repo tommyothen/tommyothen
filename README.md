@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)
-* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
-* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
-* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
-* [Eibell — You Know](https://www.last.fm/music/Eibell/_/You+Know)<!-- LASTFM:END -->
+* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
+* [ur pretty — I&#39;ll Never Let You Go](https://www.last.fm/music/ur+pretty/_/I%27ll+Never+Let+You+Go)
+* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
+* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
