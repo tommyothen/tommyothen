@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
+* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
 * [Frank Carter &amp; The Rattlesnakes — Kitty Sucker](https://www.last.fm/music/Frank+Carter+&amp;+The+Rattlesnakes/_/Kitty+Sucker)
 * [Rizzle Kicks — Down With The Trumpets](https://www.last.fm/music/Rizzle+Kicks/_/Down+With+The+Trumpets)
-* [Cavetown — Devil Town](https://www.last.fm/music/Cavetown/_/Devil+Town)
-* [Deftones — Sextape](https://www.last.fm/music/Deftones/_/Sextape)
-* [Jean Dawson — MENTHOL*](https://www.last.fm/music/Jean+Dawson/_/MENTHOL*)<!-- LASTFM:END -->
+* [Cavetown — Devil Town](https://www.last.fm/music/Cavetown/_/Devil+Town)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
