@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eery — her](https://www.last.fm/music/Eery/_/her)
+* [Ski Mask the Slump God — LIKE A SOCCER MOM](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/LIKE+A+SOCCER+MOM)
+* [XXXTENTACION — Moonlight](https://www.last.fm/music/XXXTENTACION/_/Moonlight)
 * [bbno$ — too easy](https://www.last.fm/music/bbno$/_/too+easy)
-* [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)
-* [Sharam Jey — Over You &lpar;feat. Moss Kena&rpar;](https://www.last.fm/music/Sharam+Jey/_/Over+You+&lpar;feat.+Moss+Kena&rpar;)
-* [Alpraz — La soupe aux choux &lpar;Drill Remix&rpar;](https://www.last.fm/music/Alpraz/_/La+soupe+aux+choux+&lpar;Drill+Remix&rpar;)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)<!-- LASTFM:END -->
+* [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
