@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [✧BRAINDAAMAGE✧ — how do you like your tea?](https://www.last.fm/music/%E2%9C%A7BRAINDAAMAGE%E2%9C%A7/_/how+do+you+like+your+tea%3F)
 * [All Time Low — Dear Maria, Count Me In](https://www.last.fm/music/All+Time+Low/_/Dear+Maria,+Count+Me+In)
 * [Blue Öyster Cult — &lpar;Don&#39;t Fear&rpar; The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/&lpar;Don%27t+Fear&rpar;+The+Reaper)
 * [Valley of the Sun — Old Gods](https://www.last.fm/music/Valley+of+the+Sun/_/Old+Gods)
-* [a36 — Alé Alé](https://www.last.fm/music/a36/_/Al%C3%A9+Al%C3%A9)
-* [Pixies — Monkey Gone to Heaven](https://www.last.fm/music/Pixies/_/Monkey+Gone+to+Heaven)<!-- LASTFM:END -->
+* [a36 — Alé Alé](https://www.last.fm/music/a36/_/Al%C3%A9+Al%C3%A9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
