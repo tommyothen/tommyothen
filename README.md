@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Arctic Monkeys — Knee Socks](https://www.last.fm/music/Arctic+Monkeys/_/Knee+Socks)
+* [B.o.B — Airplanes &lpar;feat. Hayley Williams&rpar;](https://www.last.fm/music/B.o.B/_/Airplanes+&lpar;feat.+Hayley+Williams&rpar;)
 * [Deftones — Change &lpar;In the House of Flies&rpar;](https://www.last.fm/music/Deftones/_/Change+&lpar;In+the+House+of+Flies&rpar;)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [fun. — Some Nights](https://www.last.fm/music/fun./_/Some+Nights)
-* [Jackson Wang — Blow](https://www.last.fm/music/Jackson+Wang/_/Blow)
-* [Jaden — Cabin Fever](https://www.last.fm/music/Jaden/_/Cabin+Fever)<!-- LASTFM:END -->
+* [fun. — Some Nights](https://www.last.fm/music/fun./_/Some+Nights)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
