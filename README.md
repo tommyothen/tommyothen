@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eve — Last Dance](https://www.last.fm/music/Eve/_/Last+Dance)
+* [Lana Del Rey — The Next Best American Record](https://www.last.fm/music/Lana+Del+Rey/_/The+Next+Best+American+Record)
 * [Ghost Data — PROJEKT MELODY](https://www.last.fm/music/Ghost+Data/_/PROJEKT+MELODY)
 * [The Chalkeaters — Furrýmon: Gotta Smash ’Em All!](https://www.last.fm/music/The+Chalkeaters/_/Furr%C3%BDmon:+Gotta+Smash+%E2%80%99Em+All!)
-* [Jianbo — S.H.A.O.L.I.N](https://www.last.fm/music/Jianbo/_/S.H.A.O.L.I.N)
-* [Cigarettes After Sex — K.](https://www.last.fm/music/Cigarettes+After+Sex/_/K.)
-* [Arctic Monkeys — Knee Socks](https://www.last.fm/music/Arctic+Monkeys/_/Knee+Socks)<!-- LASTFM:END -->
+* [Jianbo — S.H.A.O.L.I.N](https://www.last.fm/music/Jianbo/_/S.H.A.O.L.I.N)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
