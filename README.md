@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — too easy](https://www.last.fm/music/bbno$/_/too+easy)
+* [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)
 * [Sharam Jey — Over You &lpar;feat. Moss Kena&rpar;](https://www.last.fm/music/Sharam+Jey/_/Over+You+&lpar;feat.+Moss+Kena&rpar;)
 * [Alpraz — La soupe aux choux &lpar;Drill Remix&rpar;](https://www.last.fm/music/Alpraz/_/La+soupe+aux+choux+&lpar;Drill+Remix&rpar;)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [Blu Cantrell — Breathe &lpar;feat. Sean Paul&rpar; - Rap Version](https://www.last.fm/music/Blu+Cantrell/_/Breathe+&lpar;feat.+Sean+Paul&rpar;+-+Rap+Version)
-* [100 gecs — money machine](https://www.last.fm/music/100+gecs/_/money+machine)<!-- LASTFM:END -->
+* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
