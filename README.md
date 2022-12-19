@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [a36 — Alé Alé](https://www.last.fm/music/a36/_/Al%C3%A9+Al%C3%A9)
+* [Pixies — Monkey Gone to Heaven](https://www.last.fm/music/Pixies/_/Monkey+Gone+to+Heaven)
+* [Tyler, the Creator — LUMBERJACK](https://www.last.fm/music/Tyler,+the+Creator/_/LUMBERJACK)
 * [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
-* [Kings Of The Rollers — Somebody Else](https://www.last.fm/music/Kings+Of+The+Rollers/_/Somebody+Else)
-* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
-* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
-* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)<!-- LASTFM:END -->
+* [Kings Of The Rollers — Somebody Else](https://www.last.fm/music/Kings+Of+The+Rollers/_/Somebody+Else)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
