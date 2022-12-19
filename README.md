@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blu Cantrell — Breathe &lpar;feat. Sean Paul&rpar; - Rap Version](https://www.last.fm/music/Blu+Cantrell/_/Breathe+&lpar;feat.+Sean+Paul&rpar;+-+Rap+Version)
+* [100 gecs — money machine](https://www.last.fm/music/100+gecs/_/money+machine)
 * [Kendrick Lamar — m.A.A.d city](https://www.last.fm/music/Kendrick+Lamar/_/m.A.A.d+city)
 * [Clairo — Bubble Gum](https://www.last.fm/music/Clairo/_/Bubble+Gum)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
