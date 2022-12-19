@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jackson Wang — Blow](https://www.last.fm/music/Jackson+Wang/_/Blow)
+* [Jaden — Cabin Fever](https://www.last.fm/music/Jaden/_/Cabin+Fever)
 * [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
 * [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
-* [✧BRAINDAAMAGE✧ — how do you like your tea?](https://www.last.fm/music/%E2%9C%A7BRAINDAAMAGE%E2%9C%A7/_/how+do+you+like+your+tea%3F)
-* [All Time Low — Dear Maria, Count Me In](https://www.last.fm/music/All+Time+Low/_/Dear+Maria,+Count+Me+In)
-* [Blue Öyster Cult — &lpar;Don&#39;t Fear&rpar; The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/&lpar;Don%27t+Fear&rpar;+The+Reaper)<!-- LASTFM:END -->
+* [✧BRAINDAAMAGE✧ — how do you like your tea?](https://www.last.fm/music/%E2%9C%A7BRAINDAAMAGE%E2%9C%A7/_/how+do+you+like+your+tea%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
