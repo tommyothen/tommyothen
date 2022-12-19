@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Find My Way](https://www.last.fm/music/khai+dreams/_/Find+My+Way)
+* [Rav — &quot;Geddit&quot; or &quot;The Commodity of Tenacity](https://www.last.fm/music/Rav/_/%22Geddit%22+or+%22The+Commodity+of+Tenacity)
+* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
 * [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
-* [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)
-* [Eery — her](https://www.last.fm/music/Eery/_/her)
-* [Ski Mask the Slump God — LIKE A SOCCER MOM](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/LIKE+A+SOCCER+MOM)
-* [XXXTENTACION — Moonlight](https://www.last.fm/music/XXXTENTACION/_/Moonlight)<!-- LASTFM:END -->
+* [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
