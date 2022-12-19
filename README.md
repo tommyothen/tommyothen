@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Playboi Carti — Fell in Luv &lpar;feat. Bryson Tiller&rpar;](https://www.last.fm/music/Playboi+Carti/_/Fell+in+Luv+&lpar;feat.+Bryson+Tiller&rpar;)
-* [Bo Burnham — Welcome to the Internet](https://www.last.fm/music/Bo+Burnham/_/Welcome+to+the+Internet)
-* [Camellia — GHOST](https://www.last.fm/music/Camellia/_/GHOST)
-* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
-* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)<!-- LASTFM:END -->
+* [Oliver Tree — Let Me Down](https://www.last.fm/music/Oliver+Tree/_/Let+Me+Down)
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)
+* [Eminem — The Real Slim Shady](https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady)
+* [Playboi Carti — Fell in Luv &lpar;feat. Bryson Tiller&rpar;](https://www.last.fm/music/Playboi+Carti/_/Fell+in+Luv+&lpar;feat.+Bryson+Tiller&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
