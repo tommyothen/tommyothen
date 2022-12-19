@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kendrick Lamar — m.A.A.d city](https://www.last.fm/music/Kendrick+Lamar/_/m.A.A.d+city)
 * [Clairo — Bubble Gum](https://www.last.fm/music/Clairo/_/Bubble+Gum)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [Eve — Last Dance](https://www.last.fm/music/Eve/_/Last+Dance)<!-- LASTFM:END -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
