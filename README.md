@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — G.O.A.T.](https://www.last.fm/music/Polyphia/_/G.O.A.T.)
 * [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
 * [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
 * [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [The Northern Boys — Party Time](https://www.last.fm/music/The+Northern+Boys/_/Party+Time)
-* [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)<!-- LASTFM:END -->
+* [The Northern Boys — Party Time](https://www.last.fm/music/The+Northern+Boys/_/Party+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
