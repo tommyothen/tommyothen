@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rav — YOU FUCKERS WERE ASKING FOR THIS ONE](https://www.last.fm/music/Rav/_/YOU+FUCKERS+WERE+ASKING+FOR+THIS+ONE)
 * [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)
 * [Savage Ga$p — flaming hot cheetos](https://www.last.fm/music/Savage+Ga$p/_/flaming+hot+cheetos)
 * [khai dreams — Find My Way](https://www.last.fm/music/khai+dreams/_/Find+My+Way)
-* [Rav — &quot;Geddit&quot; or &quot;The Commodity of Tenacity](https://www.last.fm/music/Rav/_/%22Geddit%22+or+%22The+Commodity+of+Tenacity)
-* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)<!-- LASTFM:END -->
+* [Rav — &quot;Geddit&quot; or &quot;The Commodity of Tenacity](https://www.last.fm/music/Rav/_/%22Geddit%22+or+%22The+Commodity+of+Tenacity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
