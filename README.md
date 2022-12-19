@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frank Carter &amp; The Rattlesnakes — Kitty Sucker](https://www.last.fm/music/Frank+Carter+&amp;+The+Rattlesnakes/_/Kitty+Sucker)
+* [Rizzle Kicks — Down With The Trumpets](https://www.last.fm/music/Rizzle+Kicks/_/Down+With+The+Trumpets)
 * [Cavetown — Devil Town](https://www.last.fm/music/Cavetown/_/Devil+Town)
 * [Deftones — Sextape](https://www.last.fm/music/Deftones/_/Sextape)
-* [Jean Dawson — MENTHOL*](https://www.last.fm/music/Jean+Dawson/_/MENTHOL*)
-* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
-* [LANDMVRKS — Lost in a Wave](https://www.last.fm/music/LANDMVRKS/_/Lost+in+a+Wave)<!-- LASTFM:END -->
+* [Jean Dawson — MENTHOL*](https://www.last.fm/music/Jean+Dawson/_/MENTHOL*)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
