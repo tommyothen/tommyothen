@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dorian Electra — Sorry Bro &lpar;I Love You&rpar;](https://www.last.fm/music/Dorian+Electra/_/Sorry+Bro+&lpar;I+Love+You&rpar;)
+* [Quinn — i dont want that many friends in the first place](https://www.last.fm/music/Quinn/_/i+dont+want+that+many+friends+in+the+first+place)
+* [WHOKILLEDXIX — Kismet](https://www.last.fm/music/WHOKILLEDXIX/_/Kismet)
 * [That Kid — Dial Tone](https://www.last.fm/music/That+Kid/_/Dial+Tone)
-* [Alice Longyu Gao — I &lt;3 Harajuku](https://www.last.fm/music/Alice+Longyu+Gao/_/I+%3C3+Harajuku)
-* [fraxiom — scawy monstews and nice spwites :3](https://www.last.fm/music/fraxiom/_/scawy+monstews+and+nice+spwites+:3)
-* [Phoebe Bridgers — Kyoto &lpar;Glitch Gum Remix&rpar;](https://www.last.fm/music/Phoebe+Bridgers/_/Kyoto+&lpar;Glitch+Gum+Remix&rpar;)
-* [100 gecs — ringtone](https://www.last.fm/music/100+gecs/_/ringtone)<!-- LASTFM:END -->
+* [Alice Longyu Gao — I &lt;3 Harajuku](https://www.last.fm/music/Alice+Longyu+Gao/_/I+%3C3+Harajuku)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
