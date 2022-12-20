@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [ericdoa — cheap liquor](https://www.last.fm/music/ericdoa/_/cheap+liquor)
-* [Dorian Electra — Man to Man](https://www.last.fm/music/Dorian+Electra/_/Man+to+Man)
-* [Patchymate — babyur2nice](https://www.last.fm/music/Patchymate/_/babyur2nice)
-* [Glaive — detest me](https://www.last.fm/music/Glaive/_/detest+me)<!-- LASTFM:END -->
+* [fraxiom — scawy monstews and nice spwites :3](https://www.last.fm/music/fraxiom/_/scawy+monstews+and+nice+spwites+:3)
+* [Phoebe Bridgers — Kyoto &lpar;Glitch Gum Remix&rpar;](https://www.last.fm/music/Phoebe+Bridgers/_/Kyoto+&lpar;Glitch+Gum+Remix&rpar;)
+* [100 gecs — ringtone](https://www.last.fm/music/100+gecs/_/ringtone)
+* [Quinn — Bad Idea &lpar;feat. Blackwinterwells&rpar;](https://www.last.fm/music/Quinn/_/Bad+Idea+&lpar;feat.+Blackwinterwells&rpar;)
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
