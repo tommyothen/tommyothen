@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BABii — Drown U](https://www.last.fm/music/BABii/_/Drown+U)
+* [blackwinterwells — IRIS](https://www.last.fm/music/blackwinterwells/_/IRIS)
+* [SEBii — Butterfly Bankai](https://www.last.fm/music/SEBii/_/Butterfly+Bankai)
 * [brakence — fwb](https://www.last.fm/music/brakence/_/fwb)
-* [Slayyyter — Hello Kitty](https://www.last.fm/music/Slayyyter/_/Hello+Kitty)
-* [Dorian Electra — Sorry Bro &lpar;I Love You&rpar;](https://www.last.fm/music/Dorian+Electra/_/Sorry+Bro+&lpar;I+Love+You&rpar;)
-* [Quinn — i dont want that many friends in the first place](https://www.last.fm/music/Quinn/_/i+dont+want+that+many+friends+in+the+first+place)
-* [WHOKILLEDXIX — Kismet](https://www.last.fm/music/WHOKILLEDXIX/_/Kismet)<!-- LASTFM:END -->
+* [Slayyyter — Hello Kitty](https://www.last.fm/music/Slayyyter/_/Hello+Kitty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
