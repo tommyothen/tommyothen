@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
 * [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
 * [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)<!-- LASTFM:END -->
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
