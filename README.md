@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [umru — popular](https://www.last.fm/music/umru/_/popular)
+* [Dylan Brady — 127 HRS In Bed](https://www.last.fm/music/Dylan+Brady/_/127+HRS+In+Bed)
+* [Bladee — Drama](https://www.last.fm/music/Bladee/_/Drama)
 * [BABii — Drown U](https://www.last.fm/music/BABii/_/Drown+U)
-* [blackwinterwells — IRIS](https://www.last.fm/music/blackwinterwells/_/IRIS)
-* [SEBii — Butterfly Bankai](https://www.last.fm/music/SEBii/_/Butterfly+Bankai)
-* [brakence — fwb](https://www.last.fm/music/brakence/_/fwb)
-* [Slayyyter — Hello Kitty](https://www.last.fm/music/Slayyyter/_/Hello+Kitty)<!-- LASTFM:END -->
+* [blackwinterwells — IRIS](https://www.last.fm/music/blackwinterwells/_/IRIS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
