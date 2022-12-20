@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [swrslt — Pretty Cvnt](https://www.last.fm/music/swrslt/_/Pretty+Cvnt)
+* [PlayaPhonk — Phonky Town](https://www.last.fm/music/PlayaPhonk/_/Phonky+Town)
 * [Vandal — Warriors](https://www.last.fm/music/Vandal/_/Warriors)
 * [Billx — Ceremony](https://www.last.fm/music/Billx/_/Ceremony)
-* [Mr. Bassmeister — Bong Bong](https://www.last.fm/music/Mr.+Bassmeister/_/Bong+Bong)
-* [Francesco Zeta — Rock N&#39; Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)
-* [The Prophet — Wanna Play?](https://www.last.fm/music/The+Prophet/_/Wanna+Play%3F)<!-- LASTFM:END -->
+* [Mr. Bassmeister — Bong Bong](https://www.last.fm/music/Mr.+Bassmeister/_/Bong+Bong)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
