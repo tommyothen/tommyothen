@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [100 gecs — Doritos &amp; Fritos](https://www.last.fm/music/100+gecs/_/Doritos+&amp;+Fritos)
+* [gupi — Thos Moser](https://www.last.fm/music/gupi/_/Thos+Moser)
+* [midwxst — Trying](https://www.last.fm/music/midwxst/_/Trying)
 * [Glaive — fuck this town](https://www.last.fm/music/Glaive/_/fuck+this+town)
-* [CAKE POP — Black Rum](https://www.last.fm/music/CAKE+POP/_/Black+Rum)
-* [Beau. — Ghost Mode](https://www.last.fm/music/Beau./_/Ghost+Mode)
-* [Cam Steady — BOW TO THE PRINCE](https://www.last.fm/music/Cam+Steady/_/BOW+TO+THE+PRINCE)
-* [XANAKIN SKYWOK — Milkshake](https://www.last.fm/music/XANAKIN+SKYWOK/_/Milkshake)<!-- LASTFM:END -->
+* [CAKE POP — Black Rum](https://www.last.fm/music/CAKE+POP/_/Black+Rum)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
