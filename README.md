@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Underscores — Second hand embarrassment](https://www.last.fm/music/Underscores/_/Second+hand+embarrassment)
+* [Dylan Brady — Of Course I Still Love You](https://www.last.fm/music/Dylan+Brady/_/Of+Course+I+Still+Love+You)
 * [ericdoa — movinglikeazombie - remix](https://www.last.fm/music/ericdoa/_/movinglikeazombie+-+remix)
 * [100 gecs — Doritos &amp; Fritos](https://www.last.fm/music/100+gecs/_/Doritos+&amp;+Fritos)
-* [gupi — Thos Moser](https://www.last.fm/music/gupi/_/Thos+Moser)
-* [midwxst — Trying](https://www.last.fm/music/midwxst/_/Trying)
-* [Glaive — fuck this town](https://www.last.fm/music/Glaive/_/fuck+this+town)<!-- LASTFM:END -->
+* [gupi — Thos Moser](https://www.last.fm/music/gupi/_/Thos+Moser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
