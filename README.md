@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — fuck this town](https://www.last.fm/music/Glaive/_/fuck+this+town)
+* [CAKE POP — Black Rum](https://www.last.fm/music/CAKE+POP/_/Black+Rum)
+* [Beau. — Ghost Mode](https://www.last.fm/music/Beau./_/Ghost+Mode)
 * [Cam Steady — BOW TO THE PRINCE](https://www.last.fm/music/Cam+Steady/_/BOW+TO+THE+PRINCE)
-* [XANAKIN SKYWOK — Milkshake](https://www.last.fm/music/XANAKIN+SKYWOK/_/Milkshake)
-* [TTS Rav — Blappy](https://www.last.fm/music/TTS+Rav/_/Blappy)
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
-* [Aldn — glittr](https://www.last.fm/music/Aldn/_/glittr)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Milkshake](https://www.last.fm/music/XANAKIN+SKYWOK/_/Milkshake)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
