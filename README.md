@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [That Kid — Dial Tone](https://www.last.fm/music/That+Kid/_/Dial+Tone)
+* [Alice Longyu Gao — I &lt;3 Harajuku](https://www.last.fm/music/Alice+Longyu+Gao/_/I+%3C3+Harajuku)
 * [fraxiom — scawy monstews and nice spwites :3](https://www.last.fm/music/fraxiom/_/scawy+monstews+and+nice+spwites+:3)
 * [Phoebe Bridgers — Kyoto &lpar;Glitch Gum Remix&rpar;](https://www.last.fm/music/Phoebe+Bridgers/_/Kyoto+&lpar;Glitch+Gum+Remix&rpar;)
-* [100 gecs — ringtone](https://www.last.fm/music/100+gecs/_/ringtone)
-* [Quinn — Bad Idea &lpar;feat. Blackwinterwells&rpar;](https://www.last.fm/music/Quinn/_/Bad+Idea+&lpar;feat.+Blackwinterwells&rpar;)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)<!-- LASTFM:END -->
+* [100 gecs — ringtone](https://www.last.fm/music/100+gecs/_/ringtone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
