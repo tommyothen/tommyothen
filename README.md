@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Quinn — i hate it here](https://www.last.fm/music/Quinn/_/i+hate+it+here)
+* [100 gecs — stupid horse](https://www.last.fm/music/100+gecs/_/stupid+horse)
+* [Bladee — Be Nice 2 Me](https://www.last.fm/music/Bladee/_/Be+Nice+2+Me)
 * [ericdoa — victim](https://www.last.fm/music/ericdoa/_/victim)
-* [Angelus — hope u doing well](https://www.last.fm/music/Angelus/_/hope+u+doing+well)
-* [d0llywood1 — ihonestlymightjustgiveup](https://www.last.fm/music/d0llywood1/_/ihonestlymightjustgiveup)
-* [siouxxie sixxsta — masquerade](https://www.last.fm/music/siouxxie+sixxsta/_/masquerade)
-* [100 gecs — hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)<!-- LASTFM:END -->
+* [Angelus — hope u doing well](https://www.last.fm/music/Angelus/_/hope+u+doing+well)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
