@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [siouxxie sixxsta — masquerade](https://www.last.fm/music/siouxxie+sixxsta/_/masquerade)
+* [100 gecs — hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)
+* [Alice Longyu Gao — LEGEND](https://www.last.fm/music/Alice+Longyu+Gao/_/LEGEND)
 * [Quinn — from paris, with love](https://www.last.fm/music/Quinn/_/from+paris,+with+love)
-* [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)
-* [Underscores — Second hand embarrassment](https://www.last.fm/music/Underscores/_/Second+hand+embarrassment)
-* [Dylan Brady — Of Course I Still Love You](https://www.last.fm/music/Dylan+Brady/_/Of+Course+I+Still+Love+You)
-* [ericdoa — movinglikeazombie - remix](https://www.last.fm/music/ericdoa/_/movinglikeazombie+-+remix)<!-- LASTFM:END -->
+* [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
