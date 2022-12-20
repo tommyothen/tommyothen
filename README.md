@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Aldn — glittr](https://www.last.fm/music/Aldn/_/glittr)
-* [100 gecs — money machine](https://www.last.fm/music/100+gecs/_/money+machine)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [8485 — 1:15](https://www.last.fm/music/8485/_/1:15)
-* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)<!-- LASTFM:END -->
+* [Cam Steady — BOW TO THE PRINCE](https://www.last.fm/music/Cam+Steady/_/BOW+TO+THE+PRINCE)
+* [XANAKIN SKYWOK — Milkshake](https://www.last.fm/music/XANAKIN+SKYWOK/_/Milkshake)
+* [TTS Rav — Blappy](https://www.last.fm/music/TTS+Rav/_/Blappy)
+* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
+* [Aldn — glittr](https://www.last.fm/music/Aldn/_/glittr)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
