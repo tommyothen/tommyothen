@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ericdoa — victim](https://www.last.fm/music/ericdoa/_/victim)
+* [Angelus — hope u doing well](https://www.last.fm/music/Angelus/_/hope+u+doing+well)
+* [d0llywood1 — ihonestlymightjustgiveup](https://www.last.fm/music/d0llywood1/_/ihonestlymightjustgiveup)
 * [siouxxie sixxsta — masquerade](https://www.last.fm/music/siouxxie+sixxsta/_/masquerade)
-* [100 gecs — hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)
-* [Alice Longyu Gao — LEGEND](https://www.last.fm/music/Alice+Longyu+Gao/_/LEGEND)
-* [Quinn — from paris, with love](https://www.last.fm/music/Quinn/_/from+paris,+with+love)
-* [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)<!-- LASTFM:END -->
+* [100 gecs — hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
