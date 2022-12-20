@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [8485 — 1:15](https://www.last.fm/music/8485/_/1:15)
+* [Food House — mos thoser](https://www.last.fm/music/Food+House/_/mos+thoser)
 * [Underscores — Spoiled little brat](https://www.last.fm/music/Underscores/_/Spoiled+little+brat)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [swrslt — Pretty Cvnt](https://www.last.fm/music/swrslt/_/Pretty+Cvnt)
-* [PlayaPhonk — Phonky Town](https://www.last.fm/music/PlayaPhonk/_/Phonky+Town)
-* [Vandal — Warriors](https://www.last.fm/music/Vandal/_/Warriors)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
