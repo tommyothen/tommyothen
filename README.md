@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Glaive — detest me](https://www.last.fm/music/Glaive/_/detest+me)
-* [brakence — rosier/punk2](https://www.last.fm/music/brakence/_/rosier%2Fpunk2)
-* [Kuru — clueless](https://www.last.fm/music/Kuru/_/clueless)
-* [Quinn — i hate it here](https://www.last.fm/music/Quinn/_/i+hate+it+here)
-* [100 gecs — stupid horse](https://www.last.fm/music/100+gecs/_/stupid+horse)<!-- LASTFM:END -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [ericdoa — cheap liquor](https://www.last.fm/music/ericdoa/_/cheap+liquor)
+* [Dorian Electra — Man to Man](https://www.last.fm/music/Dorian+Electra/_/Man+to+Man)
+* [Patchymate — babyur2nice](https://www.last.fm/music/Patchymate/_/babyur2nice)
+* [Glaive — detest me](https://www.last.fm/music/Glaive/_/detest+me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
