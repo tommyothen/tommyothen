@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Blue Öyster Cult — &lpar;Don&#39;t Fear&rpar; The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/&lpar;Don%27t+Fear&rpar;+The+Reaper)
 * [Frank Carter &amp; The Rattlesnakes — Kitty Sucker](https://www.last.fm/music/Frank+Carter+&amp;+The+Rattlesnakes/_/Kitty+Sucker)
-* [Valley of the Sun — Old Gods](https://www.last.fm/music/Valley+of+the+Sun/_/Old+Gods)
-* [The Smiths — How Soon Is Now? - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+-+2011+Remaster)<!-- LASTFM:END -->
+* [Valley of the Sun — Old Gods](https://www.last.fm/music/Valley+of+the+Sun/_/Old+Gods)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
