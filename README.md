@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Deftones — Sextape](https://www.last.fm/music/Deftones/_/Sextape)
 * [LANDMVRKS — Lost in a Wave](https://www.last.fm/music/LANDMVRKS/_/Lost+in+a+Wave)
 * [Jianbo — Mongkok Madness](https://www.last.fm/music/Jianbo/_/Mongkok+Madness)
 * [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)
-* [Kings Of The Rollers — Somebody Else](https://www.last.fm/music/Kings+Of+The+Rollers/_/Somebody+Else)
-* [All Time Low — Dear Maria, Count Me In](https://www.last.fm/music/All+Time+Low/_/Dear+Maria,+Count+Me+In)<!-- LASTFM:END -->
+* [Kings Of The Rollers — Somebody Else](https://www.last.fm/music/Kings+Of+The+Rollers/_/Somebody+Else)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
