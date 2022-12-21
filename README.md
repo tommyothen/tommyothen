@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lil Soda Boi — plug me in](https://www.last.fm/music/Lil+Soda+Boi/_/plug+me+in)
-* [Dev Lemons — CEO OF MY ASS](https://www.last.fm/music/Dev+Lemons/_/CEO+OF+MY+ASS)
-* [The Hellp — Tu Tu Neurotic](https://www.last.fm/music/The+Hellp/_/Tu+Tu+Neurotic)
-* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
-* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)<!-- LASTFM:END -->
+* [re6ce — cabin fever](https://www.last.fm/music/re6ce/_/cabin+fever)
+* [Kitty — disconnect](https://www.last.fm/music/Kitty/_/disconnect)
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [TOPHAMHAT-KYO — Princess♂](https://www.last.fm/music/TOPHAMHAT-KYO/_/Princess%E2%99%82)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
