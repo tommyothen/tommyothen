@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Post Malone — Hollywood&#39;s Bleeding](https://www.last.fm/music/Post+Malone/_/Hollywood%27s+Bleeding)
+* [Arctic Monkeys — Knee Socks](https://www.last.fm/music/Arctic+Monkeys/_/Knee+Socks)
 * [Deftones — Change &lpar;In the House of Flies&rpar;](https://www.last.fm/music/Deftones/_/Change+&lpar;In+the+House+of+Flies&rpar;)
 * [Rizzle Kicks — Down With The Trumpets](https://www.last.fm/music/Rizzle+Kicks/_/Down+With+The+Trumpets)
-* [Bo Burnham — Welcome to the Internet](https://www.last.fm/music/Bo+Burnham/_/Welcome+to+the+Internet)
-* [Eminem — The Real Slim Shady](https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady)
-* [Lisa — 紅蓮華](https://www.last.fm/music/Lisa/_/%E7%B4%85%E8%93%AE%E8%8F%AF)<!-- LASTFM:END -->
+* [Bo Burnham — Welcome to the Internet](https://www.last.fm/music/Bo+Burnham/_/Welcome+to+the+Internet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
