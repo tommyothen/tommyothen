@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frank Carter &amp; The Rattlesnakes — Kitty Sucker](https://www.last.fm/music/Frank+Carter+&amp;+The+Rattlesnakes/_/Kitty+Sucker)
 * [Valley of the Sun — Old Gods](https://www.last.fm/music/Valley+of+the+Sun/_/Old+Gods)
 * [The Smiths — How Soon Is Now? - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+-+2011+Remaster)
 * [Echo &amp; the Bunnymen — The Killing Moon](https://www.last.fm/music/Echo+&amp;+the+Bunnymen/_/The+Killing+Moon)
-* [Deftones — Sextape](https://www.last.fm/music/Deftones/_/Sextape)
-* [LANDMVRKS — Lost in a Wave](https://www.last.fm/music/LANDMVRKS/_/Lost+in+a+Wave)<!-- LASTFM:END -->
+* [Deftones — Sextape](https://www.last.fm/music/Deftones/_/Sextape)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
