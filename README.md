@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
+* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
 * [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [Jaden — Cabin Fever](https://www.last.fm/music/Jaden/_/Cabin+Fever)
-* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
-* [a36 — Alé Alé](https://www.last.fm/music/a36/_/Al%C3%A9+Al%C3%A9)
-* [Jean Dawson — MENTHOL*](https://www.last.fm/music/Jean+Dawson/_/MENTHOL*)<!-- LASTFM:END -->
+* [Jaden — Cabin Fever](https://www.last.fm/music/Jaden/_/Cabin+Fever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
