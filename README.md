@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
 * [Polyphia — O.D.](https://www.last.fm/music/Polyphia/_/O.D.)
-* [Kxllswxtch — LIGHTS OUT](https://www.last.fm/music/Kxllswxtch/_/LIGHTS+OUT)
-* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
-* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
-* [Kxllswxtch — YASOPP](https://www.last.fm/music/Kxllswxtch/_/YASOPP)<!-- LASTFM:END -->
+* [Kxllswxtch — LIGHTS OUT](https://www.last.fm/music/Kxllswxtch/_/LIGHTS+OUT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
