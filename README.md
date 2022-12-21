@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eminem — The Real Slim Shady](https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady)
+* [Lisa — 紅蓮華](https://www.last.fm/music/Lisa/_/%E7%B4%85%E8%93%AE%E8%8F%AF)
 * [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Blue Öyster Cult — &lpar;Don&#39;t Fear&rpar; The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/&lpar;Don%27t+Fear&rpar;+The+Reaper)
-* [Frank Carter &amp; The Rattlesnakes — Kitty Sucker](https://www.last.fm/music/Frank+Carter+&amp;+The+Rattlesnakes/_/Kitty+Sucker)
-* [Valley of the Sun — Old Gods](https://www.last.fm/music/Valley+of+the+Sun/_/Old+Gods)<!-- LASTFM:END -->
+* [Blue Öyster Cult — &lpar;Don&#39;t Fear&rpar; The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/&lpar;Don%27t+Fear&rpar;+The+Reaper)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
