@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
+* [Jaden — Cabin Fever](https://www.last.fm/music/Jaden/_/Cabin+Fever)
 * [Eden — crash](https://www.last.fm/music/Eden/_/crash)
 * [a36 — Alé Alé](https://www.last.fm/music/a36/_/Al%C3%A9+Al%C3%A9)
-* [Jean Dawson — MENTHOL*](https://www.last.fm/music/Jean+Dawson/_/MENTHOL*)
-* [Playboi Carti — Fell in Luv &lpar;feat. Bryson Tiller&rpar;](https://www.last.fm/music/Playboi+Carti/_/Fell+in+Luv+&lpar;feat.+Bryson+Tiller&rpar;)
-* [Tyler, the Creator — LUMBERJACK](https://www.last.fm/music/Tyler,+the+Creator/_/LUMBERJACK)<!-- LASTFM:END -->
+* [Jean Dawson — MENTHOL*](https://www.last.fm/music/Jean+Dawson/_/MENTHOL*)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
