@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
+* [Kxllswxtch — YASOPP](https://www.last.fm/music/Kxllswxtch/_/YASOPP)
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
-* [✧BRAINDAAMAGE✧ — how do you like your tea?](https://www.last.fm/music/%E2%9C%A7BRAINDAAMAGE%E2%9C%A7/_/how+do+you+like+your+tea%3F)
-* [Jackson Wang — Blow](https://www.last.fm/music/Jackson+Wang/_/Blow)
-* [Rage Against the Machine — Killing in the Name](https://www.last.fm/music/Rage+Against+the+Machine/_/Killing+in+the+Name)<!-- LASTFM:END -->
+* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
