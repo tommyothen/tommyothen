@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [✧BRAINDAAMAGE✧ — how do you like your tea?](https://www.last.fm/music/%E2%9C%A7BRAINDAAMAGE%E2%9C%A7/_/how+do+you+like+your+tea%3F)
+* [Jackson Wang — Blow](https://www.last.fm/music/Jackson+Wang/_/Blow)
+* [Rage Against the Machine — Killing in the Name](https://www.last.fm/music/Rage+Against+the+Machine/_/Killing+in+the+Name)
 * [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
-* [TV Girl — Lovers Rock](https://www.last.fm/music/TV+Girl/_/Lovers+Rock)
-* [Jeff Buckley — Lover, You Should&#39;ve Come Over](https://www.last.fm/music/Jeff+Buckley/_/Lover,+You+Should%27ve+Come+Over)
-* [Cigarettes After Sex — K.](https://www.last.fm/music/Cigarettes+After+Sex/_/K.)
-* [Slaughter Beach, Dog — Acolyte](https://www.last.fm/music/Slaughter+Beach,+Dog/_/Acolyte)<!-- LASTFM:END -->
+* [TV Girl — Lovers Rock](https://www.last.fm/music/TV+Girl/_/Lovers+Rock)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
