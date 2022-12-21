@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Playboi Carti — Fell in Luv &lpar;feat. Bryson Tiller&rpar;](https://www.last.fm/music/Playboi+Carti/_/Fell+in+Luv+&lpar;feat.+Bryson+Tiller&rpar;)
+* [Tyler, the Creator — LUMBERJACK](https://www.last.fm/music/Tyler,+the+Creator/_/LUMBERJACK)
+* [Pixies — Monkey Gone to Heaven](https://www.last.fm/music/Pixies/_/Monkey+Gone+to+Heaven)
 * [Post Malone — Hollywood&#39;s Bleeding](https://www.last.fm/music/Post+Malone/_/Hollywood%27s+Bleeding)
-* [Arctic Monkeys — Knee Socks](https://www.last.fm/music/Arctic+Monkeys/_/Knee+Socks)
-* [Deftones — Change &lpar;In the House of Flies&rpar;](https://www.last.fm/music/Deftones/_/Change+&lpar;In+the+House+of+Flies&rpar;)
-* [Rizzle Kicks — Down With The Trumpets](https://www.last.fm/music/Rizzle+Kicks/_/Down+With+The+Trumpets)
-* [Bo Burnham — Welcome to the Internet](https://www.last.fm/music/Bo+Burnham/_/Welcome+to+the+Internet)<!-- LASTFM:END -->
+* [Arctic Monkeys — Knee Socks](https://www.last.fm/music/Arctic+Monkeys/_/Knee+Socks)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
