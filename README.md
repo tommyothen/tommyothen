@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slaughter Beach, Dog — Acolyte](https://www.last.fm/music/Slaughter+Beach,+Dog/_/Acolyte)
+* [Cavetown — Devil Town](https://www.last.fm/music/Cavetown/_/Devil+Town)
 * [Red Hot Chili Peppers — Black Summer](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Black+Summer)
 * [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Tigercub — Burning Effigies](https://www.last.fm/music/Tigercub/_/Burning+Effigies)
-* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
+* [Tigercub — Burning Effigies](https://www.last.fm/music/Tigercub/_/Burning+Effigies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
