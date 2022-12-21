@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [umru — popular](https://www.last.fm/music/umru/_/popular)
-* [Dylan Brady — 127 HRS In Bed](https://www.last.fm/music/Dylan+Brady/_/127+HRS+In+Bed)
-* [Bladee — Drama](https://www.last.fm/music/Bladee/_/Drama)
-* [BABii — Drown U](https://www.last.fm/music/BABii/_/Drown+U)
-* [blackwinterwells — IRIS](https://www.last.fm/music/blackwinterwells/_/IRIS)<!-- LASTFM:END -->
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
+* [Cmten — NEVER MET! &lpar;feat. Glitch Gum&rpar;](https://www.last.fm/music/Cmten/_/NEVER+MET!+&lpar;feat.+Glitch+Gum&rpar;)
+* [ericdoa — WhatUWorried4?](https://www.last.fm/music/ericdoa/_/WhatUWorried4%3F)
+* [d0llywood1 — Imgonnagetmyrevenge](https://www.last.fm/music/d0llywood1/_/Imgonnagetmyrevenge)
+* [Charli XCX — claws](https://www.last.fm/music/Charli+XCX/_/claws)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
