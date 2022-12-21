@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
+* [TV Girl — Lovers Rock](https://www.last.fm/music/TV+Girl/_/Lovers+Rock)
+* [Jeff Buckley — Lover, You Should&#39;ve Come Over](https://www.last.fm/music/Jeff+Buckley/_/Lover,+You+Should%27ve+Come+Over)
 * [Cigarettes After Sex — K.](https://www.last.fm/music/Cigarettes+After+Sex/_/K.)
-* [Slaughter Beach, Dog — Acolyte](https://www.last.fm/music/Slaughter+Beach,+Dog/_/Acolyte)
-* [Cavetown — Devil Town](https://www.last.fm/music/Cavetown/_/Devil+Town)
-* [Red Hot Chili Peppers — Black Summer](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Black+Summer)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
+* [Slaughter Beach, Dog — Acolyte](https://www.last.fm/music/Slaughter+Beach,+Dog/_/Acolyte)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
