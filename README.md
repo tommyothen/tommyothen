@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Cmten — NEVER MET! &lpar;feat. Glitch Gum&rpar;](https://www.last.fm/music/Cmten/_/NEVER+MET!+&lpar;feat.+Glitch+Gum&rpar;)
-* [ericdoa — WhatUWorried4?](https://www.last.fm/music/ericdoa/_/WhatUWorried4%3F)
-* [d0llywood1 — Imgonnagetmyrevenge](https://www.last.fm/music/d0llywood1/_/Imgonnagetmyrevenge)
-* [Charli XCX — claws](https://www.last.fm/music/Charli+XCX/_/claws)<!-- LASTFM:END -->
+* [Sophie — Immaterial](https://www.last.fm/music/Sophie/_/Immaterial)
+* [Dorian Electra — Career Boy](https://www.last.fm/music/Dorian+Electra/_/Career+Boy)
+* [easyFun — Be Your USA](https://www.last.fm/music/easyFun/_/Be+Your+USA)
+* [midwxst — Decay](https://www.last.fm/music/midwxst/_/Decay)
+* [LIZ — When I Rule the World](https://www.last.fm/music/LIZ/_/When+I+Rule+the+World)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
