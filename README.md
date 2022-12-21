@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sophie — Immaterial](https://www.last.fm/music/Sophie/_/Immaterial)
-* [Dorian Electra — Career Boy](https://www.last.fm/music/Dorian+Electra/_/Career+Boy)
-* [easyFun — Be Your USA](https://www.last.fm/music/easyFun/_/Be+Your+USA)
-* [midwxst — Decay](https://www.last.fm/music/midwxst/_/Decay)
-* [LIZ — When I Rule the World](https://www.last.fm/music/LIZ/_/When+I+Rule+the+World)<!-- LASTFM:END -->
+* [Lil Soda Boi — plug me in](https://www.last.fm/music/Lil+Soda+Boi/_/plug+me+in)
+* [Dev Lemons — CEO OF MY ASS](https://www.last.fm/music/Dev+Lemons/_/CEO+OF+MY+ASS)
+* [The Hellp — Tu Tu Neurotic](https://www.last.fm/music/The+Hellp/_/Tu+Tu+Neurotic)
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
+* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
