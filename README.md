@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tony Velour — Do or Die](https://www.last.fm/music/Tony+Velour/_/Do+or+Die)
 * [re6ce — cabin fever](https://www.last.fm/music/re6ce/_/cabin+fever)
 * [Kitty — disconnect](https://www.last.fm/music/Kitty/_/disconnect)
 * [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [TOPHAMHAT-KYO — Princess♂](https://www.last.fm/music/TOPHAMHAT-KYO/_/Princess%E2%99%82)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
