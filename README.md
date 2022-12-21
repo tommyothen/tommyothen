@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [fun. — Some Nights](https://www.last.fm/music/fun./_/Some+Nights)
+* [B.o.B — Airplanes &lpar;feat. Hayley Williams&rpar;](https://www.last.fm/music/B.o.B/_/Airplanes+&lpar;feat.+Hayley+Williams&rpar;)
 * [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)
 * [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)<!-- LASTFM:END -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
