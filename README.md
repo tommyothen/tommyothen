@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
+* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
 * [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Glaive — fuck this town](https://www.last.fm/music/Glaive/_/fuck+this+town)
-* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
-* [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
