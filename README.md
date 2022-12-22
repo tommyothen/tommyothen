@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Glaive — fuck this town](https://www.last.fm/music/Glaive/_/fuck+this+town)
 * [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
-* [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)<!-- LASTFM:END -->
+* [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
