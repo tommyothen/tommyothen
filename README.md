@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
 * [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
 * [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)
 * [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
-* [JXMESC — tragic &lpar;FREESTYLE&rpar;](https://www.last.fm/music/JXMESC/_/tragic+&lpar;FREESTYLE&rpar;)
-* [Polyphia — Inferno](https://www.last.fm/music/Polyphia/_/Inferno)<!-- LASTFM:END -->
+* [JXMESC — tragic &lpar;FREESTYLE&rpar;](https://www.last.fm/music/JXMESC/_/tragic+&lpar;FREESTYLE&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
