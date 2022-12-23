@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — WYSI -When You See It-](https://www.last.fm/music/Camellia/_/WYSI+-When+You+See+It-)
+* [Camellia — Hello &lpar;BPM&rpar; 2021](https://www.last.fm/music/Camellia/_/Hello+&lpar;BPM&rpar;+2021)
 * [Camellia — KillerToy](https://www.last.fm/music/Camellia/_/KillerToy)
 * [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)
-* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
-* [The Northern Boys — Party Time](https://www.last.fm/music/The+Northern+Boys/_/Party+Time)
-* [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)<!-- LASTFM:END -->
+* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
