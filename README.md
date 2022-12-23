@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Getty — GAKKY](https://www.last.fm/music/Getty/_/GAKKY)
-* [EmoCosine — This Club is Not 4 U](https://www.last.fm/music/EmoCosine/_/This+Club+is+Not+4+U)
-* [Kobaryo — Dimension Hacker](https://www.last.fm/music/Kobaryo/_/Dimension+Hacker)
-* [P*Light — TWINKLE MAGIC](https://www.last.fm/music/P*Light/_/TWINKLE+MAGIC)
-* [DJ Noriken — Comet Coaster](https://www.last.fm/music/DJ+Noriken/_/Comet+Coaster)<!-- LASTFM:END -->
+* [Softwilly — SHALOM!](https://www.last.fm/music/Softwilly/_/SHALOM!)
+* [Softwilly — WILLYPACK](https://www.last.fm/music/Softwilly/_/WILLYPACK)
+* [Softwilly — Pokeballer](https://www.last.fm/music/Softwilly/_/Pokeballer)
+* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)
+* [Getty — GAKKY](https://www.last.fm/music/Getty/_/GAKKY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
