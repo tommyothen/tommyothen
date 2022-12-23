@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
+* [Softwilly — GLADIATOR](https://www.last.fm/music/Softwilly/_/GLADIATOR)
+* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)
 * [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Softwilly — ZONIN](https://www.last.fm/music/Softwilly/_/ZONIN)
-* [Softwilly — XXXMETAKNIGHT](https://www.last.fm/music/Softwilly/_/XXXMETAKNIGHT)
-* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
-* [Softwilly — SHALOM!](https://www.last.fm/music/Softwilly/_/SHALOM!)<!-- LASTFM:END -->
+* [Softwilly — ZONIN](https://www.last.fm/music/Softwilly/_/ZONIN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
