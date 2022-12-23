@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Deaton Chris Anthony — Go!](https://www.last.fm/music/Deaton+Chris+Anthony/_/Go!)
+* [YFU BABY — Kudasai](https://www.last.fm/music/YFU+BABY/_/Kudasai)
+* [Brothel — Searching For The End](https://www.last.fm/music/Brothel/_/Searching+For+The+End)
 * [Luvlxckdown — tbh i dont like being social](https://www.last.fm/music/Luvlxckdown/_/tbh+i+dont+like+being+social)
-* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
-* [Rihanna — Shut Up and Drive](https://www.last.fm/music/Rihanna/_/Shut+Up+and+Drive)
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)<!-- LASTFM:END -->
+* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
