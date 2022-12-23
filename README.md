@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
 * [Deaton Chris Anthony — Go!](https://www.last.fm/music/Deaton+Chris+Anthony/_/Go!)
 * [YFU BABY — Kudasai](https://www.last.fm/music/YFU+BABY/_/Kudasai)
-* [Brothel — Searching For The End](https://www.last.fm/music/Brothel/_/Searching+For+The+End)
-* [Luvlxckdown — tbh i dont like being social](https://www.last.fm/music/Luvlxckdown/_/tbh+i+dont+like+being+social)
-* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)<!-- LASTFM:END -->
+* [Brothel — Searching For The End](https://www.last.fm/music/Brothel/_/Searching+For+The+End)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
