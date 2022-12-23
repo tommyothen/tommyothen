@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Angelus — new lyfe](https://www.last.fm/music/Angelus/_/new+lyfe)
-* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
+* [Lil Darkie — FUCK ALL OF YOU &lt;3](https://www.last.fm/music/Lil+Darkie/_/FUCK+ALL+OF+YOU+%3C3)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Kxllswxtch — LIGHTS OUT](https://www.last.fm/music/Kxllswxtch/_/LIGHTS+OUT)
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
+* [Angelus — new lyfe](https://www.last.fm/music/Angelus/_/new+lyfe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
