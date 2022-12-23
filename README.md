@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [KANDYTOWN — Local Area &lpar;feat. Gottz, Neetz &amp; KEIJU&rpar;](https://www.last.fm/music/KANDYTOWN/_/Local+Area+&lpar;feat.+Gottz,+Neetz+&amp;+KEIJU&rpar;)
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
-* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)<!-- LASTFM:END -->
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
+* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
+* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
+* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
