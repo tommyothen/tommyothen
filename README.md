@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Slipknot — The Devil in I](https://www.last.fm/music/Slipknot/_/The+Devil+in+I)
+* [Slipknot — Yen](https://www.last.fm/music/Slipknot/_/Yen)
+* [Slipknot — The Devil in I](https://www.last.fm/music/Slipknot/_/The+Devil+in+I)
 * [Slipknot — Snuff](https://www.last.fm/music/Slipknot/_/Snuff)
-* [Slipknot — The Dying Song &lpar;Time to Sing&rpar;](https://www.last.fm/music/Slipknot/_/The+Dying+Song+&lpar;Time+to+Sing&rpar;)
-* [Slipknot — Unsainted](https://www.last.fm/music/Slipknot/_/Unsainted)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)<!-- LASTFM:END -->
+* [Slipknot — The Dying Song &lpar;Time to Sing&rpar;](https://www.last.fm/music/Slipknot/_/The+Dying+Song+&lpar;Time+to+Sing&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
