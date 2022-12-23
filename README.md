@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
 * [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
-* [Deaton Chris Anthony — Go!](https://www.last.fm/music/Deaton+Chris+Anthony/_/Go!)
-* [YFU BABY — Kudasai](https://www.last.fm/music/YFU+BABY/_/Kudasai)
-* [Brothel — Searching For The End](https://www.last.fm/music/Brothel/_/Searching+For+The+End)<!-- LASTFM:END -->
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
