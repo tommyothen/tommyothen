@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [P*Light — TWINKLE MAGIC](https://www.last.fm/music/P*Light/_/TWINKLE+MAGIC)
+* [DJ Noriken — Comet Coaster](https://www.last.fm/music/DJ+Noriken/_/Comet+Coaster)
+* [USAO — Cyaegha](https://www.last.fm/music/USAO/_/Cyaegha)
 * [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Camellia — WYSI -When You See It-](https://www.last.fm/music/Camellia/_/WYSI+-When+You+See+It-)
-* [Camellia — WYSI -When You See It-](https://www.last.fm/music/Camellia/_/WYSI+-When+You+See+It-)
-* [Camellia — Hello &lpar;BPM&rpar; 2021](https://www.last.fm/music/Camellia/_/Hello+&lpar;BPM&rpar;+2021)
-* [Camellia — KillerToy](https://www.last.fm/music/Camellia/_/KillerToy)<!-- LASTFM:END -->
+* [Camellia — WYSI -When You See It-](https://www.last.fm/music/Camellia/_/WYSI+-When+You+See+It-)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
