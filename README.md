@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
 * [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
 * [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
 * [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
-* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
-* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)<!-- LASTFM:END -->
+* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
