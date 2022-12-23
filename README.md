@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
+* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
 * [Slipknot — Left Behind](https://www.last.fm/music/Slipknot/_/Left+Behind)
 * [Slipknot — &lpar;Sic&rpar;](https://www.last.fm/music/Slipknot/_/&lpar;Sic&rpar;)
-* [Slipknot — Killpop](https://www.last.fm/music/Slipknot/_/Killpop)
-* [Slipknot — Hive Mind](https://www.last.fm/music/Slipknot/_/Hive+Mind)
-* [Slipknot — Vermilion, Pt. 2](https://www.last.fm/music/Slipknot/_/Vermilion,+Pt.+2)<!-- LASTFM:END -->
+* [Slipknot — Killpop](https://www.last.fm/music/Slipknot/_/Killpop)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
