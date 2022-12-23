@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Slipknot — Vermilion, Pt. 2](https://www.last.fm/music/Slipknot/_/Vermilion,+Pt.+2)
-* [Slipknot — Spit It Out](https://www.last.fm/music/Slipknot/_/Spit+It+Out)
-* [Slipknot — The Devil in I](https://www.last.fm/music/Slipknot/_/The+Devil+in+I)
-* [Slipknot — Yen](https://www.last.fm/music/Slipknot/_/Yen)
-* [Slipknot — The Devil in I](https://www.last.fm/music/Slipknot/_/The+Devil+in+I)<!-- LASTFM:END -->
+* [Slipknot — Left Behind](https://www.last.fm/music/Slipknot/_/Left+Behind)
+* [Slipknot — &lpar;Sic&rpar;](https://www.last.fm/music/Slipknot/_/&lpar;Sic&rpar;)
+* [Slipknot — Killpop](https://www.last.fm/music/Slipknot/_/Killpop)
+* [Slipknot — Hive Mind](https://www.last.fm/music/Slipknot/_/Hive+Mind)
+* [Slipknot — Vermilion, Pt. 2](https://www.last.fm/music/Slipknot/_/Vermilion,+Pt.+2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
