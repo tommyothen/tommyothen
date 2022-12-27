@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [Glaive — fuck this town](https://www.last.fm/music/Glaive/_/fuck+this+town)
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
 * [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
-* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
-* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
-* [Lil Darkie — FUCK ALL OF YOU &lt;3](https://www.last.fm/music/Lil+Darkie/_/FUCK+ALL+OF+YOU+%3C3)<!-- LASTFM:END -->
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
