@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
+* [Metaroom — TRASH CLAN](https://www.last.fm/music/Metaroom/_/TRASH+CLAN)
 * [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)
-* [Silentroom — Aegleseeker](https://www.last.fm/music/Silentroom/_/Aegleseeker)
-* [II-L — VANGUARD-3](https://www.last.fm/music/II-L/_/VANGUARD-3)
-* [Zekk — フリーフォール](https://www.last.fm/music/Zekk/_/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB)
-* [Kobaryo — Invisible Frenzy](https://www.last.fm/music/Kobaryo/_/Invisible+Frenzy)<!-- LASTFM:END -->
+* [Silentroom — Aegleseeker](https://www.last.fm/music/Silentroom/_/Aegleseeker)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
