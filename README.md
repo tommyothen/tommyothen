@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
+* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
 * [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
 * [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
-* [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
+* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
