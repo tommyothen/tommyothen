@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Chalkeaters — Furrýmon: Gotta Smash ’Em All!](https://www.last.fm/music/The+Chalkeaters/_/Furr%C3%BDmon:+Gotta+Smash+%E2%80%99Em+All!)
+* [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)
 * [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
 * [Glaive — fuck this town](https://www.last.fm/music/Glaive/_/fuck+this+town)
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
-* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)<!-- LASTFM:END -->
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
