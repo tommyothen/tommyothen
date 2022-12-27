@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JERHELL — Ice Cream -](https://www.last.fm/music/JERHELL/_/Ice+Cream+-)
+* [keshi — GET IT](https://www.last.fm/music/keshi/_/GET+IT)
 * [Bishu — Behind Your Eyes](https://www.last.fm/music/Bishu/_/Behind+Your+Eyes)
 * [88rising — Indigo](https://www.last.fm/music/88rising/_/Indigo)
-* [SMLE — Can&#39;t Sleep Alone](https://www.last.fm/music/SMLE/_/Can%27t+Sleep+Alone)
-* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)<!-- LASTFM:END -->
+* [SMLE — Can&#39;t Sleep Alone](https://www.last.fm/music/SMLE/_/Can%27t+Sleep+Alone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
