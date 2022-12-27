@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [88rising — The Weekend - MILLI Remix](https://www.last.fm/music/88rising/_/The+Weekend+-+MILLI+Remix)
+* [demxntia — serene//rewind](https://www.last.fm/music/demxntia/_/serene%2F%2Frewind)
+* [Nick Smith — Hold Up](https://www.last.fm/music/Nick+Smith/_/Hold+Up)
 * [JERHELL — Ice Cream -](https://www.last.fm/music/JERHELL/_/Ice+Cream+-)
-* [keshi — GET IT](https://www.last.fm/music/keshi/_/GET+IT)
-* [Bishu — Behind Your Eyes](https://www.last.fm/music/Bishu/_/Behind+Your+Eyes)
-* [88rising — Indigo](https://www.last.fm/music/88rising/_/Indigo)
-* [SMLE — Can&#39;t Sleep Alone](https://www.last.fm/music/SMLE/_/Can%27t+Sleep+Alone)<!-- LASTFM:END -->
+* [keshi — GET IT](https://www.last.fm/music/keshi/_/GET+IT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
