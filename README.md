@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [templuv — bleachers](https://www.last.fm/music/templuv/_/bleachers)
+* [Denzel Curry — Dynasties &amp; Dystopia &lpar;from the series Arcane League of Legends&rpar;](https://www.last.fm/music/Denzel+Curry/_/Dynasties+&amp;+Dystopia+&lpar;from+the+series+Arcane+League+of+Legends&rpar;)
 * [Tobias Dray — I Don&#39;t Mind](https://www.last.fm/music/Tobias+Dray/_/I+Don%27t+Mind)
 * [brb. — my type](https://www.last.fm/music/brb./_/my+type)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Tiffany Day — IF I DON&#39;T TEXT YOU FIRST](https://www.last.fm/music/Tiffany+Day/_/IF+I+DON%27T+TEXT+YOU+FIRST)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
