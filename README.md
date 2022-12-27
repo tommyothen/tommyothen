@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Elio — hurts 2 hate somebody &lpar;with Chase Atlantic &amp; No Rome&rpar;](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+&lpar;with+Chase+Atlantic+&amp;+No+Rome&rpar;)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
 * [88rising — The Weekend](https://www.last.fm/music/88rising/_/The+Weekend)
 * [Tiffany Day — CALONE](https://www.last.fm/music/Tiffany+Day/_/CALONE)
-* [Tokyo Machine — Silver Lining](https://www.last.fm/music/Tokyo+Machine/_/Silver+Lining)
-* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
-* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)<!-- LASTFM:END -->
+* [Tokyo Machine — Silver Lining](https://www.last.fm/music/Tokyo+Machine/_/Silver+Lining)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
