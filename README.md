@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SMLE — Can&#39;t Sleep Alone](https://www.last.fm/music/SMLE/_/Can%27t+Sleep+Alone)
+* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
 * [Brooksie — Not Into You](https://www.last.fm/music/Brooksie/_/Not+Into+You)
 * [brb. — juice](https://www.last.fm/music/brb./_/juice)
-* [Neoni — BOO HOO](https://www.last.fm/music/Neoni/_/BOO+HOO)
-* [Bishu — Be Cool](https://www.last.fm/music/Bishu/_/Be+Cool)
-* [Juliana Chahayed — Yellow](https://www.last.fm/music/Juliana+Chahayed/_/Yellow)<!-- LASTFM:END -->
+* [Neoni — BOO HOO](https://www.last.fm/music/Neoni/_/BOO+HOO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
