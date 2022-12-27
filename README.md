@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
+* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
+* [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)
 * [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
-* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
-* [Tove Lo — disco tits](https://www.last.fm/music/Tove+Lo/_/disco+tits)
-* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
-* [JME — Man Don&#39;t Care](https://www.last.fm/music/JME/_/Man+Don%27t+Care)<!-- LASTFM:END -->
+* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
