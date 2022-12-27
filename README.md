@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tobias Dray — I Don&#39;t Mind](https://www.last.fm/music/Tobias+Dray/_/I+Don%27t+Mind)
+* [brb. — my type](https://www.last.fm/music/brb./_/my+type)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
 * [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Tiffany Day — IF I DON&#39;T TEXT YOU FIRST](https://www.last.fm/music/Tiffany+Day/_/IF+I+DON%27T+TEXT+YOU+FIRST)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [demxntia — Tonight](https://www.last.fm/music/demxntia/_/Tonight)
-* [brb. — move](https://www.last.fm/music/brb./_/move)<!-- LASTFM:END -->
+* [Tiffany Day — IF I DON&#39;T TEXT YOU FIRST](https://www.last.fm/music/Tiffany+Day/_/IF+I+DON%27T+TEXT+YOU+FIRST)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
