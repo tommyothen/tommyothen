@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SMLE — Weightless](https://www.last.fm/music/SMLE/_/Weightless)
+* [88rising — Best Lover](https://www.last.fm/music/88rising/_/Best+Lover)
+* [ericdoa — fantasize](https://www.last.fm/music/ericdoa/_/fantasize)
 * [Carson Elliott — Not Ghosting U](https://www.last.fm/music/Carson+Elliott/_/Not+Ghosting+U)
-* [millennium parade — U - English Version](https://www.last.fm/music/millennium+parade/_/U+-+English+Version)
-* [88rising — The Weekend - MILLI Remix](https://www.last.fm/music/88rising/_/The+Weekend+-+MILLI+Remix)
-* [demxntia — serene//rewind](https://www.last.fm/music/demxntia/_/serene%2F%2Frewind)
-* [Nick Smith — Hold Up](https://www.last.fm/music/Nick+Smith/_/Hold+Up)<!-- LASTFM:END -->
+* [millennium parade — U - English Version](https://www.last.fm/music/millennium+parade/_/U+-+English+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
