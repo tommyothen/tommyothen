@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tokyo Machine — Silver Lining](https://www.last.fm/music/Tokyo+Machine/_/Silver+Lining)
+* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
+* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
 * [SMLE — Weightless](https://www.last.fm/music/SMLE/_/Weightless)
-* [88rising — Best Lover](https://www.last.fm/music/88rising/_/Best+Lover)
-* [ericdoa — fantasize](https://www.last.fm/music/ericdoa/_/fantasize)
-* [Carson Elliott — Not Ghosting U](https://www.last.fm/music/Carson+Elliott/_/Not+Ghosting+U)
-* [millennium parade — U - English Version](https://www.last.fm/music/millennium+parade/_/U+-+English+Version)<!-- LASTFM:END -->
+* [88rising — Best Lover](https://www.last.fm/music/88rising/_/Best+Lover)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
