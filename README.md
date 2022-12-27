@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Silent Child — 1975](https://www.last.fm/music/Silent+Child/_/1975)
+* [88rising — La La Lost You](https://www.last.fm/music/88rising/_/La+La+Lost+You)
 * [templuv — bleachers](https://www.last.fm/music/templuv/_/bleachers)
 * [Denzel Curry — Dynasties &amp; Dystopia &lpar;from the series Arcane League of Legends&rpar;](https://www.last.fm/music/Denzel+Curry/_/Dynasties+&amp;+Dystopia+&lpar;from+the+series+Arcane+League+of+Legends&rpar;)
-* [Tobias Dray — I Don&#39;t Mind](https://www.last.fm/music/Tobias+Dray/_/I+Don%27t+Mind)
-* [brb. — my type](https://www.last.fm/music/brb./_/my+type)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [Tobias Dray — I Don&#39;t Mind](https://www.last.fm/music/Tobias+Dray/_/I+Don%27t+Mind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
