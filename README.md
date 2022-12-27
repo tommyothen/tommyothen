@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [galdive — Sorbet](https://www.last.fm/music/galdive/_/Sorbet)
-* [bbno$ — edamame &lpar;feat. Rich Brian&rpar;](https://www.last.fm/music/bbno$/_/edamame+&lpar;feat.+Rich+Brian&rpar;)
-* [ArLOW — Freefall](https://www.last.fm/music/ArLOW/_/Freefall)
-* [Silent Child — 1975](https://www.last.fm/music/Silent+Child/_/1975)
-* [88rising — La La Lost You](https://www.last.fm/music/88rising/_/La+La+Lost+You)<!-- LASTFM:END -->
+* [Porter Robinson — Everything Goes On](https://www.last.fm/music/Porter+Robinson/_/Everything+Goes+On)
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
+* [88rising — Freaks](https://www.last.fm/music/88rising/_/Freaks)
+* [brb. — on &amp; on](https://www.last.fm/music/brb./_/on+&amp;+on)
+* [galdive — Sorbet](https://www.last.fm/music/galdive/_/Sorbet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
