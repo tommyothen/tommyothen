@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
-* [Baki - ONA](https://myanimelist.net/anime/34443/Baki) - Watching - 1 of 26 episodes
-* [Angel Beats! - TV](https://myanimelist.net/anime/6547/Angel_Beats) - Dropped - 5 of 13 episodes
-* [Mieruko-chan - TV](https://myanimelist.net/anime/48483/Mieruko-chan) - Watching - 1 of 12 episodes
-* [Lycoris Recoil - TV](https://myanimelist.net/anime/50709/Lycoris_Recoil) - Watching - 3 of 13 episodes
-* [Chainsaw Man - TV](https://myanimelist.net/anime/44511/Chainsaw_Man) - Watching - 1 of 12 episodes<!-- ANIME-LIST:END -->
+* [Cowboy Bebop - TV](https://myanimelist.net/anime/1/Cowboy_Bebop) - Plan to Watch - 0 of 26 episodes
+* [Neon Genesis Evangelion - TV](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion) - On-Hold - 3 of 26 episodes
+* [Akira - Movie](https://myanimelist.net/anime/47/Akira) - Plan to Watch - 0 of 1 episodes
+* [Perfect Blue - Movie](https://myanimelist.net/anime/437/Perfect_Blue) - Plan to Watch - 0 of 1 episodes
+* [Ergo Proxy - TV](https://myanimelist.net/anime/790/Ergo_Proxy) - Plan to Watch - 0 of 23 episodes<!-- ANIME-LIST:END -->
