@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)
+* [MC L da vinte — Parado no Bailão](https://www.last.fm/music/MC+L+da+vinte/_/Parado+no+Bail%C3%A3o)
+* [Raye — Escapism. - Sped Up](https://www.last.fm/music/Raye/_/Escapism.+-+Sped+Up)
 * [Miguel — Sure Thing](https://www.last.fm/music/Miguel/_/Sure+Thing)
-* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)<!-- LASTFM:END -->
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
