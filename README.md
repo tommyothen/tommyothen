@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
+* [Kobaryo — Invisible Frenzy](https://www.last.fm/music/Kobaryo/_/Invisible+Frenzy)
 * [Beach House — Space Song](https://www.last.fm/music/Beach+House/_/Space+Song)
-* [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)
-* [MC L da vinte — Parado no Bailão](https://www.last.fm/music/MC+L+da+vinte/_/Parado+no+Bail%C3%A3o)
-* [Raye — Escapism. - Sped Up](https://www.last.fm/music/Raye/_/Escapism.+-+Sped+Up)
-* [Miguel — Sure Thing](https://www.last.fm/music/Miguel/_/Sure+Thing)<!-- LASTFM:END -->
+* [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
