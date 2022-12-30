@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
+* [Swervy — ART GANG MONEY &lpar;Feat. Reddy&rpar;](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY+&lpar;Feat.+Reddy&rpar;)
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
-* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
-* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)<!-- LASTFM:END -->
+* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
