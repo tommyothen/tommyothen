@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)
-* [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)<!-- LASTFM:END -->
+* [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
+* [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)
+* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
+* [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
