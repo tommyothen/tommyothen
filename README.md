@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Overrated — Give It to Me](https://www.last.fm/music/Overrated/_/Give+It+to+Me)
+* [Overrated — Little Demon King](https://www.last.fm/music/Overrated/_/Little+Demon+King)
+* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
 * [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)
-* [Overrated — Remedy](https://www.last.fm/music/Overrated/_/Remedy)
-* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
-* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
-* [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)<!-- LASTFM:END -->
+* [Overrated — Remedy](https://www.last.fm/music/Overrated/_/Remedy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
