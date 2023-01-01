@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Overrated — Criminal](https://www.last.fm/music/Overrated/_/Criminal)
+* [Overrated — We Could Be Together](https://www.last.fm/music/Overrated/_/We+Could+Be+Together)
 * [Overrated — Addicted](https://www.last.fm/music/Overrated/_/Addicted)
 * [Overrated — Give It to Me](https://www.last.fm/music/Overrated/_/Give+It+to+Me)
-* [Overrated — Little Demon King](https://www.last.fm/music/Overrated/_/Little+Demon+King)
-* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
-* [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)<!-- LASTFM:END -->
+* [Overrated — Little Demon King](https://www.last.fm/music/Overrated/_/Little+Demon+King)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
