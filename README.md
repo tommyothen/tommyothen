@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
+* [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)
+* [Overrated — Remedy](https://www.last.fm/music/Overrated/_/Remedy)
 * [Cypariss — EMPTY DREAMS](https://www.last.fm/music/Cypariss/_/EMPTY+DREAMS)
-* [ariis — S1KE](https://www.last.fm/music/ariis/_/S1KE)
-* [ONLY BAD COMPANY — THE KIDS ARE SICK!](https://www.last.fm/music/ONLY+BAD+COMPANY/_/THE+KIDS+ARE+SICK!)
-* [William Crooks — don&#39;t look at me!](https://www.last.fm/music/William+Crooks/_/don%27t+look+at+me!)
-* [Friend — Braces](https://www.last.fm/music/Friend/_/Braces)<!-- LASTFM:END -->
+* [ariis — S1KE](https://www.last.fm/music/ariis/_/S1KE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
