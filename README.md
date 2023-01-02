@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katy Perry — California Gurls](https://www.last.fm/music/Katy+Perry/_/California+Gurls)
 * [Tyler, the Creator — See You Again &lpar;feat. Kali Uchis&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+&lpar;feat.+Kali+Uchis&rpar;)
 * [Overrated — Little Demon King](https://www.last.fm/music/Overrated/_/Little+Demon+King)
 * [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
-* [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)
-* [Overrated — Remedy](https://www.last.fm/music/Overrated/_/Remedy)<!-- LASTFM:END -->
+* [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
