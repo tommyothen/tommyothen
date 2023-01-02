@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [anait — Пустота](https://www.last.fm/music/anait/_/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D1%82%D0%B0)
-* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
-* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
-* [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)
-* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)<!-- LASTFM:END -->
+* [ONLY BAD COMPANY — THE KIDS ARE SICK!](https://www.last.fm/music/ONLY+BAD+COMPANY/_/THE+KIDS+ARE+SICK!)
+* [William Crooks — don&#39;t look at me!](https://www.last.fm/music/William+Crooks/_/don%27t+look+at+me!)
+* [Friend — Braces](https://www.last.fm/music/Friend/_/Braces)
+* [Khantrast — She Bad](https://www.last.fm/music/Khantrast/_/She+Bad)
+* [anait — Пустота](https://www.last.fm/music/anait/_/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D1%82%D0%B0)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
