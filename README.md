@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
 * [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
 * [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
-* [TWICE — FAKE &amp; TRUE](https://www.last.fm/music/TWICE/_/FAKE+&amp;+TRUE)
-* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
-* [TWICE — I CAN&#39;T STOP ME](https://www.last.fm/music/TWICE/_/I+CAN%27T+STOP+ME)<!-- LASTFM:END -->
+* [TWICE — FAKE &amp; TRUE](https://www.last.fm/music/TWICE/_/FAKE+&amp;+TRUE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
