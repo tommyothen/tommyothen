@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — FAKE &amp; TRUE](https://www.last.fm/music/TWICE/_/FAKE+&amp;+TRUE)
+* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
+* [TWICE — I CAN&#39;T STOP ME](https://www.last.fm/music/TWICE/_/I+CAN%27T+STOP+ME)
 * [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [TWICE — The Feels](https://www.last.fm/music/TWICE/_/The+Feels)
-* [TWICE — Talk that Talk](https://www.last.fm/music/TWICE/_/Talk+that+Talk)
-* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)<!-- LASTFM:END -->
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
