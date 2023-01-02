@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — Talk that Talk](https://www.last.fm/music/TWICE/_/Talk+that+Talk)
+* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
+* [Kylie Minogue — Can&#39;t Get You Out of My Head](https://www.last.fm/music/Kylie+Minogue/_/Can%27t+Get+You+Out+of+My+Head)
 * [Kesha — We R Who We R](https://www.last.fm/music/Kesha/_/We+R+Who+We+R)
-* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
-* [Girls Aloud — Sound of the Underground](https://www.last.fm/music/Girls+Aloud/_/Sound+of+the+Underground)
-* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)
-* [Rihanna — S&amp;M](https://www.last.fm/music/Rihanna/_/S&amp;M)<!-- LASTFM:END -->
+* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
