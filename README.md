@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Overrated — In Front of You](https://www.last.fm/music/Overrated/_/In+Front+of+You)
+* [akucum — lie](https://www.last.fm/music/akucum/_/lie)
 * [akucum — watch the moon](https://www.last.fm/music/akucum/_/watch+the+moon)
 * [Overrated — Die a Demon King](https://www.last.fm/music/Overrated/_/Die+a+Demon+King)
-* [Overrated — Untouched](https://www.last.fm/music/Overrated/_/Untouched)
-* [Overrated — Criminal](https://www.last.fm/music/Overrated/_/Criminal)
-* [Overrated — We Could Be Together](https://www.last.fm/music/Overrated/_/We+Could+Be+Together)<!-- LASTFM:END -->
+* [Overrated — Untouched](https://www.last.fm/music/Overrated/_/Untouched)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
