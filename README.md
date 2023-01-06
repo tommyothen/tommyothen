@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)
 * [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
 * [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
 * [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)
-* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
-* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)<!-- LASTFM:END -->
+* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
