@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
-* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
-* [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)
-* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
-* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)<!-- LASTFM:END -->
+* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
+* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
+* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
+* [The Northern Boys — Party Time](https://www.last.fm/music/The+Northern+Boys/_/Party+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
