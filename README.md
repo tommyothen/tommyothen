@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [查尔斯 — Unwelcome school](https://www.last.fm/music/%E6%9F%A5%E5%B0%94%E6%96%AF/_/Unwelcome+school)
+* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
 * [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
 * [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)
-* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
-* [ariis — S1KE](https://www.last.fm/music/ariis/_/S1KE)<!-- LASTFM:END -->
+* [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
