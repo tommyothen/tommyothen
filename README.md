@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — GLADIATOR](https://www.last.fm/music/Softwilly/_/GLADIATOR)
+* [Yun Head — Cats on Mars](https://www.last.fm/music/Yun+Head/_/Cats+on+Mars)
+* [Yun Head — Cats on Mars](https://www.last.fm/music/Yun+Head/_/Cats+on+Mars)
 * [XANAKIN SKYWOK — Nice!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Nice!)
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [Khantrast — Cyberfreak](https://www.last.fm/music/Khantrast/_/Cyberfreak)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)<!-- LASTFM:END -->
+* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
