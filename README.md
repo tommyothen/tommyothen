@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
+* [ariis — S1KE](https://www.last.fm/music/ariis/_/S1KE)
+* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
 * [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)
-* [查尔斯 — Unwelcome school](https://www.last.fm/music/%E6%9F%A5%E5%B0%94%E6%96%AF/_/Unwelcome+school)
-* [GroovyDominoes52 — bee.](https://www.last.fm/music/GroovyDominoes52/_/bee.)
-* [查尔斯 — Unwelcome school](https://www.last.fm/music/%E6%9F%A5%E5%B0%94%E6%96%AF/_/Unwelcome+school)
 * [查尔斯 — Unwelcome school](https://www.last.fm/music/%E6%9F%A5%E5%B0%94%E6%96%AF/_/Unwelcome+school)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
