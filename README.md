@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
+* [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)
+* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
 * [Slipknot — All Out Life](https://www.last.fm/music/Slipknot/_/All+Out+Life)
-* [Slipknot — &lpar;Sic&rpar;](https://www.last.fm/music/Slipknot/_/&lpar;Sic&rpar;)
-* [Slipknot — The Chapeltown Rag](https://www.last.fm/music/Slipknot/_/The+Chapeltown+Rag)
-* [Slipknot — Left Behind](https://www.last.fm/music/Slipknot/_/Left+Behind)
-* [Slipknot — Vermilion, Pt. 2](https://www.last.fm/music/Slipknot/_/Vermilion,+Pt.+2)<!-- LASTFM:END -->
+* [Slipknot — &lpar;Sic&rpar;](https://www.last.fm/music/Slipknot/_/&lpar;Sic&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
