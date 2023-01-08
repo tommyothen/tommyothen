@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Vermilion, Pt. 2](https://www.last.fm/music/Slipknot/_/Vermilion,+Pt.+2)
 * [Slipknot — The Devil in I](https://www.last.fm/music/Slipknot/_/The+Devil+in+I)
 * [Slipknot — People = Shit](https://www.last.fm/music/Slipknot/_/People+=+Shit)
 * [Slipknot — The Dying Song &lpar;Time to Sing&rpar;](https://www.last.fm/music/Slipknot/_/The+Dying+Song+&lpar;Time+to+Sing&rpar;)
-* [Slipknot — Unsainted](https://www.last.fm/music/Slipknot/_/Unsainted)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)<!-- LASTFM:END -->
+* [Slipknot — Unsainted](https://www.last.fm/music/Slipknot/_/Unsainted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
