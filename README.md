@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Khantrast — She Bad](https://www.last.fm/music/Khantrast/_/She+Bad)
-* [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)
-* [777villain — STEW](https://www.last.fm/music/777villain/_/STEW)
+* [XANAKIN SKYWOK — Nice!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Nice!)
+* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
 * [Khantrast — Cyberfreak](https://www.last.fm/music/Khantrast/_/Cyberfreak)
-* [Sugs — The Pylons](https://www.last.fm/music/Sugs/_/The+Pylons)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
