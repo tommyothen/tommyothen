@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
-* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
-* [The Northern Boys — Party Time](https://www.last.fm/music/The+Northern+Boys/_/Party+Time)
-* [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)
-* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)<!-- LASTFM:END -->
+* [Axiliya — Will U Be My Valentine?](https://www.last.fm/music/Axiliya/_/Will+U+Be+My+Valentine%3F)
+* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)
+* [XANAKIN SKYWOK — Robby Robertson](https://www.last.fm/music/XANAKIN+SKYWOK/_/Robby+Robertson)
+* [XANAKIN SKYWOK — JAFAR](https://www.last.fm/music/XANAKIN+SKYWOK/_/JAFAR)
+* [XANAKIN SKYWOK — DESPACITO 2.5](https://www.last.fm/music/XANAKIN+SKYWOK/_/DESPACITO+2.5)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
