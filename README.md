@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [akucum — watch the moon](https://www.last.fm/music/akucum/_/watch+the+moon)
-* [Overrated — 7331 Steps Ahead](https://www.last.fm/music/Overrated/_/7331+Steps+Ahead)
-* [Overrated — We Could Be Together](https://www.last.fm/music/Overrated/_/We+Could+Be+Together)
-* [Overrated — Criminal](https://www.last.fm/music/Overrated/_/Criminal)
-* [Overrated — Addicted](https://www.last.fm/music/Overrated/_/Addicted)<!-- LASTFM:END -->
+* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
+* [ariis — S1KE](https://www.last.fm/music/ariis/_/S1KE)
+* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
+* [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)
+* [akucum — watch the moon](https://www.last.fm/music/akucum/_/watch+the+moon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
