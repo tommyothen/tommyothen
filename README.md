@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XANAKIN SKYWOK — Nitro](https://www.last.fm/music/XANAKIN+SKYWOK/_/Nitro)
-* [XANAKIN SKYWOK — Milkshake](https://www.last.fm/music/XANAKIN+SKYWOK/_/Milkshake)
-* [XANAKIN SKYWOK — Diddle](https://www.last.fm/music/XANAKIN+SKYWOK/_/Diddle)
-* [XANAKIN SKYWOK — Nice!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Nice!)
-* [XANAKIN SKYWOK — Diamond Drift](https://www.last.fm/music/XANAKIN+SKYWOK/_/Diamond+Drift)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Beach Boys](https://www.last.fm/music/XANAKIN+SKYWOK/_/Beach+Boys)
+* [XANAKIN SKYWOK — Jerk!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jerk!)
+* [XANAKIN SKYWOK — Breathe](https://www.last.fm/music/XANAKIN+SKYWOK/_/Breathe)
+* [XANAKIN SKYWOK — Shocker!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Shocker!)
+* [XANAKIN SKYWOK — Villain](https://www.last.fm/music/XANAKIN+SKYWOK/_/Villain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
