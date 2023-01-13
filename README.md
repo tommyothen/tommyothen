@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XANAKIN SKYWOK — Giggity](https://www.last.fm/music/XANAKIN+SKYWOK/_/Giggity)
-* [Chills — Chill Pill](https://www.last.fm/music/Chills/_/Chill+Pill)
-* [XANAKIN SKYWOK — Club Banger!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Club+Banger!)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [XANAKIN SKYWOK — Widit](https://www.last.fm/music/XANAKIN+SKYWOK/_/Widit)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Jaws](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jaws)
+* [XANAKIN SKYWOK — Bravo!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Bravo!)
+* [XANAKIN SKYWOK — VICE CITY](https://www.last.fm/music/XANAKIN+SKYWOK/_/VICE+CITY)
+* [XANAKIN SKYWOK — Geek](https://www.last.fm/music/XANAKIN+SKYWOK/_/Geek)
+* [XANAKIN SKYWOK — Giggity](https://www.last.fm/music/XANAKIN+SKYWOK/_/Giggity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
