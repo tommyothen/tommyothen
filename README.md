@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Overrated — Remedy](https://www.last.fm/music/Overrated/_/Remedy)
+* [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)
+* [Overrated — Remedy](https://www.last.fm/music/Overrated/_/Remedy)
 * [akucum — watch the moon](https://www.last.fm/music/akucum/_/watch+the+moon)
-* [Overrated — 7331 Steps Ahead](https://www.last.fm/music/Overrated/_/7331+Steps+Ahead)
-* [Overrated — We Could Be Together](https://www.last.fm/music/Overrated/_/We+Could+Be+Together)
-* [Overrated — Die a Demon King](https://www.last.fm/music/Overrated/_/Die+a+Demon+King)<!-- LASTFM:END -->
+* [Overrated — 7331 Steps Ahead](https://www.last.fm/music/Overrated/_/7331+Steps+Ahead)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
