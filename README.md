@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Overrated — Remedy](https://www.last.fm/music/Overrated/_/Remedy)
 * [Overrated — Guardian Angel](https://www.last.fm/music/Overrated/_/Guardian+Angel)
 * [Overrated — Death Angel](https://www.last.fm/music/Overrated/_/Death+Angel)
 * [Overrated — I Love You](https://www.last.fm/music/Overrated/_/I+Love+You)
-* [Overrated — In the Dark](https://www.last.fm/music/Overrated/_/In+the+Dark)
-* [Overrated — Lucky Girl](https://www.last.fm/music/Overrated/_/Lucky+Girl)<!-- LASTFM:END -->
+* [Overrated — In the Dark](https://www.last.fm/music/Overrated/_/In+the+Dark)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
