@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Axiliya — Will U Be My Valentine?](https://www.last.fm/music/Axiliya/_/Will+U+Be+My+Valentine%3F)
-* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)
-* [XANAKIN SKYWOK — Robby Robertson](https://www.last.fm/music/XANAKIN+SKYWOK/_/Robby+Robertson)
-* [XANAKIN SKYWOK — JAFAR](https://www.last.fm/music/XANAKIN+SKYWOK/_/JAFAR)
-* [XANAKIN SKYWOK — DESPACITO 2.5](https://www.last.fm/music/XANAKIN+SKYWOK/_/DESPACITO+2.5)<!-- LASTFM:END -->
+* [Axiliya — kisses on my neck](https://www.last.fm/music/Axiliya/_/kisses+on+my+neck)
+* [Axiliya — Hazel Eyes](https://www.last.fm/music/Axiliya/_/Hazel+Eyes)
+* [Axiliya — Poison Mind](https://www.last.fm/music/Axiliya/_/Poison+Mind)
+* [Axiliya — I Really Hate U](https://www.last.fm/music/Axiliya/_/I+Really+Hate+U)
+* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
