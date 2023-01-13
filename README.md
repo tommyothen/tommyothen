@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
+* [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)
 * [Overrated — Remedy](https://www.last.fm/music/Overrated/_/Remedy)
 * [Overrated — Wish You Were Here](https://www.last.fm/music/Overrated/_/Wish+You+Were+Here)
-* [Overrated — Until You Love Me](https://www.last.fm/music/Overrated/_/Until+You+Love+Me)
-* [Overrated — Remedy](https://www.last.fm/music/Overrated/_/Remedy)
-* [Overrated — Guardian Angel](https://www.last.fm/music/Overrated/_/Guardian+Angel)<!-- LASTFM:END -->
+* [Overrated — Until You Love Me](https://www.last.fm/music/Overrated/_/Until+You+Love+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
