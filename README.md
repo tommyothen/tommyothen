@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [PHONK WALKER — PHONK STATION](https://www.last.fm/music/PHONK+WALKER/_/PHONK+STATION)
-* [XANAKIN SKYWOK — Party!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Party!)
-* [XANAKIN SKYWOK — Zoomerang](https://www.last.fm/music/XANAKIN+SKYWOK/_/Zoomerang)
-* [XANAKIN SKYWOK — Mami!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Mami!)
-* [XANAKIN SKYWOK — Midnight Phonk](https://www.last.fm/music/XANAKIN+SKYWOK/_/Midnight+Phonk)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Widit](https://www.last.fm/music/XANAKIN+SKYWOK/_/Widit)
+* [XANAKIN SKYWOK — Lala!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Lala!)
+* [XANAKIN SKYWOK — Limo Boys](https://www.last.fm/music/XANAKIN+SKYWOK/_/Limo+Boys)
+* [XANAKIN SKYWOK — Shimmy!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Shimmy!)
+* [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
