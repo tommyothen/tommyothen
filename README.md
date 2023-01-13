@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ueu — Under The Stars](https://www.last.fm/music/ueu/_/Under+The+Stars)
+* [Axiliya — Hazel Eyes](https://www.last.fm/music/Axiliya/_/Hazel+Eyes)
 * [Axiliya — Poison Mind](https://www.last.fm/music/Axiliya/_/Poison+Mind)
 * [Axiliya — I Really Hate U](https://www.last.fm/music/Axiliya/_/I+Really+Hate+U)
-* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
-* [Axiliya — Will U Be My Valentine?](https://www.last.fm/music/Axiliya/_/Will+U+Be+My+Valentine%3F)
-* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)<!-- LASTFM:END -->
+* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
