@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
 * [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)
 * [Overrated — Remedy](https://www.last.fm/music/Overrated/_/Remedy)
 * [I_O — Annihilation](https://www.last.fm/music/I_O/_/Annihilation)
-* [XANAKIN SKYWOK — 2d](https://www.last.fm/music/XANAKIN+SKYWOK/_/2d)
-* [XANAKIN SKYWOK — Eighties!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Eighties!)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — 2d](https://www.last.fm/music/XANAKIN+SKYWOK/_/2d)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
