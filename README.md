@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XANAKIN SKYWOK — Big Spenders](https://www.last.fm/music/XANAKIN+SKYWOK/_/Big+Spenders)
+* [XANAKIN SKYWOK — Macho!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Macho!)
+* [XANAKIN SKYWOK — March!](https://www.last.fm/music/XANAKIN+SKYWOK/_/March!)
 * [XANAKIN SKYWOK — Beach Boys](https://www.last.fm/music/XANAKIN+SKYWOK/_/Beach+Boys)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [XANAKIN SKYWOK — Diamond Drift](https://www.last.fm/music/XANAKIN+SKYWOK/_/Diamond+Drift)
-* [Axiliya — I Really Hate U](https://www.last.fm/music/Axiliya/_/I+Really+Hate+U)
-* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
