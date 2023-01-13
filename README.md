@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XANAKIN SKYWOK — Widit](https://www.last.fm/music/XANAKIN+SKYWOK/_/Widit)
-* [XANAKIN SKYWOK — Lala!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Lala!)
-* [XANAKIN SKYWOK — Limo Boys](https://www.last.fm/music/XANAKIN+SKYWOK/_/Limo+Boys)
-* [XANAKIN SKYWOK — Shimmy!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Shimmy!)
-* [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Giggity](https://www.last.fm/music/XANAKIN+SKYWOK/_/Giggity)
+* [Chills — Chill Pill](https://www.last.fm/music/Chills/_/Chill+Pill)
+* [XANAKIN SKYWOK — Club Banger!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Club+Banger!)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [XANAKIN SKYWOK — Widit](https://www.last.fm/music/XANAKIN+SKYWOK/_/Widit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
