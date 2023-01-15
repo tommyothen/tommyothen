@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Snail Mail — Heat Wave](https://www.last.fm/music/Snail+Mail/_/Heat+Wave)
 * [Origami Angel — Skeleton Key](https://www.last.fm/music/Origami+Angel/_/Skeleton+Key)
 * [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
 * [Modern Baseball — Your Graduation](https://www.last.fm/music/Modern+Baseball/_/Your+Graduation)
-* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
-* [isaacwhy — 12 O&#39;BLOCK](https://www.last.fm/music/isaacwhy/_/12+O%27BLOCK)<!-- LASTFM:END -->
+* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
