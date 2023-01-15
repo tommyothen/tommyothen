@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XANAKIN SKYWOK — Hollywood!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Hollywood!)
+* [XANAKIN SKYWOK — Bravo!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Bravo!)
+* [XANAKIN SKYWOK — Milkshake](https://www.last.fm/music/XANAKIN+SKYWOK/_/Milkshake)
 * [Kxllswxtch — BLACK LAGOON](https://www.last.fm/music/Kxllswxtch/_/BLACK+LAGOON)
-* [Softwilly — LAZERBEAMS](https://www.last.fm/music/Softwilly/_/LAZERBEAMS)
-* [Softwilly — POP OUT](https://www.last.fm/music/Softwilly/_/POP+OUT)
-* [Softwilly — KILLA](https://www.last.fm/music/Softwilly/_/KILLA)
-* [Softwilly — KAIJU](https://www.last.fm/music/Softwilly/_/KAIJU)<!-- LASTFM:END -->
+* [Softwilly — LAZERBEAMS](https://www.last.fm/music/Softwilly/_/LAZERBEAMS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
