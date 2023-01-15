@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XANAKIN SKYWOK — Beach Boys](https://www.last.fm/music/XANAKIN+SKYWOK/_/Beach+Boys)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [Sota — Realise](https://www.last.fm/music/Sota/_/Realise)
 * [XANAKIN SKYWOK — Diamond Drift](https://www.last.fm/music/XANAKIN+SKYWOK/_/Diamond+Drift)
-* [XANAKIN SKYWOK — Diamond Drift](https://www.last.fm/music/XANAKIN+SKYWOK/_/Diamond+Drift)
-* [The Northern Boys — Party Time](https://www.last.fm/music/The+Northern+Boys/_/Party+Time)
-* [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)
-* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Diamond Drift](https://www.last.fm/music/XANAKIN+SKYWOK/_/Diamond+Drift)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
