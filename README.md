@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Softwilly — KILLA](https://www.last.fm/music/Softwilly/_/KILLA)
-* [Softwilly — KAIJU](https://www.last.fm/music/Softwilly/_/KAIJU)
-* [Softwilly — HIT ME](https://www.last.fm/music/Softwilly/_/HIT+ME)
+* [Kxllswxtch — BLACK LAGOON](https://www.last.fm/music/Kxllswxtch/_/BLACK+LAGOON)
 * [Softwilly — LAZERBEAMS](https://www.last.fm/music/Softwilly/_/LAZERBEAMS)
-* [Softwilly — POP OUT](https://www.last.fm/music/Softwilly/_/POP+OUT)<!-- LASTFM:END -->
+* [Softwilly — POP OUT](https://www.last.fm/music/Softwilly/_/POP+OUT)
+* [Softwilly — KILLA](https://www.last.fm/music/Softwilly/_/KILLA)
+* [Softwilly — KAIJU](https://www.last.fm/music/Softwilly/_/KAIJU)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
