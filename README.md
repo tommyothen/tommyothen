@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
+* [Jelani Aryeh — Marigold](https://www.last.fm/music/Jelani+Aryeh/_/Marigold)
 * [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
 * [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
-* [Car Seat Headrest — Drunk Drivers/Killer Whales](https://www.last.fm/music/Car+Seat+Headrest/_/Drunk+Drivers%2FKiller+Whales)
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
-* [Snail Mail — Heat Wave](https://www.last.fm/music/Snail+Mail/_/Heat+Wave)<!-- LASTFM:END -->
+* [Car Seat Headrest — Drunk Drivers/Killer Whales](https://www.last.fm/music/Car+Seat+Headrest/_/Drunk+Drivers%2FKiller+Whales)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
