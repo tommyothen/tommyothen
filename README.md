@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Modern Baseball — Your Graduation](https://www.last.fm/music/Modern+Baseball/_/Your+Graduation)
+* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
 * [isaacwhy — 12 O&#39;BLOCK](https://www.last.fm/music/isaacwhy/_/12+O%27BLOCK)
 * [isaacwhy — BUDLIGHT](https://www.last.fm/music/isaacwhy/_/BUDLIGHT)
-* [isaacwhy — I TOOK A PERC](https://www.last.fm/music/isaacwhy/_/I+TOOK+A+PERC)
-* [isaacwhy — FILL ME UP](https://www.last.fm/music/isaacwhy/_/FILL+ME+UP)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
+* [isaacwhy — I TOOK A PERC](https://www.last.fm/music/isaacwhy/_/I+TOOK+A+PERC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
