@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Car Seat Headrest — Drunk Drivers/Killer Whales](https://www.last.fm/music/Car+Seat+Headrest/_/Drunk+Drivers%2FKiller+Whales)
+* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
 * [Snail Mail — Heat Wave](https://www.last.fm/music/Snail+Mail/_/Heat+Wave)
 * [Origami Angel — Skeleton Key](https://www.last.fm/music/Origami+Angel/_/Skeleton+Key)
-* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
-* [Modern Baseball — Your Graduation](https://www.last.fm/music/Modern+Baseball/_/Your+Graduation)
-* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)<!-- LASTFM:END -->
+* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
