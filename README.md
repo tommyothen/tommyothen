@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
+* [Caving — Anatomy of a Crush](https://www.last.fm/music/Caving/_/Anatomy+of+a+Crush)
+* [No Rome — Spinning &lpar;with Charli XCX &amp; The 1975&rpar;](https://www.last.fm/music/No+Rome/_/Spinning+&lpar;with+Charli+XCX+&amp;+The+1975&rpar;)
 * [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
-* [Jelani Aryeh — Marigold](https://www.last.fm/music/Jelani+Aryeh/_/Marigold)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
-* [Car Seat Headrest — Drunk Drivers/Killer Whales](https://www.last.fm/music/Car+Seat+Headrest/_/Drunk+Drivers%2FKiller+Whales)<!-- LASTFM:END -->
+* [Jelani Aryeh — Marigold](https://www.last.fm/music/Jelani+Aryeh/_/Marigold)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
