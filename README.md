@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XANAKIN SKYWOK — Hollywood!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Hollywood!)
-* [XANAKIN SKYWOK — Bravo!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Bravo!)
 * [XANAKIN SKYWOK — Milkshake](https://www.last.fm/music/XANAKIN+SKYWOK/_/Milkshake)
-* [Kxllswxtch — BLACK LAGOON](https://www.last.fm/music/Kxllswxtch/_/BLACK+LAGOON)
-* [Softwilly — LAZERBEAMS](https://www.last.fm/music/Softwilly/_/LAZERBEAMS)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Diddle](https://www.last.fm/music/XANAKIN+SKYWOK/_/Diddle)
+* [XANAKIN SKYWOK — Nice!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Nice!)
+* [XANAKIN SKYWOK — Diamond Drift](https://www.last.fm/music/XANAKIN+SKYWOK/_/Diamond+Drift)
+* [XANAKIN SKYWOK — Heist!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Heist!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
