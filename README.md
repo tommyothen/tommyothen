@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cat Company — Maroon Sweater](https://www.last.fm/music/Cat+Company/_/Maroon+Sweater)
-* [ASPHYXIATION. &lpar;MAS&rpar; — you](https://www.last.fm/music/ASPHYXIATION.+&lpar;MAS&rpar;/_/you)
-* [Coletta — Agoraphobia](https://www.last.fm/music/Coletta/_/Agoraphobia)
-* [XANAKIN SKYWOK — Showdown!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Showdown!)
-* [XANAKIN SKYWOK — Ew!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Ew!)<!-- LASTFM:END -->
+* [azari — Who?](https://www.last.fm/music/azari/_/Who%3F)
+* [Cemetery Drive — FRAGILE](https://www.last.fm/music/Cemetery+Drive/_/FRAGILE)
+* [BODAH REVY — Black Rock Shooter](https://www.last.fm/music/BODAH+REVY/_/Black+Rock+Shooter)
+* [RomancePlanet — LEAVE TONIGHT](https://www.last.fm/music/RomancePlanet/_/LEAVE+TONIGHT)
+* [sleepisformortals — When the Summer Comes I Hide](https://www.last.fm/music/sleepisformortals/_/When+the+Summer+Comes+I+Hide)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
