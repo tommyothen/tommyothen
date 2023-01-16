@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [XANAKIN SKYWOK — Milkshake](https://www.last.fm/music/XANAKIN+SKYWOK/_/Milkshake)
-* [XANAKIN SKYWOK — Mami!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Mami!)
-* [Softwilly — POP OUT](https://www.last.fm/music/Softwilly/_/POP+OUT)
-* [XANAKIN SKYWOK — Big Spenders](https://www.last.fm/music/XANAKIN+SKYWOK/_/Big+Spenders)
-* [XANAKIN SKYWOK — Macho!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Macho!)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)
+* [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
+* [XANAKIN SKYWOK — Milkshake](https://www.last.fm/music/XANAKIN+SKYWOK/_/Milkshake)
+* [XANAKIN SKYWOK — Mami!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Mami!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
