@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XANAKIN SKYWOK — Mulan](https://www.last.fm/music/XANAKIN+SKYWOK/_/Mulan)
-* [XANAKIN SKYWOK — March!](https://www.last.fm/music/XANAKIN+SKYWOK/_/March!)
-* [XANAKIN SKYWOK — Beach Boys](https://www.last.fm/music/XANAKIN+SKYWOK/_/Beach+Boys)
-* [XANAKIN SKYWOK — Jerk!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jerk!)
-* [XANAKIN SKYWOK — Breathe](https://www.last.fm/music/XANAKIN+SKYWOK/_/Breathe)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Ew!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Ew!)
+* [XANAKIN SKYWOK — Looney](https://www.last.fm/music/XANAKIN+SKYWOK/_/Looney)
+* [Softwilly — SHALOM!](https://www.last.fm/music/Softwilly/_/SHALOM!)
+* [XANAKIN SKYWOK — Drill Wars](https://www.last.fm/music/XANAKIN+SKYWOK/_/Drill+Wars)
+* [XANAKIN SKYWOK — Big Spenders](https://www.last.fm/music/XANAKIN+SKYWOK/_/Big+Spenders)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
