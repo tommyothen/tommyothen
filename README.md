@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [S3RL — Notice Me](https://www.last.fm/music/S3RL/_/Notice+Me)
+* [KC Pizza — Sendan Life](https://www.last.fm/music/KC+Pizza/_/Sendan+Life)
+* [evaboy — is there a point &lpar;girl u know&rpar;](https://www.last.fm/music/evaboy/_/is+there+a+point+&lpar;girl+u+know&rpar;)
 * [Magdalena Bay — You Lose!](https://www.last.fm/music/Magdalena+Bay/_/You+Lose!)
-* [willro — Cult of the Lamp](https://www.last.fm/music/willro/_/Cult+of+the+Lamp)
-* [Zaro Vega — Boss Heart](https://www.last.fm/music/Zaro+Vega/_/Boss+Heart)
-* [JVNLIII — Out Of Reach!](https://www.last.fm/music/JVNLIII/_/Out+Of+Reach!)
-* [Forêt de Vin — Hold The Night](https://www.last.fm/music/For%C3%AAt+de+Vin/_/Hold+The+Night)<!-- LASTFM:END -->
+* [willro — Cult of the Lamp](https://www.last.fm/music/willro/_/Cult+of+the+Lamp)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
