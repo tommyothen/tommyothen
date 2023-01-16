@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Magdalena Bay — You Lose!](https://www.last.fm/music/Magdalena+Bay/_/You+Lose!)
+* [willro — Cult of the Lamp](https://www.last.fm/music/willro/_/Cult+of+the+Lamp)
 * [Zaro Vega — Boss Heart](https://www.last.fm/music/Zaro+Vega/_/Boss+Heart)
 * [JVNLIII — Out Of Reach!](https://www.last.fm/music/JVNLIII/_/Out+Of+Reach!)
-* [Forêt de Vin — Hold The Night](https://www.last.fm/music/For%C3%AAt+de+Vin/_/Hold+The+Night)
-* [Savage Ga$p — drunk texting my ex](https://www.last.fm/music/Savage+Ga$p/_/drunk+texting+my+ex)
-* [Liz Anya — Vicious Cycle](https://www.last.fm/music/Liz+Anya/_/Vicious+Cycle)<!-- LASTFM:END -->
+* [Forêt de Vin — Hold The Night](https://www.last.fm/music/For%C3%AAt+de+Vin/_/Hold+The+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
