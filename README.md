@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XANAKIN SKYWOK — Hollywood!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Hollywood!)
-* [XANAKIN SKYWOK — Bravo!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Bravo!)
-* [XANAKIN SKYWOK — Milkshake](https://www.last.fm/music/XANAKIN+SKYWOK/_/Milkshake)
+* [XANAKIN SKYWOK — Heist!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Heist!)
+* [XANAKIN SKYWOK — Nineties!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Nineties!)
 * [Softwilly — POP OUT](https://www.last.fm/music/Softwilly/_/POP+OUT)
-* [XANAKIN SKYWOK — Big Spenders](https://www.last.fm/music/XANAKIN+SKYWOK/_/Big+Spenders)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Hollywood!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Hollywood!)
+* [XANAKIN SKYWOK — Bravo!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Bravo!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
