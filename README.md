@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XANAKIN SKYWOK — Ew!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Ew!)
-* [XANAKIN SKYWOK — Looney](https://www.last.fm/music/XANAKIN+SKYWOK/_/Looney)
-* [Softwilly — SHALOM!](https://www.last.fm/music/Softwilly/_/SHALOM!)
-* [XANAKIN SKYWOK — Drill Wars](https://www.last.fm/music/XANAKIN+SKYWOK/_/Drill+Wars)
-* [XANAKIN SKYWOK — Big Spenders](https://www.last.fm/music/XANAKIN+SKYWOK/_/Big+Spenders)<!-- LASTFM:END -->
+* [Cat Company — Maroon Sweater](https://www.last.fm/music/Cat+Company/_/Maroon+Sweater)
+* [ASPHYXIATION. &lpar;MAS&rpar; — you](https://www.last.fm/music/ASPHYXIATION.+&lpar;MAS&rpar;/_/you)
+* [Coletta — Agoraphobia](https://www.last.fm/music/Coletta/_/Agoraphobia)
+* [XANAKIN SKYWOK — Showdown!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Showdown!)
+* [XANAKIN SKYWOK — Ew!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Ew!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
