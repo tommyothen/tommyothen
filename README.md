@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zaro Vega — Boss Heart](https://www.last.fm/music/Zaro+Vega/_/Boss+Heart)
+* [JVNLIII — Out Of Reach!](https://www.last.fm/music/JVNLIII/_/Out+Of+Reach!)
+* [Forêt de Vin — Hold The Night](https://www.last.fm/music/For%C3%AAt+de+Vin/_/Hold+The+Night)
 * [Savage Ga$p — drunk texting my ex](https://www.last.fm/music/Savage+Ga$p/_/drunk+texting+my+ex)
-* [Liz Anya — Vicious Cycle](https://www.last.fm/music/Liz+Anya/_/Vicious+Cycle)
-* [expiry date — session 0777777777777r21qffffffff jkopüswedxywy w333333r](https://www.last.fm/music/expiry+date/_/session+0777777777777r21qffffffff+jkop%C3%BCswedxywy+w333333r)
-* [Shoebill — improvised mashcore](https://www.last.fm/music/Shoebill/_/improvised+mashcore)
-* [Origami Angel — Bossa Nova Corps](https://www.last.fm/music/Origami+Angel/_/Bossa+Nova+Corps)<!-- LASTFM:END -->
+* [Liz Anya — Vicious Cycle](https://www.last.fm/music/Liz+Anya/_/Vicious+Cycle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
