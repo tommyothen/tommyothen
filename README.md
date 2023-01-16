@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Origami Angel — Bossa Nova Corps](https://www.last.fm/music/Origami+Angel/_/Bossa+Nova+Corps)
+* [Mista Playa — OPTICAL RANGE](https://www.last.fm/music/Mista+Playa/_/OPTICAL+RANGE)
+* [4649nadeshiko — re:re: i made a snail pancake](https://www.last.fm/music/4649nadeshiko/_/re:re:+i+made+a+snail+pancake)
 * [azari — Who?](https://www.last.fm/music/azari/_/Who%3F)
-* [Cemetery Drive — FRAGILE](https://www.last.fm/music/Cemetery+Drive/_/FRAGILE)
-* [BODAH REVY — Black Rock Shooter](https://www.last.fm/music/BODAH+REVY/_/Black+Rock+Shooter)
-* [RomancePlanet — LEAVE TONIGHT](https://www.last.fm/music/RomancePlanet/_/LEAVE+TONIGHT)
-* [sleepisformortals — When the Summer Comes I Hide](https://www.last.fm/music/sleepisformortals/_/When+the+Summer+Comes+I+Hide)<!-- LASTFM:END -->
+* [Cemetery Drive — FRAGILE](https://www.last.fm/music/Cemetery+Drive/_/FRAGILE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
