@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [expiry date — session 0777777777777r21qffffffff jkopüswedxywy w333333r](https://www.last.fm/music/expiry+date/_/session+0777777777777r21qffffffff+jkop%C3%BCswedxywy+w333333r)
+* [Shoebill — improvised mashcore](https://www.last.fm/music/Shoebill/_/improvised+mashcore)
 * [Origami Angel — Bossa Nova Corps](https://www.last.fm/music/Origami+Angel/_/Bossa+Nova+Corps)
 * [Mista Playa — OPTICAL RANGE](https://www.last.fm/music/Mista+Playa/_/OPTICAL+RANGE)
-* [4649nadeshiko — re:re: i made a snail pancake](https://www.last.fm/music/4649nadeshiko/_/re:re:+i+made+a+snail+pancake)
-* [azari — Who?](https://www.last.fm/music/azari/_/Who%3F)
-* [Cemetery Drive — FRAGILE](https://www.last.fm/music/Cemetery+Drive/_/FRAGILE)<!-- LASTFM:END -->
+* [4649nadeshiko — re:re: i made a snail pancake](https://www.last.fm/music/4649nadeshiko/_/re:re:+i+made+a+snail+pancake)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
