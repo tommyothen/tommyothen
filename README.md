@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Savage Ga$p — drunk texting my ex](https://www.last.fm/music/Savage+Ga$p/_/drunk+texting+my+ex)
+* [Liz Anya — Vicious Cycle](https://www.last.fm/music/Liz+Anya/_/Vicious+Cycle)
 * [expiry date — session 0777777777777r21qffffffff jkopüswedxywy w333333r](https://www.last.fm/music/expiry+date/_/session+0777777777777r21qffffffff+jkop%C3%BCswedxywy+w333333r)
 * [Shoebill — improvised mashcore](https://www.last.fm/music/Shoebill/_/improvised+mashcore)
-* [Origami Angel — Bossa Nova Corps](https://www.last.fm/music/Origami+Angel/_/Bossa+Nova+Corps)
-* [Mista Playa — OPTICAL RANGE](https://www.last.fm/music/Mista+Playa/_/OPTICAL+RANGE)
-* [4649nadeshiko — re:re: i made a snail pancake](https://www.last.fm/music/4649nadeshiko/_/re:re:+i+made+a+snail+pancake)<!-- LASTFM:END -->
+* [Origami Angel — Bossa Nova Corps](https://www.last.fm/music/Origami+Angel/_/Bossa+Nova+Corps)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
