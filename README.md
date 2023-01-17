@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Emotional Oranges — Bounce](https://www.last.fm/music/Emotional+Oranges/_/Bounce)
 * [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
 * [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
 * [Doja Cat — Options &lpar;feat. JID&rpar;](https://www.last.fm/music/Doja+Cat/_/Options+&lpar;feat.+JID&rpar;)
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Swae Lee — In The Dark &lpar;with Jhené Aiko&rpar;](https://www.last.fm/music/Swae+Lee/_/In+The+Dark+&lpar;with+Jhen%C3%A9+Aiko&rpar;)<!-- LASTFM:END -->
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
