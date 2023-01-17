@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [88rising — Best Lover](https://www.last.fm/music/88rising/_/Best+Lover)
+* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
 * [Aminé — Charmander](https://www.last.fm/music/Amin%C3%A9/_/Charmander)
-* [SZA — Low](https://www.last.fm/music/SZA/_/Low)
-* [Tyga — Freaky Deaky](https://www.last.fm/music/Tyga/_/Freaky+Deaky)
-* [Softwilly — POP OUT](https://www.last.fm/music/Softwilly/_/POP+OUT)
-* [XANAKIN SKYWOK — Big Spenders](https://www.last.fm/music/XANAKIN+SKYWOK/_/Big+Spenders)<!-- LASTFM:END -->
+* [SZA — Low](https://www.last.fm/music/SZA/_/Low)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
