@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XANAKIN SKYWOK — Diamond Drift](https://www.last.fm/music/XANAKIN+SKYWOK/_/Diamond+Drift)
+* [XANAKIN SKYWOK — Milkshake](https://www.last.fm/music/XANAKIN+SKYWOK/_/Milkshake)
+* [Tyga — Freaky Deaky](https://www.last.fm/music/Tyga/_/Freaky+Deaky)
 * [GNB CHILI — Failan](https://www.last.fm/music/GNB+CHILI/_/Failan)
-* [S3RL — Notice Me](https://www.last.fm/music/S3RL/_/Notice+Me)
-* [KC Pizza — Sendan Life](https://www.last.fm/music/KC+Pizza/_/Sendan+Life)
-* [evaboy — is there a point &lpar;girl u know&rpar;](https://www.last.fm/music/evaboy/_/is+there+a+point+&lpar;girl+u+know&rpar;)
-* [Magdalena Bay — You Lose!](https://www.last.fm/music/Magdalena+Bay/_/You+Lose!)<!-- LASTFM:END -->
+* [S3RL — Notice Me](https://www.last.fm/music/S3RL/_/Notice+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
