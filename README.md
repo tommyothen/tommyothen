@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Swae Lee — In The Dark &lpar;with Jhené Aiko&rpar;](https://www.last.fm/music/Swae+Lee/_/In+The+Dark+&lpar;with+Jhen%C3%A9+Aiko&rpar;)
+* [SZA — I Hate U](https://www.last.fm/music/SZA/_/I+Hate+U)
+* [Tinashe — Naturally](https://www.last.fm/music/Tinashe/_/Naturally)
 * [Mahalia — Letter To Ur Ex](https://www.last.fm/music/Mahalia/_/Letter+To+Ur+Ex)
-* [88rising — The Weekend](https://www.last.fm/music/88rising/_/The+Weekend)
-* [Post Malone — I Like You &lpar;A Happier Song&rpar; &lpar;with Doja Cat&rpar;](https://www.last.fm/music/Post+Malone/_/I+Like+You+&lpar;A+Happier+Song&rpar;+&lpar;with+Doja+Cat&rpar;)
-* [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
-* [SZA — Shirt](https://www.last.fm/music/SZA/_/Shirt)<!-- LASTFM:END -->
+* [88rising — The Weekend](https://www.last.fm/music/88rising/_/The+Weekend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
