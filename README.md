@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mahalia — Letter To Ur Ex](https://www.last.fm/music/Mahalia/_/Letter+To+Ur+Ex)
+* [88rising — The Weekend](https://www.last.fm/music/88rising/_/The+Weekend)
+* [Post Malone — I Like You &lpar;A Happier Song&rpar; &lpar;with Doja Cat&rpar;](https://www.last.fm/music/Post+Malone/_/I+Like+You+&lpar;A+Happier+Song&rpar;+&lpar;with+Doja+Cat&rpar;)
 * [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
-* [SZA — Shirt](https://www.last.fm/music/SZA/_/Shirt)
-* [Austin George — Freak Like That](https://www.last.fm/music/Austin+George/_/Freak+Like+That)
-* [Khalid — Present](https://www.last.fm/music/Khalid/_/Present)
-* [Sevyn Streeter — End Up](https://www.last.fm/music/Sevyn+Streeter/_/End+Up)<!-- LASTFM:END -->
+* [SZA — Shirt](https://www.last.fm/music/SZA/_/Shirt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
