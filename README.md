@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyga — Freaky Deaky](https://www.last.fm/music/Tyga/_/Freaky+Deaky)
+* [Softwilly — POP OUT](https://www.last.fm/music/Softwilly/_/POP+OUT)
 * [XANAKIN SKYWOK — Big Spenders](https://www.last.fm/music/XANAKIN+SKYWOK/_/Big+Spenders)
 * [XANAKIN SKYWOK — Macho!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Macho!)
-* [XANAKIN SKYWOK — March!](https://www.last.fm/music/XANAKIN+SKYWOK/_/March!)
-* [XANAKIN SKYWOK — Beach Boys](https://www.last.fm/music/XANAKIN+SKYWOK/_/Beach+Boys)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — March!](https://www.last.fm/music/XANAKIN+SKYWOK/_/March!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
