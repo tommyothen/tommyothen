@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
+* [SZA — Shirt](https://www.last.fm/music/SZA/_/Shirt)
 * [Austin George — Freak Like That](https://www.last.fm/music/Austin+George/_/Freak+Like+That)
 * [Khalid — Present](https://www.last.fm/music/Khalid/_/Present)
-* [Sevyn Streeter — End Up](https://www.last.fm/music/Sevyn+Streeter/_/End+Up)
-* [88rising — Best Lover](https://www.last.fm/music/88rising/_/Best+Lover)
-* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)<!-- LASTFM:END -->
+* [Sevyn Streeter — End Up](https://www.last.fm/music/Sevyn+Streeter/_/End+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
