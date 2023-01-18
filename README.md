@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TeddyLoid — D City Rock feat. Debra Zeer](https://www.last.fm/music/TeddyLoid/_/D+City+Rock+feat.+Debra+Zeer)
+* [TeddyLoid — Yesline Dub](https://www.last.fm/music/TeddyLoid/_/Yesline+Dub)
 * [TeddyLoid — Over Drive](https://www.last.fm/music/TeddyLoid/_/Over+Drive)
 * [TeddyLoid — Milky Way](https://www.last.fm/music/TeddyLoid/_/Milky+Way)
-* [TeddyLoid — Black Moon Sympathy](https://www.last.fm/music/TeddyLoid/_/Black+Moon+Sympathy)
-* [TeddyLoid — デスぺレート](https://www.last.fm/music/TeddyLoid/_/%E3%83%87%E3%82%B9%E3%81%BA%E3%83%AC%E3%83%BC%E3%83%88)
-* [TeddyLoid — ダイキライ feat. ちゃんみな](https://www.last.fm/music/TeddyLoid/_/%E3%83%80%E3%82%A4%E3%82%AD%E3%83%A9%E3%82%A4+feat.+%E3%81%A1%E3%82%83%E3%82%93%E3%81%BF%E3%81%AA)<!-- LASTFM:END -->
+* [TeddyLoid — Black Moon Sympathy](https://www.last.fm/music/TeddyLoid/_/Black+Moon+Sympathy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
