@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TeddyLoid — デスぺレート](https://www.last.fm/music/TeddyLoid/_/%E3%83%87%E3%82%B9%E3%81%BA%E3%83%AC%E3%83%BC%E3%83%88)
+* [TeddyLoid — ダイキライ feat. ちゃんみな](https://www.last.fm/music/TeddyLoid/_/%E3%83%80%E3%82%A4%E3%82%AD%E3%83%A9%E3%82%A4+feat.+%E3%81%A1%E3%82%83%E3%82%93%E3%81%BF%E3%81%AA)
 * [TeddyLoid — SECRET Feat. Tomoko Ikeda From Shiggy Jr.](https://www.last.fm/music/TeddyLoid/_/SECRET+Feat.+Tomoko+Ikeda+From+Shiggy+Jr.)
 * [TeddyLoid — Shooting Star](https://www.last.fm/music/TeddyLoid/_/Shooting+Star)
-* [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)
-* [TeddyLoid — ダイスキ feat. DAOKO &lpar;Live Mix&rpar;](https://www.last.fm/music/TeddyLoid/_/%E3%83%80%E3%82%A4%E3%82%B9%E3%82%AD+feat.+DAOKO+&lpar;Live+Mix&rpar;)
-* [日本アニメ&lpar;ーター&rpar;見本市 — ME!ME!ME! feat. daoko_pt.3](https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%8B%E3%83%A1&lpar;%E3%83%BC%E3%82%BF%E3%83%BC&rpar;%E8%A6%8B%E6%9C%AC%E5%B8%82/_/ME!ME!ME!+feat.+daoko_pt.3)<!-- LASTFM:END -->
+* [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
