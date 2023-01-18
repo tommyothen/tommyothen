@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
+* [查尔斯 — Unwelcome school](https://www.last.fm/music/%E6%9F%A5%E5%B0%94%E6%96%AF/_/Unwelcome+school)
 * [Sota — Realise](https://www.last.fm/music/Sota/_/Realise)
 * [ariis — S1KE](https://www.last.fm/music/ariis/_/S1KE)
-* [Skrillex — Don’t Go &lpar;with Justin Bieber &amp; Don Toliver&rpar;](https://www.last.fm/music/Skrillex/_/Don%E2%80%99t+Go+&lpar;with+Justin+Bieber+&amp;+Don+Toliver&rpar;)
-* [Emotional Oranges — Bounce](https://www.last.fm/music/Emotional+Oranges/_/Bounce)
-* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)<!-- LASTFM:END -->
+* [Skrillex — Don’t Go &lpar;with Justin Bieber &amp; Don Toliver&rpar;](https://www.last.fm/music/Skrillex/_/Don%E2%80%99t+Go+&lpar;with+Justin+Bieber+&amp;+Don+Toliver&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
