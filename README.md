@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TeddyLoid — Ghost Town](https://www.last.fm/music/TeddyLoid/_/Ghost+Town)
 * [TeddyLoid — D City Rock feat. Debra Zeer](https://www.last.fm/music/TeddyLoid/_/D+City+Rock+feat.+Debra+Zeer)
 * [TeddyLoid — Yesline Dub](https://www.last.fm/music/TeddyLoid/_/Yesline+Dub)
 * [TeddyLoid — Over Drive](https://www.last.fm/music/TeddyLoid/_/Over+Drive)
-* [TeddyLoid — Milky Way](https://www.last.fm/music/TeddyLoid/_/Milky+Way)
-* [TeddyLoid — Black Moon Sympathy](https://www.last.fm/music/TeddyLoid/_/Black+Moon+Sympathy)<!-- LASTFM:END -->
+* [TeddyLoid — Milky Way](https://www.last.fm/music/TeddyLoid/_/Milky+Way)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
