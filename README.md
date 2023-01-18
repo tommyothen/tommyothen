@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [日本アニメ&lpar;ーター&rpar;見本市 — ME!ME!ME! feat. daoko_pt.1](https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%8B%E3%83%A1&lpar;%E3%83%BC%E3%82%BF%E3%83%BC&rpar;%E8%A6%8B%E6%9C%AC%E5%B8%82/_/ME!ME!ME!+feat.+daoko_pt.1)
+* [TeddyLoid — White Out](https://www.last.fm/music/TeddyLoid/_/White+Out)
 * [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)
 * [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)<!-- LASTFM:END -->
+* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
