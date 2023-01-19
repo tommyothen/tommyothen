@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TeddyLoid — Theme for Scanty &amp; Knee Socks](https://www.last.fm/music/TeddyLoid/_/Theme+for+Scanty+&amp;+Knee+Socks)
-* [DEMONDICE — Sedai No SCREAM](https://www.last.fm/music/DEMONDICE/_/Sedai+No+SCREAM)
-* [TeddyLoid — SECRET Feat. Tomoko Ikeda From Shiggy Jr.](https://www.last.fm/music/TeddyLoid/_/SECRET+Feat.+Tomoko+Ikeda+From+Shiggy+Jr.)
-* [Steve Aoki — Movie Star ft. MOD SUN &amp; Global Dan &lpar;#kzn &amp; TeddyLoid Remix&rpar;](https://www.last.fm/music/Steve+Aoki/_/Movie+Star+ft.+MOD+SUN+&amp;+Global+Dan+&lpar;%23kzn+&amp;+TeddyLoid+Remix&rpar;)
-* [Steve Aoki — Movie Star ft. MOD SUN &amp; Global Dan &lpar;#kzn &amp; TeddyLoid Remix&rpar;](https://www.last.fm/music/Steve+Aoki/_/Movie+Star+ft.+MOD+SUN+&amp;+Global+Dan+&lpar;%23kzn+&amp;+TeddyLoid+Remix&rpar;)<!-- LASTFM:END -->
+* [TeddyLoid — Dancefloor Orgy](https://www.last.fm/music/TeddyLoid/_/Dancefloor+Orgy)
+* [TeddyLoid — Link Link](https://www.last.fm/music/TeddyLoid/_/Link+Link)
+* [日本アニメ&lpar;ーター&rpar;見本市 — ME!ME!ME! feat. daoko_pt.3](https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%8B%E3%83%A1&lpar;%E3%83%BC%E3%82%BF%E3%83%BC&rpar;%E8%A6%8B%E6%9C%AC%E5%B8%82/_/ME!ME!ME!+feat.+daoko_pt.3)
+* [TeddyLoid — Cherryboy Riot](https://www.last.fm/music/TeddyLoid/_/Cherryboy+Riot)
+* [TeddyLoid — Theme for Scanty &amp; Knee Socks](https://www.last.fm/music/TeddyLoid/_/Theme+for+Scanty+&amp;+Knee+Socks)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
