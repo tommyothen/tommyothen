@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
+* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
-* [TWICE — TT](https://www.last.fm/music/TWICE/_/TT)
-* [Jennie — SOLO](https://www.last.fm/music/Jennie/_/SOLO)
-* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)<!-- LASTFM:END -->
+* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
