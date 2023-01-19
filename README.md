@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — Don&#39;t Know What to Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+to+Do)
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
+* [Everglow — Bon Bon Chocolat](https://www.last.fm/music/Everglow/_/Bon+Bon+Chocolat)
 * [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
-* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
-* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
-* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
-* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)<!-- LASTFM:END -->
+* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
