@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [Jackson Wang — LMLY](https://www.last.fm/music/Jackson+Wang/_/LMLY)
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
 * [Katie — Remember](https://www.last.fm/music/Katie/_/Remember)
-* [IU — eight&lpar;Prod.&amp;Feat. SUGA of BTS&rpar;](https://www.last.fm/music/IU/_/eight&lpar;Prod.&amp;Feat.+SUGA+of+BTS&rpar;)
-* [STAYC — POPPY - Japanese Ver.](https://www.last.fm/music/STAYC/_/POPPY+-+Japanese+Ver.)
-* [DPR IAN — zombie pop](https://www.last.fm/music/DPR+IAN/_/zombie+pop)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)<!-- LASTFM:END -->
+* [IU — eight&lpar;Prod.&amp;Feat. SUGA of BTS&rpar;](https://www.last.fm/music/IU/_/eight&lpar;Prod.&amp;Feat.+SUGA+of+BTS&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
