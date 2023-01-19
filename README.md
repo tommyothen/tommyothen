@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IU — dlwlrma](https://www.last.fm/music/IU/_/dlwlrma)
 * [LE SSERAFIM — Impurities](https://www.last.fm/music/LE+SSERAFIM/_/Impurities)
 * [Yena — SMILEY&lpar;Feat. BIBI&rpar;](https://www.last.fm/music/Yena/_/SMILEY&lpar;Feat.+BIBI&rpar;)
 * [DPR IAN — So Beautiful](https://www.last.fm/music/DPR+IAN/_/So+Beautiful)
-* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
-* [TWICE — Talk that Talk](https://www.last.fm/music/TWICE/_/Talk+that+Talk)<!-- LASTFM:END -->
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
