@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TeddyLoid — Bionic Cherry](https://www.last.fm/music/TeddyLoid/_/Bionic+Cherry)
+* [TeddyLoid — Ghost Town](https://www.last.fm/music/TeddyLoid/_/Ghost+Town)
+* [K:REAM — Precious - TeddyLoid Remix](https://www.last.fm/music/K:REAM/_/Precious+-+TeddyLoid+Remix)
 * [TeddyLoid — Dancefloor Orgy](https://www.last.fm/music/TeddyLoid/_/Dancefloor+Orgy)
-* [TeddyLoid — Link Link](https://www.last.fm/music/TeddyLoid/_/Link+Link)
-* [日本アニメ&lpar;ーター&rpar;見本市 — ME!ME!ME! feat. daoko_pt.3](https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%8B%E3%83%A1&lpar;%E3%83%BC%E3%82%BF%E3%83%BC&rpar;%E8%A6%8B%E6%9C%AC%E5%B8%82/_/ME!ME!ME!+feat.+daoko_pt.3)
-* [TeddyLoid — Cherryboy Riot](https://www.last.fm/music/TeddyLoid/_/Cherryboy+Riot)
-* [TeddyLoid — Theme for Scanty &amp; Knee Socks](https://www.last.fm/music/TeddyLoid/_/Theme+for+Scanty+&amp;+Knee+Socks)<!-- LASTFM:END -->
+* [TeddyLoid — Link Link](https://www.last.fm/music/TeddyLoid/_/Link+Link)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
