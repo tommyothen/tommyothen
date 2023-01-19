@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hwa Sa — I’m bad too &lpar;Feat. DPR LIVE&rpar;](https://www.last.fm/music/Hwa+Sa/_/I%E2%80%99m+bad+too+&lpar;Feat.+DPR+LIVE&rpar;)
+* [K/DA — MORE](https://www.last.fm/music/K%2FDA/_/MORE)
 * [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
 * [Jackson Wang — LMLY](https://www.last.fm/music/Jackson+Wang/_/LMLY)
-* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
-* [Katie — Remember](https://www.last.fm/music/Katie/_/Remember)
-* [IU — eight&lpar;Prod.&amp;Feat. SUGA of BTS&rpar;](https://www.last.fm/music/IU/_/eight&lpar;Prod.&amp;Feat.+SUGA+of+BTS&rpar;)<!-- LASTFM:END -->
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
