@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
 * [TWICE — TT](https://www.last.fm/music/TWICE/_/TT)
 * [Jennie — SOLO](https://www.last.fm/music/Jennie/_/SOLO)
-* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
-* [Key — Show Me](https://www.last.fm/music/Key/_/Show+Me)
-* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)<!-- LASTFM:END -->
+* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
