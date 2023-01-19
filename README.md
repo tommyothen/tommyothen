@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
 * [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
 * [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)
-* [TeddyLoid — Bionic Cherry](https://www.last.fm/music/TeddyLoid/_/Bionic+Cherry)
-* [TeddyLoid — Ghost Town](https://www.last.fm/music/TeddyLoid/_/Ghost+Town)
-* [K:REAM — Precious - TeddyLoid Remix](https://www.last.fm/music/K:REAM/_/Precious+-+TeddyLoid+Remix)<!-- LASTFM:END -->
+* [TeddyLoid — Bionic Cherry](https://www.last.fm/music/TeddyLoid/_/Bionic+Cherry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
