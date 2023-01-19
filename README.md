@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GWSN — BAZOOKA!](https://www.last.fm/music/GWSN/_/BAZOOKA!)
+* [Jackson Wang — Blow](https://www.last.fm/music/Jackson+Wang/_/Blow)
 * [Red Velvet — Peek-A-Boo](https://www.last.fm/music/Red+Velvet/_/Peek-A-Boo)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [Woosung — FACE](https://www.last.fm/music/Woosung/_/FACE)
-* [Solar — SPIT IT OUT](https://www.last.fm/music/Solar/_/SPIT+IT+OUT)<!-- LASTFM:END -->
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
