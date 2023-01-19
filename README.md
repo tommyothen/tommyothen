@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
+* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
 * [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
 * [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
-* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
-* [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
-* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)<!-- LASTFM:END -->
+* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
