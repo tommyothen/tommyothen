@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
 * [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [IU — dlwlrma](https://www.last.fm/music/IU/_/dlwlrma)
-* [LE SSERAFIM — Impurities](https://www.last.fm/music/LE+SSERAFIM/_/Impurities)
-* [Yena — SMILEY&lpar;Feat. BIBI&rpar;](https://www.last.fm/music/Yena/_/SMILEY&lpar;Feat.+BIBI&rpar;)<!-- LASTFM:END -->
+* [IU — dlwlrma](https://www.last.fm/music/IU/_/dlwlrma)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
