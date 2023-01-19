@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Steve Aoki — Movie Star ft. MOD SUN &amp; Global Dan &lpar;#kzn &amp; TeddyLoid Remix&rpar;](https://www.last.fm/music/Steve+Aoki/_/Movie+Star+ft.+MOD+SUN+&amp;+Global+Dan+&lpar;%23kzn+&amp;+TeddyLoid+Remix&rpar;)
+* [Steve Aoki — Movie Star ft. MOD SUN &amp; Global Dan &lpar;#kzn &amp; TeddyLoid Remix&rpar;](https://www.last.fm/music/Steve+Aoki/_/Movie+Star+ft.+MOD+SUN+&amp;+Global+Dan+&lpar;%23kzn+&amp;+TeddyLoid+Remix&rpar;)
 * [TeddyLoid — Salvation](https://www.last.fm/music/TeddyLoid/_/Salvation)
 * [TeddyLoid — Bionic Cherry](https://www.last.fm/music/TeddyLoid/_/Bionic+Cherry)
-* [TeddyLoid — Cherryboy Riot](https://www.last.fm/music/TeddyLoid/_/Cherryboy+Riot)
-* [TeddyLoid — Invisible Lovers](https://www.last.fm/music/TeddyLoid/_/Invisible+Lovers)
-* [TeddyLoid — Prowess](https://www.last.fm/music/TeddyLoid/_/Prowess)<!-- LASTFM:END -->
+* [TeddyLoid — Cherryboy Riot](https://www.last.fm/music/TeddyLoid/_/Cherryboy+Riot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
