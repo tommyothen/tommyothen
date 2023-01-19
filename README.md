@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TeddyLoid — Cherryboy Riot Part.2](https://www.last.fm/music/TeddyLoid/_/Cherryboy+Riot+Part.2)
-* [TeddyLoid — 夢の浮世に咲いてみな](https://www.last.fm/music/TeddyLoid/_/%E5%A4%A2%E3%81%AE%E6%B5%AE%E4%B8%96%E3%81%AB%E5%92%B2%E3%81%84%E3%81%A6%E3%81%BF%E3%81%AA)
-* [TeddyLoid — 全力少女](https://www.last.fm/music/TeddyLoid/_/%E5%85%A8%E5%8A%9B%E5%B0%91%E5%A5%B3)
-* [TeddyLoid — Ghost Town](https://www.last.fm/music/TeddyLoid/_/Ghost+Town)
-* [TeddyLoid — D City Rock feat. Debra Zeer](https://www.last.fm/music/TeddyLoid/_/D+City+Rock+feat.+Debra+Zeer)<!-- LASTFM:END -->
+* [TeddyLoid — Searching For You feat. Ko Shibasaki](https://www.last.fm/music/TeddyLoid/_/Searching+For+You+feat.+Ko+Shibasaki)
+* [TeddyLoid — Corset Theme](https://www.last.fm/music/TeddyLoid/_/Corset+Theme)
+* [TeddyLoid — TO THE END feat. アイナ・ジ・エンド&lpar;BiSH&rpar;](https://www.last.fm/music/TeddyLoid/_/TO+THE+END+feat.+%E3%82%A2%E3%82%A4%E3%83%8A%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89&lpar;BiSH&rpar;)
+* [TeddyLoid — Theme for Scanty &amp; Knee Socks](https://www.last.fm/music/TeddyLoid/_/Theme+for+Scanty+&amp;+Knee+Socks)
+* [TeddyLoid — Cherryboy Riot Part.2](https://www.last.fm/music/TeddyLoid/_/Cherryboy+Riot+Part.2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
