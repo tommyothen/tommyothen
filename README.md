@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Solar — SPIT IT OUT](https://www.last.fm/music/Solar/_/SPIT+IT+OUT)
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
+* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
 * [Jennie — SOLO](https://www.last.fm/music/Jennie/_/SOLO)
-* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
-* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
-* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
-* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)<!-- LASTFM:END -->
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
