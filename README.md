@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Key — Show Me](https://www.last.fm/music/Key/_/Show+Me)
+* [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
 * [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
 * [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
-* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [IU — dlwlrma](https://www.last.fm/music/IU/_/dlwlrma)<!-- LASTFM:END -->
+* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
