@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jennie — SOLO](https://www.last.fm/music/Jennie/_/SOLO)
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
+* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
 * [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
-* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
-* [Key — Show Me](https://www.last.fm/music/Key/_/Show+Me)
-* [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
-* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)<!-- LASTFM:END -->
+* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
