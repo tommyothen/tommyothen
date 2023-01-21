@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ariis — S1KE](https://www.last.fm/music/ariis/_/S1KE)
+* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
+* [Vintage Culture — Save Me &lpar;feat. MKLA&rpar;](https://www.last.fm/music/Vintage+Culture/_/Save+Me+&lpar;feat.+MKLA&rpar;)
 * [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
-* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Jack Harlow — ROTTEN &lpar;feat. EST Gee&rpar;](https://www.last.fm/music/Jack+Harlow/_/ROTTEN+&lpar;feat.+EST+Gee&rpar;)
-* [Shahmen — Dirt](https://www.last.fm/music/Shahmen/_/Dirt)<!-- LASTFM:END -->
+* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
