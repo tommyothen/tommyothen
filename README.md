@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
+* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
 * [Jack Harlow — ROTTEN &lpar;feat. EST Gee&rpar;](https://www.last.fm/music/Jack+Harlow/_/ROTTEN+&lpar;feat.+EST+Gee&rpar;)
-* [Shahmen — Dirt](https://www.last.fm/music/Shahmen/_/Dirt)
-* [JUICEB☮X — Mushroom](https://www.last.fm/music/JUICEB%E2%98%AEX/_/Mushroom)
-* [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)<!-- LASTFM:END -->
+* [Shahmen — Dirt](https://www.last.fm/music/Shahmen/_/Dirt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
