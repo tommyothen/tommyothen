@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aries — UR NOT PRECIOUS](https://www.last.fm/music/Aries/_/UR+NOT+PRECIOUS)
+* [DUCKWRTH — Super Bounce](https://www.last.fm/music/DUCKWRTH/_/Super+Bounce)
 * [Camellia — Labyrinth in Kowloon: Walled World](https://www.last.fm/music/Camellia/_/Labyrinth+in+Kowloon:+Walled+World)
 * [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)
-* [Johnny Balik — Honey](https://www.last.fm/music/Johnny+Balik/_/Honey)
-* [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)
-* [Lady Sovereign — Pennies](https://www.last.fm/music/Lady+Sovereign/_/Pennies)<!-- LASTFM:END -->
+* [Johnny Balik — Honey](https://www.last.fm/music/Johnny+Balik/_/Honey)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
