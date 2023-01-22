@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Josh A — Study Break](https://www.last.fm/music/Josh+A/_/Study+Break)
-* [Eden — Nocturne &lpar;Pierce Fulton Remix&rpar;](https://www.last.fm/music/Eden/_/Nocturne+&lpar;Pierce+Fulton+Remix&rpar;)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)<!-- LASTFM:END -->
+* [Josh A — Study Break](https://www.last.fm/music/Josh+A/_/Study+Break)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
