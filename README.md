@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
 * [Josh A — Study Break](https://www.last.fm/music/Josh+A/_/Study+Break)
 * [Eden — Nocturne &lpar;Pierce Fulton Remix&rpar;](https://www.last.fm/music/Eden/_/Nocturne+&lpar;Pierce+Fulton+Remix&rpar;)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)<!-- LASTFM:END -->
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
