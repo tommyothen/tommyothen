@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Self vs Self &lpar;feat. In Flames&rpar;](https://www.last.fm/music/Pendulum/_/Self+vs+Self+&lpar;feat.+In+Flames&rpar;)
+* [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
 * [XXXTENTACION — Depression &amp; Obsession](https://www.last.fm/music/XXXTENTACION/_/Depression+&amp;+Obsession)
 * [Fliptrix — Monday To Sunday](https://www.last.fm/music/Fliptrix/_/Monday+To+Sunday)
-* [Salina Killa — Mile High](https://www.last.fm/music/Salina+Killa/_/Mile+High)
-* [oaf1 — ilove urr girl](https://www.last.fm/music/oaf1/_/ilove+urr+girl)
-* [Slayyyter — Butterflies...](https://www.last.fm/music/Slayyyter/_/Butterflies...)<!-- LASTFM:END -->
+* [Salina Killa — Mile High](https://www.last.fm/music/Salina+Killa/_/Mile+High)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
