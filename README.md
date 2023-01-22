@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
+* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
 * [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)
-* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)
-* [XXXTENTACION — Pain = BESTFRIEND - feat. Travis Barker](https://www.last.fm/music/XXXTENTACION/_/Pain+=+BESTFRIEND+-+feat.+Travis+Barker)
-* [88rising — Head In The Clouds](https://www.last.fm/music/88rising/_/Head+In+The+Clouds)
-* [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)<!-- LASTFM:END -->
+* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
