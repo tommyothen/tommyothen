@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yaz — Anymore](https://www.last.fm/music/Yaz/_/Anymore)
+* [Magdalena Bay — U Wanna Dance?](https://www.last.fm/music/Magdalena+Bay/_/U+Wanna+Dance%3F)
 * [Tkay Maidza — So Cold](https://www.last.fm/music/Tkay+Maidza/_/So+Cold)
 * [Slayyyter — BFF](https://www.last.fm/music/Slayyyter/_/BFF)
-* [PinkPantheress — Boy&#39;s a Liar](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+Liar)
-* [100 gecs — hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)<!-- LASTFM:END -->
+* [PinkPantheress — Boy&#39;s a Liar](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+Liar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
