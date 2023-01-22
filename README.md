@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
-* [Slayyyter — Alone](https://www.last.fm/music/Slayyyter/_/Alone)
-* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
-* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)
-* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)<!-- LASTFM:END -->
+* [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)
+* [PinkPantheress — I must apologise](https://www.last.fm/music/PinkPantheress/_/I+must+apologise)
+* [100 gecs — money machine](https://www.last.fm/music/100+gecs/_/money+machine)
+* [Take Van — Time Goes By](https://www.last.fm/music/Take+Van/_/Time+Goes+By)
+* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
