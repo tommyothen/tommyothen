@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [88rising — Head In The Clouds](https://www.last.fm/music/88rising/_/Head+In+The+Clouds)
+* [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
 * [Pendulum — Self vs Self &lpar;feat. In Flames&rpar;](https://www.last.fm/music/Pendulum/_/Self+vs+Self+&lpar;feat.+In+Flames&rpar;)
 * [Duskus — I can change your mind](https://www.last.fm/music/Duskus/_/I+can+change+your+mind)
-* [XXXTENTACION — Depression &amp; Obsession](https://www.last.fm/music/XXXTENTACION/_/Depression+&amp;+Obsession)
-* [Fliptrix — Monday To Sunday](https://www.last.fm/music/Fliptrix/_/Monday+To+Sunday)
-* [Salina Killa — Mile High](https://www.last.fm/music/Salina+Killa/_/Mile+High)<!-- LASTFM:END -->
+* [XXXTENTACION — Depression &amp; Obsession](https://www.last.fm/music/XXXTENTACION/_/Depression+&amp;+Obsession)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
