@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — Depression &amp; Obsession](https://www.last.fm/music/XXXTENTACION/_/Depression+&amp;+Obsession)
+* [Fliptrix — Monday To Sunday](https://www.last.fm/music/Fliptrix/_/Monday+To+Sunday)
 * [Salina Killa — Mile High](https://www.last.fm/music/Salina+Killa/_/Mile+High)
 * [oaf1 — ilove urr girl](https://www.last.fm/music/oaf1/_/ilove+urr+girl)
-* [Slayyyter — Butterflies...](https://www.last.fm/music/Slayyyter/_/Butterflies...)
-* [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)
-* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)<!-- LASTFM:END -->
+* [Slayyyter — Butterflies...](https://www.last.fm/music/Slayyyter/_/Butterflies...)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
