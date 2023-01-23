@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)
+* [Lady Gaga — Telephone](https://www.last.fm/music/Lady+Gaga/_/Telephone)
 * [Cascade — Evacuate The Dancefloor](https://www.last.fm/music/Cascade/_/Evacuate+The+Dancefloor)
 * [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
-* [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)
-* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
-* [Jakey — Moby Dick](https://www.last.fm/music/Jakey/_/Moby+Dick)<!-- LASTFM:END -->
+* [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
