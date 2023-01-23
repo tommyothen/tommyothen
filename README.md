@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cascade — Evacuate The Dancefloor](https://www.last.fm/music/Cascade/_/Evacuate+The+Dancefloor)
+* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
 * [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)
 * [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
-* [Jakey — Moby Dick](https://www.last.fm/music/Jakey/_/Moby+Dick)
-* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
-* [City Girl — Endless and Artificial](https://www.last.fm/music/City+Girl/_/Endless+and+Artificial)<!-- LASTFM:END -->
+* [Jakey — Moby Dick](https://www.last.fm/music/Jakey/_/Moby+Dick)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
