@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Avril Lavigne — Girlfriend](https://www.last.fm/music/Avril+Lavigne/_/Girlfriend)
 * [Justin Timberlake — SexyBack &lpar;feat. Timbaland&rpar;](https://www.last.fm/music/Justin+Timberlake/_/SexyBack+&lpar;feat.+Timbaland&rpar;)
 * [Lady Gaga — Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)
 * [slowthai — Doorman](https://www.last.fm/music/slowthai/_/Doorman)
-* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
-* [Urbandawn — Come Together](https://www.last.fm/music/Urbandawn/_/Come+Together)<!-- LASTFM:END -->
+* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
