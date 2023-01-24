@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tkay Maidza — So Cold](https://www.last.fm/music/Tkay+Maidza/_/So+Cold)
+* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)
 * [tomcbumpz — we don&#39;t know a thing](https://www.last.fm/music/tomcbumpz/_/we+don%27t+know+a+thing)
 * [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)
-* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
-* [Internet Girl — living far away](https://www.last.fm/music/Internet+Girl/_/living+far+away)<!-- LASTFM:END -->
+* [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
