@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cascade — Everytime we Touch](https://www.last.fm/music/Cascade/_/Everytime+we+Touch)
+* [brakence — 5g](https://www.last.fm/music/brakence/_/5g)
+* [Car Seat Headrest — Bodys](https://www.last.fm/music/Car+Seat+Headrest/_/Bodys)
 * [Le Tigre — Deceptacon](https://www.last.fm/music/Le+Tigre/_/Deceptacon)
-* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
-* [Toploader — Dancing in the Moonlight](https://www.last.fm/music/Toploader/_/Dancing+in+the+Moonlight)
-* [TV Girl — Lovers Rock](https://www.last.fm/music/TV+Girl/_/Lovers+Rock)
-* [brakence — venus fly trap](https://www.last.fm/music/brakence/_/venus+fly+trap)<!-- LASTFM:END -->
+* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
