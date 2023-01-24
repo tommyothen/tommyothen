@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chris Lorenzo — Take Me as I Am](https://www.last.fm/music/Chris+Lorenzo/_/Take+Me+as+I+Am)
 * [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
 * [The 1975 — Girls](https://www.last.fm/music/The+1975/_/Girls)
 * [The Streets — Fit But You Know It](https://www.last.fm/music/The+Streets/_/Fit+But+You+Know+It)
-* [Gala — Freed from Desire](https://www.last.fm/music/Gala/_/Freed+from+Desire)
-* [Modjo — Lady &lpar;Hear Me Tonight&rpar;](https://www.last.fm/music/Modjo/_/Lady+&lpar;Hear+Me+Tonight&rpar;)<!-- LASTFM:END -->
+* [Gala — Freed from Desire](https://www.last.fm/music/Gala/_/Freed+from+Desire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
