@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Toploader — Dancing in the Moonlight](https://www.last.fm/music/Toploader/_/Dancing+in+the+Moonlight)
 * [TV Girl — Lovers Rock](https://www.last.fm/music/TV+Girl/_/Lovers+Rock)
 * [brakence — venus fly trap](https://www.last.fm/music/brakence/_/venus+fly+trap)
 * [Chris Lorenzo — Take Me as I Am](https://www.last.fm/music/Chris+Lorenzo/_/Take+Me+as+I+Am)
-* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
-* [The 1975 — Girls](https://www.last.fm/music/The+1975/_/Girls)<!-- LASTFM:END -->
+* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
