@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
 * [Ice Cube — No Vaseline](https://www.last.fm/music/Ice+Cube/_/No+Vaseline)
 * [Avril Lavigne — Girlfriend](https://www.last.fm/music/Avril+Lavigne/_/Girlfriend)
 * [Justin Timberlake — SexyBack &lpar;feat. Timbaland&rpar;](https://www.last.fm/music/Justin+Timberlake/_/SexyBack+&lpar;feat.+Timbaland&rpar;)
-* [Lady Gaga — Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)
-* [slowthai — Doorman](https://www.last.fm/music/slowthai/_/Doorman)<!-- LASTFM:END -->
+* [Lady Gaga — Poker Face](https://www.last.fm/music/Lady+Gaga/_/Poker+Face)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
