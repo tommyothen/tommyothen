@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
 * [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
 * [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
 * [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
-* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)<!-- LASTFM:END -->
+* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
