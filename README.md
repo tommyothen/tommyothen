@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sand — Money-Wise](https://www.last.fm/music/Sand/_/Money-Wise)
+* [Sand — Dino King](https://www.last.fm/music/Sand/_/Dino+King)
 * [Sand — INTENTIONS](https://www.last.fm/music/Sand/_/INTENTIONS)
 * [Sand — NO MAIDENS?](https://www.last.fm/music/Sand/_/NO+MAIDENS%3F)
-* [Sand — TEKKEN FREESTYLE](https://www.last.fm/music/Sand/_/TEKKEN+FREESTYLE)
-* [Sand — STREETS](https://www.last.fm/music/Sand/_/STREETS)
-* [Sand — BROTHER&#39;S KEEPER](https://www.last.fm/music/Sand/_/BROTHER%27S+KEEPER)<!-- LASTFM:END -->
+* [Sand — TEKKEN FREESTYLE](https://www.last.fm/music/Sand/_/TEKKEN+FREESTYLE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
