@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sand — INTENTIONS](https://www.last.fm/music/Sand/_/INTENTIONS)
+* [Sand — NO MAIDENS?](https://www.last.fm/music/Sand/_/NO+MAIDENS%3F)
 * [Sand — TEKKEN FREESTYLE](https://www.last.fm/music/Sand/_/TEKKEN+FREESTYLE)
 * [Sand — STREETS](https://www.last.fm/music/Sand/_/STREETS)
-* [Sand — BROTHER&#39;S KEEPER](https://www.last.fm/music/Sand/_/BROTHER%27S+KEEPER)
-* [Sand — ALL OF A SUDDEN](https://www.last.fm/music/Sand/_/ALL+OF+A+SUDDEN)
-* [Sand — HE HE HE HAW!](https://www.last.fm/music/Sand/_/HE+HE+HE+HAW!)<!-- LASTFM:END -->
+* [Sand — BROTHER&#39;S KEEPER](https://www.last.fm/music/Sand/_/BROTHER%27S+KEEPER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
