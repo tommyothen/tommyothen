@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sand — Hasaki!](https://www.last.fm/music/Sand/_/Hasaki!)
+* [Sand — Edo Hip Hop](https://www.last.fm/music/Sand/_/Edo+Hip+Hop)
+* [Sand — Katanakilla](https://www.last.fm/music/Sand/_/Katanakilla)
 * [Sand — Ionia&#39;s Blessing](https://www.last.fm/music/Sand/_/Ionia%27s+Blessing)
-* [Sand — Old Friend, New Friend](https://www.last.fm/music/Sand/_/Old+Friend,+New+Friend)
-* [Sand — Brick By Brick](https://www.last.fm/music/Sand/_/Brick+By+Brick)
-* [Sand — False Kings](https://www.last.fm/music/Sand/_/False+Kings)
-* [Sand — In the hands of a Kel-Tec](https://www.last.fm/music/Sand/_/In+the+hands+of+a+Kel-Tec)<!-- LASTFM:END -->
+* [Sand — Old Friend, New Friend](https://www.last.fm/music/Sand/_/Old+Friend,+New+Friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
