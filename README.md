@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sand — FAIR GAME](https://www.last.fm/music/Sand/_/FAIR+GAME)
 * [Sand — OKLAHOLMA](https://www.last.fm/music/Sand/_/OKLAHOLMA)
 * [Sand — STREETS](https://www.last.fm/music/Sand/_/STREETS)
 * [Sand — INTENTIONS](https://www.last.fm/music/Sand/_/INTENTIONS)
-* [Sand — ALL OF A SUDDEN](https://www.last.fm/music/Sand/_/ALL+OF+A+SUDDEN)
-* [Sand — Death&#39;s Dance &lpar;inst.&rpar;](https://www.last.fm/music/Sand/_/Death%27s+Dance+&lpar;inst.&rpar;)<!-- LASTFM:END -->
+* [Sand — ALL OF A SUDDEN](https://www.last.fm/music/Sand/_/ALL+OF+A+SUDDEN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
