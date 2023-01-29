@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
 * [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
 * [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
