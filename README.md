@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
 * [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
 * [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)<!-- LASTFM:END -->
+* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
