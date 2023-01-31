@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tyler, the Creator — See You Again &lpar;feat. Kali Uchis&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+&lpar;feat.+Kali+Uchis&rpar;)
-* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
-* [Far East Movement — Like a G6](https://www.last.fm/music/Far+East+Movement/_/Like+a+G6)
-* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
-* [Backstreet Boys — I Want It That Way](https://www.last.fm/music/Backstreet+Boys/_/I+Want+It+That+Way)<!-- LASTFM:END -->
+* [Katy Perry — Teenage Dream](https://www.last.fm/music/Katy+Perry/_/Teenage+Dream)
+* [Lady Gaga — Telephone](https://www.last.fm/music/Lady+Gaga/_/Telephone)
+* [Rihanna — Shut Up and Drive](https://www.last.fm/music/Rihanna/_/Shut+Up+and+Drive)
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
+* [High Tide Lofi — Sea Shanty 2 &lpar;Runescape&rpar;](https://www.last.fm/music/High+Tide+Lofi/_/Sea+Shanty+2+&lpar;Runescape&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
