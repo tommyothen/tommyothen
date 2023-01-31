@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [The 1975 — TOOTIMETOOTIMETOOTIME](https://www.last.fm/music/The+1975/_/TOOTIMETOOTIMETOOTIME)
 * [Miley Cyrus — Flowers](https://www.last.fm/music/Miley+Cyrus/_/Flowers)
-* [Mika — Big Girl &lpar;You Are Beautiful&rpar;](https://www.last.fm/music/Mika/_/Big+Girl+&lpar;You+Are+Beautiful&rpar;)
-* [Abbie Mottram — Car Radio](https://www.last.fm/music/Abbie+Mottram/_/Car+Radio)<!-- LASTFM:END -->
+* [Mika — Big Girl &lpar;You Are Beautiful&rpar;](https://www.last.fm/music/Mika/_/Big+Girl+&lpar;You+Are+Beautiful&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
