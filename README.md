@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
 * [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
 * [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)
 * [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
-* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
-* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)<!-- LASTFM:END -->
+* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
