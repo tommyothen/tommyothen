@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
-* [Basshunter — Now You&#39;re Gone &lpar;feat. DJ Mental Theo&#39;s Bazzheadz&rpar; - Video Edit](https://www.last.fm/music/Basshunter/_/Now+You%27re+Gone+&lpar;feat.+DJ+Mental+Theo%27s+Bazzheadz&rpar;+-+Video+Edit)
-* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)
-* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
-* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)<!-- LASTFM:END -->
+* [ABBA — Dancing Queen](https://www.last.fm/music/ABBA/_/Dancing+Queen)
+* [Bon Jovi — You Give Love a Bad Name](https://www.last.fm/music/Bon+Jovi/_/You+Give+Love+a+Bad+Name)
+* [Queen — Hammer To Fall - Remastered 2011](https://www.last.fm/music/Queen/_/Hammer+To+Fall+-+Remastered+2011)
+* [Journey — Don&#39;t Stop Believin&#39;](https://www.last.fm/music/Journey/_/Don%27t+Stop+Believin%27)
+* [Black Eyed Peas — Meet Me Halfway](https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
