@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ABBA — Dancing Queen](https://www.last.fm/music/ABBA/_/Dancing+Queen)
-* [Bon Jovi — You Give Love a Bad Name](https://www.last.fm/music/Bon+Jovi/_/You+Give+Love+a+Bad+Name)
-* [Queen — Hammer To Fall - Remastered 2011](https://www.last.fm/music/Queen/_/Hammer+To+Fall+-+Remastered+2011)
-* [Journey — Don&#39;t Stop Believin&#39;](https://www.last.fm/music/Journey/_/Don%27t+Stop+Believin%27)
-* [Black Eyed Peas — Meet Me Halfway](https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway)<!-- LASTFM:END -->
+* [Tyler, the Creator — See You Again &lpar;feat. Kali Uchis&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+&lpar;feat.+Kali+Uchis&rpar;)
+* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
+* [Far East Movement — Like a G6](https://www.last.fm/music/Far+East+Movement/_/Like+a+G6)
+* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
+* [Backstreet Boys — I Want It That Way](https://www.last.fm/music/Backstreet+Boys/_/I+Want+It+That+Way)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
