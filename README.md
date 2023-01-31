@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [Abbie Mottram — Best U Had](https://www.last.fm/music/Abbie+Mottram/_/Best+U+Had)
 * [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [The 1975 — TOOTIMETOOTIMETOOTIME](https://www.last.fm/music/The+1975/_/TOOTIMETOOTIMETOOTIME)
-* [Miley Cyrus — Flowers](https://www.last.fm/music/Miley+Cyrus/_/Flowers)<!-- LASTFM:END -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
