@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — Cry &lpar;feat. Grimes&rpar;](https://www.last.fm/music/Ashnikko/_/Cry+&lpar;feat.+Grimes&rpar;)
 * [Porter Robinson — Goodbye To A World](https://www.last.fm/music/Porter+Robinson/_/Goodbye+To+A+World)
 * [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)
 * [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)
-* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)
-* [Qumu — Bubblegum K.K. &lpar;From &quot;Animal Crossing: New Leaf&quot;&rpar;](https://www.last.fm/music/Qumu/_/Bubblegum+K.K.+&lpar;From+%22Animal+Crossing:+New+Leaf%22&rpar;)<!-- LASTFM:END -->
+* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
