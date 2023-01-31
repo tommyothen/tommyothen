@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)
+* [Qumu — Bubblegum K.K. &lpar;From &quot;Animal Crossing: New Leaf&quot;&rpar;](https://www.last.fm/music/Qumu/_/Bubblegum+K.K.+&lpar;From+%22Animal+Crossing:+New+Leaf%22&rpar;)
 * [XXXTENTACION — love yourself &lpar;interlude&rpar;](https://www.last.fm/music/XXXTENTACION/_/love+yourself+&lpar;interlude&rpar;)
 * [Jakey — Moby Dick](https://www.last.fm/music/Jakey/_/Moby+Dick)
-* [Saib — Come with me](https://www.last.fm/music/Saib/_/Come+with+me)
-* [nothing,nowhere. — hammer](https://www.last.fm/music/nothing,nowhere./_/hammer)
-* [Prismo — Stronger](https://www.last.fm/music/Prismo/_/Stronger)<!-- LASTFM:END -->
+* [Saib — Come with me](https://www.last.fm/music/Saib/_/Come+with+me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
