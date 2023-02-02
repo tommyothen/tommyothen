@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [J. Cole — No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)
+* [Vince Staples — BagBak](https://www.last.fm/music/Vince+Staples/_/BagBak)
 * [Frank Ocean — Lost](https://www.last.fm/music/Frank+Ocean/_/Lost)
 * [SZA — Broken Clocks](https://www.last.fm/music/SZA/_/Broken+Clocks)
-* [Masego — Navajo](https://www.last.fm/music/Masego/_/Navajo)
-* [Aminé — Squeeze](https://www.last.fm/music/Amin%C3%A9/_/Squeeze)
-* [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)<!-- LASTFM:END -->
+* [Masego — Navajo](https://www.last.fm/music/Masego/_/Navajo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
