@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frank Ocean — Pink + White](https://www.last.fm/music/Frank+Ocean/_/Pink+%252B+White)
+* [Tyler, the Creator — Who Dat Boy &lpar;feat. A$AP Rocky&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/Who+Dat+Boy+&lpar;feat.+A$AP+Rocky&rpar;)
 * [Travis Scott — goosebumps](https://www.last.fm/music/Travis+Scott/_/goosebumps)
 * [BROCKHAMPTON — 1999 WILDFIRE](https://www.last.fm/music/BROCKHAMPTON/_/1999+WILDFIRE)
-* [Childish Gambino — IV. Sweatpants](https://www.last.fm/music/Childish+Gambino/_/IV.+Sweatpants)
-* [Kendrick Lamar — FEEL.](https://www.last.fm/music/Kendrick+Lamar/_/FEEL.)
-* [Aminé — Spice Girl](https://www.last.fm/music/Amin%C3%A9/_/Spice+Girl)<!-- LASTFM:END -->
+* [Childish Gambino — IV. Sweatpants](https://www.last.fm/music/Childish+Gambino/_/IV.+Sweatpants)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
