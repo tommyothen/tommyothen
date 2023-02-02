@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kanye West — Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)
+* [Jay Rock — King&#39;s Dead &lpar;with Kendrick Lamar, Future &amp; James Blake&rpar;](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+&lpar;with+Kendrick+Lamar,+Future+&amp;+James+Blake&rpar;)
 * [Logic — Everybody](https://www.last.fm/music/Logic/_/Everybody)
 * [Aminé — REEL IT IN](https://www.last.fm/music/Amin%C3%A9/_/REEL+IT+IN)
-* [SZA — Shirt](https://www.last.fm/music/SZA/_/Shirt)
-* [Tyler, the Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+the+Creator/_/EARFQUAKE)
-* [Kendrick Lamar — DNA.](https://www.last.fm/music/Kendrick+Lamar/_/DNA.)<!-- LASTFM:END -->
+* [SZA — Shirt](https://www.last.fm/music/SZA/_/Shirt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
