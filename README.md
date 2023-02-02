@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frank Ocean — Lost](https://www.last.fm/music/Frank+Ocean/_/Lost)
+* [SZA — Broken Clocks](https://www.last.fm/music/SZA/_/Broken+Clocks)
 * [Masego — Navajo](https://www.last.fm/music/Masego/_/Navajo)
 * [Aminé — Squeeze](https://www.last.fm/music/Amin%C3%A9/_/Squeeze)
-* [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)
-* [J. Cole — Motiv8](https://www.last.fm/music/J.+Cole/_/Motiv8)
-* [SZA — The Weekend - Funk Wav Remix](https://www.last.fm/music/SZA/_/The+Weekend+-+Funk+Wav+Remix)<!-- LASTFM:END -->
+* [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
