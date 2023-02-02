@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, the Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+the+Creator/_/EARFQUAKE)
+* [Kendrick Lamar — DNA.](https://www.last.fm/music/Kendrick+Lamar/_/DNA.)
+* [KIDS SEE GHOSTS — 4th Dimension](https://www.last.fm/music/KIDS+SEE+GHOSTS/_/4th+Dimension)
 * [Post Malone — Sunflower - Spider-Man: Into the Spider-Verse](https://www.last.fm/music/Post+Malone/_/Sunflower+-+Spider-Man:+Into+the+Spider-Verse)
-* [¿Téo? — Uno Dos](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Uno+Dos)
-* [SZA — Low](https://www.last.fm/music/SZA/_/Low)
-* [Tyler, the Creator — See You Again &lpar;feat. Kali Uchis&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+&lpar;feat.+Kali+Uchis&rpar;)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)<!-- LASTFM:END -->
+* [¿Téo? — Uno Dos](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Uno+Dos)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
