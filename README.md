@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mac Miller — Hands](https://www.last.fm/music/Mac+Miller/_/Hands)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)
-* [Ashnikko — Cry &lpar;feat. Grimes&rpar;](https://www.last.fm/music/Ashnikko/_/Cry+&lpar;feat.+Grimes&rpar;)<!-- LASTFM:END -->
+* [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
