@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, the Creator — 911 / Mr. Lonely &lpar;feat. Frank Ocean &amp; Steve Lacy&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/911+%2F+Mr.+Lonely+&lpar;feat.+Frank+Ocean+&amp;+Steve+Lacy&rpar;)
+* [Anonymuz — Hiei](https://www.last.fm/music/Anonymuz/_/Hiei)
 * [Jaden — GHOST](https://www.last.fm/music/Jaden/_/GHOST)
 * [Logic — 44 More](https://www.last.fm/music/Logic/_/44+More)
-* [The Weeknd — Is There Someone Else?](https://www.last.fm/music/The+Weeknd/_/Is+There+Someone+Else%3F)
-* [Aminé — Campfire](https://www.last.fm/music/Amin%C3%A9/_/Campfire)
-* [Tyler, the Creator — Where This Flower Blooms &lpar;feat. Frank Ocean&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/Where+This+Flower+Blooms+&lpar;feat.+Frank+Ocean&rpar;)<!-- LASTFM:END -->
+* [The Weeknd — Is There Someone Else?](https://www.last.fm/music/The+Weeknd/_/Is+There+Someone+Else%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
