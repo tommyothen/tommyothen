@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Childish Gambino — IV. Sweatpants](https://www.last.fm/music/Childish+Gambino/_/IV.+Sweatpants)
+* [Kendrick Lamar — FEEL.](https://www.last.fm/music/Kendrick+Lamar/_/FEEL.)
 * [Aminé — Spice Girl](https://www.last.fm/music/Amin%C3%A9/_/Spice+Girl)
 * [JID — 151 Rum](https://www.last.fm/music/JID/_/151+Rum)
-* [Tyler, the Creator — 911 / Mr. Lonely &lpar;feat. Frank Ocean &amp; Steve Lacy&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/911+%2F+Mr.+Lonely+&lpar;feat.+Frank+Ocean+&amp;+Steve+Lacy&rpar;)
-* [Anonymuz — Hiei](https://www.last.fm/music/Anonymuz/_/Hiei)
-* [Jaden — GHOST](https://www.last.fm/music/Jaden/_/GHOST)<!-- LASTFM:END -->
+* [Tyler, the Creator — 911 / Mr. Lonely &lpar;feat. Frank Ocean &amp; Steve Lacy&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/911+%2F+Mr.+Lonely+&lpar;feat.+Frank+Ocean+&amp;+Steve+Lacy&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
