@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Weeknd — Pray for Me &lpar;with Kendrick Lamar&rpar;](https://www.last.fm/music/The+Weeknd/_/Pray+for+Me+&lpar;with+Kendrick+Lamar&rpar;)
 * [Vince Staples — Opps &lpar;with Yugen Blakrok&rpar;](https://www.last.fm/music/Vince+Staples/_/Opps+&lpar;with+Yugen+Blakrok&rpar;)
 * [Khalid — The Ways &lpar;with Swae Lee&rpar;](https://www.last.fm/music/Khalid/_/The+Ways+&lpar;with+Swae+Lee&rpar;)
 * [Kendrick Lamar — All the Stars &lpar;with SZA&rpar;](https://www.last.fm/music/Kendrick+Lamar/_/All+the+Stars+&lpar;with+SZA&rpar;)
-* [ScHoolboy Q — X &lpar;with 2 Chainz &amp; Saudi&rpar;](https://www.last.fm/music/ScHoolboy+Q/_/X+&lpar;with+2+Chainz+&amp;+Saudi&rpar;)
-* [Jay Rock — King&#39;s Dead &lpar;with Kendrick Lamar, Future &amp; James Blake&rpar;](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+&lpar;with+Kendrick+Lamar,+Future+&amp;+James+Blake&rpar;)<!-- LASTFM:END -->
+* [ScHoolboy Q — X &lpar;with 2 Chainz &amp; Saudi&rpar;](https://www.last.fm/music/ScHoolboy+Q/_/X+&lpar;with+2+Chainz+&amp;+Saudi&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
