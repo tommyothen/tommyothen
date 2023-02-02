@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jay Rock — King&#39;s Dead &lpar;with Kendrick Lamar, Future &amp; James Blake&rpar;](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+&lpar;with+Kendrick+Lamar,+Future+&amp;+James+Blake&rpar;)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [NewJeans — Hurt](https://www.last.fm/music/NewJeans/_/Hurt)
 * [NewJeans — Cookie](https://www.last.fm/music/NewJeans/_/Cookie)
-* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)
-* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)<!-- LASTFM:END -->
+* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
