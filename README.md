@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)
+* [J. Cole — Motiv8](https://www.last.fm/music/J.+Cole/_/Motiv8)
 * [SZA — The Weekend - Funk Wav Remix](https://www.last.fm/music/SZA/_/The+Weekend+-+Funk+Wav+Remix)
 * [Tyler, the Creator — OKRA](https://www.last.fm/music/Tyler,+the+Creator/_/OKRA)
-* [Kanye West — Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)
-* [Jay Rock — King&#39;s Dead &lpar;with Kendrick Lamar, Future &amp; James Blake&rpar;](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+&lpar;with+Kendrick+Lamar,+Future+&amp;+James+Blake&rpar;)
-* [Logic — Everybody](https://www.last.fm/music/Logic/_/Everybody)<!-- LASTFM:END -->
+* [Kanye West — Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
