@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aminé — Campfire](https://www.last.fm/music/Amin%C3%A9/_/Campfire)
+* [Tyler, the Creator — Where This Flower Blooms &lpar;feat. Frank Ocean&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/Where+This+Flower+Blooms+&lpar;feat.+Frank+Ocean&rpar;)
+* [Jorja Smith — On My Mind &lpar;Jorja Smith X Preditah&rpar;](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+&lpar;Jorja+Smith+X+Preditah&rpar;)
 * [J. Cole — No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)
-* [Vince Staples — BagBak](https://www.last.fm/music/Vince+Staples/_/BagBak)
-* [Frank Ocean — Lost](https://www.last.fm/music/Frank+Ocean/_/Lost)
-* [SZA — Broken Clocks](https://www.last.fm/music/SZA/_/Broken+Clocks)
-* [Masego — Navajo](https://www.last.fm/music/Masego/_/Navajo)<!-- LASTFM:END -->
+* [Vince Staples — BagBak](https://www.last.fm/music/Vince+Staples/_/BagBak)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
