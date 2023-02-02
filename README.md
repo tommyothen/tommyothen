@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Post Malone — Sunflower - Spider-Man: Into the Spider-Verse](https://www.last.fm/music/Post+Malone/_/Sunflower+-+Spider-Man:+Into+the+Spider-Verse)
+* [¿Téo? — Uno Dos](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Uno+Dos)
+* [SZA — Low](https://www.last.fm/music/SZA/_/Low)
 * [Tyler, the Creator — See You Again &lpar;feat. Kali Uchis&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+&lpar;feat.+Kali+Uchis&rpar;)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
-* [Jorja Smith — I Am](https://www.last.fm/music/Jorja+Smith/_/I+Am)
-* [Zacari — Redemption &lpar;with Babes Wodumo&rpar;](https://www.last.fm/music/Zacari/_/Redemption+&lpar;with+Babes+Wodumo&rpar;)
-* [The Weeknd — Pray for Me &lpar;with Kendrick Lamar&rpar;](https://www.last.fm/music/The+Weeknd/_/Pray+for+Me+&lpar;with+Kendrick+Lamar&rpar;)<!-- LASTFM:END -->
+* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
