@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jorja Smith — I Am](https://www.last.fm/music/Jorja+Smith/_/I+Am)
+* [Zacari — Redemption &lpar;with Babes Wodumo&rpar;](https://www.last.fm/music/Zacari/_/Redemption+&lpar;with+Babes+Wodumo&rpar;)
 * [The Weeknd — Pray for Me &lpar;with Kendrick Lamar&rpar;](https://www.last.fm/music/The+Weeknd/_/Pray+for+Me+&lpar;with+Kendrick+Lamar&rpar;)
 * [Vince Staples — Opps &lpar;with Yugen Blakrok&rpar;](https://www.last.fm/music/Vince+Staples/_/Opps+&lpar;with+Yugen+Blakrok&rpar;)
-* [Khalid — The Ways &lpar;with Swae Lee&rpar;](https://www.last.fm/music/Khalid/_/The+Ways+&lpar;with+Swae+Lee&rpar;)
-* [Kendrick Lamar — All the Stars &lpar;with SZA&rpar;](https://www.last.fm/music/Kendrick+Lamar/_/All+the+Stars+&lpar;with+SZA&rpar;)
-* [ScHoolboy Q — X &lpar;with 2 Chainz &amp; Saudi&rpar;](https://www.last.fm/music/ScHoolboy+Q/_/X+&lpar;with+2+Chainz+&amp;+Saudi&rpar;)<!-- LASTFM:END -->
+* [Khalid — The Ways &lpar;with Swae Lee&rpar;](https://www.last.fm/music/Khalid/_/The+Ways+&lpar;with+Swae+Lee&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
