@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)
+* [NAV — Some Way](https://www.last.fm/music/NAV/_/Some+Way)
 * [Mac Miller — Self Care](https://www.last.fm/music/Mac+Miller/_/Self+Care)
 * [James Blake — Mile High &lpar;feat. Travis Scott &amp; Metro Boomin&rpar;](https://www.last.fm/music/James+Blake/_/Mile+High+&lpar;feat.+Travis+Scott+&amp;+Metro+Boomin&rpar;)
-* [Drake — Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)
-* [J. Cole — Kevin’s Heart](https://www.last.fm/music/J.+Cole/_/Kevin%E2%80%99s+Heart)
-* [ScHoolboy Q — Numb Numb Juice](https://www.last.fm/music/ScHoolboy+Q/_/Numb+Numb+Juice)<!-- LASTFM:END -->
+* [Drake — Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
