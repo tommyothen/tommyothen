@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rihanna — Consideration](https://www.last.fm/music/Rihanna/_/Consideration)
+* [Childish Gambino — Sober](https://www.last.fm/music/Childish+Gambino/_/Sober)
 * [The Weeknd — Die for You](https://www.last.fm/music/The+Weeknd/_/Die+for+You)
 * [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)
-* [NAV — Some Way](https://www.last.fm/music/NAV/_/Some+Way)
-* [Mac Miller — Self Care](https://www.last.fm/music/Mac+Miller/_/Self+Care)
-* [James Blake — Mile High &lpar;feat. Travis Scott &amp; Metro Boomin&rpar;](https://www.last.fm/music/James+Blake/_/Mile+High+&lpar;feat.+Travis+Scott+&amp;+Metro+Boomin&rpar;)<!-- LASTFM:END -->
+* [NAV — Some Way](https://www.last.fm/music/NAV/_/Some+Way)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
