@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kendrick Lamar — A.D.H.D](https://www.last.fm/music/Kendrick+Lamar/_/A.D.H.D)
+* [Mac Miller — Hurt Feelings](https://www.last.fm/music/Mac+Miller/_/Hurt+Feelings)
 * [Problem — Better watch yo self](https://www.last.fm/music/Problem/_/Better+watch+yo+self)
 * [Black Hippy — Rolling Stone](https://www.last.fm/music/Black+Hippy/_/Rolling+Stone)
-* [The Weeknd — Reminder](https://www.last.fm/music/The+Weeknd/_/Reminder)
-* [SZA — Doves in the Wind &lpar;feat. Kendrick Lamar&rpar;](https://www.last.fm/music/SZA/_/Doves+in+the+Wind+&lpar;feat.+Kendrick+Lamar&rpar;)
-* [Kendrick Lamar — King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)<!-- LASTFM:END -->
+* [The Weeknd — Reminder](https://www.last.fm/music/The+Weeknd/_/Reminder)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
