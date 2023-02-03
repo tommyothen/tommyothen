@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ScHoolboy Q — Numb Numb Juice](https://www.last.fm/music/ScHoolboy+Q/_/Numb+Numb+Juice)
 * [Kendrick Lamar — Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)
 * [ScHoolboy Q — CrasH](https://www.last.fm/music/ScHoolboy+Q/_/CrasH)
 * [Kendrick Lamar — LOVE. FEAT. ZACARI.](https://www.last.fm/music/Kendrick+Lamar/_/LOVE.+FEAT.+ZACARI.)
-* [The Weeknd — Starboy](https://www.last.fm/music/The+Weeknd/_/Starboy)
-* [Childish Gambino — Redbone](https://www.last.fm/music/Childish+Gambino/_/Redbone)<!-- LASTFM:END -->
+* [The Weeknd — Starboy](https://www.last.fm/music/The+Weeknd/_/Starboy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
