@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jay Rock — King&#39;s Dead &lpar;with Kendrick Lamar, Future &amp; James Blake&rpar;](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+&lpar;with+Kendrick+Lamar,+Future+&amp;+James+Blake&rpar;)
+* [YG Hootie — The City &lpar;feat. Kendrick Lamar&rpar;](https://www.last.fm/music/YG+Hootie/_/The+City+&lpar;feat.+Kendrick+Lamar&rpar;)
 * [Beyoncé — NILE](https://www.last.fm/music/Beyonc%C3%A9/_/NILE)
 * [The Weeknd — Heartless](https://www.last.fm/music/The+Weeknd/_/Heartless)
-* [SZA — Good Days](https://www.last.fm/music/SZA/_/Good+Days)
-* [Kendrick Lamar — A.D.H.D](https://www.last.fm/music/Kendrick+Lamar/_/A.D.H.D)
-* [Mac Miller — Hurt Feelings](https://www.last.fm/music/Mac+Miller/_/Hurt+Feelings)<!-- LASTFM:END -->
+* [SZA — Good Days](https://www.last.fm/music/SZA/_/Good+Days)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
