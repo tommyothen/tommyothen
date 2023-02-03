@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ScHoolboy Q — Numb Numb Juice](https://www.last.fm/music/ScHoolboy+Q/_/Numb+Numb+Juice)
-* [Kendrick Lamar — Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)
-* [ScHoolboy Q — CrasH](https://www.last.fm/music/ScHoolboy+Q/_/CrasH)
-* [Kendrick Lamar — LOVE. FEAT. ZACARI.](https://www.last.fm/music/Kendrick+Lamar/_/LOVE.+FEAT.+ZACARI.)
-* [The Weeknd — Starboy](https://www.last.fm/music/The+Weeknd/_/Starboy)<!-- LASTFM:END -->
+* [Mac Miller — Self Care](https://www.last.fm/music/Mac+Miller/_/Self+Care)
+* [James Blake — Mile High &lpar;feat. Travis Scott &amp; Metro Boomin&rpar;](https://www.last.fm/music/James+Blake/_/Mile+High+&lpar;feat.+Travis+Scott+&amp;+Metro+Boomin&rpar;)
+* [Drake — Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)
+* [J. Cole — Kevin’s Heart](https://www.last.fm/music/J.+Cole/_/Kevin%E2%80%99s+Heart)
+* [ScHoolboy Q — Numb Numb Juice](https://www.last.fm/music/ScHoolboy+Q/_/Numb+Numb+Juice)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
