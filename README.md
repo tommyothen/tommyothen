@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kendrick Lamar — King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)
+* [Bas — Pinball II &lpar;feat .Correy C&rpar;](https://www.last.fm/music/Bas/_/Pinball+II+&lpar;feat+.Correy+C&rpar;)
+* [Logic — Gang Related](https://www.last.fm/music/Logic/_/Gang+Related)
 * [Rapsody — OooWee](https://www.last.fm/music/Rapsody/_/OooWee)
-* [Pro Era — King to a God](https://www.last.fm/music/Pro+Era/_/King+to+a+God)
-* [Tom Tripp — Pamela](https://www.last.fm/music/Tom+Tripp/_/Pamela)
-* [Anonymuz — Gundam Wing](https://www.last.fm/music/Anonymuz/_/Gundam+Wing)
-* [The Weeknd — Pray For Me](https://www.last.fm/music/The+Weeknd/_/Pray+For+Me)<!-- LASTFM:END -->
+* [Pro Era — King to a God](https://www.last.fm/music/Pro+Era/_/King+to+a+God)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
