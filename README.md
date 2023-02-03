@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Khalid — Love Lies &lpar;with Normani&rpar;](https://www.last.fm/music/Khalid/_/Love+Lies+&lpar;with+Normani&rpar;)
 * [Rihanna — Consideration](https://www.last.fm/music/Rihanna/_/Consideration)
 * [Childish Gambino — Sober](https://www.last.fm/music/Childish+Gambino/_/Sober)
 * [The Weeknd — Die for You](https://www.last.fm/music/The+Weeknd/_/Die+for+You)
-* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)
-* [NAV — Some Way](https://www.last.fm/music/NAV/_/Some+Way)<!-- LASTFM:END -->
+* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
