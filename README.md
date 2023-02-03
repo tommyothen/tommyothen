@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kanye West — Lift Yourself](https://www.last.fm/music/Kanye+West/_/Lift+Yourself)
+* [KIDS SEE GHOSTS — Fire](https://www.last.fm/music/KIDS+SEE+GHOSTS/_/Fire)
+* [Kendrick Lamar — m.A.A.d city](https://www.last.fm/music/Kendrick+Lamar/_/m.A.A.d+city)
 * [Khalid — Love Lies &lpar;with Normani&rpar;](https://www.last.fm/music/Khalid/_/Love+Lies+&lpar;with+Normani&rpar;)
-* [Rihanna — Consideration](https://www.last.fm/music/Rihanna/_/Consideration)
-* [Childish Gambino — Sober](https://www.last.fm/music/Childish+Gambino/_/Sober)
-* [The Weeknd — Die for You](https://www.last.fm/music/The+Weeknd/_/Die+for+You)
-* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)<!-- LASTFM:END -->
+* [Rihanna — Consideration](https://www.last.fm/music/Rihanna/_/Consideration)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
