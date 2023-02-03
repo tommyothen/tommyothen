@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ab-Soul — Bloody Waters &lpar;with Anderson .Paak &amp; James Blake&rpar;](https://www.last.fm/music/Ab-Soul/_/Bloody+Waters+&lpar;with+Anderson+.Paak+&amp;+James+Blake&rpar;)
+* [Kendrick Lamar — Big Shot &lpar;with Travis Scott&rpar;](https://www.last.fm/music/Kendrick+Lamar/_/Big+Shot+&lpar;with+Travis+Scott&rpar;)
 * [Jay Rock — King&#39;s Dead &lpar;with Kendrick Lamar, Future &amp; James Blake&rpar;](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+&lpar;with+Kendrick+Lamar,+Future+&amp;+James+Blake&rpar;)
 * [YG Hootie — The City &lpar;feat. Kendrick Lamar&rpar;](https://www.last.fm/music/YG+Hootie/_/The+City+&lpar;feat.+Kendrick+Lamar&rpar;)
-* [Beyoncé — NILE](https://www.last.fm/music/Beyonc%C3%A9/_/NILE)
-* [The Weeknd — Heartless](https://www.last.fm/music/The+Weeknd/_/Heartless)
-* [SZA — Good Days](https://www.last.fm/music/SZA/_/Good+Days)<!-- LASTFM:END -->
+* [Beyoncé — NILE](https://www.last.fm/music/Beyonc%C3%A9/_/NILE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
