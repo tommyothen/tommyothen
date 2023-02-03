@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Beyoncé — NILE](https://www.last.fm/music/Beyonc%C3%A9/_/NILE)
+* [The Weeknd — Heartless](https://www.last.fm/music/The+Weeknd/_/Heartless)
 * [SZA — Good Days](https://www.last.fm/music/SZA/_/Good+Days)
 * [Kendrick Lamar — A.D.H.D](https://www.last.fm/music/Kendrick+Lamar/_/A.D.H.D)
-* [Mac Miller — Hurt Feelings](https://www.last.fm/music/Mac+Miller/_/Hurt+Feelings)
-* [Problem — Better watch yo self](https://www.last.fm/music/Problem/_/Better+watch+yo+self)
-* [Black Hippy — Rolling Stone](https://www.last.fm/music/Black+Hippy/_/Rolling+Stone)<!-- LASTFM:END -->
+* [Mac Miller — Hurt Feelings](https://www.last.fm/music/Mac+Miller/_/Hurt+Feelings)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
