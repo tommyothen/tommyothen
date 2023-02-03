@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tom Tripp — Pamela](https://www.last.fm/music/Tom+Tripp/_/Pamela)
 * [Anonymuz — Gundam Wing](https://www.last.fm/music/Anonymuz/_/Gundam+Wing)
 * [The Weeknd — Pray For Me](https://www.last.fm/music/The+Weeknd/_/Pray+For+Me)
 * [Kanye West — Lift Yourself](https://www.last.fm/music/Kanye+West/_/Lift+Yourself)
-* [KIDS SEE GHOSTS — Fire](https://www.last.fm/music/KIDS+SEE+GHOSTS/_/Fire)
-* [Kendrick Lamar — m.A.A.d city](https://www.last.fm/music/Kendrick+Lamar/_/m.A.A.d+city)<!-- LASTFM:END -->
+* [KIDS SEE GHOSTS — Fire](https://www.last.fm/music/KIDS+SEE+GHOSTS/_/Fire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
