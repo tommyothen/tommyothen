@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bibi — BIBI Vengeance](https://www.last.fm/music/Bibi/_/BIBI+Vengeance)
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
+* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
 * [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
-* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)
-* [bbno$ — litmas](https://www.last.fm/music/bbno$/_/litmas)
-* [CHUNG HA — Stay Tonight](https://www.last.fm/music/CHUNG+HA/_/Stay+Tonight)
-* [Ramirez — Glitter &amp; Gold](https://www.last.fm/music/Ramirez/_/Glitter+&amp;+Gold)<!-- LASTFM:END -->
+* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
