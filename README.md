@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [c0nv0 — Doubts](https://www.last.fm/music/c0nv0/_/Doubts)
 * [bbno$ — run this shit](https://www.last.fm/music/bbno$/_/run+this+shit)
-* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)
-* [CHUNG HA — Stay Tonight](https://www.last.fm/music/CHUNG+HA/_/Stay+Tonight)
-* [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)
-* [Billie Eilish — lovely](https://www.last.fm/music/Billie+Eilish/_/lovely)<!-- LASTFM:END -->
+* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
