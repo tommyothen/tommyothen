@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
+* [Post Malone — I Fall Apart](https://www.last.fm/music/Post+Malone/_/I+Fall+Apart)
+* [AcesToAces — memory lane](https://www.last.fm/music/AcesToAces/_/memory+lane)
 * [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [c0nv0 — Doubts](https://www.last.fm/music/c0nv0/_/Doubts)
-* [bbno$ — run this shit](https://www.last.fm/music/bbno$/_/run+this+shit)
-* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
