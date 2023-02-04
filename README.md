@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [CHUNG HA — Stay Tonight](https://www.last.fm/music/CHUNG+HA/_/Stay+Tonight)
+* [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)
 * [Billie Eilish — lovely](https://www.last.fm/music/Billie+Eilish/_/lovely)
 * [Eden — and](https://www.last.fm/music/Eden/_/and)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [Ab-Soul — Bloody Waters &lpar;with Anderson .Paak &amp; James Blake&rpar;](https://www.last.fm/music/Ab-Soul/_/Bloody+Waters+&lpar;with+Anderson+.Paak+&amp;+James+Blake&rpar;)
-* [Kendrick Lamar — Big Shot &lpar;with Travis Scott&rpar;](https://www.last.fm/music/Kendrick+Lamar/_/Big+Shot+&lpar;with+Travis+Scott&rpar;)<!-- LASTFM:END -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
