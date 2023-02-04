@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)
+* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [Bibi — BIBI Vengeance](https://www.last.fm/music/Bibi/_/BIBI+Vengeance)
-* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)<!-- LASTFM:END -->
+* [Bibi — BIBI Vengeance](https://www.last.fm/music/Bibi/_/BIBI+Vengeance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
