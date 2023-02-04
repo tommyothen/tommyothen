@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ramirez — Glitter &amp; Gold](https://www.last.fm/music/Ramirez/_/Glitter+&amp;+Gold)
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
+* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
 * [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
-* [bbno$ — what i do](https://www.last.fm/music/bbno$/_/what+i+do)
-* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [Post Malone — I Fall Apart](https://www.last.fm/music/Post+Malone/_/I+Fall+Apart)
-* [AcesToAces — memory lane](https://www.last.fm/music/AcesToAces/_/memory+lane)<!-- LASTFM:END -->
+* [bbno$ — what i do](https://www.last.fm/music/bbno$/_/what+i+do)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
