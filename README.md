@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kxllswxtch — Exorcist](https://www.last.fm/music/Kxllswxtch/_/Exorcist)
 * [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
 * [Corpse — under the weather](https://www.last.fm/music/Corpse/_/under+the+weather)
 * [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)
-* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
+* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
