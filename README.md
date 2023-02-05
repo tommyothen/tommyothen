@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
+* [ONI INC. — Plague](https://www.last.fm/music/ONI+INC./_/Plague)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [Kxllswxtch — Exorcist](https://www.last.fm/music/Kxllswxtch/_/Exorcist)
-* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
-* [Corpse — under the weather](https://www.last.fm/music/Corpse/_/under+the+weather)
-* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)<!-- LASTFM:END -->
+* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
