@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Germ — Real Rap](https://www.last.fm/music/Germ/_/Real+Rap)
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
+* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
 * [Within Destruction — Yōkai](https://www.last.fm/music/Within+Destruction/_/Y%C5%8Dkai)
-* [FREEL — Чорний Дим](https://www.last.fm/music/FREEL/_/%D0%A7%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+%D0%94%D0%B8%D0%BC)
-* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
-* [ONI INC. — Plague](https://www.last.fm/music/ONI+INC./_/Plague)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
+* [FREEL — Чорний Дим](https://www.last.fm/music/FREEL/_/%D0%A7%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+%D0%94%D0%B8%D0%BC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
