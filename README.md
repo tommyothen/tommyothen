@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)
+* [Akintoye — Off My Back](https://www.last.fm/music/Akintoye/_/Off+My+Back)
 * [Varien — Can You Feel My Heart](https://www.last.fm/music/Varien/_/Can+You+Feel+My+Heart)
 * [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
-* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)
-* [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)
-* [Germ — Real Rap](https://www.last.fm/music/Germ/_/Real+Rap)<!-- LASTFM:END -->
+* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
