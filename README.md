@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Adventurer — Interlude](https://www.last.fm/music/Adventurer/_/Interlude)
+* [Adventurer — Interlude](https://www.last.fm/music/Adventurer/_/Interlude)
 * [Coletta — Agoraphobia](https://www.last.fm/music/Coletta/_/Agoraphobia)
 * [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
-* [I Met A Yeti — Magic, Madness, and Sadness](https://www.last.fm/music/I+Met+A+Yeti/_/Magic,+Madness,+and+Sadness)
-* [Hail the Sun — Made Your Mark](https://www.last.fm/music/Hail+the+Sun/_/Made+Your+Mark)
-* [Hail the Sun — Made Your Mark](https://www.last.fm/music/Hail+the+Sun/_/Made+Your+Mark)<!-- LASTFM:END -->
+* [I Met A Yeti — Magic, Madness, and Sadness](https://www.last.fm/music/I+Met+A+Yeti/_/Magic,+Madness,+and+Sadness)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
