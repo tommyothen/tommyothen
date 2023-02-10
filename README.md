@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
 * [Varien — Can You Feel My Heart](https://www.last.fm/music/Varien/_/Can+You+Feel+My+Heart)
 * [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
 * [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
-* [Antoha MC — Ритм сердца](https://www.last.fm/music/Antoha+MC/_/%D0%A0%D0%B8%D1%82%D0%BC+%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B0)
-* [bbno$ — dont tell me shit](https://www.last.fm/music/bbno$/_/dont+tell+me+shit)<!-- LASTFM:END -->
+* [Antoha MC — Ритм сердца](https://www.last.fm/music/Antoha+MC/_/%D0%A0%D0%B8%D1%82%D0%BC+%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B0)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
