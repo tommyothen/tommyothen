@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jarv &amp; Thief — The Beat](https://www.last.fm/music/Jarv+&amp;+Thief/_/The+Beat)
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
+* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
 * [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
-* [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)
-* [Polyphia — Inferno](https://www.last.fm/music/Polyphia/_/Inferno)
-* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
+* [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
