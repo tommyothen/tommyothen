@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XG — MASCARA](https://www.last.fm/music/XG/_/MASCARA)
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)
-* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)
-* [TWICE — MOONLIGHT SUNRISE](https://www.last.fm/music/TWICE/_/MOONLIGHT+SUNRISE)
-* [LE SSERAFIM — Impurities](https://www.last.fm/music/LE+SSERAFIM/_/Impurities)<!-- LASTFM:END -->
+* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
