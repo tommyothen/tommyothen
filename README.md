@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Fliptrix — You&#39;ll Never Change](https://www.last.fm/music/Fliptrix/_/You%27ll+Never+Change)
-* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
-* [Varien — Can You Feel My Heart](https://www.last.fm/music/Varien/_/Can+You+Feel+My+Heart)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)<!-- LASTFM:END -->
+* [MISSIO — Rad Drugz](https://www.last.fm/music/MISSIO/_/Rad+Drugz)
+* [Yung Bambi — Facetime](https://www.last.fm/music/Yung+Bambi/_/Facetime)
+* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
+* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
+* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
