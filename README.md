@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wolf &amp; Bear — Deleto](https://www.last.fm/music/Wolf+&amp;+Bear/_/Deleto)
+* [The Home Team — Scary Movies](https://www.last.fm/music/The+Home+Team/_/Scary+Movies)
+* [Coletta — Agoraphobia](https://www.last.fm/music/Coletta/_/Agoraphobia)
 * [Issues — Rain](https://www.last.fm/music/Issues/_/Rain)
-* [The Home Team — Slow Bloom](https://www.last.fm/music/The+Home+Team/_/Slow+Bloom)
-* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [Colde — Enough &lpar;prod. APRO&rpar;](https://www.last.fm/music/Colde/_/Enough+&lpar;prod.+APRO&rpar;)<!-- LASTFM:END -->
+* [The Home Team — Slow Bloom](https://www.last.fm/music/The+Home+Team/_/Slow+Bloom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
