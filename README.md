@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tokyo Machine — FLY](https://www.last.fm/music/Tokyo+Machine/_/FLY)
-* [Yarmak — Мечта](https://www.last.fm/music/Yarmak/_/%D0%9C%D0%B5%D1%87%D1%82%D0%B0)
-* [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)
-* [LIL DUSTY G — INSECTS](https://www.last.fm/music/LIL+DUSTY+G/_/INSECTS)
-* [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)<!-- LASTFM:END -->
+* [Hobo Johnson — Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story)
+* [Fusq — Perfume!](https://www.last.fm/music/Fusq/_/Perfume!)
+* [bbno$ — ferrari fitness](https://www.last.fm/music/bbno$/_/ferrari+fitness)
+* [Jaden — K](https://www.last.fm/music/Jaden/_/K)
+* [Rich Brian — Confetti](https://www.last.fm/music/Rich+Brian/_/Confetti)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
