@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MISSIO — Rad Drugz](https://www.last.fm/music/MISSIO/_/Rad+Drugz)
-* [Yung Bambi — Facetime](https://www.last.fm/music/Yung+Bambi/_/Facetime)
-* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
-* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)<!-- LASTFM:END -->
+* [Tokyo Machine — FLY](https://www.last.fm/music/Tokyo+Machine/_/FLY)
+* [Yarmak — Мечта](https://www.last.fm/music/Yarmak/_/%D0%9C%D0%B5%D1%87%D1%82%D0%B0)
+* [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)
+* [LIL DUSTY G — INSECTS](https://www.last.fm/music/LIL+DUSTY+G/_/INSECTS)
+* [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
