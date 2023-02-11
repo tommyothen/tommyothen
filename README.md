@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sebastian Paul — INDULGE](https://www.last.fm/music/Sebastian+Paul/_/INDULGE)
-* [Kris Wu — 18](https://www.last.fm/music/Kris+Wu/_/18)
-* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)
-* [Porter Robinson — Flicker](https://www.last.fm/music/Porter+Robinson/_/Flicker)
-* [XXXTENTACION — slipknot](https://www.last.fm/music/XXXTENTACION/_/slipknot)<!-- LASTFM:END -->
+* [bbno$ — I](https://www.last.fm/music/bbno$/_/I)
+* [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
+* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
+* [nohidea — Garden / Lost](https://www.last.fm/music/nohidea/_/Garden+%2F+Lost)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
