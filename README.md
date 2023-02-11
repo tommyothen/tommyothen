@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
+* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)
 * [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
 * [NewJeans — Cookie](https://www.last.fm/music/NewJeans/_/Cookie)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)<!-- LASTFM:END -->
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
