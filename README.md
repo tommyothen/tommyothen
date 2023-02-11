@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [STAYC — STEREOTYPE](https://www.last.fm/music/STAYC/_/STEREOTYPE)
+* [LE SSERAFIM — FEARLESS](https://www.last.fm/music/LE+SSERAFIM/_/FEARLESS)
+* [BLACKPINK — Typa Girl](https://www.last.fm/music/BLACKPINK/_/Typa+Girl)
 * [TWICE — Basics](https://www.last.fm/music/TWICE/_/Basics)
-* [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)
-* [IU — eight&lpar;Prod.&amp;Feat. SUGA of BTS&rpar;](https://www.last.fm/music/IU/_/eight&lpar;Prod.&amp;Feat.+SUGA+of+BTS&rpar;)
-* [SAAY — OVERZONE](https://www.last.fm/music/SAAY/_/OVERZONE)
-* [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)<!-- LASTFM:END -->
+* [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
