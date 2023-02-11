@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR LIVE — Venus](https://www.last.fm/music/DPR+LIVE/_/Venus)
+* [LOOΠΔ / ODD EYE CIRCLE — Girl Front](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Girl+Front)
+* [ITZY — Cheshire](https://www.last.fm/music/ITZY/_/Cheshire)
 * [IU — LILAC](https://www.last.fm/music/IU/_/LILAC)
-* [BLACKPINK — PLAYING WITH FIRE](https://www.last.fm/music/BLACKPINK/_/PLAYING+WITH+FIRE)
-* [SMMT — Knock Knock &lpar;Feat. pH-1, Moon Sujin&rpar;](https://www.last.fm/music/SMMT/_/Knock+Knock+&lpar;Feat.+pH-1,+Moon+Sujin&rpar;)
-* [DEAN — 하루살이](https://www.last.fm/music/DEAN/_/%ED%95%98%EB%A3%A8%EC%82%B4%EC%9D%B4)
-* [NMIXX — DICE](https://www.last.fm/music/NMIXX/_/DICE)<!-- LASTFM:END -->
+* [BLACKPINK — PLAYING WITH FIRE](https://www.last.fm/music/BLACKPINK/_/PLAYING+WITH+FIRE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
