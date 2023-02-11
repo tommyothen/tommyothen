@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IU — LILAC](https://www.last.fm/music/IU/_/LILAC)
+* [BLACKPINK — PLAYING WITH FIRE](https://www.last.fm/music/BLACKPINK/_/PLAYING+WITH+FIRE)
+* [SMMT — Knock Knock &lpar;Feat. pH-1, Moon Sujin&rpar;](https://www.last.fm/music/SMMT/_/Knock+Knock+&lpar;Feat.+pH-1,+Moon+Sujin&rpar;)
 * [DEAN — 하루살이](https://www.last.fm/music/DEAN/_/%ED%95%98%EB%A3%A8%EC%82%B4%EC%9D%B4)
-* [NMIXX — DICE](https://www.last.fm/music/NMIXX/_/DICE)
-* [LE SSERAFIM — Blue Flame](https://www.last.fm/music/LE+SSERAFIM/_/Blue+Flame)
-* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)
-* [BLACKPINK — REALLY](https://www.last.fm/music/BLACKPINK/_/REALLY)<!-- LASTFM:END -->
+* [NMIXX — DICE](https://www.last.fm/music/NMIXX/_/DICE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
