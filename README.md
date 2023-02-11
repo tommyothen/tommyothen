@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hobo Johnson — Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story)
-* [Fusq — Perfume!](https://www.last.fm/music/Fusq/_/Perfume!)
-* [bbno$ — ferrari fitness](https://www.last.fm/music/bbno$/_/ferrari+fitness)
-* [Jaden — K](https://www.last.fm/music/Jaden/_/K)
-* [Rich Brian — Confetti](https://www.last.fm/music/Rich+Brian/_/Confetti)<!-- LASTFM:END -->
+* [Fairlane — Uncover You](https://www.last.fm/music/Fairlane/_/Uncover+You)
+* [Yung Gravy — Whippin](https://www.last.fm/music/Yung+Gravy/_/Whippin)
+* [Adam Jensen — Bad Luck](https://www.last.fm/music/Adam+Jensen/_/Bad+Luck)
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
