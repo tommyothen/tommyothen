@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [Polyphia — Genesis &lpar;feat. Brasstracks&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;feat.+Brasstracks&rpar;)
 * [Polyphia — Persevere &lpar;feat. Aaron Marshall&rpar;](https://www.last.fm/music/Polyphia/_/Persevere+&lpar;feat.+Aaron+Marshall&rpar;)
 * [Polyphia — Fuck Around and Find Out &lpar;feat. $not&rpar;](https://www.last.fm/music/Polyphia/_/Fuck+Around+and+Find+Out+&lpar;feat.+$not&rpar;)
-* [Polyphia — Look But Don&#39;t Touch](https://www.last.fm/music/Polyphia/_/Look+But+Don%27t+Touch)
-* [Polyphia — Ivory](https://www.last.fm/music/Polyphia/_/Ivory)<!-- LASTFM:END -->
+* [Polyphia — Look But Don&#39;t Touch](https://www.last.fm/music/Polyphia/_/Look+But+Don%27t+Touch)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
