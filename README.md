@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Inspire](https://www.last.fm/music/Polyphia/_/Inspire)
 * [Polyphia — Symmetry](https://www.last.fm/music/Polyphia/_/Symmetry)
 * [Polyphia — Memory](https://www.last.fm/music/Polyphia/_/Memory)
 * [Polyphia — Storm](https://www.last.fm/music/Polyphia/_/Storm)
-* [Polyphia — Baditude](https://www.last.fm/music/Polyphia/_/Baditude)
-* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)<!-- LASTFM:END -->
+* [Polyphia — Baditude](https://www.last.fm/music/Polyphia/_/Baditude)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
