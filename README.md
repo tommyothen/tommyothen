@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [XG — MASCARA](https://www.last.fm/music/XG/_/MASCARA)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
+* [XG — MASCARA](https://www.last.fm/music/XG/_/MASCARA)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)
-* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)<!-- LASTFM:END -->
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
