@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Fairlane — Uncover You](https://www.last.fm/music/Fairlane/_/Uncover+You)
-* [Yung Gravy — Whippin](https://www.last.fm/music/Yung+Gravy/_/Whippin)
-* [Adam Jensen — Bad Luck](https://www.last.fm/music/Adam+Jensen/_/Bad+Luck)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
+* [Sebastian Paul — INDULGE](https://www.last.fm/music/Sebastian+Paul/_/INDULGE)
+* [Kris Wu — 18](https://www.last.fm/music/Kris+Wu/_/18)
+* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)
+* [Porter Robinson — Flicker](https://www.last.fm/music/Porter+Robinson/_/Flicker)
+* [XXXTENTACION — slipknot](https://www.last.fm/music/XXXTENTACION/_/slipknot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
