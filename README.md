@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Elio — hurts 2 hate somebody &lpar;with Chase Atlantic &amp; No Rome&rpar;](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+&lpar;with+Chase+Atlantic+&amp;+No+Rome&rpar;)
+* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
 * [bbno$ — I](https://www.last.fm/music/bbno$/_/I)
 * [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
-* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
-* [nohidea — Garden / Lost](https://www.last.fm/music/nohidea/_/Garden+%2F+Lost)<!-- LASTFM:END -->
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
