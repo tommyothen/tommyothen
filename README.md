@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Nonsense](https://www.last.fm/music/Sabrina+Carpenter/_/Nonsense)
+* [BLACKPINK — Hard To Love](https://www.last.fm/music/BLACKPINK/_/Hard+To+Love)
 * [TWICE — Alcohol-Free](https://www.last.fm/music/TWICE/_/Alcohol-Free)
 * [Niki — High School in Jakarta](https://www.last.fm/music/Niki/_/High+School+in+Jakarta)
-* [&lpar;G&rpar;I-DLE — Oh My God](https://www.last.fm/music/&lpar;G&rpar;I-DLE/_/Oh+My+God)
-* [AOA — Miniskirt](https://www.last.fm/music/AOA/_/Miniskirt)
-* [STAYC — STEREOTYPE](https://www.last.fm/music/STAYC/_/STEREOTYPE)<!-- LASTFM:END -->
+* [&lpar;G&rpar;I-DLE — Oh My God](https://www.last.fm/music/&lpar;G&rpar;I-DLE/_/Oh+My+God)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
