@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Hurt](https://www.last.fm/music/NewJeans/_/Hurt)
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [Moow — Reconcilation](https://www.last.fm/music/Moow/_/Reconcilation)
 * [Kill Bill: The Rapper — About Last Night...](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/About+Last+Night...)
-* [Antoha MC — Ритм сердца](https://www.last.fm/music/Antoha+MC/_/%D0%A0%D0%B8%D1%82%D0%BC+%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B0)
-* [Pouya — Superman Is Dead](https://www.last.fm/music/Pouya/_/Superman+Is+Dead)
-* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)<!-- LASTFM:END -->
+* [Antoha MC — Ритм сердца](https://www.last.fm/music/Antoha+MC/_/%D0%A0%D0%B8%D1%82%D0%BC+%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B0)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
