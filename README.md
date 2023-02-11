@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Issues — Rain](https://www.last.fm/music/Issues/_/Rain)
+* [The Home Team — Slow Bloom](https://www.last.fm/music/The+Home+Team/_/Slow+Bloom)
+* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [Colde — Enough &lpar;prod. APRO&rpar;](https://www.last.fm/music/Colde/_/Enough+&lpar;prod.+APRO&rpar;)
-* [Red Velvet — BYE BYE](https://www.last.fm/music/Red+Velvet/_/BYE+BYE)
-* [BLACKPINK — Yeah Yeah Yeah](https://www.last.fm/music/BLACKPINK/_/Yeah+Yeah+Yeah)
-* [Yena — Love War &lpar;feat. BE&#39;O&rpar;](https://www.last.fm/music/Yena/_/Love+War+&lpar;feat.+BE%27O&rpar;)<!-- LASTFM:END -->
+* [Colde — Enough &lpar;prod. APRO&rpar;](https://www.last.fm/music/Colde/_/Enough+&lpar;prod.+APRO&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
