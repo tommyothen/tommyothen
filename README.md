@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Red Velvet — BYE BYE](https://www.last.fm/music/Red+Velvet/_/BYE+BYE)
+* [BLACKPINK — Yeah Yeah Yeah](https://www.last.fm/music/BLACKPINK/_/Yeah+Yeah+Yeah)
+* [Yena — Love War &lpar;feat. BE&#39;O&rpar;](https://www.last.fm/music/Yena/_/Love+War+&lpar;feat.+BE%27O&rpar;)
 * [DPR LIVE — Venus](https://www.last.fm/music/DPR+LIVE/_/Venus)
-* [LOOΠΔ / ODD EYE CIRCLE — Girl Front](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Girl+Front)
-* [ITZY — Cheshire](https://www.last.fm/music/ITZY/_/Cheshire)
-* [IU — LILAC](https://www.last.fm/music/IU/_/LILAC)
-* [BLACKPINK — PLAYING WITH FIRE](https://www.last.fm/music/BLACKPINK/_/PLAYING+WITH+FIRE)<!-- LASTFM:END -->
+* [LOOΠΔ / ODD EYE CIRCLE — Girl Front](https://www.last.fm/music/LOO%CE%A0%CE%94+%2F+ODD+EYE+CIRCLE/_/Girl+Front)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
