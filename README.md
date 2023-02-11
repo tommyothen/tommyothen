@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MAVE: — PANDORA](https://www.last.fm/music/MAVE:/_/PANDORA)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)<!-- LASTFM:END -->
+* [DPR IAN — Mood](https://www.last.fm/music/DPR+IAN/_/Mood)
+* [STAYC — POPPY - Japanese Ver.](https://www.last.fm/music/STAYC/_/POPPY+-+Japanese+Ver.)
+* [Tank — 159cm](https://www.last.fm/music/Tank/_/159cm)
+* [BLACKPINK — Shut Down](https://www.last.fm/music/BLACKPINK/_/Shut+Down)
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
