@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Ivory](https://www.last.fm/music/Polyphia/_/Ivory)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Polyphia — Chimera &lpar;feat. Lil West&rpar;](https://www.last.fm/music/Polyphia/_/Chimera+&lpar;feat.+Lil+West&rpar;)
 * [Wolf &amp; Bear — Deleto](https://www.last.fm/music/Wolf+&amp;+Bear/_/Deleto)
-* [The Home Team — Scary Movies](https://www.last.fm/music/The+Home+Team/_/Scary+Movies)
-* [Coletta — Agoraphobia](https://www.last.fm/music/Coletta/_/Agoraphobia)
-* [Issues — Rain](https://www.last.fm/music/Issues/_/Rain)<!-- LASTFM:END -->
+* [The Home Team — Scary Movies](https://www.last.fm/music/The+Home+Team/_/Scary+Movies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
