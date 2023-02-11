@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — Basics](https://www.last.fm/music/TWICE/_/Basics)
+* [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)
+* [IU — eight&lpar;Prod.&amp;Feat. SUGA of BTS&rpar;](https://www.last.fm/music/IU/_/eight&lpar;Prod.&amp;Feat.+SUGA+of+BTS&rpar;)
 * [SAAY — OVERZONE](https://www.last.fm/music/SAAY/_/OVERZONE)
-* [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)
-* [BLACKPINK — Pink Venom](https://www.last.fm/music/BLACKPINK/_/Pink+Venom)
-* [TWICE — Talk that Talk](https://www.last.fm/music/TWICE/_/Talk+that+Talk)
-* [DPR IAN — Calico](https://www.last.fm/music/DPR+IAN/_/Calico)<!-- LASTFM:END -->
+* [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
