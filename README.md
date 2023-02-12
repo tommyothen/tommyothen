@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Chainsaw Man - TV](https://myanimelist.net/anime/44511/Chainsaw_Man) - Completed - 12 of 12 episodes
 * [Assault Lily: Bouquet - TV](https://myanimelist.net/anime/40550/Assault_Lily__Bouquet) - Watching - 1 of 12 episodes
 * [Zombieland Saga - TV](https://myanimelist.net/anime/37976/Zombieland_Saga) - Watching - 4 of 12 episodes
 * [Abunai Sisters: Koko &amp; Mika - OVA](https://myanimelist.net/anime/5877/Abunai_Sisters__Koko___Mika) - Watching - 1 of 10 episodes
-* [Chainsaw Man - TV](https://myanimelist.net/anime/44511/Chainsaw_Man) - Watching - 7 of 12 episodes
 * [Cowboy Bebop - TV](https://myanimelist.net/anime/1/Cowboy_Bebop) - Plan to Watch - 0 of 26 episodes<!-- ANIME-LIST:END -->
