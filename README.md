@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tove Lo — disco tits](https://www.last.fm/music/Tove+Lo/_/disco+tits)
+* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
 * [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
 * [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
-* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
-* [Tima Belorusskih — Витаминка](https://www.last.fm/music/Tima+Belorusskih/_/%D0%92%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%BA%D0%B0)<!-- LASTFM:END -->
+* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
