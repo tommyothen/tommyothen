@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — All I Need](https://www.last.fm/music/khai+dreams/_/All+I+Need)
+* [FloFilz — Twosome](https://www.last.fm/music/FloFilz/_/Twosome)
 * [Tove Lo — disco tits](https://www.last.fm/music/Tove+Lo/_/disco+tits)
 * [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
-* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
+* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
