@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Assault Lily: Bouquet - TV](https://myanimelist.net/anime/40550/Assault_Lily__Bouquet) - Watching - 1 of 12 episodes
+* [Zombieland Saga - TV](https://myanimelist.net/anime/37976/Zombieland_Saga) - Watching - 4 of 12 episodes
+* [Abunai Sisters: Koko &amp; Mika - OVA](https://myanimelist.net/anime/5877/Abunai_Sisters__Koko___Mika) - Watching - 1 of 10 episodes
 * [Chainsaw Man - TV](https://myanimelist.net/anime/44511/Chainsaw_Man) - Watching - 7 of 12 episodes
-* [Cowboy Bebop - TV](https://myanimelist.net/anime/1/Cowboy_Bebop) - Plan to Watch - 0 of 26 episodes
-* [Neon Genesis Evangelion - TV](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion) - On-Hold - 3 of 26 episodes
-* [Akira - Movie](https://myanimelist.net/anime/47/Akira) - Plan to Watch - 0 of 1 episodes
-* [Perfect Blue - Movie](https://myanimelist.net/anime/437/Perfect_Blue) - Plan to Watch - 0 of 1 episodes<!-- ANIME-LIST:END -->
+* [Cowboy Bebop - TV](https://myanimelist.net/anime/1/Cowboy_Bebop) - Plan to Watch - 0 of 26 episodes<!-- ANIME-LIST:END -->
