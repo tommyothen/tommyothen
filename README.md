@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)
+* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)
+* [Chloe Moriondo — Ghost Adventure Spirit Orb](https://www.last.fm/music/Chloe+Moriondo/_/Ghost+Adventure+Spirit+Orb)
 * [khai dreams — All I Need](https://www.last.fm/music/khai+dreams/_/All+I+Need)
-* [FloFilz — Twosome](https://www.last.fm/music/FloFilz/_/Twosome)
-* [Tove Lo — disco tits](https://www.last.fm/music/Tove+Lo/_/disco+tits)
-* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
-* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)<!-- LASTFM:END -->
+* [FloFilz — Twosome](https://www.last.fm/music/FloFilz/_/Twosome)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
