@@ -28,9 +28,9 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
 * [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)
 * [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)
-* [Bambee — Bumble Bee](https://www.last.fm/music/Bambee/_/Bumble+Bee)
 * [Bambee — Bumble Bee](https://www.last.fm/music/Bambee/_/Bumble+Bee)
 * [Bambee — Bumble Bee](https://www.last.fm/music/Bambee/_/Bumble+Bee)<!-- LASTFM:END -->
 
