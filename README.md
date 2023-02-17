@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ham Sandwich — ADDICTED TO MONSTER GIRLS](https://www.last.fm/music/Ham+Sandwich/_/ADDICTED+TO+MONSTER+GIRLS)
 * [Ham Sandwich — I&#39;M NOT A FURRY BUT](https://www.last.fm/music/Ham+Sandwich/_/I%27M+NOT+A+FURRY+BUT)
 * [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)
 * [HAARPER — NEXTBOT!](https://www.last.fm/music/HAARPER/_/NEXTBOT!)
-* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
-* [JASIAH — RED EYES BLACK DRAGON &lpar;feat. 1nonly&rpar;](https://www.last.fm/music/JASIAH/_/RED+EYES+BLACK+DRAGON+&lpar;feat.+1nonly&rpar;)<!-- LASTFM:END -->
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
