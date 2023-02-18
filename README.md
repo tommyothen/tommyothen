@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DEVIL NO ID — BEAUTIFUL BEAST](https://www.last.fm/music/DEVIL+NO+ID/_/BEAUTIFUL+BEAST)
 * [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)
 * [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)
 * [The Home Team — Watching All Your Friends Get Rich](https://www.last.fm/music/The+Home+Team/_/Watching+All+Your+Friends+Get+Rich)
-* [Adventurer — Oil Ocean](https://www.last.fm/music/Adventurer/_/Oil+Ocean)
-* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)<!-- LASTFM:END -->
+* [Adventurer — Oil Ocean](https://www.last.fm/music/Adventurer/_/Oil+Ocean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
