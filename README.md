@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [alienatedtreacle — Choppa&#39;s Island](https://www.last.fm/music/alienatedtreacle/_/Choppa%27s+Island)
+* [Joey Valence &amp; Brae — Startafight](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/Startafight)
 * [$LOTHBOI — Creation](https://www.last.fm/music/$LOTHBOI/_/Creation)
 * [Marmalade butcher — Floccinaucinihilipilification](https://www.last.fm/music/Marmalade+butcher/_/Floccinaucinihilipilification)
-* [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)
-* [DEVIL NO ID — BEAUTIFUL BEAST](https://www.last.fm/music/DEVIL+NO+ID/_/BEAUTIFUL+BEAST)
-* [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)<!-- LASTFM:END -->
+* [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
