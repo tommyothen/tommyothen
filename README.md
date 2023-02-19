@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Azealia Banks — 212](https://www.last.fm/music/Azealia+Banks/_/212)
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
-* [Bring Me the Horizon — Parasite Eve](https://www.last.fm/music/Bring+Me+the+Horizon/_/Parasite+Eve)
-* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
-* [Mudvayne — Happy?](https://www.last.fm/music/Mudvayne/_/Happy%3F)<!-- LASTFM:END -->
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
+* [Bring Me the Horizon — Can You Feel My Heart](https://www.last.fm/music/Bring+Me+the+Horizon/_/Can+You+Feel+My+Heart)
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
+* [Joji — Run](https://www.last.fm/music/Joji/_/Run)
+* [Azealia Banks — 212](https://www.last.fm/music/Azealia+Banks/_/212)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
