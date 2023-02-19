@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
 * [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
 * [Marmalade butcher — Floccinaucinihilipilification](https://www.last.fm/music/Marmalade+butcher/_/Floccinaucinihilipilification)
-* [pulses. — Louisiana Purchase](https://www.last.fm/music/pulses./_/Louisiana+Purchase)
-* [alienatedtreacle — Choppa&#39;s Island](https://www.last.fm/music/alienatedtreacle/_/Choppa%27s+Island)
-* [Joey Valence &amp; Brae — Startafight](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/Startafight)<!-- LASTFM:END -->
+* [pulses. — Louisiana Purchase](https://www.last.fm/music/pulses./_/Louisiana+Purchase)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
