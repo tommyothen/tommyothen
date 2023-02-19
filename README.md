@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
+* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
 * [Cheridomingo — Drugs](https://www.last.fm/music/Cheridomingo/_/Drugs)
 * [Lil Peep — feelz](https://www.last.fm/music/Lil+Peep/_/feelz)
-* [XXXTENTACION — Whoa &lpar;mind in awe&rpar;](https://www.last.fm/music/XXXTENTACION/_/Whoa+&lpar;mind+in+awe&rpar;)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
+* [XXXTENTACION — Whoa &lpar;mind in awe&rpar;](https://www.last.fm/music/XXXTENTACION/_/Whoa+&lpar;mind+in+awe&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
