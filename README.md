@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
-* [Bring Me the Horizon — Can You Feel My Heart](https://www.last.fm/music/Bring+Me+the+Horizon/_/Can+You+Feel+My+Heart)
-* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
-* [Joji — Run](https://www.last.fm/music/Joji/_/Run)
-* [Azealia Banks — 212](https://www.last.fm/music/Azealia+Banks/_/212)<!-- LASTFM:END -->
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
+* [Cleopatrick — SERVERS SPEAK](https://www.last.fm/music/Cleopatrick/_/SERVERS+SPEAK)
+* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
