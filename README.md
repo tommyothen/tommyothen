@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashwarya — FLARE](https://www.last.fm/music/Ashwarya/_/FLARE)
+* [Goldwater — Heads Up!](https://www.last.fm/music/Goldwater/_/Heads+Up!)
 * [Nightlife — lonely](https://www.last.fm/music/Nightlife/_/lonely)
 * [Ariaa — Too Easy](https://www.last.fm/music/Ariaa/_/Too+Easy)
-* [Vorsa — Burn](https://www.last.fm/music/Vorsa/_/Burn)
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)<!-- LASTFM:END -->
+* [Vorsa — Burn](https://www.last.fm/music/Vorsa/_/Burn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
