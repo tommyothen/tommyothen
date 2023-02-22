@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
 * [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
 * [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
 * [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
 * [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
