@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Emi — Want Me Dead](https://www.last.fm/music/Emi/_/Want+Me+Dead)
+* [ADIN — Somebody Else](https://www.last.fm/music/ADIN/_/Somebody+Else)
 * [Ashwarya — FLARE](https://www.last.fm/music/Ashwarya/_/FLARE)
 * [Goldwater — Heads Up!](https://www.last.fm/music/Goldwater/_/Heads+Up!)
-* [Nightlife — lonely](https://www.last.fm/music/Nightlife/_/lonely)
-* [Ariaa — Too Easy](https://www.last.fm/music/Ariaa/_/Too+Easy)
-* [Vorsa — Burn](https://www.last.fm/music/Vorsa/_/Burn)<!-- LASTFM:END -->
+* [Nightlife — lonely](https://www.last.fm/music/Nightlife/_/lonely)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
