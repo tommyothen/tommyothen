@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jaxn Faw — ALL FOR NOTHING](https://www.last.fm/music/Jaxn+Faw/_/ALL+FOR+NOTHING)
-* [shöckface — scared boy](https://www.last.fm/music/sh%C3%B6ckface/_/scared+boy)
-* [GIVVEN — Losing Colours](https://www.last.fm/music/GIVVEN/_/Losing+Colours)
-* [Indi — Sleepwalking](https://www.last.fm/music/Indi/_/Sleepwalking)
-* [k.rudd — Blow](https://www.last.fm/music/k.rudd/_/Blow)<!-- LASTFM:END -->
+* [Cheriimoya — Should Be Wiser](https://www.last.fm/music/Cheriimoya/_/Should+Be+Wiser)
+* [saikyu — heaven is so silent](https://www.last.fm/music/saikyu/_/heaven+is+so+silent)
+* [PATEMANE — YOURS](https://www.last.fm/music/PATEMANE/_/YOURS)
+* [Gray Sora — Ride in the Rainfall](https://www.last.fm/music/Gray+Sora/_/Ride+in+the+Rainfall)
+* [Nevertel — Stuck Inside](https://www.last.fm/music/Nevertel/_/Stuck+Inside)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
