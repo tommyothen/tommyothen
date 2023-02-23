@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Manic. — Gone](https://www.last.fm/music/Manic./_/Gone)
 * [Xenia — Godspeed](https://www.last.fm/music/Xenia/_/Godspeed)
 * [Corbyn — DANTE&#39;S VALLEY](https://www.last.fm/music/Corbyn/_/DANTE%27S+VALLEY)
 * [Like Saturn — out of the way](https://www.last.fm/music/Like+Saturn/_/out+of+the+way)
-* [Midal — homesick](https://www.last.fm/music/Midal/_/homesick)
-* [Onative — 100 friends](https://www.last.fm/music/Onative/_/100+friends)<!-- LASTFM:END -->
+* [Midal — homesick](https://www.last.fm/music/Midal/_/homesick)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
