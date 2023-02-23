@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cheriimoya — Should Be Wiser](https://www.last.fm/music/Cheriimoya/_/Should+Be+Wiser)
-* [saikyu — heaven is so silent](https://www.last.fm/music/saikyu/_/heaven+is+so+silent)
-* [PATEMANE — YOURS](https://www.last.fm/music/PATEMANE/_/YOURS)
-* [Gray Sora — Ride in the Rainfall](https://www.last.fm/music/Gray+Sora/_/Ride+in+the+Rainfall)
-* [Nevertel — Stuck Inside](https://www.last.fm/music/Nevertel/_/Stuck+Inside)<!-- LASTFM:END -->
+* [Xenia — Godspeed](https://www.last.fm/music/Xenia/_/Godspeed)
+* [Corbyn — DANTE&#39;S VALLEY](https://www.last.fm/music/Corbyn/_/DANTE%27S+VALLEY)
+* [Like Saturn — out of the way](https://www.last.fm/music/Like+Saturn/_/out+of+the+way)
+* [Midal — homesick](https://www.last.fm/music/Midal/_/homesick)
+* [Onative — 100 friends](https://www.last.fm/music/Onative/_/100+friends)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
