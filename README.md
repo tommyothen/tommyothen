@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sleep Token — The Summoning](https://www.last.fm/music/Sleep+Token/_/The+Summoning)
 * [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
 * [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
 * [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
-* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
-* [Chief Keef — Love Sosa](https://www.last.fm/music/Chief+Keef/_/Love+Sosa)<!-- LASTFM:END -->
+* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
