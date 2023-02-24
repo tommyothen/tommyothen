@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DENȲ — Gusto With Ya](https://www.last.fm/music/DEN%C8%B2/_/Gusto+With+Ya)
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
 * [brb. — do me right](https://www.last.fm/music/brb./_/do+me+right)
 * [Niki — See U Never](https://www.last.fm/music/Niki/_/See+U+Never)
-* [Vorsa — Burn](https://www.last.fm/music/Vorsa/_/Burn)
-* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)<!-- LASTFM:END -->
+* [Vorsa — Burn](https://www.last.fm/music/Vorsa/_/Burn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
