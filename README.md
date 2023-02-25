@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
+* [808Donkey — La Caverne](https://www.last.fm/music/808Donkey/_/La+Caverne)
 * [BPM15Q — Kyo You Mu](https://www.last.fm/music/BPM15Q/_/Kyo+You+Mu)
 * [LOBSTA B — CRAZYFROG OUVERTURE](https://www.last.fm/music/LOBSTA+B/_/CRAZYFROG+OUVERTURE)
-* [Charlie Sparks &lpar;UK&rpar; — Welcome To London](https://www.last.fm/music/Charlie+Sparks+&lpar;UK&rpar;/_/Welcome+To+London)
-* [Lorna Shore — To the Hellfire](https://www.last.fm/music/Lorna+Shore/_/To+the+Hellfire)
-* [Animals as Leaders — Physical Education](https://www.last.fm/music/Animals+as+Leaders/_/Physical+Education)<!-- LASTFM:END -->
+* [Charlie Sparks &lpar;UK&rpar; — Welcome To London](https://www.last.fm/music/Charlie+Sparks+&lpar;UK&rpar;/_/Welcome+To+London)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
