@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ese 40&#39;z — City Lights](https://www.last.fm/music/Ese+40%27z/_/City+Lights)
+* [Lil Darkie — FUCK ALL OF YOU &lt;3](https://www.last.fm/music/Lil+Darkie/_/FUCK+ALL+OF+YOU+%3C3)
+* [XANAKIN SKYWOK — Beach Boys](https://www.last.fm/music/XANAKIN+SKYWOK/_/Beach+Boys)
 * [Deftones — 7 Words](https://www.last.fm/music/Deftones/_/7+Words)
-* [Aerosmith — Dream On](https://www.last.fm/music/Aerosmith/_/Dream+On)
-* [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)
-* [Dire Straits — Sultans of Swing](https://www.last.fm/music/Dire+Straits/_/Sultans+of+Swing)
-* [Joey Valence &amp; Brae — PUNK TACTICS](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/PUNK+TACTICS)<!-- LASTFM:END -->
+* [Aerosmith — Dream On](https://www.last.fm/music/Aerosmith/_/Dream+On)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
