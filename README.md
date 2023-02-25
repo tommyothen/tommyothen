@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lorna Shore — To the Hellfire](https://www.last.fm/music/Lorna+Shore/_/To+the+Hellfire)
 * [Animals as Leaders — Physical Education](https://www.last.fm/music/Animals+as+Leaders/_/Physical+Education)
 * [Slipknot — The Heretic Anthem](https://www.last.fm/music/Slipknot/_/The+Heretic+Anthem)
 * [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
-* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)<!-- LASTFM:END -->
+* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
