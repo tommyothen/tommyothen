@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — The Heretic Anthem](https://www.last.fm/music/Slipknot/_/The+Heretic+Anthem)
 * [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
 * [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
 * [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
-* [Slipknot — Dead Memories](https://www.last.fm/music/Slipknot/_/Dead+Memories)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)<!-- LASTFM:END -->
+* [Slipknot — Dead Memories](https://www.last.fm/music/Slipknot/_/Dead+Memories)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
