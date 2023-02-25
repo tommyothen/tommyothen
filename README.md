@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
 * [Zomboy — Delirium - The Prototypes Remix](https://www.last.fm/music/Zomboy/_/Delirium+-+The+Prototypes+Remix)
 * [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Ese 40&#39;z — City Lights](https://www.last.fm/music/Ese+40%27z/_/City+Lights)
-* [Lil Darkie — FUCK ALL OF YOU &lt;3](https://www.last.fm/music/Lil+Darkie/_/FUCK+ALL+OF+YOU+%3C3)
-* [XANAKIN SKYWOK — Beach Boys](https://www.last.fm/music/XANAKIN+SKYWOK/_/Beach+Boys)<!-- LASTFM:END -->
+* [Ese 40&#39;z — City Lights](https://www.last.fm/music/Ese+40%27z/_/City+Lights)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
