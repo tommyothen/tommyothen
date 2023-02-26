@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Id:Invaded - TV](https://myanimelist.net/anime/40046/Id_Invaded) - Watching - 6 of 13 episodes
+* [Saikyou Onmyouji no Isekai Tenseiki - TV](https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki) - Watching - 8 of 13 episodes
 * [Tensei shitara Ken deshita - TV](https://myanimelist.net/anime/49891/Tensei_shitara_Ken_deshita) - Completed - 12 of 12 episodes
 * [Chainsaw Man - TV](https://myanimelist.net/anime/44511/Chainsaw_Man) - Completed - 12 of 12 episodes
-* [Assault Lily: Bouquet - TV](https://myanimelist.net/anime/40550/Assault_Lily__Bouquet) - Watching - 1 of 12 episodes
-* [Zombieland Saga - TV](https://myanimelist.net/anime/37976/Zombieland_Saga) - Watching - 4 of 12 episodes
-* [Abunai Sisters: Koko &amp; Mika - OVA](https://myanimelist.net/anime/5877/Abunai_Sisters__Koko___Mika) - Watching - 1 of 10 episodes<!-- ANIME-LIST:END -->
+* [Assault Lily: Bouquet - TV](https://myanimelist.net/anime/40550/Assault_Lily__Bouquet) - Watching - 1 of 12 episodes<!-- ANIME-LIST:END -->
