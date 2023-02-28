@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Marmalade butcher — Floccinaucinihilipilification](https://www.last.fm/music/Marmalade+butcher/_/Floccinaucinihilipilification)
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
+* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
 * [Animals as Leaders — Physical Education](https://www.last.fm/music/Animals+as+Leaders/_/Physical+Education)
-* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
-* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
-* [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)
-* [Tkay Maidza — So Cold](https://www.last.fm/music/Tkay+Maidza/_/So+Cold)<!-- LASTFM:END -->
+* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
