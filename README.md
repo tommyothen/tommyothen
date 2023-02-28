@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
 * [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)
 * [Camellia — crystallized](https://www.last.fm/music/Camellia/_/crystallized)
 * [UNDEAD CORPORATION DOUJIN WORKS — The Empress](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/The+Empress)
-* [Telekinesis — The Monk](https://www.last.fm/music/Telekinesis/_/The+Monk)
-* [Lite Show Magic — TRICKL4SH 220 - 22,000 Power Extended](https://www.last.fm/music/Lite+Show+Magic/_/TRICKL4SH+220+-+22,000+Power+Extended)<!-- LASTFM:END -->
+* [Telekinesis — The Monk](https://www.last.fm/music/Telekinesis/_/The+Monk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
