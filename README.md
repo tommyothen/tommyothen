@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [t+pazolite — Cheatreal](https://www.last.fm/music/t%252Bpazolite/_/Cheatreal)
+* [Imperial Circus Dead Decadence — 黄泉より聴こゆ、皇国の燈と焔の少女。](https://www.last.fm/music/Imperial+Circus+Dead+Decadence/_/%E9%BB%84%E6%B3%89%E3%82%88%E3%82%8A%E8%81%B4%E3%81%93%E3%82%86%E3%80%81%E7%9A%87%E5%9B%BD%E3%81%AE%E7%87%88%E3%81%A8%E7%84%94%E3%81%AE%E5%B0%91%E5%A5%B3%E3%80%82)
 * [PSYQUI — Hype](https://www.last.fm/music/PSYQUI/_/Hype)
 * [38-ban — Milk Crown On Sonnetica](https://www.last.fm/music/38-ban/_/Milk+Crown+On+Sonnetica)
-* [XI — FREEDOM DiVE↓](https://www.last.fm/music/XI/_/FREEDOM+DiVE%E2%86%93)
-* [Galneryus — Raise My Sword](https://www.last.fm/music/Galneryus/_/Raise+My+Sword)
-* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)<!-- LASTFM:END -->
+* [XI — FREEDOM DiVE↓](https://www.last.fm/music/XI/_/FREEDOM+DiVE%E2%86%93)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
