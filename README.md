@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)
+* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
+* [Yung Gravy — Suavecito](https://www.last.fm/music/Yung+Gravy/_/Suavecito)
 * [AcesToAces — coffee](https://www.last.fm/music/AcesToAces/_/coffee)
-* [Eevee — that real good](https://www.last.fm/music/Eevee/_/that+real+good)
-* [Sub Focus — Solar System](https://www.last.fm/music/Sub+Focus/_/Solar+System)
-* [BROCKHAMPTON — 1999 WILDFIRE](https://www.last.fm/music/BROCKHAMPTON/_/1999+WILDFIRE)
-* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)<!-- LASTFM:END -->
+* [Eevee — that real good](https://www.last.fm/music/Eevee/_/that+real+good)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
