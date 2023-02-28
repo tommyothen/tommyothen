@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KASAI HARCORES — Cycle Hit](https://www.last.fm/music/KASAI+HARCORES/_/Cycle+Hit)
 * [Camellia — Exit This Earth&#39;s Atomosphere](https://www.last.fm/music/Camellia/_/Exit+This+Earth%27s+Atomosphere)
 * [t+pazolite — Pumpin&#39; Junkies](https://www.last.fm/music/t%252Bpazolite/_/Pumpin%27+Junkies)
 * [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
-* [VINXIS — Sidetracked Day](https://www.last.fm/music/VINXIS/_/Sidetracked+Day)
-* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)<!-- LASTFM:END -->
+* [VINXIS — Sidetracked Day](https://www.last.fm/music/VINXIS/_/Sidetracked+Day)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
