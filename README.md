@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mac Miller — Hands](https://www.last.fm/music/Mac+Miller/_/Hands)
+* [Rainych — Yoru ni Kakeru](https://www.last.fm/music/Rainych/_/Yoru+ni+Kakeru)
 * [o k h o — Espresso](https://www.last.fm/music/o+k+h+o/_/Espresso)
 * [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)
-* [Knapsack — Matrix](https://www.last.fm/music/Knapsack/_/Matrix)
-* [Lil Boom — Already Dead](https://www.last.fm/music/Lil+Boom/_/Already+Dead)
-* [Pink Guy — Fried Noodles &lpar;Getter Remix&rpar;](https://www.last.fm/music/Pink+Guy/_/Fried+Noodles+&lpar;Getter+Remix&rpar;)<!-- LASTFM:END -->
+* [Knapsack — Matrix](https://www.last.fm/music/Knapsack/_/Matrix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
