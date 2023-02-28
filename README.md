@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PSYQUI — Hype](https://www.last.fm/music/PSYQUI/_/Hype)
+* [38-ban — Milk Crown On Sonnetica](https://www.last.fm/music/38-ban/_/Milk+Crown+On+Sonnetica)
 * [XI — FREEDOM DiVE↓](https://www.last.fm/music/XI/_/FREEDOM+DiVE%E2%86%93)
 * [Galneryus — Raise My Sword](https://www.last.fm/music/Galneryus/_/Raise+My+Sword)
-* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
-* [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)
-* [Camellia — crystallized](https://www.last.fm/music/Camellia/_/crystallized)<!-- LASTFM:END -->
+* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
