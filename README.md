@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [a_hisa — Logical Stimulus](https://www.last.fm/music/a_hisa/_/Logical+Stimulus)
+* [pinocchioP — SukiSukiSukiSukiSukiSukiSukiSukiSukiSuki](https://www.last.fm/music/pinocchioP/_/SukiSukiSukiSukiSukiSukiSukiSukiSukiSuki)
 * [Riot — Overkill](https://www.last.fm/music/Riot/_/Overkill)
 * [UNDEAD CORPORATION DOUJIN WORKS — 夜啼く兎は夢を見る](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/%E5%A4%9C%E5%95%BC%E3%81%8F%E5%85%8E%E3%81%AF%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B)
-* [Camellia — Nacreous Snowmelt](https://www.last.fm/music/Camellia/_/Nacreous+Snowmelt)
-* [Camellia — Newspapers for Magicians](https://www.last.fm/music/Camellia/_/Newspapers+for+Magicians)
-* [THE ORAL CIGARETTES — Mouiikai?](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Mouiikai%3F)<!-- LASTFM:END -->
+* [Camellia — Nacreous Snowmelt](https://www.last.fm/music/Camellia/_/Nacreous+Snowmelt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
