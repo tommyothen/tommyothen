@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Knapsack — Matrix](https://www.last.fm/music/Knapsack/_/Matrix)
 * [Lil Boom — Already Dead](https://www.last.fm/music/Lil+Boom/_/Already+Dead)
 * [Pink Guy — Fried Noodles &lpar;Getter Remix&rpar;](https://www.last.fm/music/Pink+Guy/_/Fried+Noodles+&lpar;Getter+Remix&rpar;)
 * [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)
-* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
-* [Yung Gravy — Suavecito](https://www.last.fm/music/Yung+Gravy/_/Suavecito)<!-- LASTFM:END -->
+* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
