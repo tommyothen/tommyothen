@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [AcesToAces — coffee](https://www.last.fm/music/AcesToAces/_/coffee)
+* [Eevee — that real good](https://www.last.fm/music/Eevee/_/that+real+good)
+* [Sub Focus — Solar System](https://www.last.fm/music/Sub+Focus/_/Solar+System)
 * [BROCKHAMPTON — 1999 WILDFIRE](https://www.last.fm/music/BROCKHAMPTON/_/1999+WILDFIRE)
-* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
-* [XI — Anima](https://www.last.fm/music/XI/_/Anima)
-* [Nanahira — Bassdrop Freaks - Long Ver.](https://www.last.fm/music/Nanahira/_/Bassdrop+Freaks+-+Long+Ver.)
-* [UNDEAD CORPORATION DOUJIN WORKS — Embraced by the Flame](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Embraced+by+the+Flame)<!-- LASTFM:END -->
+* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
