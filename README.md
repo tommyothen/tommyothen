@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XI — Anima](https://www.last.fm/music/XI/_/Anima)
+* [Nanahira — Bassdrop Freaks - Long Ver.](https://www.last.fm/music/Nanahira/_/Bassdrop+Freaks+-+Long+Ver.)
 * [UNDEAD CORPORATION DOUJIN WORKS — Embraced by the Flame](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Embraced+by+the+Flame)
 * [XI — Blue Zenith](https://www.last.fm/music/XI/_/Blue+Zenith)
-* [Camellia — GHOST](https://www.last.fm/music/Camellia/_/GHOST)
-* [Reol — アシンメトリー](https://www.last.fm/music/Reol/_/%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC)
-* [KASAI HARCORES — Cycle Hit](https://www.last.fm/music/KASAI+HARCORES/_/Cycle+Hit)<!-- LASTFM:END -->
+* [Camellia — GHOST](https://www.last.fm/music/Camellia/_/GHOST)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
