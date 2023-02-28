@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)
 * [Camellia — crystallized](https://www.last.fm/music/Camellia/_/crystallized)
 * [UNDEAD CORPORATION DOUJIN WORKS — The Empress](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/The+Empress)
 * [Telekinesis — The Monk](https://www.last.fm/music/Telekinesis/_/The+Monk)
-* [Lite Show Magic — TRICKL4SH 220 - 22,000 Power Extended](https://www.last.fm/music/Lite+Show+Magic/_/TRICKL4SH+220+-+22,000+Power+Extended)
-* [THE ORAL CIGARETTES — Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!)<!-- LASTFM:END -->
+* [Lite Show Magic — TRICKL4SH 220 - 22,000 Power Extended](https://www.last.fm/music/Lite+Show+Magic/_/TRICKL4SH+220+-+22,000+Power+Extended)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
