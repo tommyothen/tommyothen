@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bruno Mars — Locked Out of Heaven](https://www.last.fm/music/Bruno+Mars/_/Locked+Out+of+Heaven)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
 * [Shaun — Way Back Home &lpar;feat. Conor Maynard&rpar; - Sam Feldt Edit](https://www.last.fm/music/Shaun/_/Way+Back+Home+&lpar;feat.+Conor+Maynard&rpar;+-+Sam+Feldt+Edit)
 * [KIDS SEE GHOSTS — 4th Dimension](https://www.last.fm/music/KIDS+SEE+GHOSTS/_/4th+Dimension)
-* [L.Dre — Across the Country](https://www.last.fm/music/L.Dre/_/Across+the+Country)
-* [nohidea — sincerely, yours](https://www.last.fm/music/nohidea/_/sincerely,+yours)
-* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)<!-- LASTFM:END -->
+* [L.Dre — Across the Country](https://www.last.fm/music/L.Dre/_/Across+the+Country)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
