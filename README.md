@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Omoi — Snow Drive &lpar;01.23&rpar;](https://www.last.fm/music/Omoi/_/Snow+Drive+&lpar;01.23&rpar;)
+* [Soooo — Happppy song](https://www.last.fm/music/Soooo/_/Happppy+song)
 * [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)
 * [Camellia — M1LLI0N PP](https://www.last.fm/music/Camellia/_/M1LLI0N+PP)
-* [Camellia — KillerBeast](https://www.last.fm/music/Camellia/_/KillerBeast)
-* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
-* [38-ban — Milk Crown On Sonnetica](https://www.last.fm/music/38-ban/_/Milk+Crown+On+Sonnetica)<!-- LASTFM:END -->
+* [Camellia — KillerBeast](https://www.last.fm/music/Camellia/_/KillerBeast)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
