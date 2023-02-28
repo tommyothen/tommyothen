@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [38-ban — Milk Crown On Sonnetica](https://www.last.fm/music/38-ban/_/Milk+Crown+On+Sonnetica)
 * [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
 * [Marmalade butcher — Floccinaucinihilipilification](https://www.last.fm/music/Marmalade+butcher/_/Floccinaucinihilipilification)
 * [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
-* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
-* [Animals as Leaders — Physical Education](https://www.last.fm/music/Animals+as+Leaders/_/Physical+Education)<!-- LASTFM:END -->
+* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
