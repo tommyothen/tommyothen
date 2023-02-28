@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Panda Eyes — Immortal Flame](https://www.last.fm/music/Panda+Eyes/_/Immortal+Flame)
 * [NanahoshiKangengakudan — Dance Number Wo Tomo Ni](https://www.last.fm/music/NanahoshiKangengakudan/_/Dance+Number+Wo+Tomo+Ni)
 * [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
 * [a_hisa — Logical Stimulus](https://www.last.fm/music/a_hisa/_/Logical+Stimulus)
-* [pinocchioP — SukiSukiSukiSukiSukiSukiSukiSukiSukiSuki](https://www.last.fm/music/pinocchioP/_/SukiSukiSukiSukiSukiSukiSukiSukiSukiSuki)
-* [Riot — Overkill](https://www.last.fm/music/Riot/_/Overkill)<!-- LASTFM:END -->
+* [pinocchioP — SukiSukiSukiSukiSukiSukiSukiSukiSukiSuki](https://www.last.fm/music/pinocchioP/_/SukiSukiSukiSukiSukiSukiSukiSukiSukiSuki)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
