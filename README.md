@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — #BrooklynBloodPop​!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop%E2%80%8B!)
+* [laura les — Haunted {OFFICIAL MUSIC VIDEO}](https://www.last.fm/music/laura+les/_/Haunted+%7BOFFICIAL+MUSIC+VIDEO%7D)
 * [100 gecs — money machine](https://www.last.fm/music/100+gecs/_/money+machine)
 * [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
-* [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)<!-- LASTFM:END -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
