@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yameii Online — HEARTLESS](https://www.last.fm/music/Yameii+Online/_/HEARTLESS)
+* [Jane Remover — movies for guys](https://www.last.fm/music/Jane+Remover/_/movies+for+guys)
 * [Underscores — Your favorite sidekick](https://www.last.fm/music/Underscores/_/Your+favorite+sidekick)
 * [aldrch — gluttony](https://www.last.fm/music/aldrch/_/gluttony)
-* [Chí Cường Hứa — Super Idol full song](https://www.last.fm/music/Ch%C3%AD+C%C6%B0%E1%BB%9Dng+H%E1%BB%A9a/_/Super+Idol+full+song)
-* [Cypis — Gdzie jest biały węgorz ? &lpar;Zejście&rpar;](https://www.last.fm/music/Cypis/_/Gdzie+jest+bia%C5%82y+w%C4%99gorz+%3F+&lpar;Zej%C5%9Bcie&rpar;)
-* [Alice Gas — kuromi face tat](https://www.last.fm/music/Alice+Gas/_/kuromi+face+tat)<!-- LASTFM:END -->
+* [Chí Cường Hứa — Super Idol full song](https://www.last.fm/music/Ch%C3%AD+C%C6%B0%E1%BB%9Dng+H%E1%BB%A9a/_/Super+Idol+full+song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
