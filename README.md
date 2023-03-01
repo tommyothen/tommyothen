@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — Daisy 2.0 &lpar;feat. Hatsune Miku&rpar;](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+&lpar;feat.+Hatsune+Miku&rpar;)
+* [1NONLY — DANCE!](https://www.last.fm/music/1NONLY/_/DANCE!)
 * [Yameii Online — HEARTLESS](https://www.last.fm/music/Yameii+Online/_/HEARTLESS)
 * [Jane Remover — movies for guys](https://www.last.fm/music/Jane+Remover/_/movies+for+guys)
-* [Underscores — Your favorite sidekick](https://www.last.fm/music/Underscores/_/Your+favorite+sidekick)
-* [aldrch — gluttony](https://www.last.fm/music/aldrch/_/gluttony)
-* [Chí Cường Hứa — Super Idol full song](https://www.last.fm/music/Ch%C3%AD+C%C6%B0%E1%BB%9Dng+H%E1%BB%A9a/_/Super+Idol+full+song)<!-- LASTFM:END -->
+* [Underscores — Your favorite sidekick](https://www.last.fm/music/Underscores/_/Your+favorite+sidekick)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
