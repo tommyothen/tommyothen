@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Haiyore! Nyaruko-san - TV](https://myanimelist.net/anime/11785/Haiyore_Nyaruko-san) - Completed - 12 of 12 episodes
 * [Id:Invaded - TV](https://myanimelist.net/anime/40046/Id_Invaded) - Watching - 6 of 13 episodes
 * [Saikyou Onmyouji no Isekai Tenseiki - TV](https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki) - Watching - 8 of 13 episodes
 * [Tensei shitara Ken deshita - TV](https://myanimelist.net/anime/49891/Tensei_shitara_Ken_deshita) - Completed - 12 of 12 episodes
-* [Chainsaw Man - TV](https://myanimelist.net/anime/44511/Chainsaw_Man) - Completed - 12 of 12 episodes
-* [Assault Lily: Bouquet - TV](https://myanimelist.net/anime/40550/Assault_Lily__Bouquet) - Watching - 1 of 12 episodes<!-- ANIME-LIST:END -->
+* [Chainsaw Man - TV](https://myanimelist.net/anime/44511/Chainsaw_Man) - Completed - 12 of 12 episodes<!-- ANIME-LIST:END -->
