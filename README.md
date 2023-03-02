@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Juno — Hero](https://www.last.fm/music/Juno/_/Hero)
-* [Jane Remover — movies for guys](https://www.last.fm/music/Jane+Remover/_/movies+for+guys)
-* [Underscores — Your favorite sidekick](https://www.last.fm/music/Underscores/_/Your+favorite+sidekick)
-* [aldrch — gluttony](https://www.last.fm/music/aldrch/_/gluttony)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)<!-- LASTFM:END -->
+* [Turtize — finale](https://www.last.fm/music/Turtize/_/finale)
+* [Ashnikko — Daisy 2.0 &lpar;feat. Hatsune Miku&rpar;](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+&lpar;feat.+Hatsune+Miku&rpar;)
+* [Numl6ck — Anxious](https://www.last.fm/music/Numl6ck/_/Anxious)
+* [Yameii Online — HEARTLESS](https://www.last.fm/music/Yameii+Online/_/HEARTLESS)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
