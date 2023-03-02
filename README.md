@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [HEALTH — POWER FANTASY](https://www.last.fm/music/HEALTH/_/POWER+FANTASY)
-* [Juno — la fleur](https://www.last.fm/music/Juno/_/la+fleur)
-* [rouri404 — driving with my eyes closed](https://www.last.fm/music/rouri404/_/driving+with+my+eyes+closed)
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)<!-- LASTFM:END -->
+* [Yameii Online — FLOOZIE](https://www.last.fm/music/Yameii+Online/_/FLOOZIE)
+* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
+* [Glaive — prick](https://www.last.fm/music/Glaive/_/prick)
+* [Cao White — Hai Domo](https://www.last.fm/music/Cao+White/_/Hai+Domo)
+* [HEALTH — POWER FANTASY](https://www.last.fm/music/HEALTH/_/POWER+FANTASY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
