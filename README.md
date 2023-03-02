@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Turtize — finale](https://www.last.fm/music/Turtize/_/finale)
-* [Ashnikko — Daisy 2.0 &lpar;feat. Hatsune Miku&rpar;](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+&lpar;feat.+Hatsune+Miku&rpar;)
-* [Numl6ck — Anxious](https://www.last.fm/music/Numl6ck/_/Anxious)
-* [Yameii Online — HEARTLESS](https://www.last.fm/music/Yameii+Online/_/HEARTLESS)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
+* [Glaive — pissed](https://www.last.fm/music/Glaive/_/pissed)
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
+* [Turtize — finale](https://www.last.fm/music/Turtize/_/finale)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
