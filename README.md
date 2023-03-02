@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Underscores — Your favorite sidekick](https://www.last.fm/music/Underscores/_/Your+favorite+sidekick)
+* [aldrch — gluttony](https://www.last.fm/music/aldrch/_/gluttony)
 * [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
 * [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
-* [twikipedia — born to pwn](https://www.last.fm/music/twikipedia/_/born+to+pwn)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [Softwilly — #FreeRobuxIfYouShareSong_draft_v2](https://www.last.fm/music/Softwilly/_/%23FreeRobuxIfYouShareSong_draft_v2)<!-- LASTFM:END -->
+* [twikipedia — born to pwn](https://www.last.fm/music/twikipedia/_/born+to+pwn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
