@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
+* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
+* [Sewerslvt — Kawaii Razor Blades](https://www.last.fm/music/Sewerslvt/_/Kawaii+Razor+Blades)
 * [Yameii Online — FLOOZIE](https://www.last.fm/music/Yameii+Online/_/FLOOZIE)
-* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
-* [Glaive — prick](https://www.last.fm/music/Glaive/_/prick)
-* [Cao White — Hai Domo](https://www.last.fm/music/Cao+White/_/Hai+Domo)
-* [HEALTH — POWER FANTASY](https://www.last.fm/music/HEALTH/_/POWER+FANTASY)<!-- LASTFM:END -->
+* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
