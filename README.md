@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
-* [brakence — dropout &lpar;w/ blackbear&rpar;](https://www.last.fm/music/brakence/_/dropout+&lpar;w%2F+blackbear&rpar;)
-* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)<!-- LASTFM:END -->
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
+* [Glaive — minnesota is a place that exists](https://www.last.fm/music/Glaive/_/minnesota+is+a+place+that+exists)
+* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
+* [Juno — insomnia](https://www.last.fm/music/Juno/_/insomnia)
+* [Kobaryo — Invisible Frenzy](https://www.last.fm/music/Kobaryo/_/Invisible+Frenzy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
