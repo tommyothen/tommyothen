@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
+* [Gyze — HONESTY](https://www.last.fm/music/Gyze/_/HONESTY)
 * [Kobaryo — Tool-Assisted Speedcore &lpar;TQBF Frame Advance RMX&rpar;](https://www.last.fm/music/Kobaryo/_/Tool-Assisted+Speedcore+&lpar;TQBF+Frame+Advance+RMX&rpar;)
 * [Camellia — Newspapers for Magicians](https://www.last.fm/music/Camellia/_/Newspapers+for+Magicians)
-* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)<!-- LASTFM:END -->
+* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
