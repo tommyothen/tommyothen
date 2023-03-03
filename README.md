@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nanahira — Ange Du Blanc Pur](https://www.last.fm/music/Nanahira/_/Ange+Du+Blanc+Pur)
+* [Imperial Circus Dead Decadence — 謳](https://www.last.fm/music/Imperial+Circus+Dead+Decadence/_/%E8%AC%B3)
 * [Camellia — Nacreous Snowmelt](https://www.last.fm/music/Camellia/_/Nacreous+Snowmelt)
 * [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)
-* [t+pazolite — Party in the HOLLOWood](https://www.last.fm/music/t%252Bpazolite/_/Party+in+the+HOLLOWood)
-* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
-* [hitorie — アンノウン・マザーグース](https://www.last.fm/music/hitorie/_/%E3%82%A2%E3%83%B3%E3%83%8E%E3%82%A6%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B6%E3%83%BC%E3%82%B0%E3%83%BC%E3%82%B9)<!-- LASTFM:END -->
+* [t+pazolite — Party in the HOLLOWood](https://www.last.fm/music/t%252Bpazolite/_/Party+in+the+HOLLOWood)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
