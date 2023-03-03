@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Juno — la fleur](https://www.last.fm/music/Juno/_/la+fleur)
 * [rouri404 — driving with my eyes closed](https://www.last.fm/music/rouri404/_/driving+with+my+eyes+closed)
 * [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
 * [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [ABSRDST — Imaginary Friend](https://www.last.fm/music/ABSRDST/_/Imaginary+Friend)
-* [Aldn — what was the last thing u said](https://www.last.fm/music/Aldn/_/what+was+the+last+thing+u+said)<!-- LASTFM:END -->
+* [ABSRDST — Imaginary Friend](https://www.last.fm/music/ABSRDST/_/Imaginary+Friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
