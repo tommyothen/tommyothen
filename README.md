@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
 * [Nanahira — Ange Du Blanc Pur](https://www.last.fm/music/Nanahira/_/Ange+Du+Blanc+Pur)
 * [Imperial Circus Dead Decadence — 謳](https://www.last.fm/music/Imperial+Circus+Dead+Decadence/_/%E8%AC%B3)
 * [Camellia — Nacreous Snowmelt](https://www.last.fm/music/Camellia/_/Nacreous+Snowmelt)
-* [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)
-* [t+pazolite — Party in the HOLLOWood](https://www.last.fm/music/t%252Bpazolite/_/Party+in+the+HOLLOWood)<!-- LASTFM:END -->
+* [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
