@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)
+* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
 * [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
 * [maretu — Packet Hero](https://www.last.fm/music/maretu/_/Packet+Hero)
-* [38-ban — Milk Crown On Sonnetica](https://www.last.fm/music/38-ban/_/Milk+Crown+On+Sonnetica)
-* [nekodex — circles!](https://www.last.fm/music/nekodex/_/circles!)
-* [a_hisa — Logical Stimulus](https://www.last.fm/music/a_hisa/_/Logical+Stimulus)<!-- LASTFM:END -->
+* [38-ban — Milk Crown On Sonnetica](https://www.last.fm/music/38-ban/_/Milk+Crown+On+Sonnetica)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
