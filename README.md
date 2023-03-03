@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Kage no Jitsuryokusha ni Naritakute! - TV](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute) - Plan to Watch - 0 of 20 episodes
 * [Haiyore! Nyaruko-san - TV](https://myanimelist.net/anime/11785/Haiyore_Nyaruko-san) - Completed - 12 of 12 episodes
 * [Id:Invaded - TV](https://myanimelist.net/anime/40046/Id_Invaded) - Watching - 6 of 13 episodes
 * [Saikyou Onmyouji no Isekai Tenseiki - TV](https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki) - Watching - 8 of 13 episodes
-* [Tensei shitara Ken deshita - TV](https://myanimelist.net/anime/49891/Tensei_shitara_Ken_deshita) - Completed - 12 of 12 episodes
-* [Chainsaw Man - TV](https://myanimelist.net/anime/44511/Chainsaw_Man) - Completed - 12 of 12 episodes<!-- ANIME-LIST:END -->
+* [Tensei shitara Ken deshita - TV](https://myanimelist.net/anime/49891/Tensei_shitara_Ken_deshita) - Completed - 12 of 12 episodes<!-- ANIME-LIST:END -->
