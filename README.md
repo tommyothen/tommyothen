@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [a_hisa — Logical Stimulus](https://www.last.fm/music/a_hisa/_/Logical+Stimulus)
+* [t+pazolite — Call Me It.](https://www.last.fm/music/t%252Bpazolite/_/Call+Me+It.)
 * [Yooh — MariannE](https://www.last.fm/music/Yooh/_/MariannE)
 * [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Fahmi — Scarlet rose](https://www.last.fm/music/Fahmi/_/Scarlet+rose)
-* [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)
-* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)<!-- LASTFM:END -->
+* [Fahmi — Scarlet rose](https://www.last.fm/music/Fahmi/_/Scarlet+rose)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
