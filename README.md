@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ne Obliviscaris — Tapestry of the Starless Abstract](https://www.last.fm/music/Ne+Obliviscaris/_/Tapestry+of+the+Starless+Abstract)
 * [Ne Obliviscaris — And Plague Flowers the Kaleidoscope](https://www.last.fm/music/Ne+Obliviscaris/_/And+Plague+Flowers+the+Kaleidoscope)
 * [Lite Show Magic — TRICKL4SH 220 - 22,000 Power Extended](https://www.last.fm/music/Lite+Show+Magic/_/TRICKL4SH+220+-+22,000+Power+Extended)
 * [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
-* [Moltnz — Necro Fantasia](https://www.last.fm/music/Moltnz/_/Necro+Fantasia)
-* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)<!-- LASTFM:END -->
+* [Moltnz — Necro Fantasia](https://www.last.fm/music/Moltnz/_/Necro+Fantasia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
