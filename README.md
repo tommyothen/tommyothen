@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Imperial Circus Dead Decadence — 黄泉より聴こゆ、皇国の燈と焔の少女。](https://www.last.fm/music/Imperial+Circus+Dead+Decadence/_/%E9%BB%84%E6%B3%89%E3%82%88%E3%82%8A%E8%81%B4%E3%81%93%E3%82%86%E3%80%81%E7%9A%87%E5%9B%BD%E3%81%AE%E7%87%88%E3%81%A8%E7%84%94%E3%81%AE%E5%B0%91%E5%A5%B3%E3%80%82)
 * [KASAI HARCORES — TRIPLE PLAY](https://www.last.fm/music/KASAI+HARCORES/_/TRIPLE+PLAY)
 * [a_hisa — Logical Stimulus](https://www.last.fm/music/a_hisa/_/Logical+Stimulus)
 * [Panda Eyes — Immortal Flame](https://www.last.fm/music/Panda+Eyes/_/Immortal+Flame)
-* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
-* [KASAI HARCORES — Cycle Hit](https://www.last.fm/music/KASAI+HARCORES/_/Cycle+Hit)<!-- LASTFM:END -->
+* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
