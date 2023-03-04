@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [UNDEAD CORPORATION DOUJIN WORKS — Embraced by the Flame](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Embraced+by+the+Flame)
+* [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)
+* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
 * [Soooo — iiillluuuvvvUUU](https://www.last.fm/music/Soooo/_/iiillluuuvvvUUU)
-* [t+pazolite — Call Me It.](https://www.last.fm/music/t%252Bpazolite/_/Call+Me+It.)
-* [Imperial Circus Dead Decadence — 黄泉より聴こゆ、皇国の燈と焔の少女。](https://www.last.fm/music/Imperial+Circus+Dead+Decadence/_/%E9%BB%84%E6%B3%89%E3%82%88%E3%82%8A%E8%81%B4%E3%81%93%E3%82%86%E3%80%81%E7%9A%87%E5%9B%BD%E3%81%AE%E7%87%88%E3%81%A8%E7%84%94%E3%81%AE%E5%B0%91%E5%A5%B3%E3%80%82)
-* [KASAI HARCORES — TRIPLE PLAY](https://www.last.fm/music/KASAI+HARCORES/_/TRIPLE+PLAY)
-* [a_hisa — Logical Stimulus](https://www.last.fm/music/a_hisa/_/Logical+Stimulus)<!-- LASTFM:END -->
+* [t+pazolite — Call Me It.](https://www.last.fm/music/t%252Bpazolite/_/Call+Me+It.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
