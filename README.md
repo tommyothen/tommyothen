@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ne Obliviscaris — Equus](https://www.last.fm/music/Ne+Obliviscaris/_/Equus)
 * [Ne Obliviscaris — Devour Me, Colossus - Part I - Blackholes](https://www.last.fm/music/Ne+Obliviscaris/_/Devour+Me,+Colossus+-+Part+I+-+Blackholes)
 * [Ne Obliviscaris — Xenoflux](https://www.last.fm/music/Ne+Obliviscaris/_/Xenoflux)
 * [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
-* [Ne Obliviscaris — Tapestry of the Starless Abstract](https://www.last.fm/music/Ne+Obliviscaris/_/Tapestry+of+the+Starless+Abstract)
-* [Ne Obliviscaris — And Plague Flowers the Kaleidoscope](https://www.last.fm/music/Ne+Obliviscaris/_/And+Plague+Flowers+the+Kaleidoscope)<!-- LASTFM:END -->
+* [Ne Obliviscaris — Tapestry of the Starless Abstract](https://www.last.fm/music/Ne+Obliviscaris/_/Tapestry+of+the+Starless+Abstract)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
