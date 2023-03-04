@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KASAI HARCORES — Cycle Hit](https://www.last.fm/music/KASAI+HARCORES/_/Cycle+Hit)
 * [PSYQUI — hype - lapix Remix](https://www.last.fm/music/PSYQUI/_/hype+-+lapix+Remix)
 * [UNDEAD CORPORATION DOUJIN WORKS — The Empress](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/The+Empress)
 * [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)
-* [PSYQUI — Hype](https://www.last.fm/music/PSYQUI/_/Hype)
-* [Nanahira — Ange Du Blanc Pur](https://www.last.fm/music/Nanahira/_/Ange+Du+Blanc+Pur)<!-- LASTFM:END -->
+* [PSYQUI — Hype](https://www.last.fm/music/PSYQUI/_/Hype)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
