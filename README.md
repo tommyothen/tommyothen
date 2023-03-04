@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lite Show Magic — TRICKL4SH 220 - 22,000 Power Extended](https://www.last.fm/music/Lite+Show+Magic/_/TRICKL4SH+220+-+22,000+Power+Extended)
+* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
 * [Moltnz — Necro Fantasia](https://www.last.fm/music/Moltnz/_/Necro+Fantasia)
 * [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
-* [UNDEAD CORPORATION DOUJIN WORKS — Embraced by the Flame](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Embraced+by+the+Flame)
-* [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)
-* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)<!-- LASTFM:END -->
+* [UNDEAD CORPORATION DOUJIN WORKS — Embraced by the Flame](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Embraced+by+the+Flame)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
