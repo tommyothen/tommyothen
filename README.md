@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Panda Eyes — Immortal Flame](https://www.last.fm/music/Panda+Eyes/_/Immortal+Flame)
+* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
 * [KASAI HARCORES — Cycle Hit](https://www.last.fm/music/KASAI+HARCORES/_/Cycle+Hit)
 * [PSYQUI — hype - lapix Remix](https://www.last.fm/music/PSYQUI/_/hype+-+lapix+Remix)
-* [UNDEAD CORPORATION DOUJIN WORKS — The Empress](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/The+Empress)
-* [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)
-* [PSYQUI — Hype](https://www.last.fm/music/PSYQUI/_/Hype)<!-- LASTFM:END -->
+* [UNDEAD CORPORATION DOUJIN WORKS — The Empress](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/The+Empress)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
