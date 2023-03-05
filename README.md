@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
+* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
+* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
 * [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
-* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)<!-- LASTFM:END -->
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
