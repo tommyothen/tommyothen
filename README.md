@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)
 * [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)<!-- LASTFM:END -->
+* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
