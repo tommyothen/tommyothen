@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
+* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
-* [Ne Obliviscaris — Intra Venus](https://www.last.fm/music/Ne+Obliviscaris/_/Intra+Venus)
-* [Ne Obliviscaris — Equus](https://www.last.fm/music/Ne+Obliviscaris/_/Equus)
-* [Ne Obliviscaris — Devour Me, Colossus - Part I - Blackholes](https://www.last.fm/music/Ne+Obliviscaris/_/Devour+Me,+Colossus+-+Part+I+-+Blackholes)
-* [Ne Obliviscaris — Xenoflux](https://www.last.fm/music/Ne+Obliviscaris/_/Xenoflux)<!-- LASTFM:END -->
+* [Ne Obliviscaris — Intra Venus](https://www.last.fm/music/Ne+Obliviscaris/_/Intra+Venus)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
