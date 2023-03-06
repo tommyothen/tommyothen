@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
+* [Irelia — Hi High - Sewerslvt Remix](https://www.last.fm/music/Irelia/_/Hi+High+-+Sewerslvt+Remix)
 * [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)
 * [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
-* [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)
-* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
-* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)<!-- LASTFM:END -->
+* [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
