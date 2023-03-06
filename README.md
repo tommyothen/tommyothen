@@ -36,7 +36,7 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
-* [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu - TV](https://myanimelist.net/anime/52461/Rougo_ni_Sonaete_Isekai_de_8-manmai_no_Kinka_wo_Tamemasu) - Watching - 2 of 12 episodes
+* [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu - TV](https://myanimelist.net/anime/52461/Rougo_ni_Sonaete_Isekai_de_8-manmai_no_Kinka_wo_Tamemasu) - Watching - 9 of 12 episodes
 * [Saikyou Onmyouji no Isekai Tenseiki - TV](https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki) - Watching - 9 of 13 episodes
 * [Shuumatsu no Harem - TV](https://myanimelist.net/anime/41946/Shuumatsu_no_Harem) - Completed - 11 of 11 episodes
 * [Kage no Jitsuryokusha ni Naritakute! - TV](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute) - Plan to Watch - 0 of 20 episodes
