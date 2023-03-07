@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Electric Callboy — Spaceman &lpar;feat. FiNCH&rpar;](https://www.last.fm/music/Electric+Callboy/_/Spaceman+&lpar;feat.+FiNCH&rpar;)
+* [Electric Callboy — Hypa Hypa](https://www.last.fm/music/Electric+Callboy/_/Hypa+Hypa)
 * [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
 * [bbno$ — I](https://www.last.fm/music/bbno$/_/I)
-* [dark cat — Hot Chocolate](https://www.last.fm/music/dark+cat/_/Hot+Chocolate)
-* [Surfaces — Sunday Best](https://www.last.fm/music/Surfaces/_/Sunday+Best)
-* [Joji — Bitter Fuck &lpar;salute remix&rpar;](https://www.last.fm/music/Joji/_/Bitter+Fuck+&lpar;salute+remix&rpar;)<!-- LASTFM:END -->
+* [dark cat — Hot Chocolate](https://www.last.fm/music/dark+cat/_/Hot+Chocolate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
