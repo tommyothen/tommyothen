@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — jurassic](https://www.last.fm/music/bbno$/_/jurassic)
+* [Antoha MC — Спорт-брат](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BF%D0%BE%D1%80%D1%82-%D0%B1%D1%80%D0%B0%D1%82)
 * [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
 * [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
-* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
+* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
