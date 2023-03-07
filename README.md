@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
+* [bbno$ — I](https://www.last.fm/music/bbno$/_/I)
+* [dark cat — Hot Chocolate](https://www.last.fm/music/dark+cat/_/Hot+Chocolate)
 * [Surfaces — Sunday Best](https://www.last.fm/music/Surfaces/_/Sunday+Best)
-* [Joji — Bitter Fuck &lpar;salute remix&rpar;](https://www.last.fm/music/Joji/_/Bitter+Fuck+&lpar;salute+remix&rpar;)
-* [FEDUK — Бьёт солнце](https://www.last.fm/music/FEDUK/_/%D0%91%D1%8C%D1%91%D1%82+%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5)
-* [Lazy Rich — Hello - Original Mix](https://www.last.fm/music/Lazy+Rich/_/Hello+-+Original+Mix)
-* [HENTAI DUDE — Tokyo Chopp](https://www.last.fm/music/HENTAI+DUDE/_/Tokyo+Chopp)<!-- LASTFM:END -->
+* [Joji — Bitter Fuck &lpar;salute remix&rpar;](https://www.last.fm/music/Joji/_/Bitter+Fuck+&lpar;salute+remix&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
