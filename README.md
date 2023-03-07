@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
+* [bbno$ — lets go](https://www.last.fm/music/bbno$/_/lets+go)
 * [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)
 * [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
-* [88rising — Head In The Clouds](https://www.last.fm/music/88rising/_/Head+In+The+Clouds)
-* [Camellia — Labyrinth in Kowloon: Walled World](https://www.last.fm/music/Camellia/_/Labyrinth+in+Kowloon:+Walled+World)
-* [bbno$ — jurassic](https://www.last.fm/music/bbno$/_/jurassic)<!-- LASTFM:END -->
+* [88rising — Head In The Clouds](https://www.last.fm/music/88rising/_/Head+In+The+Clouds)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
