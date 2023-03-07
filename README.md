@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Birocratic — Corporate Japan](https://www.last.fm/music/Birocratic/_/Corporate+Japan)
+* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)
+* [FEDUK — Тонкий Лёд](https://www.last.fm/music/FEDUK/_/%D0%A2%D0%BE%D0%BD%D0%BA%D0%B8%D0%B9+%D0%9B%D1%91%D0%B4)
 * [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
-* [FEDUK — Вокруг Кремля](https://www.last.fm/music/FEDUK/_/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3+%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F)
-* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
-* [EARTHGANG — Meditate &lpar;feat. J.I.D.&rpar;](https://www.last.fm/music/EARTHGANG/_/Meditate+&lpar;feat.+J.I.D.&rpar;)
-* [Electric Callboy — Spaceman &lpar;feat. FiNCH&rpar;](https://www.last.fm/music/Electric+Callboy/_/Spaceman+&lpar;feat.+FiNCH&rpar;)<!-- LASTFM:END -->
+* [FEDUK — Вокруг Кремля](https://www.last.fm/music/FEDUK/_/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3+%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
