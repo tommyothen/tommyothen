@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Worldstar Money &lpar;Interlude&rpar;](https://www.last.fm/music/Joji/_/Worldstar+Money+&lpar;Interlude&rpar;)
+* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)
+* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)
 * [Birocratic — Corporate Japan](https://www.last.fm/music/Birocratic/_/Corporate+Japan)
-* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)
-* [FEDUK — Тонкий Лёд](https://www.last.fm/music/FEDUK/_/%D0%A2%D0%BE%D0%BD%D0%BA%D0%B8%D0%B9+%D0%9B%D1%91%D0%B4)
-* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
-* [FEDUK — Вокруг Кремля](https://www.last.fm/music/FEDUK/_/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3+%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F)<!-- LASTFM:END -->
+* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
