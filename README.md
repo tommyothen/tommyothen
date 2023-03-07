@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Qawi Kamri — Shaky Hands](https://www.last.fm/music/Qawi+Kamri/_/Shaky+Hands)
+* [Mercy X — Caught Fire](https://www.last.fm/music/Mercy+X/_/Caught+Fire)
+* [OUTR3ACH — Worth It](https://www.last.fm/music/OUTR3ACH/_/Worth+It)
 * [Joji — Worldstar Money &lpar;Interlude&rpar;](https://www.last.fm/music/Joji/_/Worldstar+Money+&lpar;Interlude&rpar;)
-* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)
-* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)
-* [Birocratic — Corporate Japan](https://www.last.fm/music/Birocratic/_/Corporate+Japan)
-* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)<!-- LASTFM:END -->
+* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
