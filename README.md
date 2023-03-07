@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
+* [EARTHGANG — Meditate &lpar;feat. J.I.D.&rpar;](https://www.last.fm/music/EARTHGANG/_/Meditate+&lpar;feat.+J.I.D.&rpar;)
 * [Electric Callboy — Spaceman &lpar;feat. FiNCH&rpar;](https://www.last.fm/music/Electric+Callboy/_/Spaceman+&lpar;feat.+FiNCH&rpar;)
 * [Electric Callboy — Hypa Hypa](https://www.last.fm/music/Electric+Callboy/_/Hypa+Hypa)
-* [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
-* [bbno$ — I](https://www.last.fm/music/bbno$/_/I)
-* [dark cat — Hot Chocolate](https://www.last.fm/music/dark+cat/_/Hot+Chocolate)<!-- LASTFM:END -->
+* [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
