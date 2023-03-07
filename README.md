@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)
 * [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)
 * [Mat Zo — Easy - Radio Edit](https://www.last.fm/music/Mat+Zo/_/Easy+-+Radio+Edit)
 * [DNMO — Sick Of You](https://www.last.fm/music/DNMO/_/Sick+Of+You)
-* [Porter Robinson — Sea Of Voices - RAC Mix](https://www.last.fm/music/Porter+Robinson/_/Sea+Of+Voices+-+RAC+Mix)
-* [TomppaBeats — like someone in love](https://www.last.fm/music/TomppaBeats/_/like+someone+in+love)<!-- LASTFM:END -->
+* [Porter Robinson — Sea Of Voices - RAC Mix](https://www.last.fm/music/Porter+Robinson/_/Sea+Of+Voices+-+RAC+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
