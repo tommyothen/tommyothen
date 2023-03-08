@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
+* [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
+* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
 * [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)
-* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)
-* [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)
-* [Mat Zo — Easy - Radio Edit](https://www.last.fm/music/Mat+Zo/_/Easy+-+Radio+Edit)
-* [DNMO — Sick Of You](https://www.last.fm/music/DNMO/_/Sick+Of+You)<!-- LASTFM:END -->
+* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
