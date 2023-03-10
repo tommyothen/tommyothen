@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
 * [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
-* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
-* [Eden — float](https://www.last.fm/music/Eden/_/float)
-* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
-* [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)<!-- LASTFM:END -->
+* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
+* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
