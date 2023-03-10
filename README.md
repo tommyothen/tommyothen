@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
+* [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)
 * [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
-* [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)
-* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
-* [Enter Shikari — Destabilise](https://www.last.fm/music/Enter+Shikari/_/Destabilise)
-* [The B-52&#39;s — Rock Lobster](https://www.last.fm/music/The+B-52%27s/_/Rock+Lobster)<!-- LASTFM:END -->
+* [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
