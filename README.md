@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
+* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
+* [A$AP Rocky — Praise the Lord &lpar;Da Shine&rpar; &lpar;feat. Skepta&rpar;](https://www.last.fm/music/A$AP+Rocky/_/Praise+the+Lord+&lpar;Da+Shine&rpar;+&lpar;feat.+Skepta&rpar;)
 * [CASisDEAD — Play &lpar;Faze Miyake Remix&rpar;](https://www.last.fm/music/CASisDEAD/_/Play+&lpar;Faze+Miyake+Remix&rpar;)
-* [JayKae — Toothache](https://www.last.fm/music/JayKae/_/Toothache)
-* [Pete &amp; Bas — Quick Little Freestyle](https://www.last.fm/music/Pete+&amp;+Bas/_/Quick+Little+Freestyle)
-* [The Northern Boys — Nobody Likes Me](https://www.last.fm/music/The+Northern+Boys/_/Nobody+Likes+Me)
-* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)<!-- LASTFM:END -->
+* [JayKae — Toothache](https://www.last.fm/music/JayKae/_/Toothache)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
