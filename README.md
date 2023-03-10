@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pitbull — Hotel Room Service](https://www.last.fm/music/Pitbull/_/Hotel+Room+Service)
+* [Flo Rida — Low &lpar;feat. T-Pain&rpar;](https://www.last.fm/music/Flo+Rida/_/Low+&lpar;feat.+T-Pain&rpar;)
+* [Soulja Boy — Crank That &lpar;Soulja Boy&rpar;](https://www.last.fm/music/Soulja+Boy/_/Crank+That+&lpar;Soulja+Boy&rpar;)
 * [50 Cent — In Da Club](https://www.last.fm/music/50+Cent/_/In+Da+Club)
-* [Tinie Tempah — Pass Out](https://www.last.fm/music/Tinie+Tempah/_/Pass+Out)
-* [Soulja Boy — Kiss Me Thru The Phone](https://www.last.fm/music/Soulja+Boy/_/Kiss+Me+Thru+The+Phone)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)<!-- LASTFM:END -->
+* [Tinie Tempah — Pass Out](https://www.last.fm/music/Tinie+Tempah/_/Pass+Out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
