@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Kiseijuu: Sei no Kakuritsu - TV](https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu) - Completed - 24 of 24 episodes
 * [Mahou Shoujo Madoka★Magica - TV](https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka★Magica) - Plan to Watch - 2 of 12 episodes
 * [Kaifuku Jutsushi no Yarinaoshi - TV](https://myanimelist.net/anime/40750/Kaifuku_Jutsushi_no_Yarinaoshi) - Completed - 12 of 12 episodes
 * [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu - TV](https://myanimelist.net/anime/52461/Rougo_ni_Sonaete_Isekai_de_8-manmai_no_Kinka_wo_Tamemasu) - Watching - 9 of 12 episodes
-* [Saikyou Onmyouji no Isekai Tenseiki - TV](https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki) - Watching - 9 of 13 episodes
-* [Shuumatsu no Harem - TV](https://myanimelist.net/anime/41946/Shuumatsu_no_Harem) - Completed - 11 of 11 episodes<!-- ANIME-LIST:END -->
+* [Saikyou Onmyouji no Isekai Tenseiki - TV](https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki) - Watching - 9 of 13 episodes<!-- ANIME-LIST:END -->
