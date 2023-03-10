@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The B-52&#39;s — Rock Lobster](https://www.last.fm/music/The+B-52%27s/_/Rock+Lobster)
 * [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
 * [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
 * [Tkay Maidza — So Cold](https://www.last.fm/music/Tkay+Maidza/_/So+Cold)
-* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)<!-- LASTFM:END -->
+* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
