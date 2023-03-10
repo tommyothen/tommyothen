@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [50 Cent — In Da Club](https://www.last.fm/music/50+Cent/_/In+Da+Club)
+* [Tinie Tempah — Pass Out](https://www.last.fm/music/Tinie+Tempah/_/Pass+Out)
 * [Soulja Boy — Kiss Me Thru The Phone](https://www.last.fm/music/Soulja+Boy/_/Kiss+Me+Thru+The+Phone)
 * [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
-* [A$AP Rocky — Praise the Lord &lpar;Da Shine&rpar; &lpar;feat. Skepta&rpar;](https://www.last.fm/music/A$AP+Rocky/_/Praise+the+Lord+&lpar;Da+Shine&rpar;+&lpar;feat.+Skepta&rpar;)
-* [CASisDEAD — Play &lpar;Faze Miyake Remix&rpar;](https://www.last.fm/music/CASisDEAD/_/Play+&lpar;Faze+Miyake+Remix&rpar;)<!-- LASTFM:END -->
+* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
