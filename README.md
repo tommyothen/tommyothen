@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fliptrix — Graffiti Won&#39;t Die](https://www.last.fm/music/Fliptrix/_/Graffiti+Won%27t+Die)
 * [Fliptrix — You&#39;ll Never Change](https://www.last.fm/music/Fliptrix/_/You%27ll+Never+Change)
 * [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)
 * [Death Grips — I&#39;ve Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)
-* [Earl Sweatshirt — Shattered Dreams](https://www.last.fm/music/Earl+Sweatshirt/_/Shattered+Dreams)
-* [Earl Sweatshirt — Riot!](https://www.last.fm/music/Earl+Sweatshirt/_/Riot!)<!-- LASTFM:END -->
+* [Earl Sweatshirt — Shattered Dreams](https://www.last.fm/music/Earl+Sweatshirt/_/Shattered+Dreams)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
