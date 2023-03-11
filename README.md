@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yheti — Still Wet From Last Night](https://www.last.fm/music/Yheti/_/Still+Wet+From+Last+Night)
+* [Aphex Twin — Ventolin - Video Edit](https://www.last.fm/music/Aphex+Twin/_/Ventolin+-+Video+Edit)
 * [Frums — Mdrqnxtagon](https://www.last.fm/music/Frums/_/Mdrqnxtagon)
 * [Royal Republic — Underwear](https://www.last.fm/music/Royal+Republic/_/Underwear)
-* [Tipper — Spunion](https://www.last.fm/music/Tipper/_/Spunion)
-* [Hot Butter — Popcorn](https://www.last.fm/music/Hot+Butter/_/Popcorn)
-* [Tai — Unicorn - Original Mix](https://www.last.fm/music/Tai/_/Unicorn+-+Original+Mix)<!-- LASTFM:END -->
+* [Tipper — Spunion](https://www.last.fm/music/Tipper/_/Spunion)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
