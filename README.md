@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Astrix — Sahara - Original Mix](https://www.last.fm/music/Astrix/_/Sahara+-+Original+Mix)
+* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
 * [K3MP3R — Fahrradsattel](https://www.last.fm/music/K3MP3R/_/Fahrradsattel)
 * [Darktek — Les Kassos](https://www.last.fm/music/Darktek/_/Les+Kassos)
-* [Yo Mellow — Pit](https://www.last.fm/music/Yo+Mellow/_/Pit)
-* [Dodge &amp; Fuski — Pornstep - Original Mix](https://www.last.fm/music/Dodge+&amp;+Fuski/_/Pornstep+-+Original+Mix)
-* [SHREK IS LOVE — Lord Farquaad](https://www.last.fm/music/SHREK+IS+LOVE/_/Lord+Farquaad)<!-- LASTFM:END -->
+* [Yo Mellow — Pit](https://www.last.fm/music/Yo+Mellow/_/Pit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
