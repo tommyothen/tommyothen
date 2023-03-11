@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
 * [Animals as Leaders — Physical Education](https://www.last.fm/music/Animals+as+Leaders/_/Physical+Education)
 * [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
-* [Guwazny — Life Sucks But My Bitch Sucks Better](https://www.last.fm/music/Guwazny/_/Life+Sucks+But+My+Bitch+Sucks+Better)
-* [City Morgue — YELLOW PISS](https://www.last.fm/music/City+Morgue/_/YELLOW+PISS)
-* [Blue Swede — Hooked on a Feeling](https://www.last.fm/music/Blue+Swede/_/Hooked+on+a+Feeling)<!-- LASTFM:END -->
+* [Guwazny — Life Sucks But My Bitch Sucks Better](https://www.last.fm/music/Guwazny/_/Life+Sucks+But+My+Bitch+Sucks+Better)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
