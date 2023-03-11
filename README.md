@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
-* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
-* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
-* [Lil Jesus — Taco Bell Nigga](https://www.last.fm/music/Lil+Jesus/_/Taco+Bell+Nigga)
-* [Nelly — Hot In Herre](https://www.last.fm/music/Nelly/_/Hot+In+Herre)<!-- LASTFM:END -->
+* [Blue Swede — Hooked on a Feeling](https://www.last.fm/music/Blue+Swede/_/Hooked+on+a+Feeling)
+* [Lil Darkie — rap music](https://www.last.fm/music/Lil+Darkie/_/rap+music)
+* [ICE SPICE — Munch &lpar;Feelin’ U&rpar;](https://www.last.fm/music/ICE+SPICE/_/Munch+&lpar;Feelin%E2%80%99+U&rpar;)
+* [Baby Tate — Hey, Mickey!](https://www.last.fm/music/Baby+Tate/_/Hey,+Mickey!)
+* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
