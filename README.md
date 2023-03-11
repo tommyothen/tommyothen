@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Earl Sweatshirt — Shattered Dreams](https://www.last.fm/music/Earl+Sweatshirt/_/Shattered+Dreams)
+* [Earl Sweatshirt — Riot!](https://www.last.fm/music/Earl+Sweatshirt/_/Riot!)
+* [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)
 * [Mac Miller — Self Care](https://www.last.fm/music/Mac+Miller/_/Self+Care)
-* [Mac Miller — Polo Jeans &lpar;feat. Earl Sweatshirt&rpar;](https://www.last.fm/music/Mac+Miller/_/Polo+Jeans+&lpar;feat.+Earl+Sweatshirt&rpar;)
-* [Astrix — Sahara - Original Mix](https://www.last.fm/music/Astrix/_/Sahara+-+Original+Mix)
-* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
-* [K3MP3R — Fahrradsattel](https://www.last.fm/music/K3MP3R/_/Fahrradsattel)<!-- LASTFM:END -->
+* [Mac Miller — Polo Jeans &lpar;feat. Earl Sweatshirt&rpar;](https://www.last.fm/music/Mac+Miller/_/Polo+Jeans+&lpar;feat.+Earl+Sweatshirt&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
