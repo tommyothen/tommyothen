@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frums — Mdrqnxtagon](https://www.last.fm/music/Frums/_/Mdrqnxtagon)
+* [Royal Republic — Underwear](https://www.last.fm/music/Royal+Republic/_/Underwear)
+* [Tipper — Spunion](https://www.last.fm/music/Tipper/_/Spunion)
 * [Hot Butter — Popcorn](https://www.last.fm/music/Hot+Butter/_/Popcorn)
-* [Tai — Unicorn - Original Mix](https://www.last.fm/music/Tai/_/Unicorn+-+Original+Mix)
-* [813 — Damn Yeah](https://www.last.fm/music/813/_/Damn+Yeah)
-* [Anamanaguchi — F.R.U.G.](https://www.last.fm/music/Anamanaguchi/_/F.R.U.G.)
-* [X-Rx — Electric Man](https://www.last.fm/music/X-Rx/_/Electric+Man)<!-- LASTFM:END -->
+* [Tai — Unicorn - Original Mix](https://www.last.fm/music/Tai/_/Unicorn+-+Original+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
