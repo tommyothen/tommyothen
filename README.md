@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SHREK IS LOVE — Lord Farquaad](https://www.last.fm/music/SHREK+IS+LOVE/_/Lord+Farquaad)
+* [Crystal Castles — I Am Made of Chalk](https://www.last.fm/music/Crystal+Castles/_/I+Am+Made+of+Chalk)
 * [m1dy — Kamikaze - Original Mix](https://www.last.fm/music/m1dy/_/Kamikaze+-+Original+Mix)
 * [Venetian Snares — Splooj Guzzlers](https://www.last.fm/music/Venetian+Snares/_/Splooj+Guzzlers)
-* [Aphex Twin — Ventolin - Video Edit](https://www.last.fm/music/Aphex+Twin/_/Ventolin+-+Video+Edit)
-* [Yheti — Still Wet From Last Night](https://www.last.fm/music/Yheti/_/Still+Wet+From+Last+Night)
 * [Aphex Twin — Ventolin - Video Edit](https://www.last.fm/music/Aphex+Twin/_/Ventolin+-+Video+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
