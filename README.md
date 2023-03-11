@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
+* [Lil Jesus — Taco Bell Nigga](https://www.last.fm/music/Lil+Jesus/_/Taco+Bell+Nigga)
 * [Nelly — Hot In Herre](https://www.last.fm/music/Nelly/_/Hot+In+Herre)
 * [Justin Timberlake — SexyBack &lpar;feat. Timbaland&rpar;](https://www.last.fm/music/Justin+Timberlake/_/SexyBack+&lpar;feat.+Timbaland&rpar;)
-* [Pitbull — Hotel Room Service](https://www.last.fm/music/Pitbull/_/Hotel+Room+Service)
-* [Flo Rida — Low &lpar;feat. T-Pain&rpar;](https://www.last.fm/music/Flo+Rida/_/Low+&lpar;feat.+T-Pain&rpar;)
-* [Soulja Boy — Crank That &lpar;Soulja Boy&rpar;](https://www.last.fm/music/Soulja+Boy/_/Crank+That+&lpar;Soulja+Boy&rpar;)<!-- LASTFM:END -->
+* [Pitbull — Hotel Room Service](https://www.last.fm/music/Pitbull/_/Hotel+Room+Service)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
