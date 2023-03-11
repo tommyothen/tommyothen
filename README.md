@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Naked Flames — Relief Rinse](https://www.last.fm/music/Naked+Flames/_/Relief+Rinse)
 * [Pepper Coyote — No Cock Like Horse Cock](https://www.last.fm/music/Pepper+Coyote/_/No+Cock+Like+Horse+Cock)
 * [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)
 * [Lil Jesus — Taco Bell Nigga](https://www.last.fm/music/Lil+Jesus/_/Taco+Bell+Nigga)
-* [Yheti — Still Wet From Last Night](https://www.last.fm/music/Yheti/_/Still+Wet+From+Last+Night)
-* [GPF — Broccoli Fuck](https://www.last.fm/music/GPF/_/Broccoli+Fuck)<!-- LASTFM:END -->
+* [Yheti — Still Wet From Last Night](https://www.last.fm/music/Yheti/_/Still+Wet+From+Last+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
