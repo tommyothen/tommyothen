@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yo Mellow — Pit](https://www.last.fm/music/Yo+Mellow/_/Pit)
 * [Dodge &amp; Fuski — Pornstep - Original Mix](https://www.last.fm/music/Dodge+&amp;+Fuski/_/Pornstep+-+Original+Mix)
 * [SHREK IS LOVE — Lord Farquaad](https://www.last.fm/music/SHREK+IS+LOVE/_/Lord+Farquaad)
 * [Crystal Castles — I Am Made of Chalk](https://www.last.fm/music/Crystal+Castles/_/I+Am+Made+of+Chalk)
-* [m1dy — Kamikaze - Original Mix](https://www.last.fm/music/m1dy/_/Kamikaze+-+Original+Mix)
-* [Venetian Snares — Splooj Guzzlers](https://www.last.fm/music/Venetian+Snares/_/Splooj+Guzzlers)<!-- LASTFM:END -->
+* [m1dy — Kamikaze - Original Mix](https://www.last.fm/music/m1dy/_/Kamikaze+-+Original+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
