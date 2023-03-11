@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Telekinesis — The Monk](https://www.last.fm/music/Telekinesis/_/The+Monk)
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
 * [Caramella Girls — Caramelldansen](https://www.last.fm/music/Caramella+Girls/_/Caramelldansen)
 * [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)
-* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
-* [Lite Show Magic — TRICKL4SH 220 - 22,000 Power Extended](https://www.last.fm/music/Lite+Show+Magic/_/TRICKL4SH+220+-+22,000+Power+Extended)
-* [Nanahira — Ange Du Blanc Pur](https://www.last.fm/music/Nanahira/_/Ange+Du+Blanc+Pur)<!-- LASTFM:END -->
+* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
