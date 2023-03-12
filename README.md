@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TWICE — The Feels](https://www.last.fm/music/TWICE/_/The+Feels)
-* [TWICE — The Feels](https://www.last.fm/music/TWICE/_/The+Feels)
-* [TWICE — The Feels](https://www.last.fm/music/TWICE/_/The+Feels)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)<!-- LASTFM:END -->
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
+* [TWICE — The Feels](https://www.last.fm/music/TWICE/_/The+Feels)
+* [TWICE — The Feels](https://www.last.fm/music/TWICE/_/The+Feels)
+* [TWICE — The Feels](https://www.last.fm/music/TWICE/_/The+Feels)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
