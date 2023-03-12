@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tipper — Spunion](https://www.last.fm/music/Tipper/_/Spunion)
+* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
 * [Tai — Unicorn - Original Mix](https://www.last.fm/music/Tai/_/Unicorn+-+Original+Mix)
 * [Telekinesis — The Monk](https://www.last.fm/music/Telekinesis/_/The+Monk)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [Caramella Girls — Caramelldansen](https://www.last.fm/music/Caramella+Girls/_/Caramelldansen)
-* [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)<!-- LASTFM:END -->
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
