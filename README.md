@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — The Feels](https://www.last.fm/music/TWICE/_/The+Feels)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)
 * [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
-* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
-* [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)<!-- LASTFM:END -->
+* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
