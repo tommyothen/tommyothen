@@ -30,8 +30,8 @@ Now Playing\
 <!-- LASTFM:START -->
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [TWICE — The Feels](https://www.last.fm/music/TWICE/_/The+Feels)
-* [TWICE — The Feels](https://www.last.fm/music/TWICE/_/The+Feels)
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [TWICE — The Feels](https://www.last.fm/music/TWICE/_/The+Feels)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
