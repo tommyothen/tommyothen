@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [TWICE — The Feels](https://www.last.fm/music/TWICE/_/The+Feels)<!-- LASTFM:END -->
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
