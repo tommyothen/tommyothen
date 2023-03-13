@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
+* [The Home Team — Eat You Up](https://www.last.fm/music/The+Home+Team/_/Eat+You+Up)
 * [The Home Team — She&#39;s Quiet &lpar;acoustic&rpar;](https://www.last.fm/music/The+Home+Team/_/She%27s+Quiet+&lpar;acoustic&rpar;)
 * [The Home Team — Fomo &lpar;Bored of You&rpar;](https://www.last.fm/music/The+Home+Team/_/Fomo+&lpar;Bored+of+You&rpar;)
-* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
-* [The Home Team — Danger &lpar;feat. Jeff Loomis &amp; Veil of Maya&rpar;](https://www.last.fm/music/The+Home+Team/_/Danger+&lpar;feat.+Jeff+Loomis+&amp;+Veil+of+Maya&rpar;)
-* [The Home Team — Watching All Your Friends Get Rich](https://www.last.fm/music/The+Home+Team/_/Watching+All+Your+Friends+Get+Rich)<!-- LASTFM:END -->
+* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
