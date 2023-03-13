@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tai — Unicorn - Original Mix](https://www.last.fm/music/Tai/_/Unicorn+-+Original+Mix)
 * [Tipper — Spunion](https://www.last.fm/music/Tipper/_/Spunion)
 * [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
 * [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
-* [The Home Team — Scary Movies](https://www.last.fm/music/The+Home+Team/_/Scary+Movies)<!-- LASTFM:END -->
+* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
