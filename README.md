@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Telekinesis — The Monk](https://www.last.fm/music/Telekinesis/_/The+Monk)
+* [Leaf — Aleph-0 - Long Ver.](https://www.last.fm/music/Leaf/_/Aleph-0+-+Long+Ver.)
 * [Tai — Unicorn - Original Mix](https://www.last.fm/music/Tai/_/Unicorn+-+Original+Mix)
 * [Tipper — Spunion](https://www.last.fm/music/Tipper/_/Spunion)
-* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)<!-- LASTFM:END -->
+* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
