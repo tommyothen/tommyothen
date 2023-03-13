@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu - TV](https://myanimelist.net/anime/52461/Rougo_ni_Sonaete_Isekai_de_8-manmai_no_Kinka_wo_Tamemasu) - Watching - 10 of 12 episodes
+* [Saikyou Onmyouji no Isekai Tenseiki - TV](https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki) - Watching - 10 of 13 episodes
 * [Mahou Shoujo Madoka★Magica - TV](https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka★Magica) - Watching - 3 of 12 episodes
 * [Kiseijuu: Sei no Kakuritsu - TV](https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu) - Completed - 24 of 24 episodes
-* [Kaifuku Jutsushi no Yarinaoshi - TV](https://myanimelist.net/anime/40750/Kaifuku_Jutsushi_no_Yarinaoshi) - Completed - 12 of 12 episodes
-* [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu - TV](https://myanimelist.net/anime/52461/Rougo_ni_Sonaete_Isekai_de_8-manmai_no_Kinka_wo_Tamemasu) - Watching - 9 of 12 episodes
-* [Saikyou Onmyouji no Isekai Tenseiki - TV](https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki) - Watching - 9 of 13 episodes<!-- ANIME-LIST:END -->
+* [Kaifuku Jutsushi no Yarinaoshi - TV](https://myanimelist.net/anime/40750/Kaifuku_Jutsushi_no_Yarinaoshi) - Completed - 12 of 12 episodes<!-- ANIME-LIST:END -->
