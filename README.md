@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
+* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
 * [The Home Team — Scary Movies](https://www.last.fm/music/The+Home+Team/_/Scary+Movies)
 * [The Home Team — Eat You Up](https://www.last.fm/music/The+Home+Team/_/Eat+You+Up)
-* [The Home Team — Watching All Your Friends Get Rich](https://www.last.fm/music/The+Home+Team/_/Watching+All+Your+Friends+Get+Rich)
-* [The Home Team — Right Through Me](https://www.last.fm/music/The+Home+Team/_/Right+Through+Me)
-* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)<!-- LASTFM:END -->
+* [The Home Team — Watching All Your Friends Get Rich](https://www.last.fm/music/The+Home+Team/_/Watching+All+Your+Friends+Get+Rich)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
