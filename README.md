@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Home Team — Watching All Your Friends Get Rich](https://www.last.fm/music/The+Home+Team/_/Watching+All+Your+Friends+Get+Rich)
+* [The Home Team — Slow Bloom](https://www.last.fm/music/The+Home+Team/_/Slow+Bloom)
 * [The Home Team — Right Through Me](https://www.last.fm/music/The+Home+Team/_/Right+Through+Me)
 * [The Home Team — She&#39;s Quiet](https://www.last.fm/music/The+Home+Team/_/She%27s+Quiet)
-* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
-* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
-* [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)<!-- LASTFM:END -->
+* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
