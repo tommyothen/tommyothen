@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
+* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
+* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
 * [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)
-* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
-* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)
-* [NewJeans — Hurt](https://www.last.fm/music/NewJeans/_/Hurt)<!-- LASTFM:END -->
+* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
