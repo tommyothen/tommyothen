@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
+* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
 * [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)<!-- LASTFM:END -->
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
+* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
