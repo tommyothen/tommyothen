@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
+* [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)
 * [Camellia — t / a/n / a/s / i/n / n](https://www.last.fm/music/Camellia/_/t+%2F+a%2Fn+%2F+a%2Fs+%2F+i%2Fn+%2F+n)
 * [Camellia — ZOMBIE CIRCUS](https://www.last.fm/music/Camellia/_/ZOMBIE+CIRCUS)
-* [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)
-* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
-* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)<!-- LASTFM:END -->
+* [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
