@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)
 * [Fifty Fifty — Cupid](https://www.last.fm/music/Fifty+Fifty/_/Cupid)
-* [Red Velvet — BYE BYE](https://www.last.fm/music/Red+Velvet/_/BYE+BYE)
-* [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)
-* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)<!-- LASTFM:END -->
+* [Red Velvet — BYE BYE](https://www.last.fm/music/Red+Velvet/_/BYE+BYE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
