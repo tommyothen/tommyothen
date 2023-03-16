@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
 * [iann dior — emotions](https://www.last.fm/music/iann+dior/_/emotions)
-* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
-* [NF — Lie](https://www.last.fm/music/NF/_/Lie)
-* [brakence — sunder](https://www.last.fm/music/brakence/_/sunder)<!-- LASTFM:END -->
+* [Eden — gold](https://www.last.fm/music/Eden/_/gold)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
