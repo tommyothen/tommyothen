@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [CONVOLK — lonewolf](https://www.last.fm/music/CONVOLK/_/lonewolf)
 * [1NONLY — Fuck You!](https://www.last.fm/music/1NONLY/_/Fuck+You!)
 * [Ziika — Pipe Sound](https://www.last.fm/music/Ziika/_/Pipe+Sound)
 * [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
-* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
-* [FEMBOY$ — FEMBOY$ CYPHER](https://www.last.fm/music/FEMBOY$/_/FEMBOY$+CYPHER)<!-- LASTFM:END -->
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
