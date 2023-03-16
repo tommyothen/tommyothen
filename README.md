@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iann dior — emotions](https://www.last.fm/music/iann+dior/_/emotions)
+* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
+* [NF — Lie](https://www.last.fm/music/NF/_/Lie)
 * [brakence — sunder](https://www.last.fm/music/brakence/_/sunder)
-* [Eden — isohel](https://www.last.fm/music/Eden/_/isohel)
-* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
-* [Shelly — Natural](https://www.last.fm/music/Shelly/_/Natural)
-* [Josh Fudge — Summer Something](https://www.last.fm/music/Josh+Fudge/_/Summer+Something)<!-- LASTFM:END -->
+* [Eden — isohel](https://www.last.fm/music/Eden/_/isohel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
