@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
+* [TWICE — SET ME FREE](https://www.last.fm/music/TWICE/_/SET+ME+FREE)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
-* [iann dior — emotions](https://www.last.fm/music/iann+dior/_/emotions)
-* [Eden — gold](https://www.last.fm/music/Eden/_/gold)<!-- LASTFM:END -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
