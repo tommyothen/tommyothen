@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [EKKSTACY — uncomparable](https://www.last.fm/music/EKKSTACY/_/uncomparable)
-* [EKKSTACY — then i met her](https://www.last.fm/music/EKKSTACY/_/then+i+met+her)
-* [Verzache — Feel Like](https://www.last.fm/music/Verzache/_/Feel+Like)
-* [Chri$tian Gate$ — NUMB](https://www.last.fm/music/Chri$tian+Gate$/_/NUMB)
-* [Ronen — I Won&#39;t](https://www.last.fm/music/Ronen/_/I+Won%27t)<!-- LASTFM:END -->
+* [Shelly — Natural](https://www.last.fm/music/Shelly/_/Natural)
+* [Josh Fudge — Summer Something](https://www.last.fm/music/Josh+Fudge/_/Summer+Something)
+* [Ouse — not her](https://www.last.fm/music/Ouse/_/not+her)
+* [Ronen — Lost 2](https://www.last.fm/music/Ronen/_/Lost+2)
+* [EKKSTACY — uncomparable](https://www.last.fm/music/EKKSTACY/_/uncomparable)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
