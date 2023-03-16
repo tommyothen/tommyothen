@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
 * [Shelly — Natural](https://www.last.fm/music/Shelly/_/Natural)
 * [Josh Fudge — Summer Something](https://www.last.fm/music/Josh+Fudge/_/Summer+Something)
 * [Ouse — not her](https://www.last.fm/music/Ouse/_/not+her)
-* [Ronen — Lost 2](https://www.last.fm/music/Ronen/_/Lost+2)
-* [EKKSTACY — uncomparable](https://www.last.fm/music/EKKSTACY/_/uncomparable)<!-- LASTFM:END -->
+* [Ronen — Lost 2](https://www.last.fm/music/Ronen/_/Lost+2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
