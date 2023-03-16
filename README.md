@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ronen — I Won&#39;t](https://www.last.fm/music/Ronen/_/I+Won%27t)
-* [Cody Lawless — Latency](https://www.last.fm/music/Cody+Lawless/_/Latency)
-* [Pardyalone — Test 11](https://www.last.fm/music/Pardyalone/_/Test+11)
-* [re6ce — sos](https://www.last.fm/music/re6ce/_/sos)
-* [brakence — thirdquarter](https://www.last.fm/music/brakence/_/thirdquarter)<!-- LASTFM:END -->
+* [EKKSTACY — uncomparable](https://www.last.fm/music/EKKSTACY/_/uncomparable)
+* [EKKSTACY — then i met her](https://www.last.fm/music/EKKSTACY/_/then+i+met+her)
+* [Verzache — Feel Like](https://www.last.fm/music/Verzache/_/Feel+Like)
+* [Chri$tian Gate$ — NUMB](https://www.last.fm/music/Chri$tian+Gate$/_/NUMB)
+* [Ronen — I Won&#39;t](https://www.last.fm/music/Ronen/_/I+Won%27t)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
