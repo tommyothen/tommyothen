@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
+* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)
 * [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)
 * [Eden Project — drowning.](https://www.last.fm/music/Eden+Project/_/drowning.)
-* [CONVOLK — lonewolf](https://www.last.fm/music/CONVOLK/_/lonewolf)
-* [1NONLY — Fuck You!](https://www.last.fm/music/1NONLY/_/Fuck+You!)
-* [Ziika — Pipe Sound](https://www.last.fm/music/Ziika/_/Pipe+Sound)<!-- LASTFM:END -->
+* [CONVOLK — lonewolf](https://www.last.fm/music/CONVOLK/_/lonewolf)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
