@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — Typa Girl](https://www.last.fm/music/BLACKPINK/_/Typa+Girl)
+* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)
+* [NewJeans — Cookie](https://www.last.fm/music/NewJeans/_/Cookie)
 * [Tank — 159cm](https://www.last.fm/music/Tank/_/159cm)
-* [TWICE — Talk that Talk](https://www.last.fm/music/TWICE/_/Talk+that+Talk)
-* [LE SSERAFIM — Blue Flame](https://www.last.fm/music/LE+SSERAFIM/_/Blue+Flame)
-* [BLACKPINK — Shut Down](https://www.last.fm/music/BLACKPINK/_/Shut+Down)
-* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)<!-- LASTFM:END -->
+* [TWICE — Talk that Talk](https://www.last.fm/music/TWICE/_/Talk+that+Talk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
