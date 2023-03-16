@@ -28,9 +28,9 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [Fifty Fifty — Cupid - Twin Version](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Version)
 * [Fifty Fifty — Cupid - Twin Version](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Version)
-* [Moe Shop — Natural](https://www.last.fm/music/Moe+Shop/_/Natural)
 * [Fifty Fifty — Cupid - Twin Version](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Version)
 * [Fifty Fifty — Cupid - Twin Version](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Version)<!-- LASTFM:END -->
 
