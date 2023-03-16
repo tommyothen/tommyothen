@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
+* [Igorrr — Hollow Tree](https://www.last.fm/music/Igorrr/_/Hollow+Tree)
 * [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)
 * [Igorrr — Downgrade Desert](https://www.last.fm/music/Igorrr/_/Downgrade+Desert)
-* [Igorrr — ieuD](https://www.last.fm/music/Igorrr/_/ieuD)
-* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)
-* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)<!-- LASTFM:END -->
+* [Igorrr — ieuD](https://www.last.fm/music/Igorrr/_/ieuD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
