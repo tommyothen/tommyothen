@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chri$tian Gate$ — Fuck You](https://www.last.fm/music/Chri$tian+Gate$/_/Fuck+You)
+* [Twisted — WORTH NOTHING - Fast &amp; Furious: Drift Tape/Phonk Vol 1](https://www.last.fm/music/Twisted/_/WORTH+NOTHING+-+Fast+&amp;+Furious:+Drift+Tape%2FPhonk+Vol+1)
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
 * [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
-* [Verzache — january](https://www.last.fm/music/Verzache/_/january)
-* [Shygirl — Firefly](https://www.last.fm/music/Shygirl/_/Firefly)
-* [Igorrr — Parpaing](https://www.last.fm/music/Igorrr/_/Parpaing)
-* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)<!-- LASTFM:END -->
+* [Verzache — january](https://www.last.fm/music/Verzache/_/january)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
