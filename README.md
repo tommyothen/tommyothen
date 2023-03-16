@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shygirl — Firefly](https://www.last.fm/music/Shygirl/_/Firefly)
 * [Igorrr — Parpaing](https://www.last.fm/music/Igorrr/_/Parpaing)
 * [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
 * [Igorrr — Hollow Tree](https://www.last.fm/music/Igorrr/_/Hollow+Tree)
-* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)
-* [Igorrr — Downgrade Desert](https://www.last.fm/music/Igorrr/_/Downgrade+Desert)<!-- LASTFM:END -->
+* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
