@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Spinach Cumshot — Subway Sexists](https://www.last.fm/music/Yung+Spinach+Cumshot/_/Subway+Sexists)
 * [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)
 * [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
 * [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)
-* [Fifty Fifty — Cupid - Twin Version](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Version)
-* [SZA — Low](https://www.last.fm/music/SZA/_/Low)<!-- LASTFM:END -->
+* [Fifty Fifty — Cupid - Twin Version](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
