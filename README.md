@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LE SSERAFIM — Blue Flame](https://www.last.fm/music/LE+SSERAFIM/_/Blue+Flame)
+* [BLACKPINK — Shut Down](https://www.last.fm/music/BLACKPINK/_/Shut+Down)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)
-* [Fifty Fifty — Cupid](https://www.last.fm/music/Fifty+Fifty/_/Cupid)
-* [Red Velvet — BYE BYE](https://www.last.fm/music/Red+Velvet/_/BYE+BYE)<!-- LASTFM:END -->
+* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
