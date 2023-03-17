@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BLACKPINK — Hard To Love](https://www.last.fm/music/BLACKPINK/_/Hard+To+Love)
-* [Dreamcatcher — Jazz Bar](https://www.last.fm/music/Dreamcatcher/_/Jazz+Bar)
-* [NewJeans — Hurt](https://www.last.fm/music/NewJeans/_/Hurt)
-* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
-* [SAAY — OVERZONE](https://www.last.fm/music/SAAY/_/OVERZONE)<!-- LASTFM:END -->
+* [AOA — Miniskirt](https://www.last.fm/music/AOA/_/Miniskirt)
+* [ITZY — Cheshire](https://www.last.fm/music/ITZY/_/Cheshire)
+* [STAYC — STEREOTYPE](https://www.last.fm/music/STAYC/_/STEREOTYPE)
+* [Red Velvet — Bad Boy](https://www.last.fm/music/Red+Velvet/_/Bad+Boy)
+* [Fujii Kaze — Matsuri](https://www.last.fm/music/Fujii+Kaze/_/Matsuri)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
