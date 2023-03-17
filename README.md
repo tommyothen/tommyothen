@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
 * [Igorrr — ieuD](https://www.last.fm/music/Igorrr/_/ieuD)
 * [Igorrr — Fryzura Konika](https://www.last.fm/music/Igorrr/_/Fryzura+Konika)
 * [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)
-* [Igorrr — Toothpaste](https://www.last.fm/music/Igorrr/_/Toothpaste)
-* [Igorrr — Dentist](https://www.last.fm/music/Igorrr/_/Dentist)<!-- LASTFM:END -->
+* [Igorrr — Toothpaste](https://www.last.fm/music/Igorrr/_/Toothpaste)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
