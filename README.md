@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TWICE — CRY FOR ME](https://www.last.fm/music/TWICE/_/CRY+FOR+ME)
-* [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)
-* [LE SSERAFIM — Impurities](https://www.last.fm/music/LE+SSERAFIM/_/Impurities)
-* [BLACKPINK — Typa Girl](https://www.last.fm/music/BLACKPINK/_/Typa+Girl)
-* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)<!-- LASTFM:END -->
+* [BLACKPINK — Hard To Love](https://www.last.fm/music/BLACKPINK/_/Hard+To+Love)
+* [Dreamcatcher — Jazz Bar](https://www.last.fm/music/Dreamcatcher/_/Jazz+Bar)
+* [NewJeans — Hurt](https://www.last.fm/music/NewJeans/_/Hurt)
+* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
+* [SAAY — OVERZONE](https://www.last.fm/music/SAAY/_/OVERZONE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
