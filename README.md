@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [AOA — Miniskirt](https://www.last.fm/music/AOA/_/Miniskirt)
-* [ITZY — Cheshire](https://www.last.fm/music/ITZY/_/Cheshire)
-* [STAYC — STEREOTYPE](https://www.last.fm/music/STAYC/_/STEREOTYPE)
-* [Red Velvet — Bad Boy](https://www.last.fm/music/Red+Velvet/_/Bad+Boy)
-* [Fujii Kaze — Matsuri](https://www.last.fm/music/Fujii+Kaze/_/Matsuri)<!-- LASTFM:END -->
+* [Bibi — MotoSpeed 24](https://www.last.fm/music/Bibi/_/MotoSpeed+24)
+* [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)
+* [Yena — Love War &lpar;feat. BE&#39;O&rpar;](https://www.last.fm/music/Yena/_/Love+War+&lpar;feat.+BE%27O&rpar;)
+* [Red Velvet — 러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)
+* [IU — LILAC](https://www.last.fm/music/IU/_/LILAC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
