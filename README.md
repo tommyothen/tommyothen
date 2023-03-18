@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [samstring — Bing Chilling - Remix](https://www.last.fm/music/samstring/_/Bing+Chilling+-+Remix)
+* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
+* [Ziika — Pipe Sound](https://www.last.fm/music/Ziika/_/Pipe+Sound)
 * [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [Ziika — Pipe Sound](https://www.last.fm/music/Ziika/_/Pipe+Sound)<!-- LASTFM:END -->
+* [samstring — Bing Chilling - Remix](https://www.last.fm/music/samstring/_/Bing+Chilling+-+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
