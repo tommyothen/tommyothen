@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [Ziika — Pipe Sound](https://www.last.fm/music/Ziika/_/Pipe+Sound)
+* [samstring — Bing Chilling - Remix](https://www.last.fm/music/samstring/_/Bing+Chilling+-+Remix)
 * [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)<!-- LASTFM:END -->
+* [Ziika — Pipe Sound](https://www.last.fm/music/Ziika/_/Pipe+Sound)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
