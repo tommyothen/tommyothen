@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Problème d&#39;émotion](https://www.last.fm/music/Igorrr/_/Probl%C3%A8me+d%27%C3%A9motion)
 * [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
 * [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)
 * [Igorrr — Downgrade Desert](https://www.last.fm/music/Igorrr/_/Downgrade+Desert)
-* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
+* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
