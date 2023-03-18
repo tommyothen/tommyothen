@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
 * [k96 — Cyka Kalinka](https://www.last.fm/music/k96/_/Cyka+Kalinka)
 * [FEMBOY$ — FEMBOY$ CYPHER](https://www.last.fm/music/FEMBOY$/_/FEMBOY$+CYPHER)
 * [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
-* [Igorrr — ieuD](https://www.last.fm/music/Igorrr/_/ieuD)
-* [Igorrr — Fryzura Konika](https://www.last.fm/music/Igorrr/_/Fryzura+Konika)<!-- LASTFM:END -->
+* [Igorrr — ieuD](https://www.last.fm/music/Igorrr/_/ieuD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
