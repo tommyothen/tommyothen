@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ziika — Pipe Sound](https://www.last.fm/music/Ziika/_/Pipe+Sound)
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
-* [Yaeji — Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)
-* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)<!-- LASTFM:END -->
+* [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
