@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
 * [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
-* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
-* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
+* [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
+* [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
+* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
