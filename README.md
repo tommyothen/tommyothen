@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
+* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
+* [&lpar;G&rpar;I-DLE — Oh My God](https://www.last.fm/music/&lpar;G&rpar;I-DLE/_/Oh+My+God)
 * [Red Velvet — 러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)
-* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)
-* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
-* [TWICE — TT](https://www.last.fm/music/TWICE/_/TT)
-* [Everglow — Bon Bon Chocolat](https://www.last.fm/music/Everglow/_/Bon+Bon+Chocolat)<!-- LASTFM:END -->
+* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
