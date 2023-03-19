@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Panjabi MC — Mundian to Bach Ke](https://www.last.fm/music/Panjabi+MC/_/Mundian+to+Bach+Ke)
+* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
 * [Shadow of Intent — The Tartarus Impalement](https://www.last.fm/music/Shadow+of+Intent/_/The+Tartarus+Impalement)
 * [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [SPURME — Daemonophobia](https://www.last.fm/music/SPURME/_/Daemonophobia)
-* [Unicorn On Ketamine — MBKETAMINE](https://www.last.fm/music/Unicorn+On+Ketamine/_/MBKETAMINE)
-* [Loli in early 20s — 彼女が12-14年間自分を切](https://www.last.fm/music/Loli+in+early+20s/_/%E5%BD%BC%E5%A5%B3%E3%81%8C12-14%E5%B9%B4%E9%96%93%E8%87%AA%E5%88%86%E3%82%92%E5%88%87)<!-- LASTFM:END -->
+* [SPURME — Daemonophobia](https://www.last.fm/music/SPURME/_/Daemonophobia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
