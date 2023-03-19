@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Red Velvet — 러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)
+* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)
 * [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
 * [TWICE — TT](https://www.last.fm/music/TWICE/_/TT)
-* [Everglow — Bon Bon Chocolat](https://www.last.fm/music/Everglow/_/Bon+Bon+Chocolat)
-* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
-* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)<!-- LASTFM:END -->
+* [Everglow — Bon Bon Chocolat](https://www.last.fm/music/Everglow/_/Bon+Bon+Chocolat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
