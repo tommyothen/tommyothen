@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dario Von Slutty — Pisk Mig Hårdt!!!](https://www.last.fm/music/Dario+Von+Slutty/_/Pisk+Mig+H%C3%A5rdt!!!)
+* [Hudson Mohawke — Cbat](https://www.last.fm/music/Hudson+Mohawke/_/Cbat)
 * [Alan Aztec — Disco Panzer](https://www.last.fm/music/Alan+Aztec/_/Disco+Panzer)
 * [Woosung — FACE](https://www.last.fm/music/Woosung/_/FACE)
-* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)
-* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
-* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)<!-- LASTFM:END -->
+* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
