@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [maul — JoJo Hardstyle](https://www.last.fm/music/maul/_/JoJo+Hardstyle)
+* [Vieze Asbak — Meet Her At The Love Parade - Beuk Mix](https://www.last.fm/music/Vieze+Asbak/_/Meet+Her+At+The+Love+Parade+-+Beuk+Mix)
+* [k96 — Cyka Kalinka](https://www.last.fm/music/k96/_/Cyka+Kalinka)
 * [Mysk — WHAT IS THAT MELODY? Hardstyle](https://www.last.fm/music/Mysk/_/WHAT+IS+THAT+MELODY%3F+Hardstyle)
-* [Modernmadeit — PENIS MUSIC TYPE BEAT](https://www.last.fm/music/Modernmadeit/_/PENIS+MUSIC+TYPE+BEAT)
-* [IC3PEAK — Грустная сука](https://www.last.fm/music/IC3PEAK/_/%D0%93%D1%80%D1%83%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%81%D1%83%D0%BA%D0%B0)
-* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
-* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)<!-- LASTFM:END -->
+* [Modernmadeit — PENIS MUSIC TYPE BEAT](https://www.last.fm/music/Modernmadeit/_/PENIS+MUSIC+TYPE+BEAT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
