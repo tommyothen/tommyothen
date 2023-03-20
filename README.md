@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — WYSI -When You See It-](https://www.last.fm/music/Camellia/_/WYSI+-When+You+See+It-)
 * [FrankenTek — 400 Bpm Madness](https://www.last.fm/music/FrankenTek/_/400+Bpm+Madness)
 * [Opgekonkerd — Wii Shop - Hardstyle Mix](https://www.last.fm/music/Opgekonkerd/_/Wii+Shop+-+Hardstyle+Mix)
 * [Luca-Dante Spadafora — NOOT NOOT](https://www.last.fm/music/Luca-Dante+Spadafora/_/NOOT+NOOT)
-* [Shadow of Intent — The Tartarus Impalement](https://www.last.fm/music/Shadow+of+Intent/_/The+Tartarus+Impalement)
-* [t+pazolite — Marble](https://www.last.fm/music/t%252Bpazolite/_/Marble)<!-- LASTFM:END -->
+* [Shadow of Intent — The Tartarus Impalement](https://www.last.fm/music/Shadow+of+Intent/_/The+Tartarus+Impalement)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
