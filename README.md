@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Cannibal Corpse — I Cum Blood](https://www.last.fm/music/Cannibal+Corpse/_/I+Cum+Blood)
-* [Sandu Ciorba — Pe cimpoi](https://www.last.fm/music/Sandu+Ciorba/_/Pe+cimpoi)
-* [La Caution — Thé à la menthe](https://www.last.fm/music/La+Caution/_/Th%C3%A9+%C3%A0+la+menthe)
-* [Geek Music — We Are Number One &lpar;From &quot;Lazy Town&quot;&rpar;](https://www.last.fm/music/Geek+Music/_/We+Are+Number+One+&lpar;From+%22Lazy+Town%22&rpar;)<!-- LASTFM:END -->
+* [Billy Marchiafava — Cheesecake](https://www.last.fm/music/Billy+Marchiafava/_/Cheesecake)
+* [Vieze Asbak — STOTENPAAL](https://www.last.fm/music/Vieze+Asbak/_/STOTENPAAL)
+* [XANAKIN SKYWOK — Macho!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Macho!)
+* [V.CT.R — No Russian](https://www.last.fm/music/V.CT.R/_/No+Russian)
+* [Kobaryo — Invisible Frenzy](https://www.last.fm/music/Kobaryo/_/Invisible+Frenzy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
