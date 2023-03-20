@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Panjabi MC — Mundian to Bach Ke](https://www.last.fm/music/Panjabi+MC/_/Mundian+to+Bach+Ke)
-* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
-* [Shadow of Intent — The Tartarus Impalement](https://www.last.fm/music/Shadow+of+Intent/_/The+Tartarus+Impalement)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [SPURME — Daemonophobia](https://www.last.fm/music/SPURME/_/Daemonophobia)<!-- LASTFM:END -->
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
+* [Cannibal Corpse — I Cum Blood](https://www.last.fm/music/Cannibal+Corpse/_/I+Cum+Blood)
+* [Sandu Ciorba — Pe cimpoi](https://www.last.fm/music/Sandu+Ciorba/_/Pe+cimpoi)
+* [La Caution — Thé à la menthe](https://www.last.fm/music/La+Caution/_/Th%C3%A9+%C3%A0+la+menthe)
+* [Geek Music — We Are Number One &lpar;From &quot;Lazy Town&quot;&rpar;](https://www.last.fm/music/Geek+Music/_/We+Are+Number+One+&lpar;From+%22Lazy+Town%22&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
