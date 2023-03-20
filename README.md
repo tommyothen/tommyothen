@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mysk — WHAT IS THAT MELODY? Hardstyle](https://www.last.fm/music/Mysk/_/WHAT+IS+THAT+MELODY%3F+Hardstyle)
+* [Modernmadeit — PENIS MUSIC TYPE BEAT](https://www.last.fm/music/Modernmadeit/_/PENIS+MUSIC+TYPE+BEAT)
+* [IC3PEAK — Грустная сука](https://www.last.fm/music/IC3PEAK/_/%D0%93%D1%80%D1%83%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%81%D1%83%D0%BA%D0%B0)
 * [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
-* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
-* [Animals as Leaders — Physical Education](https://www.last.fm/music/Animals+as+Leaders/_/Physical+Education)
-* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
-* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)<!-- LASTFM:END -->
+* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
