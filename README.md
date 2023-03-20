@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Francesco Zeta — Rock N&#39; Rave - Extended Mix](https://www.last.fm/music/Francesco+Zeta/_/Rock+N%27+Rave+-+Extended+Mix)
-* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
-* [t+pazolite — Marble](https://www.last.fm/music/t%252Bpazolite/_/Marble)
-* [Vieze Asbak — Meet Her At The Love Parade - Beuk Mix](https://www.last.fm/music/Vieze+Asbak/_/Meet+Her+At+The+Love+Parade+-+Beuk+Mix)
-* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)<!-- LASTFM:END -->
+* [Noma — Brain Power](https://www.last.fm/music/Noma/_/Brain+Power)
+* [t+pazolite — HARDEST RENAISSANCE](https://www.last.fm/music/t%252Bpazolite/_/HARDEST+RENAISSANCE)
+* [KASAI HARCORES — TRIPLE PLAY](https://www.last.fm/music/KASAI+HARCORES/_/TRIPLE+PLAY)
+* [yosuf — Dbol](https://www.last.fm/music/yosuf/_/Dbol)
+* [Malice — Annihilation - Aggressive Act Remix](https://www.last.fm/music/Malice/_/Annihilation+-+Aggressive+Act+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
