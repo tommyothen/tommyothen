@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [S3RL — Fan Service](https://www.last.fm/music/S3RL/_/Fan+Service)
+* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
 * [maul — JoJo Hardstyle](https://www.last.fm/music/maul/_/JoJo+Hardstyle)
 * [Vieze Asbak — Meet Her At The Love Parade - Beuk Mix](https://www.last.fm/music/Vieze+Asbak/_/Meet+Her+At+The+Love+Parade+-+Beuk+Mix)
-* [k96 — Cyka Kalinka](https://www.last.fm/music/k96/_/Cyka+Kalinka)
-* [Mysk — WHAT IS THAT MELODY? Hardstyle](https://www.last.fm/music/Mysk/_/WHAT+IS+THAT+MELODY%3F+Hardstyle)
-* [Modernmadeit — PENIS MUSIC TYPE BEAT](https://www.last.fm/music/Modernmadeit/_/PENIS+MUSIC+TYPE+BEAT)<!-- LASTFM:END -->
+* [k96 — Cyka Kalinka](https://www.last.fm/music/k96/_/Cyka+Kalinka)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
