@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Camellia — WYSI -When You See It-](https://www.last.fm/music/Camellia/_/WYSI+-When+You+See+It-)
-* [FrankenTek — 400 Bpm Madness](https://www.last.fm/music/FrankenTek/_/400+Bpm+Madness)
-* [Opgekonkerd — Wii Shop - Hardstyle Mix](https://www.last.fm/music/Opgekonkerd/_/Wii+Shop+-+Hardstyle+Mix)
-* [Luca-Dante Spadafora — NOOT NOOT](https://www.last.fm/music/Luca-Dante+Spadafora/_/NOOT+NOOT)
-* [Shadow of Intent — The Tartarus Impalement](https://www.last.fm/music/Shadow+of+Intent/_/The+Tartarus+Impalement)<!-- LASTFM:END -->
+* [IC3PEAK — Грустная сука](https://www.last.fm/music/IC3PEAK/_/%D0%93%D1%80%D1%83%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%81%D1%83%D0%BA%D0%B0)
+* [cldr — hamburger cheeseburger big mac whopper](https://www.last.fm/music/cldr/_/hamburger+cheeseburger+big+mac+whopper)
+* [Gippeul — Xue Hua Piao Piao Bei Feng Xiao Xiao](https://www.last.fm/music/Gippeul/_/Xue+Hua+Piao+Piao+Bei+Feng+Xiao+Xiao)
+* [AnimationStation — MC Mental at His Best](https://www.last.fm/music/AnimationStation/_/MC+Mental+at+His+Best)
+* [Yheti — Still Wet From Last Night](https://www.last.fm/music/Yheti/_/Still+Wet+From+Last+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
