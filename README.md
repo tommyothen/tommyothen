@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
 * [IC3PEAK — Грустная сука](https://www.last.fm/music/IC3PEAK/_/%D0%93%D1%80%D1%83%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%81%D1%83%D0%BA%D0%B0)
 * [cldr — hamburger cheeseburger big mac whopper](https://www.last.fm/music/cldr/_/hamburger+cheeseburger+big+mac+whopper)
 * [Gippeul — Xue Hua Piao Piao Bei Feng Xiao Xiao](https://www.last.fm/music/Gippeul/_/Xue+Hua+Piao+Piao+Bei+Feng+Xiao+Xiao)
-* [AnimationStation — MC Mental at His Best](https://www.last.fm/music/AnimationStation/_/MC+Mental+at+His+Best)
-* [Yheti — Still Wet From Last Night](https://www.last.fm/music/Yheti/_/Still+Wet+From+Last+Night)<!-- LASTFM:END -->
+* [AnimationStation — MC Mental at His Best](https://www.last.fm/music/AnimationStation/_/MC+Mental+at+His+Best)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
