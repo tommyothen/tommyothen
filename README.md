@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Geek Music — We Are Number One &lpar;From &quot;Lazy Town&quot;&rpar;](https://www.last.fm/music/Geek+Music/_/We+Are+Number+One+&lpar;From+%22Lazy+Town%22&rpar;)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
-* [IC3PEAK — Грустная сука](https://www.last.fm/music/IC3PEAK/_/%D0%93%D1%80%D1%83%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%81%D1%83%D0%BA%D0%B0)
-* [cldr — hamburger cheeseburger big mac whopper](https://www.last.fm/music/cldr/_/hamburger+cheeseburger+big+mac+whopper)<!-- LASTFM:END -->
+* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
+* [Ghost Data — Voice of Eternity](https://www.last.fm/music/Ghost+Data/_/Voice+of+Eternity)
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
+* [Geek Music — We Are Number One &lpar;From &quot;Lazy Town&quot;&rpar;](https://www.last.fm/music/Geek+Music/_/We+Are+Number+One+&lpar;From+%22Lazy+Town%22&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
