@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [lapix — Day by day - PSYQUI Remix](https://www.last.fm/music/lapix/_/Day+by+day+-+PSYQUI+Remix)
 * [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
-* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
