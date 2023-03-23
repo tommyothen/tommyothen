@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
+* [Hechizeros Band — El Sonidito](https://www.last.fm/music/Hechizeros+Band/_/El+Sonidito)
+* [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
 * [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)
-* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
-* [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)
-* [Eden — wonder](https://www.last.fm/music/Eden/_/wonder)
-* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)<!-- LASTFM:END -->
+* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
