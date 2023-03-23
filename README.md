@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
+* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
+* [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)
 * [Frontliner — 200 BPM](https://www.last.fm/music/Frontliner/_/200+BPM)
-* [MC Virgins — Trap Anthem](https://www.last.fm/music/MC+Virgins/_/Trap+Anthem)
-* [Nigpro — GAY NIGGA HOURS &lpar;ANGRY&rpar;](https://www.last.fm/music/Nigpro/_/GAY+NIGGA+HOURS+&lpar;ANGRY&rpar;)
-* [Panjabi MC — Mundian to Bach Ke](https://www.last.fm/music/Panjabi+MC/_/Mundian+to+Bach+Ke)
-* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)<!-- LASTFM:END -->
+* [MC Virgins — Trap Anthem](https://www.last.fm/music/MC+Virgins/_/Trap+Anthem)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
