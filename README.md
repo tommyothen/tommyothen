@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Caramella Girls — Caramelldansen](https://www.last.fm/music/Caramella+Girls/_/Caramelldansen)
+* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
+* [USAO — Cthugha](https://www.last.fm/music/USAO/_/Cthugha)
 * [Vieze Asbak — Meet Her At The Love Parade - Beuk Mix](https://www.last.fm/music/Vieze+Asbak/_/Meet+Her+At+The+Love+Parade+-+Beuk+Mix)
-* [Akira Complex — World Collapse](https://www.last.fm/music/Akira+Complex/_/World+Collapse)
-* [Kobaryo — Invisible Frenzy](https://www.last.fm/music/Kobaryo/_/Invisible+Frenzy)
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)<!-- LASTFM:END -->
+* [Akira Complex — World Collapse](https://www.last.fm/music/Akira+Complex/_/World+Collapse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
