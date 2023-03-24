@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hechizeros Band — El Sonidito](https://www.last.fm/music/Hechizeros+Band/_/El+Sonidito)
+* [Sandu Ciorba — Pe cimpoi](https://www.last.fm/music/Sandu+Ciorba/_/Pe+cimpoi)
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
-* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
-* [Yoko Takahashi — A Cruel Angel&#39;s Thesis &lpar;Director&#39;s Edit Version&rpar;](https://www.last.fm/music/Yoko+Takahashi/_/A+Cruel+Angel%27s+Thesis+&lpar;Director%27s+Edit+Version&rpar;)
-* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
-* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)<!-- LASTFM:END -->
+* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
