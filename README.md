@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shadow of Intent — The Tartarus Impalement](https://www.last.fm/music/Shadow+of+Intent/_/The+Tartarus+Impalement)
 * [USAO — Big Daddy](https://www.last.fm/music/USAO/_/Big+Daddy)
 * [Minecraft King27 — Mining](https://www.last.fm/music/Minecraft+King27/_/Mining)
 * [Ninja Sex Party — No Reason Boner](https://www.last.fm/music/Ninja+Sex+Party/_/No+Reason+Boner)
-* [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)
-* [Hechizeros Band — El Sonidito](https://www.last.fm/music/Hechizeros+Band/_/El+Sonidito)<!-- LASTFM:END -->
+* [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
