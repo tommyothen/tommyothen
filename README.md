@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hardstyle Germany — Mozart Hardstyle &lpar;Turkish March&rpar;](https://www.last.fm/music/Hardstyle+Germany/_/Mozart+Hardstyle+&lpar;Turkish+March&rpar;)
 * [Kobaryo — G.G.S.B.N.D.S.](https://www.last.fm/music/Kobaryo/_/G.G.S.B.N.D.S.)
 * [yosuf — Winstrol - State One Remix](https://www.last.fm/music/yosuf/_/Winstrol+-+State+One+Remix)
 * [Yuta Imai — To The Ones We Hate The Most](https://www.last.fm/music/Yuta+Imai/_/To+The+Ones+We+Hate+The+Most)
-* [Kobaryo — Start of the Determination](https://www.last.fm/music/Kobaryo/_/Start+of+the+Determination)
-* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)<!-- LASTFM:END -->
+* [Kobaryo — Start of the Determination](https://www.last.fm/music/Kobaryo/_/Start+of+the+Determination)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
