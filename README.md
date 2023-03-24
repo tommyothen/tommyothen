@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Cypis — Gdzie jest biały węgorz ? &lpar;Zejście&rpar;](https://www.last.fm/music/Cypis/_/Gdzie+jest+bia%C5%82y+w%C4%99gorz+%3F+&lpar;Zej%C5%9Bcie&rpar;)
-* [Minecraft King27 — Notch&#39;s Plan](https://www.last.fm/music/Minecraft+King27/_/Notch%27s+Plan)
-* [Laur — Exitium](https://www.last.fm/music/Laur/_/Exitium)
-* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)<!-- LASTFM:END -->
+* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
+* [gladde paling — Ratata](https://www.last.fm/music/gladde+paling/_/Ratata)
+* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
+* [GPF — ONYON](https://www.last.fm/music/GPF/_/ONYON)
+* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
