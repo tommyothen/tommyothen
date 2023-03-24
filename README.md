@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
 * [FEDUK — Fresh!](https://www.last.fm/music/FEDUK/_/Fresh!)
 * [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
 * [Yoko Takahashi — A Cruel Angel&#39;s Thesis &lpar;Director&#39;s Edit Version&rpar;](https://www.last.fm/music/Yoko+Takahashi/_/A+Cruel+Angel%27s+Thesis+&lpar;Director%27s+Edit+Version&rpar;)
-* [Ryuven — The Rumbling &lpar;From &quot;Attack on Titan&quot;&rpar;](https://www.last.fm/music/Ryuven/_/The+Rumbling+&lpar;From+%22Attack+on+Titan%22&rpar;)
-* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)<!-- LASTFM:END -->
+* [Ryuven — The Rumbling &lpar;From &quot;Attack on Titan&quot;&rpar;](https://www.last.fm/music/Ryuven/_/The+Rumbling+&lpar;From+%22Attack+on+Titan%22&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
