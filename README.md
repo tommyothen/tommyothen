@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GPF — Broccoli Fuck](https://www.last.fm/music/GPF/_/Broccoli+Fuck)
+* [Kingpvz — Rush E - Hardbass Remix](https://www.last.fm/music/Kingpvz/_/Rush+E+-+Hardbass+Remix)
+* [Unicorn On Ketamine — MBKETAMINE](https://www.last.fm/music/Unicorn+On+Ketamine/_/MBKETAMINE)
 * [AnimationStation — MC Mental at His Best](https://www.last.fm/music/AnimationStation/_/MC+Mental+at+His+Best)
-* [Mysk — WHAT IS THAT MELODY? Hardstyle](https://www.last.fm/music/Mysk/_/WHAT+IS+THAT+MELODY%3F+Hardstyle)
-* [lapix — Day by day - PSYQUI Remix](https://www.last.fm/music/lapix/_/Day+by+day+-+PSYQUI+Remix)
-* [Camellia — [BLEED BLOOD]](https://www.last.fm/music/Camellia/_/%5BBLEED+BLOOD%5D)
-* [Shadow of Intent — The Tartarus Impalement](https://www.last.fm/music/Shadow+of+Intent/_/The+Tartarus+Impalement)<!-- LASTFM:END -->
+* [Mysk — WHAT IS THAT MELODY? Hardstyle](https://www.last.fm/music/Mysk/_/WHAT+IS+THAT+MELODY%3F+Hardstyle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
