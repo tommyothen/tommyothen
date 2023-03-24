@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yoko Takahashi — A Cruel Angel&#39;s Thesis &lpar;Director&#39;s Edit Version&rpar;](https://www.last.fm/music/Yoko+Takahashi/_/A+Cruel+Angel%27s+Thesis+&lpar;Director%27s+Edit+Version&rpar;)
+* [Ryuven — The Rumbling &lpar;From &quot;Attack on Titan&quot;&rpar;](https://www.last.fm/music/Ryuven/_/The+Rumbling+&lpar;From+%22Attack+on+Titan%22&rpar;)
 * [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
 * [gladde paling — Ratata](https://www.last.fm/music/gladde+paling/_/Ratata)
-* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
-* [GPF — ONYON](https://www.last.fm/music/GPF/_/ONYON)
-* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)<!-- LASTFM:END -->
+* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
