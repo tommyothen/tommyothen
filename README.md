@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
+* [Cypis — Gdzie jest biały węgorz ? &lpar;Zejście&rpar;](https://www.last.fm/music/Cypis/_/Gdzie+jest+bia%C5%82y+w%C4%99gorz+%3F+&lpar;Zej%C5%9Bcie&rpar;)
 * [Minecraft King27 — Notch&#39;s Plan](https://www.last.fm/music/Minecraft+King27/_/Notch%27s+Plan)
 * [Laur — Exitium](https://www.last.fm/music/Laur/_/Exitium)
-* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
-* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
-* [GPF — Broccoli Fuck](https://www.last.fm/music/GPF/_/Broccoli+Fuck)<!-- LASTFM:END -->
+* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
