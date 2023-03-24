@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
 * [GPF — Broccoli Fuck](https://www.last.fm/music/GPF/_/Broccoli+Fuck)
 * [Kingpvz — Rush E - Hardbass Remix](https://www.last.fm/music/Kingpvz/_/Rush+E+-+Hardbass+Remix)
 * [Unicorn On Ketamine — MBKETAMINE](https://www.last.fm/music/Unicorn+On+Ketamine/_/MBKETAMINE)
-* [AnimationStation — MC Mental at His Best](https://www.last.fm/music/AnimationStation/_/MC+Mental+at+His+Best)
-* [Mysk — WHAT IS THAT MELODY? Hardstyle](https://www.last.fm/music/Mysk/_/WHAT+IS+THAT+MELODY%3F+Hardstyle)<!-- LASTFM:END -->
+* [AnimationStation — MC Mental at His Best](https://www.last.fm/music/AnimationStation/_/MC+Mental+at+His+Best)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
