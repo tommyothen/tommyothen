@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [USAO — Möbius](https://www.last.fm/music/USAO/_/M%C3%B6bius)
-* [Hardstyle Germany — Mozart Hardstyle &lpar;Turkish March&rpar;](https://www.last.fm/music/Hardstyle+Germany/_/Mozart+Hardstyle+&lpar;Turkish+March&rpar;)<!-- LASTFM:END -->
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
