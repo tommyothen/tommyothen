@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [USAO — Möbius](https://www.last.fm/music/USAO/_/M%C3%B6bius)
-* [Hardstyle Germany — Mozart Hardstyle &lpar;Turkish March&rpar;](https://www.last.fm/music/Hardstyle+Germany/_/Mozart+Hardstyle+&lpar;Turkish+March&rpar;)
-* [Kobaryo — G.G.S.B.N.D.S.](https://www.last.fm/music/Kobaryo/_/G.G.S.B.N.D.S.)
-* [yosuf — Winstrol - State One Remix](https://www.last.fm/music/yosuf/_/Winstrol+-+State+One+Remix)
-* [Yuta Imai — To The Ones We Hate The Most](https://www.last.fm/music/Yuta+Imai/_/To+The+Ones+We+Hate+The+Most)<!-- LASTFM:END -->
+* [Hardstyle Germany — Mozart Hardstyle &lpar;Turkish March&rpar;](https://www.last.fm/music/Hardstyle+Germany/_/Mozart+Hardstyle+&lpar;Turkish+March&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
