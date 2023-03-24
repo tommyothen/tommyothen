@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ninja Sex Party — No Reason Boner](https://www.last.fm/music/Ninja+Sex+Party/_/No+Reason+Boner)
+* [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)
 * [Hechizeros Band — El Sonidito](https://www.last.fm/music/Hechizeros+Band/_/El+Sonidito)
 * [Sandu Ciorba — Pe cimpoi](https://www.last.fm/music/Sandu+Ciorba/_/Pe+cimpoi)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
-* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)<!-- LASTFM:END -->
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
