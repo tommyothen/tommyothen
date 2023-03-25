@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frost Children — FOX BOP](https://www.last.fm/music/Frost+Children/_/FOX+BOP)
+* [Vulpi — Chocolate Groove](https://www.last.fm/music/Vulpi/_/Chocolate+Groove)
 * [takayan — Wither](https://www.last.fm/music/takayan/_/Wither)
 * [Phonon — emme](https://www.last.fm/music/Phonon/_/emme)
-* [Yung Spinach Cumshot — Subway Sexists](https://www.last.fm/music/Yung+Spinach+Cumshot/_/Subway+Sexists)
-* [Ninja Sex Party — No Reason Boner](https://www.last.fm/music/Ninja+Sex+Party/_/No+Reason+Boner)
-* [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)<!-- LASTFM:END -->
+* [Yung Spinach Cumshot — Subway Sexists](https://www.last.fm/music/Yung+Spinach+Cumshot/_/Subway+Sexists)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
