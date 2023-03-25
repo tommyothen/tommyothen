@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PSYQUI — Education](https://www.last.fm/music/PSYQUI/_/Education)
+* [kaz moon — Furious](https://www.last.fm/music/kaz+moon/_/Furious)
 * [Frost Children — FOX BOP](https://www.last.fm/music/Frost+Children/_/FOX+BOP)
 * [Vulpi — Chocolate Groove](https://www.last.fm/music/Vulpi/_/Chocolate+Groove)
-* [takayan — Wither](https://www.last.fm/music/takayan/_/Wither)
-* [Phonon — emme](https://www.last.fm/music/Phonon/_/emme)
-* [Yung Spinach Cumshot — Subway Sexists](https://www.last.fm/music/Yung+Spinach+Cumshot/_/Subway+Sexists)<!-- LASTFM:END -->
+* [takayan — Wither](https://www.last.fm/music/takayan/_/Wither)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
