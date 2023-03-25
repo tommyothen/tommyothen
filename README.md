@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [takayan — Wither](https://www.last.fm/music/takayan/_/Wither)
+* [Phonon — emme](https://www.last.fm/music/Phonon/_/emme)
 * [Yung Spinach Cumshot — Subway Sexists](https://www.last.fm/music/Yung+Spinach+Cumshot/_/Subway+Sexists)
 * [Ninja Sex Party — No Reason Boner](https://www.last.fm/music/Ninja+Sex+Party/_/No+Reason+Boner)
-* [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)
-* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
-* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)<!-- LASTFM:END -->
+* [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
