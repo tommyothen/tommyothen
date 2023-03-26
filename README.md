@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)
-* [Sandu Ciorba — Pe cimpoi](https://www.last.fm/music/Sandu+Ciorba/_/Pe+cimpoi)
-* [Panjabi MC — Mundian to Bach Ke](https://www.last.fm/music/Panjabi+MC/_/Mundian+to+Bach+Ke)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [Yung Spinach Cumshot — Subway Sexists](https://www.last.fm/music/Yung+Spinach+Cumshot/_/Subway+Sexists)<!-- LASTFM:END -->
+* [Nigpro — GAY NIGGA HOURS &lpar;ANGRY&rpar;](https://www.last.fm/music/Nigpro/_/GAY+NIGGA+HOURS+&lpar;ANGRY&rpar;)
+* [Akira Complex — World Collapse](https://www.last.fm/music/Akira+Complex/_/World+Collapse)
+* [Loli in early 20s — 彼女が12-14年間自分を切](https://www.last.fm/music/Loli+in+early+20s/_/%E5%BD%BC%E5%A5%B3%E3%81%8C12-14%E5%B9%B4%E9%96%93%E8%87%AA%E5%88%86%E3%82%92%E5%88%87)
+* [Vieze Asbak — Meet Her At The Love Parade - Beuk Mix](https://www.last.fm/music/Vieze+Asbak/_/Meet+Her+At+The+Love+Parade+-+Beuk+Mix)
+* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
