@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [c0ncernn — the joke is on you](https://www.last.fm/music/c0ncernn/_/the+joke+is+on+you)
-* [susquatch — Spin The Words](https://www.last.fm/music/susquatch/_/Spin+The+Words)
-* [The Living Tombstone — What I Want](https://www.last.fm/music/The+Living+Tombstone/_/What+I+Want)
-* [Phoon — YOU!](https://www.last.fm/music/Phoon/_/YOU!)
-* [Mere Notilde — Now That I Have You](https://www.last.fm/music/Mere+Notilde/_/Now+That+I+Have+You)<!-- LASTFM:END -->
+* [Mega Mango — Boggle](https://www.last.fm/music/Mega+Mango/_/Boggle)
+* [fl.vco — megrim](https://www.last.fm/music/fl.vco/_/megrim)
+* [Aztech — Between the Soil &amp; Skyline](https://www.last.fm/music/Aztech/_/Between+the+Soil+&amp;+Skyline)
+* [Scuare — Hillside](https://www.last.fm/music/Scuare/_/Hillside)
+* [shane mesa — Lady Sunshine](https://www.last.fm/music/shane+mesa/_/Lady+Sunshine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
