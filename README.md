@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
 * [MC Virgins — Trap Anthem](https://www.last.fm/music/MC+Virgins/_/Trap+Anthem)
 * [Nigpro — GAY NIGGA HOURS &lpar;ANGRY&rpar;](https://www.last.fm/music/Nigpro/_/GAY+NIGGA+HOURS+&lpar;ANGRY&rpar;)
-* [Akira Complex — World Collapse](https://www.last.fm/music/Akira+Complex/_/World+Collapse)
-* [Loli in early 20s — 彼女が12-14年間自分を切](https://www.last.fm/music/Loli+in+early+20s/_/%E5%BD%BC%E5%A5%B3%E3%81%8C12-14%E5%B9%B4%E9%96%93%E8%87%AA%E5%88%86%E3%82%92%E5%88%87)<!-- LASTFM:END -->
+* [Akira Complex — World Collapse](https://www.last.fm/music/Akira+Complex/_/World+Collapse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
