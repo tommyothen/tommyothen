@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [lapix — Day by day - PSYQUI Remix](https://www.last.fm/music/lapix/_/Day+by+day+-+PSYQUI+Remix)
+* [IC3PEAK — Грустная сука](https://www.last.fm/music/IC3PEAK/_/%D0%93%D1%80%D1%83%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%81%D1%83%D0%BA%D0%B0)
 * [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
-* [Lieu — cant get out &lpar;fromtheheart&rpar;](https://www.last.fm/music/Lieu/_/cant+get+out+&lpar;fromtheheart&rpar;)
-* [BoxPlot — Escape With the Clouds &lpar;V.I.P&rpar;](https://www.last.fm/music/BoxPlot/_/Escape+With+the+Clouds+&lpar;V.I.P&rpar;)
-* [chase plato — SET YOU FREE](https://www.last.fm/music/chase+plato/_/SET+YOU+FREE)<!-- LASTFM:END -->
+* [Lieu — cant get out &lpar;fromtheheart&rpar;](https://www.last.fm/music/Lieu/_/cant+get+out+&lpar;fromtheheart&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
