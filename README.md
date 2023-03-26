@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
+* [NEEDY GIRL OVERDOSE — INTERNET YAMERO](https://www.last.fm/music/NEEDY+GIRL+OVERDOSE/_/INTERNET+YAMERO)
 * [Phonon — emme](https://www.last.fm/music/Phonon/_/emme)
 * [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
-* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
-* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
-* [t+pazolite — Marble](https://www.last.fm/music/t%252Bpazolite/_/Marble)<!-- LASTFM:END -->
+* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
