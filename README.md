@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
+* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
 * [Lieu — cant get out &lpar;fromtheheart&rpar;](https://www.last.fm/music/Lieu/_/cant+get+out+&lpar;fromtheheart&rpar;)
 * [BoxPlot — Escape With the Clouds &lpar;V.I.P&rpar;](https://www.last.fm/music/BoxPlot/_/Escape+With+the+Clouds+&lpar;V.I.P&rpar;)
-* [chase plato — SET YOU FREE](https://www.last.fm/music/chase+plato/_/SET+YOU+FREE)
-* [Vaeo — poison](https://www.last.fm/music/Vaeo/_/poison)
-* [Mega Mango — Boggle](https://www.last.fm/music/Mega+Mango/_/Boggle)<!-- LASTFM:END -->
+* [chase plato — SET YOU FREE](https://www.last.fm/music/chase+plato/_/SET+YOU+FREE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
