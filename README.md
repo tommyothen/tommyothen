@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Phonon — emme](https://www.last.fm/music/Phonon/_/emme)
 * [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
 * [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
 * [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
-* [t+pazolite — Marble](https://www.last.fm/music/t%252Bpazolite/_/Marble)
-* [lapix — Day by day - PSYQUI Remix](https://www.last.fm/music/lapix/_/Day+by+day+-+PSYQUI+Remix)<!-- LASTFM:END -->
+* [t+pazolite — Marble](https://www.last.fm/music/t%252Bpazolite/_/Marble)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
