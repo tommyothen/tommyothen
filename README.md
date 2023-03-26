@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
 * [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
 * [Ludicin — Fallen Symphony](https://www.last.fm/music/Ludicin/_/Fallen+Symphony)
 * [Phonon — emme](https://www.last.fm/music/Phonon/_/emme)
-* [GPF — Broccoli Fuck](https://www.last.fm/music/GPF/_/Broccoli+Fuck)
-* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)<!-- LASTFM:END -->
+* [GPF — Broccoli Fuck](https://www.last.fm/music/GPF/_/Broccoli+Fuck)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
