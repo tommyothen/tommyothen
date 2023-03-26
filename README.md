@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [PSYQUI — Education](https://www.last.fm/music/PSYQUI/_/Education)
-* [kaz moon — Furious](https://www.last.fm/music/kaz+moon/_/Furious)
-* [Frost Children — FOX BOP](https://www.last.fm/music/Frost+Children/_/FOX+BOP)
-* [Vulpi — Chocolate Groove](https://www.last.fm/music/Vulpi/_/Chocolate+Groove)<!-- LASTFM:END -->
+* [c0ncernn — the joke is on you](https://www.last.fm/music/c0ncernn/_/the+joke+is+on+you)
+* [susquatch — Spin The Words](https://www.last.fm/music/susquatch/_/Spin+The+Words)
+* [The Living Tombstone — What I Want](https://www.last.fm/music/The+Living+Tombstone/_/What+I+Want)
+* [Phoon — YOU!](https://www.last.fm/music/Phoon/_/YOU!)
+* [Mere Notilde — Now That I Have You](https://www.last.fm/music/Mere+Notilde/_/Now+That+I+Have+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
