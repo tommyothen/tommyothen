@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mega Mango — Boggle](https://www.last.fm/music/Mega+Mango/_/Boggle)
-* [fl.vco — megrim](https://www.last.fm/music/fl.vco/_/megrim)
-* [Aztech — Between the Soil &amp; Skyline](https://www.last.fm/music/Aztech/_/Between+the+Soil+&amp;+Skyline)
-* [Scuare — Hillside](https://www.last.fm/music/Scuare/_/Hillside)
-* [shane mesa — Lady Sunshine](https://www.last.fm/music/shane+mesa/_/Lady+Sunshine)<!-- LASTFM:END -->
+* [Lieu — cant get out &lpar;fromtheheart&rpar;](https://www.last.fm/music/Lieu/_/cant+get+out+&lpar;fromtheheart&rpar;)
+* [BoxPlot — Escape With the Clouds &lpar;V.I.P&rpar;](https://www.last.fm/music/BoxPlot/_/Escape+With+the+Clouds+&lpar;V.I.P&rpar;)
+* [chase plato — SET YOU FREE](https://www.last.fm/music/chase+plato/_/SET+YOU+FREE)
+* [Vaeo — poison](https://www.last.fm/music/Vaeo/_/poison)
+* [Mega Mango — Boggle](https://www.last.fm/music/Mega+Mango/_/Boggle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
