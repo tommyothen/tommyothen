@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
+* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
 * [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)
 * [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
-* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)
-* [TWICE — TT](https://www.last.fm/music/TWICE/_/TT)
-* [Jennie — SOLO](https://www.last.fm/music/Jennie/_/SOLO)<!-- LASTFM:END -->
+* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
