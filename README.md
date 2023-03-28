@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — TT](https://www.last.fm/music/TWICE/_/TT)
+* [Jennie — SOLO](https://www.last.fm/music/Jennie/_/SOLO)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
-* [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)<!-- LASTFM:END -->
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
