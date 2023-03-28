@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
+* [Phonon — emme](https://www.last.fm/music/Phonon/_/emme)
 * [Gippeul — Red Sun In The Sky](https://www.last.fm/music/Gippeul/_/Red+Sun+In+The+Sky)
 * [Phonon — emme](https://www.last.fm/music/Phonon/_/emme)
-* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
-* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
-* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)<!-- LASTFM:END -->
+* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
