@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
-* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
-* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
-* [Havelock — SCRAMBLED](https://www.last.fm/music/Havelock/_/SCRAMBLED)
-* [Kloud — Dark Down Below](https://www.last.fm/music/Kloud/_/Dark+Down+Below)<!-- LASTFM:END -->
+* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
+* [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
