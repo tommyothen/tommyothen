@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
+* [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
 * [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
 * [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
-* [Phonon — emme](https://www.last.fm/music/Phonon/_/emme)<!-- LASTFM:END -->
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
