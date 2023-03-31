@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vieze Asbak — Meet Her At The Love Parade - Beuk Mix](https://www.last.fm/music/Vieze+Asbak/_/Meet+Her+At+The+Love+Parade+-+Beuk+Mix)
+* [Folie — cortisol](https://www.last.fm/music/Folie/_/cortisol)
+* [Minecraft King27 — Notch&#39;s Plan](https://www.last.fm/music/Minecraft+King27/_/Notch%27s+Plan)
 * [Turbo Thomas — Angry Birds Rave](https://www.last.fm/music/Turbo+Thomas/_/Angry+Birds+Rave)
-* [Ryuven — The Rumbling &lpar;From &quot;Attack on Titan&quot;&rpar;](https://www.last.fm/music/Ryuven/_/The+Rumbling+&lpar;From+%22Attack+on+Titan%22&rpar;)
-* [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)
-* [La Caution — Thé à la menthe](https://www.last.fm/music/La+Caution/_/Th%C3%A9+%C3%A0+la+menthe)
-* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)<!-- LASTFM:END -->
+* [Ryuven — The Rumbling &lpar;From &quot;Attack on Titan&quot;&rpar;](https://www.last.fm/music/Ryuven/_/The+Rumbling+&lpar;From+%22Attack+on+Titan%22&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
