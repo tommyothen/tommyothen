@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Darkie — rap music](https://www.last.fm/music/Lil+Darkie/_/rap+music)
+* [Outerspass — Sprechen Sie Deutsch, Bitch?](https://www.last.fm/music/Outerspass/_/Sprechen+Sie+Deutsch,+Bitch%3F)
 * [Verbalase — Tetris - Beatbox](https://www.last.fm/music/Verbalase/_/Tetris+-+Beatbox)
 * [Lümi — Sucky Sucky &lpar;Love Me Long Time&rpar;](https://www.last.fm/music/L%C3%BCmi/_/Sucky+Sucky+&lpar;Love+Me+Long+Time&rpar;)
-* [Goth Von Core — Kay-LynnX10](https://www.last.fm/music/Goth+Von+Core/_/Kay-LynnX10)
-* [Drip Central — Rick Hentai](https://www.last.fm/music/Drip+Central/_/Rick+Hentai)
-* [Manuel — GAS GAS GAS - EXTENDED MIX](https://www.last.fm/music/Manuel/_/GAS+GAS+GAS+-+EXTENDED+MIX)<!-- LASTFM:END -->
+* [Goth Von Core — Kay-LynnX10](https://www.last.fm/music/Goth+Von+Core/_/Kay-LynnX10)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
