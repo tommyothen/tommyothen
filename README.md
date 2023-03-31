@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [UNDEAD CORPORATION DOUJIN WORKS — Embraced by the Flame](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Embraced+by+the+Flame)
+* [Camellia — Light it up](https://www.last.fm/music/Camellia/_/Light+it+up)
 * [Nanahira — Ange Du Blanc Pur](https://www.last.fm/music/Nanahira/_/Ange+Du+Blanc+Pur)
 * [PSYQUI — Hype](https://www.last.fm/music/PSYQUI/_/Hype)
-* [PSYQUI — hype - lapix Remix](https://www.last.fm/music/PSYQUI/_/hype+-+lapix+Remix)
-* [Camellia — Newspapers for Magicians](https://www.last.fm/music/Camellia/_/Newspapers+for+Magicians)
-* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)<!-- LASTFM:END -->
+* [PSYQUI — hype - lapix Remix](https://www.last.fm/music/PSYQUI/_/hype+-+lapix+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
