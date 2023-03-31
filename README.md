@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Five Star Hotel — Parallel Deserts](https://www.last.fm/music/Five+Star+Hotel/_/Parallel+Deserts)
+* [Yheti — Now Is the Future](https://www.last.fm/music/Yheti/_/Now+Is+the+Future)
+* [Richard Cheese — My Neck My Back](https://www.last.fm/music/Richard+Cheese/_/My+Neck+My+Back)
 * [Lil Darkie — rap music](https://www.last.fm/music/Lil+Darkie/_/rap+music)
-* [Outerspass — Sprechen Sie Deutsch, Bitch?](https://www.last.fm/music/Outerspass/_/Sprechen+Sie+Deutsch,+Bitch%3F)
-* [Verbalase — Tetris - Beatbox](https://www.last.fm/music/Verbalase/_/Tetris+-+Beatbox)
-* [Lümi — Sucky Sucky &lpar;Love Me Long Time&rpar;](https://www.last.fm/music/L%C3%BCmi/_/Sucky+Sucky+&lpar;Love+Me+Long+Time&rpar;)
-* [Goth Von Core — Kay-LynnX10](https://www.last.fm/music/Goth+Von+Core/_/Kay-LynnX10)<!-- LASTFM:END -->
+* [Outerspass — Sprechen Sie Deutsch, Bitch?](https://www.last.fm/music/Outerspass/_/Sprechen+Sie+Deutsch,+Bitch%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
