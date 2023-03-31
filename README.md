@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Galneryus — Raise My Sword](https://www.last.fm/music/Galneryus/_/Raise+My+Sword)
 * [XI — Ascension to Heaven](https://www.last.fm/music/XI/_/Ascension+to+Heaven)
 * [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
 * [t+pazolite — Cheatreal](https://www.last.fm/music/t%252Bpazolite/_/Cheatreal)
-* [Gyze — HONESTY](https://www.last.fm/music/Gyze/_/HONESTY)
-* [Camellia — Compute It With Some Devilish Alcoholic Steampunk Engines](https://www.last.fm/music/Camellia/_/Compute+It+With+Some+Devilish+Alcoholic+Steampunk+Engines)<!-- LASTFM:END -->
+* [Gyze — HONESTY](https://www.last.fm/music/Gyze/_/HONESTY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
