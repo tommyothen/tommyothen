@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Miike Snow — Animal](https://www.last.fm/music/Miike+Snow/_/Animal)
+* [Walk the Moon — Shut Up and Dance](https://www.last.fm/music/Walk+the+Moon/_/Shut+Up+and+Dance)
 * [Vance Joy — Riptide](https://www.last.fm/music/Vance+Joy/_/Riptide)
 * [The Wombats — Moving To New York](https://www.last.fm/music/The+Wombats/_/Moving+To+New+York)
-* [The Dandy Warhols — Bohemian Like You](https://www.last.fm/music/The+Dandy+Warhols/_/Bohemian+Like+You)
-* [Jungle — Busy Earnin&#39;](https://www.last.fm/music/Jungle/_/Busy+Earnin%27)
-* [Modjo — Lady &lpar;Hear Me Tonight&rpar;](https://www.last.fm/music/Modjo/_/Lady+&lpar;Hear+Me+Tonight&rpar;)<!-- LASTFM:END -->
+* [The Dandy Warhols — Bohemian Like You](https://www.last.fm/music/The+Dandy+Warhols/_/Bohemian+Like+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
