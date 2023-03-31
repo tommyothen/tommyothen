@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Manuel — GAS GAS GAS - EXTENDED MIX](https://www.last.fm/music/Manuel/_/GAS+GAS+GAS+-+EXTENDED+MIX)
+* [Middle Milk — One Nipple at a Time](https://www.last.fm/music/Middle+Milk/_/One+Nipple+at+a+Time)
 * [Noma — Brain Power](https://www.last.fm/music/Noma/_/Brain+Power)
 * [Ralph Jet — Polish Toilet](https://www.last.fm/music/Ralph+Jet/_/Polish+Toilet)
-* [Froki Drip — Red Sun In The Sky | Drip](https://www.last.fm/music/Froki+Drip/_/Red+Sun+In+The+Sky+%7C+Drip)
-* [David Bowie — Starman - 2012 Remaster](https://www.last.fm/music/David+Bowie/_/Starman+-+2012+Remaster)
-* [Pavement — Harness Your Hopes - b-side](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+b-side)<!-- LASTFM:END -->
+* [Froki Drip — Red Sun In The Sky | Drip](https://www.last.fm/music/Froki+Drip/_/Red+Sun+In+The+Sky+%7C+Drip)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
