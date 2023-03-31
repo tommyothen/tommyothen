@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
+* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
+* [Maul — My Soldiers Rage](https://www.last.fm/music/Maul/_/My+Soldiers+Rage)
 * [Yilong Ma 火箭 — Yilong Ma VS John Xina](https://www.last.fm/music/Yilong+Ma+%E7%81%AB%E7%AE%AD/_/Yilong+Ma+VS+John+Xina)
-* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
-* [Vieze Asbak — Meet Her At The Love Parade - Beuk Mix](https://www.last.fm/music/Vieze+Asbak/_/Meet+Her+At+The+Love+Parade+-+Beuk+Mix)
-* [Folie — cortisol](https://www.last.fm/music/Folie/_/cortisol)
-* [Minecraft King27 — Notch&#39;s Plan](https://www.last.fm/music/Minecraft+King27/_/Notch%27s+Plan)<!-- LASTFM:END -->
+* [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
