@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Freezer — Berry Go!!](https://www.last.fm/music/Freezer/_/Berry+Go!!)
 * [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
 * [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)
 * [XI — Blue Zenith](https://www.last.fm/music/XI/_/Blue+Zenith)
-* [Panda Eyes — Immortal Flame](https://www.last.fm/music/Panda+Eyes/_/Immortal+Flame)
-* [Galneryus — Raise My Sword](https://www.last.fm/music/Galneryus/_/Raise+My+Sword)<!-- LASTFM:END -->
+* [Panda Eyes — Immortal Flame](https://www.last.fm/music/Panda+Eyes/_/Immortal+Flame)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
