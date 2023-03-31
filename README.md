@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jungle — Busy Earnin&#39;](https://www.last.fm/music/Jungle/_/Busy+Earnin%27)
+* [Modjo — Lady &lpar;Hear Me Tonight&rpar;](https://www.last.fm/music/Modjo/_/Lady+&lpar;Hear+Me+Tonight&rpar;)
 * [Daft Punk — Get Lucky &lpar;feat. Pharrell Williams &amp; Nile Rodgers&rpar; - Radio Edit](https://www.last.fm/music/Daft+Punk/_/Get+Lucky+&lpar;feat.+Pharrell+Williams+&amp;+Nile+Rodgers&rpar;+-+Radio+Edit)
 * [Stealers Wheel — Stuck in the Middle With You](https://www.last.fm/music/Stealers+Wheel/_/Stuck+in+the+Middle+With+You)
-* [Vampire Weekend — A-Punk](https://www.last.fm/music/Vampire+Weekend/_/A-Punk)
-* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
-* [Animals as Leaders — Physical Education](https://www.last.fm/music/Animals+as+Leaders/_/Physical+Education)<!-- LASTFM:END -->
+* [Vampire Weekend — A-Punk](https://www.last.fm/music/Vampire+Weekend/_/A-Punk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
