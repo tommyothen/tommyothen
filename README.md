@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Noma — Brain Power](https://www.last.fm/music/Noma/_/Brain+Power)
+* [Ralph Jet — Polish Toilet](https://www.last.fm/music/Ralph+Jet/_/Polish+Toilet)
+* [Froki Drip — Red Sun In The Sky | Drip](https://www.last.fm/music/Froki+Drip/_/Red+Sun+In+The+Sky+%7C+Drip)
 * [David Bowie — Starman - 2012 Remaster](https://www.last.fm/music/David+Bowie/_/Starman+-+2012+Remaster)
-* [Pavement — Harness Your Hopes - b-side](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+b-side)
-* [The Beach Boys — I Get Around &lpar;mono&rpar;](https://www.last.fm/music/The+Beach+Boys/_/I+Get+Around+&lpar;mono&rpar;)
-* [Of Monsters and Men — Little Talks](https://www.last.fm/music/Of+Monsters+and+Men/_/Little+Talks)
-* [Jack Peñate — Second, Minute or Hour](https://www.last.fm/music/Jack+Pe%C3%B1ate/_/Second,+Minute+or+Hour)<!-- LASTFM:END -->
+* [Pavement — Harness Your Hopes - b-side](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+b-side)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
