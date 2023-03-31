@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Beach Boys — I Get Around &lpar;mono&rpar;](https://www.last.fm/music/The+Beach+Boys/_/I+Get+Around+&lpar;mono&rpar;)
+* [Of Monsters and Men — Little Talks](https://www.last.fm/music/Of+Monsters+and+Men/_/Little+Talks)
 * [Jack Peñate — Second, Minute or Hour](https://www.last.fm/music/Jack+Pe%C3%B1ate/_/Second,+Minute+or+Hour)
 * [Supergrass — Alright](https://www.last.fm/music/Supergrass/_/Alright)
-* [Two Door Cinema Club — What You Know](https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know)
-* [Scouting for Girls — She&#39;s So Lovely](https://www.last.fm/music/Scouting+for+Girls/_/She%27s+So+Lovely)
-* [Miike Snow — Animal](https://www.last.fm/music/Miike+Snow/_/Animal)<!-- LASTFM:END -->
+* [Two Door Cinema Club — What You Know](https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
