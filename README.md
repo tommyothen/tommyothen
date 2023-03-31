@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Moltnz — Necro Fantasia](https://www.last.fm/music/Moltnz/_/Necro+Fantasia)
+* [Camellia — KillerBeast](https://www.last.fm/music/Camellia/_/KillerBeast)
 * [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
 * [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
-* [Maul — My Soldiers Rage](https://www.last.fm/music/Maul/_/My+Soldiers+Rage)
-* [Yilong Ma 火箭 — Yilong Ma VS John Xina](https://www.last.fm/music/Yilong+Ma+%E7%81%AB%E7%AE%AD/_/Yilong+Ma+VS+John+Xina)<!-- LASTFM:END -->
+* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
