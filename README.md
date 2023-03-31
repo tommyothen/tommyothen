@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gyze — HONESTY](https://www.last.fm/music/Gyze/_/HONESTY)
 * [Camellia — Compute It With Some Devilish Alcoholic Steampunk Engines](https://www.last.fm/music/Camellia/_/Compute+It+With+Some+Devilish+Alcoholic+Steampunk+Engines)
 * [Camellia — M1LLI0N PP](https://www.last.fm/music/Camellia/_/M1LLI0N+PP)
 * [Moltnz — Necro Fantasia](https://www.last.fm/music/Moltnz/_/Necro+Fantasia)
-* [Camellia — KillerBeast](https://www.last.fm/music/Camellia/_/KillerBeast)
-* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)<!-- LASTFM:END -->
+* [Camellia — KillerBeast](https://www.last.fm/music/Camellia/_/KillerBeast)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
