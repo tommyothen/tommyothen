@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Daft Punk — Get Lucky &lpar;feat. Pharrell Williams &amp; Nile Rodgers&rpar; - Radio Edit](https://www.last.fm/music/Daft+Punk/_/Get+Lucky+&lpar;feat.+Pharrell+Williams+&amp;+Nile+Rodgers&rpar;+-+Radio+Edit)
+* [Stealers Wheel — Stuck in the Middle With You](https://www.last.fm/music/Stealers+Wheel/_/Stuck+in+the+Middle+With+You)
 * [Vampire Weekend — A-Punk](https://www.last.fm/music/Vampire+Weekend/_/A-Punk)
 * [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
-* [Animals as Leaders — Physical Education](https://www.last.fm/music/Animals+as+Leaders/_/Physical+Education)
-* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
-* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)<!-- LASTFM:END -->
+* [Animals as Leaders — Physical Education](https://www.last.fm/music/Animals+as+Leaders/_/Physical+Education)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
