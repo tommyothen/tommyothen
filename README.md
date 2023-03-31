@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vieze Asbak — Erika Uit Langenboom - Uptempo Braak Mix](https://www.last.fm/music/Vieze+Asbak/_/Erika+Uit+Langenboom+-+Uptempo+Braak+Mix)
+* [Phonon — emme](https://www.last.fm/music/Phonon/_/emme)
 * [Hot Butter — Popcorn](https://www.last.fm/music/Hot+Butter/_/Popcorn)
 * [Folie — cortisol](https://www.last.fm/music/Folie/_/cortisol)
-* [Five Star Hotel — Parallel Deserts](https://www.last.fm/music/Five+Star+Hotel/_/Parallel+Deserts)
-* [Yheti — Now Is the Future](https://www.last.fm/music/Yheti/_/Now+Is+the+Future)
-* [Richard Cheese — My Neck My Back](https://www.last.fm/music/Richard+Cheese/_/My+Neck+My+Back)<!-- LASTFM:END -->
+* [Five Star Hotel — Parallel Deserts](https://www.last.fm/music/Five+Star+Hotel/_/Parallel+Deserts)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
