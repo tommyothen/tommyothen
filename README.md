@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Panda Eyes — Immortal Flame](https://www.last.fm/music/Panda+Eyes/_/Immortal+Flame)
 * [Galneryus — Raise My Sword](https://www.last.fm/music/Galneryus/_/Raise+My+Sword)
 * [XI — Ascension to Heaven](https://www.last.fm/music/XI/_/Ascension+to+Heaven)
 * [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
-* [t+pazolite — Cheatreal](https://www.last.fm/music/t%252Bpazolite/_/Cheatreal)
-* [Gyze — HONESTY](https://www.last.fm/music/Gyze/_/HONESTY)<!-- LASTFM:END -->
+* [t+pazolite — Cheatreal](https://www.last.fm/music/t%252Bpazolite/_/Cheatreal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
