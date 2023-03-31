@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rejection — Signal](https://www.last.fm/music/Rejection/_/Signal)
 * [THE ORAL CIGARETTES — Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!)
 * [THE ORAL CIGARETTES — Mouiikai?](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Mouiikai%3F)
 * [UNDEAD CORPORATION DOUJIN WORKS — Embraced by the Flame](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Embraced+by+the+Flame)
-* [Camellia — Light it up](https://www.last.fm/music/Camellia/_/Light+it+up)
-* [Nanahira — Ange Du Blanc Pur](https://www.last.fm/music/Nanahira/_/Ange+Du+Blanc+Pur)<!-- LASTFM:END -->
+* [Camellia — Light it up](https://www.last.fm/music/Camellia/_/Light+it+up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
