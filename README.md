@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [THE ORAL CIGARETTES — Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!)
+* [t+pazolite — Pumpin&#39; Junkies](https://www.last.fm/music/t%252Bpazolite/_/Pumpin%27+Junkies)
+* [Kobaryo — Tool-Assisted Speedcore &lpar;TQBF Frame Advance RMX&rpar;](https://www.last.fm/music/Kobaryo/_/Tool-Assisted+Speedcore+&lpar;TQBF+Frame+Advance+RMX&rpar;)
 * [Telekinesis — The Monk](https://www.last.fm/music/Telekinesis/_/The+Monk)
-* [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)
-* [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)
-* [VINXIS — Sidetracked Day](https://www.last.fm/music/VINXIS/_/Sidetracked+Day)
-* [Nanahira — Bassdrop Freaks - Long Ver.](https://www.last.fm/music/Nanahira/_/Bassdrop+Freaks+-+Long+Ver.)<!-- LASTFM:END -->
+* [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
