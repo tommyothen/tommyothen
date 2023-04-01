@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Reol — アシンメトリー](https://www.last.fm/music/Reol/_/%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC)
 * [Camellia — GHOST](https://www.last.fm/music/Camellia/_/GHOST)
 * [hitorie — アンノウン・マザーグース](https://www.last.fm/music/hitorie/_/%E3%82%A2%E3%83%B3%E3%83%8E%E3%82%A6%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B6%E3%83%BC%E3%82%B0%E3%83%BC%E3%82%B9)
 * [Soooo — iiillluuuvvvUUU](https://www.last.fm/music/Soooo/_/iiillluuuvvvUUU)
-* [THE ORAL CIGARETTES — Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!)
-* [t+pazolite — Pumpin&#39; Junkies](https://www.last.fm/music/t%252Bpazolite/_/Pumpin%27+Junkies)<!-- LASTFM:END -->
+* [THE ORAL CIGARETTES — Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
