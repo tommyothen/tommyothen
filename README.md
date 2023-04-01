@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — GHOST](https://www.last.fm/music/Camellia/_/GHOST)
+* [hitorie — アンノウン・マザーグース](https://www.last.fm/music/hitorie/_/%E3%82%A2%E3%83%B3%E3%83%8E%E3%82%A6%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B6%E3%83%BC%E3%82%B0%E3%83%BC%E3%82%B9)
+* [Soooo — iiillluuuvvvUUU](https://www.last.fm/music/Soooo/_/iiillluuuvvvUUU)
 * [THE ORAL CIGARETTES — Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!)
-* [t+pazolite — Pumpin&#39; Junkies](https://www.last.fm/music/t%252Bpazolite/_/Pumpin%27+Junkies)
-* [Kobaryo — Tool-Assisted Speedcore &lpar;TQBF Frame Advance RMX&rpar;](https://www.last.fm/music/Kobaryo/_/Tool-Assisted+Speedcore+&lpar;TQBF+Frame+Advance+RMX&rpar;)
-* [Telekinesis — The Monk](https://www.last.fm/music/Telekinesis/_/The+Monk)
-* [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)<!-- LASTFM:END -->
+* [t+pazolite — Pumpin&#39; Junkies](https://www.last.fm/music/t%252Bpazolite/_/Pumpin%27+Junkies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
