@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
+* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
 * [Camellia — Compute It With Some Devilish Alcoholic Steampunk Engines](https://www.last.fm/music/Camellia/_/Compute+It+With+Some+Devilish+Alcoholic+Steampunk+Engines)
 * [Camellia — WYSI -When You See It-](https://www.last.fm/music/Camellia/_/WYSI+-When+You+See+It-)
-* [t+pazolite — Call Me It.](https://www.last.fm/music/t%252Bpazolite/_/Call+Me+It.)
-* [UNDEAD CORPORATION DOUJIN WORKS — Everything will freeze -Guitar Instrumental-](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Everything+will+freeze+-Guitar+Instrumental-)
-* [XI — Halcyon](https://www.last.fm/music/XI/_/Halcyon)<!-- LASTFM:END -->
+* [t+pazolite — Call Me It.](https://www.last.fm/music/t%252Bpazolite/_/Call+Me+It.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
