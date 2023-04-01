@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)
+* [Imperial Circus Dead Decadence — 黄泉より聴こゆ、皇国の燈と焔の少女。](https://www.last.fm/music/Imperial+Circus+Dead+Decadence/_/%E9%BB%84%E6%B3%89%E3%82%88%E3%82%8A%E8%81%B4%E3%81%93%E3%82%86%E3%80%81%E7%9A%87%E5%9B%BD%E3%81%AE%E7%87%88%E3%81%A8%E7%84%94%E3%81%AE%E5%B0%91%E5%A5%B3%E3%80%82)
 * [MiMi — Ai no Sukima](https://www.last.fm/music/MiMi/_/Ai+no+Sukima)
 * [BABYMETAL — Road of Resistance](https://www.last.fm/music/BABYMETAL/_/Road+of+Resistance)
-* [hitorie — アンノウン・マザーグース](https://www.last.fm/music/hitorie/_/%E3%82%A2%E3%83%B3%E3%83%8E%E3%82%A6%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B6%E3%83%BC%E3%82%B0%E3%83%BC%E3%82%B9)
-* [Rejection — Signal](https://www.last.fm/music/Rejection/_/Signal)
-* [THE ORAL CIGARETTES — Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!)<!-- LASTFM:END -->
+* [hitorie — アンノウン・マザーグース](https://www.last.fm/music/hitorie/_/%E3%82%A2%E3%83%B3%E3%83%8E%E3%82%A6%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B6%E3%83%BC%E3%82%B0%E3%83%BC%E3%82%B9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
