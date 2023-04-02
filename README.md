@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sean Kingston — Eenie Meenie](https://www.last.fm/music/Sean+Kingston/_/Eenie+Meenie)
+* [Taio Cruz — Dynamite](https://www.last.fm/music/Taio+Cruz/_/Dynamite)
 * [Mike Posner — Cooler Than Me](https://www.last.fm/music/Mike+Posner/_/Cooler+Than+Me)
 * [Kelly Clarkson — Stronger &lpar;What Doesn&#39;t Kill You&rpar;](https://www.last.fm/music/Kelly+Clarkson/_/Stronger+&lpar;What+Doesn%27t+Kill+You&rpar;)
-* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
-* [Justin Bieber — That Should Be Me](https://www.last.fm/music/Justin+Bieber/_/That+Should+Be+Me)
-* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)<!-- LASTFM:END -->
+* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
