@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Olly Murs — Troublemaker &lpar;feat. Flo Rida&rpar;](https://www.last.fm/music/Olly+Murs/_/Troublemaker+&lpar;feat.+Flo+Rida&rpar;)
 * [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
 * [Katy Perry — The One That Got Away](https://www.last.fm/music/Katy+Perry/_/The+One+That+Got+Away)
 * [Sean Kingston — Eenie Meenie](https://www.last.fm/music/Sean+Kingston/_/Eenie+Meenie)
-* [Taio Cruz — Dynamite](https://www.last.fm/music/Taio+Cruz/_/Dynamite)
-* [Mike Posner — Cooler Than Me](https://www.last.fm/music/Mike+Posner/_/Cooler+Than+Me)<!-- LASTFM:END -->
+* [Taio Cruz — Dynamite](https://www.last.fm/music/Taio+Cruz/_/Dynamite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
