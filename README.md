@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mike Posner — Cooler Than Me](https://www.last.fm/music/Mike+Posner/_/Cooler+Than+Me)
+* [Kelly Clarkson — Stronger &lpar;What Doesn&#39;t Kill You&rpar;](https://www.last.fm/music/Kelly+Clarkson/_/Stronger+&lpar;What+Doesn%27t+Kill+You&rpar;)
 * [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
 * [Justin Bieber — That Should Be Me](https://www.last.fm/music/Justin+Bieber/_/That+Should+Be+Me)
-* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)
-* [Selena Gomez &amp; the Scene — Who Says](https://www.last.fm/music/Selena+Gomez+&amp;+the+Scene/_/Who+Says)
-* [Christina Perri — Jar of Hearts](https://www.last.fm/music/Christina+Perri/_/Jar+of+Hearts)<!-- LASTFM:END -->
+* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
