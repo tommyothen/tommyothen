@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
 * [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
 * [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
 * [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [The Weeknd — Starboy](https://www.last.fm/music/The+Weeknd/_/Starboy)
-* [The Killers — Mr. Brightside](https://www.last.fm/music/The+Killers/_/Mr.+Brightside)<!-- LASTFM:END -->
+* [The Weeknd — Starboy](https://www.last.fm/music/The+Weeknd/_/Starboy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
