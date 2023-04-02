@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
 * [The Weeknd — Starboy](https://www.last.fm/music/The+Weeknd/_/Starboy)
 * [The Killers — Mr. Brightside](https://www.last.fm/music/The+Killers/_/Mr.+Brightside)
-* [Olly Murs — Troublemaker &lpar;feat. Flo Rida&rpar;](https://www.last.fm/music/Olly+Murs/_/Troublemaker+&lpar;feat.+Flo+Rida&rpar;)
-* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
-* [Katy Perry — The One That Got Away](https://www.last.fm/music/Katy+Perry/_/The+One+That+Got+Away)<!-- LASTFM:END -->
+* [Olly Murs — Troublemaker &lpar;feat. Flo Rida&rpar;](https://www.last.fm/music/Olly+Murs/_/Troublemaker+&lpar;feat.+Flo+Rida&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
