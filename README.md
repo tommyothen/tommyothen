@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [Taylor Swift — I Knew You Were Trouble.](https://www.last.fm/music/Taylor+Swift/_/I+Knew+You+Were+Trouble.)
 * [Shakira — Waka Waka &lpar;This Time For Africa&rpar; - K-Mix](https://www.last.fm/music/Shakira/_/Waka+Waka+&lpar;This+Time+For+Africa&rpar;+-+K-Mix)
 * [Pitbull — Give Me Everything](https://www.last.fm/music/Pitbull/_/Give+Me+Everything)
-* [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)
-* [Kesha — TiK ToK](https://www.last.fm/music/Kesha/_/TiK+ToK)
-* [Flo Rida — Whistle](https://www.last.fm/music/Flo+Rida/_/Whistle)<!-- LASTFM:END -->
+* [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
