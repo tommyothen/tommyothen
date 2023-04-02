@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Macklemore &amp; Ryan Lewis — Can&#39;t Hold Us &lpar;feat. Ray Dalton&rpar;](https://www.last.fm/music/Macklemore+&amp;+Ryan+Lewis/_/Can%27t+Hold+Us+&lpar;feat.+Ray+Dalton&rpar;)
+* [Black Eyed Peas — Imma Be](https://www.last.fm/music/Black+Eyed+Peas/_/Imma+Be)
+* [The Weeknd — Die for You](https://www.last.fm/music/The+Weeknd/_/Die+for+You)
 * [Maroon 5 — This Love](https://www.last.fm/music/Maroon+5/_/This+Love)
-* [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)
-* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
-* [Taylor Swift — Blank Space](https://www.last.fm/music/Taylor+Swift/_/Blank+Space)
-* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)<!-- LASTFM:END -->
+* [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
