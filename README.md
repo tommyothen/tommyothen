@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bruno Mars — Locked Out of Heaven](https://www.last.fm/music/Bruno+Mars/_/Locked+Out+of+Heaven)
 * [Journey — Don&#39;t Stop Believin&#39;](https://www.last.fm/music/Journey/_/Don%27t+Stop+Believin%27)
 * [Taylor Swift — Red](https://www.last.fm/music/Taylor+Swift/_/Red)
 * [Nicki Minaj — Starships](https://www.last.fm/music/Nicki+Minaj/_/Starships)
-* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)
-* [Tyler, the Creator — See You Again &lpar;feat. Kali Uchis&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+&lpar;feat.+Kali+Uchis&rpar;)<!-- LASTFM:END -->
+* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
