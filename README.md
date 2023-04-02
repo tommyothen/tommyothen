@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Maroon 5 — This Love](https://www.last.fm/music/Maroon+5/_/This+Love)
 * [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)
 * [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
 * [Taylor Swift — Blank Space](https://www.last.fm/music/Taylor+Swift/_/Blank+Space)
-* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
-* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)<!-- LASTFM:END -->
+* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
