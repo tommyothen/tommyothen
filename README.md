@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — We Are Never Ever Getting Back Together](https://www.last.fm/music/Taylor+Swift/_/We+Are+Never+Ever+Getting+Back+Together)
+* [One Direction — What Makes You Beautiful](https://www.last.fm/music/One+Direction/_/What+Makes+You+Beautiful)
 * [Katy Perry — Last Friday Night &lpar;T.G.I.F.&rpar;](https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+&lpar;T.G.I.F.&rpar;)
 * [Macklemore &amp; Ryan Lewis — Can&#39;t Hold Us &lpar;feat. Ray Dalton&rpar;](https://www.last.fm/music/Macklemore+&amp;+Ryan+Lewis/_/Can%27t+Hold+Us+&lpar;feat.+Ray+Dalton&rpar;)
-* [Black Eyed Peas — Imma Be](https://www.last.fm/music/Black+Eyed+Peas/_/Imma+Be)
-* [The Weeknd — Die for You](https://www.last.fm/music/The+Weeknd/_/Die+for+You)
-* [Maroon 5 — This Love](https://www.last.fm/music/Maroon+5/_/This+Love)<!-- LASTFM:END -->
+* [Black Eyed Peas — Imma Be](https://www.last.fm/music/Black+Eyed+Peas/_/Imma+Be)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
