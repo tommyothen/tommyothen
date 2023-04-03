@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
+* [Slipknot — The Devil in I](https://www.last.fm/music/Slipknot/_/The+Devil+in+I)
 * [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
 * [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [The Weeknd — Starboy](https://www.last.fm/music/The+Weeknd/_/Starboy)<!-- LASTFM:END -->
+* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
