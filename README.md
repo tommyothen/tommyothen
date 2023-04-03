@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
+* [Saib — Smooth](https://www.last.fm/music/Saib/_/Smooth)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Slipknot — The Devil in I](https://www.last.fm/music/Slipknot/_/The+Devil+in+I)
-* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)
-* [Slipknot — Snuff](https://www.last.fm/music/Slipknot/_/Snuff)
-* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
-* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)<!-- LASTFM:END -->
+* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
