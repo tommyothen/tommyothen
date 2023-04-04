@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — Shut Down](https://www.last.fm/music/BLACKPINK/_/Shut+Down)
 * [LE SSERAFIM — Blue Flame](https://www.last.fm/music/LE+SSERAFIM/_/Blue+Flame)
 * [Loona — PTT &lpar;Paint the Town&rpar;](https://www.last.fm/music/Loona/_/PTT+&lpar;Paint+the+Town&rpar;)
 * [Solar — HONEY](https://www.last.fm/music/Solar/_/HONEY)
-* [TWICE — KNOCK KNOCK](https://www.last.fm/music/TWICE/_/KNOCK+KNOCK)
-* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)<!-- LASTFM:END -->
+* [TWICE — KNOCK KNOCK](https://www.last.fm/music/TWICE/_/KNOCK+KNOCK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
