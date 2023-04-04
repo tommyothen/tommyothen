@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Solar — HONEY](https://www.last.fm/music/Solar/_/HONEY)
+* [TWICE — KNOCK KNOCK](https://www.last.fm/music/TWICE/_/KNOCK+KNOCK)
 * [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)
 * [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)
-* [DPR LIVE — Jasmine](https://www.last.fm/music/DPR+LIVE/_/Jasmine)
-* [Loona — HULA HOOP](https://www.last.fm/music/Loona/_/HULA+HOOP)
-* [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)<!-- LASTFM:END -->
+* [DPR LIVE — Jasmine](https://www.last.fm/music/DPR+LIVE/_/Jasmine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
