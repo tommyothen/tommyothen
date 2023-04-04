@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — CRY FOR ME](https://www.last.fm/music/TWICE/_/CRY+FOR+ME)
+* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
 * [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
 * [YUKIKA — NEON 1989](https://www.last.fm/music/YUKIKA/_/NEON+1989)
-* [DPR LIVE — Action! &lpar;feat. GRAY&rpar;](https://www.last.fm/music/DPR+LIVE/_/Action!+&lpar;feat.+GRAY&rpar;)
-* [Loona — Why Not?](https://www.last.fm/music/Loona/_/Why+Not%3F)
-* [TWICE — SET ME FREE](https://www.last.fm/music/TWICE/_/SET+ME+FREE)<!-- LASTFM:END -->
+* [DPR LIVE — Action! &lpar;feat. GRAY&rpar;](https://www.last.fm/music/DPR+LIVE/_/Action!+&lpar;feat.+GRAY&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
