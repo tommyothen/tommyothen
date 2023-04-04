@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
+* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
 * [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
 * [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
-* [Key — Show Me](https://www.last.fm/music/Key/_/Show+Me)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [Everglow — Bon Bon Chocolat](https://www.last.fm/music/Everglow/_/Bon+Bon+Chocolat)<!-- LASTFM:END -->
+* [Key — Show Me](https://www.last.fm/music/Key/_/Show+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
