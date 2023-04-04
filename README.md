@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — WOW](https://www.last.fm/music/Loona/_/WOW)
+* [LE SSERAFIM — Sour Grapes](https://www.last.fm/music/LE+SSERAFIM/_/Sour+Grapes)
 * [BLACKPINK — Pink Venom](https://www.last.fm/music/BLACKPINK/_/Pink+Venom)
 * [DPR IAN — zombie pop](https://www.last.fm/music/DPR+IAN/_/zombie+pop)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [DPR LIVE — Martini Blue](https://www.last.fm/music/DPR+LIVE/_/Martini+Blue)
-* [Everglow — LA DI DA](https://www.last.fm/music/Everglow/_/LA+DI+DA)<!-- LASTFM:END -->
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
