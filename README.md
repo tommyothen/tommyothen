@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Red Velvet — Queendom](https://www.last.fm/music/Red+Velvet/_/Queendom)
+* [Loona — Butterfly](https://www.last.fm/music/Loona/_/Butterfly)
+* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
 * [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [LE SSERAFIM — Choices](https://www.last.fm/music/LE+SSERAFIM/_/Choices)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
-* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)<!-- LASTFM:END -->
+* [LE SSERAFIM — Choices](https://www.last.fm/music/LE+SSERAFIM/_/Choices)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
