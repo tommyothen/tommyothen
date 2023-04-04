@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
+* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
 * [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)
 * [Woosung — FACE](https://www.last.fm/music/Woosung/_/FACE)
-* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)
-* [Solar — SPIT IT OUT](https://www.last.fm/music/Solar/_/SPIT+IT+OUT)
-* [WONHO — OPEN MIND](https://www.last.fm/music/WONHO/_/OPEN+MIND)<!-- LASTFM:END -->
+* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
