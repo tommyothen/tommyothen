@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
+* [DPR LIVE — Martini Blue](https://www.last.fm/music/DPR+LIVE/_/Martini+Blue)
 * [Everglow — LA DI DA](https://www.last.fm/music/Everglow/_/LA+DI+DA)
 * [LE SSERAFIM — The Great Mermaid](https://www.last.fm/music/LE+SSERAFIM/_/The+Great+Mermaid)
-* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
-* [STAYC — STEREOTYPE](https://www.last.fm/music/STAYC/_/STEREOTYPE)
-* [TWICE — TT](https://www.last.fm/music/TWICE/_/TT)<!-- LASTFM:END -->
+* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
