@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — SET ME FREE](https://www.last.fm/music/TWICE/_/SET+ME+FREE)
+* [Everglow — Bon Bon Chocolat](https://www.last.fm/music/Everglow/_/Bon+Bon+Chocolat)
 * [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
 * [BLACKPINK — Typa Girl](https://www.last.fm/music/BLACKPINK/_/Typa+Girl)
-* [Red Velvet — Queendom](https://www.last.fm/music/Red+Velvet/_/Queendom)
-* [Loona — Butterfly](https://www.last.fm/music/Loona/_/Butterfly)
-* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)<!-- LASTFM:END -->
+* [Red Velvet — Queendom](https://www.last.fm/music/Red+Velvet/_/Queendom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
