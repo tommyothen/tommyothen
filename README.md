@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — Feel Special](https://www.last.fm/music/TWICE/_/Feel+Special)
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
 * [Red Velvet — Peek-A-Boo](https://www.last.fm/music/Red+Velvet/_/Peek-A-Boo)
-* [DPR LIVE — THIRST](https://www.last.fm/music/DPR+LIVE/_/THIRST)
-* [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
-* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)<!-- LASTFM:END -->
+* [DPR LIVE — THIRST](https://www.last.fm/music/DPR+LIVE/_/THIRST)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
