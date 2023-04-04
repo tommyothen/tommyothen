@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LE SSERAFIM — FEARLESS](https://www.last.fm/music/LE+SSERAFIM/_/FEARLESS)
+* [Loona — Flip That](https://www.last.fm/music/Loona/_/Flip+That)
+* [Red Velvet — Bad Boy](https://www.last.fm/music/Red+Velvet/_/Bad+Boy)
 * [TWICE — Talk that Talk](https://www.last.fm/music/TWICE/_/Talk+that+Talk)
-* [NewJeans — Cookie](https://www.last.fm/music/NewJeans/_/Cookie)
-* [BLACKPINK — Shut Down](https://www.last.fm/music/BLACKPINK/_/Shut+Down)
-* [LE SSERAFIM — Blue Flame](https://www.last.fm/music/LE+SSERAFIM/_/Blue+Flame)
-* [Loona — PTT &lpar;Paint the Town&rpar;](https://www.last.fm/music/Loona/_/PTT+&lpar;Paint+the+Town&rpar;)<!-- LASTFM:END -->
+* [NewJeans — Cookie](https://www.last.fm/music/NewJeans/_/Cookie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
