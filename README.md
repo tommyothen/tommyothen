@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — Talk that Talk](https://www.last.fm/music/TWICE/_/Talk+that+Talk)
 * [Yena — SMILEY&lpar;Feat. BIBI&rpar;](https://www.last.fm/music/Yena/_/SMILEY&lpar;Feat.+BIBI&rpar;)
 * [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)
 * [NewJeans — Hurt](https://www.last.fm/music/NewJeans/_/Hurt)
-* [CODE KUNST — rain bird interlude](https://www.last.fm/music/CODE+KUNST/_/rain+bird+interlude)
-* [Bibi — MotoSpeed 24](https://www.last.fm/music/Bibi/_/MotoSpeed+24)<!-- LASTFM:END -->
+* [CODE KUNST — rain bird interlude](https://www.last.fm/music/CODE+KUNST/_/rain+bird+interlude)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
