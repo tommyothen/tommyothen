@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — HULA HOOP](https://www.last.fm/music/Loona/_/HULA+HOOP)
+* [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)
+* [TWICE — SIGNAL](https://www.last.fm/music/TWICE/_/SIGNAL)
 * [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
-* [Red Velvet — Psycho](https://www.last.fm/music/Red+Velvet/_/Psycho)
-* [AOA — Miniskirt](https://www.last.fm/music/AOA/_/Miniskirt)
-* [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)
-* [LE SSERAFIM — Impurities](https://www.last.fm/music/LE+SSERAFIM/_/Impurities)<!-- LASTFM:END -->
+* [Red Velvet — Psycho](https://www.last.fm/music/Red+Velvet/_/Psycho)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
