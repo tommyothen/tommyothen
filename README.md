@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [&lpar;G&rpar;I-DLE — Nxde](https://www.last.fm/music/&lpar;G&rpar;I-DLE/_/Nxde)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [Fujii Kaze — Shinunoga E-Wa](https://www.last.fm/music/Fujii+Kaze/_/Shinunoga+E-Wa)
-* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
-* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)<!-- LASTFM:END -->
+* [NewJeans — Hurt](https://www.last.fm/music/NewJeans/_/Hurt)
+* [CODE KUNST — rain bird interlude](https://www.last.fm/music/CODE+KUNST/_/rain+bird+interlude)
+* [Bibi — MotoSpeed 24](https://www.last.fm/music/Bibi/_/MotoSpeed+24)
+* [STAYC — Poppy &lpar;Korean Ver.&rpar;](https://www.last.fm/music/STAYC/_/Poppy+&lpar;Korean+Ver.&rpar;)
+* [&lpar;G&rpar;I-DLE — Nxde](https://www.last.fm/music/&lpar;G&rpar;I-DLE/_/Nxde)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
