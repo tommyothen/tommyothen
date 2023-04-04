@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
+* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)
 * [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
 * [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
-* [TWICE — CRY FOR ME](https://www.last.fm/music/TWICE/_/CRY+FOR+ME)
-* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
-* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)<!-- LASTFM:END -->
+* [TWICE — CRY FOR ME](https://www.last.fm/music/TWICE/_/CRY+FOR+ME)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
