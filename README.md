@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
-* [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)
-* [Woosung — FACE](https://www.last.fm/music/Woosung/_/FACE)
-* [Loona — ViViD](https://www.last.fm/music/Loona/_/ViViD)<!-- LASTFM:END -->
+* [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
