@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [EKKSTACY — I walk this earth all by myself](https://www.last.fm/music/EKKSTACY/_/I+walk+this+earth+all+by+myself)
+* [ThxSoMch — SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!)
 * [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
 * [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [SuperKek — After Dark - SpongeBob Demo Cover](https://www.last.fm/music/SuperKek/_/After+Dark+-+SpongeBob+Demo+Cover)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [UNDEAD CORPORATION DOUJIN WORKS — Embraced by the Flame](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Embraced+by+the+Flame)<!-- LASTFM:END -->
+* [SuperKek — After Dark - SpongeBob Demo Cover](https://www.last.fm/music/SuperKek/_/After+Dark+-+SpongeBob+Demo+Cover)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
