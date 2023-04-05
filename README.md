@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [InterWorld — METAMORPHOSIS - Sped Up](https://www.last.fm/music/InterWorld/_/METAMORPHOSIS+-+Sped+Up)
-* [Web — Giving My All 2 U](https://www.last.fm/music/Web/_/Giving+My+All+2+U)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
-* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)<!-- LASTFM:END -->
+* [DNMO — Sick Of You](https://www.last.fm/music/DNMO/_/Sick+Of+You)
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
+* [Home — Resonance](https://www.last.fm/music/Home/_/Resonance)
+* [EKKSTACY — it only gets worse, i promise](https://www.last.fm/music/EKKSTACY/_/it+only+gets+worse,+i+promise)
+* [InterWorld — METAMORPHOSIS - Sped Up](https://www.last.fm/music/InterWorld/_/METAMORPHOSIS+-+Sped+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
