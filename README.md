@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gyze — HONESTY](https://www.last.fm/music/Gyze/_/HONESTY)
 * [XI — Ascension to Heaven](https://www.last.fm/music/XI/_/Ascension+to+Heaven)
 * [XI — Halcyon](https://www.last.fm/music/XI/_/Halcyon)
 * [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
-* [Camellia — Nacreous Snowmelt](https://www.last.fm/music/Camellia/_/Nacreous+Snowmelt)
-* [Camellia — Light it up](https://www.last.fm/music/Camellia/_/Light+it+up)<!-- LASTFM:END -->
+* [Camellia — Nacreous Snowmelt](https://www.last.fm/music/Camellia/_/Nacreous+Snowmelt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
