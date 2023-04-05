@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
 * [Camellia — Nacreous Snowmelt](https://www.last.fm/music/Camellia/_/Nacreous+Snowmelt)
 * [Camellia — Light it up](https://www.last.fm/music/Camellia/_/Light+it+up)
 * [pinocchioP — SukiSukiSukiSukiSukiSukiSukiSukiSukiSuki](https://www.last.fm/music/pinocchioP/_/SukiSukiSukiSukiSukiSukiSukiSukiSukiSuki)
-* [XI — FREEDOM DiVE↓](https://www.last.fm/music/XI/_/FREEDOM+DiVE%E2%86%93)
-* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)<!-- LASTFM:END -->
+* [XI — FREEDOM DiVE↓](https://www.last.fm/music/XI/_/FREEDOM+DiVE%E2%86%93)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
