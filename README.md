@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — Nacreous Snowmelt](https://www.last.fm/music/Camellia/_/Nacreous+Snowmelt)
 * [Camellia — Light it up](https://www.last.fm/music/Camellia/_/Light+it+up)
 * [pinocchioP — SukiSukiSukiSukiSukiSukiSukiSukiSukiSuki](https://www.last.fm/music/pinocchioP/_/SukiSukiSukiSukiSukiSukiSukiSukiSukiSuki)
 * [XI — FREEDOM DiVE↓](https://www.last.fm/music/XI/_/FREEDOM+DiVE%E2%86%93)
-* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
-* [NMIXX — Love Me Like This](https://www.last.fm/music/NMIXX/_/Love+Me+Like+This)<!-- LASTFM:END -->
+* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
