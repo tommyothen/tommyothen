@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shiggy Jr. — oyasumi](https://www.last.fm/music/Shiggy+Jr./_/oyasumi)
+* [THE ORAL CIGARETTES — Mouiikai?](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Mouiikai%3F)
 * [Freezer — Berry Go!!](https://www.last.fm/music/Freezer/_/Berry+Go!!)
 * [PSYQUI — hype - lapix Remix](https://www.last.fm/music/PSYQUI/_/hype+-+lapix+Remix)
-* [Gyze — HONESTY](https://www.last.fm/music/Gyze/_/HONESTY)
-* [XI — Ascension to Heaven](https://www.last.fm/music/XI/_/Ascension+to+Heaven)
-* [XI — Halcyon](https://www.last.fm/music/XI/_/Halcyon)<!-- LASTFM:END -->
+* [Gyze — HONESTY](https://www.last.fm/music/Gyze/_/HONESTY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
