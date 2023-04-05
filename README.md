@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [EKKSTACY — I walk this earth all by myself](https://www.last.fm/music/EKKSTACY/_/I+walk+this+earth+all+by+myself)
-* [ThxSoMch — SPIT IN MY FACE!](https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
-* [SuperKek — After Dark - SpongeBob Demo Cover](https://www.last.fm/music/SuperKek/_/After+Dark+-+SpongeBob+Demo+Cover)<!-- LASTFM:END -->
+* [InterWorld — METAMORPHOSIS - Sped Up](https://www.last.fm/music/InterWorld/_/METAMORPHOSIS+-+Sped+Up)
+* [Web — Giving My All 2 U](https://www.last.fm/music/Web/_/Giving+My+All+2+U)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
+* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
