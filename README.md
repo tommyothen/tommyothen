@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
-* [Nina Kraviz — Surprise Me, I&#39;m Surprised Today](https://www.last.fm/music/Nina+Kraviz/_/Surprise+Me,+I%27m+Surprised+Today)
-* [namakopuri — PONPON SHIT](https://www.last.fm/music/namakopuri/_/PONPON+SHIT)
 * [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
-* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)<!-- LASTFM:END -->
+* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
+* [Nina Kraviz — Surprise Me, I&#39;m Surprised Today](https://www.last.fm/music/Nina+Kraviz/_/Surprise+Me,+I%27m+Surprised+Today)
+* [namakopuri — PONPON SHIT](https://www.last.fm/music/namakopuri/_/PONPON+SHIT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
