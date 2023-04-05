@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
 * [SuperKek — After Dark - SpongeBob Demo Cover](https://www.last.fm/music/SuperKek/_/After+Dark+-+SpongeBob+Demo+Cover)
 * [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [UNDEAD CORPORATION DOUJIN WORKS — Embraced by the Flame](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Embraced+by+the+Flame)
-* [Shiggy Jr. — oyasumi](https://www.last.fm/music/Shiggy+Jr./_/oyasumi)
-* [THE ORAL CIGARETTES — Mouiikai?](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Mouiikai%3F)<!-- LASTFM:END -->
+* [UNDEAD CORPORATION DOUJIN WORKS — Embraced by the Flame](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Embraced+by+the+Flame)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
