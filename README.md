@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cafuné — Tek It - Sped Up](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It+-+Sped+Up)
 * [DNMO — Sick Of You](https://www.last.fm/music/DNMO/_/Sick+Of+You)
 * [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
 * [Home — Resonance](https://www.last.fm/music/Home/_/Resonance)
-* [EKKSTACY — it only gets worse, i promise](https://www.last.fm/music/EKKSTACY/_/it+only+gets+worse,+i+promise)
-* [InterWorld — METAMORPHOSIS - Sped Up](https://www.last.fm/music/InterWorld/_/METAMORPHOSIS+-+Sped+Up)<!-- LASTFM:END -->
+* [EKKSTACY — it only gets worse, i promise](https://www.last.fm/music/EKKSTACY/_/it+only+gets+worse,+i+promise)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
