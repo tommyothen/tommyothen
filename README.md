@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vance Joy — Riptide](https://www.last.fm/music/Vance+Joy/_/Riptide)
+* [Katy Perry — California Gurls](https://www.last.fm/music/Katy+Perry/_/California+Gurls)
 * [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)
 * [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)
-* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
-* [Little Mix — Salute](https://www.last.fm/music/Little+Mix/_/Salute)
-* [Galantis — Heartbreak Anthem &lpar;with David Guetta &amp; Little Mix&rpar;](https://www.last.fm/music/Galantis/_/Heartbreak+Anthem+&lpar;with+David+Guetta+&amp;+Little+Mix&rpar;)<!-- LASTFM:END -->
+* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
