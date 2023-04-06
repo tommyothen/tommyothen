@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [CHVRCHES — The Mother We Share](https://www.last.fm/music/CHVRCHES/_/The+Mother+We+Share)
 * [Disclosure — White Noise](https://www.last.fm/music/Disclosure/_/White+Noise)
 * [Daft Punk — Lose Yourself to Dance &lpar;feat. Pharrell Williams&rpar;](https://www.last.fm/music/Daft+Punk/_/Lose+Yourself+to+Dance+&lpar;feat.+Pharrell+Williams&rpar;)
 * [John Newman — Love Me Again](https://www.last.fm/music/John+Newman/_/Love+Me+Again)
-* [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)
-* [Jason Derulo — The Other Side](https://www.last.fm/music/Jason+Derulo/_/The+Other+Side)<!-- LASTFM:END -->
+* [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
