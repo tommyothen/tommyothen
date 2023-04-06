@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Florence + the Machine — Spectrum &lpar;Say My Name&rpar; &lpar;Calvin Harris Remix&rpar;](https://www.last.fm/music/Florence+%252B+the+Machine/_/Spectrum+&lpar;Say+My+Name&rpar;+&lpar;Calvin+Harris+Remix&rpar;)
+* [Robbie Williams — Candy](https://www.last.fm/music/Robbie+Williams/_/Candy)
+* [David Guetta — Turn Me On &lpar;feat. Nicki Minaj&rpar;](https://www.last.fm/music/David+Guetta/_/Turn+Me+On+&lpar;feat.+Nicki+Minaj&rpar;)
 * [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
-* [Everglow — Bon Bon Chocolat](https://www.last.fm/music/Everglow/_/Bon+Bon+Chocolat)
-* [&lpar;G&rpar;I-DLE — Oh My God](https://www.last.fm/music/&lpar;G&rpar;I-DLE/_/Oh+My+God)
-* [BLACKPINK — Don&#39;t Know What to Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+to+Do)
-* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)<!-- LASTFM:END -->
+* [Everglow — Bon Bon Chocolat](https://www.last.fm/music/Everglow/_/Bon+Bon+Chocolat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
