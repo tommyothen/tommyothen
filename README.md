@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sara Bareilles — Love Song](https://www.last.fm/music/Sara+Bareilles/_/Love+Song)
 * [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)
 * [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
 * [Maroon 5 — This Love](https://www.last.fm/music/Maroon+5/_/This+Love)
-* [Britney Spears — Oops!...I Did It Again](https://www.last.fm/music/Britney+Spears/_/Oops!...I+Did+It+Again)
-* [Taylor Swift — I Knew You Were Trouble.](https://www.last.fm/music/Taylor+Swift/_/I+Knew+You+Were+Trouble.)<!-- LASTFM:END -->
+* [Britney Spears — Oops!...I Did It Again](https://www.last.fm/music/Britney+Spears/_/Oops!...I+Did+It+Again)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
