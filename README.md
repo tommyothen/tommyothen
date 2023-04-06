@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kesha — TiK ToK](https://www.last.fm/music/Kesha/_/TiK+ToK)
+* [Taio Cruz — Dynamite](https://www.last.fm/music/Taio+Cruz/_/Dynamite)
 * [Shawn Mendes — Stitches](https://www.last.fm/music/Shawn+Mendes/_/Stitches)
 * [MAGIC! — Rude](https://www.last.fm/music/MAGIC!/_/Rude)
-* [Vance Joy — Riptide](https://www.last.fm/music/Vance+Joy/_/Riptide)
-* [Katy Perry — California Gurls](https://www.last.fm/music/Katy+Perry/_/California+Gurls)
-* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)<!-- LASTFM:END -->
+* [Vance Joy — Riptide](https://www.last.fm/music/Vance+Joy/_/Riptide)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
