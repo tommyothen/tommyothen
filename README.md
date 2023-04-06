@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rihanna — Only Girl &lpar;In the World&rpar;](https://www.last.fm/music/Rihanna/_/Only+Girl+&lpar;In+the+World&rpar;)
 * [Rihanna — Shut Up and Drive](https://www.last.fm/music/Rihanna/_/Shut+Up+and+Drive)
 * [Girls Aloud — Sound of the Underground](https://www.last.fm/music/Girls+Aloud/_/Sound+of+the+Underground)
 * [Spice Girls — Wannabe](https://www.last.fm/music/Spice+Girls/_/Wannabe)
-* [Katy Perry — Teenage Dream](https://www.last.fm/music/Katy+Perry/_/Teenage+Dream)
-* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)<!-- LASTFM:END -->
+* [Katy Perry — Teenage Dream](https://www.last.fm/music/Katy+Perry/_/Teenage+Dream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
