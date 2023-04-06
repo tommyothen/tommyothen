@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Daft Punk — Lose Yourself to Dance &lpar;feat. Pharrell Williams&rpar;](https://www.last.fm/music/Daft+Punk/_/Lose+Yourself+to+Dance+&lpar;feat.+Pharrell+Williams&rpar;)
+* [John Newman — Love Me Again](https://www.last.fm/music/John+Newman/_/Love+Me+Again)
 * [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)
 * [Jason Derulo — The Other Side](https://www.last.fm/music/Jason+Derulo/_/The+Other+Side)
-* [Justin Bieber — Beauty and a Beat](https://www.last.fm/music/Justin+Bieber/_/Beauty+and+a+Beat)
-* [Rita Ora — How We Do &lpar;Party&rpar;](https://www.last.fm/music/Rita+Ora/_/How+We+Do+&lpar;Party&rpar;)
-* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)<!-- LASTFM:END -->
+* [Justin Bieber — Beauty and a Beat](https://www.last.fm/music/Justin+Bieber/_/Beauty+and+a+Beat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
