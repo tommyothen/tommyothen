@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Vamps — Somebody to You](https://www.last.fm/music/The+Vamps/_/Somebody+to+You)
+* [The Vamps — Oh Cecilia &lpar;Breaking My Heart&rpar;](https://www.last.fm/music/The+Vamps/_/Oh+Cecilia+&lpar;Breaking+My+Heart&rpar;)
 * [The Vamps — Wild Heart](https://www.last.fm/music/The+Vamps/_/Wild+Heart)
 * [Lady Gaga — Telephone](https://www.last.fm/music/Lady+Gaga/_/Telephone)
-* [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)
-* [One Direction — What Makes You Beautiful](https://www.last.fm/music/One+Direction/_/What+Makes+You+Beautiful)
-* [One Direction — History](https://www.last.fm/music/One+Direction/_/History)<!-- LASTFM:END -->
+* [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
