@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Little Mix — Salute](https://www.last.fm/music/Little+Mix/_/Salute)
+* [Galantis — Heartbreak Anthem &lpar;with David Guetta &amp; Little Mix&rpar;](https://www.last.fm/music/Galantis/_/Heartbreak+Anthem+&lpar;with+David+Guetta+&amp;+Little+Mix&rpar;)
 * [Demi Lovato — Heart Attack](https://www.last.fm/music/Demi+Lovato/_/Heart+Attack)
 * [CHVRCHES — The Mother We Share](https://www.last.fm/music/CHVRCHES/_/The+Mother+We+Share)
-* [Disclosure — White Noise](https://www.last.fm/music/Disclosure/_/White+Noise)
-* [Daft Punk — Lose Yourself to Dance &lpar;feat. Pharrell Williams&rpar;](https://www.last.fm/music/Daft+Punk/_/Lose+Yourself+to+Dance+&lpar;feat.+Pharrell+Williams&rpar;)
-* [John Newman — Love Me Again](https://www.last.fm/music/John+Newman/_/Love+Me+Again)<!-- LASTFM:END -->
+* [Disclosure — White Noise](https://www.last.fm/music/Disclosure/_/White+Noise)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
