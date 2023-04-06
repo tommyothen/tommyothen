@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
 * [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
 * [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [MOMOLAND — BBoom BBoom](https://www.last.fm/music/MOMOLAND/_/BBoom+BBoom)
-* [Yung Bambi — white blood](https://www.last.fm/music/Yung+Bambi/_/white+blood)<!-- LASTFM:END -->
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
