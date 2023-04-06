@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
+* [Olly Murs — Troublemaker &lpar;feat. Flo Rida&rpar;](https://www.last.fm/music/Olly+Murs/_/Troublemaker+&lpar;feat.+Flo+Rida&rpar;)
+* [Justin Bieber — Boyfriend](https://www.last.fm/music/Justin+Bieber/_/Boyfriend)
 * [Flo Rida — Whistle](https://www.last.fm/music/Flo+Rida/_/Whistle)
-* [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)
-* [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)
-* [Coldplay — Princess of China](https://www.last.fm/music/Coldplay/_/Princess+of+China)
-* [Katy Perry — The One That Got Away](https://www.last.fm/music/Katy+Perry/_/The+One+That+Got+Away)<!-- LASTFM:END -->
+* [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
