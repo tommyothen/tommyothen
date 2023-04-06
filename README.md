@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)
+* [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)
 * [Coldplay — Princess of China](https://www.last.fm/music/Coldplay/_/Princess+of+China)
 * [Katy Perry — The One That Got Away](https://www.last.fm/music/Katy+Perry/_/The+One+That+Got+Away)
-* [Taylor Swift — We Are Never Ever Getting Back Together](https://www.last.fm/music/Taylor+Swift/_/We+Are+Never+Ever+Getting+Back+Together)
-* [Stereophonics — Dakota](https://www.last.fm/music/Stereophonics/_/Dakota)
-* [Neon Trees — Everybody Talks](https://www.last.fm/music/Neon+Trees/_/Everybody+Talks)<!-- LASTFM:END -->
+* [Taylor Swift — We Are Never Ever Getting Back Together](https://www.last.fm/music/Taylor+Swift/_/We+Are+Never+Ever+Getting+Back+Together)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
