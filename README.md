@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Emeli Sandé — Read All About It, Pt. III](https://www.last.fm/music/Emeli+Sand%C3%A9/_/Read+All+About+It,+Pt.+III)
+* [CeeLo Green — Fuck You](https://www.last.fm/music/CeeLo+Green/_/Fuck+You)
 * [Shakira — Waka Waka &lpar;This Time for Africa&rpar; [The Official 2010 FIFA World Cup &lpar;TM&rpar; Song] &lpar;feat. Freshlyground&rpar;](https://www.last.fm/music/Shakira/_/Waka+Waka+&lpar;This+Time+for+Africa&rpar;+%5BThe+Official+2010+FIFA+World+Cup+&lpar;TM&rpar;+Song%5D+&lpar;feat.+Freshlyground&rpar;)
 * [The Vamps — All Night](https://www.last.fm/music/The+Vamps/_/All+Night)
-* [The Vamps — Last Night](https://www.last.fm/music/The+Vamps/_/Last+Night)
-* [The Vamps — Somebody to You](https://www.last.fm/music/The+Vamps/_/Somebody+to+You)
-* [The Vamps — Oh Cecilia &lpar;Breaking My Heart&rpar;](https://www.last.fm/music/The+Vamps/_/Oh+Cecilia+&lpar;Breaking+My+Heart&rpar;)<!-- LASTFM:END -->
+* [The Vamps — Last Night](https://www.last.fm/music/The+Vamps/_/Last+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
