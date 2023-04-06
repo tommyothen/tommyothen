@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)
+* [Taylor Swift — I Knew You Were Trouble.](https://www.last.fm/music/Taylor+Swift/_/I+Knew+You+Were+Trouble.)
 * [One Direction — Live While We&#39;re Young](https://www.last.fm/music/One+Direction/_/Live+While+We%27re+Young)
 * [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
-* [Olly Murs — Troublemaker &lpar;feat. Flo Rida&rpar;](https://www.last.fm/music/Olly+Murs/_/Troublemaker+&lpar;feat.+Flo+Rida&rpar;)
-* [Justin Bieber — Boyfriend](https://www.last.fm/music/Justin+Bieber/_/Boyfriend)
-* [Flo Rida — Whistle](https://www.last.fm/music/Flo+Rida/_/Whistle)<!-- LASTFM:END -->
+* [Olly Murs — Troublemaker &lpar;feat. Flo Rida&rpar;](https://www.last.fm/music/Olly+Murs/_/Troublemaker+&lpar;feat.+Flo+Rida&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
