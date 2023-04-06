@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [One Direction — What Makes You Beautiful](https://www.last.fm/music/One+Direction/_/What+Makes+You+Beautiful)
 * [One Direction — History](https://www.last.fm/music/One+Direction/_/History)
 * [One Direction — No Control](https://www.last.fm/music/One+Direction/_/No+Control)
 * [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)
-* [One Direction — One Thing](https://www.last.fm/music/One+Direction/_/One+Thing)
-* [One Direction — Perfect](https://www.last.fm/music/One+Direction/_/Perfect)<!-- LASTFM:END -->
+* [One Direction — One Thing](https://www.last.fm/music/One+Direction/_/One+Thing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
