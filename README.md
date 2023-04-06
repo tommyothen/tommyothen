@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [One Direction — History](https://www.last.fm/music/One+Direction/_/History)
+* [One Direction — No Control](https://www.last.fm/music/One+Direction/_/No+Control)
+* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)
 * [One Direction — One Thing](https://www.last.fm/music/One+Direction/_/One+Thing)
-* [One Direction — Perfect](https://www.last.fm/music/One+Direction/_/Perfect)
-* [One Direction — Midnight Memories](https://www.last.fm/music/One+Direction/_/Midnight+Memories)
-* [One Direction — Steal My Girl](https://www.last.fm/music/One+Direction/_/Steal+My+Girl)
-* [Rihanna — Only Girl &lpar;In the World&rpar;](https://www.last.fm/music/Rihanna/_/Only+Girl+&lpar;In+the+World&rpar;)<!-- LASTFM:END -->
+* [One Direction — Perfect](https://www.last.fm/music/One+Direction/_/Perfect)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
