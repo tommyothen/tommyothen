@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Coldplay — Princess of China](https://www.last.fm/music/Coldplay/_/Princess+of+China)
+* [Katy Perry — The One That Got Away](https://www.last.fm/music/Katy+Perry/_/The+One+That+Got+Away)
+* [Taylor Swift — We Are Never Ever Getting Back Together](https://www.last.fm/music/Taylor+Swift/_/We+Are+Never+Ever+Getting+Back+Together)
 * [Stereophonics — Dakota](https://www.last.fm/music/Stereophonics/_/Dakota)
-* [Neon Trees — Everybody Talks](https://www.last.fm/music/Neon+Trees/_/Everybody+Talks)
-* [Florence + the Machine — Spectrum &lpar;Say My Name&rpar; &lpar;Calvin Harris Remix&rpar;](https://www.last.fm/music/Florence+%252B+the+Machine/_/Spectrum+&lpar;Say+My+Name&rpar;+&lpar;Calvin+Harris+Remix&rpar;)
-* [Robbie Williams — Candy](https://www.last.fm/music/Robbie+Williams/_/Candy)
-* [David Guetta — Turn Me On &lpar;feat. Nicki Minaj&rpar;](https://www.last.fm/music/David+Guetta/_/Turn+Me+On+&lpar;feat.+Nicki+Minaj&rpar;)<!-- LASTFM:END -->
+* [Neon Trees — Everybody Talks](https://www.last.fm/music/Neon+Trees/_/Everybody+Talks)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
