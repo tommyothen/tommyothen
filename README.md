@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [One Direction — One Thing](https://www.last.fm/music/One+Direction/_/One+Thing)
+* [One Direction — Perfect](https://www.last.fm/music/One+Direction/_/Perfect)
 * [One Direction — Midnight Memories](https://www.last.fm/music/One+Direction/_/Midnight+Memories)
 * [One Direction — Steal My Girl](https://www.last.fm/music/One+Direction/_/Steal+My+Girl)
-* [Rihanna — Only Girl &lpar;In the World&rpar;](https://www.last.fm/music/Rihanna/_/Only+Girl+&lpar;In+the+World&rpar;)
-* [Rihanna — Shut Up and Drive](https://www.last.fm/music/Rihanna/_/Shut+Up+and+Drive)
-* [Girls Aloud — Sound of the Underground](https://www.last.fm/music/Girls+Aloud/_/Sound+of+the+Underground)<!-- LASTFM:END -->
+* [Rihanna — Only Girl &lpar;In the World&rpar;](https://www.last.fm/music/Rihanna/_/Only+Girl+&lpar;In+the+World&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
