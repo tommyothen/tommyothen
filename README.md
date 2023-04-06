@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Stereophonics — Dakota](https://www.last.fm/music/Stereophonics/_/Dakota)
+* [Neon Trees — Everybody Talks](https://www.last.fm/music/Neon+Trees/_/Everybody+Talks)
 * [Florence + the Machine — Spectrum &lpar;Say My Name&rpar; &lpar;Calvin Harris Remix&rpar;](https://www.last.fm/music/Florence+%252B+the+Machine/_/Spectrum+&lpar;Say+My+Name&rpar;+&lpar;Calvin+Harris+Remix&rpar;)
 * [Robbie Williams — Candy](https://www.last.fm/music/Robbie+Williams/_/Candy)
-* [David Guetta — Turn Me On &lpar;feat. Nicki Minaj&rpar;](https://www.last.fm/music/David+Guetta/_/Turn+Me+On+&lpar;feat.+Nicki+Minaj&rpar;)
-* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
-* [Everglow — Bon Bon Chocolat](https://www.last.fm/music/Everglow/_/Bon+Bon+Chocolat)<!-- LASTFM:END -->
+* [David Guetta — Turn Me On &lpar;feat. Nicki Minaj&rpar;](https://www.last.fm/music/David+Guetta/_/Turn+Me+On+&lpar;feat.+Nicki+Minaj&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
