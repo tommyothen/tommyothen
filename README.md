@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)
+* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
+* [Maroon 5 — This Love](https://www.last.fm/music/Maroon+5/_/This+Love)
 * [Britney Spears — Oops!...I Did It Again](https://www.last.fm/music/Britney+Spears/_/Oops!...I+Did+It+Again)
-* [Taylor Swift — I Knew You Were Trouble.](https://www.last.fm/music/Taylor+Swift/_/I+Knew+You+Were+Trouble.)
-* [Lady Gaga — Bad Romance](https://www.last.fm/music/Lady+Gaga/_/Bad+Romance)
-* [Mika — Grace Kelly](https://www.last.fm/music/Mika/_/Grace+Kelly)
-* [Mika — Big Girl &lpar;You Are Beautiful&rpar;](https://www.last.fm/music/Mika/_/Big+Girl+&lpar;You+Are+Beautiful&rpar;)<!-- LASTFM:END -->
+* [Taylor Swift — I Knew You Were Trouble.](https://www.last.fm/music/Taylor+Swift/_/I+Knew+You+Were+Trouble.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
