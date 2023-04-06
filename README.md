@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Spice Girls — Wannabe](https://www.last.fm/music/Spice+Girls/_/Wannabe)
+* [Katy Perry — Teenage Dream](https://www.last.fm/music/Katy+Perry/_/Teenage+Dream)
 * [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
 * [Sara Bareilles — Love Song](https://www.last.fm/music/Sara+Bareilles/_/Love+Song)
-* [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)
-* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
-* [Maroon 5 — This Love](https://www.last.fm/music/Maroon+5/_/This+Love)<!-- LASTFM:END -->
+* [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
