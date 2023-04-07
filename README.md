@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
+* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
 * [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
 * [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
-* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)<!-- LASTFM:END -->
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
