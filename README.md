@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
 * [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
 * [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
 * [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
-* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)<!-- LASTFM:END -->
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
