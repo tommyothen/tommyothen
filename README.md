@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [elijah who — my new love](https://www.last.fm/music/elijah+who/_/my+new+love)
+* [JID — Workin Out](https://www.last.fm/music/JID/_/Workin+Out)
 * [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
-* [Abbie Mottram — Best U Had](https://www.last.fm/music/Abbie+Mottram/_/Best+U+Had)
-* [Abbie Mottram — Car Radio](https://www.last.fm/music/Abbie+Mottram/_/Car+Radio)
-* [Olly Murs — Up &lpar;feat. Demi Lovato&rpar;](https://www.last.fm/music/Olly+Murs/_/Up+&lpar;feat.+Demi+Lovato&rpar;)
-* [Emeli Sandé — Read All About It, Pt. III](https://www.last.fm/music/Emeli+Sand%C3%A9/_/Read+All+About+It,+Pt.+III)<!-- LASTFM:END -->
+* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
+* [Abbie Mottram — Best U Had](https://www.last.fm/music/Abbie+Mottram/_/Best+U+Had)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
