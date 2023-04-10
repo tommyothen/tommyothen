@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nanahoshi Orchestra — Make a loser - Instrumental](https://www.last.fm/music/Nanahoshi+Orchestra/_/Make+a+loser+-+Instrumental)
 * [Damag3 — DOUBL3 TAK3](https://www.last.fm/music/Damag3/_/DOUBL3+TAK3)
 * [Estelle Allen — dui](https://www.last.fm/music/Estelle+Allen/_/dui)
 * [Feryquitous — Ordirehv](https://www.last.fm/music/Feryquitous/_/Ordirehv)
-* [ANXRCHY — Ewww](https://www.last.fm/music/ANXRCHY/_/Ewww)
-* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)<!-- LASTFM:END -->
+* [ANXRCHY — Ewww](https://www.last.fm/music/ANXRCHY/_/Ewww)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
