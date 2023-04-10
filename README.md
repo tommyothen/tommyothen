@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
+* [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
 * [Igorrr — Double Monk](https://www.last.fm/music/Igorrr/_/Double+Monk)
 * [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)
-* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)
-* [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)
-* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)<!-- LASTFM:END -->
+* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
