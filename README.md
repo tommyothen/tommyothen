@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
 * [Wienners — GOD SAVE THE MUSIC](https://www.last.fm/music/Wienners/_/GOD+SAVE+THE+MUSIC)
 * [EX-LYD — Pink Sand](https://www.last.fm/music/EX-LYD/_/Pink+Sand)
 * [KWINI — Dream Away](https://www.last.fm/music/KWINI/_/Dream+Away)
-* [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)
-* [Easy Way Out — Arrhythmia](https://www.last.fm/music/Easy+Way+Out/_/Arrhythmia)<!-- LASTFM:END -->
+* [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
