@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
 * [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
 * [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
 * [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Mark Ronson — Valerie &lpar;Feat. Amy Winehouse&rpar; - Version Revisited](https://www.last.fm/music/Mark+Ronson/_/Valerie+&lpar;Feat.+Amy+Winehouse&rpar;+-+Version+Revisited)
-* [Jonas Brothers — Waffle House](https://www.last.fm/music/Jonas+Brothers/_/Waffle+House)<!-- LASTFM:END -->
+* [Mark Ronson — Valerie &lpar;Feat. Amy Winehouse&rpar; - Version Revisited](https://www.last.fm/music/Mark+Ronson/_/Valerie+&lpar;Feat.+Amy+Winehouse&rpar;+-+Version+Revisited)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
