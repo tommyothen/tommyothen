@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Vamps — Can We Dance](https://www.last.fm/music/The+Vamps/_/Can+We+Dance)
+* [The Vamps — Wild Heart](https://www.last.fm/music/The+Vamps/_/Wild+Heart)
 * [Macklemore &amp; Ryan Lewis — Can&#39;t Hold Us &lpar;feat. Ray Dalton&rpar;](https://www.last.fm/music/Macklemore+&amp;+Ryan+Lewis/_/Can%27t+Hold+Us+&lpar;feat.+Ray+Dalton&rpar;)
 * [Rihanna — Only Girl &lpar;In the World&rpar;](https://www.last.fm/music/Rihanna/_/Only+Girl+&lpar;In+the+World&rpar;)
-* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)
-* [Jay Sean — Down](https://www.last.fm/music/Jay+Sean/_/Down)
-* [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)<!-- LASTFM:END -->
+* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
