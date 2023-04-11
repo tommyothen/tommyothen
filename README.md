@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
+* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
 * [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
 * [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [Geno Samuel — Stereo Love](https://www.last.fm/music/Geno+Samuel/_/Stereo+Love)
-* [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
-* [Wienners — GOD SAVE THE MUSIC](https://www.last.fm/music/Wienners/_/GOD+SAVE+THE+MUSIC)<!-- LASTFM:END -->
+* [Geno Samuel — Stereo Love](https://www.last.fm/music/Geno+Samuel/_/Stereo+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
