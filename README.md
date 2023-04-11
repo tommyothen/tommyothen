@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jay Sean — Down](https://www.last.fm/music/Jay+Sean/_/Down)
+* [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)
 * [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
 * [Taylor Swift — We Are Never Ever Getting Back Together](https://www.last.fm/music/Taylor+Swift/_/We+Are+Never+Ever+Getting+Back+Together)
-* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
-* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
-* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)<!-- LASTFM:END -->
+* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
