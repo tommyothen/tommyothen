@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DUCKWRTH — Super Bounce](https://www.last.fm/music/DUCKWRTH/_/Super+Bounce)
 * [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
 * [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
 * [The Vamps — Personal](https://www.last.fm/music/The+Vamps/_/Personal)
-* [The Vamps — Can We Dance](https://www.last.fm/music/The+Vamps/_/Can+We+Dance)
-* [The Vamps — Wild Heart](https://www.last.fm/music/The+Vamps/_/Wild+Heart)<!-- LASTFM:END -->
+* [The Vamps — Can We Dance](https://www.last.fm/music/The+Vamps/_/Can+We+Dance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
