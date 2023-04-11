@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jonas Brothers — Waffle House](https://www.last.fm/music/Jonas+Brothers/_/Waffle+House)
+* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
 * [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
-* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [Geno Samuel — Stereo Love](https://www.last.fm/music/Geno+Samuel/_/Stereo+Love)<!-- LASTFM:END -->
+* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
