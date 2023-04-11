@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [cldr — hamburger cheeseburger big mac whopper](https://www.last.fm/music/cldr/_/hamburger+cheeseburger+big+mac+whopper)
 * [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [MC Virgins — Anime Thighs](https://www.last.fm/music/MC+Virgins/_/Anime+Thighs)
 * [Panjabi MC — Mundian to Bach Ke](https://www.last.fm/music/Panjabi+MC/_/Mundian+to+Bach+Ke)
-* [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)
-* [P!nk — Raise Your Glass](https://www.last.fm/music/P!nk/_/Raise+Your+Glass)<!-- LASTFM:END -->
+* [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
