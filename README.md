@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shy FX — Roll The Dice &lpar;feat. Stamina MC &amp; Lily Allen&rpar;](https://www.last.fm/music/Shy+FX/_/Roll+The+Dice+&lpar;feat.+Stamina+MC+&amp;+Lily+Allen&rpar;)
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
 * [Fall Out Boy — The Last of the Real Ones](https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones)
 * [Cher — If I Could Turn Back Time](https://www.last.fm/music/Cher/_/If+I+Could+Turn+Back+Time)
-* [Drake — God&#39;s Plan](https://www.last.fm/music/Drake/_/God%27s+Plan)
-* [zoid land — Midnight Sun &lpar;Ramzoid x Hal Walker&rpar;](https://www.last.fm/music/zoid+land/_/Midnight+Sun+&lpar;Ramzoid+x+Hal+Walker&rpar;)
-* [The Kooks — She Moves in Her Own Way](https://www.last.fm/music/The+Kooks/_/She+Moves+in+Her+Own+Way)<!-- LASTFM:END -->
+* [Drake — God&#39;s Plan](https://www.last.fm/music/Drake/_/God%27s+Plan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
