@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
 * [Jennifer Hudson — Spotlight](https://www.last.fm/music/Jennifer+Hudson/_/Spotlight)
 * [The Wombats — Running Up That Hill - triple j Like a Version](https://www.last.fm/music/The+Wombats/_/Running+Up+That+Hill+-+triple+j+Like+a+Version)
 * [Shy FX — Roll The Dice &lpar;feat. Stamina MC &amp; Lily Allen&rpar;](https://www.last.fm/music/Shy+FX/_/Roll+The+Dice+&lpar;feat.+Stamina+MC+&amp;+Lily+Allen&rpar;)
-* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
-* [Fall Out Boy — The Last of the Real Ones](https://www.last.fm/music/Fall+Out+Boy/_/The+Last+of+the+Real+Ones)<!-- LASTFM:END -->
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
