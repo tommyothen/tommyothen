@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pop Smoke — Get Back](https://www.last.fm/music/Pop+Smoke/_/Get+Back)
+* [Gerry Cinnamon — Belter](https://www.last.fm/music/Gerry+Cinnamon/_/Belter)
 * [Pink Floyd — The Great Gig In The Sky - 2011 Remastered Version](https://www.last.fm/music/Pink+Floyd/_/The+Great+Gig+In+The+Sky+-+2011+Remastered+Version)
 * [Lady Gaga — Alejandro](https://www.last.fm/music/Lady+Gaga/_/Alejandro)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [Ashnikko — Deal With It &lpar;feat. Kelis&rpar;](https://www.last.fm/music/Ashnikko/_/Deal+With+It+&lpar;feat.+Kelis&rpar;)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
