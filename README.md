@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Drake — I Guess It’s Fuck Me](https://www.last.fm/music/Drake/_/I+Guess+It%E2%80%99s+Fuck+Me)
-* [Fall Out Boy — Centuries](https://www.last.fm/music/Fall+Out+Boy/_/Centuries)
-* [Sam Fender — Seventeen Going Under](https://www.last.fm/music/Sam+Fender/_/Seventeen+Going+Under)
-* [Pop Smoke — Get Back](https://www.last.fm/music/Pop+Smoke/_/Get+Back)
-* [Gerry Cinnamon — Belter](https://www.last.fm/music/Gerry+Cinnamon/_/Belter)<!-- LASTFM:END -->
+* [Willis — I Think I Like When It Rains](https://www.last.fm/music/Willis/_/I+Think+I+Like+When+It+Rains)
+* [Great Big Sea — Donkey Riding](https://www.last.fm/music/Great+Big+Sea/_/Donkey+Riding)
+* [Great Big Sea — Donkey Riding](https://www.last.fm/music/Great+Big+Sea/_/Donkey+Riding)
+* [Marko — You Won&#39;t](https://www.last.fm/music/Marko/_/You+Won%27t)
+* [Drake — I Guess It’s Fuck Me](https://www.last.fm/music/Drake/_/I+Guess+It%E2%80%99s+Fuck+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
