@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Drake — I Guess It’s Fuck Me](https://www.last.fm/music/Drake/_/I+Guess+It%E2%80%99s+Fuck+Me)
+* [Fall Out Boy — Centuries](https://www.last.fm/music/Fall+Out+Boy/_/Centuries)
 * [Sam Fender — Seventeen Going Under](https://www.last.fm/music/Sam+Fender/_/Seventeen+Going+Under)
 * [Pop Smoke — Get Back](https://www.last.fm/music/Pop+Smoke/_/Get+Back)
-* [Gerry Cinnamon — Belter](https://www.last.fm/music/Gerry+Cinnamon/_/Belter)
-* [Pink Floyd — The Great Gig In The Sky - 2011 Remastered Version](https://www.last.fm/music/Pink+Floyd/_/The+Great+Gig+In+The+Sky+-+2011+Remastered+Version)
-* [Lady Gaga — Alejandro](https://www.last.fm/music/Lady+Gaga/_/Alejandro)<!-- LASTFM:END -->
+* [Gerry Cinnamon — Belter](https://www.last.fm/music/Gerry+Cinnamon/_/Belter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
