@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
+* [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
 * [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
 * [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [Yuno Miles — PayDay](https://www.last.fm/music/Yuno+Miles/_/PayDay)
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Justin Bieber — Beauty and a Beat](https://www.last.fm/music/Justin+Bieber/_/Beauty+and+a+Beat)<!-- LASTFM:END -->
+* [Yuno Miles — PayDay](https://www.last.fm/music/Yuno+Miles/_/PayDay)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
