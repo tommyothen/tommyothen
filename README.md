@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Miley Cyrus — The Climb](https://www.last.fm/music/Miley+Cyrus/_/The+Climb)
 * [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)
 * [One Direction — Little White Lies](https://www.last.fm/music/One+Direction/_/Little+White+Lies)
 * [Scouting for Girls — She&#39;s So Lovely](https://www.last.fm/music/Scouting+for+Girls/_/She%27s+So+Lovely)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
-* [Yuno Miles — PayDay](https://www.last.fm/music/Yuno+Miles/_/PayDay)<!-- LASTFM:END -->
+* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
