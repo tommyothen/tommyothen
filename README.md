@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
 * [Yuno Miles — PayDay](https://www.last.fm/music/Yuno+Miles/_/PayDay)
 * [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Justin Bieber — Beauty and a Beat](https://www.last.fm/music/Justin+Bieber/_/Beauty+and+a+Beat)
-* [Miley Cyrus — The Climb](https://www.last.fm/music/Miley+Cyrus/_/The+Climb)
-* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)<!-- LASTFM:END -->
+* [Justin Bieber — Beauty and a Beat](https://www.last.fm/music/Justin+Bieber/_/Beauty+and+a+Beat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
