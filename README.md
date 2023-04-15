@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
 * [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
 * [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
-* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
-* [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
-* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)<!-- LASTFM:END -->
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
