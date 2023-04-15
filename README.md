@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Yuno Miles — PayDay](https://www.last.fm/music/Yuno+Miles/_/PayDay)
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
 * [Justin Bieber — Beauty and a Beat](https://www.last.fm/music/Justin+Bieber/_/Beauty+and+a+Beat)
 * [Miley Cyrus — The Climb](https://www.last.fm/music/Miley+Cyrus/_/The+Climb)
-* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)
-* [One Direction — Little White Lies](https://www.last.fm/music/One+Direction/_/Little+White+Lies)<!-- LASTFM:END -->
+* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
