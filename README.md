@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)
+* [Billy Marchiafava — Cheesecake](https://www.last.fm/music/Billy+Marchiafava/_/Cheesecake)
 * [溶けない名前 — 少女の官能基](https://www.last.fm/music/%E6%BA%B6%E3%81%91%E3%81%AA%E3%81%84%E5%90%8D%E5%89%8D/_/%E5%B0%91%E5%A5%B3%E3%81%AE%E5%AE%98%E8%83%BD%E5%9F%BA)
 * [Overrated — Little Demon King](https://www.last.fm/music/Overrated/_/Little+Demon+King)
-* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
-* [nothing,nowhere. — blood &lpar;feat. KennyHoopla &amp; JUDGE&rpar;](https://www.last.fm/music/nothing,nowhere./_/blood+&lpar;feat.+KennyHoopla+&amp;+JUDGE&rpar;)
-* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)<!-- LASTFM:END -->
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
