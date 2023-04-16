@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
+* [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
+* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
 * [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [Glaive — fuck this town](https://www.last.fm/music/Glaive/_/fuck+this+town)
-* [GRANRODEO — BEASTFUL](https://www.last.fm/music/GRANRODEO/_/BEASTFUL)
-* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)
-* [Billy Marchiafava — Cheesecake](https://www.last.fm/music/Billy+Marchiafava/_/Cheesecake)<!-- LASTFM:END -->
+* [Glaive — fuck this town](https://www.last.fm/music/Glaive/_/fuck+this+town)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
