@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
+* [nothing,nowhere. — blood &lpar;feat. KennyHoopla &amp; JUDGE&rpar;](https://www.last.fm/music/nothing,nowhere./_/blood+&lpar;feat.+KennyHoopla+&amp;+JUDGE&rpar;)
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
 * [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
-* [nothing,nowhere. — trauma factory](https://www.last.fm/music/nothing,nowhere./_/trauma+factory)
-* [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
-* [COCKAHOLICS — KETAMINE JUNKIE](https://www.last.fm/music/COCKAHOLICS/_/KETAMINE+JUNKIE)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)<!-- LASTFM:END -->
+* [nothing,nowhere. — trauma factory](https://www.last.fm/music/nothing,nowhere./_/trauma+factory)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
