@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
 * [Glaive — fuck this town](https://www.last.fm/music/Glaive/_/fuck+this+town)
 * [GRANRODEO — BEASTFUL](https://www.last.fm/music/GRANRODEO/_/BEASTFUL)
 * [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)
-* [Billy Marchiafava — Cheesecake](https://www.last.fm/music/Billy+Marchiafava/_/Cheesecake)
-* [溶けない名前 — 少女の官能基](https://www.last.fm/music/%E6%BA%B6%E3%81%91%E3%81%AA%E3%81%84%E5%90%8D%E5%89%8D/_/%E5%B0%91%E5%A5%B3%E3%81%AE%E5%AE%98%E8%83%BD%E5%9F%BA)<!-- LASTFM:END -->
+* [Billy Marchiafava — Cheesecake](https://www.last.fm/music/Billy+Marchiafava/_/Cheesecake)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
