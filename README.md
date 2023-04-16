@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
+* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
 * [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
 * [PiNKii — Pretty and Depressed](https://www.last.fm/music/PiNKii/_/Pretty+and+Depressed)
-* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
-* [Mkultra — In a Rut](https://www.last.fm/music/Mkultra/_/In+a+Rut)
-* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)<!-- LASTFM:END -->
+* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
