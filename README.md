@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yuno Miles — PayDay](https://www.last.fm/music/Yuno+Miles/_/PayDay)
+* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)
 * [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
 * [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [PiNKii — Pretty and Depressed](https://www.last.fm/music/PiNKii/_/Pretty+and+Depressed)
-* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)<!-- LASTFM:END -->
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
