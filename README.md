@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
 * [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [The Brummies — Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine)
-* [Chance Peña — Bleeding Out](https://www.last.fm/music/Chance+Pe%C3%B1a/_/Bleeding+Out)
-* [Grey Oakes — Maybe UR Right](https://www.last.fm/music/Grey+Oakes/_/Maybe+UR+Right)<!-- LASTFM:END -->
+* [The Brummies — Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
