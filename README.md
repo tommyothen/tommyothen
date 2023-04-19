@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [SAGEISKAMI — BLOOD X](https://www.last.fm/music/SAGEISKAMI/_/BLOOD+X)
-* [Adolf Nomura — stealing japanese street cars](https://www.last.fm/music/Adolf+Nomura/_/stealing+japanese+street+cars)
-* [k?d — PROTECT ME](https://www.last.fm/music/k%3Fd/_/PROTECT+ME)
-* [sienna sleep — 72.8](https://www.last.fm/music/sienna+sleep/_/72.8)
-* [purity filter — takemeawaypls.wav &lpar;INTO THE NIGHTCORE&rpar;](https://www.last.fm/music/purity+filter/_/takemeawaypls.wav+&lpar;INTO+THE+NIGHTCORE&rpar;)<!-- LASTFM:END -->
+* [optic core — save file 3](https://www.last.fm/music/optic+core/_/save+file+3)
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
+* [KENTENSHI — GO-GO](https://www.last.fm/music/KENTENSHI/_/GO-GO)
+* [Starjunk 95 — Dozing Off Again... - House Edit](https://www.last.fm/music/Starjunk+95/_/Dozing+Off+Again...+-+House+Edit)
+* [SAGEISKAMI — BLOOD X](https://www.last.fm/music/SAGEISKAMI/_/BLOOD+X)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
