@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
 * [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
 * [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
 * [Snafu — fkn sucks](https://www.last.fm/music/Snafu/_/fkn+sucks)
-* [fkbambam — HARDCORE](https://www.last.fm/music/fkbambam/_/HARDCORE)
-* [COCKAHOLICS — KETAMINE JUNKIE](https://www.last.fm/music/COCKAHOLICS/_/KETAMINE+JUNKIE)<!-- LASTFM:END -->
+* [fkbambam — HARDCORE](https://www.last.fm/music/fkbambam/_/HARDCORE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
