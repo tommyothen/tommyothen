@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Starjunk 95 — Subsonic Twilight](https://www.last.fm/music/Starjunk+95/_/Subsonic+Twilight)
-* [Kobaryo — Tool-Assisted Speedcore &lpar;TQBF Frame Advance RMX&rpar;](https://www.last.fm/music/Kobaryo/_/Tool-Assisted+Speedcore+&lpar;TQBF+Frame+Advance+RMX&rpar;)
-* [Irelia — Savages - accela remix](https://www.last.fm/music/Irelia/_/Savages+-+accela+remix)
-* [TOKYOPILL — Pink Blood +](https://www.last.fm/music/TOKYOPILL/_/Pink+Blood+%252B)
-* [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)<!-- LASTFM:END -->
+* [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
+* [The Brummies — Sunshine](https://www.last.fm/music/The+Brummies/_/Sunshine)
+* [Chance Peña — Bleeding Out](https://www.last.fm/music/Chance+Pe%C3%B1a/_/Bleeding+Out)
+* [Grey Oakes — Maybe UR Right](https://www.last.fm/music/Grey+Oakes/_/Maybe+UR+Right)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
