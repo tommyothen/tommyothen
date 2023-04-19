@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IC3PEAK — Грустная сука](https://www.last.fm/music/IC3PEAK/_/%D0%93%D1%80%D1%83%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%81%D1%83%D0%BA%D0%B0)
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
 * [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)
 * [TOKYOPILL — WISH](https://www.last.fm/music/TOKYOPILL/_/WISH)
-* [Trashiii — Pink Slips](https://www.last.fm/music/Trashiii/_/Pink+Slips)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
-* [Starjunk 95 — Subsonic Twilight](https://www.last.fm/music/Starjunk+95/_/Subsonic+Twilight)<!-- LASTFM:END -->
+* [Trashiii — Pink Slips](https://www.last.fm/music/Trashiii/_/Pink+Slips)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
