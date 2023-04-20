@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [eightiesheadachetape — drift](https://www.last.fm/music/eightiesheadachetape/_/drift)
 * [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
 * [KENTENSHI — GO-GO](https://www.last.fm/music/KENTENSHI/_/GO-GO)
 * [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
-* [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)
-* [TOKYOPILL — WISH](https://www.last.fm/music/TOKYOPILL/_/WISH)<!-- LASTFM:END -->
+* [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
