@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
 * [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)
 * [TOKYOPILL — WISH](https://www.last.fm/music/TOKYOPILL/_/WISH)
 * [Trashiii — Pink Slips](https://www.last.fm/music/Trashiii/_/Pink+Slips)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
-* [Starjunk 95 — Subsonic Twilight](https://www.last.fm/music/Starjunk+95/_/Subsonic+Twilight)<!-- LASTFM:END -->
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
