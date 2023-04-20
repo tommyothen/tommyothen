@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Hai to Gensou no Grimgar - TV](https://myanimelist.net/anime/31859/Hai_to_Gensou_no_Grimgar) - Plan to Watch - 0 of 12 episodes
+* [Free! - TV](https://myanimelist.net/anime/18507/Free) - Completed - 12 of 12 episodes
 * [Isekai Shoukan wa Nidome desu - TV](https://myanimelist.net/anime/50220/Isekai_Shoukan_wa_Nidome_desu) - Watching - 2 of 12 episodes
 * [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita - TV](https://myanimelist.net/anime/44037/Shin_no_Nakama_ja_Nai_to_Yuusha_no_Party_wo_Oidasareta_node_Henkyou_de_Slow_Life_suru_Koto_ni_Shimashita) - Watching - 1 of 13 episodes
-* [Saikyou Onmyouji no Isekai Tenseiki - TV](https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki) - Completed - 13 of 13 episodes
-* [Isekai Nonbiri Nouka - TV](https://myanimelist.net/anime/51462/Isekai_Nonbiri_Nouka) - Completed - 12 of 12 episodes
-* [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu - TV](https://myanimelist.net/anime/52461/Rougo_ni_Sonaete_Isekai_de_8-manmai_no_Kinka_wo_Tamemasu) - Completed - 12 of 12 episodes<!-- ANIME-LIST:END -->
+* [Saikyou Onmyouji no Isekai Tenseiki - TV](https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki) - Completed - 13 of 13 episodes<!-- ANIME-LIST:END -->
