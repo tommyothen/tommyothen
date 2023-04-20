@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [NewJeans — Zero](https://www.last.fm/music/NewJeans/_/Zero)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [IVE — I AM](https://www.last.fm/music/IVE/_/I+AM)
-* [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
-* [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)<!-- LASTFM:END -->
+* [IVE — I AM](https://www.last.fm/music/IVE/_/I+AM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
