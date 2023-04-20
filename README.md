@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Isekai Shoukan wa Nidome desu - TV](https://myanimelist.net/anime/50220/Isekai_Shoukan_wa_Nidome_desu) - Watching - 0 of 12 episodes
+* [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita - TV](https://myanimelist.net/anime/44037/Shin_no_Nakama_ja_Nai_to_Yuusha_no_Party_wo_Oidasareta_node_Henkyou_de_Slow_Life_suru_Koto_ni_Shimashita) - Watching - 1 of 13 episodes
 * [Saikyou Onmyouji no Isekai Tenseiki - TV](https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki) - Completed - 13 of 13 episodes
 * [Isekai Nonbiri Nouka - TV](https://myanimelist.net/anime/51462/Isekai_Nonbiri_Nouka) - Completed - 12 of 12 episodes
-* [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu - TV](https://myanimelist.net/anime/52461/Rougo_ni_Sonaete_Isekai_de_8-manmai_no_Kinka_wo_Tamemasu) - Completed - 12 of 12 episodes
-* [Yofukashi no Uta - TV](https://myanimelist.net/anime/50346/Yofukashi_no_Uta) - Completed - 13 of 13 episodes
-* [Shingeki no Kyojin Season 2 - TV](https://myanimelist.net/anime/25777/Shingeki_no_Kyojin_Season_2) - Completed - 12 of 12 episodes<!-- ANIME-LIST:END -->
+* [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu - TV](https://myanimelist.net/anime/52461/Rougo_ni_Sonaete_Isekai_de_8-manmai_no_Kinka_wo_Tamemasu) - Completed - 12 of 12 episodes<!-- ANIME-LIST:END -->
