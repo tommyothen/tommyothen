@@ -36,7 +36,7 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
-* [Isekai Shoukan wa Nidome desu - TV](https://myanimelist.net/anime/50220/Isekai_Shoukan_wa_Nidome_desu) - Watching - 0 of 12 episodes
+* [Isekai Shoukan wa Nidome desu - TV](https://myanimelist.net/anime/50220/Isekai_Shoukan_wa_Nidome_desu) - Watching - 2 of 12 episodes
 * [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita - TV](https://myanimelist.net/anime/44037/Shin_no_Nakama_ja_Nai_to_Yuusha_no_Party_wo_Oidasareta_node_Henkyou_de_Slow_Life_suru_Koto_ni_Shimashita) - Watching - 1 of 13 episodes
 * [Saikyou Onmyouji no Isekai Tenseiki - TV](https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki) - Completed - 13 of 13 episodes
 * [Isekai Nonbiri Nouka - TV](https://myanimelist.net/anime/51462/Isekai_Nonbiri_Nouka) - Completed - 12 of 12 episodes
