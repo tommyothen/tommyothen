@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Star Trash — DATA//TRANSFER](https://www.last.fm/music/Star+Trash/_/DATA%2F%2FTRANSFER)
+* [Starjunk 95 — Dozing Off Again... - House Edit](https://www.last.fm/music/Starjunk+95/_/Dozing+Off+Again...+-+House+Edit)
+* [SAGEISKAMI — BLOOD X](https://www.last.fm/music/SAGEISKAMI/_/BLOOD+X)
 * [Adolf Nomura — ALBUM NAME](https://www.last.fm/music/Adolf+Nomura/_/ALBUM+NAME)
-* [sienna sleep — 72.8](https://www.last.fm/music/sienna+sleep/_/72.8)
-* [purity filter — takemeawaypls.wav &lpar;INTO THE NIGHTCORE&rpar;](https://www.last.fm/music/purity+filter/_/takemeawaypls.wav+&lpar;INTO+THE+NIGHTCORE&rpar;)
-* [Jupiluxe — JetSetGo](https://www.last.fm/music/Jupiluxe/_/JetSetGo)
-* [GNB CHILI — Failan](https://www.last.fm/music/GNB+CHILI/_/Failan)<!-- LASTFM:END -->
+* [sienna sleep — 72.8](https://www.last.fm/music/sienna+sleep/_/72.8)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
