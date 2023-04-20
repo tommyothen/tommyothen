@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [optic core — save file 3](https://www.last.fm/music/optic+core/_/save+file+3)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [KENTENSHI — GO-GO](https://www.last.fm/music/KENTENSHI/_/GO-GO)
-* [Starjunk 95 — Dozing Off Again... - House Edit](https://www.last.fm/music/Starjunk+95/_/Dozing+Off+Again...+-+House+Edit)
-* [SAGEISKAMI — BLOOD X](https://www.last.fm/music/SAGEISKAMI/_/BLOOD+X)<!-- LASTFM:END -->
+* [Yion — Girls Just Want Breaks &lpar;yion-flip&rpar;](https://www.last.fm/music/Yion/_/Girls+Just+Want+Breaks+&lpar;yion-flip&rpar;)
+* [SAGEISKAMI — GUNMA / BLOTTTER](https://www.last.fm/music/SAGEISKAMI/_/GUNMA+%2F+BLOTTTER)
+* [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
+* [Star Trash — DATA//TRANSFER](https://www.last.fm/music/Star+Trash/_/DATA%2F%2FTRANSFER)
+* [optic core — save file 3](https://www.last.fm/music/optic+core/_/save+file+3)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
