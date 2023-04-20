@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GNB CHILI — Failan](https://www.last.fm/music/GNB+CHILI/_/Failan)
-* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
-* [TOKYOPILL — ONLINE INDUCED HIGH](https://www.last.fm/music/TOKYOPILL/_/ONLINE+INDUCED+HIGH)
-* [kosu. — gamu.](https://www.last.fm/music/kosu./_/gamu.)
-* [purity filter — luminescence](https://www.last.fm/music/purity+filter/_/luminescence)<!-- LASTFM:END -->
+* [Adolf Nomura — ALBUM NAME](https://www.last.fm/music/Adolf+Nomura/_/ALBUM+NAME)
+* [sienna sleep — 72.8](https://www.last.fm/music/sienna+sleep/_/72.8)
+* [purity filter — takemeawaypls.wav &lpar;INTO THE NIGHTCORE&rpar;](https://www.last.fm/music/purity+filter/_/takemeawaypls.wav+&lpar;INTO+THE+NIGHTCORE&rpar;)
+* [Jupiluxe — JetSetGo](https://www.last.fm/music/Jupiluxe/_/JetSetGo)
+* [GNB CHILI — Failan](https://www.last.fm/music/GNB+CHILI/_/Failan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
