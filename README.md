@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Irelia — Savages - accela remix](https://www.last.fm/music/Irelia/_/Savages+-+accela+remix)
+* [TOKYOPILL — Pink Blood +](https://www.last.fm/music/TOKYOPILL/_/Pink+Blood+%252B)
+* [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)
 * [Adolf Nomura — BEAT THE POLICE](https://www.last.fm/music/Adolf+Nomura/_/BEAT+THE+POLICE)
-* [Starjunk 95 — Grimestar](https://www.last.fm/music/Starjunk+95/_/Grimestar)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [Irelia — goodbye_4ever](https://www.last.fm/music/Irelia/_/goodbye_4ever)
-* [Yion — Girls Just Want Breaks &lpar;yion-flip&rpar;](https://www.last.fm/music/Yion/_/Girls+Just+Want+Breaks+&lpar;yion-flip&rpar;)<!-- LASTFM:END -->
+* [Starjunk 95 — Grimestar](https://www.last.fm/music/Starjunk+95/_/Grimestar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
