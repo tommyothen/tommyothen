@@ -36,7 +36,7 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
-* [Bocchi the Rock! - TV](https://myanimelist.net/anime/47917/Bocchi_the_Rock) - Watching - 8 of 12 episodes
+* [Bocchi the Rock! - TV](https://myanimelist.net/anime/47917/Bocchi_the_Rock) - Completed - 12 of 12 episodes
 * [Hai to Gensou no Grimgar - TV](https://myanimelist.net/anime/31859/Hai_to_Gensou_no_Grimgar) - Plan to Watch - 0 of 12 episodes
 * [Free! - TV](https://myanimelist.net/anime/18507/Free) - Completed - 12 of 12 episodes
 * [Isekai Shoukan wa Nidome desu - TV](https://myanimelist.net/anime/50220/Isekai_Shoukan_wa_Nidome_desu) - Watching - 2 of 12 episodes
