@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
+* [Marmalade butcher — Floccinaucinihilipilification](https://www.last.fm/music/Marmalade+butcher/_/Floccinaucinihilipilification)
+* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
 * [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
-* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
-* [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)<!-- LASTFM:END -->
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
