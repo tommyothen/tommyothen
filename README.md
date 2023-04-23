@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
+* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
 * [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
 * [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)
-* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
-* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
-* [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)<!-- LASTFM:END -->
+* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
