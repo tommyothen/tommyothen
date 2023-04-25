@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DUCKWRTH — I&#39;M DEAD](https://www.last.fm/music/DUCKWRTH/_/I%27M+DEAD)
 * [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
 * [Freddie Dredd — Evil fantasy](https://www.last.fm/music/Freddie+Dredd/_/Evil+fantasy)
 * [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)
-* [XXXTENTACION — HOPE](https://www.last.fm/music/XXXTENTACION/_/HOPE)
-* [BoxPlot — Tramontane](https://www.last.fm/music/BoxPlot/_/Tramontane)<!-- LASTFM:END -->
+* [XXXTENTACION — HOPE](https://www.last.fm/music/XXXTENTACION/_/HOPE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
