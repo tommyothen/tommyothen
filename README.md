@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — dunkaroos](https://www.last.fm/music/bbno$/_/dunkaroos)
+* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
+* [Eden — C&#39;est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
 * [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)
-* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)
-* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
-* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
-* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)<!-- LASTFM:END -->
+* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
