@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
 * [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)
 * [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)
 * [Cute Girls Doing Cute Things — I Like Cute Girls](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/I+Like+Cute+Girls)
-* [bbno$ — dunkaroos](https://www.last.fm/music/bbno$/_/dunkaroos)
-* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)<!-- LASTFM:END -->
+* [bbno$ — dunkaroos](https://www.last.fm/music/bbno$/_/dunkaroos)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
