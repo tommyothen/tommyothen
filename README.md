@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
+* [demxntia — why do i try](https://www.last.fm/music/demxntia/_/why+do+i+try)
 * [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)
 * [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [DUCKWRTH — I&#39;M DEAD](https://www.last.fm/music/DUCKWRTH/_/I%27M+DEAD)
-* [MC Virgins — Sundress](https://www.last.fm/music/MC+Virgins/_/Sundress)
-* [Freddie Dredd — Evil fantasy](https://www.last.fm/music/Freddie+Dredd/_/Evil+fantasy)<!-- LASTFM:END -->
+* [DUCKWRTH — I&#39;M DEAD](https://www.last.fm/music/DUCKWRTH/_/I%27M+DEAD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
