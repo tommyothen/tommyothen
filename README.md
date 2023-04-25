@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cute Girls Doing Cute Things — I Like Cute Girls](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/I+Like+Cute+Girls)
 * [bbno$ — dunkaroos](https://www.last.fm/music/bbno$/_/dunkaroos)
 * [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
 * [Eden — C&#39;est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
-* [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)
-* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)<!-- LASTFM:END -->
+* [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
