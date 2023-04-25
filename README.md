@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Последний День Лета &lpar;feat. Лия&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9+%D0%94%D0%B5%D0%BD%D1%8C+%D0%9B%D0%B5%D1%82%D0%B0+&lpar;feat.+%D0%9B%D0%B8%D1%8F&rpar;)
 * [Zanuda — Папиросы](https://www.last.fm/music/Zanuda/_/%D0%9F%D0%B0%D0%BF%D0%B8%D1%80%D0%BE%D1%81%D1%8B)
 * [Taska Black — Dead Inside](https://www.last.fm/music/Taska+Black/_/Dead+Inside)
 * [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
-* [demxntia — why do i try](https://www.last.fm/music/demxntia/_/why+do+i+try)
-* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)<!-- LASTFM:END -->
+* [demxntia — why do i try](https://www.last.fm/music/demxntia/_/why+do+i+try)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
