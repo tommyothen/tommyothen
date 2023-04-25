@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zanuda — Папиросы](https://www.last.fm/music/Zanuda/_/%D0%9F%D0%B0%D0%BF%D0%B8%D1%80%D0%BE%D1%81%D1%8B)
+* [Taska Black — Dead Inside](https://www.last.fm/music/Taska+Black/_/Dead+Inside)
 * [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)
 * [demxntia — why do i try](https://www.last.fm/music/demxntia/_/why+do+i+try)
-* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)
-* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [DUCKWRTH — I&#39;M DEAD](https://www.last.fm/music/DUCKWRTH/_/I%27M+DEAD)<!-- LASTFM:END -->
+* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
