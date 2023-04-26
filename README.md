@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)
+* [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)
 * [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)
 * [Atlas — BROKEN BEARINGS](https://www.last.fm/music/Atlas/_/BROKEN+BEARINGS)
-* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
-* [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)<!-- LASTFM:END -->
+* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
