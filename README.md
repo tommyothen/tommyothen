@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Where Does the Time Go &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Where+Does+the+Time+Go+&lpar;feat.+Joji&rpar;)
 * [KIDS SEE GHOSTS — 4th Dimension](https://www.last.fm/music/KIDS+SEE+GHOSTS/_/4th+Dimension)
 * [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
 * [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
-* [Tkay Maidza — So Cold](https://www.last.fm/music/Tkay+Maidza/_/So+Cold)<!-- LASTFM:END -->
+* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
