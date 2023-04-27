@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — АКВАРЕЛЬ](https://www.last.fm/music/FEDUK/_/%D0%90%D0%9A%D0%92%D0%90%D0%A0%D0%95%D0%9B%D0%AC)
+* [Shaun — Way Back Home &lpar;feat. Conor Maynard&rpar; - Sam Feldt Edit](https://www.last.fm/music/Shaun/_/Way+Back+Home+&lpar;feat.+Conor+Maynard&rpar;+-+Sam+Feldt+Edit)
 * [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
 * [XXXTENTACION — $$ - with Matt Ox](https://www.last.fm/music/XXXTENTACION/_/$$+-+with+Matt+Ox)
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
-* [Rich Brian — Little Prince &lpar;feat. NIKI&rpar;](https://www.last.fm/music/Rich+Brian/_/Little+Prince+&lpar;feat.+NIKI&rpar;)
-* [blackbear — Short Kings Anthem](https://www.last.fm/music/blackbear/_/Short+Kings+Anthem)<!-- LASTFM:END -->
+* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
