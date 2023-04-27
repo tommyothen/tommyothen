@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Seige — Demons](https://www.last.fm/music/The+Seige/_/Demons)
 * [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)
 * [MUST DIE! — Bliss 2K](https://www.last.fm/music/MUST+DIE!/_/Bliss+2K)
 * [Josh A — Late Nights @ Studio](https://www.last.fm/music/Josh+A/_/Late+Nights+@+Studio)
-* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)
-* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)<!-- LASTFM:END -->
+* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
