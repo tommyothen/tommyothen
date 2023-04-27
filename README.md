@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
+* [DUCKWRTH — Super Bounce](https://www.last.fm/music/DUCKWRTH/_/Super+Bounce)
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
 * [UNISON SQUARE GARDEN — カウンターアイデンティティ](https://www.last.fm/music/UNISON+SQUARE+GARDEN/_/%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%87%E3%83%B3%E3%83%86%E3%82%A3%E3%83%86%E3%82%A3)
-* [栗林みな実 — 残酷な夢と眠れ](https://www.last.fm/music/%E6%A0%97%E6%9E%97%E3%81%BF%E3%81%AA%E5%AE%9F/_/%E6%AE%8B%E9%85%B7%E3%81%AA%E5%A4%A2%E3%81%A8%E7%9C%A0%E3%82%8C)
-* [Chihiro Yonekura — Fairy Tail ~Yakusoku no Hi~](https://www.last.fm/music/Chihiro+Yonekura/_/Fairy+Tail+~Yakusoku+no+Hi~)
-* [Eir Aoi — INNOCENCE](https://www.last.fm/music/Eir+Aoi/_/INNOCENCE)
-* [フランシュシュ — 徒花ネクロマンシー - TV size](https://www.last.fm/music/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5/_/%E5%BE%92%E8%8A%B1%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%BC+-+TV+size)<!-- LASTFM:END -->
+* [栗林みな実 — 残酷な夢と眠れ](https://www.last.fm/music/%E6%A0%97%E6%9E%97%E3%81%BF%E3%81%AA%E5%AE%9F/_/%E6%AE%8B%E9%85%B7%E3%81%AA%E5%A4%A2%E3%81%A8%E7%9C%A0%E3%82%8C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
