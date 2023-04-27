@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Neighbourhood — Cry Baby](https://www.last.fm/music/The+Neighbourhood/_/Cry+Baby)
 * [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
 * [Y2K — Lalala](https://www.last.fm/music/Y2K/_/Lalala)
 * [Destiny Rogers — Euphoria](https://www.last.fm/music/Destiny+Rogers/_/Euphoria)
-* [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)
-* [Rainych — Say So - Japanese Version](https://www.last.fm/music/Rainych/_/Say+So+-+Japanese+Version)<!-- LASTFM:END -->
+* [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
