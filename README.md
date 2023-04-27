@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
+* [Rav — &quot;Geddit&quot; or &quot;The Commodity of Tenacity](https://www.last.fm/music/Rav/_/%22Geddit%22+or+%22The+Commodity+of+Tenacity)
+* [Eden — forever//over](https://www.last.fm/music/Eden/_/forever%2F%2Fover)
 * [Flughand — Feblu](https://www.last.fm/music/Flughand/_/Feblu)
-* [Yunomi — ジェリーフィッシュ &lpar;feat. ローラーガール&rpar;](https://www.last.fm/music/Yunomi/_/%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5+&lpar;feat.+%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB&rpar;)
-* [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
-* [The Neighbourhood — Cry Baby](https://www.last.fm/music/The+Neighbourhood/_/Cry+Baby)
-* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)<!-- LASTFM:END -->
+* [Yunomi — ジェリーフィッシュ &lpar;feat. ローラーガール&rpar;](https://www.last.fm/music/Yunomi/_/%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5+&lpar;feat.+%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
