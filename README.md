@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
+* [demxntia — it&#39;s alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
 * [Milkoi — Reflected](https://www.last.fm/music/Milkoi/_/Reflected)
 * [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
-* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
-* [Myles Parrish — Kickback](https://www.last.fm/music/Myles+Parrish/_/Kickback)
-* [Billie Eilish — bury a friend](https://www.last.fm/music/Billie+Eilish/_/bury+a+friend)<!-- LASTFM:END -->
+* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
