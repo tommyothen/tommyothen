@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — $$ - with Matt Ox](https://www.last.fm/music/XXXTENTACION/_/$$+-+with+Matt+Ox)
+* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
 * [Rich Brian — Little Prince &lpar;feat. NIKI&rpar;](https://www.last.fm/music/Rich+Brian/_/Little+Prince+&lpar;feat.+NIKI&rpar;)
 * [blackbear — Short Kings Anthem](https://www.last.fm/music/blackbear/_/Short+Kings+Anthem)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
-* [The Seige — Demons](https://www.last.fm/music/The+Seige/_/Demons)
-* [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)<!-- LASTFM:END -->
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
