@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rainych — Say So - Japanese Version](https://www.last.fm/music/Rainych/_/Say+So+-+Japanese+Version)
+* [FREEL — Спалах](https://www.last.fm/music/FREEL/_/%D0%A1%D0%BF%D0%B0%D0%BB%D0%B0%D1%85)
 * [Josh A — Hocus Pocus](https://www.last.fm/music/Josh+A/_/Hocus+Pocus)
 * [The Notorious B.I.G. — Notorious Thugs - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Notorious+Thugs+-+2014+Remaster)
-* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)
-* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
-* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)<!-- LASTFM:END -->
+* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
