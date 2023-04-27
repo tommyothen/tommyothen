@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [栗林みな実 — 残酷な夢と眠れ](https://www.last.fm/music/%E6%A0%97%E6%9E%97%E3%81%BF%E3%81%AA%E5%AE%9F/_/%E6%AE%8B%E9%85%B7%E3%81%AA%E5%A4%A2%E3%81%A8%E7%9C%A0%E3%82%8C)
+* [Chihiro Yonekura — Fairy Tail ~Yakusoku no Hi~](https://www.last.fm/music/Chihiro+Yonekura/_/Fairy+Tail+~Yakusoku+no+Hi~)
+* [Eir Aoi — INNOCENCE](https://www.last.fm/music/Eir+Aoi/_/INNOCENCE)
 * [フランシュシュ — 徒花ネクロマンシー - TV size](https://www.last.fm/music/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5/_/%E5%BE%92%E8%8A%B1%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%BC+-+TV+size)
-* [Hikaru Utada — PINK BLOOD](https://www.last.fm/music/Hikaru+Utada/_/PINK+BLOOD)
-* [ClariS — ALIVE](https://www.last.fm/music/ClariS/_/ALIVE)
-* [Kobaryo — Tool-Assisted Speedcore &lpar;TQBF Frame Advance RMX&rpar;](https://www.last.fm/music/Kobaryo/_/Tool-Assisted+Speedcore+&lpar;TQBF+Frame+Advance+RMX&rpar;)
-* [Irelia — Savages - accela remix](https://www.last.fm/music/Irelia/_/Savages+-+accela+remix)<!-- LASTFM:END -->
+* [Hikaru Utada — PINK BLOOD](https://www.last.fm/music/Hikaru+Utada/_/PINK+BLOOD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
