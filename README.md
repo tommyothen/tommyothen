@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
-* [DUCKWRTH — Super Bounce](https://www.last.fm/music/DUCKWRTH/_/Super+Bounce)
-* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [UNISON SQUARE GARDEN — カウンターアイデンティティ](https://www.last.fm/music/UNISON+SQUARE+GARDEN/_/%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%87%E3%83%B3%E3%83%86%E3%82%A3%E3%83%86%E3%82%A3)
-* [栗林みな実 — 残酷な夢と眠れ](https://www.last.fm/music/%E6%A0%97%E6%9E%97%E3%81%BF%E3%81%AA%E5%AE%9F/_/%E6%AE%8B%E9%85%B7%E3%81%AA%E5%A4%A2%E3%81%A8%E7%9C%A0%E3%82%8C)<!-- LASTFM:END -->
+* [June — Something To Lose](https://www.last.fm/music/June/_/Something+To+Lose)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [Joji — Worldstar Money &lpar;Interlude&rpar;](https://www.last.fm/music/Joji/_/Worldstar+Money+&lpar;Interlude&rpar;)
+* [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
+* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
