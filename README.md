@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Josh A — Last Night I Accepted Death](https://www.last.fm/music/Josh+A/_/Last+Night+I+Accepted+Death)
+* [XXXTENTACION — before i close my eyes](https://www.last.fm/music/XXXTENTACION/_/before+i+close+my+eyes)
+* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
 * [FEDUK — АКВАРЕЛЬ](https://www.last.fm/music/FEDUK/_/%D0%90%D0%9A%D0%92%D0%90%D0%A0%D0%95%D0%9B%D0%AC)
-* [Shaun — Way Back Home &lpar;feat. Conor Maynard&rpar; - Sam Feldt Edit](https://www.last.fm/music/Shaun/_/Way+Back+Home+&lpar;feat.+Conor+Maynard&rpar;+-+Sam+Feldt+Edit)
-* [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
-* [XXXTENTACION — $$ - with Matt Ox](https://www.last.fm/music/XXXTENTACION/_/$$+-+with+Matt+Ox)
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)<!-- LASTFM:END -->
+* [Shaun — Way Back Home &lpar;feat. Conor Maynard&rpar; - Sam Feldt Edit](https://www.last.fm/music/Shaun/_/Way+Back+Home+&lpar;feat.+Conor+Maynard&rpar;+-+Sam+Feldt+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
