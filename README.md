@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
+* [Y2K — Lalala](https://www.last.fm/music/Y2K/_/Lalala)
 * [Destiny Rogers — Euphoria](https://www.last.fm/music/Destiny+Rogers/_/Euphoria)
 * [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)
-* [Rainych — Say So - Japanese Version](https://www.last.fm/music/Rainych/_/Say+So+-+Japanese+Version)
-* [FREEL — Спалах](https://www.last.fm/music/FREEL/_/%D0%A1%D0%BF%D0%B0%D0%BB%D0%B0%D1%85)
-* [Josh A — Hocus Pocus](https://www.last.fm/music/Josh+A/_/Hocus+Pocus)<!-- LASTFM:END -->
+* [Rainych — Say So - Japanese Version](https://www.last.fm/music/Rainych/_/Say+So+-+Japanese+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
