@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Milkoi — Reflected](https://www.last.fm/music/Milkoi/_/Reflected)
 * [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
 * [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
 * [Myles Parrish — Kickback](https://www.last.fm/music/Myles+Parrish/_/Kickback)
-* [Billie Eilish — bury a friend](https://www.last.fm/music/Billie+Eilish/_/bury+a+friend)
-* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)<!-- LASTFM:END -->
+* [Billie Eilish — bury a friend](https://www.last.fm/music/Billie+Eilish/_/bury+a+friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
