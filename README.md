@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)
 * [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
 * [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)
 * [Purity Ring — stardew](https://www.last.fm/music/Purity+Ring/_/stardew)
-* [Noisestorm — Breakout](https://www.last.fm/music/Noisestorm/_/Breakout)
-* [Josh A — Last Night I Accepted Death](https://www.last.fm/music/Josh+A/_/Last+Night+I+Accepted+Death)<!-- LASTFM:END -->
+* [Noisestorm — Breakout](https://www.last.fm/music/Noisestorm/_/Breakout)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
