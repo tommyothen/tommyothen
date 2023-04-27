@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
-* [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)
-* [MC Virgins — Anime Thighs](https://www.last.fm/music/MC+Virgins/_/Anime+Thighs)
-* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
-* [Milkoi — ミユキ](https://www.last.fm/music/Milkoi/_/%E3%83%9F%E3%83%A6%E3%82%AD)<!-- LASTFM:END -->
+* [Claire Laffut — Vérité](https://www.last.fm/music/Claire+Laffut/_/V%C3%A9rit%C3%A9)
+* [MUST DIE! — Bliss 2K](https://www.last.fm/music/MUST+DIE!/_/Bliss+2K)
+* [Josh A — Late Nights @ Studio](https://www.last.fm/music/Josh+A/_/Late+Nights+@+Studio)
+* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)
+* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
