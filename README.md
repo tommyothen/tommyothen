@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jedwill — Immortal](https://www.last.fm/music/Jedwill/_/Immortal)
 * [Underscores — Spoiled little brat](https://www.last.fm/music/Underscores/_/Spoiled+little+brat)
 * [TOKYOPILL — Club Cyberia](https://www.last.fm/music/TOKYOPILL/_/Club+Cyberia)
 * [Shoebill — improvised mashcore](https://www.last.fm/music/Shoebill/_/improvised+mashcore)
-* [Underscores — Your favorite sidekick](https://www.last.fm/music/Underscores/_/Your+favorite+sidekick)
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)<!-- LASTFM:END -->
+* [Underscores — Your favorite sidekick](https://www.last.fm/music/Underscores/_/Your+favorite+sidekick)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
