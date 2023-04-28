@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
+* [TOKYOPILL — ONLINE INDUCED HIGH](https://www.last.fm/music/TOKYOPILL/_/ONLINE+INDUCED+HIGH)
+* [kosu. — gamu.](https://www.last.fm/music/kosu./_/gamu.)
 * [purity filter — luminescence](https://www.last.fm/music/purity+filter/_/luminescence)
-* [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)
-* [evaboy — is there a point &lpar;girl u know&rpar;](https://www.last.fm/music/evaboy/_/is+there+a+point+&lpar;girl+u+know&rpar;)
-* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
-* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)<!-- LASTFM:END -->
+* [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
