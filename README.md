@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vertigoaway — AM FM](https://www.last.fm/music/Vertigoaway/_/AM+FM)
+* [SAGEISKAMI — BLOOD X](https://www.last.fm/music/SAGEISKAMI/_/BLOOD+X)
 * [Trashiii — Pink Slips](https://www.last.fm/music/Trashiii/_/Pink+Slips)
 * [Gingus — homeswitcher](https://www.last.fm/music/Gingus/_/homeswitcher)
-* [DV-i — Resonance](https://www.last.fm/music/DV-i/_/Resonance)
-* [Starjunk 95 — Dozing Off Again... - House Edit](https://www.last.fm/music/Starjunk+95/_/Dozing+Off+Again...+-+House+Edit)
-* [Irelia — Savages - accela remix](https://www.last.fm/music/Irelia/_/Savages+-+accela+remix)<!-- LASTFM:END -->
+* [DV-i — Resonance](https://www.last.fm/music/DV-i/_/Resonance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
