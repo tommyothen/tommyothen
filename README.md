@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
+* [Starjunk 95 — Grimestar](https://www.last.fm/music/Starjunk+95/_/Grimestar)
+* [EgoFear — Gogo Yubari](https://www.last.fm/music/EgoFear/_/Gogo+Yubari)
 * [Star Trash — DATA//TRANSFER](https://www.last.fm/music/Star+Trash/_/DATA%2F%2FTRANSFER)
-* [SAGEISKAMI — GUNMA / BLOTTTER](https://www.last.fm/music/SAGEISKAMI/_/GUNMA+%2F+BLOTTTER)
-* [purity filter — Lost Silver](https://www.last.fm/music/purity+filter/_/Lost+Silver)
-* [k?d — PROTECT ME](https://www.last.fm/music/k%3Fd/_/PROTECT+ME)
-* [Starjunk 95 — Groove District](https://www.last.fm/music/Starjunk+95/_/Groove+District)<!-- LASTFM:END -->
+* [SAGEISKAMI — GUNMA / BLOTTTER](https://www.last.fm/music/SAGEISKAMI/_/GUNMA+%2F+BLOTTTER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
