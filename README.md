@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Folie — cortisol](https://www.last.fm/music/Folie/_/cortisol)
+* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
+* [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
 * [Vertigoaway — AM FM](https://www.last.fm/music/Vertigoaway/_/AM+FM)
-* [SAGEISKAMI — BLOOD X](https://www.last.fm/music/SAGEISKAMI/_/BLOOD+X)
-* [Trashiii — Pink Slips](https://www.last.fm/music/Trashiii/_/Pink+Slips)
-* [Gingus — homeswitcher](https://www.last.fm/music/Gingus/_/homeswitcher)
-* [DV-i — Resonance](https://www.last.fm/music/DV-i/_/Resonance)<!-- LASTFM:END -->
+* [SAGEISKAMI — BLOOD X](https://www.last.fm/music/SAGEISKAMI/_/BLOOD+X)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
