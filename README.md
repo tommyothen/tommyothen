@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JVNLIII — Out Of Reach!](https://www.last.fm/music/JVNLIII/_/Out+Of+Reach!)
+* [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
 * [KENTENSHI — GO-GO](https://www.last.fm/music/KENTENSHI/_/GO-GO)
-* [Irelia — goodbye_4ever](https://www.last.fm/music/Irelia/_/goodbye_4ever)
-* [TOKYOPILL — Pink Blood +](https://www.last.fm/music/TOKYOPILL/_/Pink+Blood+%252B)
-* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
-* [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)<!-- LASTFM:END -->
+* [Irelia — goodbye_4ever](https://www.last.fm/music/Irelia/_/goodbye_4ever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
