@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
+* [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
 * [Starjunk 95 — Subsonic Twilight](https://www.last.fm/music/Starjunk+95/_/Subsonic+Twilight)
-* [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)
-* [TOKYOPILL — WISH](https://www.last.fm/music/TOKYOPILL/_/WISH)
-* [Irelia — FOUTACAGOULE](https://www.last.fm/music/Irelia/_/FOUTACAGOULE)
-* [eightiesheadachetape — fifty thousand ones and zeroes](https://www.last.fm/music/eightiesheadachetape/_/fifty+thousand+ones+and+zeroes)<!-- LASTFM:END -->
+* [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
