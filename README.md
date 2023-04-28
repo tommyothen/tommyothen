@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Starjunk 95 — Rooftops](https://www.last.fm/music/Starjunk+95/_/Rooftops)
+* [Lucid Monday — Mania](https://www.last.fm/music/Lucid+Monday/_/Mania)
+* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
 * [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)
-* [six impala — Toy Car](https://www.last.fm/music/six+impala/_/Toy+Car)
-* [umru — popular](https://www.last.fm/music/umru/_/popular)
-* [8485 — So Dark](https://www.last.fm/music/8485/_/So+Dark)
-* [Starjunk 95 — Dreamfields](https://www.last.fm/music/Starjunk+95/_/Dreamfields)<!-- LASTFM:END -->
+* [six impala — Toy Car](https://www.last.fm/music/six+impala/_/Toy+Car)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
