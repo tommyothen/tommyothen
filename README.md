@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Starjunk 95 — Dreamfields](https://www.last.fm/music/Starjunk+95/_/Dreamfields)
+* [Dynastic — caldecott](https://www.last.fm/music/Dynastic/_/caldecott)
+* [expiry date — session 0777777777777r21qffffffff jkopüswedxywy w333333r](https://www.last.fm/music/expiry+date/_/session+0777777777777r21qffffffff+jkop%C3%BCswedxywy+w333333r)
 * [Jedwill — Immortal](https://www.last.fm/music/Jedwill/_/Immortal)
-* [Underscores — Spoiled little brat](https://www.last.fm/music/Underscores/_/Spoiled+little+brat)
-* [TOKYOPILL — Club Cyberia](https://www.last.fm/music/TOKYOPILL/_/Club+Cyberia)
-* [Shoebill — improvised mashcore](https://www.last.fm/music/Shoebill/_/improvised+mashcore)
-* [Underscores — Your favorite sidekick](https://www.last.fm/music/Underscores/_/Your+favorite+sidekick)<!-- LASTFM:END -->
+* [Underscores — Spoiled little brat](https://www.last.fm/music/Underscores/_/Spoiled+little+brat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
