@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [eightiesheadachetape — drift](https://www.last.fm/music/eightiesheadachetape/_/drift)
+* [CAKE POP — Black Rum](https://www.last.fm/music/CAKE+POP/_/Black+Rum)
 * [optic core — save file 3](https://www.last.fm/music/optic+core/_/save+file+3)
 * [EgoFear — Friday Nights at Cyberia](https://www.last.fm/music/EgoFear/_/Friday+Nights+at+Cyberia)
-* [4649nadeshiko — re:re: i made a snail pancake](https://www.last.fm/music/4649nadeshiko/_/re:re:+i+made+a+snail+pancake)
-* [Starjunk 95 — Stardust Circuit](https://www.last.fm/music/Starjunk+95/_/Stardust+Circuit)
-* [Yion — Girls Just Want Breaks &lpar;yion-flip&rpar;](https://www.last.fm/music/Yion/_/Girls+Just+Want+Breaks+&lpar;yion-flip&rpar;)<!-- LASTFM:END -->
+* [4649nadeshiko — re:re: i made a snail pancake](https://www.last.fm/music/4649nadeshiko/_/re:re:+i+made+a+snail+pancake)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
