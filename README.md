@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)
+* [six impala — Toy Car](https://www.last.fm/music/six+impala/_/Toy+Car)
+* [umru — popular](https://www.last.fm/music/umru/_/popular)
 * [8485 — So Dark](https://www.last.fm/music/8485/_/So+Dark)
-* [Starjunk 95 — Dreamfields](https://www.last.fm/music/Starjunk+95/_/Dreamfields)
-* [Dynastic — caldecott](https://www.last.fm/music/Dynastic/_/caldecott)
-* [expiry date — session 0777777777777r21qffffffff jkopüswedxywy w333333r](https://www.last.fm/music/expiry+date/_/session+0777777777777r21qffffffff+jkop%C3%BCswedxywy+w333333r)
-* [Jedwill — Immortal](https://www.last.fm/music/Jedwill/_/Immortal)<!-- LASTFM:END -->
+* [Starjunk 95 — Dreamfields](https://www.last.fm/music/Starjunk+95/_/Dreamfields)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
