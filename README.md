@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Irelia — Savages - accela remix](https://www.last.fm/music/Irelia/_/Savages+-+accela+remix)
-* [c0ncernn — the joke is on you](https://www.last.fm/music/c0ncernn/_/the+joke+is+on+you)
-* [JVNLIII — Out Of Reach!](https://www.last.fm/music/JVNLIII/_/Out+Of+Reach!)
-* [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)
-* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)<!-- LASTFM:END -->
+* [Trashiii — Pink Slips](https://www.last.fm/music/Trashiii/_/Pink+Slips)
+* [Gingus — homeswitcher](https://www.last.fm/music/Gingus/_/homeswitcher)
+* [DV-i — Resonance](https://www.last.fm/music/DV-i/_/Resonance)
+* [Starjunk 95 — Dozing Off Again... - House Edit](https://www.last.fm/music/Starjunk+95/_/Dozing+Off+Again...+-+House+Edit)
+* [Irelia — Savages - accela remix](https://www.last.fm/music/Irelia/_/Savages+-+accela+remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
