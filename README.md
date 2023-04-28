@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Fuufu Ijou, Koibito Miman. - TV](https://myanimelist.net/anime/50425/Fuufu_Ijou_Koibito_Miman) - Completed - 12 of 12 episodes
 * [Shinmai Maou no Testament Burst - TV](https://myanimelist.net/anime/30363/Shinmai_Maou_no_Testament_Burst) - Completed - 10 of 10 episodes
 * [Odd Taxi - TV](https://myanimelist.net/anime/46102/Odd_Taxi) - Watching - 1 of 13 episodes
 * [Saiki Kusuo no Ψ-nan - TV](https://myanimelist.net/anime/33255/Saiki_Kusuo_no_Ψ-nan) - Watching - 40 of 120 episodes
-* [Bocchi the Rock! - TV](https://myanimelist.net/anime/47917/Bocchi_the_Rock) - Completed - 12 of 12 episodes
-* [Hai to Gensou no Grimgar - TV](https://myanimelist.net/anime/31859/Hai_to_Gensou_no_Grimgar) - Plan to Watch - 0 of 12 episodes<!-- ANIME-LIST:END -->
+* [Bocchi the Rock! - TV](https://myanimelist.net/anime/47917/Bocchi_the_Rock) - Completed - 12 of 12 episodes<!-- ANIME-LIST:END -->
