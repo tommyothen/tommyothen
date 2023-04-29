@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
 * [TOKYOPILL — Godspeed](https://www.last.fm/music/TOKYOPILL/_/Godspeed)
 * [purity filter — bladee velociraptor &lpar;purity filter nightcore flip&rpar;](https://www.last.fm/music/purity+filter/_/bladee+velociraptor+&lpar;purity+filter+nightcore+flip&rpar;)
 * [EgoFear — When She Left This World](https://www.last.fm/music/EgoFear/_/When+She+Left+This+World)
-* [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)
-* [SAGEISKAMI — Running in the 00s](https://www.last.fm/music/SAGEISKAMI/_/Running+in+the+00s)<!-- LASTFM:END -->
+* [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
