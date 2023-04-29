@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Starjunk 95 — Polygon Beach](https://www.last.fm/music/Starjunk+95/_/Polygon+Beach)
-* [GOLEMM — Ecstasy](https://www.last.fm/music/GOLEMM/_/Ecstasy)
-* [3mouth — RLY SUPER HIGH TRICK COMBO](https://www.last.fm/music/3mouth/_/RLY+SUPER+HIGH+TRICK+COMBO)
-* [TOKYOPILL — Speed Star](https://www.last.fm/music/TOKYOPILL/_/Speed+Star)
-* [In Explosions — pacific ave](https://www.last.fm/music/In+Explosions/_/pacific+ave)<!-- LASTFM:END -->
+* [BLKSMIITH — ominous](https://www.last.fm/music/BLKSMIITH/_/ominous)
+* [KENTENSHI — Ultra](https://www.last.fm/music/KENTENSHI/_/Ultra)
+* [Lomaji — RR](https://www.last.fm/music/Lomaji/_/RR)
+* [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)
+* [GOLEMM — Sky Lands](https://www.last.fm/music/GOLEMM/_/Sky+Lands)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
