@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GOLEMM — Exotic!](https://www.last.fm/music/GOLEMM/_/Exotic!)
-* [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)
-* [TOKYOPILL — Human REALITY](https://www.last.fm/music/TOKYOPILL/_/Human+REALITY)
-* [Yesterdayneverhappened — Which one of the Triplets?](https://www.last.fm/music/Yesterdayneverhappened/_/Which+one+of+the+Triplets%3F)
-* [Trashiii — Elysium Alps](https://www.last.fm/music/Trashiii/_/Elysium+Alps)<!-- LASTFM:END -->
+* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)
+* [GOLEMM — Submerge](https://www.last.fm/music/GOLEMM/_/Submerge)
+* [c678924 — ¡¡¡](https://www.last.fm/music/c678924/_/%C2%A1%C2%A1%C2%A1)
+* [TOKYOPILL — S u r r e a l i t y](https://www.last.fm/music/TOKYOPILL/_/S+u+r+r+e+a+l+i+t+y)
+* [Trashiii — KIRBYBREAKS](https://www.last.fm/music/Trashiii/_/KIRBYBREAKS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
