@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)
+* [SAGEISKAMI — Running in the 00s](https://www.last.fm/music/SAGEISKAMI/_/Running+in+the+00s)
+* [GOLEMM — Far Out](https://www.last.fm/music/GOLEMM/_/Far+Out)
 * [Snafu — You Arent All Cool And Edgy Just Cuz You Like Lain](https://www.last.fm/music/Snafu/_/You+Arent+All+Cool+And+Edgy+Just+Cuz+You+Like+Lain)
-* [TOKYOPILL — ESCape](https://www.last.fm/music/TOKYOPILL/_/ESCape)
-* [Passing Currents — We Chose You](https://www.last.fm/music/Passing+Currents/_/We+Chose+You)
-* [optic core — Aether World](https://www.last.fm/music/optic+core/_/Aether+World)
-* [blottter — ATK.DFS](https://www.last.fm/music/blottter/_/ATK.DFS)<!-- LASTFM:END -->
+* [TOKYOPILL — ESCape](https://www.last.fm/music/TOKYOPILL/_/ESCape)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
