@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Snafu — bad_music](https://www.last.fm/music/Snafu/_/bad_music)
-* [TOKYOPILL — Heaven&#39;s ULTRA](https://www.last.fm/music/TOKYOPILL/_/Heaven%27s+ULTRA)
-* [Otira — Believe In Yourself](https://www.last.fm/music/Otira/_/Believe+In+Yourself)
-* [GNB CHILI — Escape from Anxiety](https://www.last.fm/music/GNB+CHILI/_/Escape+from+Anxiety)
-* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)<!-- LASTFM:END -->
+* [optic core — Aether World](https://www.last.fm/music/optic+core/_/Aether+World)
+* [blottter — ATK.DFS](https://www.last.fm/music/blottter/_/ATK.DFS)
+* [Dracodraco — through the light](https://www.last.fm/music/Dracodraco/_/through+the+light)
+* [GOLEMM — Bionic Golem](https://www.last.fm/music/GOLEMM/_/Bionic+Golem)
+* [Snafu — bad_music](https://www.last.fm/music/Snafu/_/bad_music)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
