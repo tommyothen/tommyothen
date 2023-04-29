@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
-* [Arane — ASHAMED](https://www.last.fm/music/Arane/_/ASHAMED)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [TOKYOPILL — Godspeed](https://www.last.fm/music/TOKYOPILL/_/Godspeed)
-* [purity filter — bladee velociraptor &lpar;purity filter nightcore flip&rpar;](https://www.last.fm/music/purity+filter/_/bladee+velociraptor+&lpar;purity+filter+nightcore+flip&rpar;)<!-- LASTFM:END -->
+* [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)
+* [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)
+* [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
+* [Phonon — emme](https://www.last.fm/music/Phonon/_/emme)
+* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
