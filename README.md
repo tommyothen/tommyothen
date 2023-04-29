@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Trashiii — Snowdream](https://www.last.fm/music/Trashiii/_/Snowdream)
-* [GOLEMM — Polliwogs](https://www.last.fm/music/GOLEMM/_/Polliwogs)
-* [Otira — Pill](https://www.last.fm/music/Otira/_/Pill)
-* [In Explosions — amnesia](https://www.last.fm/music/In+Explosions/_/amnesia)
-* [TOKYOPILL — Experiment: E u p h o r i a](https://www.last.fm/music/TOKYOPILL/_/Experiment:+E+u+p+h+o+r+i+a)<!-- LASTFM:END -->
+* [GOLEMM — Exotic!](https://www.last.fm/music/GOLEMM/_/Exotic!)
+* [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)
+* [TOKYOPILL — Human REALITY](https://www.last.fm/music/TOKYOPILL/_/Human+REALITY)
+* [Yesterdayneverhappened — Which one of the Triplets?](https://www.last.fm/music/Yesterdayneverhappened/_/Which+one+of+the+Triplets%3F)
+* [Trashiii — Elysium Alps](https://www.last.fm/music/Trashiii/_/Elysium+Alps)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
