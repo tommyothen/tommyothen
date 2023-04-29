@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [3mouth — 1 SHOTTING THE ENDER DRAGON](https://www.last.fm/music/3mouth/_/1+SHOTTING+THE+ENDER+DRAGON)
-* [GOLEMM — Ant Racing](https://www.last.fm/music/GOLEMM/_/Ant+Racing)
-* [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)
-* [hxly xo — Starry](https://www.last.fm/music/hxly+xo/_/Starry)
-* [Starjunk 95 — Plastic Waves](https://www.last.fm/music/Starjunk+95/_/Plastic+Waves)<!-- LASTFM:END -->
+* [Starjunk 95 — Polygon Beach](https://www.last.fm/music/Starjunk+95/_/Polygon+Beach)
+* [GOLEMM — Ecstasy](https://www.last.fm/music/GOLEMM/_/Ecstasy)
+* [3mouth — RLY SUPER HIGH TRICK COMBO](https://www.last.fm/music/3mouth/_/RLY+SUPER+HIGH+TRICK+COMBO)
+* [TOKYOPILL — Speed Star](https://www.last.fm/music/TOKYOPILL/_/Speed+Star)
+* [In Explosions — pacific ave](https://www.last.fm/music/In+Explosions/_/pacific+ave)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
