@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Starjunk 95 — Kawaii Till I Die](https://www.last.fm/music/Starjunk+95/_/Kawaii+Till+I+Die)
-* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
-* [d0llywood1 — Imgonnagetmyrevenge](https://www.last.fm/music/d0llywood1/_/Imgonnagetmyrevenge)
-* [blackwinterwells — IRIS](https://www.last.fm/music/blackwinterwells/_/IRIS)
-* [GOLEMM — Chase](https://www.last.fm/music/GOLEMM/_/Chase)<!-- LASTFM:END -->
+* [Trashiii — Snowdream](https://www.last.fm/music/Trashiii/_/Snowdream)
+* [GOLEMM — Polliwogs](https://www.last.fm/music/GOLEMM/_/Polliwogs)
+* [Otira — Pill](https://www.last.fm/music/Otira/_/Pill)
+* [In Explosions — amnesia](https://www.last.fm/music/In+Explosions/_/amnesia)
+* [TOKYOPILL — Experiment: E u p h o r i a](https://www.last.fm/music/TOKYOPILL/_/Experiment:+E+u+p+h+o+r+i+a)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
