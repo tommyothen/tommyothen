@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TOKYOPILL — Godspeed](https://www.last.fm/music/TOKYOPILL/_/Godspeed)
+* [purity filter — bladee velociraptor &lpar;purity filter nightcore flip&rpar;](https://www.last.fm/music/purity+filter/_/bladee+velociraptor+&lpar;purity+filter+nightcore+flip&rpar;)
+* [EgoFear — When She Left This World](https://www.last.fm/music/EgoFear/_/When+She+Left+This+World)
 * [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)
-* [SAGEISKAMI — Running in the 00s](https://www.last.fm/music/SAGEISKAMI/_/Running+in+the+00s)
-* [GOLEMM — Far Out](https://www.last.fm/music/GOLEMM/_/Far+Out)
-* [Snafu — You Arent All Cool And Edgy Just Cuz You Like Lain](https://www.last.fm/music/Snafu/_/You+Arent+All+Cool+And+Edgy+Just+Cuz+You+Like+Lain)
-* [TOKYOPILL — ESCape](https://www.last.fm/music/TOKYOPILL/_/ESCape)<!-- LASTFM:END -->
+* [SAGEISKAMI — Running in the 00s](https://www.last.fm/music/SAGEISKAMI/_/Running+in+the+00s)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
