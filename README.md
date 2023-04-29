@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Starjunk 95 — Rooftops](https://www.last.fm/music/Starjunk+95/_/Rooftops)
-* [Lucid Monday — Mania](https://www.last.fm/music/Lucid+Monday/_/Mania)
-* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
-* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)
-* [six impala — Toy Car](https://www.last.fm/music/six+impala/_/Toy+Car)<!-- LASTFM:END -->
+* [3mouth — 1 SHOTTING THE ENDER DRAGON](https://www.last.fm/music/3mouth/_/1+SHOTTING+THE+ENDER+DRAGON)
+* [GOLEMM — Ant Racing](https://www.last.fm/music/GOLEMM/_/Ant+Racing)
+* [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)
+* [hxly xo — Starry](https://www.last.fm/music/hxly+xo/_/Starry)
+* [Starjunk 95 — Plastic Waves](https://www.last.fm/music/Starjunk+95/_/Plastic+Waves)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
