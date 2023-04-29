@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Creepy Nuts — 堕天](https://www.last.fm/music/Creepy+Nuts/_/%E5%A0%95%E5%A4%A9)
+* [Konomi Suzuki — Redo](https://www.last.fm/music/Konomi+Suzuki/_/Redo)
 * [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
 * [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)
-* [GOLEMM — Ant Racing](https://www.last.fm/music/GOLEMM/_/Ant+Racing)
-* [TOKYOPILL — Inject The Web](https://www.last.fm/music/TOKYOPILL/_/Inject+The+Web)
-* [Starjunk 95 — Grimestar](https://www.last.fm/music/Starjunk+95/_/Grimestar)<!-- LASTFM:END -->
+* [GOLEMM — Ant Racing](https://www.last.fm/music/GOLEMM/_/Ant+Racing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
