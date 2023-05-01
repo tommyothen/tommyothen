@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
-* [nothing,nowhere. — dread](https://www.last.fm/music/nothing,nowhere./_/dread)
-* [The Neighbourhood — Cry Baby](https://www.last.fm/music/The+Neighbourhood/_/Cry+Baby)
-* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
-* [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)<!-- LASTFM:END -->
+* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
+* [Ghost Data — Blatant Plagiarism](https://www.last.fm/music/Ghost+Data/_/Blatant+Plagiarism)
+* [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)
+* [XXXTENTACION — Indecision](https://www.last.fm/music/XXXTENTACION/_/Indecision)
+* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
