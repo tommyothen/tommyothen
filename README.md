@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yuno Miles — Indiana Jones](https://www.last.fm/music/Yuno+Miles/_/Indiana+Jones)
 * [kikuo — あなぐらぐらし](https://www.last.fm/music/kikuo/_/%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97)
 * [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
 * [88rising — Head In The Clouds](https://www.last.fm/music/88rising/_/Head+In+The+Clouds)
-* [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)
-* [Lil Peep — Kiss](https://www.last.fm/music/Lil+Peep/_/Kiss)<!-- LASTFM:END -->
+* [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
