@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
 * [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)
 * [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
 * [Dreamcatcher — Full Moon](https://www.last.fm/music/Dreamcatcher/_/Full+Moon)
-* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
-* [Freddie Dredd — Evil fantasy](https://www.last.fm/music/Freddie+Dredd/_/Evil+fantasy)<!-- LASTFM:END -->
+* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
