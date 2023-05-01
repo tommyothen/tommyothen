@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
 * [88rising — Head In The Clouds](https://www.last.fm/music/88rising/_/Head+In+The+Clouds)
 * [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)
 * [Lil Peep — Kiss](https://www.last.fm/music/Lil+Peep/_/Kiss)
-* [Shawn Wasabi — MARBLE TEA](https://www.last.fm/music/Shawn+Wasabi/_/MARBLE+TEA)
-* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)<!-- LASTFM:END -->
+* [Shawn Wasabi — MARBLE TEA](https://www.last.fm/music/Shawn+Wasabi/_/MARBLE+TEA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
