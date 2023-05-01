@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Freddie Dredd — Evil fantasy](https://www.last.fm/music/Freddie+Dredd/_/Evil+fantasy)
+* [Mura Kami — Wait](https://www.last.fm/music/Mura+Kami/_/Wait)
 * [Sebastian Paul — VANILLA](https://www.last.fm/music/Sebastian+Paul/_/VANILLA)
 * [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
-* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)
-* [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)<!-- LASTFM:END -->
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
