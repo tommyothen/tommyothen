@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Little Mix — Power](https://www.last.fm/music/Little+Mix/_/Power)
+* [Little Mix — Salute](https://www.last.fm/music/Little+Mix/_/Salute)
 * [Gala — Freed from Desire](https://www.last.fm/music/Gala/_/Freed+from+Desire)
 * [Sean Kingston — Eenie Meenie](https://www.last.fm/music/Sean+Kingston/_/Eenie+Meenie)
-* [Belinda Carlisle — Heaven Is a Place on Earth](https://www.last.fm/music/Belinda+Carlisle/_/Heaven+Is+a+Place+on+Earth)
-* [Why Don&#39;t We — How Do You Love Somebody](https://www.last.fm/music/Why+Don%27t+We/_/How+Do+You+Love+Somebody)
-* [Rascal Flatts — Life Is a Highway](https://www.last.fm/music/Rascal+Flatts/_/Life+Is+a+Highway)<!-- LASTFM:END -->
+* [Belinda Carlisle — Heaven Is a Place on Earth](https://www.last.fm/music/Belinda+Carlisle/_/Heaven+Is+a+Place+on+Earth)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
