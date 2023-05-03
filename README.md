@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Train — 50 Ways to Say Goodbye](https://www.last.fm/music/Train/_/50+Ways+to+Say+Goodbye)
+* [Chris Brown — Fine China](https://www.last.fm/music/Chris+Brown/_/Fine+China)
 * [Little Mix — Power](https://www.last.fm/music/Little+Mix/_/Power)
 * [Little Mix — Salute](https://www.last.fm/music/Little+Mix/_/Salute)
-* [Gala — Freed from Desire](https://www.last.fm/music/Gala/_/Freed+from+Desire)
-* [Sean Kingston — Eenie Meenie](https://www.last.fm/music/Sean+Kingston/_/Eenie+Meenie)
-* [Belinda Carlisle — Heaven Is a Place on Earth](https://www.last.fm/music/Belinda+Carlisle/_/Heaven+Is+a+Place+on+Earth)<!-- LASTFM:END -->
+* [Gala — Freed from Desire](https://www.last.fm/music/Gala/_/Freed+from+Desire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
