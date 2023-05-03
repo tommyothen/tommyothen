@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rascal Flatts — Life Is a Highway](https://www.last.fm/music/Rascal+Flatts/_/Life+Is+a+Highway)
+* [Taylor Swift — 22](https://www.last.fm/music/Taylor+Swift/_/22)
 * [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
 * [Demi Lovato — Heart Attack - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Heart+Attack+-+Rock+Version)
-* [Michael Jackson — Beat It](https://www.last.fm/music/Michael+Jackson/_/Beat+It)
-* [Lady Gaga — Alejandro](https://www.last.fm/music/Lady+Gaga/_/Alejandro)
-* [One Direction — Steal My Girl](https://www.last.fm/music/One+Direction/_/Steal+My+Girl)<!-- LASTFM:END -->
+* [Michael Jackson — Beat It](https://www.last.fm/music/Michael+Jackson/_/Beat+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
