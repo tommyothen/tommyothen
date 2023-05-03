@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)
+* [Little Mix — Trash](https://www.last.fm/music/Little+Mix/_/Trash)
 * [Selena Gomez — Feel Me](https://www.last.fm/music/Selena+Gomez/_/Feel+Me)
 * [Anne-Marie — PSYCHO](https://www.last.fm/music/Anne-Marie/_/PSYCHO)
-* [Katy Perry — Part of Me](https://www.last.fm/music/Katy+Perry/_/Part+of+Me)
-* [Galantis — Heartbreak Anthem &lpar;with David Guetta &amp; Little Mix&rpar;](https://www.last.fm/music/Galantis/_/Heartbreak+Anthem+&lpar;with+David+Guetta+&amp;+Little+Mix&rpar;)
-* [Little Mix — Shout Out to My Ex](https://www.last.fm/music/Little+Mix/_/Shout+Out+to+My+Ex)<!-- LASTFM:END -->
+* [Katy Perry — Part of Me](https://www.last.fm/music/Katy+Perry/_/Part+of+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
