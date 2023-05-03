@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Selena Gomez — Feel Me](https://www.last.fm/music/Selena+Gomez/_/Feel+Me)
+* [Anne-Marie — PSYCHO](https://www.last.fm/music/Anne-Marie/_/PSYCHO)
 * [Katy Perry — Part of Me](https://www.last.fm/music/Katy+Perry/_/Part+of+Me)
 * [Galantis — Heartbreak Anthem &lpar;with David Guetta &amp; Little Mix&rpar;](https://www.last.fm/music/Galantis/_/Heartbreak+Anthem+&lpar;with+David+Guetta+&amp;+Little+Mix&rpar;)
-* [Little Mix — Shout Out to My Ex](https://www.last.fm/music/Little+Mix/_/Shout+Out+to+My+Ex)
-* [Nicole Scherzinger — Don&#39;t Hold Your Breath](https://www.last.fm/music/Nicole+Scherzinger/_/Don%27t+Hold+Your+Breath)
-* [Abbie Mottram — Best U Had](https://www.last.fm/music/Abbie+Mottram/_/Best+U+Had)<!-- LASTFM:END -->
+* [Little Mix — Shout Out to My Ex](https://www.last.fm/music/Little+Mix/_/Shout+Out+to+My+Ex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
