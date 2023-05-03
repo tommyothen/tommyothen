@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
 * [Demi Lovato — Heart Attack - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Heart+Attack+-+Rock+Version)
 * [Michael Jackson — Beat It](https://www.last.fm/music/Michael+Jackson/_/Beat+It)
 * [Lady Gaga — Alejandro](https://www.last.fm/music/Lady+Gaga/_/Alejandro)
-* [One Direction — Steal My Girl](https://www.last.fm/music/One+Direction/_/Steal+My+Girl)
-* [Harry Styles — Music for a Sushi Restaurant](https://www.last.fm/music/Harry+Styles/_/Music+for+a+Sushi+Restaurant)<!-- LASTFM:END -->
+* [One Direction — Steal My Girl](https://www.last.fm/music/One+Direction/_/Steal+My+Girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
