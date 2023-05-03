@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Abbie Mottram — Best U Had](https://www.last.fm/music/Abbie+Mottram/_/Best+U+Had)
+* [Abbie Mottram — Nightmare](https://www.last.fm/music/Abbie+Mottram/_/Nightmare)
 * [Clinton Kane — GO TO HELL](https://www.last.fm/music/Clinton+Kane/_/GO+TO+HELL)
 * [Little Mix — Sweet Melody](https://www.last.fm/music/Little+Mix/_/Sweet+Melody)
-* [Sara Bareilles — Love Song](https://www.last.fm/music/Sara+Bareilles/_/Love+Song)
-* [Naomi Scott — She&#39;s So Gone](https://www.last.fm/music/Naomi+Scott/_/She%27s+So+Gone)
-* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)<!-- LASTFM:END -->
+* [Sara Bareilles — Love Song](https://www.last.fm/music/Sara+Bareilles/_/Love+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
