@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bridgit Mendler — Ready or Not](https://www.last.fm/music/Bridgit+Mendler/_/Ready+or+Not)
+* [One Direction — Little White Lies](https://www.last.fm/music/One+Direction/_/Little+White+Lies)
 * [Jonas Brothers — Play My Music](https://www.last.fm/music/Jonas+Brothers/_/Play+My+Music)
 * [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
-* [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)
-* [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)
-* [Olly Murs — Up &lpar;feat. Demi Lovato&rpar;](https://www.last.fm/music/Olly+Murs/_/Up+&lpar;feat.+Demi+Lovato&rpar;)<!-- LASTFM:END -->
+* [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
