@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [G.R.L. — Ugly Heart](https://www.last.fm/music/G.R.L./_/Ugly+Heart)
+* [Mika — Grace Kelly](https://www.last.fm/music/Mika/_/Grace+Kelly)
 * [Bridgit Mendler — Ready or Not](https://www.last.fm/music/Bridgit+Mendler/_/Ready+or+Not)
 * [One Direction — Little White Lies](https://www.last.fm/music/One+Direction/_/Little+White+Lies)
-* [Jonas Brothers — Play My Music](https://www.last.fm/music/Jonas+Brothers/_/Play+My+Music)
-* [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
-* [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)<!-- LASTFM:END -->
+* [Jonas Brothers — Play My Music](https://www.last.fm/music/Jonas+Brothers/_/Play+My+Music)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
