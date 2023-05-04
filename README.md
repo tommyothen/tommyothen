@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
+* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
 * [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [Slipknot — Dead Memories](https://www.last.fm/music/Slipknot/_/Dead+Memories)
-* [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)<!-- LASTFM:END -->
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
