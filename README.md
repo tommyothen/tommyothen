@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Öwnboss — Move Your Body](https://www.last.fm/music/%C3%96wnboss/_/Move+Your+Body)
+* [AZ2A — Superstar](https://www.last.fm/music/AZ2A/_/Superstar)
 * [Herb Alpert &amp; The Tijuana Brass — Spanish Flea](https://www.last.fm/music/Herb+Alpert+&amp;+The+Tijuana+Brass/_/Spanish+Flea)
 * [LOBSTA B — CRAZYFROG OUVERTURE](https://www.last.fm/music/LOBSTA+B/_/CRAZYFROG+OUVERTURE)
-* [Crazy Frog — Axel F](https://www.last.fm/music/Crazy+Frog/_/Axel+F)
-* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
-* [The 1975 — Girls](https://www.last.fm/music/The+1975/_/Girls)<!-- LASTFM:END -->
+* [Crazy Frog — Axel F](https://www.last.fm/music/Crazy+Frog/_/Axel+F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
