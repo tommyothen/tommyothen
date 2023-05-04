@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)
 * [Ashnikko — Daisy](https://www.last.fm/music/Ashnikko/_/Daisy)
 * [Ariana Grande — Problem](https://www.last.fm/music/Ariana+Grande/_/Problem)
 * [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)
-* [Modulate — The Boy Is Mine](https://www.last.fm/music/Modulate/_/The+Boy+Is+Mine)
-* [Adolf Nomura — BEAT THE POLICE](https://www.last.fm/music/Adolf+Nomura/_/BEAT+THE+POLICE)<!-- LASTFM:END -->
+* [Modulate — The Boy Is Mine](https://www.last.fm/music/Modulate/_/The+Boy+Is+Mine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
