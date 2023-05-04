@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IC3PEAK — Kiss Of Death](https://www.last.fm/music/IC3PEAK/_/Kiss+Of+Death)
+* [IC3PEAK — Пламя](https://www.last.fm/music/IC3PEAK/_/%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F)
 * [IC3PEAK — Яма](https://www.last.fm/music/IC3PEAK/_/%D0%AF%D0%BC%D0%B0)
 * [IC3PEAK — Красота И Сила](https://www.last.fm/music/IC3PEAK/_/%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0+%D0%98+%D0%A1%D0%B8%D0%BB%D0%B0)
-* [boulevard depo — Ожоги &lpar;feat. IC3PEAK&rpar;](https://www.last.fm/music/boulevard+depo/_/%D0%9E%D0%B6%D0%BE%D0%B3%D0%B8+&lpar;feat.+IC3PEAK&rpar;)
-* [IC3PEAK — Марш](https://www.last.fm/music/IC3PEAK/_/%D0%9C%D0%B0%D1%80%D1%88)
-* [IC3PEAK — THIS WORLD IS SICK](https://www.last.fm/music/IC3PEAK/_/THIS+WORLD+IS+SICK)<!-- LASTFM:END -->
+* [boulevard depo — Ожоги &lpar;feat. IC3PEAK&rpar;](https://www.last.fm/music/boulevard+depo/_/%D0%9E%D0%B6%D0%BE%D0%B3%D0%B8+&lpar;feat.+IC3PEAK&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
