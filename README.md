@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cliq — Wavey &lpar;feat. Alika&rpar;](https://www.last.fm/music/Cliq/_/Wavey+&lpar;feat.+Alika&rpar;)
+* [Faithless — Insomnia - Radio edit](https://www.last.fm/music/Faithless/_/Insomnia+-+Radio+edit)
+* [THAT KIND — Love On Me](https://www.last.fm/music/THAT+KIND/_/Love+On+Me)
 * [Öwnboss — Move Your Body](https://www.last.fm/music/%C3%96wnboss/_/Move+Your+Body)
-* [AZ2A — Superstar](https://www.last.fm/music/AZ2A/_/Superstar)
-* [Herb Alpert &amp; The Tijuana Brass — Spanish Flea](https://www.last.fm/music/Herb+Alpert+&amp;+The+Tijuana+Brass/_/Spanish+Flea)
-* [LOBSTA B — CRAZYFROG OUVERTURE](https://www.last.fm/music/LOBSTA+B/_/CRAZYFROG+OUVERTURE)
-* [Crazy Frog — Axel F](https://www.last.fm/music/Crazy+Frog/_/Axel+F)<!-- LASTFM:END -->
+* [AZ2A — Superstar](https://www.last.fm/music/AZ2A/_/Superstar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
