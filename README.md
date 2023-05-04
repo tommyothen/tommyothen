@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Adolf Nomura — BEAT THE POLICE](https://www.last.fm/music/Adolf+Nomura/_/BEAT+THE+POLICE)
+* [Roger Sanchez — Another Chance - Radio Edit](https://www.last.fm/music/Roger+Sanchez/_/Another+Chance+-+Radio+Edit)
 * [Cliq — Wavey &lpar;feat. Alika&rpar;](https://www.last.fm/music/Cliq/_/Wavey+&lpar;feat.+Alika&rpar;)
 * [Faithless — Insomnia - Radio edit](https://www.last.fm/music/Faithless/_/Insomnia+-+Radio+edit)
-* [THAT KIND — Love On Me](https://www.last.fm/music/THAT+KIND/_/Love+On+Me)
-* [Öwnboss — Move Your Body](https://www.last.fm/music/%C3%96wnboss/_/Move+Your+Body)
-* [AZ2A — Superstar](https://www.last.fm/music/AZ2A/_/Superstar)<!-- LASTFM:END -->
+* [THAT KIND — Love On Me](https://www.last.fm/music/THAT+KIND/_/Love+On+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
