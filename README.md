@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Demi Lovato — Sorry Not Sorry](https://www.last.fm/music/Demi+Lovato/_/Sorry+Not+Sorry)
+* [Taylor Swift — Look What You Made Me Do](https://www.last.fm/music/Taylor+Swift/_/Look+What+You+Made+Me+Do)
 * [Taylor Swift — We Are Never Ever Getting Back Together](https://www.last.fm/music/Taylor+Swift/_/We+Are+Never+Ever+Getting+Back+Together)
 * [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)
-* [Ashnikko — Daisy](https://www.last.fm/music/Ashnikko/_/Daisy)
-* [Ariana Grande — Problem](https://www.last.fm/music/Ariana+Grande/_/Problem)
-* [Olivia Rodrigo — good 4 u](https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u)<!-- LASTFM:END -->
+* [Ashnikko — Daisy](https://www.last.fm/music/Ashnikko/_/Daisy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
