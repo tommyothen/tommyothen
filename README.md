@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [boulevard depo — Ожоги &lpar;feat. IC3PEAK&rpar;](https://www.last.fm/music/boulevard+depo/_/%D0%9E%D0%B6%D0%BE%D0%B3%D0%B8+&lpar;feat.+IC3PEAK&rpar;)
+* [IC3PEAK — Марш](https://www.last.fm/music/IC3PEAK/_/%D0%9C%D0%B0%D1%80%D1%88)
 * [IC3PEAK — THIS WORLD IS SICK](https://www.last.fm/music/IC3PEAK/_/THIS+WORLD+IS+SICK)
 * [IC3PEAK — Червь / Worm](https://www.last.fm/music/IC3PEAK/_/%D0%A7%D0%B5%D1%80%D0%B2%D1%8C+%2F+Worm)
-* [IC3PEAK — Сказка](https://www.last.fm/music/IC3PEAK/_/%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0)
-* [IC3PEAK — Плак-Плак](https://www.last.fm/music/IC3PEAK/_/%D0%9F%D0%BB%D0%B0%D0%BA-%D0%9F%D0%BB%D0%B0%D0%BA)
-* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)<!-- LASTFM:END -->
+* [IC3PEAK — Сказка](https://www.last.fm/music/IC3PEAK/_/%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
