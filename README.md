@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [Ashnikko — Daisy 2.0 &lpar;feat. Hatsune Miku&rpar;](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+&lpar;feat.+Hatsune+Miku&rpar;)
 * [Lady Gaga — The Edge of Glory](https://www.last.fm/music/Lady+Gaga/_/The+Edge+of+Glory)
 * [Beyoncé — Irreplaceable](https://www.last.fm/music/Beyonc%C3%A9/_/Irreplaceable)
-* [Demi Lovato — Sorry Not Sorry](https://www.last.fm/music/Demi+Lovato/_/Sorry+Not+Sorry)
-* [Taylor Swift — Look What You Made Me Do](https://www.last.fm/music/Taylor+Swift/_/Look+What+You+Made+Me+Do)
-* [Little Mix — Shout Out to My Ex](https://www.last.fm/music/Little+Mix/_/Shout+Out+to+My+Ex)<!-- LASTFM:END -->
+* [Demi Lovato — Sorry Not Sorry](https://www.last.fm/music/Demi+Lovato/_/Sorry+Not+Sorry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
