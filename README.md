@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kailee Morgue — This is Why I&#39;m Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
+* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
 * [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
 * [CVLTE — Happy. &lpar;feat. 釈迦坊主&rpar;](https://www.last.fm/music/CVLTE/_/Happy.+&lpar;feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB&rpar;)
-* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
-* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)<!-- LASTFM:END -->
+* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
