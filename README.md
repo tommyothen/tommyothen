@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
+* [Jonas Brothers — Play My Music](https://www.last.fm/music/Jonas+Brothers/_/Play+My+Music)
 * [Take That — Rule The World - Radio Edit](https://www.last.fm/music/Take+That/_/Rule+The+World+-+Radio+Edit)
 * [Adele — Chasing Pavements](https://www.last.fm/music/Adele/_/Chasing+Pavements)
-* [Keane — Somewhere Only We Know](https://www.last.fm/music/Keane/_/Somewhere+Only+We+Know)
-* [Ed Sheeran — Photograph](https://www.last.fm/music/Ed+Sheeran/_/Photograph)
-* [Bruno Mars — When I Was Your Man](https://www.last.fm/music/Bruno+Mars/_/When+I+Was+Your+Man)<!-- LASTFM:END -->
+* [Keane — Somewhere Only We Know](https://www.last.fm/music/Keane/_/Somewhere+Only+We+Know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
