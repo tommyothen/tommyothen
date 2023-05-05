@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
 * [Ray Parker Jr. — Ghostbusters](https://www.last.fm/music/Ray+Parker+Jr./_/Ghostbusters)
 * [Olly Murs — Wrapped Up &lpar;feat. Travie McCoy&rpar;](https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+&lpar;feat.+Travie+McCoy&rpar;)
 * [David Guetta — Titanium &lpar;feat. Sia&rpar;](https://www.last.fm/music/David+Guetta/_/Titanium+&lpar;feat.+Sia&rpar;)
-* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
-* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)<!-- LASTFM:END -->
+* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
