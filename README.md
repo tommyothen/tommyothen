@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Adele — Chasing Pavements](https://www.last.fm/music/Adele/_/Chasing+Pavements)
 * [Keane — Somewhere Only We Know](https://www.last.fm/music/Keane/_/Somewhere+Only+We+Know)
 * [Ed Sheeran — Photograph](https://www.last.fm/music/Ed+Sheeran/_/Photograph)
 * [Bruno Mars — When I Was Your Man](https://www.last.fm/music/Bruno+Mars/_/When+I+Was+Your+Man)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
-* [Ray Parker Jr. — Ghostbusters](https://www.last.fm/music/Ray+Parker+Jr./_/Ghostbusters)<!-- LASTFM:END -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
