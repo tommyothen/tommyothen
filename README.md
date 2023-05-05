@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ed Sheeran — Photograph](https://www.last.fm/music/Ed+Sheeran/_/Photograph)
+* [Bruno Mars — When I Was Your Man](https://www.last.fm/music/Bruno+Mars/_/When+I+Was+Your+Man)
 * [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
 * [Ray Parker Jr. — Ghostbusters](https://www.last.fm/music/Ray+Parker+Jr./_/Ghostbusters)
-* [Olly Murs — Wrapped Up &lpar;feat. Travie McCoy&rpar;](https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+&lpar;feat.+Travie+McCoy&rpar;)
-* [David Guetta — Titanium &lpar;feat. Sia&rpar;](https://www.last.fm/music/David+Guetta/_/Titanium+&lpar;feat.+Sia&rpar;)
-* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)<!-- LASTFM:END -->
+* [Olly Murs — Wrapped Up &lpar;feat. Travie McCoy&rpar;](https://www.last.fm/music/Olly+Murs/_/Wrapped+Up+&lpar;feat.+Travie+McCoy&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
