@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)
-* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)
-* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)
+* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
 * [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
-* [Katy Perry — California Gurls](https://www.last.fm/music/Katy+Perry/_/California+Gurls)<!-- LASTFM:END -->
+* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)
+* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)
+* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
