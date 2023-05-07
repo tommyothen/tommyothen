@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
 * [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)
 * [Anderson .Paak — Come Down](https://www.last.fm/music/Anderson+.Paak/_/Come+Down)
 * [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
-* [Tyler, the Creator — I THINK](https://www.last.fm/music/Tyler,+the+Creator/_/I+THINK)
-* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)<!-- LASTFM:END -->
+* [Tyler, the Creator — I THINK](https://www.last.fm/music/Tyler,+the+Creator/_/I+THINK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
