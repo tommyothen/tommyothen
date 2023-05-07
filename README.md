@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eric Prydz — Call On Me - Radio Mix](https://www.last.fm/music/Eric+Prydz/_/Call+On+Me+-+Radio+Mix)
+* [Spiller — Groovejet &lpar;If This Ain&#39;t Love&rpar; [feat. Sophie Ellis-Bextor]](https://www.last.fm/music/Spiller/_/Groovejet+&lpar;If+This+Ain%27t+Love&rpar;+%5Bfeat.+Sophie+Ellis-Bextor%5D)
 * [TELYKast — Body To Body](https://www.last.fm/music/TELYKast/_/Body+To+Body)
 * [Alok — Deep Down &lpar;feat. Never Dull&rpar;](https://www.last.fm/music/Alok/_/Deep+Down+&lpar;feat.+Never+Dull&rpar;)
-* [Alex Gaudino — Destination Calabria](https://www.last.fm/music/Alex+Gaudino/_/Destination+Calabria)
-* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)<!-- LASTFM:END -->
+* [Alex Gaudino — Destination Calabria](https://www.last.fm/music/Alex+Gaudino/_/Destination+Calabria)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
