@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Room 5 — Make Luv - Extended Mix](https://www.last.fm/music/Room+5/_/Make+Luv+-+Extended+Mix)
 * [Roger Sanchez — Another Chance - Radio Edit](https://www.last.fm/music/Roger+Sanchez/_/Another+Chance+-+Radio+Edit)
 * [JKay — You &amp; I](https://www.last.fm/music/JKay/_/You+&amp;+I)
 * [Sub Focus — Ready To Fly - Sub Focus &amp; Dimension](https://www.last.fm/music/Sub+Focus/_/Ready+To+Fly+-+Sub+Focus+&amp;+Dimension)
-* [Eric Prydz — Call On Me - Radio Mix](https://www.last.fm/music/Eric+Prydz/_/Call+On+Me+-+Radio+Mix)
-* [Spiller — Groovejet &lpar;If This Ain&#39;t Love&rpar; [feat. Sophie Ellis-Bextor]](https://www.last.fm/music/Spiller/_/Groovejet+&lpar;If+This+Ain%27t+Love&rpar;+%5Bfeat.+Sophie+Ellis-Bextor%5D)<!-- LASTFM:END -->
+* [Eric Prydz — Call On Me - Radio Mix](https://www.last.fm/music/Eric+Prydz/_/Call+On+Me+-+Radio+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
