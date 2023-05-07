@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Corona — The Rhythm of the Night](https://www.last.fm/music/Corona/_/The+Rhythm+of+the+Night)
+* [Modjo — Lady &lpar;Hear Me Tonight&rpar;](https://www.last.fm/music/Modjo/_/Lady+&lpar;Hear+Me+Tonight&rpar;)
 * [Tiësto — Pump It Louder](https://www.last.fm/music/Ti%C3%ABsto/_/Pump+It+Louder)
 * [Gorgon City — Ready for Your Love](https://www.last.fm/music/Gorgon+City/_/Ready+for+Your+Love)
-* [Room 5 — Make Luv - Extended Mix](https://www.last.fm/music/Room+5/_/Make+Luv+-+Extended+Mix)
-* [Roger Sanchez — Another Chance - Radio Edit](https://www.last.fm/music/Roger+Sanchez/_/Another+Chance+-+Radio+Edit)
-* [JKay — You &amp; I](https://www.last.fm/music/JKay/_/You+&amp;+I)<!-- LASTFM:END -->
+* [Room 5 — Make Luv - Extended Mix](https://www.last.fm/music/Room+5/_/Make+Luv+-+Extended+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
