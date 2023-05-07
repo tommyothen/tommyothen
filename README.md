@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [THAT KIND — Love On Me](https://www.last.fm/music/THAT+KIND/_/Love+On+Me)
+* [CLIK3D — Know Better](https://www.last.fm/music/CLIK3D/_/Know+Better)
+* [GOODBOYS — Black &amp; Blue](https://www.last.fm/music/GOODBOYS/_/Black+&amp;+Blue)
 * [Mosca — What You Came For](https://www.last.fm/music/Mosca/_/What+You+Came+For)
-* [Corona — The Rhythm of the Night](https://www.last.fm/music/Corona/_/The+Rhythm+of+the+Night)
-* [Modjo — Lady &lpar;Hear Me Tonight&rpar;](https://www.last.fm/music/Modjo/_/Lady+&lpar;Hear+Me+Tonight&rpar;)
-* [Tiësto — Pump It Louder](https://www.last.fm/music/Ti%C3%ABsto/_/Pump+It+Louder)
-* [Gorgon City — Ready for Your Love](https://www.last.fm/music/Gorgon+City/_/Ready+for+Your+Love)<!-- LASTFM:END -->
+* [Corona — The Rhythm of the Night](https://www.last.fm/music/Corona/_/The+Rhythm+of+the+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
