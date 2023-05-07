@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alex Gaudino — Destination Calabria](https://www.last.fm/music/Alex+Gaudino/_/Destination+Calabria)
+* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)
 * [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [The Weeknd — Starboy](https://www.last.fm/music/The+Weeknd/_/Starboy)
-* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)
-* [Jonas Brothers — Sucker](https://www.last.fm/music/Jonas+Brothers/_/Sucker)
-* [Black Eyed Peas — Pump It](https://www.last.fm/music/Black+Eyed+Peas/_/Pump+It)<!-- LASTFM:END -->
+* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
