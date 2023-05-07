@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, the Creator — I THINK](https://www.last.fm/music/Tyler,+the+Creator/_/I+THINK)
 * [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)
 * [XXXTENTACION — love yourself &lpar;interlude&rpar;](https://www.last.fm/music/XXXTENTACION/_/love+yourself+&lpar;interlude&rpar;)
 * [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
-* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
-* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)<!-- LASTFM:END -->
+* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
