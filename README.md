@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The 1975 — I&#39;m in Love with You](https://www.last.fm/music/The+1975/_/I%27m+in+Love+with+You)
+* [The 1975 — It&#39;s Not Living &lpar;If It&#39;s Not With You&rpar;](https://www.last.fm/music/The+1975/_/It%27s+Not+Living+&lpar;If+It%27s+Not+With+You&rpar;)
 * [The 1975 — Oh Caroline](https://www.last.fm/music/The+1975/_/Oh+Caroline)
 * [The 1975 — Settle Down](https://www.last.fm/music/The+1975/_/Settle+Down)
-* [The 1975 — Milk](https://www.last.fm/music/The+1975/_/Milk)
-* [The 1975 — TOOTIMETOOTIMETOOTIME](https://www.last.fm/music/The+1975/_/TOOTIMETOOTIMETOOTIME)
-* [The 1975 — She&#39;s American](https://www.last.fm/music/The+1975/_/She%27s+American)<!-- LASTFM:END -->
+* [The 1975 — Milk](https://www.last.fm/music/The+1975/_/Milk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
