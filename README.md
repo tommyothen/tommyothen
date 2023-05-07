@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The 1975 — Milk](https://www.last.fm/music/The+1975/_/Milk)
+* [The 1975 — TOOTIMETOOTIMETOOTIME](https://www.last.fm/music/The+1975/_/TOOTIMETOOTIMETOOTIME)
 * [The 1975 — She&#39;s American](https://www.last.fm/music/The+1975/_/She%27s+American)
 * [Rejjie Snow — Egyptian Luvr &lpar;feat. Aminé and Dana Williams&rpar;](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr+&lpar;feat.+Amin%C3%A9+and+Dana+Williams&rpar;)
-* [Bren Joy — Sweet &lpar;feat. Landon Sears&rpar;](https://www.last.fm/music/Bren+Joy/_/Sweet+&lpar;feat.+Landon+Sears&rpar;)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
-* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)<!-- LASTFM:END -->
+* [Bren Joy — Sweet &lpar;feat. Landon Sears&rpar;](https://www.last.fm/music/Bren+Joy/_/Sweet+&lpar;feat.+Landon+Sears&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
