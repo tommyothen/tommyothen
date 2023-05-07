@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [The Weeknd — Starboy](https://www.last.fm/music/The+Weeknd/_/Starboy)
 * [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)
 * [Jonas Brothers — Sucker](https://www.last.fm/music/Jonas+Brothers/_/Sucker)
-* [Black Eyed Peas — Pump It](https://www.last.fm/music/Black+Eyed+Peas/_/Pump+It)
-* [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)<!-- LASTFM:END -->
+* [Black Eyed Peas — Pump It](https://www.last.fm/music/Black+Eyed+Peas/_/Pump+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
