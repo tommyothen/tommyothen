@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [Moloko — Sing It Back - Boris Dlugosch Mix](https://www.last.fm/music/Moloko/_/Sing+It+Back+-+Boris+Dlugosch+Mix)
 * [Strike — U Sure Do &lpar;Strike 7&quot; Mix&rpar;](https://www.last.fm/music/Strike/_/U+Sure+Do+&lpar;Strike+7%22+Mix&rpar;)
 * [AZ2A — Superstar](https://www.last.fm/music/AZ2A/_/Superstar)
-* [THAT KIND — Love On Me](https://www.last.fm/music/THAT+KIND/_/Love+On+Me)
-* [CLIK3D — Know Better](https://www.last.fm/music/CLIK3D/_/Know+Better)<!-- LASTFM:END -->
+* [THAT KIND — Love On Me](https://www.last.fm/music/THAT+KIND/_/Love+On+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
