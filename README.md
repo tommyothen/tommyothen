@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
 * [Dreamer Isioma — Sensitive](https://www.last.fm/music/Dreamer+Isioma/_/Sensitive)
 * [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
 * [XXXTENTACION — Maxipads for Everyone](https://www.last.fm/music/XXXTENTACION/_/Maxipads+for+Everyone)
-* [Jack Harlow — ROTTEN &lpar;feat. EST Gee&rpar;](https://www.last.fm/music/Jack+Harlow/_/ROTTEN+&lpar;feat.+EST+Gee&rpar;)
-* [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)<!-- LASTFM:END -->
+* [Jack Harlow — ROTTEN &lpar;feat. EST Gee&rpar;](https://www.last.fm/music/Jack+Harlow/_/ROTTEN+&lpar;feat.+EST+Gee&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
