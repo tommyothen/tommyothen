@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
 * [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
 * [DUCKWRTH — Super Bounce](https://www.last.fm/music/DUCKWRTH/_/Super+Bounce)
-* [FEDUK — Были ли мы](https://www.last.fm/music/FEDUK/_/%D0%91%D1%8B%D0%BB%D0%B8+%D0%BB%D0%B8+%D0%BC%D1%8B)
-* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)<!-- LASTFM:END -->
+* [FEDUK — Были ли мы](https://www.last.fm/music/FEDUK/_/%D0%91%D1%8B%D0%BB%D0%B8+%D0%BB%D0%B8+%D0%BC%D1%8B)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
