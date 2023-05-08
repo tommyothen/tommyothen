@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — Maxipads for Everyone](https://www.last.fm/music/XXXTENTACION/_/Maxipads+for+Everyone)
+* [Jack Harlow — ROTTEN &lpar;feat. EST Gee&rpar;](https://www.last.fm/music/Jack+Harlow/_/ROTTEN+&lpar;feat.+EST+Gee&rpar;)
+* [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
 * [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [Moloko — Sing It Back - Boris Dlugosch Mix](https://www.last.fm/music/Moloko/_/Sing+It+Back+-+Boris+Dlugosch+Mix)
-* [Strike — U Sure Do &lpar;Strike 7&quot; Mix&rpar;](https://www.last.fm/music/Strike/_/U+Sure+Do+&lpar;Strike+7%22+Mix&rpar;)
-* [AZ2A — Superstar](https://www.last.fm/music/AZ2A/_/Superstar)
-* [THAT KIND — Love On Me](https://www.last.fm/music/THAT+KIND/_/Love+On+Me)<!-- LASTFM:END -->
+* [Moloko — Sing It Back - Boris Dlugosch Mix](https://www.last.fm/music/Moloko/_/Sing+It+Back+-+Boris+Dlugosch+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
