@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Liyuu — TRUE FOOL LOVE](https://www.last.fm/music/Liyuu/_/TRUE+FOOL+LOVE)
+* [ChouCho — BLESS YoUr NAME](https://www.last.fm/music/ChouCho/_/BLESS+YoUr+NAME)
 * [フランシュシュ — 徒花ネクロマンシー - TV size](https://www.last.fm/music/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5/_/%E5%BE%92%E8%8A%B1%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%BC+-+TV+size)
 * [Dancing Dolls — monochrome](https://www.last.fm/music/Dancing+Dolls/_/monochrome)
-* [Kenshi Yonezu — KICK BACK](https://www.last.fm/music/Kenshi+Yonezu/_/KICK+BACK)
-* [MAN WITH A MISSION — My Hero](https://www.last.fm/music/MAN+WITH+A+MISSION/_/My+Hero)
-* [the peggies — 君のせい](https://www.last.fm/music/the+peggies/_/%E5%90%9B%E3%81%AE%E3%81%9B%E3%81%84)<!-- LASTFM:END -->
+* [Kenshi Yonezu — KICK BACK](https://www.last.fm/music/Kenshi+Yonezu/_/KICK+BACK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
