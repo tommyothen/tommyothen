@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [CVLTE — Happy. &lpar;feat. 釈迦坊主&rpar;](https://www.last.fm/music/CVLTE/_/Happy.+&lpar;feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB&rpar;)
-* [IC3PEAK — Плак-Плак](https://www.last.fm/music/IC3PEAK/_/%D0%9F%D0%BB%D0%B0%D0%BA-%D0%9F%D0%BB%D0%B0%D0%BA)
-* [IC3PEAK — Грустная сука](https://www.last.fm/music/IC3PEAK/_/%D0%93%D1%80%D1%83%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%81%D1%83%D0%BA%D0%B0)
-* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)<!-- LASTFM:END -->
+* [フランシュシュ — 徒花ネクロマンシー - TV size](https://www.last.fm/music/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5/_/%E5%BE%92%E8%8A%B1%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%BC+-+TV+size)
+* [Dancing Dolls — monochrome](https://www.last.fm/music/Dancing+Dolls/_/monochrome)
+* [Kenshi Yonezu — KICK BACK](https://www.last.fm/music/Kenshi+Yonezu/_/KICK+BACK)
+* [MAN WITH A MISSION — My Hero](https://www.last.fm/music/MAN+WITH+A+MISSION/_/My+Hero)
+* [the peggies — 君のせい](https://www.last.fm/music/the+peggies/_/%E5%90%9B%E3%81%AE%E3%81%9B%E3%81%84)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
