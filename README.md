@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
 * [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)
 * [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [Mika Nakashima — KISS OF DEATH&lpar;Produced by HYDE&rpar;](https://www.last.fm/music/Mika+Nakashima/_/KISS+OF+DEATH&lpar;Produced+by+HYDE&rpar;)
-* [BLEND-A — ぼなぺてぃーと▽S](https://www.last.fm/music/BLEND-A/_/%E3%81%BC%E3%81%AA%E3%81%BA%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A8%E2%96%BDS)
-* [JAM Project — THE HERO !! 〜怒れる拳に火をつけろ〜](https://www.last.fm/music/JAM+Project/_/THE+HERO+!!+%E3%80%9C%E6%80%92%E3%82%8C%E3%82%8B%E6%8B%B3%E3%81%AB%E7%81%AB%E3%82%92%E3%81%A4%E3%81%91%E3%82%8D%E3%80%9C)<!-- LASTFM:END -->
+* [BLEND-A — ぼなぺてぃーと▽S](https://www.last.fm/music/BLEND-A/_/%E3%81%BC%E3%81%AA%E3%81%BA%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A8%E2%96%BDS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
