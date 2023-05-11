@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ricky Montgomery — Line Without a Hook &lpar;feat. mxmtoon&rpar;](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+&lpar;feat.+mxmtoon&rpar;)
+* [Vincente Void — Grief](https://www.last.fm/music/Vincente+Void/_/Grief)
 * [MIMIDEATH — Yoooooooooo](https://www.last.fm/music/MIMIDEATH/_/Yoooooooooo)
 * [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
-* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
-* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)<!-- LASTFM:END -->
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
