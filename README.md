@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — A Ghetto Christmas Carol](https://www.last.fm/music/XXXTENTACION/_/A+Ghetto+Christmas+Carol)
 * [bbno$ — money conversation](https://www.last.fm/music/bbno$/_/money+conversation)
 * [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
 * [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)
-* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)
-* [FEDUK — Давай жару, Егорич](https://www.last.fm/music/FEDUK/_/%D0%94%D0%B0%D0%B2%D0%B0%D0%B9+%D0%B6%D0%B0%D1%80%D1%83,+%D0%95%D0%B3%D0%BE%D1%80%D0%B8%D1%87)<!-- LASTFM:END -->
+* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
