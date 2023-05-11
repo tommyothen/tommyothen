@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
+* [Fear, and Loathing in Las Vegas — Let Me Hear](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/Let+Me+Hear)
 * [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
 * [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
-* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [Mika Nakashima — KISS OF DEATH&lpar;Produced by HYDE&rpar;](https://www.last.fm/music/Mika+Nakashima/_/KISS+OF+DEATH&lpar;Produced+by+HYDE&rpar;)<!-- LASTFM:END -->
+* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
