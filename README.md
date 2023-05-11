@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Давай жару, Егорич](https://www.last.fm/music/FEDUK/_/%D0%94%D0%B0%D0%B2%D0%B0%D0%B9+%D0%B6%D0%B0%D1%80%D1%83,+%D0%95%D0%B3%D0%BE%D1%80%D0%B8%D1%87)
+* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
+* [CONVOLK — lonewolf](https://www.last.fm/music/CONVOLK/_/lonewolf)
 * [Ricky Montgomery — Line Without a Hook &lpar;feat. mxmtoon&rpar;](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+&lpar;feat.+mxmtoon&rpar;)
-* [Vincente Void — Grief](https://www.last.fm/music/Vincente+Void/_/Grief)
-* [MIMIDEATH — Yoooooooooo](https://www.last.fm/music/MIMIDEATH/_/Yoooooooooo)
-* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)<!-- LASTFM:END -->
+* [Vincente Void — Grief](https://www.last.fm/music/Vincente+Void/_/Grief)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
