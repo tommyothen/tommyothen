@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)
 * [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)
-* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
-* [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)<!-- LASTFM:END -->
+* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
