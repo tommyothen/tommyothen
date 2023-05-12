@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [evaboy — is there a point &lpar;girl u know&rpar;](https://www.last.fm/music/evaboy/_/is+there+a+point+&lpar;girl+u+know&rpar;)
 * [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
 * [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
-* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
-* [Snafu — fkn sucks](https://www.last.fm/music/Snafu/_/fkn+sucks)<!-- LASTFM:END -->
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
