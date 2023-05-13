@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
-* [LET&#39;S ALL LOVE LAIN - ONA](https://myanimelist.net/anime/42310/LETS_ALL_LOVE_LAIN) - Watching - 6 of 10 episodes
-* [LET&#39;S ALL LOVE LAIN - TV](https://myanimelist.net/anime/50425/LETS_ALL_LOVE_LAIN) - Completed - 12 of 12 episodes
-* [LET&#39;S ALL LOVE LAIN - TV](https://myanimelist.net/anime/30363/LETS_ALL_LOVE_LAIN) - Completed - 10 of 10 episodes
-* [LET&#39;S ALL LOVE LAIN - TV](https://myanimelist.net/anime/46102/LETS_ALL_LOVE_LAIN) - Watching - 1 of 13 episodes
-* [LET&#39;S ALL LOVE LAIN - TV](https://myanimelist.net/anime/33255/LETS_ALL_LOVE_LAIN) - Watching - 40 of 120 episodes<!-- ANIME-LIST:END -->
+* [Cyberpunk: Edgerunners - ONA](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners) - Watching - 6 of 10 episodes
+* [Fuufu Ijou, Koibito Miman. - TV](https://myanimelist.net/anime/50425/Fuufu_Ijou_Koibito_Miman) - Completed - 12 of 12 episodes
+* [Shinmai Maou no Testament Burst - TV](https://myanimelist.net/anime/30363/Shinmai_Maou_no_Testament_Burst) - Completed - 10 of 10 episodes
+* [Odd Taxi - TV](https://myanimelist.net/anime/46102/Odd_Taxi) - Watching - 1 of 13 episodes
+* [Saiki Kusuo no Ψ-nan - TV](https://myanimelist.net/anime/33255/Saiki_Kusuo_no_Ψ-nan) - Watching - 40 of 120 episodes<!-- ANIME-LIST:END -->
