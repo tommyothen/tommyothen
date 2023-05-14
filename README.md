@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GPF — ONYON](https://www.last.fm/music/GPF/_/ONYON)
+* [Luca-Dante Spadafora — NOOT NOOT](https://www.last.fm/music/Luca-Dante+Spadafora/_/NOOT+NOOT)
 * [saymooon — Mindflip](https://www.last.fm/music/saymooon/_/Mindflip)
 * [Schwank — Super Idol 的笑容都没你的甜 &lpar;Schwank&#39;s easiest 96​.​41% of my life remix&rpar;](https://www.last.fm/music/Schwank/_/Super+Idol+%E7%9A%84%E7%AC%91%E5%AE%B9%E9%83%BD%E6%B2%A1%E4%BD%A0%E7%9A%84%E7%94%9C+&lpar;Schwank%27s+easiest+96%E2%80%8B.%E2%80%8B41%25+of+my+life+remix&rpar;)
-* [saymooon — traktor](https://www.last.fm/music/saymooon/_/traktor)
-* [FrankenTek — 400 Bpm Madness](https://www.last.fm/music/FrankenTek/_/400+Bpm+Madness)
-* [Lil Jesus — Taco Bell Nigga](https://www.last.fm/music/Lil+Jesus/_/Taco+Bell+Nigga)<!-- LASTFM:END -->
+* [saymooon — traktor](https://www.last.fm/music/saymooon/_/traktor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
