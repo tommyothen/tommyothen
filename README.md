@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Opgekonkerd — Wii Shop - Hardstyle Mix](https://www.last.fm/music/Opgekonkerd/_/Wii+Shop+-+Hardstyle+Mix)
+* [samstring — Bing Chilling - Remix](https://www.last.fm/music/samstring/_/Bing+Chilling+-+Remix)
 * [k96 — Cyka Kalinka](https://www.last.fm/music/k96/_/Cyka+Kalinka)
 * [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
-* [YUNG BAE — Must Be Love](https://www.last.fm/music/YUNG+BAE/_/Must+Be+Love)<!-- LASTFM:END -->
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
