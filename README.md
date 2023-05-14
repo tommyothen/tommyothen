@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [gladde paling — Ratata](https://www.last.fm/music/gladde+paling/_/Ratata)
+* [Yheti — Still Wet From Last Night](https://www.last.fm/music/Yheti/_/Still+Wet+From+Last+Night)
+* [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)
 * [Opgekonkerd — Wii Shop - Hardstyle Mix](https://www.last.fm/music/Opgekonkerd/_/Wii+Shop+-+Hardstyle+Mix)
-* [samstring — Bing Chilling - Remix](https://www.last.fm/music/samstring/_/Bing+Chilling+-+Remix)
-* [k96 — Cyka Kalinka](https://www.last.fm/music/k96/_/Cyka+Kalinka)
-* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)<!-- LASTFM:END -->
+* [samstring — Bing Chilling - Remix](https://www.last.fm/music/samstring/_/Bing+Chilling+-+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
