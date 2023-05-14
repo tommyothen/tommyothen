@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [USAO — Big Daddy](https://www.last.fm/music/USAO/_/Big+Daddy)
+* [Laur — Exitium](https://www.last.fm/music/Laur/_/Exitium)
 * [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
 * [Hardstyle Germany — Mozart Hardstyle &lpar;Turkish March&rpar;](https://www.last.fm/music/Hardstyle+Germany/_/Mozart+Hardstyle+&lpar;Turkish+March&rpar;)
-* [GPF — ONYON](https://www.last.fm/music/GPF/_/ONYON)
-* [Luca-Dante Spadafora — NOOT NOOT](https://www.last.fm/music/Luca-Dante+Spadafora/_/NOOT+NOOT)
-* [saymooon — Mindflip](https://www.last.fm/music/saymooon/_/Mindflip)<!-- LASTFM:END -->
+* [GPF — ONYON](https://www.last.fm/music/GPF/_/ONYON)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
