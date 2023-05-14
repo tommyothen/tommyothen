@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
+* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
 * [t+pazolite — Tempestissimo](https://www.last.fm/music/t%252Bpazolite/_/Tempestissimo)
 * [USAO — Big Daddy](https://www.last.fm/music/USAO/_/Big+Daddy)
-* [Laur — Exitium](https://www.last.fm/music/Laur/_/Exitium)
-* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
-* [Hardstyle Germany — Mozart Hardstyle &lpar;Turkish March&rpar;](https://www.last.fm/music/Hardstyle+Germany/_/Mozart+Hardstyle+&lpar;Turkish+March&rpar;)<!-- LASTFM:END -->
+* [Laur — Exitium](https://www.last.fm/music/Laur/_/Exitium)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
