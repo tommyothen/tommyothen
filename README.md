@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
-* [t+pazolite — Tempestissimo](https://www.last.fm/music/t%252Bpazolite/_/Tempestissimo)
-* [USAO — Big Daddy](https://www.last.fm/music/USAO/_/Big+Daddy)
-* [Laur — Exitium](https://www.last.fm/music/Laur/_/Exitium)<!-- LASTFM:END -->
+* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
+* [Minecraft King27 — Mining](https://www.last.fm/music/Minecraft+King27/_/Mining)
+* [Kingpvz — Rush E - Hardbass Remix](https://www.last.fm/music/Kingpvz/_/Rush+E+-+Hardbass+Remix)
+* [Kobaryo — Omega Synthesizer](https://www.last.fm/music/Kobaryo/_/Omega+Synthesizer)
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
