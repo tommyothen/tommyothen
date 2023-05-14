@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [saymooon — traktor](https://www.last.fm/music/saymooon/_/traktor)
+* [FrankenTek — 400 Bpm Madness](https://www.last.fm/music/FrankenTek/_/400+Bpm+Madness)
+* [Lil Jesus — Taco Bell Nigga](https://www.last.fm/music/Lil+Jesus/_/Taco+Bell+Nigga)
 * [Turbo Thomas — Angry Birds Rave](https://www.last.fm/music/Turbo+Thomas/_/Angry+Birds+Rave)
-* [Hachioji P — Gimme×Gimme feat. 初音ミク・鏡音リン](https://www.last.fm/music/Hachioji+P/_/Gimme%C3%97Gimme+feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%83%BB%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3)
-* [GPF — Broccoli Fuck](https://www.last.fm/music/GPF/_/Broccoli+Fuck)
-* [gladde paling — Ratata](https://www.last.fm/music/gladde+paling/_/Ratata)
-* [Yheti — Still Wet From Last Night](https://www.last.fm/music/Yheti/_/Still+Wet+From+Last+Night)<!-- LASTFM:END -->
+* [Hachioji P — Gimme×Gimme feat. 初音ミク・鏡音リン](https://www.last.fm/music/Hachioji+P/_/Gimme%C3%97Gimme+feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%83%BB%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
