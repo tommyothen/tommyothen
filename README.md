@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [saymooon — Mindflip](https://www.last.fm/music/saymooon/_/Mindflip)
+* [Schwank — Super Idol 的笑容都没你的甜 &lpar;Schwank&#39;s easiest 96​.​41% of my life remix&rpar;](https://www.last.fm/music/Schwank/_/Super+Idol+%E7%9A%84%E7%AC%91%E5%AE%B9%E9%83%BD%E6%B2%A1%E4%BD%A0%E7%9A%84%E7%94%9C+&lpar;Schwank%27s+easiest+96%E2%80%8B.%E2%80%8B41%25+of+my+life+remix&rpar;)
 * [saymooon — traktor](https://www.last.fm/music/saymooon/_/traktor)
 * [FrankenTek — 400 Bpm Madness](https://www.last.fm/music/FrankenTek/_/400+Bpm+Madness)
-* [Lil Jesus — Taco Bell Nigga](https://www.last.fm/music/Lil+Jesus/_/Taco+Bell+Nigga)
-* [Turbo Thomas — Angry Birds Rave](https://www.last.fm/music/Turbo+Thomas/_/Angry+Birds+Rave)
-* [Hachioji P — Gimme×Gimme feat. 初音ミク・鏡音リン](https://www.last.fm/music/Hachioji+P/_/Gimme%C3%97Gimme+feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%83%BB%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3)<!-- LASTFM:END -->
+* [Lil Jesus — Taco Bell Nigga](https://www.last.fm/music/Lil+Jesus/_/Taco+Bell+Nigga)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
