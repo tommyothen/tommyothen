@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [KID TRUNKS — 777](https://www.last.fm/music/KID+TRUNKS/_/777)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
-* [XXXTENTACION — love yourself &lpar;interlude&rpar;](https://www.last.fm/music/XXXTENTACION/_/love+yourself+&lpar;interlude&rpar;)
+* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)
 * [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [Prismo — In My Mind](https://www.last.fm/music/Prismo/_/In+My+Mind)<!-- LASTFM:END -->
+* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
+* [KID TRUNKS — 777](https://www.last.fm/music/KID+TRUNKS/_/777)
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
