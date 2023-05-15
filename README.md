@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
+* [XXXTENTACION — love yourself &lpar;interlude&rpar;](https://www.last.fm/music/XXXTENTACION/_/love+yourself+&lpar;interlude&rpar;)
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [Prismo — In My Mind](https://www.last.fm/music/Prismo/_/In+My+Mind)
-* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
-* [Schwank — Extra Credit On The Chromosome Test! Victory Royale!!!](https://www.last.fm/music/Schwank/_/Extra+Credit+On+The+Chromosome+Test!+Victory+Royale!!!)
-* [MC Virgins — Anime Thighs](https://www.last.fm/music/MC+Virgins/_/Anime+Thighs)
-* [Minecraft King27 — Notch&#39;s Plan](https://www.last.fm/music/Minecraft+King27/_/Notch%27s+Plan)<!-- LASTFM:END -->
+* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
