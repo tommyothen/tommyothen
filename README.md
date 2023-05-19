@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — sex](https://www.last.fm/music/Eden/_/sex)
 * [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)
 * [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
-* [Michael Jackson — Beat It](https://www.last.fm/music/Michael+Jackson/_/Beat+It)
-* [Take That — Patience](https://www.last.fm/music/Take+That/_/Patience)<!-- LASTFM:END -->
+* [Michael Jackson — Beat It](https://www.last.fm/music/Michael+Jackson/_/Beat+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
