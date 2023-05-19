@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)
 * [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
 * [Eden — and](https://www.last.fm/music/Eden/_/and)
 * [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
-* [Eden — sex](https://www.last.fm/music/Eden/_/sex)
-* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)<!-- LASTFM:END -->
+* [Eden — sex](https://www.last.fm/music/Eden/_/sex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
