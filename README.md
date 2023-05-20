@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Calvin Harris — Feel So Close](https://www.last.fm/music/Calvin+Harris/_/Feel+So+Close)
 * [Avicii — Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)
 * [Omi — Cheerleader - Felix Jaehn Remix Radio Edit](https://www.last.fm/music/Omi/_/Cheerleader+-+Felix+Jaehn+Remix+Radio+Edit)
 * [Sigala — Came Here For Love](https://www.last.fm/music/Sigala/_/Came+Here+For+Love)
-* [Flo Rida — Whistle](https://www.last.fm/music/Flo+Rida/_/Whistle)
-* [Jessie J — Price Tag](https://www.last.fm/music/Jessie+J/_/Price+Tag)<!-- LASTFM:END -->
+* [Flo Rida — Whistle](https://www.last.fm/music/Flo+Rida/_/Whistle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
