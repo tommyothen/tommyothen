@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
+* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
 * [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)
 * [Chris Brown — Next to You &lpar;feat. Justin Bieber&rpar;](https://www.last.fm/music/Chris+Brown/_/Next+to+You+&lpar;feat.+Justin+Bieber&rpar;)
-* [Calvin Harris — Feel So Close](https://www.last.fm/music/Calvin+Harris/_/Feel+So+Close)
-* [Avicii — Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)
-* [Omi — Cheerleader - Felix Jaehn Remix Radio Edit](https://www.last.fm/music/Omi/_/Cheerleader+-+Felix+Jaehn+Remix+Radio+Edit)<!-- LASTFM:END -->
+* [Calvin Harris — Feel So Close](https://www.last.fm/music/Calvin+Harris/_/Feel+So+Close)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
