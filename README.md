@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Becky Hill — Remember](https://www.last.fm/music/Becky+Hill/_/Remember)
+* [The 1975 — It&#39;s Not Living &lpar;If It&#39;s Not With You&rpar;](https://www.last.fm/music/The+1975/_/It%27s+Not+Living+&lpar;If+It%27s+Not+With+You&rpar;)
+* [Avicii — The Nights](https://www.last.fm/music/Avicii/_/The+Nights)
 * [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)
-* [Lady Gaga — Paparazzi](https://www.last.fm/music/Lady+Gaga/_/Paparazzi)
-* [David Guetta — Where Them Girls At &lpar;feat. Nicki Minaj &amp; Flo Rida&rpar;](https://www.last.fm/music/David+Guetta/_/Where+Them+Girls+At+&lpar;feat.+Nicki+Minaj+&amp;+Flo+Rida&rpar;)
-* [Bruno Mars — Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby)
-* [Sigala — Came Here For Love](https://www.last.fm/music/Sigala/_/Came+Here+For+Love)<!-- LASTFM:END -->
+* [Lady Gaga — Paparazzi](https://www.last.fm/music/Lady+Gaga/_/Paparazzi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
