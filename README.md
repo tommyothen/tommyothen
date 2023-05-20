@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Omi — Cheerleader - Felix Jaehn Remix Radio Edit](https://www.last.fm/music/Omi/_/Cheerleader+-+Felix+Jaehn+Remix+Radio+Edit)
+* [Sigala — Came Here For Love](https://www.last.fm/music/Sigala/_/Came+Here+For+Love)
 * [Flo Rida — Whistle](https://www.last.fm/music/Flo+Rida/_/Whistle)
 * [Jessie J — Price Tag](https://www.last.fm/music/Jessie+J/_/Price+Tag)
-* [Avicii — Hey Brother](https://www.last.fm/music/Avicii/_/Hey+Brother)
-* [Jonas Brothers — Waffle House](https://www.last.fm/music/Jonas+Brothers/_/Waffle+House)
-* [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)<!-- LASTFM:END -->
+* [Avicii — Hey Brother](https://www.last.fm/music/Avicii/_/Hey+Brother)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
