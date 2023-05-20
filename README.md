@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flo Rida — My House](https://www.last.fm/music/Flo+Rida/_/My+House)
 * [Axwell /\ Ingrosso — More Than You Know](https://www.last.fm/music/Axwell+%2F%5C+Ingrosso/_/More+Than+You+Know)
 * [Little Mix — Sweet Melody](https://www.last.fm/music/Little+Mix/_/Sweet+Melody)
 * [Demi Lovato — Made in the USA](https://www.last.fm/music/Demi+Lovato/_/Made+in+the+USA)
-* [Miley Cyrus — Prisoner &lpar;feat. Dua Lipa&rpar;](https://www.last.fm/music/Miley+Cyrus/_/Prisoner+&lpar;feat.+Dua+Lipa&rpar;)
-* [Rihanna — We Found Love](https://www.last.fm/music/Rihanna/_/We+Found+Love)<!-- LASTFM:END -->
+* [Miley Cyrus — Prisoner &lpar;feat. Dua Lipa&rpar;](https://www.last.fm/music/Miley+Cyrus/_/Prisoner+&lpar;feat.+Dua+Lipa&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
