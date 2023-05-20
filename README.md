@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flo Rida — Whistle](https://www.last.fm/music/Flo+Rida/_/Whistle)
+* [Jessie J — Price Tag](https://www.last.fm/music/Jessie+J/_/Price+Tag)
 * [Avicii — Hey Brother](https://www.last.fm/music/Avicii/_/Hey+Brother)
 * [Jonas Brothers — Waffle House](https://www.last.fm/music/Jonas+Brothers/_/Waffle+House)
-* [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)
-* [Flo Rida — My House](https://www.last.fm/music/Flo+Rida/_/My+House)
-* [Axwell /\ Ingrosso — More Than You Know](https://www.last.fm/music/Axwell+%2F%5C+Ingrosso/_/More+Than+You+Know)<!-- LASTFM:END -->
+* [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
