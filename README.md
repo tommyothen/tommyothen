@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Miley Cyrus — We Can&#39;t Stop](https://www.last.fm/music/Miley+Cyrus/_/We+Can%27t+Stop)
 * [Clean Bandit — Rather Be &lpar;feat. Jess Glynne&rpar;](https://www.last.fm/music/Clean+Bandit/_/Rather+Be+&lpar;feat.+Jess+Glynne&rpar;)
 * [MAGIC! — Rude](https://www.last.fm/music/MAGIC!/_/Rude)
 * [Taio Cruz — Dynamite](https://www.last.fm/music/Taio+Cruz/_/Dynamite)
-* [Kanye West — Gold Digger](https://www.last.fm/music/Kanye+West/_/Gold+Digger)
-* [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)<!-- LASTFM:END -->
+* [Kanye West — Gold Digger](https://www.last.fm/music/Kanye+West/_/Gold+Digger)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
