@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)
+* [twenty one pilots — Stressed Out](https://www.last.fm/music/twenty+one+pilots/_/Stressed+Out)
 * [Harry Styles — As It Was](https://www.last.fm/music/Harry+Styles/_/As+It+Was)
 * [Green Day — American Idiot](https://www.last.fm/music/Green+Day/_/American+Idiot)
-* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)
-* [Foster the People — Pumped Up Kicks](https://www.last.fm/music/Foster+the+People/_/Pumped+Up+Kicks)
-* [Nick Jonas — Jealous](https://www.last.fm/music/Nick+Jonas/_/Jealous)<!-- LASTFM:END -->
+* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
