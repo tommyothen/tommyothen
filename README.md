@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nicki Minaj — Va Va Voom](https://www.last.fm/music/Nicki+Minaj/_/Va+Va+Voom)
+* [Imagine Dragons — Radioactive](https://www.last.fm/music/Imagine+Dragons/_/Radioactive)
 * [The Vamps — Can We Dance](https://www.last.fm/music/The+Vamps/_/Can+We+Dance)
 * [The Vamps — Wild Heart](https://www.last.fm/music/The+Vamps/_/Wild+Heart)
-* [Taylor Swift — Style](https://www.last.fm/music/Taylor+Swift/_/Style)
-* [Avicii — Levels](https://www.last.fm/music/Avicii/_/Levels)
-* [Alesso — Heroes &lpar;We Could Be&rpar;](https://www.last.fm/music/Alesso/_/Heroes+&lpar;We+Could+Be&rpar;)<!-- LASTFM:END -->
+* [Taylor Swift — Style](https://www.last.fm/music/Taylor+Swift/_/Style)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
