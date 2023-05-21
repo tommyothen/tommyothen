@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Vamps — Wild Heart](https://www.last.fm/music/The+Vamps/_/Wild+Heart)
 * [Taylor Swift — Style](https://www.last.fm/music/Taylor+Swift/_/Style)
 * [Avicii — Levels](https://www.last.fm/music/Avicii/_/Levels)
 * [Alesso — Heroes &lpar;We Could Be&rpar;](https://www.last.fm/music/Alesso/_/Heroes+&lpar;We+Could+Be&rpar;)
-* [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)
-* [Kanye West — Gold Digger](https://www.last.fm/music/Kanye+West/_/Gold+Digger)<!-- LASTFM:END -->
+* [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
