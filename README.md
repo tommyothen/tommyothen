@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)
+* [Zedd — Clarity](https://www.last.fm/music/Zedd/_/Clarity)
 * [Drake — One Dance](https://www.last.fm/music/Drake/_/One+Dance)
 * [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
-* [Tkay Maidza — So Cold](https://www.last.fm/music/Tkay+Maidza/_/So+Cold)
-* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)<!-- LASTFM:END -->
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
