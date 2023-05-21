@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kanye West — Gold Digger](https://www.last.fm/music/Kanye+West/_/Gold+Digger)
 * [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)
 * [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)
 * [Zedd — Clarity](https://www.last.fm/music/Zedd/_/Clarity)
-* [Drake — One Dance](https://www.last.fm/music/Drake/_/One+Dance)
-* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)<!-- LASTFM:END -->
+* [Drake — One Dance](https://www.last.fm/music/Drake/_/One+Dance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
