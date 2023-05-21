@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yuno Miles — Indiana Jones](https://www.last.fm/music/Yuno+Miles/_/Indiana+Jones)
+* [Kobaryo — Fantasie-Celeritas](https://www.last.fm/music/Kobaryo/_/Fantasie-Celeritas)
+* [Dolly Parton — 9 to 5](https://www.last.fm/music/Dolly+Parton/_/9+to+5)
 * [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
-* [Kobaryo — Tool-Assisted Speedcore](https://www.last.fm/music/Kobaryo/_/Tool-Assisted+Speedcore)
-* [t+pazolite — HYPER4ID](https://www.last.fm/music/t%252Bpazolite/_/HYPER4ID)
-* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)<!-- LASTFM:END -->
+* [Kobaryo — Tool-Assisted Speedcore](https://www.last.fm/music/Kobaryo/_/Tool-Assisted+Speedcore)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
