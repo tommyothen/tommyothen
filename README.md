@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charli XCX — Boom Clap](https://www.last.fm/music/Charli+XCX/_/Boom+Clap)
+* [Shawn Mendes — There&#39;s Nothing Holdin&#39; Me Back](https://www.last.fm/music/Shawn+Mendes/_/There%27s+Nothing+Holdin%27+Me+Back)
 * [The Weeknd — Can&#39;t Feel My Face](https://www.last.fm/music/The+Weeknd/_/Can%27t+Feel+My+Face)
 * [Miley Cyrus — We Can&#39;t Stop](https://www.last.fm/music/Miley+Cyrus/_/We+Can%27t+Stop)
-* [Clean Bandit — Rather Be &lpar;feat. Jess Glynne&rpar;](https://www.last.fm/music/Clean+Bandit/_/Rather+Be+&lpar;feat.+Jess+Glynne&rpar;)
-* [MAGIC! — Rude](https://www.last.fm/music/MAGIC!/_/Rude)
-* [Taio Cruz — Dynamite](https://www.last.fm/music/Taio+Cruz/_/Dynamite)<!-- LASTFM:END -->
+* [Clean Bandit — Rather Be &lpar;feat. Jess Glynne&rpar;](https://www.last.fm/music/Clean+Bandit/_/Rather+Be+&lpar;feat.+Jess+Glynne&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
