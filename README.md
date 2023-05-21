@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Amerie — 1 Thing](https://www.last.fm/music/Amerie/_/1+Thing)
 * [Lizzo — 2 Be Loved &lpar;Am I Ready&rpar;](https://www.last.fm/music/Lizzo/_/2+Be+Loved+&lpar;Am+I+Ready&rpar;)
 * [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
 * [Major Lazer — Lean On &lpar;feat. MØ &amp; DJ Snake&rpar;](https://www.last.fm/music/Major+Lazer/_/Lean+On+&lpar;feat.+M%C3%98+&amp;+DJ+Snake&rpar;)
-* [Far East Movement — Rocketeer](https://www.last.fm/music/Far+East+Movement/_/Rocketeer)
-* [Sara Bareilles — Love Song](https://www.last.fm/music/Sara+Bareilles/_/Love+Song)<!-- LASTFM:END -->
+* [Far East Movement — Rocketeer](https://www.last.fm/music/Far+East+Movement/_/Rocketeer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
