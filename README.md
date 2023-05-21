@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [Drake — Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)
 * [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)
-* [Drake — God&#39;s Plan](https://www.last.fm/music/Drake/_/God%27s+Plan)
-* [Amerie — 1 Thing](https://www.last.fm/music/Amerie/_/1+Thing)
-* [Lizzo — 2 Be Loved &lpar;Am I Ready&rpar;](https://www.last.fm/music/Lizzo/_/2+Be+Loved+&lpar;Am+I+Ready&rpar;)<!-- LASTFM:END -->
+* [Drake — God&#39;s Plan](https://www.last.fm/music/Drake/_/God%27s+Plan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
