@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tom Jones — Sexbomb](https://www.last.fm/music/Tom+Jones/_/Sexbomb)
 * [Yuno Miles — Indiana Jones](https://www.last.fm/music/Yuno+Miles/_/Indiana+Jones)
 * [Kobaryo — Fantasie-Celeritas](https://www.last.fm/music/Kobaryo/_/Fantasie-Celeritas)
 * [Dolly Parton — 9 to 5](https://www.last.fm/music/Dolly+Parton/_/9+to+5)
-* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
-* [Kobaryo — Tool-Assisted Speedcore](https://www.last.fm/music/Kobaryo/_/Tool-Assisted+Speedcore)<!-- LASTFM:END -->
+* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
