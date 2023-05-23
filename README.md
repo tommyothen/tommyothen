@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Noma — Brain Power](https://www.last.fm/music/Noma/_/Brain+Power)
+* [Kobaryo — Omega Synthesizer](https://www.last.fm/music/Kobaryo/_/Omega+Synthesizer)
 * [Dario Von Slutty — Pisk Mig Hårdt!!!](https://www.last.fm/music/Dario+Von+Slutty/_/Pisk+Mig+H%C3%A5rdt!!!)
 * [Verbalase — Tetris - Beatbox](https://www.last.fm/music/Verbalase/_/Tetris+-+Beatbox)
-* [Maul — JoJo Hardstyle](https://www.last.fm/music/Maul/_/JoJo+Hardstyle)
-* [Lil Jesus — Taco Bell Nigga](https://www.last.fm/music/Lil+Jesus/_/Taco+Bell+Nigga)
-* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)<!-- LASTFM:END -->
+* [Maul — JoJo Hardstyle](https://www.last.fm/music/Maul/_/JoJo+Hardstyle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
