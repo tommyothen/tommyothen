@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yilong Ma 火箭 — Yilong Ma VS John Xina](https://www.last.fm/music/Yilong+Ma+%E7%81%AB%E7%AE%AD/_/Yilong+Ma+VS+John+Xina)
+* [MC Virgins — Trap Anthem](https://www.last.fm/music/MC+Virgins/_/Trap+Anthem)
 * [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)
 * [harvoYT — Monkey Type Beat](https://www.last.fm/music/harvoYT/_/Monkey+Type+Beat)
-* [Soulja Boy Eternal — The Only Thing They Fear Is YOUUUU](https://www.last.fm/music/Soulja+Boy+Eternal/_/The+Only+Thing+They+Fear+Is+YOUUUU)
-* [Clay K Slider — Mr. Blue Sky](https://www.last.fm/music/Clay+K+Slider/_/Mr.+Blue+Sky)
-* [GPF — ONYON](https://www.last.fm/music/GPF/_/ONYON)<!-- LASTFM:END -->
+* [Soulja Boy Eternal — The Only Thing They Fear Is YOUUUU](https://www.last.fm/music/Soulja+Boy+Eternal/_/The+Only+Thing+They+Fear+Is+YOUUUU)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
