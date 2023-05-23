@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — THE MUZZLE FACING - Long muzzled version](https://www.last.fm/music/Camellia/_/THE+MUZZLE+FACING+-+Long+muzzled+version)
+* [Shawn Wasabi — MARBLE TEA](https://www.last.fm/music/Shawn+Wasabi/_/MARBLE+TEA)
 * [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
 * [Yuno Miles — PayDay](https://www.last.fm/music/Yuno+Miles/_/PayDay)
-* [Noma — Brain Power](https://www.last.fm/music/Noma/_/Brain+Power)
-* [Kobaryo — Omega Synthesizer](https://www.last.fm/music/Kobaryo/_/Omega+Synthesizer)
-* [Dario Von Slutty — Pisk Mig Hårdt!!!](https://www.last.fm/music/Dario+Von+Slutty/_/Pisk+Mig+H%C3%A5rdt!!!)<!-- LASTFM:END -->
+* [Noma — Brain Power](https://www.last.fm/music/Noma/_/Brain+Power)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
