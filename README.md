@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GPF — ONYON](https://www.last.fm/music/GPF/_/ONYON)
+* [Panjabi MC — Mundian to Bach Ke](https://www.last.fm/music/Panjabi+MC/_/Mundian+to+Bach+Ke)
 * [Yuno Miles — PayDay](https://www.last.fm/music/Yuno+Miles/_/PayDay)
 * [Alan Aztec — Vive La France](https://www.last.fm/music/Alan+Aztec/_/Vive+La+France)
-* [Middle Milk — One Nipple at a Time](https://www.last.fm/music/Middle+Milk/_/One+Nipple+at+a+Time)
-* [Verbalase — Tetris - Beatbox](https://www.last.fm/music/Verbalase/_/Tetris+-+Beatbox)
-* [Yuno Miles — Indiana Jones](https://www.last.fm/music/Yuno+Miles/_/Indiana+Jones)<!-- LASTFM:END -->
+* [Middle Milk — One Nipple at a Time](https://www.last.fm/music/Middle+Milk/_/One+Nipple+at+a+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
