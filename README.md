@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [saymooon — UFO PORNO](https://www.last.fm/music/saymooon/_/UFO+PORNO)
-* [Gippeul — Red Sun In The Sky](https://www.last.fm/music/Gippeul/_/Red+Sun+In+The+Sky)
-* [Yoko Takahashi — A Cruel Angel&#39;s Thesis &lpar;Director&#39;s Edit Version&rpar;](https://www.last.fm/music/Yoko+Takahashi/_/A+Cruel+Angel%27s+Thesis+&lpar;Director%27s+Edit+Version&rpar;)
-* [Russian Village Boys — Cyka](https://www.last.fm/music/Russian+Village+Boys/_/Cyka)
-* [La Caution — Thé à la menthe](https://www.last.fm/music/La+Caution/_/Th%C3%A9+%C3%A0+la+menthe)<!-- LASTFM:END -->
+* [Frakkur — PP1](https://www.last.fm/music/Frakkur/_/PP1)
+* [Little Jacob — Spider-Man 2 pizza theme](https://www.last.fm/music/Little+Jacob/_/Spider-Man+2+pizza+theme)
+* [Spongebob Squarepants — Stadium Rave](https://www.last.fm/music/Spongebob+Squarepants/_/Stadium+Rave)
+* [Laur — Exitium](https://www.last.fm/music/Laur/_/Exitium)
+* [saymooon — UFO PORNO](https://www.last.fm/music/saymooon/_/UFO+PORNO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
