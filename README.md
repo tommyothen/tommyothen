@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)
+* [harvoYT — Monkey Type Beat](https://www.last.fm/music/harvoYT/_/Monkey+Type+Beat)
 * [Soulja Boy Eternal — The Only Thing They Fear Is YOUUUU](https://www.last.fm/music/Soulja+Boy+Eternal/_/The+Only+Thing+They+Fear+Is+YOUUUU)
 * [Clay K Slider — Mr. Blue Sky](https://www.last.fm/music/Clay+K+Slider/_/Mr.+Blue+Sky)
-* [GPF — ONYON](https://www.last.fm/music/GPF/_/ONYON)
-* [Panjabi MC — Mundian to Bach Ke](https://www.last.fm/music/Panjabi+MC/_/Mundian+to+Bach+Ke)
-* [Yuno Miles — PayDay](https://www.last.fm/music/Yuno+Miles/_/PayDay)<!-- LASTFM:END -->
+* [GPF — ONYON](https://www.last.fm/music/GPF/_/ONYON)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
