@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Russian Village Boys — Cyka](https://www.last.fm/music/Russian+Village+Boys/_/Cyka)
 * [La Caution — Thé à la menthe](https://www.last.fm/music/La+Caution/_/Th%C3%A9+%C3%A0+la+menthe)
 * [Laur — SYSTEM ERROR](https://www.last.fm/music/Laur/_/SYSTEM+ERROR)
 * [Yilong Ma 火箭 — Yilong Ma VS John Xina](https://www.last.fm/music/Yilong+Ma+%E7%81%AB%E7%AE%AD/_/Yilong+Ma+VS+John+Xina)
-* [MC Virgins — Trap Anthem](https://www.last.fm/music/MC+Virgins/_/Trap+Anthem)
-* [Camellia — The Cat Evolved Into The Microwave-proof Cat!](https://www.last.fm/music/Camellia/_/The+Cat+Evolved+Into+The+Microwave-proof+Cat!)<!-- LASTFM:END -->
+* [MC Virgins — Trap Anthem](https://www.last.fm/music/MC+Virgins/_/Trap+Anthem)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
