@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Frakkur — PP1](https://www.last.fm/music/Frakkur/_/PP1)
-* [Little Jacob — Spider-Man 2 pizza theme](https://www.last.fm/music/Little+Jacob/_/Spider-Man+2+pizza+theme)
+* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
 * [Spongebob Squarepants — Stadium Rave](https://www.last.fm/music/Spongebob+Squarepants/_/Stadium+Rave)
-* [Laur — Exitium](https://www.last.fm/music/Laur/_/Exitium)
-* [saymooon — UFO PORNO](https://www.last.fm/music/saymooon/_/UFO+PORNO)<!-- LASTFM:END -->
+* [AnimationStation — MC Mental at His Best](https://www.last.fm/music/AnimationStation/_/MC+Mental+at+His+Best)
+* [Frakkur — PP1](https://www.last.fm/music/Frakkur/_/PP1)
+* [Little Jacob — Spider-Man 2 pizza theme](https://www.last.fm/music/Little+Jacob/_/Spider-Man+2+pizza+theme)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
