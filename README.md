@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SAGEISKAMI — GUNMA / BLOTTTER](https://www.last.fm/music/SAGEISKAMI/_/GUNMA+%2F+BLOTTTER)
+* [kosu. — gamu.](https://www.last.fm/music/kosu./_/gamu.)
+* [Starjunk 95 — Grimestar](https://www.last.fm/music/Starjunk+95/_/Grimestar)
 * [Gigi D&#39;Agostino — L&#39;Amour Toujours](https://www.last.fm/music/Gigi+D%27Agostino/_/L%27Amour+Toujours)
-* [Gigi D&#39;Agostino — L&#39;Amour Toujours](https://www.last.fm/music/Gigi+D%27Agostino/_/L%27Amour+Toujours)
-* [Oliver Tree — Upside Down](https://www.last.fm/music/Oliver+Tree/_/Upside+Down)
-* [Camellia — THE MUZZLE FACING - Long muzzled version](https://www.last.fm/music/Camellia/_/THE+MUZZLE+FACING+-+Long+muzzled+version)
-* [Shawn Wasabi — MARBLE TEA](https://www.last.fm/music/Shawn+Wasabi/_/MARBLE+TEA)<!-- LASTFM:END -->
+* [Gigi D&#39;Agostino — L&#39;Amour Toujours](https://www.last.fm/music/Gigi+D%27Agostino/_/L%27Amour+Toujours)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
