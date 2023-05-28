@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
+* [Mayyro — spacebar](https://www.last.fm/music/Mayyro/_/spacebar)
 * [越田Rute隆人 — Spider&#39;s Blood](https://www.last.fm/music/%E8%B6%8A%E7%94%B0Rute%E9%9A%86%E4%BA%BA/_/Spider%27s+Blood)
 * [Mikado Miyabi — Tokoyami no keiyaku KEGARETA-SHOUJO](https://www.last.fm/music/Mikado+Miyabi/_/Tokoyami+no+keiyaku+KEGARETA-SHOUJO)
-* [NEUPINK — Necrokalashnikov Eyes](https://www.last.fm/music/NEUPINK/_/Necrokalashnikov+Eyes)
-* [oddscure — Murder You](https://www.last.fm/music/oddscure/_/Murder+You)
-* [Jimmy Here — Maid Outfit](https://www.last.fm/music/Jimmy+Here/_/Maid+Outfit)<!-- LASTFM:END -->
+* [NEUPINK — Necrokalashnikov Eyes](https://www.last.fm/music/NEUPINK/_/Necrokalashnikov+Eyes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
