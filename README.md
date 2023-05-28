@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)
 * [Zedd — I Want You to Know](https://www.last.fm/music/Zedd/_/I+Want+You+to+Know)
 * [Macklemore &amp; Ryan Lewis — Can&#39;t Hold Us &lpar;feat. Ray Dalton&rpar;](https://www.last.fm/music/Macklemore+&amp;+Ryan+Lewis/_/Can%27t+Hold+Us+&lpar;feat.+Ray+Dalton&rpar;)
 * [Bryan Adams — Summer of &#39;69](https://www.last.fm/music/Bryan+Adams/_/Summer+of+%2769)
-* [The 1975 — It&#39;s Not Living &lpar;If It&#39;s Not With You&rpar;](https://www.last.fm/music/The+1975/_/It%27s+Not+Living+&lpar;If+It%27s+Not+With+You&rpar;)
-* [Miley Cyrus — Prisoner &lpar;feat. Dua Lipa&rpar;](https://www.last.fm/music/Miley+Cyrus/_/Prisoner+&lpar;feat.+Dua+Lipa&rpar;)<!-- LASTFM:END -->
+* [The 1975 — It&#39;s Not Living &lpar;If It&#39;s Not With You&rpar;](https://www.last.fm/music/The+1975/_/It%27s+Not+Living+&lpar;If+It%27s+Not+With+You&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
