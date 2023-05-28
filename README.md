@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [vivivivivi — credits song for my death](https://www.last.fm/music/vivivivivi/_/credits+song+for+my+death)
+* [Silentroom — Nhelv](https://www.last.fm/music/Silentroom/_/Nhelv)
 * [Aimai Ai — Star Gazing](https://www.last.fm/music/Aimai+Ai/_/Star+Gazing)
 * [OTMGirls — Aggressive Girl - English ver.](https://www.last.fm/music/OTMGirls/_/Aggressive+Girl+-+English+ver.)
-* [WIV — headache](https://www.last.fm/music/WIV/_/headache)
-* [Superior Cornrows — Test Me](https://www.last.fm/music/Superior+Cornrows/_/Test+Me)
-* [Minami Minase&lpar;CV:Hruka Sasaki&rpar; — tokimeki-meteostrike](https://www.last.fm/music/Minami+Minase&lpar;CV:Hruka+Sasaki&rpar;/_/tokimeki-meteostrike)<!-- LASTFM:END -->
+* [WIV — headache](https://www.last.fm/music/WIV/_/headache)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
