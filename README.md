@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [oddscure — Murder You](https://www.last.fm/music/oddscure/_/Murder+You)
+* [Jimmy Here — Maid Outfit](https://www.last.fm/music/Jimmy+Here/_/Maid+Outfit)
+* [Prolaps — Dreams Be Like](https://www.last.fm/music/Prolaps/_/Dreams+Be+Like)
 * [Unimagined — To Dead Too Dance](https://www.last.fm/music/Unimagined/_/To+Dead+Too+Dance)
-* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
-* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
-* [vivivivivi — credits song for my death](https://www.last.fm/music/vivivivivi/_/credits+song+for+my+death)
-* [Silentroom — Nhelv](https://www.last.fm/music/Silentroom/_/Nhelv)<!-- LASTFM:END -->
+* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
