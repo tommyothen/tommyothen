@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zedd — Clarity](https://www.last.fm/music/Zedd/_/Clarity)
+* [David Guetta — When Love Takes Over &lpar;feat. Kelly Rowland&rpar;](https://www.last.fm/music/David+Guetta/_/When+Love+Takes+Over+&lpar;feat.+Kelly+Rowland&rpar;)
 * [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)
 * [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)
-* [Flo Rida — I Don&#39;t Like It, I Love It &lpar;feat. Robin Thicke &amp; Verdine White&rpar;](https://www.last.fm/music/Flo+Rida/_/I+Don%27t+Like+It,+I+Love+It+&lpar;feat.+Robin+Thicke+&amp;+Verdine+White&rpar;)
-* [Avicii — Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)
-* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)<!-- LASTFM:END -->
+* [Flo Rida — I Don&#39;t Like It, I Love It &lpar;feat. Robin Thicke &amp; Verdine White&rpar;](https://www.last.fm/music/Flo+Rida/_/I+Don%27t+Like+It,+I+Love+It+&lpar;feat.+Robin+Thicke+&amp;+Verdine+White&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
