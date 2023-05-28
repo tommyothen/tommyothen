@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
+* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
 * [BABYMETAL — BxMxC](https://www.last.fm/music/BABYMETAL/_/BxMxC)
 * [Alice Deejay — Better Off Alone](https://www.last.fm/music/Alice+Deejay/_/Better+Off+Alone)
-* [Alex Gaudino — Destination Calabria](https://www.last.fm/music/Alex+Gaudino/_/Destination+Calabria)
-* [Alice Deejay — Better Off Alone](https://www.last.fm/music/Alice+Deejay/_/Better+Off+Alone)
-* [Gigi D&#39;Agostino — L&#39;Amour Toujours](https://www.last.fm/music/Gigi+D%27Agostino/_/L%27Amour+Toujours)<!-- LASTFM:END -->
+* [Alex Gaudino — Destination Calabria](https://www.last.fm/music/Alex+Gaudino/_/Destination+Calabria)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
