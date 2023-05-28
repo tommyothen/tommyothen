@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sungazer — I Walk Alone](https://www.last.fm/music/Sungazer/_/I+Walk+Alone)
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
+* [angry children — Childish Flamingo](https://www.last.fm/music/angry+children/_/Childish+Flamingo)
 * [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
-* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
-* [Die Antwoord — Cookie Thumper!](https://www.last.fm/music/Die+Antwoord/_/Cookie+Thumper!)
-* [Die Antwoord — Ugly Boy](https://www.last.fm/music/Die+Antwoord/_/Ugly+Boy)
-* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)<!-- LASTFM:END -->
+* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
