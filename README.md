@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Superior Cornrows — Test Me](https://www.last.fm/music/Superior+Cornrows/_/Test+Me)
 * [Bill Kiley — Worst Neighbors Ever](https://www.last.fm/music/Bill+Kiley/_/Worst+Neighbors+Ever)
 * [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
 * [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
-* [kosu. — daft.](https://www.last.fm/music/kosu./_/daft.)
-* [Ken Ashcorp — Dare You To Love Me](https://www.last.fm/music/Ken+Ashcorp/_/Dare+You+To+Love+Me)<!-- LASTFM:END -->
+* [kosu. — daft.](https://www.last.fm/music/kosu./_/daft.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
