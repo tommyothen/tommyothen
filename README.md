@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MC Virgins — Bumpin’](https://www.last.fm/music/MC+Virgins/_/Bumpin%E2%80%99)
+* [Yun Head — Cats on Mars](https://www.last.fm/music/Yun+Head/_/Cats+on+Mars)
+* [Ken Ashcorp — Dare You To Love Me](https://www.last.fm/music/Ken+Ashcorp/_/Dare+You+To+Love+Me)
 * [Marmalade butcher — Floccinaucinihilipilification](https://www.last.fm/music/Marmalade+butcher/_/Floccinaucinihilipilification)
-* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
-* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
-* [Mayyro — spacebar](https://www.last.fm/music/Mayyro/_/spacebar)
-* [越田Rute隆人 — Spider&#39;s Blood](https://www.last.fm/music/%E8%B6%8A%E7%94%B0Rute%E9%9A%86%E4%BA%BA/_/Spider%27s+Blood)<!-- LASTFM:END -->
+* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
