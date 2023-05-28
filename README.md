@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Die Antwoord — Baby&#39;s on Fire](https://www.last.fm/music/Die+Antwoord/_/Baby%27s+on+Fire)
+* [BABYMETAL — BxMxC](https://www.last.fm/music/BABYMETAL/_/BxMxC)
 * [Knapsack — difficulties of getting out of bed](https://www.last.fm/music/Knapsack/_/difficulties+of+getting+out+of+bed)
 * [Sungazer — I Walk Alone](https://www.last.fm/music/Sungazer/_/I+Walk+Alone)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [angry children — Childish Flamingo](https://www.last.fm/music/angry+children/_/Childish+Flamingo)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)<!-- LASTFM:END -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
