@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [OTMGirls — Aggressive Girl - English ver.](https://www.last.fm/music/OTMGirls/_/Aggressive+Girl+-+English+ver.)
-* [WIV — headache](https://www.last.fm/music/WIV/_/headache)
-* [Superior Cornrows — Test Me](https://www.last.fm/music/Superior+Cornrows/_/Test+Me)
-* [Superior Cornrows — Test Me](https://www.last.fm/music/Superior+Cornrows/_/Test+Me)
-* [Minami Minase&lpar;CV:Hruka Sasaki&rpar; — tokimeki-meteostrike](https://www.last.fm/music/Minami+Minase&lpar;CV:Hruka+Sasaki&rpar;/_/tokimeki-meteostrike)<!-- LASTFM:END -->
+* [BABYMETAL — BxMxC](https://www.last.fm/music/BABYMETAL/_/BxMxC)
+* [Alice Deejay — Better Off Alone](https://www.last.fm/music/Alice+Deejay/_/Better+Off+Alone)
+* [Alex Gaudino — Destination Calabria](https://www.last.fm/music/Alex+Gaudino/_/Destination+Calabria)
+* [Alice Deejay — Better Off Alone](https://www.last.fm/music/Alice+Deejay/_/Better+Off+Alone)
+* [Gigi D&#39;Agostino — L&#39;Amour Toujours](https://www.last.fm/music/Gigi+D%27Agostino/_/L%27Amour+Toujours)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
