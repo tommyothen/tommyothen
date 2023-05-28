@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
 * [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
 * [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
 * [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
-* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
-* [Superior Cornrows — Test Me](https://www.last.fm/music/Superior+Cornrows/_/Test+Me)<!-- LASTFM:END -->
+* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
