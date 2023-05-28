@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
+* [Sungazer — I Walk Alone](https://www.last.fm/music/Sungazer/_/I+Walk+Alone)
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [angry children — Childish Flamingo](https://www.last.fm/music/angry+children/_/Childish+Flamingo)
-* [MC Virgins — Bumpin’](https://www.last.fm/music/MC+Virgins/_/Bumpin%E2%80%99)
-* [Yun Head — Cats on Mars](https://www.last.fm/music/Yun+Head/_/Cats+on+Mars)
-* [Ken Ashcorp — Dare You To Love Me](https://www.last.fm/music/Ken+Ashcorp/_/Dare+You+To+Love+Me)<!-- LASTFM:END -->
+* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
+* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
