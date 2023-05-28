@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Miley Cyrus — Prisoner &lpar;feat. Dua Lipa&rpar;](https://www.last.fm/music/Miley+Cyrus/_/Prisoner+&lpar;feat.+Dua+Lipa&rpar;)
+* [DNCE — Cake by the Ocean](https://www.last.fm/music/DNCE/_/Cake+by+the+Ocean)
 * [Becky Hill — Remember](https://www.last.fm/music/Becky+Hill/_/Remember)
 * [Harry Styles — Music for a Sushi Restaurant](https://www.last.fm/music/Harry+Styles/_/Music+for+a+Sushi+Restaurant)
-* [Zedd — Clarity](https://www.last.fm/music/Zedd/_/Clarity)
-* [David Guetta — When Love Takes Over &lpar;feat. Kelly Rowland&rpar;](https://www.last.fm/music/David+Guetta/_/When+Love+Takes+Over+&lpar;feat.+Kelly+Rowland&rpar;)
-* [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)<!-- LASTFM:END -->
+* [Zedd — Clarity](https://www.last.fm/music/Zedd/_/Clarity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
