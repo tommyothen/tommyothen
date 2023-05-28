@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mikado Miyabi — Tokoyami no keiyaku KEGARETA-SHOUJO](https://www.last.fm/music/Mikado+Miyabi/_/Tokoyami+no+keiyaku+KEGARETA-SHOUJO)
+* [NEUPINK — Necrokalashnikov Eyes](https://www.last.fm/music/NEUPINK/_/Necrokalashnikov+Eyes)
 * [oddscure — Murder You](https://www.last.fm/music/oddscure/_/Murder+You)
 * [Jimmy Here — Maid Outfit](https://www.last.fm/music/Jimmy+Here/_/Maid+Outfit)
-* [Prolaps — Dreams Be Like](https://www.last.fm/music/Prolaps/_/Dreams+Be+Like)
-* [Unimagined — To Dead Too Dance](https://www.last.fm/music/Unimagined/_/To+Dead+Too+Dance)
-* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)<!-- LASTFM:END -->
+* [Prolaps — Dreams Be Like](https://www.last.fm/music/Prolaps/_/Dreams+Be+Like)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
