@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [RiffShop — Loli Metal](https://www.last.fm/music/RiffShop/_/Loli+Metal)
 * [vivivivivi — credits song for my death](https://www.last.fm/music/vivivivivi/_/credits+song+for+my+death)
 * [Silentroom — Nhelv](https://www.last.fm/music/Silentroom/_/Nhelv)
 * [Aimai Ai — Star Gazing](https://www.last.fm/music/Aimai+Ai/_/Star+Gazing)
-* [OTMGirls — Aggressive Girl - English ver.](https://www.last.fm/music/OTMGirls/_/Aggressive+Girl+-+English+ver.)
-* [WIV — headache](https://www.last.fm/music/WIV/_/headache)<!-- LASTFM:END -->
+* [OTMGirls — Aggressive Girl - English ver.](https://www.last.fm/music/OTMGirls/_/Aggressive+Girl+-+English+ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
