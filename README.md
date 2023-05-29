@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)
+* [brb. — move](https://www.last.fm/music/brb./_/move)
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
 * [bbno$ — litmas](https://www.last.fm/music/bbno$/_/litmas)
-* [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)
-* [FEDUK — Давай жару, Егорич](https://www.last.fm/music/FEDUK/_/%D0%94%D0%B0%D0%B2%D0%B0%D0%B9+%D0%B6%D0%B0%D1%80%D1%83,+%D0%95%D0%B3%D0%BE%D1%80%D0%B8%D1%87)
-* [Coming Soon!!! — Trippin in Paris](https://www.last.fm/music/Coming+Soon!!!/_/Trippin+in+Paris)
-* [Billie Eilish — No Time to Die](https://www.last.fm/music/Billie+Eilish/_/No+Time+to+Die)<!-- LASTFM:END -->
+* [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
