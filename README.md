@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [potsu — I&#39;m Closing My Eyes](https://www.last.fm/music/potsu/_/I%27m+Closing+My+Eyes)
+* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
+* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
 * [SCARLXRD — STFU](https://www.last.fm/music/SCARLXRD/_/STFU)
-* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
-* [Laud — Небеса](https://www.last.fm/music/Laud/_/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%B0)
-* [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)
-* [brb. — move](https://www.last.fm/music/brb./_/move)<!-- LASTFM:END -->
+* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
