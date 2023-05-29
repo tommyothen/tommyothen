@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
+* [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
 * [Die Antwoord — Cookie Thumper!](https://www.last.fm/music/Die+Antwoord/_/Cookie+Thumper!)
-* [Die Antwoord — Ugly Boy](https://www.last.fm/music/Die+Antwoord/_/Ugly+Boy)
-* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
-* [Die Antwoord — I Fink U Freeky](https://www.last.fm/music/Die+Antwoord/_/I+Fink+U+Freeky)
-* [Die Antwoord — Baby&#39;s on Fire](https://www.last.fm/music/Die+Antwoord/_/Baby%27s+on+Fire)<!-- LASTFM:END -->
+* [Die Antwoord — Cookie Thumper!](https://www.last.fm/music/Die+Antwoord/_/Cookie+Thumper!)
+* [Die Antwoord — Ugly Boy](https://www.last.fm/music/Die+Antwoord/_/Ugly+Boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
