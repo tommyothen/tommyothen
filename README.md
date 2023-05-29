@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Smoke Trees — Date 5: Vanessa](https://www.last.fm/music/Smoke+Trees/_/Date+5:+Vanessa)
 * [FEDUK — Bassline Bitches](https://www.last.fm/music/FEDUK/_/Bassline+Bitches)
 * [Qawi Kamri — Shaky Hands](https://www.last.fm/music/Qawi+Kamri/_/Shaky+Hands)
 * [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
-* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
-* [XXXTENTACION — love yourself &lpar;interlude&rpar;](https://www.last.fm/music/XXXTENTACION/_/love+yourself+&lpar;interlude&rpar;)<!-- LASTFM:END -->
+* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
