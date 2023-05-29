@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Shakewell — Sobriety](https://www.last.fm/music/Shakewell/_/Sobriety)
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
 * [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)<!-- LASTFM:END -->
+* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
+* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
+* [Shakewell — Sobriety](https://www.last.fm/music/Shakewell/_/Sobriety)
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
