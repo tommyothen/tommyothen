@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
+* [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
+* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
 * [Ibeyi — Made of Gold - Edit](https://www.last.fm/music/Ibeyi/_/Made+of+Gold+-+Edit)
-* [Chris Brown — Next to You &lpar;feat. Justin Bieber&rpar;](https://www.last.fm/music/Chris+Brown/_/Next+to+You+&lpar;feat.+Justin+Bieber&rpar;)
-* [Avicii — Hey Brother](https://www.last.fm/music/Avicii/_/Hey+Brother)
-* [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)
-* [Zedd — I Want You to Know](https://www.last.fm/music/Zedd/_/I+Want+You+to+Know)<!-- LASTFM:END -->
+* [Chris Brown — Next to You &lpar;feat. Justin Bieber&rpar;](https://www.last.fm/music/Chris+Brown/_/Next+to+You+&lpar;feat.+Justin+Bieber&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
