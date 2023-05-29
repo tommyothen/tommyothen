@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Laud — Небеса](https://www.last.fm/music/Laud/_/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%B0)
 * [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)
 * [brb. — move](https://www.last.fm/music/brb./_/move)
 * [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [bbno$ — litmas](https://www.last.fm/music/bbno$/_/litmas)
-* [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)<!-- LASTFM:END -->
+* [bbno$ — litmas](https://www.last.fm/music/bbno$/_/litmas)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
