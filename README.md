@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
-* [Dirtyphonics — Navigator](https://www.last.fm/music/Dirtyphonics/_/Navigator)
-* [Smoke Trees — Date 5: Vanessa](https://www.last.fm/music/Smoke+Trees/_/Date+5:+Vanessa)
-* [FEDUK — Bassline Bitches](https://www.last.fm/music/FEDUK/_/Bassline+Bitches)<!-- LASTFM:END -->
+* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)
+* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
+* [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
+* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
+* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
