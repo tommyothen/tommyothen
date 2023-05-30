@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ghost Data — Blatant Plagiarism](https://www.last.fm/music/Ghost+Data/_/Blatant+Plagiarism)
+* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
 * [Sebastian Paul — VANILLA](https://www.last.fm/music/Sebastian+Paul/_/VANILLA)
-* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
-* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
-* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)<!-- LASTFM:END -->
+* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
