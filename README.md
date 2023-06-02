@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)
+* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
+* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)
 * [Melanie Martinez — Play Date](https://www.last.fm/music/Melanie+Martinez/_/Play+Date)
-* [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [Dybbukk Covers — I&#39;m Only a Fool for You](https://www.last.fm/music/Dybbukk+Covers/_/I%27m+Only+a+Fool+for+You)<!-- LASTFM:END -->
+* [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
