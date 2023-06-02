@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
 * [Yunomi — ジェリーフィッシュ &lpar;feat. ローラーガール&rpar;](https://www.last.fm/music/Yunomi/_/%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5+&lpar;feat.+%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB&rpar;)
 * [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
-* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
-* [Hovey Benjamin — Flexing On My Ex](https://www.last.fm/music/Hovey+Benjamin/_/Flexing+On+My+Ex)
-* [Young Lungs — I Want My Life To Change](https://www.last.fm/music/Young+Lungs/_/I+Want+My+Life+To+Change)<!-- LASTFM:END -->
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
