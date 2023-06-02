@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [six impala — WFLYTD &lpar;GOODMORNING&rpar;](https://www.last.fm/music/six+impala/_/WFLYTD+&lpar;GOODMORNING&rpar;)
 * [six impala — 5P4R3 Y0UR 3N4M3L, 5H3 N33D5 17 M0R3 7H4N Y0U](https://www.last.fm/music/six+impala/_/5P4R3+Y0UR+3N4M3L,+5H3+N33D5+17+M0R3+7H4N+Y0U)
 * [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
 * [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)
-* [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)<!-- LASTFM:END -->
+* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
