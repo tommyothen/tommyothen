@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
+* [Cannibal Corpse — Scourge of Iron](https://www.last.fm/music/Cannibal+Corpse/_/Scourge+of+Iron)
 * [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
 * [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)
-* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)<!-- LASTFM:END -->
+* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
