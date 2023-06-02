@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
+* [Syko — NEWJERSEYLUVPUNCH!](https://www.last.fm/music/Syko/_/NEWJERSEYLUVPUNCH!)
 * [Luci4 — Kurxxed Emeraldz](https://www.last.fm/music/Luci4/_/Kurxxed+Emeraldz)
 * [PinkPantheress — Just for me](https://www.last.fm/music/PinkPantheress/_/Just+for+me)
-* [IC3PEAK — TRRST](https://www.last.fm/music/IC3PEAK/_/TRRST)
-* [lvl1 — FVN!](https://www.last.fm/music/lvl1/_/FVN!)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
+* [IC3PEAK — TRRST](https://www.last.fm/music/IC3PEAK/_/TRRST)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
