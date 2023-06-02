@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Constera — VTUBERS](https://www.last.fm/music/Constera/_/VTUBERS)
 * [zendyy — Losin&#39; It](https://www.last.fm/music/zendyy/_/Losin%27+It)
 * [six impala — trauma &lpar;ALT&rpar;](https://www.last.fm/music/six+impala/_/trauma+&lpar;ALT&rpar;)
 * [six impala — F4R4W4Y199X/74P3 2](https://www.last.fm/music/six+impala/_/F4R4W4Y199X%2F74P3+2)
-* [six impala — WFLYTD &lpar;GOODMORNING&rpar;](https://www.last.fm/music/six+impala/_/WFLYTD+&lpar;GOODMORNING&rpar;)
-* [six impala — 5P4R3 Y0UR 3N4M3L, 5H3 N33D5 17 M0R3 7H4N Y0U](https://www.last.fm/music/six+impala/_/5P4R3+Y0UR+3N4M3L,+5H3+N33D5+17+M0R3+7H4N+Y0U)<!-- LASTFM:END -->
+* [six impala — WFLYTD &lpar;GOODMORNING&rpar;](https://www.last.fm/music/six+impala/_/WFLYTD+&lpar;GOODMORNING&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
