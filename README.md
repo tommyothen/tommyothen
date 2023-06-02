@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tatarka — KAWAII](https://www.last.fm/music/Tatarka/_/KAWAII)
+* [Payton — Rich Boy](https://www.last.fm/music/Payton/_/Rich+Boy)
+* [Ashnikko — Daisy](https://www.last.fm/music/Ashnikko/_/Daisy)
 * [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
-* [Syko — COKEWHORE](https://www.last.fm/music/Syko/_/COKEWHORE)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Luci4 — Kurxxed Emeraldz](https://www.last.fm/music/Luci4/_/Kurxxed+Emeraldz)<!-- LASTFM:END -->
+* [Syko — COKEWHORE](https://www.last.fm/music/Syko/_/COKEWHORE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
