@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)
 * [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
 * [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
 * [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [Polyphia — Memento Mori &lpar;feat. Killstation&rpar;](https://www.last.fm/music/Polyphia/_/Memento+Mori+&lpar;feat.+Killstation&rpar;)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)<!-- LASTFM:END -->
+* [Polyphia — Memento Mori &lpar;feat. Killstation&rpar;](https://www.last.fm/music/Polyphia/_/Memento+Mori+&lpar;feat.+Killstation&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
