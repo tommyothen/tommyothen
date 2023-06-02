@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
+* [Syko — COKEWHORE](https://www.last.fm/music/Syko/_/COKEWHORE)
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Luci4 — Kurxxed Emeraldz](https://www.last.fm/music/Luci4/_/Kurxxed+Emeraldz)
-* [Syko — Broke Boy!](https://www.last.fm/music/Syko/_/Broke+Boy!)
-* [Syko — DALLAS RAMBLE](https://www.last.fm/music/Syko/_/DALLAS+RAMBLE)
-* [Yellow Claw — Love &amp; War - Yellow Claw G-Funk Remix](https://www.last.fm/music/Yellow+Claw/_/Love+&amp;+War+-+Yellow+Claw+G-Funk+Remix)<!-- LASTFM:END -->
+* [Luci4 — Kurxxed Emeraldz](https://www.last.fm/music/Luci4/_/Kurxxed+Emeraldz)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
