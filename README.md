@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — FuckYou!](https://www.last.fm/music/Syko/_/FuckYou!)
+* [soviss — kitty phonk](https://www.last.fm/music/soviss/_/kitty+phonk)
+* [IC3PEAK — Смерти Больше Нет](https://www.last.fm/music/IC3PEAK/_/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B8+%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5+%D0%9D%D0%B5%D1%82)
 * [Tatarka — KAWAII](https://www.last.fm/music/Tatarka/_/KAWAII)
-* [Payton — Rich Boy](https://www.last.fm/music/Payton/_/Rich+Boy)
-* [Ashnikko — Daisy](https://www.last.fm/music/Ashnikko/_/Daisy)
-* [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
-* [Syko — COKEWHORE](https://www.last.fm/music/Syko/_/COKEWHORE)<!-- LASTFM:END -->
+* [Payton — Rich Boy](https://www.last.fm/music/Payton/_/Rich+Boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
