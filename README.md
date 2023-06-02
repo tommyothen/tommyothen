@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tame Impala — Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)
 * [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)
 * [stxlkin — so bitter](https://www.last.fm/music/stxlkin/_/so+bitter)
 * [S3RL — Bass Slut - Original Mix](https://www.last.fm/music/S3RL/_/Bass+Slut+-+Original+Mix)
-* [Rav — YOU FUCKERS WERE ASKING FOR THIS ONE](https://www.last.fm/music/Rav/_/YOU+FUCKERS+WERE+ASKING+FOR+THIS+ONE)
-* [Jupiluxe — Like This](https://www.last.fm/music/Jupiluxe/_/Like+This)<!-- LASTFM:END -->
+* [Rav — YOU FUCKERS WERE ASKING FOR THIS ONE](https://www.last.fm/music/Rav/_/YOU+FUCKERS+WERE+ASKING+FOR+THIS+ONE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
