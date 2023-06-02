@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yellow Claw — Love &amp; War - Yellow Claw G-Funk Remix](https://www.last.fm/music/Yellow+Claw/_/Love+&amp;+War+-+Yellow+Claw+G-Funk+Remix)
+* [Syko — BUS STOP!](https://www.last.fm/music/Syko/_/BUS+STOP!)
+* [Shou — Tasty Carrots](https://www.last.fm/music/Shou/_/Tasty+Carrots)
 * [Syko — NEWJERSEYLUVPUNCH!](https://www.last.fm/music/Syko/_/NEWJERSEYLUVPUNCH!)
-* [PinkPantheress — Just for me](https://www.last.fm/music/PinkPantheress/_/Just+for+me)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [MC Virgins — Trap Anthem](https://www.last.fm/music/MC+Virgins/_/Trap+Anthem)
-* [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)<!-- LASTFM:END -->
+* [PinkPantheress — Just for me](https://www.last.fm/music/PinkPantheress/_/Just+for+me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
