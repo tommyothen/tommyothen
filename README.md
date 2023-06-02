@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Shou — Tasty Carrots](https://www.last.fm/music/Shou/_/Tasty+Carrots)
-* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
-* [IC3PEAK — Смерти Больше Нет](https://www.last.fm/music/IC3PEAK/_/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B8+%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5+%D0%9D%D0%B5%D1%82)<!-- LASTFM:END -->
+* [Luci4 — Kurxxed Emeraldz](https://www.last.fm/music/Luci4/_/Kurxxed+Emeraldz)
+* [PinkPantheress — Just for me](https://www.last.fm/music/PinkPantheress/_/Just+for+me)
+* [IC3PEAK — TRRST](https://www.last.fm/music/IC3PEAK/_/TRRST)
+* [lvl1 — FVN!](https://www.last.fm/music/lvl1/_/FVN!)
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
