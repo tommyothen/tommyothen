@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [oaf1 — think abt it](https://www.last.fm/music/oaf1/_/think+abt+it)
+* [WEEDMANE — SUICIDE YEAR](https://www.last.fm/music/WEEDMANE/_/SUICIDE+YEAR)
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
 * [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
-* [brakence — bugging!](https://www.last.fm/music/brakence/_/bugging!)
-* [Constera — VTUBERS](https://www.last.fm/music/Constera/_/VTUBERS)
-* [zendyy — Losin&#39; It](https://www.last.fm/music/zendyy/_/Losin%27+It)<!-- LASTFM:END -->
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
