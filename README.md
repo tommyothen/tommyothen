@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
 * [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
 * [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
 * [Moe Shop — Identity](https://www.last.fm/music/Moe+Shop/_/Identity)
-* [Tame Impala — Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)
-* [Death Grips — Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)<!-- LASTFM:END -->
+* [Tame Impala — Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
