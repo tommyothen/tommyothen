@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
+* [brakence — bugging!](https://www.last.fm/music/brakence/_/bugging!)
 * [Constera — VTUBERS](https://www.last.fm/music/Constera/_/VTUBERS)
-* [zendyy — Losin&#39; It](https://www.last.fm/music/zendyy/_/Losin%27+It)
-* [six impala — trauma &lpar;ALT&rpar;](https://www.last.fm/music/six+impala/_/trauma+&lpar;ALT&rpar;)
-* [six impala — F4R4W4Y199X/74P3 2](https://www.last.fm/music/six+impala/_/F4R4W4Y199X%2F74P3+2)
-* [six impala — WFLYTD &lpar;GOODMORNING&rpar;](https://www.last.fm/music/six+impala/_/WFLYTD+&lpar;GOODMORNING&rpar;)<!-- LASTFM:END -->
+* [zendyy — Losin&#39; It](https://www.last.fm/music/zendyy/_/Losin%27+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
