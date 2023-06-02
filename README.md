@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bambee — Bumble Bee](https://www.last.fm/music/Bambee/_/Bumble+Bee)
+* [Moe Shop — Notice](https://www.last.fm/music/Moe+Shop/_/Notice)
 * [DNMO — Sick Of You](https://www.last.fm/music/DNMO/_/Sick+Of+You)
 * [Kebab Express — Dance Til Your](https://www.last.fm/music/Kebab+Express/_/Dance+Til+Your)
-* [Ayesha Erotica — Literal Legend](https://www.last.fm/music/Ayesha+Erotica/_/Literal+Legend)
-* [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)
-* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)<!-- LASTFM:END -->
+* [Ayesha Erotica — Literal Legend](https://www.last.fm/music/Ayesha+Erotica/_/Literal+Legend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
