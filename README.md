@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Syko — FuckYou!](https://www.last.fm/music/Syko/_/FuckYou!)
-* [soviss — kitty phonk](https://www.last.fm/music/soviss/_/kitty+phonk)
-* [IC3PEAK — Смерти Больше Нет](https://www.last.fm/music/IC3PEAK/_/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B8+%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5+%D0%9D%D0%B5%D1%82)
-* [Tatarka — KAWAII](https://www.last.fm/music/Tatarka/_/KAWAII)
-* [Payton — Rich Boy](https://www.last.fm/music/Payton/_/Rich+Boy)<!-- LASTFM:END -->
+* [日本アニメ&lpar;ーター&rpar;見本市 — ME!ME!ME! feat. daoko_pt.1](https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%8B%E3%83%A1&lpar;%E3%83%BC%E3%82%BF%E3%83%BC&rpar;%E8%A6%8B%E6%9C%AC%E5%B8%82/_/ME!ME!ME!+feat.+daoko_pt.1)
+* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
+* [Bo Burnham — Bezos I](https://www.last.fm/music/Bo+Burnham/_/Bezos+I)
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
+* [Syko — FuckYou!](https://www.last.fm/music/Syko/_/FuckYou!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
