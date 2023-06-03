@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
 * [Levis Remix — She Make It Clap &lpar;Freestyle&rpar;](https://www.last.fm/music/Levis+Remix/_/She+Make+It+Clap+&lpar;Freestyle&rpar;)
 * [The Kooks — She Moves in Her Own Way](https://www.last.fm/music/The+Kooks/_/She+Moves+in+Her+Own+Way)
 * [Miley Cyrus — The Climb](https://www.last.fm/music/Miley+Cyrus/_/The+Climb)
-* [ZAQ — Seven Doors](https://www.last.fm/music/ZAQ/_/Seven+Doors)
-* [Abbie Mottram — Car Radio](https://www.last.fm/music/Abbie+Mottram/_/Car+Radio)<!-- LASTFM:END -->
+* [ZAQ — Seven Doors](https://www.last.fm/music/ZAQ/_/Seven+Doors)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
