@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Axwell /\ Ingrosso — More Than You Know](https://www.last.fm/music/Axwell+%2F%5C+Ingrosso/_/More+Than+You+Know)
 * [Nick Jonas — Jealous](https://www.last.fm/music/Nick+Jonas/_/Jealous)
 * [The 1975 — Girls](https://www.last.fm/music/The+1975/_/Girls)
 * [Lady Gaga — Paparazzi](https://www.last.fm/music/Lady+Gaga/_/Paparazzi)
-* [One Direction — Wolves](https://www.last.fm/music/One+Direction/_/Wolves)
-* [Justin Bieber — Beauty and a Beat](https://www.last.fm/music/Justin+Bieber/_/Beauty+and+a+Beat)<!-- LASTFM:END -->
+* [One Direction — Wolves](https://www.last.fm/music/One+Direction/_/Wolves)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
