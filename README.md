@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)
+* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
+* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
 * [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [Better Oblivion Community Center — Dylan Thomas](https://www.last.fm/music/Better+Oblivion+Community+Center/_/Dylan+Thomas)
-* [Ethel Cain — Ptolemaea](https://www.last.fm/music/Ethel+Cain/_/Ptolemaea)
-* [King Krule — Out Getting Ribs](https://www.last.fm/music/King+Krule/_/Out+Getting+Ribs)
-* [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)<!-- LASTFM:END -->
+* [Better Oblivion Community Center — Dylan Thomas](https://www.last.fm/music/Better+Oblivion+Community+Center/_/Dylan+Thomas)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
