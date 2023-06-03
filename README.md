@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [Neon Trees — Everybody Talks](https://www.last.fm/music/Neon+Trees/_/Everybody+Talks)
+* [The 1975 — Oh Caroline](https://www.last.fm/music/The+1975/_/Oh+Caroline)
 * [Jessie J — Domino](https://www.last.fm/music/Jessie+J/_/Domino)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [The 1975 — The Sound](https://www.last.fm/music/The+1975/_/The+Sound)
-* [Katy Perry — Hot n Cold](https://www.last.fm/music/Katy+Perry/_/Hot+n+Cold)
-* [Nicole Scherzinger — Don&#39;t Hold Your Breath](https://www.last.fm/music/Nicole+Scherzinger/_/Don%27t+Hold+Your+Breath)<!-- LASTFM:END -->
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
