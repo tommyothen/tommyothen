@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tia — Deal with the devil](https://www.last.fm/music/Tia/_/Deal+with+the+devil)
+* [Selphius — Blade of Hope](https://www.last.fm/music/Selphius/_/Blade+of+Hope)
+* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
 * [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)
-* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
-* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [Better Oblivion Community Center — Dylan Thomas](https://www.last.fm/music/Better+Oblivion+Community+Center/_/Dylan+Thomas)<!-- LASTFM:END -->
+* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
