@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
+* [Better Oblivion Community Center — Dylan Thomas](https://www.last.fm/music/Better+Oblivion+Community+Center/_/Dylan+Thomas)
 * [Ethel Cain — Ptolemaea](https://www.last.fm/music/Ethel+Cain/_/Ptolemaea)
 * [King Krule — Out Getting Ribs](https://www.last.fm/music/King+Krule/_/Out+Getting+Ribs)
-* [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)
-* [Leah Kate — My Bed](https://www.last.fm/music/Leah+Kate/_/My+Bed)
-* [Justus Bennetts — Bad Day](https://www.last.fm/music/Justus+Bennetts/_/Bad+Day)<!-- LASTFM:END -->
+* [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
