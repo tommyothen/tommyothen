@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
+* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
 * [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)
 * [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [Syko — NEWJERSEYLUVPUNCH!](https://www.last.fm/music/Syko/_/NEWJERSEYLUVPUNCH!)
-* [Luci4 — Kurxxed Emeraldz](https://www.last.fm/music/Luci4/_/Kurxxed+Emeraldz)<!-- LASTFM:END -->
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
