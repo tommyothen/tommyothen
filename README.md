@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Abbie Mottram — Car Radio](https://www.last.fm/music/Abbie+Mottram/_/Car+Radio)
+* [Demi Lovato — SKIN OF MY TEETH](https://www.last.fm/music/Demi+Lovato/_/SKIN+OF+MY+TEETH)
 * [Tia — Deal with the devil](https://www.last.fm/music/Tia/_/Deal+with+the+devil)
 * [Selphius — Blade of Hope](https://www.last.fm/music/Selphius/_/Blade+of+Hope)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
-* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)
-* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)<!-- LASTFM:END -->
+* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
