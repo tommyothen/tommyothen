@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charli XCX — Boom Clap](https://www.last.fm/music/Charli+XCX/_/Boom+Clap)
+* [Zedd — Stay the Night - featuring Hayley Williams of Paramore](https://www.last.fm/music/Zedd/_/Stay+the+Night+-+featuring+Hayley+Williams+of+Paramore)
 * [Bruno Mars — Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby)
 * [One Direction — Drag Me Down](https://www.last.fm/music/One+Direction/_/Drag+Me+Down)
-* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
-* [The Vamps — Can We Dance](https://www.last.fm/music/The+Vamps/_/Can+We+Dance)
-* [Drake — God&#39;s Plan](https://www.last.fm/music/Drake/_/God%27s+Plan)<!-- LASTFM:END -->
+* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
