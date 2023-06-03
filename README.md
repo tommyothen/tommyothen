@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nick Jonas — Jealous](https://www.last.fm/music/Nick+Jonas/_/Jealous)
+* [The 1975 — Girls](https://www.last.fm/music/The+1975/_/Girls)
 * [Lady Gaga — Paparazzi](https://www.last.fm/music/Lady+Gaga/_/Paparazzi)
 * [One Direction — Wolves](https://www.last.fm/music/One+Direction/_/Wolves)
-* [Justin Bieber — Beauty and a Beat](https://www.last.fm/music/Justin+Bieber/_/Beauty+and+a+Beat)
-* [Walk Off the Earth — My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
+* [Justin Bieber — Beauty and a Beat](https://www.last.fm/music/Justin+Bieber/_/Beauty+and+a+Beat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
