@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ethel Cain — Ptolemaea](https://www.last.fm/music/Ethel+Cain/_/Ptolemaea)
 * [King Krule — Out Getting Ribs](https://www.last.fm/music/King+Krule/_/Out+Getting+Ribs)
 * [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)
 * [Leah Kate — My Bed](https://www.last.fm/music/Leah+Kate/_/My+Bed)
-* [Justus Bennetts — Bad Day](https://www.last.fm/music/Justus+Bennetts/_/Bad+Day)
-* [Kordhell — Murder In My Mind](https://www.last.fm/music/Kordhell/_/Murder+In+My+Mind)<!-- LASTFM:END -->
+* [Justus Bennetts — Bad Day](https://www.last.fm/music/Justus+Bennetts/_/Bad+Day)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
