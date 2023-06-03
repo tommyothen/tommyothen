@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Vamps — Can We Dance](https://www.last.fm/music/The+Vamps/_/Can+We+Dance)
+* [Drake — God&#39;s Plan](https://www.last.fm/music/Drake/_/God%27s+Plan)
 * [Axwell /\ Ingrosso — More Than You Know](https://www.last.fm/music/Axwell+%2F%5C+Ingrosso/_/More+Than+You+Know)
 * [Nick Jonas — Jealous](https://www.last.fm/music/Nick+Jonas/_/Jealous)
-* [The 1975 — Girls](https://www.last.fm/music/The+1975/_/Girls)
-* [Lady Gaga — Paparazzi](https://www.last.fm/music/Lady+Gaga/_/Paparazzi)
-* [One Direction — Wolves](https://www.last.fm/music/One+Direction/_/Wolves)<!-- LASTFM:END -->
+* [The 1975 — Girls](https://www.last.fm/music/The+1975/_/Girls)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
