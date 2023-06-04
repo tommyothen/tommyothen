@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
+* [Starjunk 95 — Grimestar](https://www.last.fm/music/Starjunk+95/_/Grimestar)
 * [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)
-* [Charli XCX — Boom Clap](https://www.last.fm/music/Charli+XCX/_/Boom+Clap)<!-- LASTFM:END -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
