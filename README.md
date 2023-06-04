@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [Mello Jupiter — Final Lap! &lpar;11vx mix&rpar;](https://www.last.fm/music/Mello+Jupiter/_/Final+Lap!+&lpar;11vx+mix&rpar;)
 * [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
 * [Starjunk 95 — Grimestar](https://www.last.fm/music/Starjunk+95/_/Grimestar)
-* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)<!-- LASTFM:END -->
+* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
