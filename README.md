@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Calvin Harris — Feel So Close](https://www.last.fm/music/Calvin+Harris/_/Feel+So+Close)
 * [Katy Perry — California Gurls](https://www.last.fm/music/Katy+Perry/_/California+Gurls)
 * [Calvin Harris — This Is What You Came For](https://www.last.fm/music/Calvin+Harris/_/This+Is+What+You+Came+For)
 * [David Guetta — When Love Takes Over &lpar;feat. Kelly Rowland&rpar;](https://www.last.fm/music/David+Guetta/_/When+Love+Takes+Over+&lpar;feat.+Kelly+Rowland&rpar;)
-* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)
-* [Maroon 5 — This Love](https://www.last.fm/music/Maroon+5/_/This+Love)<!-- LASTFM:END -->
+* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
