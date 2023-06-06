@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Calvin Harris — This Is What You Came For](https://www.last.fm/music/Calvin+Harris/_/This+Is+What+You+Came+For)
+* [David Guetta — When Love Takes Over &lpar;feat. Kelly Rowland&rpar;](https://www.last.fm/music/David+Guetta/_/When+Love+Takes+Over+&lpar;feat.+Kelly+Rowland&rpar;)
 * [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)
 * [Maroon 5 — This Love](https://www.last.fm/music/Maroon+5/_/This+Love)
-* [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)
-* [Flo Rida — Wild Ones &lpar;feat. Sia&rpar;](https://www.last.fm/music/Flo+Rida/_/Wild+Ones+&lpar;feat.+Sia&rpar;)
-* [Becky Hill — Remember](https://www.last.fm/music/Becky+Hill/_/Remember)<!-- LASTFM:END -->
+* [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
