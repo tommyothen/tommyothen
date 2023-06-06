@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
+* [The 1975 — It&#39;s Not Living &lpar;If It&#39;s Not With You&rpar;](https://www.last.fm/music/The+1975/_/It%27s+Not+Living+&lpar;If+It%27s+Not+With+You&rpar;)
 * [Lady Gaga — Paparazzi](https://www.last.fm/music/Lady+Gaga/_/Paparazzi)
 * [Zedd — I Want You to Know](https://www.last.fm/music/Zedd/_/I+Want+You+to+Know)
-* [Avicii — Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)
-* [Travie McCoy — Billionaire &lpar;feat. Bruno Mars&rpar;](https://www.last.fm/music/Travie+McCoy/_/Billionaire+&lpar;feat.+Bruno+Mars&rpar;)
-* [Toploader — Dancing in the Moonlight](https://www.last.fm/music/Toploader/_/Dancing+in+the+Moonlight)<!-- LASTFM:END -->
+* [Avicii — Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
