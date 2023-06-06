@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Harry Styles — Daylight](https://www.last.fm/music/Harry+Styles/_/Daylight)
+* [Bruno Mars — Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby)
 * [Macklemore &amp; Ryan Lewis — Can&#39;t Hold Us &lpar;feat. Ray Dalton&rpar;](https://www.last.fm/music/Macklemore+&amp;+Ryan+Lewis/_/Can%27t+Hold+Us+&lpar;feat.+Ray+Dalton&rpar;)
 * [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)
-* [Jason Derulo — Ridin&#39; Solo](https://www.last.fm/music/Jason+Derulo/_/Ridin%27+Solo)
-* [Alexandra Stan — Mr. Saxobeat](https://www.last.fm/music/Alexandra+Stan/_/Mr.+Saxobeat)
-* [Calvin Harris — Summer](https://www.last.fm/music/Calvin+Harris/_/Summer)<!-- LASTFM:END -->
+* [Jason Derulo — Ridin&#39; Solo](https://www.last.fm/music/Jason+Derulo/_/Ridin%27+Solo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
