@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alexandra Stan — Mr. Saxobeat](https://www.last.fm/music/Alexandra+Stan/_/Mr.+Saxobeat)
+* [Calvin Harris — Summer](https://www.last.fm/music/Calvin+Harris/_/Summer)
+* [Miley Cyrus — Prisoner &lpar;feat. Dua Lipa&rpar;](https://www.last.fm/music/Miley+Cyrus/_/Prisoner+&lpar;feat.+Dua+Lipa&rpar;)
 * [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)
-* [Avicii — The Nights](https://www.last.fm/music/Avicii/_/The+Nights)
-* [Maroon 5 — This Love](https://www.last.fm/music/Maroon+5/_/This+Love)
-* [Little Mix — Sweet Melody](https://www.last.fm/music/Little+Mix/_/Sweet+Melody)
-* [Jessie J — Price Tag](https://www.last.fm/music/Jessie+J/_/Price+Tag)<!-- LASTFM:END -->
+* [Avicii — The Nights](https://www.last.fm/music/Avicii/_/The+Nights)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
