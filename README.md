@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Mello Jupiter — Final Lap! &lpar;11vx mix&rpar;](https://www.last.fm/music/Mello+Jupiter/_/Final+Lap!+&lpar;11vx+mix&rpar;)
-* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
-* [Starjunk 95 — Grimestar](https://www.last.fm/music/Starjunk+95/_/Grimestar)
-* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)<!-- LASTFM:END -->
+* [Maul — JoJo Hardstyle](https://www.last.fm/music/Maul/_/JoJo+Hardstyle)
+* [Minecraft King27 — Mining](https://www.last.fm/music/Minecraft+King27/_/Mining)
+* [Vieze Asbak — Erika Uit Langenboom - Uptempo Braak Mix](https://www.last.fm/music/Vieze+Asbak/_/Erika+Uit+Langenboom+-+Uptempo+Braak+Mix)
+* [Little Jacob — Spider-Man 2 pizza theme](https://www.last.fm/music/Little+Jacob/_/Spider-Man+2+pizza+theme)
+* [Middle Milk — One Nipple at a Time](https://www.last.fm/music/Middle+Milk/_/One+Nipple+at+a+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
