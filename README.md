@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — three wheels and it still drives!](https://www.last.fm/music/Glaive/_/three+wheels+and+it+still+drives!)
+* [Glaive — three wheels and it still drives!](https://www.last.fm/music/Glaive/_/three+wheels+and+it+still+drives!)
 * [Gingus — homeswitcher](https://www.last.fm/music/Gingus/_/homeswitcher)
 * [Maul — JoJo Hardstyle](https://www.last.fm/music/Maul/_/JoJo+Hardstyle)
-* [Minecraft King27 — Mining](https://www.last.fm/music/Minecraft+King27/_/Mining)
-* [Vieze Asbak — Erika Uit Langenboom - Uptempo Braak Mix](https://www.last.fm/music/Vieze+Asbak/_/Erika+Uit+Langenboom+-+Uptempo+Braak+Mix)
-* [Little Jacob — Spider-Man 2 pizza theme](https://www.last.fm/music/Little+Jacob/_/Spider-Man+2+pizza+theme)<!-- LASTFM:END -->
+* [Minecraft King27 — Mining](https://www.last.fm/music/Minecraft+King27/_/Mining)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
