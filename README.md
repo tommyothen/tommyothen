@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
 * [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
 * [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)
 * [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
-* [Bakar — Hell N Back](https://www.last.fm/music/Bakar/_/Hell+N+Back)
-* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)<!-- LASTFM:END -->
+* [Bakar — Hell N Back](https://www.last.fm/music/Bakar/_/Hell+N+Back)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
