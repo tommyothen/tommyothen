@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)
+* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
+* [Bakar — Hell N Back](https://www.last.fm/music/Bakar/_/Hell+N+Back)
 * [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
-* [kmoe — 2267 &lpar;feat. ericdoa&rpar;](https://www.last.fm/music/kmoe/_/2267+&lpar;feat.+ericdoa&rpar;)
-* [Glaive — three wheels and it still drives!](https://www.last.fm/music/Glaive/_/three+wheels+and+it+still+drives!)
-* [Glaive — three wheels and it still drives!](https://www.last.fm/music/Glaive/_/three+wheels+and+it+still+drives!)
-* [Gingus — homeswitcher](https://www.last.fm/music/Gingus/_/homeswitcher)<!-- LASTFM:END -->
+* [kmoe — 2267 &lpar;feat. ericdoa&rpar;](https://www.last.fm/music/kmoe/_/2267+&lpar;feat.+ericdoa&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
