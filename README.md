@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Becky Hill — Remember](https://www.last.fm/music/Becky+Hill/_/Remember)
+* [Modjo — Lady &lpar;Hear Me Tonight&rpar;](https://www.last.fm/music/Modjo/_/Lady+&lpar;Hear+Me+Tonight&rpar;)
 * [Flo Rida — My House](https://www.last.fm/music/Flo+Rida/_/My+House)
 * [Katy Perry — Last Friday Night &lpar;T.G.I.F.&rpar;](https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+&lpar;T.G.I.F.&rpar;)
-* [Jessie J — Price Tag](https://www.last.fm/music/Jessie+J/_/Price+Tag)
-* [Walk Off the Earth — My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)
-* [Mika — Grace Kelly](https://www.last.fm/music/Mika/_/Grace+Kelly)<!-- LASTFM:END -->
+* [Jessie J — Price Tag](https://www.last.fm/music/Jessie+J/_/Price+Tag)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
