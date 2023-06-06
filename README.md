@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Toploader — Dancing in the Moonlight](https://www.last.fm/music/Toploader/_/Dancing+in+the+Moonlight)
 * [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
 * [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)
 * [Jessie J — Domino](https://www.last.fm/music/Jessie+J/_/Domino)
-* [U2 — Beautiful Day](https://www.last.fm/music/U2/_/Beautiful+Day)
-* [Scissor Sisters — I Don&#39;t Feel Like Dancin&#39;](https://www.last.fm/music/Scissor+Sisters/_/I+Don%27t+Feel+Like+Dancin%27)<!-- LASTFM:END -->
+* [U2 — Beautiful Day](https://www.last.fm/music/U2/_/Beautiful+Day)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
