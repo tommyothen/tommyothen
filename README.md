@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Little Mix — Sweet Melody](https://www.last.fm/music/Little+Mix/_/Sweet+Melody)
+* [Jessie J — Price Tag](https://www.last.fm/music/Jessie+J/_/Price+Tag)
 * [Karmin — Brokenhearted](https://www.last.fm/music/Karmin/_/Brokenhearted)
 * [Céline Dion — I&#39;m Alive](https://www.last.fm/music/C%C3%A9line+Dion/_/I%27m+Alive)
-* [Jonas Brothers — Waffle House](https://www.last.fm/music/Jonas+Brothers/_/Waffle+House)
-* [DNCE — Cake by the Ocean](https://www.last.fm/music/DNCE/_/Cake+by+the+Ocean)
-* [Kensuke Ushio — Smells Blood](https://www.last.fm/music/Kensuke+Ushio/_/Smells+Blood)<!-- LASTFM:END -->
+* [Jonas Brothers — Waffle House](https://www.last.fm/music/Jonas+Brothers/_/Waffle+House)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
