@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jessie J — Domino](https://www.last.fm/music/Jessie+J/_/Domino)
 * [U2 — Beautiful Day](https://www.last.fm/music/U2/_/Beautiful+Day)
 * [Scissor Sisters — I Don&#39;t Feel Like Dancin&#39;](https://www.last.fm/music/Scissor+Sisters/_/I+Don%27t+Feel+Like+Dancin%27)
 * [Harry Styles — Daylight](https://www.last.fm/music/Harry+Styles/_/Daylight)
-* [Bruno Mars — Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby)
-* [Macklemore &amp; Ryan Lewis — Can&#39;t Hold Us &lpar;feat. Ray Dalton&rpar;](https://www.last.fm/music/Macklemore+&amp;+Ryan+Lewis/_/Can%27t+Hold+Us+&lpar;feat.+Ray+Dalton&rpar;)<!-- LASTFM:END -->
+* [Bruno Mars — Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
