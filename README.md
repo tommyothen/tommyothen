@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
-* [Cascada — Everytime We Touch - Nightcore &amp; KYANU Edit](https://www.last.fm/music/Cascada/_/Everytime+We+Touch+-+Nightcore+&amp;+KYANU+Edit)
-* [Omi — Cheerleader - Felix Jaehn Remix Radio Edit](https://www.last.fm/music/Omi/_/Cheerleader+-+Felix+Jaehn+Remix+Radio+Edit)
-* [Calvin Harris — Feel So Close](https://www.last.fm/music/Calvin+Harris/_/Feel+So+Close)
-* [Katy Perry — California Gurls](https://www.last.fm/music/Katy+Perry/_/California+Gurls)<!-- LASTFM:END -->
+* [Block B — 난리나](https://www.last.fm/music/Block+B/_/%EB%82%9C%EB%A6%AC%EB%82%98)
+* [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)
+* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
+* [Bakar — Hell N Back](https://www.last.fm/music/Bakar/_/Hell+N+Back)
+* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
