@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tennyson — Body Language &lpar;feat. Aloe Blacc&rpar;](https://www.last.fm/music/Tennyson/_/Body+Language+&lpar;feat.+Aloe+Blacc&rpar;)
+* [Eden — XO](https://www.last.fm/music/Eden/_/XO)
 * [FEDUK — АКВАРЕЛЬ](https://www.last.fm/music/FEDUK/_/%D0%90%D0%9A%D0%92%D0%90%D0%A0%D0%95%D0%9B%D0%AC)
 * [Kailee Morgue — This is Why I&#39;m Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
-* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)
-* [I DONT KNOW HOW BUT THEY FOUND ME — Leave Me Alone](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Leave+Me+Alone)
-* [Block B — 난리나](https://www.last.fm/music/Block+B/_/%EB%82%9C%EB%A6%AC%EB%82%98)<!-- LASTFM:END -->
+* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
