@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
+* [kmoe — 2267 &lpar;feat. ericdoa&rpar;](https://www.last.fm/music/kmoe/_/2267+&lpar;feat.+ericdoa&rpar;)
 * [Glaive — three wheels and it still drives!](https://www.last.fm/music/Glaive/_/three+wheels+and+it+still+drives!)
 * [Glaive — three wheels and it still drives!](https://www.last.fm/music/Glaive/_/three+wheels+and+it+still+drives!)
-* [Gingus — homeswitcher](https://www.last.fm/music/Gingus/_/homeswitcher)
-* [Maul — JoJo Hardstyle](https://www.last.fm/music/Maul/_/JoJo+Hardstyle)
-* [Minecraft King27 — Mining](https://www.last.fm/music/Minecraft+King27/_/Mining)<!-- LASTFM:END -->
+* [Gingus — homeswitcher](https://www.last.fm/music/Gingus/_/homeswitcher)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
