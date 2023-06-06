@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)
+* [I DONT KNOW HOW BUT THEY FOUND ME — Leave Me Alone](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Leave+Me+Alone)
 * [Block B — 난리나](https://www.last.fm/music/Block+B/_/%EB%82%9C%EB%A6%AC%EB%82%98)
 * [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)
-* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
-* [Bakar — Hell N Back](https://www.last.fm/music/Bakar/_/Hell+N+Back)
-* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)<!-- LASTFM:END -->
+* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
