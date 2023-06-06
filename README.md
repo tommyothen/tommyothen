@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Avicii — Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)
+* [Travie McCoy — Billionaire &lpar;feat. Bruno Mars&rpar;](https://www.last.fm/music/Travie+McCoy/_/Billionaire+&lpar;feat.+Bruno+Mars&rpar;)
 * [Toploader — Dancing in the Moonlight](https://www.last.fm/music/Toploader/_/Dancing+in+the+Moonlight)
 * [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
-* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)
-* [Jessie J — Domino](https://www.last.fm/music/Jessie+J/_/Domino)
-* [U2 — Beautiful Day](https://www.last.fm/music/U2/_/Beautiful+Day)<!-- LASTFM:END -->
+* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
