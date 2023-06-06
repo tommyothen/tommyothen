@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)
+* [Jason Derulo — Ridin&#39; Solo](https://www.last.fm/music/Jason+Derulo/_/Ridin%27+Solo)
 * [Alexandra Stan — Mr. Saxobeat](https://www.last.fm/music/Alexandra+Stan/_/Mr.+Saxobeat)
 * [Calvin Harris — Summer](https://www.last.fm/music/Calvin+Harris/_/Summer)
-* [Miley Cyrus — Prisoner &lpar;feat. Dua Lipa&rpar;](https://www.last.fm/music/Miley+Cyrus/_/Prisoner+&lpar;feat.+Dua+Lipa&rpar;)
-* [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)
-* [Avicii — The Nights](https://www.last.fm/music/Avicii/_/The+Nights)<!-- LASTFM:END -->
+* [Miley Cyrus — Prisoner &lpar;feat. Dua Lipa&rpar;](https://www.last.fm/music/Miley+Cyrus/_/Prisoner+&lpar;feat.+Dua+Lipa&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
