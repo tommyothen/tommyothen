@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blackway — What&#39;s Up Danger &lpar;with Black Caviar&rpar;](https://www.last.fm/music/Blackway/_/What%27s+Up+Danger+&lpar;with+Black+Caviar&rpar;)
+* [Daniel Pemberton — To My Son](https://www.last.fm/music/Daniel+Pemberton/_/To+My+Son)
+* [Daniel Pemberton — Spot Holes 1](https://www.last.fm/music/Daniel+Pemberton/_/Spot+Holes+1)
 * [Daniel Pemberton — Spider-Man 2099 &lpar;Miguel O&#39;Hara&rpar;](https://www.last.fm/music/Daniel+Pemberton/_/Spider-Man+2099+&lpar;Miguel+O%27Hara&rpar;)
-* [Metro Boomin — Annihilate &lpar;Spider-Man: Across the Spider-Verse&rpar; &lpar;Metro Boomin &amp; Swae Lee, Lil Wayne, Offset&rpar;](https://www.last.fm/music/Metro+Boomin/_/Annihilate+&lpar;Spider-Man:+Across+the+Spider-Verse&rpar;+&lpar;Metro+Boomin+&amp;+Swae+Lee,+Lil+Wayne,+Offset&rpar;)
-* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
-* [Omar Rodríguez-López — Lights](https://www.last.fm/music/Omar+Rodr%C3%ADguez-L%C3%B3pez/_/Lights)
-* [IC3PEAK — Грустная сука](https://www.last.fm/music/IC3PEAK/_/%D0%93%D1%80%D1%83%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%81%D1%83%D0%BA%D0%B0)<!-- LASTFM:END -->
+* [Metro Boomin — Annihilate &lpar;Spider-Man: Across the Spider-Verse&rpar; &lpar;Metro Boomin &amp; Swae Lee, Lil Wayne, Offset&rpar;](https://www.last.fm/music/Metro+Boomin/_/Annihilate+&lpar;Spider-Man:+Across+the+Spider-Verse&rpar;+&lpar;Metro+Boomin+&amp;+Swae+Lee,+Lil+Wayne,+Offset&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
