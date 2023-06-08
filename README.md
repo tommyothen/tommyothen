@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Metro Boomin — Am I Dreaming &lpar;Metro Boomin &amp; A$AP Rocky, Roisee&rpar;](https://www.last.fm/music/Metro+Boomin/_/Am+I+Dreaming+&lpar;Metro+Boomin+&amp;+A$AP+Rocky,+Roisee&rpar;)
 * [Metro Boomin — Annihilate &lpar;Spider-Man: Across the Spider-Verse&rpar; &lpar;Metro Boomin &amp; Swae Lee, Lil Wayne, Offset&rpar;](https://www.last.fm/music/Metro+Boomin/_/Annihilate+&lpar;Spider-Man:+Across+the+Spider-Verse&rpar;+&lpar;Metro+Boomin+&amp;+Swae+Lee,+Lil+Wayne,+Offset&rpar;)
 * [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
 * [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
-* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
-* [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)<!-- LASTFM:END -->
+* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
