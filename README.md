@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Omar Rodríguez-López — 0](https://www.last.fm/music/Omar+Rodr%C3%ADguez-L%C3%B3pez/_/0)
 * [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
 * [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
 * [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
-* [Megadeth — Holy Wars...The Punishment Due](https://www.last.fm/music/Megadeth/_/Holy+Wars...The+Punishment+Due)
-* [TWICE — CHEER UP](https://www.last.fm/music/TWICE/_/CHEER+UP)<!-- LASTFM:END -->
+* [Megadeth — Holy Wars...The Punishment Due](https://www.last.fm/music/Megadeth/_/Holy+Wars...The+Punishment+Due)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
