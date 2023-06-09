@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
+* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
-* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
-* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)<!-- LASTFM:END -->
+* [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
