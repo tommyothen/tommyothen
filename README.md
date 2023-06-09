@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flo Rida — I Don&#39;t Like It, I Love It &lpar;feat. Robin Thicke &amp; Verdine White&rpar;](https://www.last.fm/music/Flo+Rida/_/I+Don%27t+Like+It,+I+Love+It+&lpar;feat.+Robin+Thicke+&amp;+Verdine+White&rpar;)
 * [Calvin Harris — Summer](https://www.last.fm/music/Calvin+Harris/_/Summer)
 * [Harry Styles — Music for a Sushi Restaurant](https://www.last.fm/music/Harry+Styles/_/Music+for+a+Sushi+Restaurant)
 * [Kailee Morgue — This is Why I&#39;m Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
-* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)<!-- LASTFM:END -->
+* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
