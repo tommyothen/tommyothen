@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
+* [Ryan Oakes — Drinking About You](https://www.last.fm/music/Ryan+Oakes/_/Drinking+About+You)
+* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
 * [Germ — Real Rap](https://www.last.fm/music/Germ/_/Real+Rap)
-* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
-* [Justin Bieber — Company](https://www.last.fm/music/Justin+Bieber/_/Company)
-* [Anne-Marie — UNHEALTHY &lpar;feat. Shania Twain&rpar;](https://www.last.fm/music/Anne-Marie/_/UNHEALTHY+&lpar;feat.+Shania+Twain&rpar;)
-* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)<!-- LASTFM:END -->
+* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
