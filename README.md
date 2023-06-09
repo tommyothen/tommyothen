@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jonas Brothers — Waffle House](https://www.last.fm/music/Jonas+Brothers/_/Waffle+House)
+* [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)
 * [Two Door Cinema Club — What You Know](https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know)
 * [Jonas Blue — Perfect Strangers](https://www.last.fm/music/Jonas+Blue/_/Perfect+Strangers)
-* [Lizzo — Soulmate](https://www.last.fm/music/Lizzo/_/Soulmate)
-* [Harry Styles — Satellite](https://www.last.fm/music/Harry+Styles/_/Satellite)
-* [Mika — Grace Kelly](https://www.last.fm/music/Mika/_/Grace+Kelly)<!-- LASTFM:END -->
+* [Lizzo — Soulmate](https://www.last.fm/music/Lizzo/_/Soulmate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
