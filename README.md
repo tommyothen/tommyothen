@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jorja Smith — On My Mind &lpar;Jorja Smith X Preditah&rpar;](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+&lpar;Jorja+Smith+X+Preditah&rpar;)
 * [blackbear — chateau](https://www.last.fm/music/blackbear/_/chateau)
 * [Rich Brian — Love In My Pocket](https://www.last.fm/music/Rich+Brian/_/Love+In+My+Pocket)
 * [DJ Khalil — Elevate &lpar;feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich&rpar;](https://www.last.fm/music/DJ+Khalil/_/Elevate+&lpar;feat.+Denzel+Curry,+YBN+Cordae,+SwaVay,+Trevor+Rich&rpar;)
-* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)
-* [Macklemore &amp; Ryan Lewis — Can&#39;t Hold Us &lpar;feat. Ray Dalton&rpar;](https://www.last.fm/music/Macklemore+&amp;+Ryan+Lewis/_/Can%27t+Hold+Us+&lpar;feat.+Ray+Dalton&rpar;)<!-- LASTFM:END -->
+* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
