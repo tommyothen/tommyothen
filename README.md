@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Gimme Love](https://www.last.fm/music/Joji/_/Gimme+Love)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
 * [Tash Sultana — Jungle](https://www.last.fm/music/Tash+Sultana/_/Jungle)
 * [DBangz — Last Claim](https://www.last.fm/music/DBangz/_/Last+Claim)
-* [88rising — History](https://www.last.fm/music/88rising/_/History)
-* [Samsa — Superlative Heroes](https://www.last.fm/music/Samsa/_/Superlative+Heroes)
-* [Trevor Daniel — Falling &lpar;feat. blackbear&rpar; - blackbear Remix](https://www.last.fm/music/Trevor+Daniel/_/Falling+&lpar;feat.+blackbear&rpar;+-+blackbear+Remix)<!-- LASTFM:END -->
+* [88rising — History](https://www.last.fm/music/88rising/_/History)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
