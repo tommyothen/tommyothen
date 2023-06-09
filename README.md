@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
+* [Ali — Wild Side](https://www.last.fm/music/Ali/_/Wild+Side)
+* [Sumika — フィクション](https://www.last.fm/music/Sumika/_/%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3)
 * [Aries — ONE PUNCH](https://www.last.fm/music/Aries/_/ONE+PUNCH)
-* [amag — Ride or Die](https://www.last.fm/music/amag/_/Ride+or+Die)
-* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
-* [Numl6ck — speaking2myself](https://www.last.fm/music/Numl6ck/_/speaking2myself)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [amag — Ride or Die](https://www.last.fm/music/amag/_/Ride+or+Die)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
