@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Modjo — Lady &lpar;Hear Me Tonight&rpar;](https://www.last.fm/music/Modjo/_/Lady+&lpar;Hear+Me+Tonight&rpar;)
 * [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
 * [Ibeyi — Made of Gold - Edit](https://www.last.fm/music/Ibeyi/_/Made+of+Gold+-+Edit)
 * [Womack &amp; Womack — Teardrops](https://www.last.fm/music/Womack+&amp;+Womack/_/Teardrops)
-* [David Guetta — When Love Takes Over &lpar;feat. Kelly Rowland&rpar;](https://www.last.fm/music/David+Guetta/_/When+Love+Takes+Over+&lpar;feat.+Kelly+Rowland&rpar;)
-* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)<!-- LASTFM:END -->
+* [David Guetta — When Love Takes Over &lpar;feat. Kelly Rowland&rpar;](https://www.last.fm/music/David+Guetta/_/When+Love+Takes+Over+&lpar;feat.+Kelly+Rowland&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
