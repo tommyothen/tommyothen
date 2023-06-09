@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Womack &amp; Womack — Teardrops](https://www.last.fm/music/Womack+&amp;+Womack/_/Teardrops)
 * [David Guetta — When Love Takes Over &lpar;feat. Kelly Rowland&rpar;](https://www.last.fm/music/David+Guetta/_/When+Love+Takes+Over+&lpar;feat.+Kelly+Rowland&rpar;)
 * [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)
 * [Jonas Brothers — Waffle House](https://www.last.fm/music/Jonas+Brothers/_/Waffle+House)
-* [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)
-* [Two Door Cinema Club — What You Know](https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know)<!-- LASTFM:END -->
+* [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
