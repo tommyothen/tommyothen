@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mika — Grace Kelly](https://www.last.fm/music/Mika/_/Grace+Kelly)
+* [Avicii — Hey Brother](https://www.last.fm/music/Avicii/_/Hey+Brother)
 * [Rihanna — We Found Love](https://www.last.fm/music/Rihanna/_/We+Found+Love)
 * [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
-* [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)
-* [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)
-* [Flo Rida — I Don&#39;t Like It, I Love It &lpar;feat. Robin Thicke &amp; Verdine White&rpar;](https://www.last.fm/music/Flo+Rida/_/I+Don%27t+Like+It,+I+Love+It+&lpar;feat.+Robin+Thicke+&amp;+Verdine+White&rpar;)<!-- LASTFM:END -->
+* [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
