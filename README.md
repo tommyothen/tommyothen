@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Post Malone — Sunflower - Spider-Man: Into the Spider-Verse](https://www.last.fm/music/Post+Malone/_/Sunflower+-+Spider-Man:+Into+the+Spider-Verse)
+* [Mungo&#39;s Hi Fi — Jump Up Quickly](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Jump+Up+Quickly)
+* [KIDS SEE GHOSTS — 4th Dimension](https://www.last.fm/music/KIDS+SEE+GHOSTS/_/4th+Dimension)
 * [Jay Rock — King&#39;s Dead &lpar;with Kendrick Lamar, Future &amp; James Blake&rpar;](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+&lpar;with+Kendrick+Lamar,+Future+&amp;+James+Blake&rpar;)
-* [Kendrick Lamar — King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)
-* [Glass Animals — Tokyo Drifting &lpar;with Denzel Curry&rpar;](https://www.last.fm/music/Glass+Animals/_/Tokyo+Drifting+&lpar;with+Denzel+Curry&rpar;)
-* [JID — Workin Out](https://www.last.fm/music/JID/_/Workin+Out)
-* [Jorja Smith — On My Mind &lpar;Jorja Smith X Preditah&rpar;](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+&lpar;Jorja+Smith+X+Preditah&rpar;)<!-- LASTFM:END -->
+* [Kendrick Lamar — King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
