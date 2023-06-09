@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
 * [Joji — Gimme Love](https://www.last.fm/music/Joji/_/Gimme+Love)
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
 * [Tash Sultana — Jungle](https://www.last.fm/music/Tash+Sultana/_/Jungle)
-* [DBangz — Last Claim](https://www.last.fm/music/DBangz/_/Last+Claim)
-* [88rising — History](https://www.last.fm/music/88rising/_/History)<!-- LASTFM:END -->
+* [DBangz — Last Claim](https://www.last.fm/music/DBangz/_/Last+Claim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
