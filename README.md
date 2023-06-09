@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Justin Bieber — Company](https://www.last.fm/music/Justin+Bieber/_/Company)
 * [Anne-Marie — UNHEALTHY &lpar;feat. Shania Twain&rpar;](https://www.last.fm/music/Anne-Marie/_/UNHEALTHY+&lpar;feat.+Shania+Twain&rpar;)
 * [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)
 * [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
-* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
-* [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)<!-- LASTFM:END -->
+* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
