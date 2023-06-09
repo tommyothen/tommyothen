@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
+* [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)
+* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
 * [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
-* [Offset — Danger &lpar;Spider&rpar; &lpar;Offset &amp; JID&rpar;](https://www.last.fm/music/Offset/_/Danger+&lpar;Spider&rpar;+&lpar;Offset+&amp;+JID&rpar;)
-* [Metro Boomin — All The Way Live &lpar;Spider-Man: Across the Spider-Verse&rpar; &lpar;Metro Boomin &amp; Future, Lil Uzi Vert&rpar;](https://www.last.fm/music/Metro+Boomin/_/All+The+Way+Live+&lpar;Spider-Man:+Across+the+Spider-Verse&rpar;+&lpar;Metro+Boomin+&amp;+Future,+Lil+Uzi+Vert&rpar;)
-* [Metro Boomin — Am I Dreaming &lpar;Metro Boomin &amp; A$AP Rocky, Roisee&rpar;](https://www.last.fm/music/Metro+Boomin/_/Am+I+Dreaming+&lpar;Metro+Boomin+&amp;+A$AP+Rocky,+Roisee&rpar;)
-* [Metro Boomin — Annihilate &lpar;Spider-Man: Across the Spider-Verse&rpar; &lpar;Metro Boomin &amp; Swae Lee, Lil Wayne, Offset&rpar;](https://www.last.fm/music/Metro+Boomin/_/Annihilate+&lpar;Spider-Man:+Across+the+Spider-Verse&rpar;+&lpar;Metro+Boomin+&amp;+Swae+Lee,+Lil+Wayne,+Offset&rpar;)<!-- LASTFM:END -->
+* [Offset — Danger &lpar;Spider&rpar; &lpar;Offset &amp; JID&rpar;](https://www.last.fm/music/Offset/_/Danger+&lpar;Spider&rpar;+&lpar;Offset+&amp;+JID&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
