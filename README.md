@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Macklemore &amp; Ryan Lewis — Can&#39;t Hold Us &lpar;feat. Ray Dalton&rpar;](https://www.last.fm/music/Macklemore+&amp;+Ryan+Lewis/_/Can%27t+Hold+Us+&lpar;feat.+Ray+Dalton&rpar;)
 * [Harry Styles — Daylight](https://www.last.fm/music/Harry+Styles/_/Daylight)
 * [Modjo — Lady &lpar;Hear Me Tonight&rpar;](https://www.last.fm/music/Modjo/_/Lady+&lpar;Hear+Me+Tonight&rpar;)
 * [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
-* [Ibeyi — Made of Gold - Edit](https://www.last.fm/music/Ibeyi/_/Made+of+Gold+-+Edit)
-* [Womack &amp; Womack — Teardrops](https://www.last.fm/music/Womack+&amp;+Womack/_/Teardrops)<!-- LASTFM:END -->
+* [Ibeyi — Made of Gold - Edit](https://www.last.fm/music/Ibeyi/_/Made+of+Gold+-+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
