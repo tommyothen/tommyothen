@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Samsa — Superlative Heroes](https://www.last.fm/music/Samsa/_/Superlative+Heroes)
+* [Trevor Daniel — Falling &lpar;feat. blackbear&rpar; - blackbear Remix](https://www.last.fm/music/Trevor+Daniel/_/Falling+&lpar;feat.+blackbear&rpar;+-+blackbear+Remix)
 * [Cal Scruby — Not That Deep](https://www.last.fm/music/Cal+Scruby/_/Not+That+Deep)
 * [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
-* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
-* [Ryan Oakes — Drinking About You](https://www.last.fm/music/Ryan+Oakes/_/Drinking+About+You)
-* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)<!-- LASTFM:END -->
+* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
