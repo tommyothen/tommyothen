@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [amag — Ride or Die](https://www.last.fm/music/amag/_/Ride+or+Die)
+* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
+* [Numl6ck — speaking2myself](https://www.last.fm/music/Numl6ck/_/speaking2myself)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [re6ce — cabin fever](https://www.last.fm/music/re6ce/_/cabin+fever)
-* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
-* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)<!-- LASTFM:END -->
+* [re6ce — cabin fever](https://www.last.fm/music/re6ce/_/cabin+fever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
