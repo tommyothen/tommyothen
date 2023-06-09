@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lizzo — Soulmate](https://www.last.fm/music/Lizzo/_/Soulmate)
+* [Harry Styles — Satellite](https://www.last.fm/music/Harry+Styles/_/Satellite)
 * [Mika — Grace Kelly](https://www.last.fm/music/Mika/_/Grace+Kelly)
 * [Avicii — Hey Brother](https://www.last.fm/music/Avicii/_/Hey+Brother)
-* [Rihanna — We Found Love](https://www.last.fm/music/Rihanna/_/We+Found+Love)
-* [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
-* [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)<!-- LASTFM:END -->
+* [Rihanna — We Found Love](https://www.last.fm/music/Rihanna/_/We+Found+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
