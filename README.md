@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bakar — Hell N Back](https://www.last.fm/music/Bakar/_/Hell+N+Back)
+* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
+* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
 * [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
-* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)
-* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
-* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [DAOKO — ダイスキ with TeddyLoid](https://www.last.fm/music/DAOKO/_/%E3%83%80%E3%82%A4%E3%82%B9%E3%82%AD+with+TeddyLoid)<!-- LASTFM:END -->
+* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
