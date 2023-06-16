@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
+* [Eden — Interlude](https://www.last.fm/music/Eden/_/Interlude)
+* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
 * [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
-* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)
-* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
-* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)<!-- LASTFM:END -->
+* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
