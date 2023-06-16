@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Olly Murs — Right Place Right Time](https://www.last.fm/music/Olly+Murs/_/Right+Place+Right+Time)
+* [Lily Allen — Not Fair](https://www.last.fm/music/Lily+Allen/_/Not+Fair)
 * [Caity Baser — Leave Me Alone](https://www.last.fm/music/Caity+Baser/_/Leave+Me+Alone)
 * [Abhi The Nomad — Sex n&#39; Drugs](https://www.last.fm/music/Abhi+The+Nomad/_/Sex+n%27+Drugs)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [Great Good Fine OK — Take It or Leave It](https://www.last.fm/music/Great+Good+Fine+OK/_/Take+It+or+Leave+It)
-* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)<!-- LASTFM:END -->
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
