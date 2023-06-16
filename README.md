@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kelly Clarkson — My Life Would Suck Without You](https://www.last.fm/music/Kelly+Clarkson/_/My+Life+Would+Suck+Without+You)
+* [Chris Stapleton — Joy of My Life](https://www.last.fm/music/Chris+Stapleton/_/Joy+of+My+Life)
 * [Miley Cyrus — Jaded](https://www.last.fm/music/Miley+Cyrus/_/Jaded)
 * [The Killers — The Way It Was](https://www.last.fm/music/The+Killers/_/The+Way+It+Was)
-* [Demi Lovato — 4 EVER 4 ME](https://www.last.fm/music/Demi+Lovato/_/4+EVER+4+ME)
-* [One Direction — Stockholm Syndrome](https://www.last.fm/music/One+Direction/_/Stockholm+Syndrome)
-* [Lady Gaga — Bad Romance](https://www.last.fm/music/Lady+Gaga/_/Bad+Romance)<!-- LASTFM:END -->
+* [Demi Lovato — 4 EVER 4 ME](https://www.last.fm/music/Demi+Lovato/_/4+EVER+4+ME)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
