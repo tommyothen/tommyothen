@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)
-* [Slipknot — The Devil in I](https://www.last.fm/music/Slipknot/_/The+Devil+in+I)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Tom Grennan — How Does It Feel](https://www.last.fm/music/Tom+Grennan/_/How+Does+It+Feel)
-* [Dreamville — Wells Fargo &lpar;with JID &amp; EARTHGANG feat. Buddy &amp; Guapdad 4000&rpar; - Interlude](https://www.last.fm/music/Dreamville/_/Wells+Fargo+&lpar;with+JID+&amp;+EARTHGANG+feat.+Buddy+&amp;+Guapdad+4000&rpar;+-+Interlude)<!-- LASTFM:END -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
+* [angry children — Childish Flamingo](https://www.last.fm/music/angry+children/_/Childish+Flamingo)
+* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
+* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
+* [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
