@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lady Gaga — Bad Romance](https://www.last.fm/music/Lady+Gaga/_/Bad+Romance)
 * [Jonas Brothers — Play My Music](https://www.last.fm/music/Jonas+Brothers/_/Play+My+Music)
 * [Agnes — Release Me](https://www.last.fm/music/Agnes/_/Release+Me)
 * [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)
-* [The Saturdays — What About Us](https://www.last.fm/music/The+Saturdays/_/What+About+Us)
-* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)<!-- LASTFM:END -->
+* [The Saturdays — What About Us](https://www.last.fm/music/The+Saturdays/_/What+About+Us)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
