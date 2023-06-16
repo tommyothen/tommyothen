@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)
 * [The Saturdays — What About Us](https://www.last.fm/music/The+Saturdays/_/What+About+Us)
 * [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)
 * [Why Don&#39;t We — How Do You Love Somebody](https://www.last.fm/music/Why+Don%27t+We/_/How+Do+You+Love+Somebody)
-* [Jonas Brothers — Burnin&#39; Up](https://www.last.fm/music/Jonas+Brothers/_/Burnin%27+Up)
-* [Belinda Carlisle — Heaven Is a Place on Earth](https://www.last.fm/music/Belinda+Carlisle/_/Heaven+Is+a+Place+on+Earth)<!-- LASTFM:END -->
+* [Jonas Brothers — Burnin&#39; Up](https://www.last.fm/music/Jonas+Brothers/_/Burnin%27+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
