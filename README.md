@@ -28,9 +28,9 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tom Grennan — How Does It Feel](https://www.last.fm/music/Tom+Grennan/_/How+Does+It+Feel)
+* [Dreamville — Wells Fargo &lpar;with JID &amp; EARTHGANG feat. Buddy &amp; Guapdad 4000&rpar; - Interlude](https://www.last.fm/music/Dreamville/_/Wells+Fargo+&lpar;with+JID+&amp;+EARTHGANG+feat.+Buddy+&amp;+Guapdad+4000&rpar;+-+Interlude)
 * [Aries — ONE PUNCH](https://www.last.fm/music/Aries/_/ONE+PUNCH)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
-* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
 * [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
 * [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)<!-- LASTFM:END -->
 
