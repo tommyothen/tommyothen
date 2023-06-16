@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
+* [Aries — ONE PUNCH](https://www.last.fm/music/Aries/_/ONE+PUNCH)
 * [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
 * [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
 * [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
-* [Coldplay — Higher Power](https://www.last.fm/music/Coldplay/_/Higher+Power)<!-- LASTFM:END -->
+* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
