@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Justin Bieber — Anyone](https://www.last.fm/music/Justin+Bieber/_/Anyone)
 * [Anne-Marie — Breathing](https://www.last.fm/music/Anne-Marie/_/Breathing)
 * [Dua Lipa — Love Again](https://www.last.fm/music/Dua+Lipa/_/Love+Again)
 * [Anne-Marie — UNHEALTHY &lpar;feat. Shania Twain&rpar;](https://www.last.fm/music/Anne-Marie/_/UNHEALTHY+&lpar;feat.+Shania+Twain&rpar;)
-* [Demi Lovato — WASTED](https://www.last.fm/music/Demi+Lovato/_/WASTED)
-* [Fleetwood Mac — Silver Springs - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Silver+Springs+-+2004+Remaster)<!-- LASTFM:END -->
+* [Demi Lovato — WASTED](https://www.last.fm/music/Demi+Lovato/_/WASTED)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
