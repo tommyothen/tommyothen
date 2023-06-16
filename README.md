@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Belinda Carlisle — Heaven Is a Place on Earth](https://www.last.fm/music/Belinda+Carlisle/_/Heaven+Is+a+Place+on+Earth)
+* [Leigh-anne — DON&#39;T say love](https://www.last.fm/music/Leigh-anne/_/DON%27T+say+love)
+* [Little Mix — Salute](https://www.last.fm/music/Little+Mix/_/Salute)
 * [Olly Murs — Right Place Right Time](https://www.last.fm/music/Olly+Murs/_/Right+Place+Right+Time)
-* [Lily Allen — Not Fair](https://www.last.fm/music/Lily+Allen/_/Not+Fair)
-* [Caity Baser — Leave Me Alone](https://www.last.fm/music/Caity+Baser/_/Leave+Me+Alone)
-* [Abhi The Nomad — Sex n&#39; Drugs](https://www.last.fm/music/Abhi+The+Nomad/_/Sex+n%27+Drugs)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
+* [Lily Allen — Not Fair](https://www.last.fm/music/Lily+Allen/_/Not+Fair)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
