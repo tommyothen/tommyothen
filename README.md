@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [One Direction — Wolves](https://www.last.fm/music/One+Direction/_/Wolves)
+* [Coldplay — A Sky Full of Stars](https://www.last.fm/music/Coldplay/_/A+Sky+Full+of+Stars)
 * [Olly Murs — Troublemaker &lpar;feat. Flo Rida&rpar;](https://www.last.fm/music/Olly+Murs/_/Troublemaker+&lpar;feat.+Flo+Rida&rpar;)
 * [Maroon 5 — One More Night](https://www.last.fm/music/Maroon+5/_/One+More+Night)
-* [Justin Bieber — Anyone](https://www.last.fm/music/Justin+Bieber/_/Anyone)
-* [Anne-Marie — Breathing](https://www.last.fm/music/Anne-Marie/_/Breathing)
-* [Dua Lipa — Love Again](https://www.last.fm/music/Dua+Lipa/_/Love+Again)<!-- LASTFM:END -->
+* [Justin Bieber — Anyone](https://www.last.fm/music/Justin+Bieber/_/Anyone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
