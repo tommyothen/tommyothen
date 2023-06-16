@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dua Lipa — Love Again](https://www.last.fm/music/Dua+Lipa/_/Love+Again)
+* [Anne-Marie — UNHEALTHY &lpar;feat. Shania Twain&rpar;](https://www.last.fm/music/Anne-Marie/_/UNHEALTHY+&lpar;feat.+Shania+Twain&rpar;)
 * [Demi Lovato — WASTED](https://www.last.fm/music/Demi+Lovato/_/WASTED)
 * [Fleetwood Mac — Silver Springs - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Silver+Springs+-+2004+Remaster)
-* [Kelly Clarkson — My Life Would Suck Without You](https://www.last.fm/music/Kelly+Clarkson/_/My+Life+Would+Suck+Without+You)
-* [Chris Stapleton — Joy of My Life](https://www.last.fm/music/Chris+Stapleton/_/Joy+of+My+Life)
-* [Miley Cyrus — Jaded](https://www.last.fm/music/Miley+Cyrus/_/Jaded)<!-- LASTFM:END -->
+* [Kelly Clarkson — My Life Would Suck Without You](https://www.last.fm/music/Kelly+Clarkson/_/My+Life+Would+Suck+Without+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
