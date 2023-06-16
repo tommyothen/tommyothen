@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)
+* [Why Don&#39;t We — How Do You Love Somebody](https://www.last.fm/music/Why+Don%27t+We/_/How+Do+You+Love+Somebody)
 * [Jonas Brothers — Burnin&#39; Up](https://www.last.fm/music/Jonas+Brothers/_/Burnin%27+Up)
 * [Belinda Carlisle — Heaven Is a Place on Earth](https://www.last.fm/music/Belinda+Carlisle/_/Heaven+Is+a+Place+on+Earth)
-* [Leigh-anne — DON&#39;T say love](https://www.last.fm/music/Leigh-anne/_/DON%27T+say+love)
-* [Little Mix — Salute](https://www.last.fm/music/Little+Mix/_/Salute)
-* [Olly Murs — Right Place Right Time](https://www.last.fm/music/Olly+Murs/_/Right+Place+Right+Time)<!-- LASTFM:END -->
+* [Leigh-anne — DON&#39;T say love](https://www.last.fm/music/Leigh-anne/_/DON%27T+say+love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
