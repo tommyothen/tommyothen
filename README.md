@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Minami Minase&lpar;CV:Hruka Sasaki&rpar; — tokimeki-meteostrike](https://www.last.fm/music/Minami+Minase&lpar;CV:Hruka+Sasaki&rpar;/_/tokimeki-meteostrike)
 * [Your Neighbors — Sideways](https://www.last.fm/music/Your+Neighbors/_/Sideways)
 * [Bill Kiley — Worst Neighbors Ever](https://www.last.fm/music/Bill+Kiley/_/Worst+Neighbors+Ever)
 * [Kuma the Third — WHATS UP?](https://www.last.fm/music/Kuma+the+Third/_/WHATS+UP%3F)
-* [kosu. — daft.](https://www.last.fm/music/kosu./_/daft.)
-* [Ken Ashcorp — Dare You To Love Me](https://www.last.fm/music/Ken+Ashcorp/_/Dare+You+To+Love+Me)<!-- LASTFM:END -->
+* [kosu. — daft.](https://www.last.fm/music/kosu./_/daft.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
