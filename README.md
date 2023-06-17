@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rihanna — Needed Me](https://www.last.fm/music/Rihanna/_/Needed+Me)
+* [Arppa — Leikkiä sanoilla](https://www.last.fm/music/Arppa/_/Leikki%C3%A4+sanoilla)
 * [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
 * [LVL UP — *_*](https://www.last.fm/music/LVL+UP/_/*_*)
-* [The Saturdays — What About Us](https://www.last.fm/music/The+Saturdays/_/What+About+Us)
-* [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)
-* [Harry Styles — Adore You](https://www.last.fm/music/Harry+Styles/_/Adore+You)<!-- LASTFM:END -->
+* [The Saturdays — What About Us](https://www.last.fm/music/The+Saturdays/_/What+About+Us)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
