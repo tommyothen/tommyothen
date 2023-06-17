@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Drake — God&#39;s Plan](https://www.last.fm/music/Drake/_/God%27s+Plan)
+* [Drake — God&#39;s Plan](https://www.last.fm/music/Drake/_/God%27s+Plan)
 * [Broken By The Scream — KI・RA・I !!](https://www.last.fm/music/Broken+By+The+Scream/_/KI%E3%83%BBRA%E3%83%BBI+!!)
 * [Riot Shift — SAME AGAIN](https://www.last.fm/music/Riot+Shift/_/SAME+AGAIN)
-* [NEEDY GIRL OVERDOSE — INTERNET YAMERO](https://www.last.fm/music/NEEDY+GIRL+OVERDOSE/_/INTERNET+YAMERO)
-* [Broken By The Scream — アイハキミノモノ](https://www.last.fm/music/Broken+By+The+Scream/_/%E3%82%A2%E3%82%A4%E3%83%8F%E3%82%AD%E3%83%9F%E3%83%8E%E3%83%A2%E3%83%8E)
-* [Overrated — Remedy](https://www.last.fm/music/Overrated/_/Remedy)<!-- LASTFM:END -->
+* [NEEDY GIRL OVERDOSE — INTERNET YAMERO](https://www.last.fm/music/NEEDY+GIRL+OVERDOSE/_/INTERNET+YAMERO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
