@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Connor Price — Not A Beanie](https://www.last.fm/music/Connor+Price/_/Not+A+Beanie)
+* [aldrch — watercolor puddles](https://www.last.fm/music/aldrch/_/watercolor+puddles)
 * [Aries — BOUNTY HUNTER](https://www.last.fm/music/Aries/_/BOUNTY+HUNTER)
 * [Weston Estate — So Good](https://www.last.fm/music/Weston+Estate/_/So+Good)
-* [Aldn — headstrong gunner](https://www.last.fm/music/Aldn/_/headstrong+gunner)
-* [re6ce — teeth &lpar;you&rpar;](https://www.last.fm/music/re6ce/_/teeth+&lpar;you&rpar;)
-* [Koi — big](https://www.last.fm/music/Koi/_/big)<!-- LASTFM:END -->
+* [Aldn — headstrong gunner](https://www.last.fm/music/Aldn/_/headstrong+gunner)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
