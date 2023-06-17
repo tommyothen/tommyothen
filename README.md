@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, the Creator — Tamale](https://www.last.fm/music/Tyler,+the+Creator/_/Tamale)
+* [Twista — Slow Jamz](https://www.last.fm/music/Twista/_/Slow+Jamz)
 * [Glass Animals — Heat Waves](https://www.last.fm/music/Glass+Animals/_/Heat+Waves)
 * [Leigh-anne — Don&#39;t Say Love](https://www.last.fm/music/Leigh-anne/_/Don%27t+Say+Love)
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
-* [iAmJakeHill — Pewdiepie Song](https://www.last.fm/music/iAmJakeHill/_/Pewdiepie+Song)
-* [teeawgo — Hijack](https://www.last.fm/music/teeawgo/_/Hijack)<!-- LASTFM:END -->
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
