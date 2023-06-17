@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
 * [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
 * [PLASTIC GIRL IN CLOSET — ERROR](https://www.last.fm/music/PLASTIC+GIRL+IN+CLOSET/_/ERROR)
-* [Nelly — Hey Porsche](https://www.last.fm/music/Nelly/_/Hey+Porsche)
-* [The 1975 — Oh Caroline](https://www.last.fm/music/The+1975/_/Oh+Caroline)
-* [The Tech Thieves — Flowers](https://www.last.fm/music/The+Tech+Thieves/_/Flowers)<!-- LASTFM:END -->
+* [Nelly — Hey Porsche](https://www.last.fm/music/Nelly/_/Hey+Porsche)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
