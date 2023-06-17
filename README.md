@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Tech Thieves — Flowers](https://www.last.fm/music/The+Tech+Thieves/_/Flowers)
+* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
 * [Rihanna — Needed Me](https://www.last.fm/music/Rihanna/_/Needed+Me)
 * [Arppa — Leikkiä sanoilla](https://www.last.fm/music/Arppa/_/Leikki%C3%A4+sanoilla)
-* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
-* [LVL UP — *_*](https://www.last.fm/music/LVL+UP/_/*_*)
-* [The Saturdays — What About Us](https://www.last.fm/music/The+Saturdays/_/What+About+Us)<!-- LASTFM:END -->
+* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
