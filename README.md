@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [re6ce — teeth &lpar;you&rpar;](https://www.last.fm/music/re6ce/_/teeth+&lpar;you&rpar;)
+* [Koi — big](https://www.last.fm/music/Koi/_/big)
+* [aldrch — gluttony](https://www.last.fm/music/aldrch/_/gluttony)
 * [Numl6ck — speaking2myself](https://www.last.fm/music/Numl6ck/_/speaking2myself)
-* [Seb — god of the sunsets](https://www.last.fm/music/Seb/_/god+of+the+sunsets)
-* [Good Kid — Drifting](https://www.last.fm/music/Good+Kid/_/Drifting)
-* [Yung Gravy — Goodness Gracious](https://www.last.fm/music/Yung+Gravy/_/Goodness+Gracious)
-* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)<!-- LASTFM:END -->
+* [Seb — god of the sunsets](https://www.last.fm/music/Seb/_/god+of+the+sunsets)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
