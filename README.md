@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rita Ora — How We Do &lpar;Party&rpar;](https://www.last.fm/music/Rita+Ora/_/How+We+Do+&lpar;Party&rpar;)
+* [Mike Posner — Cooler Than Me](https://www.last.fm/music/Mike+Posner/_/Cooler+Than+Me)
 * [The 1975 — It&#39;s Not Living &lpar;If It&#39;s Not With You&rpar;](https://www.last.fm/music/The+1975/_/It%27s+Not+Living+&lpar;If+It%27s+Not+With+You&rpar;)
 * [Calvin Harris — Summer](https://www.last.fm/music/Calvin+Harris/_/Summer)
-* [Céline Dion — I&#39;m Alive](https://www.last.fm/music/C%C3%A9line+Dion/_/I%27m+Alive)
-* [Céline Dion — I&#39;m Alive](https://www.last.fm/music/C%C3%A9line+Dion/_/I%27m+Alive)
-* [Cartoon — On &amp; On](https://www.last.fm/music/Cartoon/_/On+&amp;+On)<!-- LASTFM:END -->
+* [Céline Dion — I&#39;m Alive](https://www.last.fm/music/C%C3%A9line+Dion/_/I%27m+Alive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
