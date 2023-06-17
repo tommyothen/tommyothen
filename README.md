@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — Goodness Gracious](https://www.last.fm/music/Yung+Gravy/_/Goodness+Gracious)
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
+* [Hashir — MOUNTAIN MAN](https://www.last.fm/music/Hashir/_/MOUNTAIN+MAN)
 * [yung kage — JENNI](https://www.last.fm/music/yung+kage/_/JENNI)
-* [Dominic Fike — Mona Lisa &lpar;Spider-Man: Across the Spider-Verse&rpar;](https://www.last.fm/music/Dominic+Fike/_/Mona+Lisa+&lpar;Spider-Man:+Across+the+Spider-Verse&rpar;)
-* [Glaive — all i do is try my best](https://www.last.fm/music/Glaive/_/all+i+do+is+try+my+best)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
-* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)<!-- LASTFM:END -->
+* [Dominic Fike — Mona Lisa &lpar;Spider-Man: Across the Spider-Verse&rpar;](https://www.last.fm/music/Dominic+Fike/_/Mona+Lisa+&lpar;Spider-Man:+Across+the+Spider-Verse&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
