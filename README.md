@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
 * [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
 * [re6ce — cabin fever](https://www.last.fm/music/re6ce/_/cabin+fever)
-* [Connor Price — Not A Beanie](https://www.last.fm/music/Connor+Price/_/Not+A+Beanie)
-* [aldrch — watercolor puddles](https://www.last.fm/music/aldrch/_/watercolor+puddles)
-* [Aries — BOUNTY HUNTER](https://www.last.fm/music/Aries/_/BOUNTY+HUNTER)<!-- LASTFM:END -->
+* [Connor Price — Not A Beanie](https://www.last.fm/music/Connor+Price/_/Not+A+Beanie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
