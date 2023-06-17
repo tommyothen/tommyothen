@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iAmJakeHill — Pewdiepie Song](https://www.last.fm/music/iAmJakeHill/_/Pewdiepie+Song)
+* [teeawgo — Hijack](https://www.last.fm/music/teeawgo/_/Hijack)
 * [Dumbfoundead — WASHED &lpar;PROD. BY SHAWN WASABI&rpar;](https://www.last.fm/music/Dumbfoundead/_/WASHED+&lpar;PROD.+BY+SHAWN+WASABI&rpar;)
 * [Billie Eilish — bury a friend](https://www.last.fm/music/Billie+Eilish/_/bury+a+friend)
-* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)<!-- LASTFM:END -->
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
