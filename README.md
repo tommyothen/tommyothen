@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NEEDY GIRL OVERDOSE — INTERNET YAMERO](https://www.last.fm/music/NEEDY+GIRL+OVERDOSE/_/INTERNET+YAMERO)
+* [Broken By The Scream — アイハキミノモノ](https://www.last.fm/music/Broken+By+The+Scream/_/%E3%82%A2%E3%82%A4%E3%83%8F%E3%82%AD%E3%83%9F%E3%83%8E%E3%83%A2%E3%83%8E)
 * [Overrated — Remedy](https://www.last.fm/music/Overrated/_/Remedy)
 * [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
-* [PLASTIC GIRL IN CLOSET — ERROR](https://www.last.fm/music/PLASTIC+GIRL+IN+CLOSET/_/ERROR)<!-- LASTFM:END -->
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
