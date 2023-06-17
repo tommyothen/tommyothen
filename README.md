@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Metro Boomin — Annihilate &lpar;Spider-Man: Across the Spider-Verse&rpar; &lpar;Metro Boomin &amp; Swae Lee, Lil Wayne, Offset&rpar;](https://www.last.fm/music/Metro+Boomin/_/Annihilate+&lpar;Spider-Man:+Across+the+Spider-Verse&rpar;+&lpar;Metro+Boomin+&amp;+Swae+Lee,+Lil+Wayne,+Offset&rpar;)
+* [Bryan Andrew Medina — ASTRONAUT](https://www.last.fm/music/Bryan+Andrew+Medina/_/ASTRONAUT)
 * [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
 * [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
-* [Superior Cornrows — Test Me](https://www.last.fm/music/Superior+Cornrows/_/Test+Me)
-* [Minami Minase&lpar;CV:Hruka Sasaki&rpar; — tokimeki-meteostrike](https://www.last.fm/music/Minami+Minase&lpar;CV:Hruka+Sasaki&rpar;/_/tokimeki-meteostrike)
-* [Your Neighbors — Sideways](https://www.last.fm/music/Your+Neighbors/_/Sideways)<!-- LASTFM:END -->
+* [Superior Cornrows — Test Me](https://www.last.fm/music/Superior+Cornrows/_/Test+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
