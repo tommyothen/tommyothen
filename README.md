@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
-* [angry children — Childish Flamingo](https://www.last.fm/music/angry+children/_/Childish+Flamingo)
-* [Metro Boomin — Am I Dreaming &lpar;Metro Boomin &amp; A$AP Rocky, Roisee&rpar;](https://www.last.fm/music/Metro+Boomin/_/Am+I+Dreaming+&lpar;Metro+Boomin+&amp;+A$AP+Rocky,+Roisee&rpar;)
-* [Metro Boomin — Annihilate &lpar;Spider-Man: Across the Spider-Verse&rpar; &lpar;Metro Boomin &amp; Swae Lee, Lil Wayne, Offset&rpar;](https://www.last.fm/music/Metro+Boomin/_/Annihilate+&lpar;Spider-Man:+Across+the+Spider-Verse&rpar;+&lpar;Metro+Boomin+&amp;+Swae+Lee,+Lil+Wayne,+Offset&rpar;)
-* [Bryan Andrew Medina — ASTRONAUT](https://www.last.fm/music/Bryan+Andrew+Medina/_/ASTRONAUT)<!-- LASTFM:END -->
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
+* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
+* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
+* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
