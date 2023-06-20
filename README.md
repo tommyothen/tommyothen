@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dancing Dolls — monochrome](https://www.last.fm/music/Dancing+Dolls/_/monochrome)
 * [BABYMETAL — Road of Resistance](https://www.last.fm/music/BABYMETAL/_/Road+of+Resistance)
 * [XYLØ — yes &amp; no](https://www.last.fm/music/XYL%C3%98/_/yes+&amp;+no)
 * [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)<!-- LASTFM:END -->
+* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
