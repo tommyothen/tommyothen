@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
 * [XANAKIN SKYWOK — Macho!](https://www.last.fm/music/XANAKIN+SKYWOK/_/Macho!)
 * [Die Antwoord — Cookie Thumper!](https://www.last.fm/music/Die+Antwoord/_/Cookie+Thumper!)
-* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
-* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
-* [IC3PEAK — Dead But Pretty](https://www.last.fm/music/IC3PEAK/_/Dead+But+Pretty)<!-- LASTFM:END -->
+* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
