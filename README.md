@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [UNDEAD CORPORATION DOUJIN WORKS — Everything will freeze -Guitar Instrumental-](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Everything+will+freeze+-Guitar+Instrumental-)
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
 * [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)
 * [Digga D — DTF](https://www.last.fm/music/Digga+D/_/DTF)
-* [Byron Messia — Talibans](https://www.last.fm/music/Byron+Messia/_/Talibans)
-* [Dave — Sprinter](https://www.last.fm/music/Dave/_/Sprinter)
-* [Metro Boomin — Am I Dreaming &lpar;Metro Boomin &amp; A$AP Rocky, Roisee&rpar;](https://www.last.fm/music/Metro+Boomin/_/Am+I+Dreaming+&lpar;Metro+Boomin+&amp;+A$AP+Rocky,+Roisee&rpar;)<!-- LASTFM:END -->
+* [Byron Messia — Talibans](https://www.last.fm/music/Byron+Messia/_/Talibans)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
