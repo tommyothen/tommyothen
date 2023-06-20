@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
+* [Goose house — 光るなら](https://www.last.fm/music/Goose+house/_/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89)
 * [Dancing Dolls — monochrome](https://www.last.fm/music/Dancing+Dolls/_/monochrome)
 * [BABYMETAL — Road of Resistance](https://www.last.fm/music/BABYMETAL/_/Road+of+Resistance)
-* [XYLØ — yes &amp; no](https://www.last.fm/music/XYL%C3%98/_/yes+&amp;+no)
-* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)<!-- LASTFM:END -->
+* [XYLØ — yes &amp; no](https://www.last.fm/music/XYL%C3%98/_/yes+&amp;+no)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
