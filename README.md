@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Metro Boomin — Am I Dreaming &lpar;Metro Boomin &amp; A$AP Rocky, Roisee&rpar;](https://www.last.fm/music/Metro+Boomin/_/Am+I+Dreaming+&lpar;Metro+Boomin+&amp;+A$AP+Rocky,+Roisee&rpar;)
+* [Daniel Pemberton — To My Son](https://www.last.fm/music/Daniel+Pemberton/_/To+My+Son)
+* [Metro Boomin — Annihilate &lpar;Spider-Man: Across the Spider-Verse&rpar; &lpar;Metro Boomin &amp; Swae Lee, Lil Wayne, Offset&rpar;](https://www.last.fm/music/Metro+Boomin/_/Annihilate+&lpar;Spider-Man:+Across+the+Spider-Verse&rpar;+&lpar;Metro+Boomin+&amp;+Swae+Lee,+Lil+Wayne,+Offset&rpar;)
 * [$uicideboy$ — PARIS](https://www.last.fm/music/$uicideboy$/_/PARIS)
-* [Pierce the Veil — A Match Into Water](https://www.last.fm/music/Pierce+the+Veil/_/A+Match+Into+Water)
-* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
-* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)
-* [UNDEAD CORPORATION DOUJIN WORKS — Everything will freeze -Guitar Instrumental-](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Everything+will+freeze+-Guitar+Instrumental-)<!-- LASTFM:END -->
+* [Pierce the Veil — A Match Into Water](https://www.last.fm/music/Pierce+the+Veil/_/A+Match+Into+Water)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
