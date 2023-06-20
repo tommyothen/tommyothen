@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Wayne — Scared of the Dark &lpar;feat. XXXTENTACION&rpar;](https://www.last.fm/music/Lil+Wayne/_/Scared+of+the+Dark+&lpar;feat.+XXXTENTACION&rpar;)
+* [Metro Boomin — Annihilate &lpar;Spider-Man: Across the Spider-Verse&rpar; &lpar;Metro Boomin &amp; Swae Lee, Lil Wayne, Offset&rpar;](https://www.last.fm/music/Metro+Boomin/_/Annihilate+&lpar;Spider-Man:+Across+the+Spider-Verse&rpar;+&lpar;Metro+Boomin+&amp;+Swae+Lee,+Lil+Wayne,+Offset&rpar;)
 * [Shoffy — I Can&#39;t Help](https://www.last.fm/music/Shoffy/_/I+Can%27t+Help)
 * [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
-* [Goose house — 光るなら](https://www.last.fm/music/Goose+house/_/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89)
-* [Dancing Dolls — monochrome](https://www.last.fm/music/Dancing+Dolls/_/monochrome)
-* [BABYMETAL — Road of Resistance](https://www.last.fm/music/BABYMETAL/_/Road+of+Resistance)<!-- LASTFM:END -->
+* [Goose house — 光るなら](https://www.last.fm/music/Goose+house/_/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
