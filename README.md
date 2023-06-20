@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [six impala — 5P4R3 Y0UR 3N4M3L, 5H3 N33D5 17 M0R3 7H4N Y0U](https://www.last.fm/music/six+impala/_/5P4R3+Y0UR+3N4M3L,+5H3+N33D5+17+M0R3+7H4N+Y0U)
+* [six impala — TROLL ME](https://www.last.fm/music/six+impala/_/TROLL+ME)
+* [six impala — SAD MACHINE](https://www.last.fm/music/six+impala/_/SAD+MACHINE)
 * [Gunna — back to the moon](https://www.last.fm/music/Gunna/_/back+to+the+moon)
-* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)
-* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
-* [Metro Boomin — Am I Dreaming &lpar;Metro Boomin &amp; A$AP Rocky, Roisee&rpar;](https://www.last.fm/music/Metro+Boomin/_/Am+I+Dreaming+&lpar;Metro+Boomin+&amp;+A$AP+Rocky,+Roisee&rpar;)
-* [Daniel Pemberton — To My Son](https://www.last.fm/music/Daniel+Pemberton/_/To+My+Son)<!-- LASTFM:END -->
+* [K/DA — VILLAIN](https://www.last.fm/music/K%2FDA/_/VILLAIN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
