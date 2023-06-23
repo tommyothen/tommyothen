@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [aespa — Welcome To MY World &lpar;feat. nævis&rpar;](https://www.last.fm/music/aespa/_/Welcome+To+MY+World+&lpar;feat.+n%C3%A6vis&rpar;)
-* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
-* [six impala — 5P4R3 Y0UR 3N4M3L, 5H3 N33D5 17 M0R3 7H4N Y0U](https://www.last.fm/music/six+impala/_/5P4R3+Y0UR+3N4M3L,+5H3+N33D5+17+M0R3+7H4N+Y0U)
-* [six impala — TROLL ME](https://www.last.fm/music/six+impala/_/TROLL+ME)<!-- LASTFM:END -->
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
+* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
+* [Childish Gambino — Bonfire](https://www.last.fm/music/Childish+Gambino/_/Bonfire)
+* [Riot Shift — SAME AGAIN](https://www.last.fm/music/Riot+Shift/_/SAME+AGAIN)
+* [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
