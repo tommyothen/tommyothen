@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [HEALTH — POWER FANTASY](https://www.last.fm/music/HEALTH/_/POWER+FANTASY)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
-* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
-* [Baba — I CANT HEAR U](https://www.last.fm/music/Baba/_/I+CANT+HEAR+U)
-* [SUI UZI — Feel Me](https://www.last.fm/music/SUI+UZI/_/Feel+Me)<!-- LASTFM:END -->
+* [kosu. — daft.](https://www.last.fm/music/kosu./_/daft.)
+* [Ken Ashcorp — Dare You To Love Me](https://www.last.fm/music/Ken+Ashcorp/_/Dare+You+To+Love+Me)
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
+* [angry children — Childish Flamingo](https://www.last.fm/music/angry+children/_/Childish+Flamingo)
+* [HEALTH — POWER FANTASY](https://www.last.fm/music/HEALTH/_/POWER+FANTASY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
