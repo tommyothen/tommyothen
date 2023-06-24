@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aimai Ai — Star Gazing](https://www.last.fm/music/Aimai+Ai/_/Star+Gazing)
 * [Superior Cornrows — Test Me](https://www.last.fm/music/Superior+Cornrows/_/Test+Me)
 * [Your Neighbors — Sideways](https://www.last.fm/music/Your+Neighbors/_/Sideways)
 * [Bill Kiley — Worst Neighbors Ever](https://www.last.fm/music/Bill+Kiley/_/Worst+Neighbors+Ever)
-* [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
-* [Qiyah Abdul — Sacred Woman](https://www.last.fm/music/Qiyah+Abdul/_/Sacred+Woman)<!-- LASTFM:END -->
+* [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
