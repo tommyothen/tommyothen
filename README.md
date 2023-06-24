@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bill Kiley — Worst Neighbors Ever](https://www.last.fm/music/Bill+Kiley/_/Worst+Neighbors+Ever)
+* [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
 * [Qiyah Abdul — Sacred Woman](https://www.last.fm/music/Qiyah+Abdul/_/Sacred+Woman)
 * [Kuma the Third — WHATS UP?](https://www.last.fm/music/Kuma+the+Third/_/WHATS+UP%3F)
-* [Dayglow — Can I Call You Tonight?](https://www.last.fm/music/Dayglow/_/Can+I+Call+You+Tonight%3F)
-* [kosu. — daft.](https://www.last.fm/music/kosu./_/daft.)
-* [Ken Ashcorp — Dare You To Love Me](https://www.last.fm/music/Ken+Ashcorp/_/Dare+You+To+Love+Me)<!-- LASTFM:END -->
+* [Dayglow — Can I Call You Tonight?](https://www.last.fm/music/Dayglow/_/Can+I+Call+You+Tonight%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
