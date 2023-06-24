@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billie Eilish — my strange addiction](https://www.last.fm/music/Billie+Eilish/_/my+strange+addiction)
 * [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)
 * [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
 * [TWICE — KNOCK KNOCK](https://www.last.fm/music/TWICE/_/KNOCK+KNOCK)
-* [Sweater Beats — Take Me To Eterna](https://www.last.fm/music/Sweater+Beats/_/Take+Me+To+Eterna)
-* [MCR-T — My Barn My Rules](https://www.last.fm/music/MCR-T/_/My+Barn+My+Rules)<!-- LASTFM:END -->
+* [Sweater Beats — Take Me To Eterna](https://www.last.fm/music/Sweater+Beats/_/Take+Me+To+Eterna)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
