@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HEALTH — POWER FANTASY](https://www.last.fm/music/HEALTH/_/POWER+FANTASY)
+* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
 * [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
 * [Baba — I CANT HEAR U](https://www.last.fm/music/Baba/_/I+CANT+HEAR+U)
-* [SUI UZI — Feel Me](https://www.last.fm/music/SUI+UZI/_/Feel+Me)
-* [Sumika — フィクション](https://www.last.fm/music/Sumika/_/%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3)
-* [Billie Eilish — my strange addiction](https://www.last.fm/music/Billie+Eilish/_/my+strange+addiction)<!-- LASTFM:END -->
+* [SUI UZI — Feel Me](https://www.last.fm/music/SUI+UZI/_/Feel+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
