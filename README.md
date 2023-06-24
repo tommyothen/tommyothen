@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [guccihighwaters — Oh Fuck I&#39;m Drunk](https://www.last.fm/music/guccihighwaters/_/Oh+Fuck+I%27m+Drunk)
 * [Kill Bill: The Rapper — Black Coffee](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Black+Coffee)
 * [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
 * [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)<!-- LASTFM:END -->
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
