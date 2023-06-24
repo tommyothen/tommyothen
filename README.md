@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Qiyah Abdul — Sacred Woman](https://www.last.fm/music/Qiyah+Abdul/_/Sacred+Woman)
+* [Kuma the Third — WHATS UP?](https://www.last.fm/music/Kuma+the+Third/_/WHATS+UP%3F)
 * [Dayglow — Can I Call You Tonight?](https://www.last.fm/music/Dayglow/_/Can+I+Call+You+Tonight%3F)
 * [kosu. — daft.](https://www.last.fm/music/kosu./_/daft.)
-* [Ken Ashcorp — Dare You To Love Me](https://www.last.fm/music/Ken+Ashcorp/_/Dare+You+To+Love+Me)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [angry children — Childish Flamingo](https://www.last.fm/music/angry+children/_/Childish+Flamingo)<!-- LASTFM:END -->
+* [Ken Ashcorp — Dare You To Love Me](https://www.last.fm/music/Ken+Ashcorp/_/Dare+You+To+Love+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
