@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MCR-T — My Barn My Rules](https://www.last.fm/music/MCR-T/_/My+Barn+My+Rules)
+* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)
 * [Childish Gambino — Bonfire](https://www.last.fm/music/Childish+Gambino/_/Bonfire)
 * [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
-* [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)
-* [Yion — Girls Just Want Breaks &lpar;yion-flip&rpar;](https://www.last.fm/music/Yion/_/Girls+Just+Want+Breaks+&lpar;yion-flip&rpar;)
-* [KENTENSHI — GO-GO](https://www.last.fm/music/KENTENSHI/_/GO-GO)<!-- LASTFM:END -->
+* [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
