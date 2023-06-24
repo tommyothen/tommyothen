@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
-* [MCR-T — My Barn My Rules](https://www.last.fm/music/MCR-T/_/My+Barn+My+Rules)
-* [MCR-T — My Barn My Rules](https://www.last.fm/music/MCR-T/_/My+Barn+My+Rules)
-* [Childish Gambino — Bonfire](https://www.last.fm/music/Childish+Gambino/_/Bonfire)<!-- LASTFM:END -->
+* [Yion — Girls Just Want Breaks &lpar;yion-flip&rpar;](https://www.last.fm/music/Yion/_/Girls+Just+Want+Breaks+&lpar;yion-flip&rpar;)
+* [KENTENSHI — GO-GO](https://www.last.fm/music/KENTENSHI/_/GO-GO)
+* [TOKYOPILL — WISH](https://www.last.fm/music/TOKYOPILL/_/WISH)
+* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)
+* [Imperial Circus Dead Decadence — 黄泉より聴こゆ、皇国の燈と焔の少女。](https://www.last.fm/music/Imperial+Circus+Dead+Decadence/_/%E9%BB%84%E6%B3%89%E3%82%88%E3%82%8A%E8%81%B4%E3%81%93%E3%82%86%E3%80%81%E7%9A%87%E5%9B%BD%E3%81%AE%E7%87%88%E3%81%A8%E7%84%94%E3%81%AE%E5%B0%91%E5%A5%B3%E3%80%82)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
