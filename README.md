@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Coming Soon!!! — Trippin in Paris](https://www.last.fm/music/Coming+Soon!!!/_/Trippin+in+Paris)
 * [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
 * [DNMO — Sick Of You](https://www.last.fm/music/DNMO/_/Sick+Of+You)
 * [MCR-T — My Barn My Rules](https://www.last.fm/music/MCR-T/_/My+Barn+My+Rules)
-* [Aimai Ai — Star Gazing](https://www.last.fm/music/Aimai+Ai/_/Star+Gazing)
-* [Superior Cornrows — Test Me](https://www.last.fm/music/Superior+Cornrows/_/Test+Me)<!-- LASTFM:END -->
+* [Aimai Ai — Star Gazing](https://www.last.fm/music/Aimai+Ai/_/Star+Gazing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
