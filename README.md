@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Childish Gambino — Bonfire](https://www.last.fm/music/Childish+Gambino/_/Bonfire)
 * [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
 * [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)
 * [Yion — Girls Just Want Breaks &lpar;yion-flip&rpar;](https://www.last.fm/music/Yion/_/Girls+Just+Want+Breaks+&lpar;yion-flip&rpar;)
-* [KENTENSHI — GO-GO](https://www.last.fm/music/KENTENSHI/_/GO-GO)
-* [TOKYOPILL — WISH](https://www.last.fm/music/TOKYOPILL/_/WISH)<!-- LASTFM:END -->
+* [KENTENSHI — GO-GO](https://www.last.fm/music/KENTENSHI/_/GO-GO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
