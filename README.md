@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
 * [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
 * [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
 * [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)
-* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
-* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)<!-- LASTFM:END -->
+* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
