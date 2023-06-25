@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MOB CHOIR — 99](https://www.last.fm/music/MOB+CHOIR/_/99)
-* [Sumika — フィクション](https://www.last.fm/music/Sumika/_/%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3)
-* [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)
-* [CONVOLK — lonewolf](https://www.last.fm/music/CONVOLK/_/lonewolf)
-* [guccihighwaters — Oh Fuck I&#39;m Drunk](https://www.last.fm/music/guccihighwaters/_/Oh+Fuck+I%27m+Drunk)<!-- LASTFM:END -->
+* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
+* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
+* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
+* [deadman 死人 — Omae Wa Mou](https://www.last.fm/music/deadman+%E6%AD%BB%E4%BA%BA/_/Omae+Wa+Mou)
+* [Jackson Wang — TITANIC &lpar;feat. Rich Brian&rpar;](https://www.last.fm/music/Jackson+Wang/_/TITANIC+&lpar;feat.+Rich+Brian&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
