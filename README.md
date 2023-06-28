@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Metro Boomin — I Can&#39;t Save You &lpar;Interlude&rpar; [with Future &amp; feat. Don Toliver]](https://www.last.fm/music/Metro+Boomin/_/I+Can%27t+Save+You+&lpar;Interlude&rpar;+%5Bwith+Future+&amp;+feat.+Don+Toliver%5D)
+* [KIDS SEE GHOSTS — 4th Dimension](https://www.last.fm/music/KIDS+SEE+GHOSTS/_/4th+Dimension)
+* [Metro Boomin — I Can&#39;t Save You &lpar;Interlude&rpar; [with Future &amp; feat. Don Toliver]](https://www.last.fm/music/Metro+Boomin/_/I+Can%27t+Save+You+&lpar;Interlude&rpar;+%5Bwith+Future+&amp;+feat.+Don+Toliver%5D)
 * [Jay Rock — King&#39;s Dead &lpar;with Kendrick Lamar, Future &amp; James Blake&rpar;](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+&lpar;with+Kendrick+Lamar,+Future+&amp;+James+Blake&rpar;)
-* [Childish Gambino — Bonfire](https://www.last.fm/music/Childish+Gambino/_/Bonfire)
-* [Stereophonics — Indian Summer](https://www.last.fm/music/Stereophonics/_/Indian+Summer)
-* [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)
-* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)<!-- LASTFM:END -->
+* [Childish Gambino — Bonfire](https://www.last.fm/music/Childish+Gambino/_/Bonfire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
