@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
 * [REI AMI — SNOWCONE](https://www.last.fm/music/REI+AMI/_/SNOWCONE)
 * [Harry Styles — Only Angel](https://www.last.fm/music/Harry+Styles/_/Only+Angel)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [88rising — Indigo](https://www.last.fm/music/88rising/_/Indigo)
-* [CVLTE — Happy. &lpar;feat. 釈迦坊主&rpar;](https://www.last.fm/music/CVLTE/_/Happy.+&lpar;feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB&rpar;)<!-- LASTFM:END -->
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
