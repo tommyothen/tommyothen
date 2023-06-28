@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jay Rock — King&#39;s Dead &lpar;with Kendrick Lamar, Future &amp; James Blake&rpar;](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+&lpar;with+Kendrick+Lamar,+Future+&amp;+James+Blake&rpar;)
 * [Childish Gambino — Bonfire](https://www.last.fm/music/Childish+Gambino/_/Bonfire)
 * [Stereophonics — Indian Summer](https://www.last.fm/music/Stereophonics/_/Indian+Summer)
 * [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)
-* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
-* [Maddie Adderley — Never Again](https://www.last.fm/music/Maddie+Adderley/_/Never+Again)<!-- LASTFM:END -->
+* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
