@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
+* [Fliptrix — The Poltergeist](https://www.last.fm/music/Fliptrix/_/The+Poltergeist)
 * [Fliptrix — Monday To Sunday](https://www.last.fm/music/Fliptrix/_/Monday+To+Sunday)
 * [Eden — crash](https://www.last.fm/music/Eden/_/crash)
-* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [REI AMI — SNOWCONE](https://www.last.fm/music/REI+AMI/_/SNOWCONE)<!-- LASTFM:END -->
+* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
