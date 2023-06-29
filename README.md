@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
+* [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)
 * [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
 * [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
-* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
-* [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)
-* [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)<!-- LASTFM:END -->
+* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
