@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)
+* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
 * [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
 * [11 Acorn Lane — Mellow Mouser](https://www.last.fm/music/11+Acorn+Lane/_/Mellow+Mouser)
-* [Lofi.Samurai — already dead](https://www.last.fm/music/Lofi.Samurai/_/already+dead)
-* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
-* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)<!-- LASTFM:END -->
+* [Lofi.Samurai — already dead](https://www.last.fm/music/Lofi.Samurai/_/already+dead)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
