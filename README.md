@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
+* [Metro Boomin — Link Up &lpar;Metro Boomin &amp; Don Toliver, Wizkid feat. BEAM &amp; Toian&rpar; - Spider-Verse Remix &lpar;Spider-Man: Across the Spider-Verse &rpar;](https://www.last.fm/music/Metro+Boomin/_/Link+Up+&lpar;Metro+Boomin+&amp;+Don+Toliver,+Wizkid+feat.+BEAM+&amp;+Toian&rpar;+-+Spider-Verse+Remix+&lpar;Spider-Man:+Across+the+Spider-Verse+&rpar;)
 * [Metro Boomin — Am I Dreaming &lpar;Metro Boomin &amp; A$AP Rocky, Roisee&rpar;](https://www.last.fm/music/Metro+Boomin/_/Am+I+Dreaming+&lpar;Metro+Boomin+&amp;+A$AP+Rocky,+Roisee&rpar;)
 * [Metro Boomin — Annihilate &lpar;Spider-Man: Across the Spider-Verse&rpar; &lpar;Metro Boomin &amp; Swae Lee, Lil Wayne, Offset&rpar;](https://www.last.fm/music/Metro+Boomin/_/Annihilate+&lpar;Spider-Man:+Across+the+Spider-Verse&rpar;+&lpar;Metro+Boomin+&amp;+Swae+Lee,+Lil+Wayne,+Offset&rpar;)
-* [Metro Boomin — I Can&#39;t Save You &lpar;Interlude&rpar; [with Future &amp; feat. Don Toliver]](https://www.last.fm/music/Metro+Boomin/_/I+Can%27t+Save+You+&lpar;Interlude&rpar;+%5Bwith+Future+&amp;+feat.+Don+Toliver%5D)
-* [KIDS SEE GHOSTS — 4th Dimension](https://www.last.fm/music/KIDS+SEE+GHOSTS/_/4th+Dimension)
 * [Metro Boomin — I Can&#39;t Save You &lpar;Interlude&rpar; [with Future &amp; feat. Don Toliver]](https://www.last.fm/music/Metro+Boomin/_/I+Can%27t+Save+You+&lpar;Interlude&rpar;+%5Bwith+Future+&amp;+feat.+Don+Toliver%5D)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
