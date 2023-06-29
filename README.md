@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [11 Acorn Lane — Mellow Mouser](https://www.last.fm/music/11+Acorn+Lane/_/Mellow+Mouser)
 * [Lofi.Samurai — already dead](https://www.last.fm/music/Lofi.Samurai/_/already+dead)
 * [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
 * [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)
-* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
-* [Metro Boomin — Link Up &lpar;Metro Boomin &amp; Don Toliver, Wizkid feat. BEAM &amp; Toian&rpar; - Spider-Verse Remix &lpar;Spider-Man: Across the Spider-Verse &rpar;](https://www.last.fm/music/Metro+Boomin/_/Link+Up+&lpar;Metro+Boomin+&amp;+Don+Toliver,+Wizkid+feat.+BEAM+&amp;+Toian&rpar;+-+Spider-Verse+Remix+&lpar;Spider-Man:+Across+the+Spider-Verse+&rpar;)<!-- LASTFM:END -->
+* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
