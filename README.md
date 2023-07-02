@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
 * [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [Bibi — KAZINO](https://www.last.fm/music/Bibi/_/KAZINO)
-* [ROY PURDY — PINK AND GREEN](https://www.last.fm/music/ROY+PURDY/_/PINK+AND+GREEN)
-* [Yung Gravy — Splash Mountain](https://www.last.fm/music/Yung+Gravy/_/Splash+Mountain)<!-- LASTFM:END -->
+* [Bibi — KAZINO](https://www.last.fm/music/Bibi/_/KAZINO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
