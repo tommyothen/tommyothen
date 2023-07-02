@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
 * [Electric Callboy — Spaceman &lpar;feat. FiNCH&rpar;](https://www.last.fm/music/Electric+Callboy/_/Spaceman+&lpar;feat.+FiNCH&rpar;)
 * [Electric Callboy — Pump It](https://www.last.fm/music/Electric+Callboy/_/Pump+It)
 * [Electric Callboy — Tekkno Train](https://www.last.fm/music/Electric+Callboy/_/Tekkno+Train)
-* [Electric Callboy — Everytime We Touch - TEKKNO Version](https://www.last.fm/music/Electric+Callboy/_/Everytime+We+Touch+-+TEKKNO+Version)
-* [Electric Callboy — WE GOT THE MOVES](https://www.last.fm/music/Electric+Callboy/_/WE+GOT+THE+MOVES)<!-- LASTFM:END -->
+* [Electric Callboy — Everytime We Touch - TEKKNO Version](https://www.last.fm/music/Electric+Callboy/_/Everytime+We+Touch+-+TEKKNO+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
