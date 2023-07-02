@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
 * [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
 * [Electric Callboy — Spaceman &lpar;feat. FiNCH&rpar;](https://www.last.fm/music/Electric+Callboy/_/Spaceman+&lpar;feat.+FiNCH&rpar;)
 * [Electric Callboy — Pump It](https://www.last.fm/music/Electric+Callboy/_/Pump+It)
-* [Electric Callboy — Tekkno Train](https://www.last.fm/music/Electric+Callboy/_/Tekkno+Train)
-* [Electric Callboy — Everytime We Touch - TEKKNO Version](https://www.last.fm/music/Electric+Callboy/_/Everytime+We+Touch+-+TEKKNO+Version)<!-- LASTFM:END -->
+* [Electric Callboy — Tekkno Train](https://www.last.fm/music/Electric+Callboy/_/Tekkno+Train)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
