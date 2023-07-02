@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — sex](https://www.last.fm/music/Eden/_/sex)
+* [Lil Uzi Vert — Werewolf &lpar;feat. Bring Me the Horizon&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/Werewolf+&lpar;feat.+Bring+Me+the+Horizon&rpar;)
 * [Lil Uzi Vert — The End &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/The+End+&lpar;feat.+BABYMETAL&rpar;)
 * [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
-* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
-* [Electric Callboy — Spaceman &lpar;feat. FiNCH&rpar;](https://www.last.fm/music/Electric+Callboy/_/Spaceman+&lpar;feat.+FiNCH&rpar;)
-* [Electric Callboy — Pump It](https://www.last.fm/music/Electric+Callboy/_/Pump+It)<!-- LASTFM:END -->
+* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
