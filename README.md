@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
-* [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)
-* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
-* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
-* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)<!-- LASTFM:END -->
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
+* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
+* [XXXTENTACION — Revenge](https://www.last.fm/music/XXXTENTACION/_/Revenge)
+* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
