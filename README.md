@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Electric Callboy — Pump It](https://www.last.fm/music/Electric+Callboy/_/Pump+It)
 * [Electric Callboy — Tekkno Train](https://www.last.fm/music/Electric+Callboy/_/Tekkno+Train)
 * [Electric Callboy — Everytime We Touch - TEKKNO Version](https://www.last.fm/music/Electric+Callboy/_/Everytime+We+Touch+-+TEKKNO+Version)
 * [Electric Callboy — WE GOT THE MOVES](https://www.last.fm/music/Electric+Callboy/_/WE+GOT+THE+MOVES)
-* [Electric Callboy — Hypa Hypa](https://www.last.fm/music/Electric+Callboy/_/Hypa+Hypa)
-* [Electric Callboy — Everytime We Touch - TEKKNO Version](https://www.last.fm/music/Electric+Callboy/_/Everytime+We+Touch+-+TEKKNO+Version)<!-- LASTFM:END -->
+* [Electric Callboy — Hypa Hypa](https://www.last.fm/music/Electric+Callboy/_/Hypa+Hypa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
