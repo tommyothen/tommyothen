@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Uzi Vert — The End &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/The+End+&lpar;feat.+BABYMETAL&rpar;)
 * [Dreamer Isioma — Sensitive](https://www.last.fm/music/Dreamer+Isioma/_/Sensitive)
 * [Dancing Cats — go kitty go](https://www.last.fm/music/Dancing+Cats/_/go+kitty+go)
 * [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
-* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
+* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
