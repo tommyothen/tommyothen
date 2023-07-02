@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
 * [Walk Off the Earth — My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)
 * [Eden — XO](https://www.last.fm/music/Eden/_/XO)
-* [Eden — Circles](https://www.last.fm/music/Eden/_/Circles)
-* [Nicole Scherzinger — Don&#39;t Hold Your Breath](https://www.last.fm/music/Nicole+Scherzinger/_/Don%27t+Hold+Your+Breath)
-* [Taylor Swift — Sparks Fly](https://www.last.fm/music/Taylor+Swift/_/Sparks+Fly)<!-- LASTFM:END -->
+* [Eden — Circles](https://www.last.fm/music/Eden/_/Circles)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
