@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — Sparks Fly](https://www.last.fm/music/Taylor+Swift/_/Sparks+Fly)
+* [Katy Perry — Hot n Cold](https://www.last.fm/music/Katy+Perry/_/Hot+n+Cold)
 * [Selena Gomez — Sober](https://www.last.fm/music/Selena+Gomez/_/Sober)
 * [Post Malone — Chemical](https://www.last.fm/music/Post+Malone/_/Chemical)
-* [Justin Bieber — Been You](https://www.last.fm/music/Justin+Bieber/_/Been+You)
-* [Eden — sex](https://www.last.fm/music/Eden/_/sex)
-* [Lil Uzi Vert — Werewolf &lpar;feat. Bring Me the Horizon&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/Werewolf+&lpar;feat.+Bring+Me+the+Horizon&rpar;)<!-- LASTFM:END -->
+* [Justin Bieber — Been You](https://www.last.fm/music/Justin+Bieber/_/Been+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
