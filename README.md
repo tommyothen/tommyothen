@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Selena Gomez — Sober](https://www.last.fm/music/Selena+Gomez/_/Sober)
+* [Post Malone — Chemical](https://www.last.fm/music/Post+Malone/_/Chemical)
+* [Justin Bieber — Been You](https://www.last.fm/music/Justin+Bieber/_/Been+You)
 * [Eden — sex](https://www.last.fm/music/Eden/_/sex)
-* [Lil Uzi Vert — Werewolf &lpar;feat. Bring Me the Horizon&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/Werewolf+&lpar;feat.+Bring+Me+the+Horizon&rpar;)
-* [Lil Uzi Vert — The End &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/The+End+&lpar;feat.+BABYMETAL&rpar;)
-* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
-* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)<!-- LASTFM:END -->
+* [Lil Uzi Vert — Werewolf &lpar;feat. Bring Me the Horizon&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/Werewolf+&lpar;feat.+Bring+Me+the+Horizon&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
