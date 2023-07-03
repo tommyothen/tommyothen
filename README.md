@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
+* [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)
+* [Bambee — Bumble Bee](https://www.last.fm/music/Bambee/_/Bumble+Bee)
 * [Lil Uzi Vert — The End &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/The+End+&lpar;feat.+BABYMETAL&rpar;)
-* [Dreamer Isioma — Sensitive](https://www.last.fm/music/Dreamer+Isioma/_/Sensitive)
-* [Dancing Cats — go kitty go](https://www.last.fm/music/Dancing+Cats/_/go+kitty+go)
-* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
-* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)<!-- LASTFM:END -->
+* [Dreamer Isioma — Sensitive](https://www.last.fm/music/Dreamer+Isioma/_/Sensitive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
