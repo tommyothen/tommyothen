@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
+* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
 * [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
-* [Thomas Headon — 2009 TOYOTA](https://www.last.fm/music/Thomas+Headon/_/2009+TOYOTA)
-* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)
-* [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)
-* [Toploader — Dancing in the Moonlight - sped up nightcore](https://www.last.fm/music/Toploader/_/Dancing+in+the+Moonlight+-+sped+up+nightcore)<!-- LASTFM:END -->
+* [Thomas Headon — 2009 TOYOTA](https://www.last.fm/music/Thomas+Headon/_/2009+TOYOTA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
