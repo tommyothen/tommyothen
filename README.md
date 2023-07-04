@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Atwood — SRT](https://www.last.fm/music/Atwood/_/SRT)
+* [angry children — Childish Flamingo](https://www.last.fm/music/angry+children/_/Childish+Flamingo)
+* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)
-* [Walk Off the Earth — My Stupid Heart](https://www.last.fm/music/Walk+Off+the+Earth/_/My+Stupid+Heart)
-* [Harry Styles — Adore You](https://www.last.fm/music/Harry+Styles/_/Adore+You)
-* [Rich Brian — Love In My Pocket](https://www.last.fm/music/Rich+Brian/_/Love+In+My+Pocket)<!-- LASTFM:END -->
+* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
