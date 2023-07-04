@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [My Dead Girlfriend — Kanojo ga tsumetaku warattara &lpar;prologue to the nine stages of change at the deceased remains&rpar;](https://www.last.fm/music/My+Dead+Girlfriend/_/Kanojo+ga+tsumetaku+warattara+&lpar;prologue+to+the+nine+stages+of+change+at+the+deceased+remains&rpar;)
 * [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
 * [Dominic Fike — Why](https://www.last.fm/music/Dominic+Fike/_/Why)
 * [Still Woozy — Goodie Bag](https://www.last.fm/music/Still+Woozy/_/Goodie+Bag)
-* [Dominic Fike — Phone Numbers](https://www.last.fm/music/Dominic+Fike/_/Phone+Numbers)
-* [Dreamville — Under the Sun &lpar;with J. Cole &amp; Lute feat. DaBaby&rpar;](https://www.last.fm/music/Dreamville/_/Under+the+Sun+&lpar;with+J.+Cole+&amp;+Lute+feat.+DaBaby&rpar;)<!-- LASTFM:END -->
+* [Dominic Fike — Phone Numbers](https://www.last.fm/music/Dominic+Fike/_/Phone+Numbers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
