@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)
+* [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)
 * [One Direction — Little White Lies](https://www.last.fm/music/One+Direction/_/Little+White+Lies)
 * [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)
-* [Karmin — Brokenhearted](https://www.last.fm/music/Karmin/_/Brokenhearted)
-* [Cafuné — Tek It](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
+* [Karmin — Brokenhearted](https://www.last.fm/music/Karmin/_/Brokenhearted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
