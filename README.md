@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)
 * [Karmin — Brokenhearted](https://www.last.fm/music/Karmin/_/Brokenhearted)
 * [Cafuné — Tek It](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It)
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [Atwood — SRT](https://www.last.fm/music/Atwood/_/SRT)
-* [angry children — Childish Flamingo](https://www.last.fm/music/angry+children/_/Childish+Flamingo)<!-- LASTFM:END -->
+* [Atwood — SRT](https://www.last.fm/music/Atwood/_/SRT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
