@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Harry Styles — Satellite](https://www.last.fm/music/Harry+Styles/_/Satellite)
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
 * [Karmin — Brokenhearted](https://www.last.fm/music/Karmin/_/Brokenhearted)
 * [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
-* [Masayoshi Takanaka — Oh! Tengo Suerte](https://www.last.fm/music/Masayoshi+Takanaka/_/Oh!+Tengo+Suerte)
-* [My Dead Girlfriend — Kanojo ga tsumetaku warattara &lpar;prologue to the nine stages of change at the deceased remains&rpar;](https://www.last.fm/music/My+Dead+Girlfriend/_/Kanojo+ga+tsumetaku+warattara+&lpar;prologue+to+the+nine+stages+of+change+at+the+deceased+remains&rpar;)
-* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)<!-- LASTFM:END -->
+* [Masayoshi Takanaka — Oh! Tengo Suerte](https://www.last.fm/music/Masayoshi+Takanaka/_/Oh!+Tengo+Suerte)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
