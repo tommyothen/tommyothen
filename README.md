@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [One Direction — Kiss You](https://www.last.fm/music/One+Direction/_/Kiss+You)
+* [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)
 * [Toploader — Dancing in the Moonlight - sped up nightcore](https://www.last.fm/music/Toploader/_/Dancing+in+the+Moonlight+-+sped+up+nightcore)
 * [Toploader — Dancing in the Moonlight](https://www.last.fm/music/Toploader/_/Dancing+in+the+Moonlight)
-* [One Direction — Steal My Girl](https://www.last.fm/music/One+Direction/_/Steal+My+Girl)
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
-* [Naomi Scott — She&#39;s So Gone](https://www.last.fm/music/Naomi+Scott/_/She%27s+So+Gone)<!-- LASTFM:END -->
+* [One Direction — Steal My Girl](https://www.last.fm/music/One+Direction/_/Steal+My+Girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
