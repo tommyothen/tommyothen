@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Toploader — Dancing in the Moonlight](https://www.last.fm/music/Toploader/_/Dancing+in+the+Moonlight)
+* [One Direction — Steal My Girl](https://www.last.fm/music/One+Direction/_/Steal+My+Girl)
 * [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
 * [Naomi Scott — She&#39;s So Gone](https://www.last.fm/music/Naomi+Scott/_/She%27s+So+Gone)
-* [Harry Styles — Satellite](https://www.last.fm/music/Harry+Styles/_/Satellite)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Karmin — Brokenhearted](https://www.last.fm/music/Karmin/_/Brokenhearted)<!-- LASTFM:END -->
+* [Harry Styles — Satellite](https://www.last.fm/music/Harry+Styles/_/Satellite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
