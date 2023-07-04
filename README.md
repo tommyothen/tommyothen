@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [One Direction — Little White Lies](https://www.last.fm/music/One+Direction/_/Little+White+Lies)
 * [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)
 * [Karmin — Brokenhearted](https://www.last.fm/music/Karmin/_/Brokenhearted)
 * [Cafuné — Tek It](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [Atwood — SRT](https://www.last.fm/music/Atwood/_/SRT)<!-- LASTFM:END -->
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
