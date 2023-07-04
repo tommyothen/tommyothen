@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
+* [Harry Styles — Music for a Sushi Restaurant](https://www.last.fm/music/Harry+Styles/_/Music+for+a+Sushi+Restaurant)
 * [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)
 * [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)
-* [One Direction — Little White Lies](https://www.last.fm/music/One+Direction/_/Little+White+Lies)
-* [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)
-* [Karmin — Brokenhearted](https://www.last.fm/music/Karmin/_/Brokenhearted)<!-- LASTFM:END -->
+* [One Direction — Little White Lies](https://www.last.fm/music/One+Direction/_/Little+White+Lies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
