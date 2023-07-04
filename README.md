@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bladee — Girls just want to have fun](https://www.last.fm/music/Bladee/_/Girls+just+want+to+have+fun)
+* [Lil Peep — witchblades](https://www.last.fm/music/Lil+Peep/_/witchblades)
 * [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)
 * [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
-* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
-* [DUCKWRTH — Super Bounce](https://www.last.fm/music/DUCKWRTH/_/Super+Bounce)
-* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)<!-- LASTFM:END -->
+* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
