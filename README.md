@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cafuné — Tek It](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It)
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
 * [Atwood — SRT](https://www.last.fm/music/Atwood/_/SRT)
 * [angry children — Childish Flamingo](https://www.last.fm/music/angry+children/_/Childish+Flamingo)
-* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)<!-- LASTFM:END -->
+* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
