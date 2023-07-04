@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Adolf Nomura — BEAT THE POLICE](https://www.last.fm/music/Adolf+Nomura/_/BEAT+THE+POLICE)
+* [Yion — Girls Just Want Breaks &lpar;yion-flip&rpar;](https://www.last.fm/music/Yion/_/Girls+Just+Want+Breaks+&lpar;yion-flip&rpar;)
 * [Bladee — Girls just want to have fun](https://www.last.fm/music/Bladee/_/Girls+just+want+to+have+fun)
 * [Lil Peep — witchblades](https://www.last.fm/music/Lil+Peep/_/witchblades)
-* [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)
-* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
-* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)<!-- LASTFM:END -->
+* [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
