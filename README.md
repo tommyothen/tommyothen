@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Demi Lovato — WASTED](https://www.last.fm/music/Demi+Lovato/_/WASTED)
+* [Miley Cyrus — Jaded](https://www.last.fm/music/Miley+Cyrus/_/Jaded)
+* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
-* [The Wombats — Greek Tragedy - Oliver Nelson TikTok Remix](https://www.last.fm/music/The+Wombats/_/Greek+Tragedy+-+Oliver+Nelson+TikTok+Remix)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
+* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
