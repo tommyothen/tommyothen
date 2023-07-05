@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
-* [Loco — Don’t](https://www.last.fm/music/Loco/_/Don%E2%80%99t)
-* [Eden — 02:09](https://www.last.fm/music/Eden/_/02:09)
-* [88rising — History](https://www.last.fm/music/88rising/_/History)
-* [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)<!-- LASTFM:END -->
+* [XXXTENTACION — before i close my eyes](https://www.last.fm/music/XXXTENTACION/_/before+i+close+my+eyes)
+* [Eden — all you need is love](https://www.last.fm/music/Eden/_/all+you+need+is+love)
+* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)
+* [Porter Robinson — Sea Of Voices - RAC Mix](https://www.last.fm/music/Porter+Robinson/_/Sea+Of+Voices+-+RAC+Mix)
+* [Porter Robinson — Polygon Dust - Sleepy Tom Remix](https://www.last.fm/music/Porter+Robinson/_/Polygon+Dust+-+Sleepy+Tom+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
