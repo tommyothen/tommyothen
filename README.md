@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Boba Boyz — Thai Tea Trippin&#39;](https://www.last.fm/music/Boba+Boyz/_/Thai+Tea+Trippin%27)
+* [Dumbfoundead — WASHED &lpar;PROD. BY SHAWN WASABI&rpar;](https://www.last.fm/music/Dumbfoundead/_/WASHED+&lpar;PROD.+BY+SHAWN+WASABI&rpar;)
 * [XXXTENTACION — before i close my eyes](https://www.last.fm/music/XXXTENTACION/_/before+i+close+my+eyes)
 * [Eden — all you need is love](https://www.last.fm/music/Eden/_/all+you+need+is+love)
-* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)
-* [Porter Robinson — Sea Of Voices - RAC Mix](https://www.last.fm/music/Porter+Robinson/_/Sea+Of+Voices+-+RAC+Mix)
-* [Porter Robinson — Polygon Dust - Sleepy Tom Remix](https://www.last.fm/music/Porter+Robinson/_/Polygon+Dust+-+Sleepy+Tom+Remix)<!-- LASTFM:END -->
+* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
