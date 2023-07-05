@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Канифоль &lpar;feat. Nokanifol&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9A%D0%B0%D0%BD%D0%B8%D1%84%D0%BE%D0%BB%D1%8C+&lpar;feat.+Nokanifol&rpar;)
+* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
 * [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
 * [Harry Styles — Music for a Sushi Restaurant](https://www.last.fm/music/Harry+Styles/_/Music+for+a+Sushi+Restaurant)
-* [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)
-* [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)
-* [One Direction — Little White Lies](https://www.last.fm/music/One+Direction/_/Little+White+Lies)<!-- LASTFM:END -->
+* [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
