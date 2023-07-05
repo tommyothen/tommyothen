@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [FEDUK — Луна-парк](https://www.last.fm/music/FEDUK/_/%D0%9B%D1%83%D0%BD%D0%B0-%D0%BF%D0%B0%D1%80%D0%BA)
-* [Lil Uzi Vert — Werewolf &lpar;feat. Bring Me the Horizon&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/Werewolf+&lpar;feat.+Bring+Me+the+Horizon&rpar;)
+* [Noisestorm — Breakout](https://www.last.fm/music/Noisestorm/_/Breakout)
 * [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
 * [Drake — God&#39;s Plan](https://www.last.fm/music/Drake/_/God%27s+Plan)
-* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)<!-- LASTFM:END -->
+* [FEDUK — Луна-парк](https://www.last.fm/music/FEDUK/_/%D0%9B%D1%83%D0%BD%D0%B0-%D0%BF%D0%B0%D1%80%D0%BA)
+* [Lil Uzi Vert — Werewolf &lpar;feat. Bring Me the Horizon&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/Werewolf+&lpar;feat.+Bring+Me+the+Horizon&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
