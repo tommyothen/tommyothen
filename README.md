@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Symmetry](https://www.last.fm/music/Polyphia/_/Symmetry)
+* [Polyphia — Bittersweet](https://www.last.fm/music/Polyphia/_/Bittersweet)
 * [Polyphia — Storm](https://www.last.fm/music/Polyphia/_/Storm)
 * [Polyphia — Nightmare](https://www.last.fm/music/Polyphia/_/Nightmare)
-* [Polyphia — Florence](https://www.last.fm/music/Polyphia/_/Florence)
-* [Polyphia — Light](https://www.last.fm/music/Polyphia/_/Light)
-* [Polyphia — Culture Shock](https://www.last.fm/music/Polyphia/_/Culture+Shock)<!-- LASTFM:END -->
+* [Polyphia — Florence](https://www.last.fm/music/Polyphia/_/Florence)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
