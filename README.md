@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sungazer — All These People](https://www.last.fm/music/Sungazer/_/All+These+People)
 * [No Oath — Nine](https://www.last.fm/music/No+Oath/_/Nine)
 * [Guthrie Govan — Waves](https://www.last.fm/music/Guthrie+Govan/_/Waves)
 * [Sylosis — Servitude](https://www.last.fm/music/Sylosis/_/Servitude)
-* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
-* [Eidola — The Abstract Of A Planet In Resolve](https://www.last.fm/music/Eidola/_/The+Abstract+Of+A+Planet+In+Resolve)<!-- LASTFM:END -->
+* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
