@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Franz Ferdinand — This fffire - new version](https://www.last.fm/music/Franz+Ferdinand/_/This+fffire+-+new+version)
+* [Polyphia — Rich Kids](https://www.last.fm/music/Polyphia/_/Rich+Kids)
 * [Thrailkill — An Abduction](https://www.last.fm/music/Thrailkill/_/An+Abduction)
 * [Plini — Moonflower](https://www.last.fm/music/Plini/_/Moonflower)
-* [av4ln — syrupy](https://www.last.fm/music/av4ln/_/syrupy)
-* [VARRA — BIRDO II](https://www.last.fm/music/VARRA/_/BIRDO+II)
-* [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)<!-- LASTFM:END -->
+* [av4ln — syrupy](https://www.last.fm/music/av4ln/_/syrupy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
