@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)
 * [brakence — 5g](https://www.last.fm/music/brakence/_/5g)
 * [ericdoa — thingsudo2me](https://www.last.fm/music/ericdoa/_/thingsudo2me)
 * [brakence — venus fly trap](https://www.last.fm/music/brakence/_/venus+fly+trap)
-* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)<!-- LASTFM:END -->
+* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
