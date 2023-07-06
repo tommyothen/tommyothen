@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Felix Martin — Great Fairy&#39;s Fountain &lpar;From &quot;The Legend of Zelda: Ocarina of Time&rpar; [feat. Ichika]](https://www.last.fm/music/Felix+Martin/_/Great+Fairy%27s+Fountain+&lpar;From+%22The+Legend+of+Zelda:+Ocarina+of+Time&rpar;+%5Bfeat.+Ichika%5D)
+* [CHON — Cloudy](https://www.last.fm/music/CHON/_/Cloudy)
+* [Polyphia — Florence](https://www.last.fm/music/Polyphia/_/Florence)
 * [Clown Core — Computers](https://www.last.fm/music/Clown+Core/_/Computers)
-* [Olly Steele — Balance](https://www.last.fm/music/Olly+Steele/_/Balance)
-* [Rabea Massaad — Brute Force](https://www.last.fm/music/Rabea+Massaad/_/Brute+Force)
-* [Sungazer — Bird on the Wing](https://www.last.fm/music/Sungazer/_/Bird+on+the+Wing)
-* [Polyphia — Bad](https://www.last.fm/music/Polyphia/_/Bad)<!-- LASTFM:END -->
+* [Olly Steele — Balance](https://www.last.fm/music/Olly+Steele/_/Balance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
