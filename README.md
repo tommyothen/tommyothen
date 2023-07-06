@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)
+* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
+* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
-* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [Sungazer — Threshold](https://www.last.fm/music/Sungazer/_/Threshold)<!-- LASTFM:END -->
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
