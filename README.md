@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Euphoria](https://www.last.fm/music/Polyphia/_/Euphoria)
 * [Catbamboo — Afflicted](https://www.last.fm/music/Catbamboo/_/Afflicted)
 * [CHON — Sleepy Tea](https://www.last.fm/music/CHON/_/Sleepy+Tea)
 * [Good Tiger — Kimbal](https://www.last.fm/music/Good+Tiger/_/Kimbal)
-* [Ichikoro — SAMURAI](https://www.last.fm/music/Ichikoro/_/SAMURAI)
-* [Polyphia — Baditude](https://www.last.fm/music/Polyphia/_/Baditude)<!-- LASTFM:END -->
+* [Ichikoro — SAMURAI](https://www.last.fm/music/Ichikoro/_/SAMURAI)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
