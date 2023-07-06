@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Intervals — Lock &amp; Key](https://www.last.fm/music/Intervals/_/Lock+&amp;+Key)
+* [CHON — Waterslide](https://www.last.fm/music/CHON/_/Waterslide)
+* [Moray Pringle — Stabs](https://www.last.fm/music/Moray+Pringle/_/Stabs)
 * [Ichikoro — James?](https://www.last.fm/music/Ichikoro/_/James%3F)
-* [Polyphia — Storm](https://www.last.fm/music/Polyphia/_/Storm)
-* [Nyu. — Johnny Walker](https://www.last.fm/music/Nyu./_/Johnny+Walker)
-* [David Maxim Micic — of bliss](https://www.last.fm/music/David+Maxim+Micic/_/of+bliss)
-* [Mouse on the Keys — Time &lpar;feat. Mario Camarena of CHON&rpar;](https://www.last.fm/music/Mouse+on+the+Keys/_/Time+&lpar;feat.+Mario+Camarena+of+CHON&rpar;)<!-- LASTFM:END -->
+* [Polyphia — Storm](https://www.last.fm/music/Polyphia/_/Storm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
