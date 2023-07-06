@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Plini — Perfume](https://www.last.fm/music/Plini/_/Perfume)
+* [Dwellings — Hiding Your Numbers](https://www.last.fm/music/Dwellings/_/Hiding+Your+Numbers)
 * [Bilmuri — BOUTTA CASHEW](https://www.last.fm/music/Bilmuri/_/BOUTTA+CASHEW)
 * [CHON — Perfect Pillow](https://www.last.fm/music/CHON/_/Perfect+Pillow)
-* [Polyphia — Light](https://www.last.fm/music/Polyphia/_/Light)
-* [The Gentle Men — Your Boyfriend Doesn&#39;t Scare Me](https://www.last.fm/music/The+Gentle+Men/_/Your+Boyfriend+Doesn%27t+Scare+Me)
-* [Royal Coda — Becoming The Memory](https://www.last.fm/music/Royal+Coda/_/Becoming+The+Memory)<!-- LASTFM:END -->
+* [Polyphia — Light](https://www.last.fm/music/Polyphia/_/Light)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
