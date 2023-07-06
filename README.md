@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dream Theater — Scene Seven: I. The Dance of Eternity](https://www.last.fm/music/Dream+Theater/_/Scene+Seven:+I.+The+Dance+of+Eternity)
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [Plini — Perfume](https://www.last.fm/music/Plini/_/Perfume)
 * [Dwellings — Hiding Your Numbers](https://www.last.fm/music/Dwellings/_/Hiding+Your+Numbers)
-* [Bilmuri — BOUTTA CASHEW](https://www.last.fm/music/Bilmuri/_/BOUTTA+CASHEW)
-* [CHON — Perfect Pillow](https://www.last.fm/music/CHON/_/Perfect+Pillow)
-* [Polyphia — Light](https://www.last.fm/music/Polyphia/_/Light)<!-- LASTFM:END -->
+* [Bilmuri — BOUTTA CASHEW](https://www.last.fm/music/Bilmuri/_/BOUTTA+CASHEW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
