@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [The Surrealist — Origami](https://www.last.fm/music/The+Surrealist/_/Origami)
-* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
-* [Polyphia — Impassion](https://www.last.fm/music/Polyphia/_/Impassion)
-* [Polyphia — Transcend](https://www.last.fm/music/Polyphia/_/Transcend)
-* [Polyphia — Inspire](https://www.last.fm/music/Polyphia/_/Inspire)<!-- LASTFM:END -->
+* [The Koxx — 531](https://www.last.fm/music/The+Koxx/_/531)
+* [Plini — Other Things](https://www.last.fm/music/Plini/_/Other+Things)
+* [Arrow — Sprout](https://www.last.fm/music/Arrow/_/Sprout)
+* [Sungazer — Level One](https://www.last.fm/music/Sungazer/_/Level+One)
+* [Polyphia — G.O.A.T.](https://www.last.fm/music/Polyphia/_/G.O.A.T.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
