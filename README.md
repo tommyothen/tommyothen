@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ichikoro — Ally](https://www.last.fm/music/Ichikoro/_/Ally)
-* [Dwellings — Last](https://www.last.fm/music/Dwellings/_/Last)
-* [Y2K — Lalala - Polyphia Remix](https://www.last.fm/music/Y2K/_/Lalala+-+Polyphia+Remix)
-* [Shrezzers — Noodles](https://www.last.fm/music/Shrezzers/_/Noodles)
-* [Polyphia — Euphoria](https://www.last.fm/music/Polyphia/_/Euphoria)<!-- LASTFM:END -->
+* [David Maxim Micic — of bliss](https://www.last.fm/music/David+Maxim+Micic/_/of+bliss)
+* [Mouse on the Keys — Time &lpar;feat. Mario Camarena of CHON&rpar;](https://www.last.fm/music/Mouse+on+the+Keys/_/Time+&lpar;feat.+Mario+Camarena+of+CHON&rpar;)
+* [CHON — Petal](https://www.last.fm/music/CHON/_/Petal)
+* [Polyphia — Aviator](https://www.last.fm/music/Polyphia/_/Aviator)
+* [Ichikoro — Ally](https://www.last.fm/music/Ichikoro/_/Ally)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
