@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
+* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
 * [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
 * [Lil Uzi Vert — The End &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/The+End+&lpar;feat.+BABYMETAL&rpar;)
-* [Lil Uzi Vert — Werewolf &lpar;feat. Bring Me the Horizon&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/Werewolf+&lpar;feat.+Bring+Me+the+Horizon&rpar;)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [Polyphia — Inferno](https://www.last.fm/music/Polyphia/_/Inferno)<!-- LASTFM:END -->
+* [Lil Uzi Vert — Werewolf &lpar;feat. Bring Me the Horizon&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/Werewolf+&lpar;feat.+Bring+Me+the+Horizon&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
