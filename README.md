@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rob Scallon — rain](https://www.last.fm/music/Rob+Scallon/_/rain)
+* [CHON — Bubble Dream](https://www.last.fm/music/CHON/_/Bubble+Dream)
 * [Anomalie — Bond](https://www.last.fm/music/Anomalie/_/Bond)
 * [Catbamboo — Second Guess](https://www.last.fm/music/Catbamboo/_/Second+Guess)
-* [Polyphia — Paradise](https://www.last.fm/music/Polyphia/_/Paradise)
-* [Chronologist — Névé](https://www.last.fm/music/Chronologist/_/N%C3%A9v%C3%A9)
-* [Within Destruction — Sakura](https://www.last.fm/music/Within+Destruction/_/Sakura)<!-- LASTFM:END -->
+* [Polyphia — Paradise](https://www.last.fm/music/Polyphia/_/Paradise)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
