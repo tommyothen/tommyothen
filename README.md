@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Plini — Impulse Voices](https://www.last.fm/music/Plini/_/Impulse+Voices)
-* [Thank You Scientist — Gigglebutton](https://www.last.fm/music/Thank+You+Scientist/_/Gigglebutton)
-* [Paledusk — SLAY!!](https://www.last.fm/music/Paledusk/_/SLAY!!)
-* [Polyphia — Amour](https://www.last.fm/music/Polyphia/_/Amour)
-* [Intervals — 5-HTP](https://www.last.fm/music/Intervals/_/5-HTP)<!-- LASTFM:END -->
+* [A. Yarmak — Resonance](https://www.last.fm/music/A.+Yarmak/_/Resonance)
+* [Thrailkill — Exercise in Futility](https://www.last.fm/music/Thrailkill/_/Exercise+in+Futility)
+* [Polyphia — James Franco](https://www.last.fm/music/Polyphia/_/James+Franco)
+* [Sungazer — DRUNK](https://www.last.fm/music/Sungazer/_/DRUNK)
+* [Plini — Impulse Voices](https://www.last.fm/music/Plini/_/Impulse+Voices)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
