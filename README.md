@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [The Koxx — 531](https://www.last.fm/music/The+Koxx/_/531)
-* [Plini — Other Things](https://www.last.fm/music/Plini/_/Other+Things)
-* [Arrow — Sprout](https://www.last.fm/music/Arrow/_/Sprout)
-* [Sungazer — Level One](https://www.last.fm/music/Sungazer/_/Level+One)
-* [Polyphia — G.O.A.T.](https://www.last.fm/music/Polyphia/_/G.O.A.T.)<!-- LASTFM:END -->
+* [Plini — Every Piece Matters](https://www.last.fm/music/Plini/_/Every+Piece+Matters)
+* [Guthrie Govan — Wonderful Slippery Thing](https://www.last.fm/music/Guthrie+Govan/_/Wonderful+Slippery+Thing)
+* [Catbamboo — Interlude](https://www.last.fm/music/Catbamboo/_/Interlude)
+* [The Surrealist — Mira](https://www.last.fm/music/The+Surrealist/_/Mira)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
