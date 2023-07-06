@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Oceans Ate Alaska — Ukiyo](https://www.last.fm/music/Oceans+Ate+Alaska/_/Ukiyo)
-* [Animals as Leaders — The Problem of Other Minds](https://www.last.fm/music/Animals+as+Leaders/_/The+Problem+of+Other+Minds)
-* [Polyphia — The Audacity &lpar;feat. Anomalie&rpar;](https://www.last.fm/music/Polyphia/_/The+Audacity+&lpar;feat.+Anomalie&rpar;)
-* [Mothica — THE RECKONING &lpar;feat. Polyphia&rpar;](https://www.last.fm/music/Mothica/_/THE+RECKONING+&lpar;feat.+Polyphia&rpar;)
-* [A. Yarmak — Controlla](https://www.last.fm/music/A.+Yarmak/_/Controlla)<!-- LASTFM:END -->
+* [Thrailkill — Consciously](https://www.last.fm/music/Thrailkill/_/Consciously)
+* [CHON — Splash](https://www.last.fm/music/CHON/_/Splash)
+* [Polyphia — Yas](https://www.last.fm/music/Polyphia/_/Yas)
+* [Nyu. — Downstream](https://www.last.fm/music/Nyu./_/Downstream)
+* [The Surrealist — Self Spiral](https://www.last.fm/music/The+Surrealist/_/Self+Spiral)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
