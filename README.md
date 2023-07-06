@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)
+* [Berried Alive — Figsaw](https://www.last.fm/music/Berried+Alive/_/Figsaw)
 * [Sungazer — Macchina](https://www.last.fm/music/Sungazer/_/Macchina)
 * [Intervals — Fable](https://www.last.fm/music/Intervals/_/Fable)
-* [CHON — Book](https://www.last.fm/music/CHON/_/Book)
-* [Polyphia — O.D.](https://www.last.fm/music/Polyphia/_/O.D.)
-* [Animals as Leaders — Physical Education](https://www.last.fm/music/Animals+as+Leaders/_/Physical+Education)<!-- LASTFM:END -->
+* [CHON — Book](https://www.last.fm/music/CHON/_/Book)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
