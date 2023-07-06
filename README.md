@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [CHON — Book](https://www.last.fm/music/CHON/_/Book)
+* [Polyphia — O.D.](https://www.last.fm/music/Polyphia/_/O.D.)
+* [Animals as Leaders — Physical Education](https://www.last.fm/music/Animals+as+Leaders/_/Physical+Education)
 * [Catbamboo — Swindle](https://www.last.fm/music/Catbamboo/_/Swindle)
-* [Plini — Kind](https://www.last.fm/music/Plini/_/Kind)
-* [Shokran — Interlude](https://www.last.fm/music/Shokran/_/Interlude)
-* [Polyphia — Genesis &lpar;feat. Brasstracks&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;feat.+Brasstracks&rpar;)
-* [Shokran — Revival of Darkness &lpar;Instrumental&rpar;](https://www.last.fm/music/Shokran/_/Revival+of+Darkness+&lpar;Instrumental&rpar;)<!-- LASTFM:END -->
+* [Plini — Kind](https://www.last.fm/music/Plini/_/Kind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
