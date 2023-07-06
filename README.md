@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chronologist — Névé](https://www.last.fm/music/Chronologist/_/N%C3%A9v%C3%A9)
+* [Within Destruction — Sakura](https://www.last.fm/music/Within+Destruction/_/Sakura)
 * [A. Yarmak — Resonance](https://www.last.fm/music/A.+Yarmak/_/Resonance)
 * [Thrailkill — Exercise in Futility](https://www.last.fm/music/Thrailkill/_/Exercise+in+Futility)
-* [Polyphia — James Franco](https://www.last.fm/music/Polyphia/_/James+Franco)
-* [Sungazer — DRUNK](https://www.last.fm/music/Sungazer/_/DRUNK)
-* [Plini — Impulse Voices](https://www.last.fm/music/Plini/_/Impulse+Voices)<!-- LASTFM:END -->
+* [Polyphia — James Franco](https://www.last.fm/music/Polyphia/_/James+Franco)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
