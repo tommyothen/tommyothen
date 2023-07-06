@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [av4ln — syrupy](https://www.last.fm/music/av4ln/_/syrupy)
+* [VARRA — BIRDO II](https://www.last.fm/music/VARRA/_/BIRDO+II)
 * [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)
 * [Berried Alive — Figsaw](https://www.last.fm/music/Berried+Alive/_/Figsaw)
-* [Sungazer — Macchina](https://www.last.fm/music/Sungazer/_/Macchina)
-* [Intervals — Fable](https://www.last.fm/music/Intervals/_/Fable)
-* [CHON — Book](https://www.last.fm/music/CHON/_/Book)<!-- LASTFM:END -->
+* [Sungazer — Macchina](https://www.last.fm/music/Sungazer/_/Macchina)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
