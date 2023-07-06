@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Catbamboo — Swindle](https://www.last.fm/music/Catbamboo/_/Swindle)
+* [Plini — Kind](https://www.last.fm/music/Plini/_/Kind)
+* [Shokran — Interlude](https://www.last.fm/music/Shokran/_/Interlude)
 * [Polyphia — Genesis &lpar;feat. Brasstracks&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;feat.+Brasstracks&rpar;)
-* [Shokran — Revival of Darkness &lpar;Instrumental&rpar;](https://www.last.fm/music/Shokran/_/Revival+of+Darkness+&lpar;Instrumental&rpar;)
-* [Catbamboo — Crave](https://www.last.fm/music/Catbamboo/_/Crave)
-* [Stage Kids — Welcome to the Jungle](https://www.last.fm/music/Stage+Kids/_/Welcome+to+the+Jungle)
-* [Nyu. — Stormy](https://www.last.fm/music/Nyu./_/Stormy)<!-- LASTFM:END -->
+* [Shokran — Revival of Darkness &lpar;Instrumental&rpar;](https://www.last.fm/music/Shokran/_/Revival+of+Darkness+&lpar;Instrumental&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
