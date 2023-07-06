@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Uzi Vert — Werewolf &lpar;feat. Bring Me the Horizon&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/Werewolf+&lpar;feat.+Bring+Me+the+Horizon&rpar;)
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [Polyphia — Inferno](https://www.last.fm/music/Polyphia/_/Inferno)
 * [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
-* [Polyphia — G.O.A.T.](https://www.last.fm/music/Polyphia/_/G.O.A.T.)
-* [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)
-* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)<!-- LASTFM:END -->
+* [Polyphia — G.O.A.T.](https://www.last.fm/music/Polyphia/_/G.O.A.T.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
