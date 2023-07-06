@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sungazer — Sequence Start](https://www.last.fm/music/Sungazer/_/Sequence+Start)
-* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
-* [ichika Nito — The World is still Beautiful](https://www.last.fm/music/ichika+Nito/_/The+World+is+still+Beautiful)
-* [Wolf &amp; Bear — Street Rat](https://www.last.fm/music/Wolf+&amp;+Bear/_/Street+Rat)
-* [Polyphia — Ivory](https://www.last.fm/music/Polyphia/_/Ivory)<!-- LASTFM:END -->
+* [Wolf &amp; Bear — Deleto](https://www.last.fm/music/Wolf+&amp;+Bear/_/Deleto)
+* [Dwellings — Pink Noise](https://www.last.fm/music/Dwellings/_/Pink+Noise)
+* [Walking Across Jupiter — Cube](https://www.last.fm/music/Walking+Across+Jupiter/_/Cube)
+* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
+* [Sungazer — Sequence Start](https://www.last.fm/music/Sungazer/_/Sequence+Start)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
