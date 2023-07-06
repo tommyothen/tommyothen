@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [A. Yarmak — Controlla](https://www.last.fm/music/A.+Yarmak/_/Controlla)
-* [Guthrie Govan — Hollywood Woman](https://www.last.fm/music/Guthrie+Govan/_/Hollywood+Woman)
-* [CHON — Ghost](https://www.last.fm/music/CHON/_/Ghost)
-* [Polyphia — Symmetry](https://www.last.fm/music/Polyphia/_/Symmetry)
-* [Intervals — Libra](https://www.last.fm/music/Intervals/_/Libra)<!-- LASTFM:END -->
+* [Oceans Ate Alaska — Ukiyo](https://www.last.fm/music/Oceans+Ate+Alaska/_/Ukiyo)
+* [Animals as Leaders — The Problem of Other Minds](https://www.last.fm/music/Animals+as+Leaders/_/The+Problem+of+Other+Minds)
+* [Polyphia — The Audacity &lpar;feat. Anomalie&rpar;](https://www.last.fm/music/Polyphia/_/The+Audacity+&lpar;feat.+Anomalie&rpar;)
+* [Mothica — THE RECKONING &lpar;feat. Polyphia&rpar;](https://www.last.fm/music/Mothica/_/THE+RECKONING+&lpar;feat.+Polyphia&rpar;)
+* [A. Yarmak — Controlla](https://www.last.fm/music/A.+Yarmak/_/Controlla)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
