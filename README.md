@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Intervals — Libra](https://www.last.fm/music/Intervals/_/Libra)
-* [Wolf &amp; Bear — Deleto](https://www.last.fm/music/Wolf+&amp;+Bear/_/Deleto)
-* [Dwellings — Pink Noise](https://www.last.fm/music/Dwellings/_/Pink+Noise)
-* [Walking Across Jupiter — Cube](https://www.last.fm/music/Walking+Across+Jupiter/_/Cube)
-* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)<!-- LASTFM:END -->
+* [A. Yarmak — Controlla](https://www.last.fm/music/A.+Yarmak/_/Controlla)
+* [Guthrie Govan — Hollywood Woman](https://www.last.fm/music/Guthrie+Govan/_/Hollywood+Woman)
+* [CHON — Ghost](https://www.last.fm/music/CHON/_/Ghost)
+* [Polyphia — Symmetry](https://www.last.fm/music/Polyphia/_/Symmetry)
+* [Intervals — Libra](https://www.last.fm/music/Intervals/_/Libra)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
