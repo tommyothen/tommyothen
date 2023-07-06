@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Bittersweet](https://www.last.fm/music/Polyphia/_/Bittersweet)
 * [Li-sa-X — チャラ・ヘッチャラ](https://www.last.fm/music/Li-sa-X/_/%E3%83%81%E3%83%A3%E3%83%A9%E3%83%BB%E3%83%98%E3%83%83%E3%83%81%E3%83%A3%E3%83%A9)
 * [Nyu. — Rude](https://www.last.fm/music/Nyu./_/Rude)
 * [CHON — Fluffy](https://www.last.fm/music/CHON/_/Fluffy)
-* [Dream Theater — Scene Seven: I. The Dance of Eternity](https://www.last.fm/music/Dream+Theater/_/Scene+Seven:+I.+The+Dance+of+Eternity)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)<!-- LASTFM:END -->
+* [Dream Theater — Scene Seven: I. The Dance of Eternity](https://www.last.fm/music/Dream+Theater/_/Scene+Seven:+I.+The+Dance+of+Eternity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
