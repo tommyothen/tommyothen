@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — forever//over](https://www.last.fm/music/Eden/_/forever%2F%2Fover)
 * [Miraie — Back to 2d](https://www.last.fm/music/Miraie/_/Back+to+2d)
 * [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)
 * [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
-* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
-* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)<!-- LASTFM:END -->
+* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
