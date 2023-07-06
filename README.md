@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
 * [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
 * [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
 * [Eden — sex](https://www.last.fm/music/Eden/_/sex)
-* [Eden — forever//over](https://www.last.fm/music/Eden/_/forever%2F%2Fover)
-* [Miraie — Back to 2d](https://www.last.fm/music/Miraie/_/Back+to+2d)<!-- LASTFM:END -->
+* [Eden — forever//over](https://www.last.fm/music/Eden/_/forever%2F%2Fover)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
