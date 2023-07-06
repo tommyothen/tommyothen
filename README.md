@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Intervals — 5-HTP](https://www.last.fm/music/Intervals/_/5-HTP)
-* [Sungazer — Ether](https://www.last.fm/music/Sungazer/_/Ether)
-* [Kyotaro&amp;Rikuo — Attention!](https://www.last.fm/music/Kyotaro&amp;Rikuo/_/Attention!)
-* [Franz Ferdinand — This fffire - new version](https://www.last.fm/music/Franz+Ferdinand/_/This+fffire+-+new+version)
-* [Polyphia — Rich Kids](https://www.last.fm/music/Polyphia/_/Rich+Kids)<!-- LASTFM:END -->
+* [Plini — Impulse Voices](https://www.last.fm/music/Plini/_/Impulse+Voices)
+* [Thank You Scientist — Gigglebutton](https://www.last.fm/music/Thank+You+Scientist/_/Gigglebutton)
+* [Paledusk — SLAY!!](https://www.last.fm/music/Paledusk/_/SLAY!!)
+* [Polyphia — Amour](https://www.last.fm/music/Polyphia/_/Amour)
+* [Intervals — 5-HTP](https://www.last.fm/music/Intervals/_/5-HTP)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
