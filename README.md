@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Light](https://www.last.fm/music/Polyphia/_/Light)
+* [The Gentle Men — Your Boyfriend Doesn&#39;t Scare Me](https://www.last.fm/music/The+Gentle+Men/_/Your+Boyfriend+Doesn%27t+Scare+Me)
 * [Royal Coda — Becoming The Memory](https://www.last.fm/music/Royal+Coda/_/Becoming+The+Memory)
 * [Mouse on the Keys — Spectres de Mouse](https://www.last.fm/music/Mouse+on+the+Keys/_/Spectres+de+Mouse)
-* [Thank You Scientist — Wrinkle](https://www.last.fm/music/Thank+You+Scientist/_/Wrinkle)
-* [Polyphia — Drown](https://www.last.fm/music/Polyphia/_/Drown)
-* [Intervals — Lock &amp; Key](https://www.last.fm/music/Intervals/_/Lock+&amp;+Key)<!-- LASTFM:END -->
+* [Thank You Scientist — Wrinkle](https://www.last.fm/music/Thank+You+Scientist/_/Wrinkle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
