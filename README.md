@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sungazer — Bird on the Wing](https://www.last.fm/music/Sungazer/_/Bird+on+the+Wing)
+* [Polyphia — Bad](https://www.last.fm/music/Polyphia/_/Bad)
 * [Rob Scallon — rain](https://www.last.fm/music/Rob+Scallon/_/rain)
 * [CHON — Bubble Dream](https://www.last.fm/music/CHON/_/Bubble+Dream)
-* [Anomalie — Bond](https://www.last.fm/music/Anomalie/_/Bond)
-* [Catbamboo — Second Guess](https://www.last.fm/music/Catbamboo/_/Second+Guess)
-* [Polyphia — Paradise](https://www.last.fm/music/Polyphia/_/Paradise)<!-- LASTFM:END -->
+* [Anomalie — Bond](https://www.last.fm/music/Anomalie/_/Bond)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
