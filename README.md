@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chris Brown — Next to You &lpar;feat. Justin Bieber&rpar;](https://www.last.fm/music/Chris+Brown/_/Next+to+You+&lpar;feat.+Justin+Bieber&rpar;)
+* [Whitney Houston — Million Dollar Bill - Frankie Knuckles Radio Mix](https://www.last.fm/music/Whitney+Houston/_/Million+Dollar+Bill+-+Frankie+Knuckles+Radio+Mix)
 * [Justin Bieber — Anyone](https://www.last.fm/music/Justin+Bieber/_/Anyone)
 * [Michael Bublé — Haven&#39;t Met You Yet](https://www.last.fm/music/Michael+Bubl%C3%A9/_/Haven%27t+Met+You+Yet)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [brakence — venus fly trap](https://www.last.fm/music/brakence/_/venus+fly+trap)<!-- LASTFM:END -->
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
