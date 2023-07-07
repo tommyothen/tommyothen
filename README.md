@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Stereophonics — C&#39;est La Vie](https://www.last.fm/music/Stereophonics/_/C%27est+La+Vie)
+* [Jonas Brothers — Waffle House](https://www.last.fm/music/Jonas+Brothers/_/Waffle+House)
 * [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)
 * [Little Mix — Power](https://www.last.fm/music/Little+Mix/_/Power)
-* [The Vamps — Last Night](https://www.last.fm/music/The+Vamps/_/Last+Night)
-* [Stiff Dylans — Ultraviolet - From &quot;Angus, Thongs and Perfect Snogging&quot;](https://www.last.fm/music/Stiff+Dylans/_/Ultraviolet+-+From+%22Angus,+Thongs+and+Perfect+Snogging%22)
-* [Lily Allen — Not Fair](https://www.last.fm/music/Lily+Allen/_/Not+Fair)<!-- LASTFM:END -->
+* [The Vamps — Last Night](https://www.last.fm/music/The+Vamps/_/Last+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
