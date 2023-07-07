@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)
+* [Little Mix — Power](https://www.last.fm/music/Little+Mix/_/Power)
+* [The Vamps — Last Night](https://www.last.fm/music/The+Vamps/_/Last+Night)
 * [Stiff Dylans — Ultraviolet - From &quot;Angus, Thongs and Perfect Snogging&quot;](https://www.last.fm/music/Stiff+Dylans/_/Ultraviolet+-+From+%22Angus,+Thongs+and+Perfect+Snogging%22)
-* [Lily Allen — Not Fair](https://www.last.fm/music/Lily+Allen/_/Not+Fair)
-* [Vincent Mason — A Little Too Good](https://www.last.fm/music/Vincent+Mason/_/A+Little+Too+Good)
-* [Taylor Swift — Sparks Fly](https://www.last.fm/music/Taylor+Swift/_/Sparks+Fly)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
+* [Lily Allen — Not Fair](https://www.last.fm/music/Lily+Allen/_/Not+Fair)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
