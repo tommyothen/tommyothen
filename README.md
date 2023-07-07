@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Stiff Dylans — Ultraviolet - From &quot;Angus, Thongs and Perfect Snogging&quot;](https://www.last.fm/music/Stiff+Dylans/_/Ultraviolet+-+From+%22Angus,+Thongs+and+Perfect+Snogging%22)
+* [Lily Allen — Not Fair](https://www.last.fm/music/Lily+Allen/_/Not+Fair)
+* [Vincent Mason — A Little Too Good](https://www.last.fm/music/Vincent+Mason/_/A+Little+Too+Good)
 * [Taylor Swift — Sparks Fly](https://www.last.fm/music/Taylor+Swift/_/Sparks+Fly)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [Ibeyi — Made of Gold - Edit](https://www.last.fm/music/Ibeyi/_/Made+of+Gold+-+Edit)
-* [Omi — Cheerleader - Felix Jaehn Remix Radio Edit](https://www.last.fm/music/Omi/_/Cheerleader+-+Felix+Jaehn+Remix+Radio+Edit)<!-- LASTFM:END -->
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
