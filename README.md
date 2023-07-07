@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [brakence — venus fly trap](https://www.last.fm/music/brakence/_/venus+fly+trap)
 * [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)
-* [brakence — venus fly trap](https://www.last.fm/music/brakence/_/venus+fly+trap)
-* [brakence — 5g](https://www.last.fm/music/brakence/_/5g)<!-- LASTFM:END -->
+* [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
