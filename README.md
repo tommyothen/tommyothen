@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
+* [MCR-T — My Barn My Rules](https://www.last.fm/music/MCR-T/_/My+Barn+My+Rules)
+* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
 * [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [Unlucky Morpheus — evolution - LIVE 2022 at Zepp DiverCity](https://www.last.fm/music/Unlucky+Morpheus/_/evolution+-+LIVE+2022+at+Zepp+DiverCity)
-* [Unlucky Morpheus — CADAVER](https://www.last.fm/music/Unlucky+Morpheus/_/CADAVER)
-* [Unlucky Morpheus — Opfer](https://www.last.fm/music/Unlucky+Morpheus/_/Opfer)
-* [Unlucky Morpheus — Dead Leaves Rising](https://www.last.fm/music/Unlucky+Morpheus/_/Dead+Leaves+Rising)<!-- LASTFM:END -->
+* [Unlucky Morpheus — evolution - LIVE 2022 at Zepp DiverCity](https://www.last.fm/music/Unlucky+Morpheus/_/evolution+-+LIVE+2022+at+Zepp+DiverCity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
