@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Moe Shop — Love Taste](https://www.last.fm/music/Moe+Shop/_/Love+Taste)
 * [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
 * [bbno$ — super saiyan flex](https://www.last.fm/music/bbno$/_/super+saiyan+flex)
 * [Tyler, the Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+the+Creator/_/EARFQUAKE)
-* [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)<!-- LASTFM:END -->
+* [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
