@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Unlucky Morpheus — Opfer](https://www.last.fm/music/Unlucky+Morpheus/_/Opfer)
 * [Unlucky Morpheus — Dead Leaves Rising](https://www.last.fm/music/Unlucky+Morpheus/_/Dead+Leaves+Rising)
 * [Unlucky Morpheus — Welcome to Valhalla](https://www.last.fm/music/Unlucky+Morpheus/_/Welcome+to+Valhalla)
 * [Unlucky Morpheus — Amaryllis](https://www.last.fm/music/Unlucky+Morpheus/_/Amaryllis)
-* [Unlucky Morpheus — Knight of Sword](https://www.last.fm/music/Unlucky+Morpheus/_/Knight+of+Sword)
-* [Unlucky Morpheus — Phantom Blood](https://www.last.fm/music/Unlucky+Morpheus/_/Phantom+Blood)<!-- LASTFM:END -->
+* [Unlucky Morpheus — Knight of Sword](https://www.last.fm/music/Unlucky+Morpheus/_/Knight+of+Sword)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
