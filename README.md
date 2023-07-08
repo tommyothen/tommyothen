@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Unlucky Morpheus — Phantom Blood](https://www.last.fm/music/Unlucky+Morpheus/_/Phantom+Blood)
 * [Unlucky Morpheus — Top of the &quot;M&quot;](https://www.last.fm/music/Unlucky+Morpheus/_/Top+of+the+%22M%22)
 * [Unlucky Morpheus — Angreifer](https://www.last.fm/music/Unlucky+Morpheus/_/Angreifer)
 * [Unlucky Morpheus — Black Pentagram](https://www.last.fm/music/Unlucky+Morpheus/_/Black+Pentagram)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)<!-- LASTFM:END -->
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
