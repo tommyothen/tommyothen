@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Kaminaki Sekai no Kamisama Katsudou - TV](https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou) - Watching - 0 of 12 episodes
 * [Wotaku ni Koi wa Muzukashii - TV](https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii) - Watching - 5 of 11 episodes
 * [Cyberpunk: Edgerunners - ONA](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners) - Watching - 6 of 10 episodes
 * [Fuufu Ijou, Koibito Miman. - TV](https://myanimelist.net/anime/50425/Fuufu_Ijou_Koibito_Miman) - Completed - 12 of 12 episodes
-* [Shinmai Maou no Testament Burst - TV](https://myanimelist.net/anime/30363/Shinmai_Maou_no_Testament_Burst) - Completed - 10 of 10 episodes
-* [Odd Taxi - TV](https://myanimelist.net/anime/46102/Odd_Taxi) - Watching - 1 of 13 episodes<!-- ANIME-LIST:END -->
+* [Shinmai Maou no Testament Burst - TV](https://myanimelist.net/anime/30363/Shinmai_Maou_no_Testament_Burst) - Completed - 10 of 10 episodes<!-- ANIME-LIST:END -->
