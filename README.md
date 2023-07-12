@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
+* [Girls&#39; Generation — Gee](https://www.last.fm/music/Girls%27+Generation/_/Gee)
+* [kanii — Heart Racing](https://www.last.fm/music/kanii/_/Heart+Racing)
 * [LE SSERAFIM — Blue Flame &lpar;2023 ver.&rpar;](https://www.last.fm/music/LE+SSERAFIM/_/Blue+Flame+&lpar;2023+ver.&rpar;)
-* [Fifty Fifty — Tell Me](https://www.last.fm/music/Fifty+Fifty/_/Tell+Me)
-* [NMIXX — DICE](https://www.last.fm/music/NMIXX/_/DICE)
-* [Dominic Fike — How Much Is Weed?](https://www.last.fm/music/Dominic+Fike/_/How+Much+Is+Weed%3F)
-* [Loona — Flip That](https://www.last.fm/music/Loona/_/Flip+That)<!-- LASTFM:END -->
+* [Fifty Fifty — Tell Me](https://www.last.fm/music/Fifty+Fifty/_/Tell+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
