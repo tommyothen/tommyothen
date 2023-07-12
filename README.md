@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)
+* [Yel — About Last Night..](https://www.last.fm/music/Yel/_/About+Last+Night..)
+* [LE SSERAFIM — UNFORGIVEN &lpar;feat. Nile Rodgers&rpar;](https://www.last.fm/music/LE+SSERAFIM/_/UNFORGIVEN+&lpar;feat.+Nile+Rodgers&rpar;)
 * [Hojean — Destiny](https://www.last.fm/music/Hojean/_/Destiny)
-* [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)
-* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
-* [Runner Boy — BACKWARDS](https://www.last.fm/music/Runner+Boy/_/BACKWARDS)
-* [LE SSERAFIM — Eve, Psyche &amp; The Bluebeard’s wife](https://www.last.fm/music/LE+SSERAFIM/_/Eve,+Psyche+&amp;+The+Bluebeard%E2%80%99s+wife)<!-- LASTFM:END -->
+* [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
