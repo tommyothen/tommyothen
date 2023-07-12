@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
-* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [Wonder Girls — Tell me &lpar;Sampling From `Two Of Hearts`&rpar;](https://www.last.fm/music/Wonder+Girls/_/Tell+me+&lpar;Sampling+From+%60Two+Of+Hearts%60&rpar;)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)<!-- LASTFM:END -->
+* [Takayoshi — apart of me](https://www.last.fm/music/Takayoshi/_/apart+of+me)
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
+* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)
+* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
