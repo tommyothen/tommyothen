@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
+* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)
+* [trndytrndy — hotel room](https://www.last.fm/music/trndytrndy/_/hotel+room)
+* [Takayoshi — apart of me](https://www.last.fm/music/Takayoshi/_/apart+of+me)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
