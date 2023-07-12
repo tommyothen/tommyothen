@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JYOCHO — 太陽と暮らしてきた](https://www.last.fm/music/JYOCHO/_/%E5%A4%AA%E9%99%BD%E3%81%A8%E6%9A%AE%E3%82%89%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F)
+* [tortuganónima — Ukiyo](https://www.last.fm/music/tortugan%C3%B3nima/_/Ukiyo)
+* [Giraffes? Giraffes! — When The Catholic Girls Go Camping, The Nicotine Vampires Rule Supreme.](https://www.last.fm/music/Giraffes%3F+Giraffes!/_/When+The+Catholic+Girls+Go+Camping,+The+Nicotine+Vampires+Rule+Supreme.)
 * [loqto — lo7.j-](https://www.last.fm/music/loqto/_/lo7.j-)
-* [Cuckoo — Autobahn Kidnapping](https://www.last.fm/music/Cuckoo/_/Autobahn+Kidnapping)
-* [Mouse on the Keys — Aom](https://www.last.fm/music/Mouse+on+the+Keys/_/Aom)
-* [Soha — A Reflexion](https://www.last.fm/music/Soha/_/A+Reflexion)
-* [百景 — ほんをよむ](https://www.last.fm/music/%E7%99%BE%E6%99%AF/_/%E3%81%BB%E3%82%93%E3%82%92%E3%82%88%E3%82%80)<!-- LASTFM:END -->
+* [Cuckoo — Autobahn Kidnapping](https://www.last.fm/music/Cuckoo/_/Autobahn+Kidnapping)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
