@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XG — GRL GVNG](https://www.last.fm/music/XG/_/GRL+GVNG)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)
-* [trndytrndy — hotel room](https://www.last.fm/music/trndytrndy/_/hotel+room)<!-- LASTFM:END -->
+* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
+* [Vansire — Think it Through](https://www.last.fm/music/Vansire/_/Think+it+Through)
+* [Hanbee — soft](https://www.last.fm/music/Hanbee/_/soft)
+* [The Millennial Club — feel the same - sped up](https://www.last.fm/music/The+Millennial+Club/_/feel+the+same+-+sped+up)
+* [XG — GRL GVNG](https://www.last.fm/music/XG/_/GRL+GVNG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
