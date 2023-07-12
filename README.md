@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)
-* [Hanbee — soft](https://www.last.fm/music/Hanbee/_/soft)
-* [IVE — I AM](https://www.last.fm/music/IVE/_/I+AM)
-* [f&lpar;x&rpar; — 미행 &lpar;그림자; Shadow&rpar;](https://www.last.fm/music/f&lpar;x&rpar;/_/%EB%AF%B8%ED%96%89+&lpar;%EA%B7%B8%EB%A6%BC%EC%9E%90;+Shadow&rpar;)
-* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)<!-- LASTFM:END -->
+* [PinkPantheress — I must apologise](https://www.last.fm/music/PinkPantheress/_/I+must+apologise)
+* [tripleS — Chowall](https://www.last.fm/music/tripleS/_/Chowall)
+* [NewJeans — Zero](https://www.last.fm/music/NewJeans/_/Zero)
+* [trndytrndy — hotel room](https://www.last.fm/music/trndytrndy/_/hotel+room)
+* [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
