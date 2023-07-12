@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
+* [MCR-T — My Barn My Rules](https://www.last.fm/music/MCR-T/_/My+Barn+My+Rules)
 * [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
 * [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Giraffes? Giraffes! — I Am S / H&lpar;Im&rpar;E[R] as You Am S / H&lpar;Im&rpar;E[R] as You Are Me and We Am I and I Are All Our Together: Our Collective Consciousness’ psychogenic Fugue](https://www.last.fm/music/Giraffes%3F+Giraffes!/_/I+Am+S+%2F+H&lpar;Im&rpar;E%5BR%5D+as+You+Am+S+%2F+H&lpar;Im&rpar;E%5BR%5D+as+You+Are+Me+and+We+Am+I+and+I+Are+All+Our+Together:+Our+Collective+Consciousness%E2%80%99+psychogenic+Fugue)
-* [TK from Ling tosite sigure — Shinkiro](https://www.last.fm/music/TK+from+Ling+tosite+sigure/_/Shinkiro)<!-- LASTFM:END -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
