@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LE SSERAFIM — Blue Flame &lpar;2023 ver.&rpar;](https://www.last.fm/music/LE+SSERAFIM/_/Blue+Flame+&lpar;2023+ver.&rpar;)
+* [Fifty Fifty — Tell Me](https://www.last.fm/music/Fifty+Fifty/_/Tell+Me)
 * [NMIXX — DICE](https://www.last.fm/music/NMIXX/_/DICE)
 * [Dominic Fike — How Much Is Weed?](https://www.last.fm/music/Dominic+Fike/_/How+Much+Is+Weed%3F)
-* [Loona — Flip That](https://www.last.fm/music/Loona/_/Flip+That)
-* [NewJeans — Hurt](https://www.last.fm/music/NewJeans/_/Hurt)
-* [LE SSERAFIM — The Hydra](https://www.last.fm/music/LE+SSERAFIM/_/The+Hydra)<!-- LASTFM:END -->
+* [Loona — Flip That](https://www.last.fm/music/Loona/_/Flip+That)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
