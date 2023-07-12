@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [百景 — ほんをよむ](https://www.last.fm/music/%E7%99%BE%E6%99%AF/_/%E3%81%BB%E3%82%93%E3%82%92%E3%82%88%E3%82%80)
-* [Polyphia — Goose](https://www.last.fm/music/Polyphia/_/Goose)
-* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [Lil Uzi Vert — Werewolf &lpar;feat. Bring Me the Horizon&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/Werewolf+&lpar;feat.+Bring+Me+the+Horizon&rpar;)<!-- LASTFM:END -->
+* [loqto — lo7.j-](https://www.last.fm/music/loqto/_/lo7.j-)
+* [Cuckoo — Autobahn Kidnapping](https://www.last.fm/music/Cuckoo/_/Autobahn+Kidnapping)
+* [Mouse on the Keys — Aom](https://www.last.fm/music/Mouse+on+the+Keys/_/Aom)
+* [Soha — A Reflexion](https://www.last.fm/music/Soha/_/A+Reflexion)
+* [百景 — ほんをよむ](https://www.last.fm/music/%E7%99%BE%E6%99%AF/_/%E3%81%BB%E3%82%93%E3%82%92%E3%82%88%E3%82%80)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
