@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
+* [Giraffes? Giraffes! — I Am S / H&lpar;Im&rpar;E[R] as You Am S / H&lpar;Im&rpar;E[R] as You Are Me and We Am I and I Are All Our Together: Our Collective Consciousness’ psychogenic Fugue](https://www.last.fm/music/Giraffes%3F+Giraffes!/_/I+Am+S+%2F+H&lpar;Im&rpar;E%5BR%5D+as+You+Am+S+%2F+H&lpar;Im&rpar;E%5BR%5D+as+You+Are+Me+and+We+Am+I+and+I+Are+All+Our+Together:+Our+Collective+Consciousness%E2%80%99+psychogenic+Fugue)
 * [TK from Ling tosite sigure — Shinkiro](https://www.last.fm/music/TK+from+Ling+tosite+sigure/_/Shinkiro)
 * [JYOCHO — 太陽と暮らしてきた](https://www.last.fm/music/JYOCHO/_/%E5%A4%AA%E9%99%BD%E3%81%A8%E6%9A%AE%E3%82%89%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F)
-* [mothercoat — nipple cider](https://www.last.fm/music/mothercoat/_/nipple+cider)
-* [tricot — On the Boom](https://www.last.fm/music/tricot/_/On+the+Boom)
-* [tricot — 真っ黒](https://www.last.fm/music/tricot/_/%E7%9C%9F%E3%81%A3%E9%BB%92)<!-- LASTFM:END -->
+* [mothercoat — nipple cider](https://www.last.fm/music/mothercoat/_/nipple+cider)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
