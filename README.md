@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [tripleS — Chowall](https://www.last.fm/music/tripleS/_/Chowall)
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
+* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)
 * [PinkPantheress — Attracted to You](https://www.last.fm/music/PinkPantheress/_/Attracted+to+You)
-* [NewJeans — New Jeans](https://www.last.fm/music/NewJeans/_/New+Jeans)
-* [Yel — What Am I To U?](https://www.last.fm/music/Yel/_/What+Am+I+To+U%3F)
-* [Runner Boy — BACKWARDS](https://www.last.fm/music/Runner+Boy/_/BACKWARDS)
-* [Takayoshi — when ur around](https://www.last.fm/music/Takayoshi/_/when+ur+around)<!-- LASTFM:END -->
+* [NewJeans — New Jeans](https://www.last.fm/music/NewJeans/_/New+Jeans)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
