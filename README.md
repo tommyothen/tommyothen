@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Runner Boy — BACKWARDS](https://www.last.fm/music/Runner+Boy/_/BACKWARDS)
+* [Takayoshi — when ur around](https://www.last.fm/music/Takayoshi/_/when+ur+around)
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
 * [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
-* [Vansire — Think it Through](https://www.last.fm/music/Vansire/_/Think+it+Through)
-* [Hanbee — soft](https://www.last.fm/music/Hanbee/_/soft)
-* [The Millennial Club — feel the same - sped up](https://www.last.fm/music/The+Millennial+Club/_/feel+the+same+-+sped+up)
-* [XG — GRL GVNG](https://www.last.fm/music/XG/_/GRL+GVNG)<!-- LASTFM:END -->
+* [Vansire — Think it Through](https://www.last.fm/music/Vansire/_/Think+it+Through)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
