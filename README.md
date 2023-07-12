@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
+* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
 * [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
 * [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)<!-- LASTFM:END -->
+* [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
