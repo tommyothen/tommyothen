@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
+* [tortuganónima — Ukiyo](https://www.last.fm/music/tortugan%C3%B3nima/_/Ukiyo)
 * [Takayoshi — apart of me - sped up](https://www.last.fm/music/Takayoshi/_/apart+of+me+-+sped+up)
 * [Take Van — In My Head](https://www.last.fm/music/Take+Van/_/In+My+Head)
-* [aespa — Spicy](https://www.last.fm/music/aespa/_/Spicy)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [Girls&#39; Generation — Gee](https://www.last.fm/music/Girls%27+Generation/_/Gee)<!-- LASTFM:END -->
+* [aespa — Spicy](https://www.last.fm/music/aespa/_/Spicy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
