@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JYOCHO — 太陽と暮らしてきた](https://www.last.fm/music/JYOCHO/_/%E5%A4%AA%E9%99%BD%E3%81%A8%E6%9A%AE%E3%82%89%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F)
+* [mothercoat — nipple cider](https://www.last.fm/music/mothercoat/_/nipple+cider)
+* [tricot — On the Boom](https://www.last.fm/music/tricot/_/On+the+Boom)
 * [tricot — 真っ黒](https://www.last.fm/music/tricot/_/%E7%9C%9F%E3%81%A3%E9%BB%92)
-* [österreich — 無能](https://www.last.fm/music/%C3%B6sterreich/_/%E7%84%A1%E8%83%BD)
-* [The Cabs — nigastu no heitai](https://www.last.fm/music/The+Cabs/_/nigastu+no+heitai)
-* [The Brown — Mosaic](https://www.last.fm/music/The+Brown/_/Mosaic)
-* [JYOCHO — 太陽と暮らしてきた](https://www.last.fm/music/JYOCHO/_/%E5%A4%AA%E9%99%BD%E3%81%A8%E6%9A%AE%E3%82%89%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F)<!-- LASTFM:END -->
+* [österreich — 無能](https://www.last.fm/music/%C3%B6sterreich/_/%E7%84%A1%E8%83%BD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
