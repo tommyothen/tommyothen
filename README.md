@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Flip That](https://www.last.fm/music/Loona/_/Flip+That)
+* [NewJeans — Hurt](https://www.last.fm/music/NewJeans/_/Hurt)
 * [LE SSERAFIM — The Hydra](https://www.last.fm/music/LE+SSERAFIM/_/The+Hydra)
 * [Hyejin — HOLD ME DOWN &lpar;INTERLUDE&rpar;](https://www.last.fm/music/Hyejin/_/HOLD+ME+DOWN+&lpar;INTERLUDE&rpar;)
-* [Yena — Intro ; Love is over](https://www.last.fm/music/Yena/_/Intro+;+Love+is+over)
-* [IVE — Kitsch](https://www.last.fm/music/IVE/_/Kitsch)
-* [JYOCHO — As the Gods Say - Maniac Ver.](https://www.last.fm/music/JYOCHO/_/As+the+Gods+Say+-+Maniac+Ver.)<!-- LASTFM:END -->
+* [Yena — Intro ; Love is over](https://www.last.fm/music/Yena/_/Intro+;+Love+is+over)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
