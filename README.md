@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JYOCHO — As the Gods Say - Maniac Ver.](https://www.last.fm/music/JYOCHO/_/As+the+Gods+Say+-+Maniac+Ver.)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
 * [PinkPantheress — I must apologise](https://www.last.fm/music/PinkPantheress/_/I+must+apologise)
 * [tripleS — Chowall](https://www.last.fm/music/tripleS/_/Chowall)
-* [NewJeans — Zero](https://www.last.fm/music/NewJeans/_/Zero)
-* [trndytrndy — hotel room](https://www.last.fm/music/trndytrndy/_/hotel+room)
-* [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)<!-- LASTFM:END -->
+* [NewJeans — Zero](https://www.last.fm/music/NewJeans/_/Zero)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
