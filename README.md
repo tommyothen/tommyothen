@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PinkPantheress — Attracted to You](https://www.last.fm/music/PinkPantheress/_/Attracted+to+You)
+* [NewJeans — Cookie](https://www.last.fm/music/NewJeans/_/Cookie)
+* [TWICE — MOONLIGHT SUNRISE](https://www.last.fm/music/TWICE/_/MOONLIGHT+SUNRISE)
 * [&lpar;G&rpar;I-DLE — Queencard](https://www.last.fm/music/&lpar;G&rpar;I-DLE/_/Queencard)
-* [XG — LEFT RIGHT](https://www.last.fm/music/XG/_/LEFT+RIGHT)
-* [The Millennial Club — feel the same - sped up](https://www.last.fm/music/The+Millennial+Club/_/feel+the+same+-+sped+up)
-* [Takayoshi — apart of me](https://www.last.fm/music/Takayoshi/_/apart+of+me)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)<!-- LASTFM:END -->
+* [XG — LEFT RIGHT](https://www.last.fm/music/XG/_/LEFT+RIGHT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
