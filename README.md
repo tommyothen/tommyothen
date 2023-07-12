@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [&lpar;G&rpar;I-DLE — Queencard](https://www.last.fm/music/&lpar;G&rpar;I-DLE/_/Queencard)
+* [XG — LEFT RIGHT](https://www.last.fm/music/XG/_/LEFT+RIGHT)
+* [The Millennial Club — feel the same - sped up](https://www.last.fm/music/The+Millennial+Club/_/feel+the+same+-+sped+up)
 * [Takayoshi — apart of me](https://www.last.fm/music/Takayoshi/_/apart+of+me)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)
-* [calica — Superficial Love](https://www.last.fm/music/calica/_/Superficial+Love)
-* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)<!-- LASTFM:END -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
