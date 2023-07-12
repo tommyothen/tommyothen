@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Takayoshi — apart of me - sped up](https://www.last.fm/music/Takayoshi/_/apart+of+me+-+sped+up)
+* [Take Van — In My Head](https://www.last.fm/music/Take+Van/_/In+My+Head)
+* [aespa — Spicy](https://www.last.fm/music/aespa/_/Spicy)
 * [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [Girls&#39; Generation — Gee](https://www.last.fm/music/Girls%27+Generation/_/Gee)
-* [kanii — Heart Racing](https://www.last.fm/music/kanii/_/Heart+Racing)
-* [LE SSERAFIM — Blue Flame &lpar;2023 ver.&rpar;](https://www.last.fm/music/LE+SSERAFIM/_/Blue+Flame+&lpar;2023+ver.&rpar;)
-* [Fifty Fifty — Tell Me](https://www.last.fm/music/Fifty+Fifty/_/Tell+Me)<!-- LASTFM:END -->
+* [Girls&#39; Generation — Gee](https://www.last.fm/music/Girls%27+Generation/_/Gee)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
