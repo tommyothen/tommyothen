@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billie Eilish — bury a friend](https://www.last.fm/music/Billie+Eilish/_/bury+a+friend)
+* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)
+* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
 * [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
-* [Call Me Karizma — Monster &lpar;Under My Bed&rpar;](https://www.last.fm/music/Call+Me+Karizma/_/Monster+&lpar;Under+My+Bed&rpar;)
-* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
-* [Knapsack — Nothing Less](https://www.last.fm/music/Knapsack/_/Nothing+Less)
-* [Glass Beach — bedroom community](https://www.last.fm/music/Glass+Beach/_/bedroom+community)<!-- LASTFM:END -->
+* [Call Me Karizma — Monster &lpar;Under My Bed&rpar;](https://www.last.fm/music/Call+Me+Karizma/_/Monster+&lpar;Under+My+Bed&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
