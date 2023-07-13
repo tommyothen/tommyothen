@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)
+* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
+* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
 * [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
-* [Myles Parrish — Kickback](https://www.last.fm/music/Myles+Parrish/_/Kickback)
-* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)
-* [Eden — Interlude](https://www.last.fm/music/Eden/_/Interlude)
-* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)<!-- LASTFM:END -->
+* [Myles Parrish — Kickback](https://www.last.fm/music/Myles+Parrish/_/Kickback)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
