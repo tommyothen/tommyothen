@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Call Me Karizma — Monster &lpar;Under My Bed&rpar;](https://www.last.fm/music/Call+Me+Karizma/_/Monster+&lpar;Under+My+Bed&rpar;)
 * [Lil Peep — Star Shopping](https://www.last.fm/music/Lil+Peep/_/Star+Shopping)
 * [Joji — YUKON &lpar;INTERLUDE&rpar;](https://www.last.fm/music/Joji/_/YUKON+&lpar;INTERLUDE&rpar;)
 * [XXXTENTACION — Floor 555](https://www.last.fm/music/XXXTENTACION/_/Floor+555)
-* [Emmure — You Asked For It](https://www.last.fm/music/Emmure/_/You+Asked+For+It)
-* [Kublai Khan TX — Antpile](https://www.last.fm/music/Kublai+Khan+TX/_/Antpile)<!-- LASTFM:END -->
+* [Emmure — You Asked For It](https://www.last.fm/music/Emmure/_/You+Asked+For+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
