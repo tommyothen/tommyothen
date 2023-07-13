@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Propane Nightmares - Grabbitz Remix](https://www.last.fm/music/Pendulum/_/Propane+Nightmares+-+Grabbitz+Remix)
+* [Dwellings — Pick Up Before You Go](https://www.last.fm/music/Dwellings/_/Pick+Up+Before+You+Go)
+* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
 * [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [Rich Brian — Love In My Pocket](https://www.last.fm/music/Rich+Brian/_/Love+In+My+Pocket)
-* [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
-* [Swervy — ART GANG MONEY &lpar;Feat. Reddy&rpar;](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY+&lpar;Feat.+Reddy&rpar;)
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)<!-- LASTFM:END -->
+* [Rich Brian — Love In My Pocket](https://www.last.fm/music/Rich+Brian/_/Love+In+My+Pocket)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
