@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Slayer — Delusions of Saviour](https://www.last.fm/music/Slayer/_/Delusions+of+Saviour)
-* [Korn — Twist](https://www.last.fm/music/Korn/_/Twist)
-* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
-* [Die Antwoord — Wat Kyk Jy?](https://www.last.fm/music/Die+Antwoord/_/Wat+Kyk+Jy%3F)
-* [Die Antwoord — I Don&#39;t Care](https://www.last.fm/music/Die+Antwoord/_/I+Don%27t+Care)<!-- LASTFM:END -->
+* [XXXTENTACION — Floor 555](https://www.last.fm/music/XXXTENTACION/_/Floor+555)
+* [Emmure — You Asked For It](https://www.last.fm/music/Emmure/_/You+Asked+For+It)
+* [Kublai Khan TX — Antpile](https://www.last.fm/music/Kublai+Khan+TX/_/Antpile)
+* [LANDMVRKS — Lost in a Wave](https://www.last.fm/music/LANDMVRKS/_/Lost+in+a+Wave)
+* [Slayer — Delusions of Saviour](https://www.last.fm/music/Slayer/_/Delusions+of+Saviour)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
