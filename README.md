@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
+* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
+* [Porter Robinson — Unison &lpar;Mikkas Remix&rpar;](https://www.last.fm/music/Porter+Robinson/_/Unison+&lpar;Mikkas+Remix&rpar;)
 * [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)
-* [NF — The Search](https://www.last.fm/music/NF/_/The+Search)
-* [Ryan Caraveo — Bang](https://www.last.fm/music/Ryan+Caraveo/_/Bang)
-* [Anderson .Paak — Come Down](https://www.last.fm/music/Anderson+.Paak/_/Come+Down)
-* [Virtual Riot — In My Head](https://www.last.fm/music/Virtual+Riot/_/In+My+Head)<!-- LASTFM:END -->
+* [NF — The Search](https://www.last.fm/music/NF/_/The+Search)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
