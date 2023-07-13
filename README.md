@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
+* [Myles Parrish — Kickback](https://www.last.fm/music/Myles+Parrish/_/Kickback)
 * [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)
 * [Eden — Interlude](https://www.last.fm/music/Eden/_/Interlude)
-* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)<!-- LASTFM:END -->
+* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
