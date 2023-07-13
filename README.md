@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)
+* [meltycanon — brittle &lpar;wake up&rpar;](https://www.last.fm/music/meltycanon/_/brittle+&lpar;wake+up&rpar;)
 * [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
 * [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
-* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
-* [Yung Gravy — BOOMIN](https://www.last.fm/music/Yung+Gravy/_/BOOMIN)
-* [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)<!-- LASTFM:END -->
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
