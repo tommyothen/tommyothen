@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
 * [Halberd — basement](https://www.last.fm/music/Halberd/_/basement)
 * [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)
 * [Blankz — Nakama](https://www.last.fm/music/Blankz/_/Nakama)
-* [D-Real [愛] — Candy](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Candy)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)<!-- LASTFM:END -->
+* [D-Real [愛] — Candy](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Candy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
