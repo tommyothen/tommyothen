@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
+* [System of a Down — Sugar](https://www.last.fm/music/System+of+a+Down/_/Sugar)
 * [Iron Maiden — The Trooper - 2015 remaster](https://www.last.fm/music/Iron+Maiden/_/The+Trooper+-+2015+remaster)
 * [Unlucky Morpheus — Black Pentagram](https://www.last.fm/music/Unlucky+Morpheus/_/Black+Pentagram)
-* [Imperial Circus Dead Decadence — 黄泉より聴こゆ、皇国の燈と焔の少女。](https://www.last.fm/music/Imperial+Circus+Dead+Decadence/_/%E9%BB%84%E6%B3%89%E3%82%88%E3%82%8A%E8%81%B4%E3%81%93%E3%82%86%E3%80%81%E7%9A%87%E5%9B%BD%E3%81%AE%E7%87%88%E3%81%A8%E7%84%94%E3%81%AE%E5%B0%91%E5%A5%B3%E3%80%82)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [Halberd — basement](https://www.last.fm/music/Halberd/_/basement)<!-- LASTFM:END -->
+* [Imperial Circus Dead Decadence — 黄泉より聴こゆ、皇国の燈と焔の少女。](https://www.last.fm/music/Imperial+Circus+Dead+Decadence/_/%E9%BB%84%E6%B3%89%E3%82%88%E3%82%8A%E8%81%B4%E3%81%93%E3%82%86%E3%80%81%E7%9A%87%E5%9B%BD%E3%81%AE%E7%87%88%E3%81%A8%E7%84%94%E3%81%AE%E5%B0%91%E5%A5%B3%E3%80%82)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
