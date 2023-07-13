@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Peep — Star Shopping](https://www.last.fm/music/Lil+Peep/_/Star+Shopping)
+* [Joji — YUKON &lpar;INTERLUDE&rpar;](https://www.last.fm/music/Joji/_/YUKON+&lpar;INTERLUDE&rpar;)
 * [XXXTENTACION — Floor 555](https://www.last.fm/music/XXXTENTACION/_/Floor+555)
 * [Emmure — You Asked For It](https://www.last.fm/music/Emmure/_/You+Asked+For+It)
-* [Kublai Khan TX — Antpile](https://www.last.fm/music/Kublai+Khan+TX/_/Antpile)
-* [LANDMVRKS — Lost in a Wave](https://www.last.fm/music/LANDMVRKS/_/Lost+in+a+Wave)
-* [Slayer — Delusions of Saviour](https://www.last.fm/music/Slayer/_/Delusions+of+Saviour)<!-- LASTFM:END -->
+* [Kublai Khan TX — Antpile](https://www.last.fm/music/Kublai+Khan+TX/_/Antpile)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
