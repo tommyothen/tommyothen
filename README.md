@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
 * [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
 * [Waterparks — Turbulent](https://www.last.fm/music/Waterparks/_/Turbulent)
-* [Corpse — CODE MISTAKE](https://www.last.fm/music/Corpse/_/CODE+MISTAKE)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [System of a Down — Sugar](https://www.last.fm/music/System+of+a+Down/_/Sugar)<!-- LASTFM:END -->
+* [Corpse — CODE MISTAKE](https://www.last.fm/music/Corpse/_/CODE+MISTAKE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
