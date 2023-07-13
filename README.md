@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
 * [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [LucidBeatz — with u](https://www.last.fm/music/LucidBeatz/_/with+u)
-* [Takayoshi — on ur mind](https://www.last.fm/music/Takayoshi/_/on+ur+mind)
-* [NewJeans — Cookie](https://www.last.fm/music/NewJeans/_/Cookie)<!-- LASTFM:END -->
+* [LucidBeatz — with u](https://www.last.fm/music/LucidBeatz/_/with+u)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
