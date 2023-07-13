@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SAGEISKAMI — GUNMA / BLOTTTER](https://www.last.fm/music/SAGEISKAMI/_/GUNMA+%2F+BLOTTTER)
+* [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)
+* [Post Malone — Goodbyes &lpar;feat. Young Thug&rpar;](https://www.last.fm/music/Post+Malone/_/Goodbyes+&lpar;feat.+Young+Thug&rpar;)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [Marc Madness — Tadi](https://www.last.fm/music/Marc+Madness/_/Tadi)
-* [Block B — 난리나](https://www.last.fm/music/Block+B/_/%EB%82%9C%EB%A6%AC%EB%82%98)
-* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
-* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)<!-- LASTFM:END -->
+* [Marc Madness — Tadi](https://www.last.fm/music/Marc+Madness/_/Tadi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
