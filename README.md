@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sub Urban — Freak &lpar;feat. REI AMI&rpar;](https://www.last.fm/music/Sub+Urban/_/Freak+&lpar;feat.+REI+AMI&rpar;)
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)
 * [meltycanon — brittle &lpar;wake up&rpar;](https://www.last.fm/music/meltycanon/_/brittle+&lpar;wake+up&rpar;)
-* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
-* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
-* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)<!-- LASTFM:END -->
+* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
