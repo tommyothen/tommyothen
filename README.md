@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [Marc Madness — Tadi](https://www.last.fm/music/Marc+Madness/_/Tadi)
 * [Block B — 난리나](https://www.last.fm/music/Block+B/_/%EB%82%9C%EB%A6%AC%EB%82%98)
 * [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
-* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
-* [Porter Robinson — Unison &lpar;Mikkas Remix&rpar;](https://www.last.fm/music/Porter+Robinson/_/Unison+&lpar;Mikkas+Remix&rpar;)<!-- LASTFM:END -->
+* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
