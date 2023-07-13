@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
+* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
 * [Yung Gravy — BOOMIN](https://www.last.fm/music/Yung+Gravy/_/BOOMIN)
-* [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)
-* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
-* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
-* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)<!-- LASTFM:END -->
+* [Rich Brian — Curious](https://www.last.fm/music/Rich+Brian/_/Curious)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
