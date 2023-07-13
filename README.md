@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
+* [Intervals — Belvedere](https://www.last.fm/music/Intervals/_/Belvedere)
 * [Thank You Scientist — Caverns](https://www.last.fm/music/Thank+You+Scientist/_/Caverns)
 * [Plini — birds](https://www.last.fm/music/Plini/_/birds)
-* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)
-* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
-* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)<!-- LASTFM:END -->
+* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
