@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
+* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
 * [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
 * [Intervals — Belvedere](https://www.last.fm/music/Intervals/_/Belvedere)
-* [Thank You Scientist — Caverns](https://www.last.fm/music/Thank+You+Scientist/_/Caverns)
-* [Plini — birds](https://www.last.fm/music/Plini/_/birds)
-* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)<!-- LASTFM:END -->
+* [Thank You Scientist — Caverns](https://www.last.fm/music/Thank+You+Scientist/_/Caverns)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
