@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slayer — Delusions of Saviour](https://www.last.fm/music/Slayer/_/Delusions+of+Saviour)
+* [Korn — Twist](https://www.last.fm/music/Korn/_/Twist)
+* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
 * [Die Antwoord — Wat Kyk Jy?](https://www.last.fm/music/Die+Antwoord/_/Wat+Kyk+Jy%3F)
-* [Die Antwoord — I Don&#39;t Care](https://www.last.fm/music/Die+Antwoord/_/I+Don%27t+Care)
-* [Die Antwoord — Ugly Boy](https://www.last.fm/music/Die+Antwoord/_/Ugly+Boy)
-* [Die Antwoord — Cookie Thumper!](https://www.last.fm/music/Die+Antwoord/_/Cookie+Thumper!)
-* [Coa White — Akiba &lpar;feat. kosame &amp; Ohiorabbit&rpar;](https://www.last.fm/music/Coa+White/_/Akiba+&lpar;feat.+kosame+&amp;+Ohiorabbit&rpar;)<!-- LASTFM:END -->
+* [Die Antwoord — I Don&#39;t Care](https://www.last.fm/music/Die+Antwoord/_/I+Don%27t+Care)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
