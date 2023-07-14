@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [Call Me Karizma — Monster &lpar;Under My Bed&rpar;](https://www.last.fm/music/Call+Me+Karizma/_/Monster+&lpar;Under+My+Bed&rpar;)
-* [Lil Peep — Star Shopping](https://www.last.fm/music/Lil+Peep/_/Star+Shopping)
-* [Joji — YUKON &lpar;INTERLUDE&rpar;](https://www.last.fm/music/Joji/_/YUKON+&lpar;INTERLUDE&rpar;)<!-- LASTFM:END -->
+* [Lil Peep — Star Shopping](https://www.last.fm/music/Lil+Peep/_/Star+Shopping)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
