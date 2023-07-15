@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)
+* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
+* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
 * [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
-* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
-* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)<!-- LASTFM:END -->
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
