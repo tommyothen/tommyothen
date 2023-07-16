@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Jarv &amp; Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&amp;+Thief/_/Slack-Jaw)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Drake — God&#39;s Plan](https://www.last.fm/music/Drake/_/God%27s+Plan)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
