@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Leigh-anne — Don&#39;t Say Love](https://www.last.fm/music/Leigh-anne/_/Don%27t+Say+Love)
+* [Tears for Fears — Everybody Wants to Rule the World](https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+to+Rule+the+World)
 * [Flo Rida — Whistle](https://www.last.fm/music/Flo+Rida/_/Whistle)
 * [Coldplay — A Sky Full of Stars](https://www.last.fm/music/Coldplay/_/A+Sky+Full+of+Stars)
-* [Avicii — The Nights](https://www.last.fm/music/Avicii/_/The+Nights)
-* [Cheryl — Fight for This Love](https://www.last.fm/music/Cheryl/_/Fight+for+This+Love)
-* [Avicii — Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)<!-- LASTFM:END -->
+* [Avicii — The Nights](https://www.last.fm/music/Avicii/_/The+Nights)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
