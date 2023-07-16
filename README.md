@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flo Rida — Whistle](https://www.last.fm/music/Flo+Rida/_/Whistle)
+* [Coldplay — A Sky Full of Stars](https://www.last.fm/music/Coldplay/_/A+Sky+Full+of+Stars)
 * [Avicii — The Nights](https://www.last.fm/music/Avicii/_/The+Nights)
 * [Cheryl — Fight for This Love](https://www.last.fm/music/Cheryl/_/Fight+for+This+Love)
-* [Avicii — Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)
-* [Jessie J — Price Tag](https://www.last.fm/music/Jessie+J/_/Price+Tag)
-* [Karmin — Brokenhearted](https://www.last.fm/music/Karmin/_/Brokenhearted)<!-- LASTFM:END -->
+* [Avicii — Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
