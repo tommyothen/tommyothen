@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wiley — Heatwave &lpar;Feat. Ms. D&rpar;](https://www.last.fm/music/Wiley/_/Heatwave+&lpar;Feat.+Ms.+D&rpar;)
+* [Tiësto — Ritual](https://www.last.fm/music/Ti%C3%ABsto/_/Ritual)
 * [Axwell /\ Ingrosso — More Than You Know](https://www.last.fm/music/Axwell+%2F%5C+Ingrosso/_/More+Than+You+Know)
 * [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)
-* [Becky Hill — Remember](https://www.last.fm/music/Becky+Hill/_/Remember)
-* [Major Lazer — Cold Water &lpar;feat. Justin Bieber &amp; MØ&rpar;](https://www.last.fm/music/Major+Lazer/_/Cold+Water+&lpar;feat.+Justin+Bieber+&amp;+M%C3%98&rpar;)
-* [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)<!-- LASTFM:END -->
+* [Becky Hill — Remember](https://www.last.fm/music/Becky+Hill/_/Remember)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
