@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Niklas Dee — Not Fair](https://www.last.fm/music/Niklas+Dee/_/Not+Fair)
+* [Flo Rida — Wild Ones &lpar;feat. Sia&rpar;](https://www.last.fm/music/Flo+Rida/_/Wild+Ones+&lpar;feat.+Sia&rpar;)
 * [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)
 * [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [Coldplay — Higher Power](https://www.last.fm/music/Coldplay/_/Higher+Power)
-* [Whitney Houston — Million Dollar Bill - Frankie Knuckles Radio Mix](https://www.last.fm/music/Whitney+Houston/_/Million+Dollar+Bill+-+Frankie+Knuckles+Radio+Mix)
-* [The 1975 — The Sound](https://www.last.fm/music/The+1975/_/The+Sound)<!-- LASTFM:END -->
+* [Coldplay — Higher Power](https://www.last.fm/music/Coldplay/_/Higher+Power)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
