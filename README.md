@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Two Door Cinema Club — What You Know](https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know)
 * [Jason Derulo — Ridin&#39; Solo](https://www.last.fm/music/Jason+Derulo/_/Ridin%27+Solo)
 * [Lady Gaga — Alejandro](https://www.last.fm/music/Lady+Gaga/_/Alejandro)
 * [Omi — Cheerleader - Felix Jaehn Remix Radio Edit](https://www.last.fm/music/Omi/_/Cheerleader+-+Felix+Jaehn+Remix+Radio+Edit)
-* [Rock Mafia — The Big Bang](https://www.last.fm/music/Rock+Mafia/_/The+Big+Bang)
-* [Travie McCoy — Billionaire &lpar;feat. Bruno Mars&rpar;](https://www.last.fm/music/Travie+McCoy/_/Billionaire+&lpar;feat.+Bruno+Mars&rpar;)<!-- LASTFM:END -->
+* [Rock Mafia — The Big Bang](https://www.last.fm/music/Rock+Mafia/_/The+Big+Bang)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
