@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Unlucky Morpheus — Top of the &quot;M&quot;](https://www.last.fm/music/Unlucky+Morpheus/_/Top+of+the+%22M%22)
 * [Unlucky Morpheus — Angreifer](https://www.last.fm/music/Unlucky+Morpheus/_/Angreifer)
 * [Unlucky Morpheus — Black Pentagram](https://www.last.fm/music/Unlucky+Morpheus/_/Black+Pentagram)
 * [THE ORAL CIGARETTES — Miss Tail](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Miss+Tail)
-* [Een Glish — Overflow](https://www.last.fm/music/Een+Glish/_/Overflow)
-* [Polyphia — Symmetry](https://www.last.fm/music/Polyphia/_/Symmetry)<!-- LASTFM:END -->
+* [Een Glish — Overflow](https://www.last.fm/music/Een+Glish/_/Overflow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
