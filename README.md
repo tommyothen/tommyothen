@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)
+* [Gabry Ponte — Thunder](https://www.last.fm/music/Gabry+Ponte/_/Thunder)
 * [Demi Lovato — Sorry Not Sorry &lpar;with Slash&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Sorry+Not+Sorry+&lpar;with+Slash&rpar;+-+Rock+Version)
 * [Takayoshi — apart of me](https://www.last.fm/music/Takayoshi/_/apart+of+me)
-* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
-* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
-* [bbno$ — namaste](https://www.last.fm/music/bbno$/_/namaste)<!-- LASTFM:END -->
+* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
