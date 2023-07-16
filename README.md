@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lady Gaga — Alejandro](https://www.last.fm/music/Lady+Gaga/_/Alejandro)
+* [Omi — Cheerleader - Felix Jaehn Remix Radio Edit](https://www.last.fm/music/Omi/_/Cheerleader+-+Felix+Jaehn+Remix+Radio+Edit)
 * [Rock Mafia — The Big Bang](https://www.last.fm/music/Rock+Mafia/_/The+Big+Bang)
 * [Travie McCoy — Billionaire &lpar;feat. Bruno Mars&rpar;](https://www.last.fm/music/Travie+McCoy/_/Billionaire+&lpar;feat.+Bruno+Mars&rpar;)
-* [Demi Lovato — Made in the USA](https://www.last.fm/music/Demi+Lovato/_/Made+in+the+USA)
-* [Zedd — Clarity](https://www.last.fm/music/Zedd/_/Clarity)
-* [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)<!-- LASTFM:END -->
+* [Demi Lovato — Made in the USA](https://www.last.fm/music/Demi+Lovato/_/Made+in+the+USA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
