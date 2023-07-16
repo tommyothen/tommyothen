@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Josh A — Marty McFly](https://www.last.fm/music/Josh+A/_/Marty+McFly)
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)<!-- LASTFM:END -->
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
