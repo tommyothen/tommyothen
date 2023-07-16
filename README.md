@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Avicii — Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)
+* [Jessie J — Price Tag](https://www.last.fm/music/Jessie+J/_/Price+Tag)
 * [Karmin — Brokenhearted](https://www.last.fm/music/Karmin/_/Brokenhearted)
 * [Bombay Bicycle Club — Luna](https://www.last.fm/music/Bombay+Bicycle+Club/_/Luna)
-* [Lady Gaga — Paparazzi](https://www.last.fm/music/Lady+Gaga/_/Paparazzi)
-* [Harry Styles — Satellite](https://www.last.fm/music/Harry+Styles/_/Satellite)
-* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)<!-- LASTFM:END -->
+* [Lady Gaga — Paparazzi](https://www.last.fm/music/Lady+Gaga/_/Paparazzi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
