@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lady Gaga — Paparazzi](https://www.last.fm/music/Lady+Gaga/_/Paparazzi)
+* [Harry Styles — Satellite](https://www.last.fm/music/Harry+Styles/_/Satellite)
 * [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)
 * [Niklas Dee — Not Fair](https://www.last.fm/music/Niklas+Dee/_/Not+Fair)
-* [Flo Rida — Wild Ones &lpar;feat. Sia&rpar;](https://www.last.fm/music/Flo+Rida/_/Wild+Ones+&lpar;feat.+Sia&rpar;)
-* [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)<!-- LASTFM:END -->
+* [Flo Rida — Wild Ones &lpar;feat. Sia&rpar;](https://www.last.fm/music/Flo+Rida/_/Wild+Ones+&lpar;feat.+Sia&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
