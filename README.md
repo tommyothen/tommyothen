@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — namaste](https://www.last.fm/music/bbno$/_/namaste)
 * [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)
 * [zach farache — lets just stay here](https://www.last.fm/music/zach+farache/_/lets+just+stay+here)
 * [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Unlucky Morpheus — Top of the &quot;M&quot;](https://www.last.fm/music/Unlucky+Morpheus/_/Top+of+the+%22M%22)<!-- LASTFM:END -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
