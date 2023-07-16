@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Snoop Dogg — Young, Wild &amp; Free &lpar;feat. Bruno Mars&rpar;](https://www.last.fm/music/Snoop+Dogg/_/Young,+Wild+&amp;+Free+&lpar;feat.+Bruno+Mars&rpar;)
+* [Demi Lovato — Cool for the Summer - ROCK Version](https://www.last.fm/music/Demi+Lovato/_/Cool+for+the+Summer+-+ROCK+Version)
 * [Demi Lovato — Sorry Not Sorry &lpar;with Slash&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Sorry+Not+Sorry+&lpar;with+Slash&rpar;+-+Rock+Version)
 * [Snoop Dogg — Young, Wild &amp; Free &lpar;feat. Bruno Mars&rpar;](https://www.last.fm/music/Snoop+Dogg/_/Young,+Wild+&amp;+Free+&lpar;feat.+Bruno+Mars&rpar;)
-* [Dizzee Rascal — Dance Wiv Me - Radio Edit](https://www.last.fm/music/Dizzee+Rascal/_/Dance+Wiv+Me+-+Radio+Edit)
-* [Scissor Sisters — I Don&#39;t Feel Like Dancin&#39;](https://www.last.fm/music/Scissor+Sisters/_/I+Don%27t+Feel+Like+Dancin%27)<!-- LASTFM:END -->
+* [Demi Lovato — Sorry Not Sorry &lpar;with Slash&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Sorry+Not+Sorry+&lpar;with+Slash&rpar;+-+Rock+Version)
+* [Snoop Dogg — Young, Wild &amp; Free &lpar;feat. Bruno Mars&rpar;](https://www.last.fm/music/Snoop+Dogg/_/Young,+Wild+&amp;+Free+&lpar;feat.+Bruno+Mars&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
