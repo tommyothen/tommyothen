@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Een Glish — Overflow](https://www.last.fm/music/Een+Glish/_/Overflow)
+* [Polyphia — Symmetry](https://www.last.fm/music/Polyphia/_/Symmetry)
+* [Polyphia — Goose](https://www.last.fm/music/Polyphia/_/Goose)
 * [Polyphia — So Strange](https://www.last.fm/music/Polyphia/_/So+Strange)
-* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [Polyphia — O.D.](https://www.last.fm/music/Polyphia/_/O.D.)
-* [Polyphia — Inferno](https://www.last.fm/music/Polyphia/_/Inferno)<!-- LASTFM:END -->
+* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
