@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Axwell /\ Ingrosso — More Than You Know](https://www.last.fm/music/Axwell+%2F%5C+Ingrosso/_/More+Than+You+Know)
+* [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)
 * [Becky Hill — Remember](https://www.last.fm/music/Becky+Hill/_/Remember)
 * [Major Lazer — Cold Water &lpar;feat. Justin Bieber &amp; MØ&rpar;](https://www.last.fm/music/Major+Lazer/_/Cold+Water+&lpar;feat.+Justin+Bieber+&amp;+M%C3%98&rpar;)
-* [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
-* [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)
-* [Gabry Ponte — Thunder](https://www.last.fm/music/Gabry+Ponte/_/Thunder)<!-- LASTFM:END -->
+* [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
