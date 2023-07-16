@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Two Door Cinema Club — What You Know](https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know)
-* [Jason Derulo — Ridin&#39; Solo](https://www.last.fm/music/Jason+Derulo/_/Ridin%27+Solo)
-* [Lady Gaga — Alejandro](https://www.last.fm/music/Lady+Gaga/_/Alejandro)
-* [Omi — Cheerleader - Felix Jaehn Remix Radio Edit](https://www.last.fm/music/Omi/_/Cheerleader+-+Felix+Jaehn+Remix+Radio+Edit)
-* [Rock Mafia — The Big Bang](https://www.last.fm/music/Rock+Mafia/_/The+Big+Bang)<!-- LASTFM:END -->
+* [Coldplay — Higher Power](https://www.last.fm/music/Coldplay/_/Higher+Power)
+* [Whitney Houston — Million Dollar Bill - Frankie Knuckles Radio Mix](https://www.last.fm/music/Whitney+Houston/_/Million+Dollar+Bill+-+Frankie+Knuckles+Radio+Mix)
+* [The 1975 — The Sound](https://www.last.fm/music/The+1975/_/The+Sound)
+* [The Saturdays — What About Us](https://www.last.fm/music/The+Saturdays/_/What+About+Us)
+* [Flo Rida — I Don&#39;t Like It, I Love It &lpar;feat. Robin Thicke &amp; Verdine White&rpar;](https://www.last.fm/music/Flo+Rida/_/I+Don%27t+Like+It,+I+Love+It+&lpar;feat.+Robin+Thicke+&amp;+Verdine+White&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
