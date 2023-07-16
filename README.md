@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Pendulum — Self vs Self &lpar;feat. In Flames&rpar;](https://www.last.fm/music/Pendulum/_/Self+vs+Self+&lpar;feat.+In+Flames&rpar;)
-* [The Prodigy — Smack My Bitch Up](https://www.last.fm/music/The+Prodigy/_/Smack+My+Bitch+Up)
-* [The Prodigy — Omen](https://www.last.fm/music/The+Prodigy/_/Omen)
-* [T2 — Heartbroken - Edit](https://www.last.fm/music/T2/_/Heartbroken+-+Edit)
-* [Radiohead — Exit Music &lpar;for a Film&rpar;](https://www.last.fm/music/Radiohead/_/Exit+Music+&lpar;for+a+Film&rpar;)<!-- LASTFM:END -->
+* [Venues — Haunted House](https://www.last.fm/music/Venues/_/Haunted+House)
+* [PRIMESHOCK — Everybody Dance Now](https://www.last.fm/music/PRIMESHOCK/_/Everybody+Dance+Now)
+* [Riot Shift — SAME AGAIN](https://www.last.fm/music/Riot+Shift/_/SAME+AGAIN)
+* [Electric Callboy — Pump It](https://www.last.fm/music/Electric+Callboy/_/Pump+It)
+* [Electric Callboy — Everytime We Touch - TEKKNO Version](https://www.last.fm/music/Electric+Callboy/_/Everytime+We+Touch+-+TEKKNO+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
