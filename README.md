@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Owl City — Good Time](https://www.last.fm/music/Owl+City/_/Good+Time)
 * [Niklas Dee — Not Fair](https://www.last.fm/music/Niklas+Dee/_/Not+Fair)
 * [Flo Rida — Wild Ones &lpar;feat. Sia&rpar;](https://www.last.fm/music/Flo+Rida/_/Wild+Ones+&lpar;feat.+Sia&rpar;)
 * [Kesha — Die Young](https://www.last.fm/music/Kesha/_/Die+Young)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [Coldplay — Higher Power](https://www.last.fm/music/Coldplay/_/Higher+Power)<!-- LASTFM:END -->
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
