@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nelly — Hey Porsche](https://www.last.fm/music/Nelly/_/Hey+Porsche)
 * [Usher — DJ Got Us Fallin&#39; in Love &lpar;feat. Pitbull&rpar;](https://www.last.fm/music/Usher/_/DJ+Got+Us+Fallin%27+in+Love+&lpar;feat.+Pitbull&rpar;)
 * [Harry Styles — Adore You](https://www.last.fm/music/Harry+Styles/_/Adore+You)
 * [Leigh-anne — Don&#39;t Say Love](https://www.last.fm/music/Leigh-anne/_/Don%27t+Say+Love)
-* [Tears for Fears — Everybody Wants to Rule the World](https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+to+Rule+the+World)
-* [Flo Rida — Whistle](https://www.last.fm/music/Flo+Rida/_/Whistle)<!-- LASTFM:END -->
+* [Tears for Fears — Everybody Wants to Rule the World](https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+to+Rule+the+World)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
