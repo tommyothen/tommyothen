@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zedd — Clarity](https://www.last.fm/music/Zedd/_/Clarity)
 * [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)
 * [Calvin Harris — This Is What You Came For](https://www.last.fm/music/Calvin+Harris/_/This+Is+What+You+Came+For)
 * [Zara Larsson — Lush Life](https://www.last.fm/music/Zara+Larsson/_/Lush+Life)
-* [Womack &amp; Womack — Teardrops](https://www.last.fm/music/Womack+&amp;+Womack/_/Teardrops)
-* [Avicii — Hey Brother](https://www.last.fm/music/Avicii/_/Hey+Brother)<!-- LASTFM:END -->
+* [Womack &amp; Womack — Teardrops](https://www.last.fm/music/Womack+&amp;+Womack/_/Teardrops)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
