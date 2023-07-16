@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Venues — Haunted House](https://www.last.fm/music/Venues/_/Haunted+House)
-* [PRIMESHOCK — Everybody Dance Now](https://www.last.fm/music/PRIMESHOCK/_/Everybody+Dance+Now)
-* [Riot Shift — SAME AGAIN](https://www.last.fm/music/Riot+Shift/_/SAME+AGAIN)
-* [Electric Callboy — Pump It](https://www.last.fm/music/Electric+Callboy/_/Pump+It)
-* [Electric Callboy — Everytime We Touch - TEKKNO Version](https://www.last.fm/music/Electric+Callboy/_/Everytime+We+Touch+-+TEKKNO+Version)<!-- LASTFM:END -->
+* [Bruno Mars — Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby)
+* [The Temper Trap — Sweet Disposition](https://www.last.fm/music/The+Temper+Trap/_/Sweet+Disposition)
+* [A Day to Remember — Mr. Highway&#39;s Thinking About the End](https://www.last.fm/music/A+Day+to+Remember/_/Mr.+Highway%27s+Thinking+About+the+End)
+* [JPEGMAFIA — Lean Beef Patty](https://www.last.fm/music/JPEGMAFIA/_/Lean+Beef+Patty)
+* [Venues — Haunted House](https://www.last.fm/music/Venues/_/Haunted+House)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
