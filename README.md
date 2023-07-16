@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Becky Hill — Remember](https://www.last.fm/music/Becky+Hill/_/Remember)
+* [Major Lazer — Cold Water &lpar;feat. Justin Bieber &amp; MØ&rpar;](https://www.last.fm/music/Major+Lazer/_/Cold+Water+&lpar;feat.+Justin+Bieber+&amp;+M%C3%98&rpar;)
+* [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
 * [Rihanna — Don&#39;t Stop the Music](https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music)
-* [Gabry Ponte — Thunder](https://www.last.fm/music/Gabry+Ponte/_/Thunder)
-* [Demi Lovato — Sorry Not Sorry &lpar;with Slash&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Sorry+Not+Sorry+&lpar;with+Slash&rpar;+-+Rock+Version)
-* [Takayoshi — apart of me](https://www.last.fm/music/Takayoshi/_/apart+of+me)
-* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)<!-- LASTFM:END -->
+* [Gabry Ponte — Thunder](https://www.last.fm/music/Gabry+Ponte/_/Thunder)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
