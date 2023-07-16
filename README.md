@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Takayoshi — apart of me](https://www.last.fm/music/Takayoshi/_/apart+of+me)
 * [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
 * [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
 * [bbno$ — namaste](https://www.last.fm/music/bbno$/_/namaste)
-* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)
-* [zach farache — lets just stay here](https://www.last.fm/music/zach+farache/_/lets+just+stay+here)<!-- LASTFM:END -->
+* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
