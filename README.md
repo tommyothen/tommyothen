@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [Harry Styles — Daylight](https://www.last.fm/music/Harry+Styles/_/Daylight)
 * [Rihanna — Needed Me](https://www.last.fm/music/Rihanna/_/Needed+Me)
-* [Demi Lovato — Heart Attack - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Heart+Attack+-+Rock+Version)
-* [Demi Lovato — Cool for the Summer - ROCK Version](https://www.last.fm/music/Demi+Lovato/_/Cool+for+the+Summer+-+ROCK+Version)<!-- LASTFM:END -->
+* [Demi Lovato — Heart Attack - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Heart+Attack+-+Rock+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
