@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
 * [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
-* [Harry Styles — Daylight](https://www.last.fm/music/Harry+Styles/_/Daylight)
-* [Rihanna — Needed Me](https://www.last.fm/music/Rihanna/_/Needed+Me)<!-- LASTFM:END -->
+* [Harry Styles — Daylight](https://www.last.fm/music/Harry+Styles/_/Daylight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
