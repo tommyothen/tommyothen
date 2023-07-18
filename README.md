@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [khai dreams — Travels](https://www.last.fm/music/khai+dreams/_/Travels)
 * [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
-* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
-* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)<!-- LASTFM:END -->
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
