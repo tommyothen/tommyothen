@@ -29,9 +29,9 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
-* [khai dreams — Travels](https://www.last.fm/music/khai+dreams/_/Travels)
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
-* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
+* [khai dreams — Travels](https://www.last.fm/music/khai+dreams/_/Travels)
 * [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
