@@ -36,7 +36,7 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
-* [Kaminaki Sekai no Kamisama Katsudou - TV](https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou) - Watching - 0 of 12 episodes
+* [Kaminaki Sekai no Kamisama Katsudou - TV](https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou) - Plan to Watch - 0 of 12 episodes
 * [Wotaku ni Koi wa Muzukashii - TV](https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii) - Watching - 5 of 11 episodes
 * [Cyberpunk: Edgerunners - ONA](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners) - Watching - 6 of 10 episodes
 * [Fuufu Ijou, Koibito Miman. - TV](https://myanimelist.net/anime/50425/Fuufu_Ijou_Koibito_Miman) - Completed - 12 of 12 episodes
