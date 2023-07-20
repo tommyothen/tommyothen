@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [Jawny — Anything You Want](https://www.last.fm/music/Jawny/_/Anything+You+Want)
 * [Beach Bunny — Cloud 9](https://www.last.fm/music/Beach+Bunny/_/Cloud+9)
 * [Aldn — precious](https://www.last.fm/music/Aldn/_/precious)
-* [Vansire — Metamodernity](https://www.last.fm/music/Vansire/_/Metamodernity)
-* [Alexander 23 — Girl](https://www.last.fm/music/Alexander+23/_/Girl)<!-- LASTFM:END -->
+* [Vansire — Metamodernity](https://www.last.fm/music/Vansire/_/Metamodernity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
