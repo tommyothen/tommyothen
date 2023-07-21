@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)
+* [Shinigami — luna](https://www.last.fm/music/Shinigami/_/luna)
 * [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [Jawny — Anything You Want](https://www.last.fm/music/Jawny/_/Anything+You+Want)
-* [Beach Bunny — Cloud 9](https://www.last.fm/music/Beach+Bunny/_/Cloud+9)
-* [Aldn — precious](https://www.last.fm/music/Aldn/_/precious)<!-- LASTFM:END -->
+* [Kieron Lee — Raincoat &lpar;feat. Chloe Ho&rpar;](https://www.last.fm/music/Kieron+Lee/_/Raincoat+&lpar;feat.+Chloe+Ho&rpar;)
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
