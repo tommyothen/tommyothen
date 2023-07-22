@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
 * [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)
 * [Swedish House Mafia — Don&#39;t You Worry Child - Radio Edit](https://www.last.fm/music/Swedish+House+Mafia/_/Don%27t+You+Worry+Child+-+Radio+Edit)
 * [Selena Gomez — Back to You](https://www.last.fm/music/Selena+Gomez/_/Back+to+You)
-* [Nicole Scherzinger — Don&#39;t Hold Your Breath](https://www.last.fm/music/Nicole+Scherzinger/_/Don%27t+Hold+Your+Breath)
-* [Taylor Swift — Sparks Fly](https://www.last.fm/music/Taylor+Swift/_/Sparks+Fly)<!-- LASTFM:END -->
+* [Nicole Scherzinger — Don&#39;t Hold Your Breath](https://www.last.fm/music/Nicole+Scherzinger/_/Don%27t+Hold+Your+Breath)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
