@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
-* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
-* [Leigh-anne — Don&#39;t Say Love](https://www.last.fm/music/Leigh-anne/_/Don%27t+Say+Love)
-* [Sigala — Stay the Night](https://www.last.fm/music/Sigala/_/Stay+the+Night)
-* [Fifth Harmony — That&#39;s My Girl](https://www.last.fm/music/Fifth+Harmony/_/That%27s+My+Girl)<!-- LASTFM:END -->
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
