@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [Leigh-anne — Don&#39;t Say Love](https://www.last.fm/music/Leigh-anne/_/Don%27t+Say+Love)
 * [Sigala — Stay the Night](https://www.last.fm/music/Sigala/_/Stay+the+Night)
 * [Fifth Harmony — That&#39;s My Girl](https://www.last.fm/music/Fifth+Harmony/_/That%27s+My+Girl)
-* [Rock Mafia — The Big Bang](https://www.last.fm/music/Rock+Mafia/_/The+Big+Bang)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)<!-- LASTFM:END -->
+* [Rock Mafia — The Big Bang](https://www.last.fm/music/Rock+Mafia/_/The+Big+Bang)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
