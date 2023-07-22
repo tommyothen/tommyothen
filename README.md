@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Selena Gomez — Back to You](https://www.last.fm/music/Selena+Gomez/_/Back+to+You)
+* [Nicole Scherzinger — Don&#39;t Hold Your Breath](https://www.last.fm/music/Nicole+Scherzinger/_/Don%27t+Hold+Your+Breath)
 * [Taylor Swift — Sparks Fly](https://www.last.fm/music/Taylor+Swift/_/Sparks+Fly)
 * [Rock City — Locked Away &lpar;feat. Adam Levine&rpar;](https://www.last.fm/music/Rock+City/_/Locked+Away+&lpar;feat.+Adam+Levine&rpar;)
-* [Tom Grennan — How Does It Feel](https://www.last.fm/music/Tom+Grennan/_/How+Does+It+Feel)
-* [Tiësto — Ritual](https://www.last.fm/music/Ti%C3%ABsto/_/Ritual)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
+* [Tom Grennan — How Does It Feel](https://www.last.fm/music/Tom+Grennan/_/How+Does+It+Feel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
