@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tom Grennan — How Does It Feel](https://www.last.fm/music/Tom+Grennan/_/How+Does+It+Feel)
+* [Tiësto — Ritual](https://www.last.fm/music/Ti%C3%ABsto/_/Ritual)
 * [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
-* [tortuganónima — Ukiyo](https://www.last.fm/music/tortugan%C3%B3nima/_/Ukiyo)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
+* [tortuganónima — Ukiyo](https://www.last.fm/music/tortugan%C3%B3nima/_/Ukiyo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
