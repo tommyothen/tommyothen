@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Post Malone — Sunflower - Spider-Man: Into the Spider-Verse](https://www.last.fm/music/Post+Malone/_/Sunflower+-+Spider-Man:+Into+the+Spider-Verse)
 * [X LOVERS — Dreams Where Ur Murdered](https://www.last.fm/music/X+LOVERS/_/Dreams+Where+Ur+Murdered)
 * [Yarmak — Пидарасия](https://www.last.fm/music/Yarmak/_/%D0%9F%D0%B8%D0%B4%D0%B0%D1%80%D0%B0%D1%81%D0%B8%D1%8F)
 * [Mac Miller — Hands](https://www.last.fm/music/Mac+Miller/_/Hands)
-* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
-* [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)<!-- LASTFM:END -->
+* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
