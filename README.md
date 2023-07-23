@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
 * [Ramirez — Glitter &amp; Gold](https://www.last.fm/music/Ramirez/_/Glitter+&amp;+Gold)
-* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)<!-- LASTFM:END -->
+* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
