@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Anderson .Paak — Come Down](https://www.last.fm/music/Anderson+.Paak/_/Come+Down)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [Porter Robinson — Years Of War - Rob Mayth Remix](https://www.last.fm/music/Porter+Robinson/_/Years+Of+War+-+Rob+Mayth+Remix)<!-- LASTFM:END -->
+* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
