@@ -28,9 +28,9 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JID — Workin Out](https://www.last.fm/music/JID/_/Workin+Out)
 * [YUNG BAE — Holding Your Hand](https://www.last.fm/music/YUNG+BAE/_/Holding+Your+Hand)
 * [brakence — dropout &lpar;w/ blackbear&rpar;](https://www.last.fm/music/brakence/_/dropout+&lpar;w%2F+blackbear&rpar;)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)<!-- LASTFM:END -->
 
