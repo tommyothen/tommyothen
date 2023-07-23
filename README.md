@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Noah Kahan — Orange Juice](https://www.last.fm/music/Noah+Kahan/_/Orange+Juice)
+* [Noah Kahan — Stick Season](https://www.last.fm/music/Noah+Kahan/_/Stick+Season)
+* [1017 ALYX 9SM — Famous Last Words &lpar;An Ode to Eaters&rpar;](https://www.last.fm/music/1017+ALYX+9SM/_/Famous+Last+Words+&lpar;An+Ode+to+Eaters&rpar;)
 * [Car Seat Headrest — &lpar;Joe Gets Kicked Out of School for Using&rpar; Drugs With Friends &lpar;But Says This Isn&#39;t a Problem&rpar;](https://www.last.fm/music/Car+Seat+Headrest/_/&lpar;Joe+Gets+Kicked+Out+of+School+for+Using&rpar;+Drugs+With+Friends+&lpar;But+Says+This+Isn%27t+a+Problem&rpar;)
-* [Paolo Nutini — Candy](https://www.last.fm/music/Paolo+Nutini/_/Candy)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)<!-- LASTFM:END -->
+* [Paolo Nutini — Candy](https://www.last.fm/music/Paolo+Nutini/_/Candy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
