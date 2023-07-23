@@ -31,8 +31,8 @@ Now Playing\
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
