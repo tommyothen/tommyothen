@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
+* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
 * [Noah Kahan — Orange Juice](https://www.last.fm/music/Noah+Kahan/_/Orange+Juice)
 * [Noah Kahan — Stick Season](https://www.last.fm/music/Noah+Kahan/_/Stick+Season)
-* [1017 ALYX 9SM — Famous Last Words &lpar;An Ode to Eaters&rpar;](https://www.last.fm/music/1017+ALYX+9SM/_/Famous+Last+Words+&lpar;An+Ode+to+Eaters&rpar;)
-* [Car Seat Headrest — &lpar;Joe Gets Kicked Out of School for Using&rpar; Drugs With Friends &lpar;But Says This Isn&#39;t a Problem&rpar;](https://www.last.fm/music/Car+Seat+Headrest/_/&lpar;Joe+Gets+Kicked+Out+of+School+for+Using&rpar;+Drugs+With+Friends+&lpar;But+Says+This+Isn%27t+a+Problem&rpar;)
-* [Paolo Nutini — Candy](https://www.last.fm/music/Paolo+Nutini/_/Candy)<!-- LASTFM:END -->
+* [1017 ALYX 9SM — Famous Last Words &lpar;An Ode to Eaters&rpar;](https://www.last.fm/music/1017+ALYX+9SM/_/Famous+Last+Words+&lpar;An+Ode+to+Eaters&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
