@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tennyson — Body Language &lpar;feat. Aloe Blacc&rpar;](https://www.last.fm/music/Tennyson/_/Body+Language+&lpar;feat.+Aloe+Blacc&rpar;)
+* [Chance the Rapper — Same Drugs](https://www.last.fm/music/Chance+the+Rapper/_/Same+Drugs)
 * [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
 * [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
-* [Tyler, the Creator — Tron Cat](https://www.last.fm/music/Tyler,+the+Creator/_/Tron+Cat)
-* [Kanye West — Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)
-* [D-Real [愛] — Coast Feels](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Coast+Feels)<!-- LASTFM:END -->
+* [Tyler, the Creator — Tron Cat](https://www.last.fm/music/Tyler,+the+Creator/_/Tron+Cat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
