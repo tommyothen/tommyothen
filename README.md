@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — Fuck Love &lpar;Feat. Trippie Redd&rpar;](https://www.last.fm/music/XXXTENTACION/_/Fuck+Love+&lpar;Feat.+Trippie+Redd&rpar;)
+* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)
 * [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
 * [Hieroglyphics — Make Your Move](https://www.last.fm/music/Hieroglyphics/_/Make+Your+Move)
-* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)
-* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
-* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)<!-- LASTFM:END -->
+* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
