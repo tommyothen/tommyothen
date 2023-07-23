@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kanye West — Lift Yourself](https://www.last.fm/music/Kanye+West/_/Lift+Yourself)
+* [Shane Martin — My Life Playlist](https://www.last.fm/music/Shane+Martin/_/My+Life+Playlist)
 * [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
 * [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
-* [Noah Kahan — Orange Juice](https://www.last.fm/music/Noah+Kahan/_/Orange+Juice)
-* [Noah Kahan — Stick Season](https://www.last.fm/music/Noah+Kahan/_/Stick+Season)
-* [1017 ALYX 9SM — Famous Last Words &lpar;An Ode to Eaters&rpar;](https://www.last.fm/music/1017+ALYX+9SM/_/Famous+Last+Words+&lpar;An+Ode+to+Eaters&rpar;)<!-- LASTFM:END -->
+* [Noah Kahan — Orange Juice](https://www.last.fm/music/Noah+Kahan/_/Orange+Juice)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
