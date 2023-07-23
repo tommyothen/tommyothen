@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [XXXTENTACION — Fuck Love &lpar;Feat. Trippie Redd&rpar;](https://www.last.fm/music/XXXTENTACION/_/Fuck+Love+&lpar;Feat.+Trippie+Redd&rpar;)
 * [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)
-* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
-* [Hieroglyphics — Make Your Move](https://www.last.fm/music/Hieroglyphics/_/Make+Your+Move)
-* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)<!-- LASTFM:END -->
+* [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
