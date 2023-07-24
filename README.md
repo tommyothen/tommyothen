@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Antoha MC — Небеса](https://www.last.fm/music/Antoha+MC/_/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%B0)
 * [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
 * [Josh A — No Chill &lpar;feat. Mr T Lexify&rpar;](https://www.last.fm/music/Josh+A/_/No+Chill+&lpar;feat.+Mr+T+Lexify&rpar;)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
