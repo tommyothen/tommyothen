@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)
 * [Neutral Milk Hotel — Holland, 1945](https://www.last.fm/music/Neutral+Milk+Hotel/_/Holland,+1945)
-* [100 gecs — Hollywood Baby](https://www.last.fm/music/100+gecs/_/Hollywood+Baby)
-* [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)
-* [Kill Bill: The Rapper — sleeptalking](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/sleeptalking)<!-- LASTFM:END -->
+* [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)
+* [Opgekonkerd — Wii Shop - Hardstyle Mix](https://www.last.fm/music/Opgekonkerd/_/Wii+Shop+-+Hardstyle+Mix)
+* [Neutral Milk Hotel — Holland, 1945](https://www.last.fm/music/Neutral+Milk+Hotel/_/Holland,+1945)
+* [100 gecs — Hollywood Baby](https://www.last.fm/music/100+gecs/_/Hollywood+Baby)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
