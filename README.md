@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kaoru Akimoto — 我がままなハイヒール](https://www.last.fm/music/Kaoru+Akimoto/_/%E6%88%91%E3%81%8C%E3%81%BE%E3%81%BE%E3%81%AA%E3%83%8F%E3%82%A4%E3%83%92%E3%83%BC%E3%83%AB)
+* [Hyper Potions — K.K. Cruisin&#39; &lpar;From &quot;Animal Crossing&quot;&rpar;](https://www.last.fm/music/Hyper+Potions/_/K.K.+Cruisin%27+&lpar;From+%22Animal+Crossing%22&rpar;)
 * [Qumu — Bubblegum K.K. &lpar;From &quot;Animal Crossing: New Leaf&quot;&rpar;](https://www.last.fm/music/Qumu/_/Bubblegum+K.K.+&lpar;From+%22Animal+Crossing:+New+Leaf%22&rpar;)
 * [Arcade Player — Coconut Mall &lpar;From &quot;Mario Kart Wii&quot;&rpar;](https://www.last.fm/music/Arcade+Player/_/Coconut+Mall+&lpar;From+%22Mario+Kart+Wii%22&rpar;)
-* [Qumu — Waluigi Pinball / Wario Stadium &lpar;From &quot;Mario Kart DS&quot;&rpar;](https://www.last.fm/music/Qumu/_/Waluigi+Pinball+%2F+Wario+Stadium+&lpar;From+%22Mario+Kart+DS%22&rpar;)
-* [Kaoru Akimoto — Dress Down](https://www.last.fm/music/Kaoru+Akimoto/_/Dress+Down)
-* [Bambee — Bumble Bee](https://www.last.fm/music/Bambee/_/Bumble+Bee)<!-- LASTFM:END -->
+* [Qumu — Waluigi Pinball / Wario Stadium &lpar;From &quot;Mario Kart DS&quot;&rpar;](https://www.last.fm/music/Qumu/_/Waluigi+Pinball+%2F+Wario+Stadium+&lpar;From+%22Mario+Kart+DS%22&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
