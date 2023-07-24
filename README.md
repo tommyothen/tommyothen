@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kristen Bell — Love Is an Open Door - From &quot;Frozen&quot;/Soundtrack Version](https://www.last.fm/music/Kristen+Bell/_/Love+Is+an+Open+Door+-+From+%22Frozen%22%2FSoundtrack+Version)
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
 * [Neutral Milk Hotel — Holland, 1945](https://www.last.fm/music/Neutral+Milk+Hotel/_/Holland,+1945)
 * [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)
-* [Opgekonkerd — Wii Shop - Hardstyle Mix](https://www.last.fm/music/Opgekonkerd/_/Wii+Shop+-+Hardstyle+Mix)
-* [Neutral Milk Hotel — Holland, 1945](https://www.last.fm/music/Neutral+Milk+Hotel/_/Holland,+1945)
-* [100 gecs — Hollywood Baby](https://www.last.fm/music/100+gecs/_/Hollywood+Baby)<!-- LASTFM:END -->
+* [Opgekonkerd — Wii Shop - Hardstyle Mix](https://www.last.fm/music/Opgekonkerd/_/Wii+Shop+-+Hardstyle+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
