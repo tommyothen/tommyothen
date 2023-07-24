@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Parry Gripp — Do You Like Waffles?](https://www.last.fm/music/Parry+Gripp/_/Do+You+Like+Waffles%3F)
+* [Pauldizzle the Rapper — Chiggy Bong Bong](https://www.last.fm/music/Pauldizzle+the+Rapper/_/Chiggy+Bong+Bong)
 * [Lil Jesus — Taco Bell Nigga](https://www.last.fm/music/Lil+Jesus/_/Taco+Bell+Nigga)
 * [Getter Jaani — Rockefeller Street &lpar;New Nightcore&rpar; [#Rockefellerstreet Remix]](https://www.last.fm/music/Getter+Jaani/_/Rockefeller+Street+&lpar;New+Nightcore&rpar;+%5B%23Rockefellerstreet+Remix%5D)
-* [Whitney Houston — Million Dollar Bill - Frankie Knuckles Radio Mix](https://www.last.fm/music/Whitney+Houston/_/Million+Dollar+Bill+-+Frankie+Knuckles+Radio+Mix)
-* [Kylie Minogue — Can&#39;t Get You Out of My Head](https://www.last.fm/music/Kylie+Minogue/_/Can%27t+Get+You+Out+of+My+Head)
-* [Dwayne Johnson — You&#39;re Welcome](https://www.last.fm/music/Dwayne+Johnson/_/You%27re+Welcome)<!-- LASTFM:END -->
+* [Whitney Houston — Million Dollar Bill - Frankie Knuckles Radio Mix](https://www.last.fm/music/Whitney+Houston/_/Million+Dollar+Bill+-+Frankie+Knuckles+Radio+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
