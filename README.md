@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Neutral Milk Hotel — Holland, 1945](https://www.last.fm/music/Neutral+Milk+Hotel/_/Holland,+1945)
 * [100 gecs — Hollywood Baby](https://www.last.fm/music/100+gecs/_/Hollywood+Baby)
 * [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)
 * [Kill Bill: The Rapper — sleeptalking](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/sleeptalking)
-* [Tom Misch — Disco Yes](https://www.last.fm/music/Tom+Misch/_/Disco+Yes)
-* [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)<!-- LASTFM:END -->
+* [Tom Misch — Disco Yes](https://www.last.fm/music/Tom+Misch/_/Disco+Yes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
