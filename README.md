@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tom Misch — Disco Yes](https://www.last.fm/music/Tom+Misch/_/Disco+Yes)
 * [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)
 * [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)
 * [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
-* [Antoha MC — Небеса](https://www.last.fm/music/Antoha+MC/_/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%B0)<!-- LASTFM:END -->
+* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
