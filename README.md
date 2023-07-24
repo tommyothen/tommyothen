@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
+* [lucid sound. — SPONGEBOB CHASE SONG - REMIX](https://www.last.fm/music/lucid+sound./_/SPONGEBOB+CHASE+SONG+-+REMIX)
 * [Parry Gripp — Do You Like Waffles?](https://www.last.fm/music/Parry+Gripp/_/Do+You+Like+Waffles%3F)
 * [Pauldizzle the Rapper — Chiggy Bong Bong](https://www.last.fm/music/Pauldizzle+the+Rapper/_/Chiggy+Bong+Bong)
-* [Lil Jesus — Taco Bell Nigga](https://www.last.fm/music/Lil+Jesus/_/Taco+Bell+Nigga)
-* [Getter Jaani — Rockefeller Street &lpar;New Nightcore&rpar; [#Rockefellerstreet Remix]](https://www.last.fm/music/Getter+Jaani/_/Rockefeller+Street+&lpar;New+Nightcore&rpar;+%5B%23Rockefellerstreet+Remix%5D)
-* [Whitney Houston — Million Dollar Bill - Frankie Knuckles Radio Mix](https://www.last.fm/music/Whitney+Houston/_/Million+Dollar+Bill+-+Frankie+Knuckles+Radio+Mix)<!-- LASTFM:END -->
+* [Lil Jesus — Taco Bell Nigga](https://www.last.fm/music/Lil+Jesus/_/Taco+Bell+Nigga)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
