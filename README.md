@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Josh A — No Chill &lpar;feat. Mr T Lexify&rpar;](https://www.last.fm/music/Josh+A/_/No+Chill+&lpar;feat.+Mr+T+Lexify&rpar;)
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
+* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
