@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kylie Minogue — Can&#39;t Get You Out of My Head](https://www.last.fm/music/Kylie+Minogue/_/Can%27t+Get+You+Out+of+My+Head)
 * [Dwayne Johnson — You&#39;re Welcome](https://www.last.fm/music/Dwayne+Johnson/_/You%27re+Welcome)
 * [DJ in the Night — Chocolate &lpar;Choco Choco&rpar;](https://www.last.fm/music/DJ+in+the+Night/_/Chocolate+&lpar;Choco+Choco&rpar;)
 * [Cascada — Everytime We Touch - Nightcore &amp; KYANU Edit](https://www.last.fm/music/Cascada/_/Everytime+We+Touch+-+Nightcore+&amp;+KYANU+Edit)
-* [Laura Shigihara — Loonboon](https://www.last.fm/music/Laura+Shigihara/_/Loonboon)
-* [DJ Clent — Gimmie Head](https://www.last.fm/music/DJ+Clent/_/Gimmie+Head)<!-- LASTFM:END -->
+* [Laura Shigihara — Loonboon](https://www.last.fm/music/Laura+Shigihara/_/Loonboon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
