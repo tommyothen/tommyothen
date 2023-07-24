@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bambee — Bumble Bee](https://www.last.fm/music/Bambee/_/Bumble+Bee)
+* [Bambee — Bumble Bee](https://www.last.fm/music/Bambee/_/Bumble+Bee)
 * [Charlie Puth — Left and Right &lpar;feat. Jung Kook of BTS&rpar;](https://www.last.fm/music/Charlie+Puth/_/Left+and+Right+&lpar;feat.+Jung+Kook+of+BTS&rpar;)
 * [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)
-* [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [lucid sound. — SPONGEBOB CHASE SONG - REMIX](https://www.last.fm/music/lucid+sound./_/SPONGEBOB+CHASE+SONG+-+REMIX)<!-- LASTFM:END -->
+* [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
