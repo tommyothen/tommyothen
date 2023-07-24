@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Laura Shigihara — Loonboon](https://www.last.fm/music/Laura+Shigihara/_/Loonboon)
+* [DJ Clent — Gimmie Head](https://www.last.fm/music/DJ+Clent/_/Gimmie+Head)
+* [Auli&#39;i Cravalho — How Far I&#39;ll Go](https://www.last.fm/music/Auli%27i+Cravalho/_/How+Far+I%27ll+Go)
 * [Kristen Bell — Love Is an Open Door - From &quot;Frozen&quot;/Soundtrack Version](https://www.last.fm/music/Kristen+Bell/_/Love+Is+an+Open+Door+-+From+%22Frozen%22%2FSoundtrack+Version)
-* [CaptainSparklez — Fallen Kingdom](https://www.last.fm/music/CaptainSparklez/_/Fallen+Kingdom)
-* [Spongebob Squarepants — Ripped Pants](https://www.last.fm/music/Spongebob+Squarepants/_/Ripped+Pants)
-* [Aqua — Barbie Girl](https://www.last.fm/music/Aqua/_/Barbie+Girl)
-* [Kristen Bell — Love Is an Open Door - From &quot;Frozen&quot;/Soundtrack Version](https://www.last.fm/music/Kristen+Bell/_/Love+Is+an+Open+Door+-+From+%22Frozen%22%2FSoundtrack+Version)<!-- LASTFM:END -->
+* [CaptainSparklez — Fallen Kingdom](https://www.last.fm/music/CaptainSparklez/_/Fallen+Kingdom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
