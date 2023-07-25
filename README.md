@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Shaggy — It Wasn&#39;t Me](https://www.last.fm/music/Shaggy/_/It+Wasn%27t+Me)
-* [Busted — Year 3000](https://www.last.fm/music/Busted/_/Year+3000)
-* [Taio Cruz — Dynamite](https://www.last.fm/music/Taio+Cruz/_/Dynamite)
-* [Westlife — Uptown Girl](https://www.last.fm/music/Westlife/_/Uptown+Girl)
-* [Pitbull — Fireball &lpar;feat. John Ryan&rpar;](https://www.last.fm/music/Pitbull/_/Fireball+&lpar;feat.+John+Ryan&rpar;)<!-- LASTFM:END -->
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
+* [Little Mix — Black Magic](https://www.last.fm/music/Little+Mix/_/Black+Magic)
+* [Justin Timberlake — CAN&#39;T STOP THE FEELING! &lpar;From DreamWorks Animation&#39;s &quot;Trolls&quot;&rpar;](https://www.last.fm/music/Justin+Timberlake/_/CAN%27T+STOP+THE+FEELING!+&lpar;From+DreamWorks+Animation%27s+%22Trolls%22&rpar;)
+* [Shaggy — It Wasn&#39;t Me](https://www.last.fm/music/Shaggy/_/It+Wasn%27t+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
