@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Black Lace — Hokey Cokey](https://www.last.fm/music/Black+Lace/_/Hokey+Cokey)
-* [Black Lace — I Am The Music Man](https://www.last.fm/music/Black+Lace/_/I+Am+The+Music+Man)
-* [Bob the Builder — Big Fish Little Fish](https://www.last.fm/music/Bob+the+Builder/_/Big+Fish+Little+Fish)
-* [Eli. — lucky blue jeans](https://www.last.fm/music/Eli./_/lucky+blue+jeans)
-* [Kiyotaka Sugiyama — ROLLING MEMORIES](https://www.last.fm/music/Kiyotaka+Sugiyama/_/ROLLING+MEMORIES)<!-- LASTFM:END -->
+* [Shaggy — It Wasn&#39;t Me](https://www.last.fm/music/Shaggy/_/It+Wasn%27t+Me)
+* [Busted — Year 3000](https://www.last.fm/music/Busted/_/Year+3000)
+* [Taio Cruz — Dynamite](https://www.last.fm/music/Taio+Cruz/_/Dynamite)
+* [Westlife — Uptown Girl](https://www.last.fm/music/Westlife/_/Uptown+Girl)
+* [Pitbull — Fireball &lpar;feat. John Ryan&rpar;](https://www.last.fm/music/Pitbull/_/Fireball+&lpar;feat.+John+Ryan&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
