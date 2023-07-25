@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Headhaunter — Intergalasstic II](https://www.last.fm/music/Headhaunter/_/Intergalasstic+II)
 * [Rich Brian — Seventeen](https://www.last.fm/music/Rich+Brian/_/Seventeen)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Little Mix — Black Magic](https://www.last.fm/music/Little+Mix/_/Black+Magic)
-* [Justin Timberlake — CAN&#39;T STOP THE FEELING! &lpar;From DreamWorks Animation&#39;s &quot;Trolls&quot;&rpar;](https://www.last.fm/music/Justin+Timberlake/_/CAN%27T+STOP+THE+FEELING!+&lpar;From+DreamWorks+Animation%27s+%22Trolls%22&rpar;)<!-- LASTFM:END -->
+* [Little Mix — Black Magic](https://www.last.fm/music/Little+Mix/_/Black+Magic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
