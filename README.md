@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
 * [Car Seat Headrest — Sleeping With Strangers](https://www.last.fm/music/Car+Seat+Headrest/_/Sleeping+With+Strangers)
 * [Car Seat Headrest — Anchorite &lpar;Love You Very Much&rpar;](https://www.last.fm/music/Car+Seat+Headrest/_/Anchorite+&lpar;Love+You+Very+Much&rpar;)
 * [Car Seat Headrest — We Can&#39;t Afford &lpar;Your Depression Anymore&rpar;](https://www.last.fm/music/Car+Seat+Headrest/_/We+Can%27t+Afford+&lpar;Your+Depression+Anymore&rpar;)
-* [Snow Patrol — Chasing Cars](https://www.last.fm/music/Snow+Patrol/_/Chasing+Cars)
-* [Car Seat Headrest — Kimochi Warui &lpar;When? When? When? When? When? When? When?&rpar;](https://www.last.fm/music/Car+Seat+Headrest/_/Kimochi+Warui+&lpar;When%3F+When%3F+When%3F+When%3F+When%3F+When%3F+When%3F&rpar;)<!-- LASTFM:END -->
+* [Snow Patrol — Chasing Cars](https://www.last.fm/music/Snow+Patrol/_/Chasing+Cars)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
