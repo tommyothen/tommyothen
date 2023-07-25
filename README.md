@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tennyson — Body Language &lpar;feat. Aloe Blacc&rpar;](https://www.last.fm/music/Tennyson/_/Body+Language+&lpar;feat.+Aloe+Blacc&rpar;)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [Kailee Morgue — Black Sheep](https://www.last.fm/music/Kailee+Morgue/_/Black+Sheep)
-* [Oliver Tree — Introspective](https://www.last.fm/music/Oliver+Tree/_/Introspective)
-* [Jorja Smith — On My Mind &lpar;Jorja Smith X Preditah&rpar;](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+&lpar;Jorja+Smith+X+Preditah&rpar;)
-* [Eden — Nocturne &lpar;Pierce Fulton Remix&rpar;](https://www.last.fm/music/Eden/_/Nocturne+&lpar;Pierce+Fulton+Remix&rpar;)
-* [Headhaunter — Intergalasstic II](https://www.last.fm/music/Headhaunter/_/Intergalasstic+II)<!-- LASTFM:END -->
+* [Oliver Tree — Introspective](https://www.last.fm/music/Oliver+Tree/_/Introspective)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
