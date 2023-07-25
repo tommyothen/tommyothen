@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hot Mulligan — Featuring Mark Hoppus](https://www.last.fm/music/Hot+Mulligan/_/Featuring+Mark+Hoppus)
+* [Hot Mulligan — Shouldn’t Have a Leg Hole but I Do](https://www.last.fm/music/Hot+Mulligan/_/Shouldn%E2%80%99t+Have+a+Leg+Hole+but+I+Do)
+* [Modern Baseball — Rock Bottom](https://www.last.fm/music/Modern+Baseball/_/Rock+Bottom)
 * [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
-* [BURNOUT SYNDROMES — ヒカリアレ-Moonlight Version-](https://www.last.fm/music/BURNOUT+SYNDROMES/_/%E3%83%92%E3%82%AB%E3%83%AA%E3%82%A2%E3%83%AC-Moonlight+Version-)
-* [Rich Brian — No Worries](https://www.last.fm/music/Rich+Brian/_/No+Worries)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
-* [Post Malone — I Fall Apart](https://www.last.fm/music/Post+Malone/_/I+Fall+Apart)<!-- LASTFM:END -->
+* [BURNOUT SYNDROMES — ヒカリアレ-Moonlight Version-](https://www.last.fm/music/BURNOUT+SYNDROMES/_/%E3%83%92%E3%82%AB%E3%83%AA%E3%82%A2%E3%83%AC-Moonlight+Version-)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
