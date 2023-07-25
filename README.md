@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Car Seat Headrest — It&#39;s Only Sex](https://www.last.fm/music/Car+Seat+Headrest/_/It%27s+Only+Sex)
+* [Hobo Johnson — Typical Story](https://www.last.fm/music/Hobo+Johnson/_/Typical+Story)
 * [Rav — YOU FUCKERS WERE ASKING FOR THIS ONE](https://www.last.fm/music/Rav/_/YOU+FUCKERS+WERE+ASKING+FOR+THIS+ONE)
 * [Hot Mulligan — Featuring Mark Hoppus](https://www.last.fm/music/Hot+Mulligan/_/Featuring+Mark+Hoppus)
-* [Hot Mulligan — Shouldn’t Have a Leg Hole but I Do](https://www.last.fm/music/Hot+Mulligan/_/Shouldn%E2%80%99t+Have+a+Leg+Hole+but+I+Do)
-* [Modern Baseball — Rock Bottom](https://www.last.fm/music/Modern+Baseball/_/Rock+Bottom)
-* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)<!-- LASTFM:END -->
+* [Hot Mulligan — Shouldn’t Have a Leg Hole but I Do](https://www.last.fm/music/Hot+Mulligan/_/Shouldn%E2%80%99t+Have+a+Leg+Hole+but+I+Do)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
