@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — No Worries](https://www.last.fm/music/Rich+Brian/_/No+Worries)
 * [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
 * [Post Malone — I Fall Apart](https://www.last.fm/music/Post+Malone/_/I+Fall+Apart)
 * [AL-X the Great — Rocketman &lpar;feat. Atlas &amp; Lando!&rpar;](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+&lpar;feat.+Atlas+&amp;+Lando!&rpar;)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
-* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)<!-- LASTFM:END -->
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
