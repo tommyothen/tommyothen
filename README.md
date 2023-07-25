@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
 * [BURNOUT SYNDROMES — ヒカリアレ-Moonlight Version-](https://www.last.fm/music/BURNOUT+SYNDROMES/_/%E3%83%92%E3%82%AB%E3%83%AA%E3%82%A2%E3%83%AC-Moonlight+Version-)
 * [Rich Brian — No Worries](https://www.last.fm/music/Rich+Brian/_/No+Worries)
 * [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
-* [Post Malone — I Fall Apart](https://www.last.fm/music/Post+Malone/_/I+Fall+Apart)
-* [AL-X the Great — Rocketman &lpar;feat. Atlas &amp; Lando!&rpar;](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+&lpar;feat.+Atlas+&amp;+Lando!&rpar;)<!-- LASTFM:END -->
+* [Post Malone — I Fall Apart](https://www.last.fm/music/Post+Malone/_/I+Fall+Apart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
