@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
+* [Coldplay — My Universe](https://www.last.fm/music/Coldplay/_/My+Universe)
 * [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)
-* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
-* [Car Seat Headrest — Sleeping With Strangers](https://www.last.fm/music/Car+Seat+Headrest/_/Sleeping+With+Strangers)
-* [Car Seat Headrest — Anchorite &lpar;Love You Very Much&rpar;](https://www.last.fm/music/Car+Seat+Headrest/_/Anchorite+&lpar;Love+You+Very+Much&rpar;)<!-- LASTFM:END -->
+* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
