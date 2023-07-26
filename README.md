@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)
 * [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)
 * [emune — Bonfire](https://www.last.fm/music/emune/_/Bonfire)
 * [Autograf — Simple &lpar;feat. Victoria Zaro&rpar;](https://www.last.fm/music/Autograf/_/Simple+&lpar;feat.+Victoria+Zaro&rpar;)
-* [S$DD — Learn to Love Me](https://www.last.fm/music/S$DD/_/Learn+to+Love+Me)
-* [EARTHGANG — Meditate &lpar;feat. J.I.D.&rpar;](https://www.last.fm/music/EARTHGANG/_/Meditate+&lpar;feat.+J.I.D.&rpar;)<!-- LASTFM:END -->
+* [S$DD — Learn to Love Me](https://www.last.fm/music/S$DD/_/Learn+to+Love+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
