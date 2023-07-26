@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Deca — Mammon&#39;s Mantra](https://www.last.fm/music/Deca/_/Mammon%27s+Mantra)
+* [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
-* [Coldplay — My Universe](https://www.last.fm/music/Coldplay/_/My+Universe)
-* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)
-* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)<!-- LASTFM:END -->
+* [Coldplay — My Universe](https://www.last.fm/music/Coldplay/_/My+Universe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
