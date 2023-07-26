@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [love-sadKiD — Cash](https://www.last.fm/music/love-sadKiD/_/Cash)
+* [Call Me Karizma — Rebels](https://www.last.fm/music/Call+Me+Karizma/_/Rebels)
 * [Rich Brian — Rapapapa &lpar;feat. RZA&rpar;](https://www.last.fm/music/Rich+Brian/_/Rapapapa+&lpar;feat.+RZA&rpar;)
 * [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
-* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
-* [Deca — Mammon&#39;s Mantra](https://www.last.fm/music/Deca/_/Mammon%27s+Mantra)
-* [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)<!-- LASTFM:END -->
+* [Eden — crash](https://www.last.fm/music/Eden/_/crash)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
