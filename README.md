@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)
+* [Yung Gravy — Kathleen](https://www.last.fm/music/Yung+Gravy/_/Kathleen)
 * [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
 * [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Moow — Reconcilation](https://www.last.fm/music/Moow/_/Reconcilation)
-* [bbno$ — I](https://www.last.fm/music/bbno$/_/I)<!-- LASTFM:END -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
