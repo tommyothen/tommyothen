@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
+* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
 * [Moow — Reconcilation](https://www.last.fm/music/Moow/_/Reconcilation)
-* [bbno$ — I](https://www.last.fm/music/bbno$/_/I)
-* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
-* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
+* [bbno$ — I](https://www.last.fm/music/bbno$/_/I)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
