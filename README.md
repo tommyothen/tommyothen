@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MISSIO — Rad Drugz](https://www.last.fm/music/MISSIO/_/Rad+Drugz)
+* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
 * [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
 * [Marmalade butcher — Floccinaucinihilipilification](https://www.last.fm/music/Marmalade+butcher/_/Floccinaucinihilipilification)
-* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)
-* [Yung Gravy — Kathleen](https://www.last.fm/music/Yung+Gravy/_/Kathleen)
-* [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)<!-- LASTFM:END -->
+* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
