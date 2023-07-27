@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Supercell — My Dearest&lpar;TV Edit&rpar;](https://www.last.fm/music/Supercell/_/My+Dearest&lpar;TV+Edit&rpar;)
 * [Porter Robinson — Natural Light - San Holo Remix](https://www.last.fm/music/Porter+Robinson/_/Natural+Light+-+San+Holo+Remix)
 * [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [Kanye West — Lift Yourself](https://www.last.fm/music/Kanye+West/_/Lift+Yourself)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
+* [Kanye West — Lift Yourself](https://www.last.fm/music/Kanye+West/_/Lift+Yourself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
