@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
 * [Kanye West — Lift Yourself](https://www.last.fm/music/Kanye+West/_/Lift+Yourself)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
-* [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)
-* [Slips &amp; Slurs — WiFi Tears](https://www.last.fm/music/Slips+&amp;+Slurs/_/WiFi+Tears)<!-- LASTFM:END -->
+* [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
