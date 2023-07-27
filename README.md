@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)
-* [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)
-* [emune — Bonfire](https://www.last.fm/music/emune/_/Bonfire)
-* [Autograf — Simple &lpar;feat. Victoria Zaro&rpar;](https://www.last.fm/music/Autograf/_/Simple+&lpar;feat.+Victoria+Zaro&rpar;)
-* [S$DD — Learn to Love Me](https://www.last.fm/music/S$DD/_/Learn+to+Love+Me)<!-- LASTFM:END -->
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
+* [DNMO — Sick Of You](https://www.last.fm/music/DNMO/_/Sick+Of+You)
+* [Yung Gravy — Mr. Clean](https://www.last.fm/music/Yung+Gravy/_/Mr.+Clean)
+* [Porter Robinson — Say My Name &lpar;Radio Edit&rpar;](https://www.last.fm/music/Porter+Robinson/_/Say+My+Name+&lpar;Radio+Edit&rpar;)
+* [bbno$ — bulletproof](https://www.last.fm/music/bbno$/_/bulletproof)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
