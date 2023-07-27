@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sub Focus — Solar System](https://www.last.fm/music/Sub+Focus/_/Solar+System)
+* [Top Bunk — Karma - After Hours Ibiza Night Club Remix](https://www.last.fm/music/Top+Bunk/_/Karma+-+After+Hours+Ibiza+Night+Club+Remix)
 * [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
 * [DNMO — Sick Of You](https://www.last.fm/music/DNMO/_/Sick+Of+You)
-* [Yung Gravy — Mr. Clean](https://www.last.fm/music/Yung+Gravy/_/Mr.+Clean)
-* [Porter Robinson — Say My Name &lpar;Radio Edit&rpar;](https://www.last.fm/music/Porter+Robinson/_/Say+My+Name+&lpar;Radio+Edit&rpar;)
-* [bbno$ — bulletproof](https://www.last.fm/music/bbno$/_/bulletproof)<!-- LASTFM:END -->
+* [Yung Gravy — Mr. Clean](https://www.last.fm/music/Yung+Gravy/_/Mr.+Clean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
