@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [FrankJavCee — Raining in L.A](https://www.last.fm/music/FrankJavCee/_/Raining+in+L.A)
-* [knowmadic — Beginnings](https://www.last.fm/music/knowmadic/_/Beginnings)
-* [D-Real [愛] — Until Next Time...](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Until+Next+Time...)
-* [Glass Animals — Tokyo Drifting &lpar;with Denzel Curry&rpar;](https://www.last.fm/music/Glass+Animals/_/Tokyo+Drifting+&lpar;with+Denzel+Curry&rpar;)
-* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)<!-- LASTFM:END -->
+* [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)
+* [Slips &amp; Slurs — WiFi Tears](https://www.last.fm/music/Slips+&amp;+Slurs/_/WiFi+Tears)
+* [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)
+* [Stonebank — The Government](https://www.last.fm/music/Stonebank/_/The+Government)
+* [Fliptrix — You&#39;ll Never Change](https://www.last.fm/music/Fliptrix/_/You%27ll+Never+Change)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
