@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
 * [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)
 * [Slips &amp; Slurs — WiFi Tears](https://www.last.fm/music/Slips+&amp;+Slurs/_/WiFi+Tears)
-* [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)
-* [Stonebank — The Government](https://www.last.fm/music/Stonebank/_/The+Government)<!-- LASTFM:END -->
+* [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
