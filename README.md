@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bibi — BIBI Vengeance](https://www.last.fm/music/Bibi/_/BIBI+Vengeance)
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
 * [Joji — 1AM FREESTYLE](https://www.last.fm/music/Joji/_/1AM+FREESTYLE)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [ENHYPEN — Polaroid Love](https://www.last.fm/music/ENHYPEN/_/Polaroid+Love)
-* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
-* [DPR IAN — zombie pop](https://www.last.fm/music/DPR+IAN/_/zombie+pop)<!-- LASTFM:END -->
+* [ENHYPEN — Polaroid Love](https://www.last.fm/music/ENHYPEN/_/Polaroid+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
