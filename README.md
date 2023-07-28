@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [Khantrast — She Bad](https://www.last.fm/music/Khantrast/_/She+Bad)
+* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
 * [Weston Estate — So Good](https://www.last.fm/music/Weston+Estate/_/So+Good)
-* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
-* [Eden — Sci-Fi](https://www.last.fm/music/Eden/_/Sci-Fi)
-* [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)
-* [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)<!-- LASTFM:END -->
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
