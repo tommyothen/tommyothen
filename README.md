@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)
 * [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)
 * [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
 * [Red Velvet — Bad Boy](https://www.last.fm/music/Red+Velvet/_/Bad+Boy)
-* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)
-* [EXO — Love Shot](https://www.last.fm/music/EXO/_/Love+Shot)<!-- LASTFM:END -->
+* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
