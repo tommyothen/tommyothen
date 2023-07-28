@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Stephen Sanchez — Until I Found You](https://www.last.fm/music/Stephen+Sanchez/_/Until+I+Found+You)
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
 * [rustage — Devil&#39;s Luck](https://www.last.fm/music/rustage/_/Devil%27s+Luck)
 * [Kxllswxtch — OH... LOVE?](https://www.last.fm/music/Kxllswxtch/_/OH...+LOVE%3F)
-* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
-* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [Joji — YUKON &lpar;INTERLUDE&rpar;](https://www.last.fm/music/Joji/_/YUKON+&lpar;INTERLUDE&rpar;)<!-- LASTFM:END -->
+* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
