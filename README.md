@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [rustage — Devil&#39;s Luck](https://www.last.fm/music/rustage/_/Devil%27s+Luck)
+* [Kxllswxtch — OH... LOVE?](https://www.last.fm/music/Kxllswxtch/_/OH...+LOVE%3F)
 * [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
 * [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [Joji — YUKON &lpar;INTERLUDE&rpar;](https://www.last.fm/music/Joji/_/YUKON+&lpar;INTERLUDE&rpar;)
-* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)<!-- LASTFM:END -->
+* [Joji — YUKON &lpar;INTERLUDE&rpar;](https://www.last.fm/music/Joji/_/YUKON+&lpar;INTERLUDE&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
