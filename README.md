@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NAYEON — POP!](https://www.last.fm/music/NAYEON/_/POP!)
+* [Red Velvet — 러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)
 * [Stephen Sanchez — Until I Found You](https://www.last.fm/music/Stephen+Sanchez/_/Until+I+Found+You)
 * [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
-* [rustage — Devil&#39;s Luck](https://www.last.fm/music/rustage/_/Devil%27s+Luck)
-* [Kxllswxtch — OH... LOVE?](https://www.last.fm/music/Kxllswxtch/_/OH...+LOVE%3F)
-* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)<!-- LASTFM:END -->
+* [rustage — Devil&#39;s Luck](https://www.last.fm/music/rustage/_/Devil%27s+Luck)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
