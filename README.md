@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — Hot Tub &lpar;with T-Pain &amp; Dillon Francis&rpar;](https://www.last.fm/music/Yung+Gravy/_/Hot+Tub+&lpar;with+T-Pain+&amp;+Dillon+Francis&rpar;)
 * [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
 * [Avicii — Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)
 * [Train — Drive By](https://www.last.fm/music/Train/_/Drive+By)
-* [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)
-* [brb. — honeymoon](https://www.last.fm/music/brb./_/honeymoon)<!-- LASTFM:END -->
+* [Maroon 5 — Moves Like Jagger - Studio Recording From &quot;The Voice&quot; Performance](https://www.last.fm/music/Maroon+5/_/Moves+Like+Jagger+-+Studio+Recording+From+%22The+Voice%22+Performance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
