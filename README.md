@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
+* [DPR IAN — zombie pop](https://www.last.fm/music/DPR+IAN/_/zombie+pop)
+* [MAX — Blueberry Eyes &lpar;feat. SUGA of BTS&rpar;](https://www.last.fm/music/MAX/_/Blueberry+Eyes+&lpar;feat.+SUGA+of+BTS&rpar;)
 * [brb. — my type](https://www.last.fm/music/brb./_/my+type)
-* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)
-* [d4vd — Here With Me](https://www.last.fm/music/d4vd/_/Here+With+Me)
-* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
-* [Fujii Kaze — Shinunoga E-Wa](https://www.last.fm/music/Fujii+Kaze/_/Shinunoga+E-Wa)<!-- LASTFM:END -->
+* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
