@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Sci-Fi](https://www.last.fm/music/Eden/_/Sci-Fi)
+* [Kanaria — アイデンティティ](https://www.last.fm/music/Kanaria/_/%E3%82%A2%E3%82%A4%E3%83%87%E3%83%B3%E3%83%86%E3%82%A3%E3%83%86%E3%82%A3)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [alt-J — Deadcrush](https://www.last.fm/music/alt-J/_/Deadcrush)
-* [alt-J — U&amp;ME](https://www.last.fm/music/alt-J/_/U&amp;ME)
-* [alt-J — Left Hand Free](https://www.last.fm/music/alt-J/_/Left+Hand+Free)
-* [alt-J — Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks)
-* [Negative 25 — ARE WE HAVING FUN YET?](https://www.last.fm/music/Negative+25/_/ARE+WE+HAVING+FUN+YET%3F)<!-- LASTFM:END -->
+* [alt-J — U&amp;ME](https://www.last.fm/music/alt-J/_/U&amp;ME)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
