@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [alt-J — Deadcrush](https://www.last.fm/music/alt-J/_/Deadcrush)
+* [alt-J — U&amp;ME](https://www.last.fm/music/alt-J/_/U&amp;ME)
 * [alt-J — Left Hand Free](https://www.last.fm/music/alt-J/_/Left+Hand+Free)
 * [alt-J — Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks)
-* [Negative 25 — ARE WE HAVING FUN YET?](https://www.last.fm/music/Negative+25/_/ARE+WE+HAVING+FUN+YET%3F)
-* [Yung Gravy — Hot Tub &lpar;with T-Pain &amp; Dillon Francis&rpar;](https://www.last.fm/music/Yung+Gravy/_/Hot+Tub+&lpar;with+T-Pain+&amp;+Dillon+Francis&rpar;)
-* [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)<!-- LASTFM:END -->
+* [Negative 25 — ARE WE HAVING FUN YET?](https://www.last.fm/music/Negative+25/_/ARE+WE+HAVING+FUN+YET%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
