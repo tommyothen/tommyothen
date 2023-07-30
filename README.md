@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BRADIO — オトナHIT PARADE](https://www.last.fm/music/BRADIO/_/%E3%82%AA%E3%83%88%E3%83%8AHIT+PARADE)
+* [Mrs. GREEN APPLE — インフェルノ](https://www.last.fm/music/Mrs.+GREEN+APPLE/_/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E)
 * [the peggies — センチメートル](https://www.last.fm/music/the+peggies/_/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB)
 * [松澤由美 — Kuusou mesorogii](https://www.last.fm/music/%E6%9D%BE%E6%BE%A4%E7%94%B1%E7%BE%8E/_/Kuusou+mesorogii)
-* [Hello Sleepwalkers — Goya no Machiawase](https://www.last.fm/music/Hello+Sleepwalkers/_/Goya+no+Machiawase)
-* [BRADIO — Flyers](https://www.last.fm/music/BRADIO/_/Flyers)
-* [Flow — GO!!!](https://www.last.fm/music/Flow/_/GO!!!)<!-- LASTFM:END -->
+* [Hello Sleepwalkers — Goya no Machiawase](https://www.last.fm/music/Hello+Sleepwalkers/_/Goya+no+Machiawase)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
