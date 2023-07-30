@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [11 Acorn Lane — Mellow Mouser](https://www.last.fm/music/11+Acorn+Lane/_/Mellow+Mouser)
 * [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
 * [Monty Datta — With Somebody Else](https://www.last.fm/music/Monty+Datta/_/With+Somebody+Else)
 * [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Niki — move!](https://www.last.fm/music/Niki/_/move!)
-* [Flowars — bloodsucker](https://www.last.fm/music/Flowars/_/bloodsucker)<!-- LASTFM:END -->
+* [Niki — move!](https://www.last.fm/music/Niki/_/move!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
