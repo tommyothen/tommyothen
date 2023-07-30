@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Team Akihabara — 배신의 해질녘/裏切りの夕焼け/Uragirino Yuuyake&lpar;듀라라라 오프닝&rpar;](https://www.last.fm/music/Team+Akihabara/_/%EB%B0%B0%EC%8B%A0%EC%9D%98+%ED%95%B4%EC%A7%88%EB%85%98%2F%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E5%A4%95%E7%84%BC%E3%81%91%2FUragirino+Yuuyake&lpar;%EB%93%80%EB%9D%BC%EB%9D%BC%EB%9D%BC+%EC%98%A4%ED%94%84%EB%8B%9D&rpar;)
+* [Cö shu Nie — asphyxia](https://www.last.fm/music/C%C3%B6+shu+Nie/_/asphyxia)
+* [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)
 * [TomppaBeats — like someone in love](https://www.last.fm/music/TomppaBeats/_/like+someone+in+love)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Kupla — Saudade](https://www.last.fm/music/Kupla/_/Saudade)
-* [11 Acorn Lane — Mellow Mouser](https://www.last.fm/music/11+Acorn+Lane/_/Mellow+Mouser)
-* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)<!-- LASTFM:END -->
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
