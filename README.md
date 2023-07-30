@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TomppaBeats — like someone in love](https://www.last.fm/music/TomppaBeats/_/like+someone+in+love)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Kupla — Saudade](https://www.last.fm/music/Kupla/_/Saudade)
 * [11 Acorn Lane — Mellow Mouser](https://www.last.fm/music/11+Acorn+Lane/_/Mellow+Mouser)
-* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
-* [Monty Datta — With Somebody Else](https://www.last.fm/music/Monty+Datta/_/With+Somebody+Else)<!-- LASTFM:END -->
+* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
