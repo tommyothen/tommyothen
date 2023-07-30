@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
+* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
 * [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)
-* [Eden — Sci-Fi](https://www.last.fm/music/Eden/_/Sci-Fi)
-* [Kanaria — アイデンティティ](https://www.last.fm/music/Kanaria/_/%E3%82%A2%E3%82%A4%E3%83%87%E3%83%B3%E3%83%86%E3%82%A3%E3%83%86%E3%82%A3)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [alt-J — Deadcrush](https://www.last.fm/music/alt-J/_/Deadcrush)<!-- LASTFM:END -->
+* [Eden — Sci-Fi](https://www.last.fm/music/Eden/_/Sci-Fi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
