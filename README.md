@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Tommy heavenly6 — PAPERMOON](https://www.last.fm/music/Tommy+heavenly6/_/PAPERMOON)
-* [BRADIO — オトナHIT PARADE](https://www.last.fm/music/BRADIO/_/%E3%82%AA%E3%83%88%E3%83%8AHIT+PARADE)<!-- LASTFM:END -->
+* [Tommy heavenly6 — PAPERMOON](https://www.last.fm/music/Tommy+heavenly6/_/PAPERMOON)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
