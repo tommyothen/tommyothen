@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mounika. — Cut My Hair](https://www.last.fm/music/Mounika./_/Cut+My+Hair)
 * [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Rich Brian — Vacant](https://www.last.fm/music/Rich+Brian/_/Vacant)
-* [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)<!-- LASTFM:END -->
+* [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
