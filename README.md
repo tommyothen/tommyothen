@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [MCR-T — My Barn My Rules](https://www.last.fm/music/MCR-T/_/My+Barn+My+Rules)
-* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
+* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
