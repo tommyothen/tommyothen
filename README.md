@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
+* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)
 * [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
 * [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
-* [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)
-* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
-* [Fliptrix — You&#39;ll Never Change](https://www.last.fm/music/Fliptrix/_/You%27ll+Never+Change)<!-- LASTFM:END -->
+* [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
