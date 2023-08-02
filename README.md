@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Anne-Marie — UNHEALTHY &lpar;feat. Shania Twain&rpar;](https://www.last.fm/music/Anne-Marie/_/UNHEALTHY+&lpar;feat.+Shania+Twain&rpar;)
+* [Chris Brown — Don&#39;t Wake Me Up](https://www.last.fm/music/Chris+Brown/_/Don%27t+Wake+Me+Up)
 * [OneRepublic — If I Lose Myself - Alesso vs OneRepublic](https://www.last.fm/music/OneRepublic/_/If+I+Lose+Myself+-+Alesso+vs+OneRepublic)
 * [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
-* [Joji — YEAH RIGHT](https://www.last.fm/music/Joji/_/YEAH+RIGHT)
-* [Joji — Feeling Like the End](https://www.last.fm/music/Joji/_/Feeling+Like+the+End)
-* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)<!-- LASTFM:END -->
+* [Joji — YEAH RIGHT](https://www.last.fm/music/Joji/_/YEAH+RIGHT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
