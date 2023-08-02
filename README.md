@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [MISSIO — Rad Drugz](https://www.last.fm/music/MISSIO/_/Rad+Drugz)
 * [Mounika. — Cut My Hair](https://www.last.fm/music/Mounika./_/Cut+My+Hair)
 * [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Rich Brian — Vacant](https://www.last.fm/music/Rich+Brian/_/Vacant)<!-- LASTFM:END -->
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
