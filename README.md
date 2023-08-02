@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
+* [The 1975 — If You’re Too Shy &lpar;Let Me Know&rpar;](https://www.last.fm/music/The+1975/_/If+You%E2%80%99re+Too+Shy+&lpar;Let+Me+Know&rpar;)
 * [Rita Ora — How We Do &lpar;Party&rpar;](https://www.last.fm/music/Rita+Ora/_/How+We+Do+&lpar;Party&rpar;)
 * [Miley Cyrus — Jaded](https://www.last.fm/music/Miley+Cyrus/_/Jaded)
-* [Julia Michaels — All Your Exes](https://www.last.fm/music/Julia+Michaels/_/All+Your+Exes)
-* [Taylor Swift — Blank Space](https://www.last.fm/music/Taylor+Swift/_/Blank+Space)
-* [Tiësto — Ritual](https://www.last.fm/music/Ti%C3%ABsto/_/Ritual)<!-- LASTFM:END -->
+* [Julia Michaels — All Your Exes](https://www.last.fm/music/Julia+Michaels/_/All+Your+Exes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
