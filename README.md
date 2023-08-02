@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)
+* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
 * [Fliptrix — You&#39;ll Never Change](https://www.last.fm/music/Fliptrix/_/You%27ll+Never+Change)
 * [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [MISSIO — Rad Drugz](https://www.last.fm/music/MISSIO/_/Rad+Drugz)<!-- LASTFM:END -->
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
