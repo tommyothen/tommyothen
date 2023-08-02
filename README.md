@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
 * [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
 * [IC3PEAK — Грустная сука](https://www.last.fm/music/IC3PEAK/_/%D0%93%D1%80%D1%83%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%81%D1%83%D0%BA%D0%B0)
 * [Antoha MC — Небеса](https://www.last.fm/music/Antoha+MC/_/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%B0)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
-* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)<!-- LASTFM:END -->
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
