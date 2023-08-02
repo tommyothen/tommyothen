@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cheryl — Crazy Stupid Love](https://www.last.fm/music/Cheryl/_/Crazy+Stupid+Love)
+* [Nicole Scherzinger — Don&#39;t Hold Your Breath](https://www.last.fm/music/Nicole+Scherzinger/_/Don%27t+Hold+Your+Breath)
 * [Selena Gomez — Let Me Get Me](https://www.last.fm/music/Selena+Gomez/_/Let+Me+Get+Me)
 * [Rock City — Locked Away &lpar;feat. Adam Levine&rpar;](https://www.last.fm/music/Rock+City/_/Locked+Away+&lpar;feat.+Adam+Levine&rpar;)
-* [Anne-Marie — UNHEALTHY &lpar;feat. Shania Twain&rpar;](https://www.last.fm/music/Anne-Marie/_/UNHEALTHY+&lpar;feat.+Shania+Twain&rpar;)
-* [Chris Brown — Don&#39;t Wake Me Up](https://www.last.fm/music/Chris+Brown/_/Don%27t+Wake+Me+Up)
-* [OneRepublic — If I Lose Myself - Alesso vs OneRepublic](https://www.last.fm/music/OneRepublic/_/If+I+Lose+Myself+-+Alesso+vs+OneRepublic)<!-- LASTFM:END -->
+* [Anne-Marie — UNHEALTHY &lpar;feat. Shania Twain&rpar;](https://www.last.fm/music/Anne-Marie/_/UNHEALTHY+&lpar;feat.+Shania+Twain&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
