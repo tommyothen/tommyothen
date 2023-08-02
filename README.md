@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
 * [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
 * [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)<!-- LASTFM:END -->
+* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
