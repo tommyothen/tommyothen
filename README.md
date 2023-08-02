@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
 * [88rising — Breathe](https://www.last.fm/music/88rising/_/Breathe)
 * [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
 * [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
-* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)<!-- LASTFM:END -->
+* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
