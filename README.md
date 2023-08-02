@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — Blank Space](https://www.last.fm/music/Taylor+Swift/_/Blank+Space)
+* [Tiësto — Ritual](https://www.last.fm/music/Ti%C3%ABsto/_/Ritual)
 * [Mika — Big Girl &lpar;You Are Beautiful&rpar;](https://www.last.fm/music/Mika/_/Big+Girl+&lpar;You+Are+Beautiful&rpar;)
 * [Demi Lovato — Heart Attack - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Heart+Attack+-+Rock+Version)
-* [Jonas Brothers — Waffle House](https://www.last.fm/music/Jonas+Brothers/_/Waffle+House)
-* [Sigala — Stay the Night](https://www.last.fm/music/Sigala/_/Stay+the+Night)
-* [Cheryl — Crazy Stupid Love](https://www.last.fm/music/Cheryl/_/Crazy+Stupid+Love)<!-- LASTFM:END -->
+* [Jonas Brothers — Waffle House](https://www.last.fm/music/Jonas+Brothers/_/Waffle+House)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
