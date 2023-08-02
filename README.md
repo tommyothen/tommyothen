@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Selena Gomez — Let Me Get Me](https://www.last.fm/music/Selena+Gomez/_/Let+Me+Get+Me)
+* [Rock City — Locked Away &lpar;feat. Adam Levine&rpar;](https://www.last.fm/music/Rock+City/_/Locked+Away+&lpar;feat.+Adam+Levine&rpar;)
 * [Anne-Marie — UNHEALTHY &lpar;feat. Shania Twain&rpar;](https://www.last.fm/music/Anne-Marie/_/UNHEALTHY+&lpar;feat.+Shania+Twain&rpar;)
 * [Chris Brown — Don&#39;t Wake Me Up](https://www.last.fm/music/Chris+Brown/_/Don%27t+Wake+Me+Up)
-* [OneRepublic — If I Lose Myself - Alesso vs OneRepublic](https://www.last.fm/music/OneRepublic/_/If+I+Lose+Myself+-+Alesso+vs+OneRepublic)
-* [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
-* [Joji — YEAH RIGHT](https://www.last.fm/music/Joji/_/YEAH+RIGHT)<!-- LASTFM:END -->
+* [OneRepublic — If I Lose Myself - Alesso vs OneRepublic](https://www.last.fm/music/OneRepublic/_/If+I+Lose+Myself+-+Alesso+vs+OneRepublic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
