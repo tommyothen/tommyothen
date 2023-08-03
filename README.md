@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)
+* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
 * [Yung Gravy — Knockout](https://www.last.fm/music/Yung+Gravy/_/Knockout)
 * [Colliding With Mars — HEIRLOOM](https://www.last.fm/music/Colliding+With+Mars/_/HEIRLOOM)
-* [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)
-* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
-* [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)<!-- LASTFM:END -->
+* [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
