@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)
+* [iAmJakeHill — Pewdiepie Song](https://www.last.fm/music/iAmJakeHill/_/Pewdiepie+Song)
+* [Egg — Putting a Spin on Sweater Weather](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Sweater+Weather)
 * [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
-* [Anamanaguchi — Miku - Japanese Version](https://www.last.fm/music/Anamanaguchi/_/Miku+-+Japanese+Version)
-* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
-* [Internet Girl — living far away](https://www.last.fm/music/Internet+Girl/_/living+far+away)
-* [Lofi.Samurai — dearest](https://www.last.fm/music/Lofi.Samurai/_/dearest)<!-- LASTFM:END -->
+* [Anamanaguchi — Miku - Japanese Version](https://www.last.fm/music/Anamanaguchi/_/Miku+-+Japanese+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
