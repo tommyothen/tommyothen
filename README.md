@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)
 * [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
 * [Rich Brian — Where Does the Time Go &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Where+Does+the+Time+Go+&lpar;feat.+Joji&rpar;)
 * [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)
-* [Porter Robinson — Goodbye To A World - Chrome Sparks Remix](https://www.last.fm/music/Porter+Robinson/_/Goodbye+To+A+World+-+Chrome+Sparks+Remix)
-* [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)<!-- LASTFM:END -->
+* [Porter Robinson — Goodbye To A World - Chrome Sparks Remix](https://www.last.fm/music/Porter+Robinson/_/Goodbye+To+A+World+-+Chrome+Sparks+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
