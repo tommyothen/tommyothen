@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)
+* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
 * [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)
 * [iAmJakeHill — Pewdiepie Song](https://www.last.fm/music/iAmJakeHill/_/Pewdiepie+Song)
-* [Egg — Putting a Spin on Sweater Weather](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Sweater+Weather)
-* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
-* [Anamanaguchi — Miku - Japanese Version](https://www.last.fm/music/Anamanaguchi/_/Miku+-+Japanese+Version)<!-- LASTFM:END -->
+* [Egg — Putting a Spin on Sweater Weather](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Sweater+Weather)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
