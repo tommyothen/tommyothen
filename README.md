@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Тонкий Лёд](https://www.last.fm/music/FEDUK/_/%D0%A2%D0%BE%D0%BD%D0%BA%D0%B8%D0%B9+%D0%9B%D1%91%D0%B4)
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
+* [o k h o — Espresso](https://www.last.fm/music/o+k+h+o/_/Espresso)
 * [Jinsang — affection](https://www.last.fm/music/Jinsang/_/affection)
-* [Yung Gravy — Suavecito](https://www.last.fm/music/Yung+Gravy/_/Suavecito)
-* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
-* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)
-* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)<!-- LASTFM:END -->
+* [Yung Gravy — Suavecito](https://www.last.fm/music/Yung+Gravy/_/Suavecito)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
