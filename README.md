@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
+* [Internet Girl — living far away](https://www.last.fm/music/Internet+Girl/_/living+far+away)
 * [Lofi.Samurai — dearest](https://www.last.fm/music/Lofi.Samurai/_/dearest)
 * [BROCKBEATS — magic smoke](https://www.last.fm/music/BROCKBEATS/_/magic+smoke)
-* [Billie Eilish — bellyache](https://www.last.fm/music/Billie+Eilish/_/bellyache)
-* [c0nv0 — December](https://www.last.fm/music/c0nv0/_/December)
-* [Tyler, the Creator — I THINK](https://www.last.fm/music/Tyler,+the+Creator/_/I+THINK)<!-- LASTFM:END -->
+* [Billie Eilish — bellyache](https://www.last.fm/music/Billie+Eilish/_/bellyache)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
