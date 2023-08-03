@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Antoha MC — Спорт-брат](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BF%D0%BE%D1%80%D1%82-%D0%B1%D1%80%D0%B0%D1%82)
+* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
 * [lund — By My Side](https://www.last.fm/music/lund/_/By+My+Side)
 * [Lesha Svik — Светофоры](https://www.last.fm/music/Lesha+Svik/_/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D1%84%D0%BE%D1%80%D1%8B)
-* [XXXTENTACION — 4PEAT](https://www.last.fm/music/XXXTENTACION/_/4PEAT)
-* [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)
-* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)<!-- LASTFM:END -->
+* [XXXTENTACION — 4PEAT](https://www.last.fm/music/XXXTENTACION/_/4PEAT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
