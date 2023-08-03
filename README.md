@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Hovey Benjamin — Flexing On My Ex](https://www.last.fm/music/Hovey+Benjamin/_/Flexing+On+My+Ex)
 * [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
-* [FEDUK — Тонкий Лёд](https://www.last.fm/music/FEDUK/_/%D0%A2%D0%BE%D0%BD%D0%BA%D0%B8%D0%B9+%D0%9B%D1%91%D0%B4)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [o k h o — Espresso](https://www.last.fm/music/o+k+h+o/_/Espresso)<!-- LASTFM:END -->
+* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
