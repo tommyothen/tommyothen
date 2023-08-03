@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
+* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)
 * [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)
 * [half•alive — The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall)
-* [Unlike Pluto — JOLT](https://www.last.fm/music/Unlike+Pluto/_/JOLT)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)<!-- LASTFM:END -->
+* [Unlike Pluto — JOLT](https://www.last.fm/music/Unlike+Pluto/_/JOLT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
