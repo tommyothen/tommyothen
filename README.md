@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [half•alive — The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall)
+* [Unlike Pluto — JOLT](https://www.last.fm/music/Unlike+Pluto/_/JOLT)
 * [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
 * [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
-* [Rich Brian — Occupied](https://www.last.fm/music/Rich+Brian/_/Occupied)
-* [Antoha MC — Спорт-брат](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BF%D0%BE%D1%80%D1%82-%D0%B1%D1%80%D0%B0%D1%82)
-* [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)<!-- LASTFM:END -->
+* [Rich Brian — Occupied](https://www.last.fm/music/Rich+Brian/_/Occupied)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
