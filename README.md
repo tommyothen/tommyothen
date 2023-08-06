@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
 * [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
 * [System of a Down — Chop Suey!](https://www.last.fm/music/System+of+a+Down/_/Chop+Suey!)
 * [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)
-* [Bambee — Bumble Bee](https://www.last.fm/music/Bambee/_/Bumble+Bee)
-* [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)<!-- LASTFM:END -->
+* [Bambee — Bumble Bee](https://www.last.fm/music/Bambee/_/Bumble+Bee)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
