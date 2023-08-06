@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
 * [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)
 * [100 gecs — hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)
-* [Dr. Gabba — Plasma](https://www.last.fm/music/Dr.+Gabba/_/Plasma)
-* [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)
-* [t+pazolite — Tempestissimo](https://www.last.fm/music/t%252Bpazolite/_/Tempestissimo)<!-- LASTFM:END -->
+* [Dr. Gabba — Plasma](https://www.last.fm/music/Dr.+Gabba/_/Plasma)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
