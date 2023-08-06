@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
+* [きくお — 愛して 愛して 愛して](https://www.last.fm/music/%E3%81%8D%E3%81%8F%E3%81%8A/_/%E6%84%9B%E3%81%97%E3%81%A6+%E6%84%9B%E3%81%97%E3%81%A6+%E6%84%9B%E3%81%97%E3%81%A6)
 * [Block B — 난리나](https://www.last.fm/music/Block+B/_/%EB%82%9C%EB%A6%AC%EB%82%98)
 * [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
-* [IC3PEAK — Грустная сука](https://www.last.fm/music/IC3PEAK/_/%D0%93%D1%80%D1%83%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%81%D1%83%D0%BA%D0%B0)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)<!-- LASTFM:END -->
+* [IC3PEAK — Грустная сука](https://www.last.fm/music/IC3PEAK/_/%D0%93%D1%80%D1%83%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D1%81%D1%83%D0%BA%D0%B0)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
