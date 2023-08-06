@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [kosu. — daft.](https://www.last.fm/music/kosu./_/daft.)
+* [Ken Ashcorp — Dare You To Love Me](https://www.last.fm/music/Ken+Ashcorp/_/Dare+You+To+Love+Me)
+* [BABYMETAL — BxMxC](https://www.last.fm/music/BABYMETAL/_/BxMxC)
 * [Sungazer — I Walk Alone](https://www.last.fm/music/Sungazer/_/I+Walk+Alone)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [angry children — Childish Flamingo](https://www.last.fm/music/angry+children/_/Childish+Flamingo)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
-* [GRANRODEO — BEASTFUL](https://www.last.fm/music/GRANRODEO/_/BEASTFUL)<!-- LASTFM:END -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
