@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)
 * [t+pazolite — Tempestissimo](https://www.last.fm/music/t%252Bpazolite/_/Tempestissimo)
 * [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [Rory in early 20s — Various Types Of Ads](https://www.last.fm/music/Rory+in+early+20s/_/Various+Types+Of+Ads)<!-- LASTFM:END -->
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
