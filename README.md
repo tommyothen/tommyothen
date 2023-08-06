@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sungazer — I Walk Alone](https://www.last.fm/music/Sungazer/_/I+Walk+Alone)
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
+* [angry children — Childish Flamingo](https://www.last.fm/music/angry+children/_/Childish+Flamingo)
 * [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
-* [GRANRODEO — BEASTFUL](https://www.last.fm/music/GRANRODEO/_/BEASTFUL)
-* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
-* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
-* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)<!-- LASTFM:END -->
+* [GRANRODEO — BEASTFUL](https://www.last.fm/music/GRANRODEO/_/BEASTFUL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
