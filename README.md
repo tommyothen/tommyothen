@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [21 Savage — a lot](https://www.last.fm/music/21+Savage/_/a+lot)
-* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
+* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
