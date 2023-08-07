@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
 * [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)
-* [t+pazolite — Tempestissimo](https://www.last.fm/music/t%252Bpazolite/_/Tempestissimo)<!-- LASTFM:END -->
+* [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
