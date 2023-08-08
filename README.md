@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Camellia — Spin Eternally](https://www.last.fm/music/Camellia/_/Spin+Eternally)
-* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)
-* [Kobaryo — Invisible Frenzy](https://www.last.fm/music/Kobaryo/_/Invisible+Frenzy)
-* [Camellia — Spin Eternally](https://www.last.fm/music/Camellia/_/Spin+Eternally)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)<!-- LASTFM:END -->
+* [IC3PEAK — Плак-Плак](https://www.last.fm/music/IC3PEAK/_/%D0%9F%D0%BB%D0%B0%D0%BA-%D0%9F%D0%BB%D0%B0%D0%BA)
+* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
+* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
+* [Kobaryo — Invisible Frenzy](https://www.last.fm/music/Kobaryo/_/Invisible+Frenzy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
