@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Northern Boys — Party Time](https://www.last.fm/music/The+Northern+Boys/_/Party+Time)
+* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
 * [PinkPantheress — Boy&#39;s a liar](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
-* [android52 — Fall in Love](https://www.last.fm/music/android52/_/Fall+in+Love)<!-- LASTFM:END -->
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
