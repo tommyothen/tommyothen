@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
+* [android52 — Fall in Love](https://www.last.fm/music/android52/_/Fall+in+Love)
 * [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [Softwilly — ZONIN](https://www.last.fm/music/Softwilly/_/ZONIN)
-* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)
-* [Softwilly — I LOVE YOU SO](https://www.last.fm/music/Softwilly/_/I+LOVE+YOU+SO)
-* [Axiliya — kisses on my neck](https://www.last.fm/music/Axiliya/_/kisses+on+my+neck)<!-- LASTFM:END -->
+* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
