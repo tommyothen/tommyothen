@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PinkPantheress — Boy&#39;s a liar](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar)
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
 * [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
-* [android52 — Fall in Love](https://www.last.fm/music/android52/_/Fall+in+Love)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [Softwilly — ZONIN](https://www.last.fm/music/Softwilly/_/ZONIN)
-* [Softwilly — ILY BABY](https://www.last.fm/music/Softwilly/_/ILY+BABY)<!-- LASTFM:END -->
+* [android52 — Fall in Love](https://www.last.fm/music/android52/_/Fall+in+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
