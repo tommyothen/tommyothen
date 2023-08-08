@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yung Gravy — Gasoline &lpar;feat. Young King Dave&rpar;](https://www.last.fm/music/Yung+Gravy/_/Gasoline+&lpar;feat.+Young+King+Dave&rpar;)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
-* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
-* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)<!-- LASTFM:END -->
+* [Post Malone — Goodbyes &lpar;feat. Young Thug&rpar;](https://www.last.fm/music/Post+Malone/_/Goodbyes+&lpar;feat.+Young+Thug&rpar;)
+* [YOASOBI — アイドル](https://www.last.fm/music/YOASOBI/_/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB)
+* [Yung Gravy — Gasoline &lpar;feat. Young King Dave&rpar;](https://www.last.fm/music/Yung+Gravy/_/Gasoline+&lpar;feat.+Young+King+Dave&rpar;)
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
