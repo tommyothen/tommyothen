@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
+* [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)
 * [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [Unlucky Morpheus official — 【Cover】Dream Theater - The Dance of Eternity &lpar;Violin Cover&rpar;](https://www.last.fm/music/Unlucky+Morpheus+official/_/%E3%80%90Cover%E3%80%91Dream+Theater+-+The+Dance+of+Eternity+&lpar;Violin+Cover&rpar;)<!-- LASTFM:END -->
+* [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
