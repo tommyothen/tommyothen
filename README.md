@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [t+pazolite — HYPER4ID](https://www.last.fm/music/t%252Bpazolite/_/HYPER4ID)
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
 * [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [100 gecs — hand crushed by a mallet](https://www.last.fm/music/100+gecs/_/hand+crushed+by+a+mallet)<!-- LASTFM:END -->
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
