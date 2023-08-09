@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
 * [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
 * [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
-* [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)
-* [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)<!-- LASTFM:END -->
+* [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
