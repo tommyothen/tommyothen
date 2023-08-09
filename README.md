@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
 * [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)
-* [Unlucky Morpheus — Dead Leaves Rising](https://www.last.fm/music/Unlucky+Morpheus/_/Dead+Leaves+Rising)
-* [Unlucky Morpheus — Amaryllis](https://www.last.fm/music/Unlucky+Morpheus/_/Amaryllis)
-* [Unlucky Morpheus — Welcome to Valhalla](https://www.last.fm/music/Unlucky+Morpheus/_/Welcome+to+Valhalla)<!-- LASTFM:END -->
+* [Unlucky Morpheus — Dead Leaves Rising](https://www.last.fm/music/Unlucky+Morpheus/_/Dead+Leaves+Rising)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
