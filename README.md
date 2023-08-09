@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
-* [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)<!-- LASTFM:END -->
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
