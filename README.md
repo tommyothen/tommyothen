@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Your Neighbors — Sideways](https://www.last.fm/music/Your+Neighbors/_/Sideways)
+* [Bill Kiley — Worst Neighbors Ever](https://www.last.fm/music/Bill+Kiley/_/Worst+Neighbors+Ever)
+* [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
 * [kosu. — daft.](https://www.last.fm/music/kosu./_/daft.)
-* [Ken Ashcorp — Dare You To Love Me](https://www.last.fm/music/Ken+Ashcorp/_/Dare+You+To+Love+Me)
-* [BABYMETAL — BxMxC](https://www.last.fm/music/BABYMETAL/_/BxMxC)
-* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
-* [tortuganónima — Ukiyo](https://www.last.fm/music/tortugan%C3%B3nima/_/Ukiyo)<!-- LASTFM:END -->
+* [Ken Ashcorp — Dare You To Love Me](https://www.last.fm/music/Ken+Ashcorp/_/Dare+You+To+Love+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
