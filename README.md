@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Unlucky Morpheus — Phantom Blood](https://www.last.fm/music/Unlucky+Morpheus/_/Phantom+Blood)
+* [Unlucky Morpheus — Top of the &quot;M&quot;](https://www.last.fm/music/Unlucky+Morpheus/_/Top+of+the+%22M%22)
 * [Unlucky Morpheus — Angreifer](https://www.last.fm/music/Unlucky+Morpheus/_/Angreifer)
 * [Unlucky Morpheus — Black Pentagram](https://www.last.fm/music/Unlucky+Morpheus/_/Black+Pentagram)
-* [NOISEMAKER — All that Glitters](https://www.last.fm/music/NOISEMAKER/_/All+that+Glitters)
-* [Aimai Ai — Star Gazing](https://www.last.fm/music/Aimai+Ai/_/Star+Gazing)
-* [OTMGirls — Aggressive Girl - English ver.](https://www.last.fm/music/OTMGirls/_/Aggressive+Girl+-+English+ver.)<!-- LASTFM:END -->
+* [NOISEMAKER — All that Glitters](https://www.last.fm/music/NOISEMAKER/_/All+that+Glitters)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
