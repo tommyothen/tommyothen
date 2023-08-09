@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Unlucky Morpheus official — 【Cover】Dream Theater - The Dance of Eternity &lpar;Violin Cover&rpar;](https://www.last.fm/music/Unlucky+Morpheus+official/_/%E3%80%90Cover%E3%80%91Dream+Theater+-+The+Dance+of+Eternity+&lpar;Violin+Cover&rpar;)
-* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)
 * [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
 * [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
+* [Unlucky Morpheus official — 【Cover】Dream Theater - The Dance of Eternity &lpar;Violin Cover&rpar;](https://www.last.fm/music/Unlucky+Morpheus+official/_/%E3%80%90Cover%E3%80%91Dream+Theater+-+The+Dance+of+Eternity+&lpar;Violin+Cover&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
