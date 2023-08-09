@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
+* [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)
 * [System of a Down — Chop Suey!](https://www.last.fm/music/System+of+a+Down/_/Chop+Suey!)
 * [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
