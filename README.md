@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
 * [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
-* [System of a Down — Chop Suey!](https://www.last.fm/music/System+of+a+Down/_/Chop+Suey!)<!-- LASTFM:END -->
+* [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
