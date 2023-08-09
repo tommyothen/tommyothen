@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
+* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
+* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
 * [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
-* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
-* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)<!-- LASTFM:END -->
+* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
