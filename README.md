@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Worldcorp Enterprises — gamble](https://www.last.fm/music/Worldcorp+Enterprises/_/gamble)
+* [G Zoom — Never Hurt You](https://www.last.fm/music/G+Zoom/_/Never+Hurt+You)
 * [Min Kang — Firefly &lpar;feat. lavndr&rpar;](https://www.last.fm/music/Min+Kang/_/Firefly+&lpar;feat.+lavndr&rpar;)
 * [Rome Hero Foxes — Don&#39;t Call My Name](https://www.last.fm/music/Rome+Hero+Foxes/_/Don%27t+Call+My+Name)
-* [Softwilly — KAIJU](https://www.last.fm/music/Softwilly/_/KAIJU)
-* [SafireMakesThings — im yours](https://www.last.fm/music/SafireMakesThings/_/im+yours)
-* [Origami Angel — 666 Flags](https://www.last.fm/music/Origami+Angel/_/666+Flags)<!-- LASTFM:END -->
+* [Softwilly — KAIJU](https://www.last.fm/music/Softwilly/_/KAIJU)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
