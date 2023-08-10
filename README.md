@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
 * [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
 * [Tila Tsoli — Bimbo Doll](https://www.last.fm/music/Tila+Tsoli/_/Bimbo+Doll)
 * [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)<!-- LASTFM:END -->
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
