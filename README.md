@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rome Hero Foxes — Don&#39;t Call My Name](https://www.last.fm/music/Rome+Hero+Foxes/_/Don%27t+Call+My+Name)
+* [Softwilly — KAIJU](https://www.last.fm/music/Softwilly/_/KAIJU)
 * [SafireMakesThings — im yours](https://www.last.fm/music/SafireMakesThings/_/im+yours)
 * [Origami Angel — 666 Flags](https://www.last.fm/music/Origami+Angel/_/666+Flags)
-* [鬱P — 骸Attack!!](https://www.last.fm/music/%E9%AC%B1P/_/%E9%AA%B8Attack!!)
-* [白举纲 — Sanctuary](https://www.last.fm/music/%E7%99%BD%E4%B8%BE%E7%BA%B2/_/Sanctuary)
-* [potsu — Be](https://www.last.fm/music/potsu/_/Be)<!-- LASTFM:END -->
+* [鬱P — 骸Attack!!](https://www.last.fm/music/%E9%AC%B1P/_/%E9%AA%B8Attack!!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
