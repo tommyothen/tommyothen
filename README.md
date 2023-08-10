@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
 * [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
 * [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)
 * [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)
-* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
-* [Eden — lost//found](https://www.last.fm/music/Eden/_/lost%2F%2Ffound)<!-- LASTFM:END -->
+* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
