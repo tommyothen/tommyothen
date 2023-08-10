@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DEATHNYANN — tarantula](https://www.last.fm/music/DEATHNYANN/_/tarantula)
+* [By Release — Bones](https://www.last.fm/music/By+Release/_/Bones)
 * [bentz — Is it?](https://www.last.fm/music/bentz/_/Is+it%3F)
 * [aldrch — apartmnt](https://www.last.fm/music/aldrch/_/apartmnt)
-* [Hudson Lee — Petals Fall](https://www.last.fm/music/Hudson+Lee/_/Petals+Fall)
-* [Worldcorp Enterprises — gamble](https://www.last.fm/music/Worldcorp+Enterprises/_/gamble)
-* [G Zoom — Never Hurt You](https://www.last.fm/music/G+Zoom/_/Never+Hurt+You)<!-- LASTFM:END -->
+* [Hudson Lee — Petals Fall](https://www.last.fm/music/Hudson+Lee/_/Petals+Fall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
