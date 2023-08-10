@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [白举纲 — Sanctuary](https://www.last.fm/music/%E7%99%BD%E4%B8%BE%E7%BA%B2/_/Sanctuary)
+* [Maximum the Hormone — ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero](https://www.last.fm/music/Maximum+the+Hormone/_/ChuChu+Lovely+MuniMuni+MuraMura+PrinPrin+Boron+Nururu+ReroRero)
 * [Hairu Tokyo — White Wine Red Lies](https://www.last.fm/music/Hairu+Tokyo/_/White+Wine+Red+Lies)
 * [Yakui The Maid — Daisy Killer](https://www.last.fm/music/Yakui+The+Maid/_/Daisy+Killer)
-* [Jakey — Fat Head](https://www.last.fm/music/Jakey/_/Fat+Head)
-* [potsu — Be](https://www.last.fm/music/potsu/_/Be)
-* [behreh — Inlove](https://www.last.fm/music/behreh/_/Inlove)<!-- LASTFM:END -->
+* [Jakey — Fat Head](https://www.last.fm/music/Jakey/_/Fat+Head)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
