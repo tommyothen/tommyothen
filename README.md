@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [potsu — Be](https://www.last.fm/music/potsu/_/Be)
+* [behreh — Inlove](https://www.last.fm/music/behreh/_/Inlove)
 * [Scro — face to face with death](https://www.last.fm/music/Scro/_/face+to+face+with+death)
 * [DEATHNYANN — tarantula](https://www.last.fm/music/DEATHNYANN/_/tarantula)
-* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
-* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)
-* [Prismo — In My Mind](https://www.last.fm/music/Prismo/_/In+My+Mind)<!-- LASTFM:END -->
+* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
