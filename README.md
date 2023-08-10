@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
+* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
+* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
 * [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
-* [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)
-* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
-* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)<!-- LASTFM:END -->
+* [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
