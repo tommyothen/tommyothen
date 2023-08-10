@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
 * [Worldcorp Enterprises — gamble](https://www.last.fm/music/Worldcorp+Enterprises/_/gamble)
-* [G Zoom — Never Hurt You](https://www.last.fm/music/G+Zoom/_/Never+Hurt+You)
-* [Min Kang — Firefly &lpar;feat. lavndr&rpar;](https://www.last.fm/music/Min+Kang/_/Firefly+&lpar;feat.+lavndr&rpar;)
-* [Rome Hero Foxes — Don&#39;t Call My Name](https://www.last.fm/music/Rome+Hero+Foxes/_/Don%27t+Call+My+Name)
-* [Softwilly — KAIJU](https://www.last.fm/music/Softwilly/_/KAIJU)<!-- LASTFM:END -->
+* [G Zoom — Never Hurt You](https://www.last.fm/music/G+Zoom/_/Never+Hurt+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
