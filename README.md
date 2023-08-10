@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Scro — face to face with death](https://www.last.fm/music/Scro/_/face+to+face+with+death)
+* [DEATHNYANN — tarantula](https://www.last.fm/music/DEATHNYANN/_/tarantula)
 * [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
 * [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)
-* [Prismo — In My Mind](https://www.last.fm/music/Prismo/_/In+My+Mind)
-* [Flux Pavilion — Pull The Trigger - Maduk Remix](https://www.last.fm/music/Flux+Pavilion/_/Pull+The+Trigger+-+Maduk+Remix)
-* [Euføeni — 24/7](https://www.last.fm/music/Euf%C3%B8eni/_/24%2F7)<!-- LASTFM:END -->
+* [Prismo — In My Mind](https://www.last.fm/music/Prismo/_/In+My+Mind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
