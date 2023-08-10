@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hairu Tokyo — White Wine Red Lies](https://www.last.fm/music/Hairu+Tokyo/_/White+Wine+Red+Lies)
+* [Yakui The Maid — Daisy Killer](https://www.last.fm/music/Yakui+The+Maid/_/Daisy+Killer)
+* [Jakey — Fat Head](https://www.last.fm/music/Jakey/_/Fat+Head)
 * [potsu — Be](https://www.last.fm/music/potsu/_/Be)
-* [behreh — Inlove](https://www.last.fm/music/behreh/_/Inlove)
-* [Scro — face to face with death](https://www.last.fm/music/Scro/_/face+to+face+with+death)
-* [DEATHNYANN — tarantula](https://www.last.fm/music/DEATHNYANN/_/tarantula)
-* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)<!-- LASTFM:END -->
+* [behreh — Inlove](https://www.last.fm/music/behreh/_/Inlove)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
