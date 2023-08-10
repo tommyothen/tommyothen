@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
+* [Eden — lost//found](https://www.last.fm/music/Eden/_/lost%2F%2Ffound)
 * [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)
 * [Eden — float](https://www.last.fm/music/Eden/_/float)
-* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)
-* [Eden — wonder](https://www.last.fm/music/Eden/_/wonder)
-* [Eden — gold](https://www.last.fm/music/Eden/_/gold)<!-- LASTFM:END -->
+* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
