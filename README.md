@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — KAIJU](https://www.last.fm/music/Softwilly/_/KAIJU)
+* [SafireMakesThings — im yours](https://www.last.fm/music/SafireMakesThings/_/im+yours)
 * [Origami Angel — 666 Flags](https://www.last.fm/music/Origami+Angel/_/666+Flags)
 * [鬱P — 骸Attack!!](https://www.last.fm/music/%E9%AC%B1P/_/%E9%AA%B8Attack!!)
-* [Sufferer — Sword](https://www.last.fm/music/Sufferer/_/Sword)
-* [白举纲 — Sanctuary](https://www.last.fm/music/%E7%99%BD%E4%B8%BE%E7%BA%B2/_/Sanctuary)
-* [Maximum the Hormone — ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero](https://www.last.fm/music/Maximum+the+Hormone/_/ChuChu+Lovely+MuniMuni+MuraMura+PrinPrin+Boron+Nururu+ReroRero)<!-- LASTFM:END -->
+* [Sufferer — Sword](https://www.last.fm/music/Sufferer/_/Sword)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
