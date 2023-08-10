@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
-* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
-* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)<!-- LASTFM:END -->
+* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
