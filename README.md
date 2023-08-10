@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
 * [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
-* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)<!-- LASTFM:END -->
+* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
