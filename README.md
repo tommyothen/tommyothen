@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)
+* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
+* [Bakar — Hell N Back](https://www.last.fm/music/Bakar/_/Hell+N+Back)
 * [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
-* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
-* [tortuganónima — Ukiyo](https://www.last.fm/music/tortugan%C3%B3nima/_/Ukiyo)<!-- LASTFM:END -->
+* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
