@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)
+* [Prismo — In My Mind](https://www.last.fm/music/Prismo/_/In+My+Mind)
 * [Flux Pavilion — Pull The Trigger - Maduk Remix](https://www.last.fm/music/Flux+Pavilion/_/Pull+The+Trigger+-+Maduk+Remix)
 * [Euføeni — 24/7](https://www.last.fm/music/Euf%C3%B8eni/_/24%2F7)
-* [bbno$ — money conversation](https://www.last.fm/music/bbno$/_/money+conversation)
-* [JID — Workin Out](https://www.last.fm/music/JID/_/Workin+Out)
-* [Patchymate — Violet](https://www.last.fm/music/Patchymate/_/Violet)<!-- LASTFM:END -->
+* [bbno$ — money conversation](https://www.last.fm/music/bbno$/_/money+conversation)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
