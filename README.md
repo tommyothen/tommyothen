@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [behreh — Inlove](https://www.last.fm/music/behreh/_/Inlove)
+* [Scro — face to face with death](https://www.last.fm/music/Scro/_/face+to+face+with+death)
 * [Moe Shop — WONDER POP](https://www.last.fm/music/Moe+Shop/_/WONDER+POP)
 * [DEATHNYANN — tarantula](https://www.last.fm/music/DEATHNYANN/_/tarantula)
-* [By Release — Bones](https://www.last.fm/music/By+Release/_/Bones)
-* [bentz — Is it?](https://www.last.fm/music/bentz/_/Is+it%3F)
-* [aldrch — apartmnt](https://www.last.fm/music/aldrch/_/apartmnt)<!-- LASTFM:END -->
+* [By Release — Bones](https://www.last.fm/music/By+Release/_/Bones)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
