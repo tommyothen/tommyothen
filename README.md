@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
 * [System of a Down — Chop Suey!](https://www.last.fm/music/System+of+a+Down/_/Chop+Suey!)
-* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
-* [tortuganónima — Ukiyo](https://www.last.fm/music/tortugan%C3%B3nima/_/Ukiyo)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)<!-- LASTFM:END -->
+* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
