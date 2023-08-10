@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [白举纲 — Sanctuary](https://www.last.fm/music/%E7%99%BD%E4%B8%BE%E7%BA%B2/_/Sanctuary)
 * [potsu — Be](https://www.last.fm/music/potsu/_/Be)
 * [behreh — Inlove](https://www.last.fm/music/behreh/_/Inlove)
 * [Scro — face to face with death](https://www.last.fm/music/Scro/_/face+to+face+with+death)
-* [Moe Shop — WONDER POP](https://www.last.fm/music/Moe+Shop/_/WONDER+POP)
-* [DEATHNYANN — tarantula](https://www.last.fm/music/DEATHNYANN/_/tarantula)<!-- LASTFM:END -->
+* [Moe Shop — WONDER POP](https://www.last.fm/music/Moe+Shop/_/WONDER+POP)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
