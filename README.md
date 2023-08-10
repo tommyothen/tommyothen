@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
 * [Block B — 난리나](https://www.last.fm/music/Block+B/_/%EB%82%9C%EB%A6%AC%EB%82%98)
 * [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
-* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)<!-- LASTFM:END -->
+* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
