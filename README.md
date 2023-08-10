@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bentz — Is it?](https://www.last.fm/music/bentz/_/Is+it%3F)
+* [aldrch — apartmnt](https://www.last.fm/music/aldrch/_/apartmnt)
+* [Hudson Lee — Petals Fall](https://www.last.fm/music/Hudson+Lee/_/Petals+Fall)
 * [Worldcorp Enterprises — gamble](https://www.last.fm/music/Worldcorp+Enterprises/_/gamble)
-* [G Zoom — Never Hurt You](https://www.last.fm/music/G+Zoom/_/Never+Hurt+You)
-* [Min Kang — Firefly &lpar;feat. lavndr&rpar;](https://www.last.fm/music/Min+Kang/_/Firefly+&lpar;feat.+lavndr&rpar;)
-* [Rome Hero Foxes — Don&#39;t Call My Name](https://www.last.fm/music/Rome+Hero+Foxes/_/Don%27t+Call+My+Name)
-* [Softwilly — KAIJU](https://www.last.fm/music/Softwilly/_/KAIJU)<!-- LASTFM:END -->
+* [G Zoom — Never Hurt You](https://www.last.fm/music/G+Zoom/_/Never+Hurt+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
