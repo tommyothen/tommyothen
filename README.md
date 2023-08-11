@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
 * [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
 * [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
-* [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)<!-- LASTFM:END -->
+* [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
