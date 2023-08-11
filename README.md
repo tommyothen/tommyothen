@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
+* [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)
 * [Qawi Kamri — Shaky Hands](https://www.last.fm/music/Qawi+Kamri/_/Shaky+Hands)
 * [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Danny Brown — Ain&#39;t it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)
-* [Grabbitz — Polaroid](https://www.last.fm/music/Grabbitz/_/Polaroid)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
+* [Danny Brown — Ain&#39;t it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
