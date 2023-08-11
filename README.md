@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
 * [Colliding With Mars — HEIRLOOM](https://www.last.fm/music/Colliding+With+Mars/_/HEIRLOOM)
 * [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
-* [Azealia Banks — 212](https://www.last.fm/music/Azealia+Banks/_/212)
-* [Yena — PRETTY BOYS](https://www.last.fm/music/Yena/_/PRETTY+BOYS)
-* [HUH YUNJIN — love you twice](https://www.last.fm/music/HUH+YUNJIN/_/love+you+twice)<!-- LASTFM:END -->
+* [Azealia Banks — 212](https://www.last.fm/music/Azealia+Banks/_/212)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
