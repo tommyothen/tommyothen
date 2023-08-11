@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — Deal With It &lpar;feat. Kelis&rpar;](https://www.last.fm/music/Ashnikko/_/Deal+With+It+&lpar;feat.+Kelis&rpar;)
+* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)
+* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)
 * [MGF — 湿った夜の儚き嵐](https://www.last.fm/music/MGF/_/%E6%B9%BF%E3%81%A3%E3%81%9F%E5%A4%9C%E3%81%AE%E5%84%9A%E3%81%8D%E5%B5%90)
-* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
-* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
-* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)<!-- LASTFM:END -->
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
