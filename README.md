@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
+* [Wonder Girls — Tell Me](https://www.last.fm/music/Wonder+Girls/_/Tell+Me)
 * [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
 * [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
-* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
-* [Memehubb — Luda Gets Even Funkier](https://www.last.fm/music/Memehubb/_/Luda+Gets+Even+Funkier)
-* [FEDUK — TOUR DE FRANCE](https://www.last.fm/music/FEDUK/_/TOUR+DE+FRANCE)<!-- LASTFM:END -->
+* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
