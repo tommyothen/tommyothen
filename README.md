@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Danny Brown — Ain&#39;t it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)
+* [Grabbitz — Polaroid](https://www.last.fm/music/Grabbitz/_/Polaroid)
 * [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
 * [iAmJakeHill — Crash and Burn](https://www.last.fm/music/iAmJakeHill/_/Crash+and+Burn)
-* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [Savage Ga$p — flaming hot cheetos](https://www.last.fm/music/Savage+Ga$p/_/flaming+hot+cheetos)<!-- LASTFM:END -->
+* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
