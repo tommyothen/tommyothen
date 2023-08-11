@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [iAmJakeHill — Crash and Burn](https://www.last.fm/music/iAmJakeHill/_/Crash+and+Burn)
 * [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
 * [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [Savage Ga$p — flaming hot cheetos](https://www.last.fm/music/Savage+Ga$p/_/flaming+hot+cheetos)
-* [Ashnikko — Deal With It &lpar;feat. Kelis&rpar;](https://www.last.fm/music/Ashnikko/_/Deal+With+It+&lpar;feat.+Kelis&rpar;)
-* [Mickey Darling — Protein Shake](https://www.last.fm/music/Mickey+Darling/_/Protein+Shake)<!-- LASTFM:END -->
+* [Savage Ga$p — flaming hot cheetos](https://www.last.fm/music/Savage+Ga$p/_/flaming+hot+cheetos)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
