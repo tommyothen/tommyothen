@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nothing,nowhere. — hammer](https://www.last.fm/music/nothing,nowhere./_/hammer)
+* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
+* [blackbear — chateau](https://www.last.fm/music/blackbear/_/chateau)
 * [Joji — Window](https://www.last.fm/music/Joji/_/Window)
-* [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)
-* [Qawi Kamri — Shaky Hands](https://www.last.fm/music/Qawi+Kamri/_/Shaky+Hands)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Danny Brown — Ain&#39;t it Funny](https://www.last.fm/music/Danny+Brown/_/Ain%27t+it+Funny)<!-- LASTFM:END -->
+* [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
