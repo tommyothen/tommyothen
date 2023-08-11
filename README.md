@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Azealia Banks — 212](https://www.last.fm/music/Azealia+Banks/_/212)
 * [Yena — PRETTY BOYS](https://www.last.fm/music/Yena/_/PRETTY+BOYS)
 * [HUH YUNJIN — love you twice](https://www.last.fm/music/HUH+YUNJIN/_/love+you+twice)
 * [LE SSERAFIM — UNFORGIVEN &lpar;feat. Nile Rodgers&rpar;](https://www.last.fm/music/LE+SSERAFIM/_/UNFORGIVEN+&lpar;feat.+Nile+Rodgers&rpar;)
-* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
-* [Loona — Flip That](https://www.last.fm/music/Loona/_/Flip+That)<!-- LASTFM:END -->
+* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
