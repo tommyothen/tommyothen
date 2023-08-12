@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Quadeca — Uh Huh!](https://www.last.fm/music/Quadeca/_/Uh+Huh!)
+* [IC3PEAK — Плак-Плак](https://www.last.fm/music/IC3PEAK/_/%D0%9F%D0%BB%D0%B0%D0%BA-%D0%9F%D0%BB%D0%B0%D0%BA)
+* [Animals as Leaders — Physical Education](https://www.last.fm/music/Animals+as+Leaders/_/Physical+Education)
 * [Beach Bunny — Sports](https://www.last.fm/music/Beach+Bunny/_/Sports)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Camellia — SLIME INCIDENT](https://www.last.fm/music/Camellia/_/SLIME+INCIDENT)
-* [bbno$ — jurassic](https://www.last.fm/music/bbno$/_/jurassic)
-* [bbno$ — money conversation](https://www.last.fm/music/bbno$/_/money+conversation)<!-- LASTFM:END -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
