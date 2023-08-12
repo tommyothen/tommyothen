@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
+* [Post Malone — Goodbyes &lpar;feat. Young Thug&rpar;](https://www.last.fm/music/Post+Malone/_/Goodbyes+&lpar;feat.+Young+Thug&rpar;)
 * [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)
 * [knowmadic — Fade](https://www.last.fm/music/knowmadic/_/Fade)
-* [knowmadic — Beginnings](https://www.last.fm/music/knowmadic/_/Beginnings)
-* [MUST DIE! — Bliss 2K](https://www.last.fm/music/MUST+DIE!/_/Bliss+2K)
-* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)<!-- LASTFM:END -->
+* [knowmadic — Beginnings](https://www.last.fm/music/knowmadic/_/Beginnings)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
