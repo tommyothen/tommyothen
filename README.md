@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Memehubb — Luda Gets Even Funkier](https://www.last.fm/music/Memehubb/_/Luda+Gets+Even+Funkier)
+* [Porter Robinson — Polygon Dust - Sleepy Tom Remix](https://www.last.fm/music/Porter+Robinson/_/Polygon+Dust+-+Sleepy+Tom+Remix)
 * [nothing,nowhere. — hammer](https://www.last.fm/music/nothing,nowhere./_/hammer)
 * [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
-* [blackbear — chateau](https://www.last.fm/music/blackbear/_/chateau)
-* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
-* [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)<!-- LASTFM:END -->
+* [blackbear — chateau](https://www.last.fm/music/blackbear/_/chateau)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
