@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
 * [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)
 * [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)<!-- LASTFM:END -->
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
