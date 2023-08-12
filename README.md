@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
+* [The Neighbourhood — Cry Baby](https://www.last.fm/music/The+Neighbourhood/_/Cry+Baby)
 * [Andrew Huang — Summertime Feeling](https://www.last.fm/music/Andrew+Huang/_/Summertime+Feeling)
 * [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [The404Studios — Lost](https://www.last.fm/music/The404Studios/_/Lost)
-* [Adam Jensen — Bad Luck](https://www.last.fm/music/Adam+Jensen/_/Bad+Luck)
-* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)<!-- LASTFM:END -->
+* [The404Studios — Lost](https://www.last.fm/music/The404Studios/_/Lost)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
