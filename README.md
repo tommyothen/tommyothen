@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yung Bambi — Fried!](https://www.last.fm/music/Yung+Bambi/_/Fried!)
-* [SCARLXRD — BERZERK](https://www.last.fm/music/SCARLXRD/_/BERZERK)
-* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
-* [BLACKPINK — Don&#39;t Know What to Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+to+Do)
-* [bbno$ — dont tell me shit](https://www.last.fm/music/bbno$/_/dont+tell+me+shit)<!-- LASTFM:END -->
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
+* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
+* [Tennyson — Body Language &lpar;feat. Aloe Blacc&rpar;](https://www.last.fm/music/Tennyson/_/Body+Language+&lpar;feat.+Aloe+Blacc&rpar;)
+* [Yung Bambi — Fried!](https://www.last.fm/music/Yung+Bambi/_/Fried!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
