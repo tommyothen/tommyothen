@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Bambi — Fried!](https://www.last.fm/music/Yung+Bambi/_/Fried!)
+* [SCARLXRD — BERZERK](https://www.last.fm/music/SCARLXRD/_/BERZERK)
 * [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
 * [BLACKPINK — Don&#39;t Know What to Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+to+Do)
-* [bbno$ — dont tell me shit](https://www.last.fm/music/bbno$/_/dont+tell+me+shit)
-* [Quadeca — Uh Huh!](https://www.last.fm/music/Quadeca/_/Uh+Huh!)
-* [IC3PEAK — Плак-Плак](https://www.last.fm/music/IC3PEAK/_/%D0%9F%D0%BB%D0%B0%D0%BA-%D0%9F%D0%BB%D0%B0%D0%BA)<!-- LASTFM:END -->
+* [bbno$ — dont tell me shit](https://www.last.fm/music/bbno$/_/dont+tell+me+shit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
