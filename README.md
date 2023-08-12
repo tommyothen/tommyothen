@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Porter Robinson — Fresh Static Snow - Last Island Remix](https://www.last.fm/music/Porter+Robinson/_/Fresh+Static+Snow+-+Last+Island+Remix)
+* [galdive — Sorbet](https://www.last.fm/music/galdive/_/Sorbet)
 * [FloFilz — Twosome](https://www.last.fm/music/FloFilz/_/Twosome)
 * [Jarv &amp; Thief — Lady Killer](https://www.last.fm/music/Jarv+&amp;+Thief/_/Lady+Killer)
-* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
-* [Josh A — III &lpar;Intro&rpar;](https://www.last.fm/music/Josh+A/_/III+&lpar;Intro&rpar;)
-* [Havelock — SCRAMBLED](https://www.last.fm/music/Havelock/_/SCRAMBLED)<!-- LASTFM:END -->
+* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
