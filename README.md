@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
+* [Josh A — III &lpar;Intro&rpar;](https://www.last.fm/music/Josh+A/_/III+&lpar;Intro&rpar;)
+* [Havelock — SCRAMBLED](https://www.last.fm/music/Havelock/_/SCRAMBLED)
 * [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Polyphia — Inferno](https://www.last.fm/music/Polyphia/_/Inferno)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
