@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bibi — Witch Hunt](https://www.last.fm/music/Bibi/_/Witch+Hunt)
 * [The Chalkeaters — Furrýmon: Gotta Smash ’Em All!](https://www.last.fm/music/The+Chalkeaters/_/Furr%C3%BDmon:+Gotta+Smash+%E2%80%99Em+All!)
 * [Rich Brian — Slow Down Turbo](https://www.last.fm/music/Rich+Brian/_/Slow+Down+Turbo)
 * [Eden — 909](https://www.last.fm/music/Eden/_/909)
-* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
-* [Porter Robinson — Fresh Static Snow - Last Island Remix](https://www.last.fm/music/Porter+Robinson/_/Fresh+Static+Snow+-+Last+Island+Remix)<!-- LASTFM:END -->
+* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
