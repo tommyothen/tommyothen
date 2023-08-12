@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Andrew Huang — Summertime Feeling](https://www.last.fm/music/Andrew+Huang/_/Summertime+Feeling)
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
 * [The404Studios — Lost](https://www.last.fm/music/The404Studios/_/Lost)
 * [Adam Jensen — Bad Luck](https://www.last.fm/music/Adam+Jensen/_/Bad+Luck)
-* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)
-* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
-* [Hyper Potions — Maboroshi](https://www.last.fm/music/Hyper+Potions/_/Maboroshi)<!-- LASTFM:END -->
+* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
