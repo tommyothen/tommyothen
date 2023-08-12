@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)
+* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
+* [Hyper Potions — Maboroshi](https://www.last.fm/music/Hyper+Potions/_/Maboroshi)
 * [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)
-* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
-* [Post Malone — Goodbyes &lpar;feat. Young Thug&rpar;](https://www.last.fm/music/Post+Malone/_/Goodbyes+&lpar;feat.+Young+Thug&rpar;)<!-- LASTFM:END -->
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
