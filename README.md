@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DEATHNYANN — tarantula](https://www.last.fm/music/DEATHNYANN/_/tarantula)
+* [Memehubb — Luda Gets Even Funkier](https://www.last.fm/music/Memehubb/_/Luda+Gets+Even+Funkier)
 * [Rings of Saturn — Senseless Massacre](https://www.last.fm/music/Rings+of+Saturn/_/Senseless+Massacre)
 * [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)
-* [Royal &amp; the Serpent — Weddings &amp; Funerals](https://www.last.fm/music/Royal+&amp;+the+Serpent/_/Weddings+&amp;+Funerals)
-* [Rings of Saturn — Senseless Massacre](https://www.last.fm/music/Rings+of+Saturn/_/Senseless+Massacre)
-* [Rings of Saturn — Godless Times](https://www.last.fm/music/Rings+of+Saturn/_/Godless+Times)<!-- LASTFM:END -->
+* [Royal &amp; the Serpent — Weddings &amp; Funerals](https://www.last.fm/music/Royal+&amp;+the+Serpent/_/Weddings+&amp;+Funerals)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
