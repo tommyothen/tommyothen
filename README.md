@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Oasis — She&#39;s Electric](https://www.last.fm/music/Oasis/_/She%27s+Electric)
 * [N.W.A. — Straight Outta Compton](https://www.last.fm/music/N.W.A./_/Straight+Outta+Compton)
 * [Cat Burns — Go - goddard. Remix](https://www.last.fm/music/Cat+Burns/_/Go+-+goddard.+Remix)
 * [The Notorious B.I.G. — Kick in the Door - 2008 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Kick+in+the+Door+-+2008+Remaster)
-* [2Pac — California Love - Original Version](https://www.last.fm/music/2Pac/_/California+Love+-+Original+Version)
-* [N.W.A. — Express Yourself](https://www.last.fm/music/N.W.A./_/Express+Yourself)<!-- LASTFM:END -->
+* [2Pac — California Love - Original Version](https://www.last.fm/music/2Pac/_/California+Love+-+Original+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
