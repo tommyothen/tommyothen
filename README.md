@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
+* [Joji — Worldstar Money &lpar;Interlude&rpar;](https://www.last.fm/music/Joji/_/Worldstar+Money+&lpar;Interlude&rpar;)
+* [Eden — Catch Me If You Can](https://www.last.fm/music/Eden/_/Catch+Me+If+You+Can)
 * [ROY PURDY — Walk It out!](https://www.last.fm/music/ROY+PURDY/_/Walk+It+out!)
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
-* [Hieroglyphics — Make Your Move](https://www.last.fm/music/Hieroglyphics/_/Make+Your+Move)
-* [Marvin Divine — Back Again](https://www.last.fm/music/Marvin+Divine/_/Back+Again)
-* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)<!-- LASTFM:END -->
+* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
