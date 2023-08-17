@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Notorious B.I.G. — Kick in the Door - 2008 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Kick+in+the+Door+-+2008+Remaster)
+* [2Pac — California Love - Original Version](https://www.last.fm/music/2Pac/_/California+Love+-+Original+Version)
+* [N.W.A. — Express Yourself](https://www.last.fm/music/N.W.A./_/Express+Yourself)
 * [Kendrick Lamar — A.D.H.D](https://www.last.fm/music/Kendrick+Lamar/_/A.D.H.D)
-* [Drake — Hotline Bling](https://www.last.fm/music/Drake/_/Hotline+Bling)
-* [Dave — Streatham](https://www.last.fm/music/Dave/_/Streatham)
-* [Dave — Starlight](https://www.last.fm/music/Dave/_/Starlight)
-* [Kano — P&#39;s And Q&#39;s](https://www.last.fm/music/Kano/_/P%27s+And+Q%27s)<!-- LASTFM:END -->
+* [Drake — Hotline Bling](https://www.last.fm/music/Drake/_/Hotline+Bling)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
