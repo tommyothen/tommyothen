@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loco — Don’t](https://www.last.fm/music/Loco/_/Don%E2%80%99t)
+* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
 * [Engelwood — crystal dolphin](https://www.last.fm/music/Engelwood/_/crystal+dolphin)
 * [Desired — Wake Up](https://www.last.fm/music/Desired/_/Wake+Up)
-* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)
-* [Ramirez — Glitter &amp; Gold](https://www.last.fm/music/Ramirez/_/Glitter+&amp;+Gold)
-* [Mac Miller — Hands](https://www.last.fm/music/Mac+Miller/_/Hands)<!-- LASTFM:END -->
+* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
