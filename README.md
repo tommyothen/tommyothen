@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mötley Crüe — Girls, Girls, Girls](https://www.last.fm/music/M%C3%B6tley+Cr%C3%BCe/_/Girls,+Girls,+Girls)
 * [Mötley Crüe — Same Ol&#39; Situation &lpar;S.O.S.&rpar;](https://www.last.fm/music/M%C3%B6tley+Cr%C3%BCe/_/Same+Ol%27+Situation+&lpar;S.O.S.&rpar;)
 * [Mötley Crüe — Kickstart My Heart](https://www.last.fm/music/M%C3%B6tley+Cr%C3%BCe/_/Kickstart+My+Heart)
 * [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
-* [Spice Girls — Wannabe](https://www.last.fm/music/Spice+Girls/_/Wannabe)
-* [Girls Aloud — Sound of the Underground](https://www.last.fm/music/Girls+Aloud/_/Sound+of+the+Underground)<!-- LASTFM:END -->
+* [Spice Girls — Wannabe](https://www.last.fm/music/Spice+Girls/_/Wannabe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
