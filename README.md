@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
 * [Polyphia — G.O.A.T.](https://www.last.fm/music/Polyphia/_/G.O.A.T.)
 * [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Mötley Crüe — Girls, Girls, Girls](https://www.last.fm/music/M%C3%B6tley+Cr%C3%BCe/_/Girls,+Girls,+Girls)
-* [Mötley Crüe — Same Ol&#39; Situation &lpar;S.O.S.&rpar;](https://www.last.fm/music/M%C3%B6tley+Cr%C3%BCe/_/Same+Ol%27+Situation+&lpar;S.O.S.&rpar;)<!-- LASTFM:END -->
+* [Mötley Crüe — Girls, Girls, Girls](https://www.last.fm/music/M%C3%B6tley+Cr%C3%BCe/_/Girls,+Girls,+Girls)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
