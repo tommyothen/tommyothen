@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Quadeca — Ego Death](https://www.last.fm/music/Quadeca/_/Ego+Death)
+* [Rich Brian — Glow Like Dat](https://www.last.fm/music/Rich+Brian/_/Glow+Like+Dat)
 * [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
 * [Eden — forever//over](https://www.last.fm/music/Eden/_/forever%2F%2Fover)
-* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
-* [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)
-* [Eden — stutter](https://www.last.fm/music/Eden/_/stutter)<!-- LASTFM:END -->
+* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
