@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
 * [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)
 * [Niki — Sugarplum Elegy](https://www.last.fm/music/Niki/_/Sugarplum+Elegy)
 * [Eden — gold](https://www.last.fm/music/Eden/_/gold)
-* [Eden — float](https://www.last.fm/music/Eden/_/float)
-* [The Stone Roses — Mersey Paradise - Remastered](https://www.last.fm/music/The+Stone+Roses/_/Mersey+Paradise+-+Remastered)<!-- LASTFM:END -->
+* [Eden — float](https://www.last.fm/music/Eden/_/float)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
