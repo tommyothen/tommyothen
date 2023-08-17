@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mau P — Drugs From Amsterdam](https://www.last.fm/music/Mau+P/_/Drugs+From+Amsterdam)
 * [Dave — Trojan Horse](https://www.last.fm/music/Dave/_/Trojan+Horse)
 * [Stormzy — Toxic Trait](https://www.last.fm/music/Stormzy/_/Toxic+Trait)
 * [Drake — Jimmy Cooks &lpar;feat. 21 Savage&rpar;](https://www.last.fm/music/Drake/_/Jimmy+Cooks+&lpar;feat.+21+Savage&rpar;)
-* [Coldplay — My Universe](https://www.last.fm/music/Coldplay/_/My+Universe)
-* [Blaze U — Walk Tha Plank](https://www.last.fm/music/Blaze+U/_/Walk+Tha+Plank)<!-- LASTFM:END -->
+* [Coldplay — My Universe](https://www.last.fm/music/Coldplay/_/My+Universe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
