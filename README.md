@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — I Don&#39;t Wanna Waste My Time &lpar;SwuM Remix&rpar;](https://www.last.fm/music/Joji/_/I+Don%27t+Wanna+Waste+My+Time+&lpar;SwuM+Remix&rpar;)
+* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)
 * [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
 * [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
-* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
-* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
-* [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)<!-- LASTFM:END -->
+* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
