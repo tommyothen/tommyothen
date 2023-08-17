@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dave — Streatham](https://www.last.fm/music/Dave/_/Streatham)
+* [Dave — Starlight](https://www.last.fm/music/Dave/_/Starlight)
+* [Kano — P&#39;s And Q&#39;s](https://www.last.fm/music/Kano/_/P%27s+And+Q%27s)
 * [ViBe Chemistry — Balling &lpar;feat. Songer, Mr Traumatik, Devilman &amp; OneDa&rpar; - Edit](https://www.last.fm/music/ViBe+Chemistry/_/Balling+&lpar;feat.+Songer,+Mr+Traumatik,+Devilman+&amp;+OneDa&rpar;+-+Edit)
-* [Eminem — Bitch Please II](https://www.last.fm/music/Eminem/_/Bitch+Please+II)
-* [Rakim — When I B On Tha Mic](https://www.last.fm/music/Rakim/_/When+I+B+On+Tha+Mic)
-* [Headie One — Martin&#39;s Sofa](https://www.last.fm/music/Headie+One/_/Martin%27s+Sofa)
-* [Ice Cube — You Know How We Do It](https://www.last.fm/music/Ice+Cube/_/You+Know+How+We+Do+It)<!-- LASTFM:END -->
+* [Eminem — Bitch Please II](https://www.last.fm/music/Eminem/_/Bitch+Please+II)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
