@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — stutter](https://www.last.fm/music/Eden/_/stutter)
 * [YUNG RARE — Moshi Moshi](https://www.last.fm/music/YUNG+RARE/_/Moshi+Moshi)
 * [ONI INC. — Plague](https://www.last.fm/music/ONI+INC./_/Plague)
 * [Joji — I Don&#39;t Wanna Waste My Time &lpar;SwuM Remix&rpar;](https://www.last.fm/music/Joji/_/I+Don%27t+Wanna+Waste+My+Time+&lpar;SwuM+Remix&rpar;)
-* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)
-* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)<!-- LASTFM:END -->
+* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
