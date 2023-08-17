@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
 * [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
 * [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)
 * [Payday — I Don&#39;t Cry](https://www.last.fm/music/Payday/_/I+Don%27t+Cry)
-* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
-* [tortuganónima — Ukiyo](https://www.last.fm/music/tortugan%C3%B3nima/_/Ukiyo)<!-- LASTFM:END -->
+* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
