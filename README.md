@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Porter Robinson — Years Of War - Rob Mayth Remix](https://www.last.fm/music/Porter+Robinson/_/Years+Of+War+-+Rob+Mayth+Remix)
 * [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)
 * [SCARLXRD — BERZERK](https://www.last.fm/music/SCARLXRD/_/BERZERK)
 * [SCARLXRD — I CAN DX WHAT I WANT](https://www.last.fm/music/SCARLXRD/_/I+CAN+DX+WHAT+I+WANT)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
