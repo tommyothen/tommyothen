@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
 * [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)
 * [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
-* [Loco — Don’t](https://www.last.fm/music/Loco/_/Don%E2%80%99t)
-* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
-* [Engelwood — crystal dolphin](https://www.last.fm/music/Engelwood/_/crystal+dolphin)<!-- LASTFM:END -->
+* [Loco — Don’t](https://www.last.fm/music/Loco/_/Don%E2%80%99t)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
