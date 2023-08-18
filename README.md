@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lümi — Sucky Sucky &lpar;Love Me Long Time&rpar;](https://www.last.fm/music/L%C3%BCmi/_/Sucky+Sucky+&lpar;Love+Me+Long+Time&rpar;)
+* [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)
 * [Pendulum — Self vs Self &lpar;feat. In Flames&rpar;](https://www.last.fm/music/Pendulum/_/Self+vs+Self+&lpar;feat.+In+Flames&rpar;)
 * [Pendulum — Tarantula](https://www.last.fm/music/Pendulum/_/Tarantula)
-* [Pendulum — Watercolour - Full Version; Single](https://www.last.fm/music/Pendulum/_/Watercolour+-+Full+Version;+Single)
-* [Vieze Asbak — Erika Uit Langenboom - Uptempo Braak Mix](https://www.last.fm/music/Vieze+Asbak/_/Erika+Uit+Langenboom+-+Uptempo+Braak+Mix)
-* [The Prodigy — Voodoo People - Pendulum Mix](https://www.last.fm/music/The+Prodigy/_/Voodoo+People+-+Pendulum+Mix)<!-- LASTFM:END -->
+* [Pendulum — Watercolour - Full Version; Single](https://www.last.fm/music/Pendulum/_/Watercolour+-+Full+Version;+Single)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
