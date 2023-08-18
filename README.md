@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [Rich Brian — Little Prince &lpar;feat. NIKI&rpar;](https://www.last.fm/music/Rich+Brian/_/Little+Prince+&lpar;feat.+NIKI&rpar;)
 * [bbno$ — too easy](https://www.last.fm/music/bbno$/_/too+easy)
 * [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
-* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
-* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)<!-- LASTFM:END -->
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
