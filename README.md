@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Verbalase — Tetris - Beatbox](https://www.last.fm/music/Verbalase/_/Tetris+-+Beatbox)
+* [t+pazolite — Marble](https://www.last.fm/music/t%252Bpazolite/_/Marble)
+* [Luca-Dante Spadafora — NOOT NOOT](https://www.last.fm/music/Luca-Dante+Spadafora/_/NOOT+NOOT)
 * [Z-Flo — The Black People Song](https://www.last.fm/music/Z-Flo/_/The+Black+People+Song)
-* [Katy Perry — Firework](https://www.last.fm/music/Katy+Perry/_/Firework)
-* [Katy Perry — Last Friday Night &lpar;T.G.I.F.&rpar;](https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+&lpar;T.G.I.F.&rpar;)
-* [k96 — Cyka Kalinka](https://www.last.fm/music/k96/_/Cyka+Kalinka)
-* [Lümi — Sucky Sucky &lpar;Love Me Long Time&rpar;](https://www.last.fm/music/L%C3%BCmi/_/Sucky+Sucky+&lpar;Love+Me+Long+Time&rpar;)<!-- LASTFM:END -->
+* [Katy Perry — Firework](https://www.last.fm/music/Katy+Perry/_/Firework)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
