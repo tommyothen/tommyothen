@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
+* [Nia Archives — Baianá](https://www.last.fm/music/Nia+Archives/_/Baian%C3%A1)
 * [LOBSTA B — CRAZYFROG OUVERTURE](https://www.last.fm/music/LOBSTA+B/_/CRAZYFROG+OUVERTURE)
 * [lapix — Day by day - PSYQUI Remix](https://www.last.fm/music/lapix/_/Day+by+day+-+PSYQUI+Remix)
-* [Verbalase — Tetris - Beatbox](https://www.last.fm/music/Verbalase/_/Tetris+-+Beatbox)
-* [t+pazolite — Marble](https://www.last.fm/music/t%252Bpazolite/_/Marble)
-* [Luca-Dante Spadafora — NOOT NOOT](https://www.last.fm/music/Luca-Dante+Spadafora/_/NOOT+NOOT)<!-- LASTFM:END -->
+* [Verbalase — Tetris - Beatbox](https://www.last.fm/music/Verbalase/_/Tetris+-+Beatbox)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
