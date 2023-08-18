@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blaze U — Walk Tha Plank](https://www.last.fm/music/Blaze+U/_/Walk+Tha+Plank)
 * [Fox Stevenson — Sandblast](https://www.last.fm/music/Fox+Stevenson/_/Sandblast)
 * [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
 * [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)
-* [Fox Stevenson — Dreamland](https://www.last.fm/music/Fox+Stevenson/_/Dreamland)
-* [Headie One — Martin&#39;s Sofa](https://www.last.fm/music/Headie+One/_/Martin%27s+Sofa)<!-- LASTFM:END -->
+* [Fox Stevenson — Dreamland](https://www.last.fm/music/Fox+Stevenson/_/Dreamland)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
