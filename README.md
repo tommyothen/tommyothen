@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katy Perry — Last Friday Night &lpar;T.G.I.F.&rpar;](https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+&lpar;T.G.I.F.&rpar;)
+* [k96 — Cyka Kalinka](https://www.last.fm/music/k96/_/Cyka+Kalinka)
 * [Lümi — Sucky Sucky &lpar;Love Me Long Time&rpar;](https://www.last.fm/music/L%C3%BCmi/_/Sucky+Sucky+&lpar;Love+Me+Long+Time&rpar;)
 * [MO$H — golden shower](https://www.last.fm/music/MO$H/_/golden+shower)
-* [Pendulum — Self vs Self &lpar;feat. In Flames&rpar;](https://www.last.fm/music/Pendulum/_/Self+vs+Self+&lpar;feat.+In+Flames&rpar;)
-* [Pendulum — Tarantula](https://www.last.fm/music/Pendulum/_/Tarantula)
-* [Pendulum — Watercolour - Full Version; Single](https://www.last.fm/music/Pendulum/_/Watercolour+-+Full+Version;+Single)<!-- LASTFM:END -->
+* [Pendulum — Self vs Self &lpar;feat. In Flames&rpar;](https://www.last.fm/music/Pendulum/_/Self+vs+Self+&lpar;feat.+In+Flames&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
