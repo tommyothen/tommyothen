@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Tarantula](https://www.last.fm/music/Pendulum/_/Tarantula)
+* [Pendulum — Watercolour - Full Version; Single](https://www.last.fm/music/Pendulum/_/Watercolour+-+Full+Version;+Single)
 * [Vieze Asbak — Erika Uit Langenboom - Uptempo Braak Mix](https://www.last.fm/music/Vieze+Asbak/_/Erika+Uit+Langenboom+-+Uptempo+Braak+Mix)
 * [The Prodigy — Voodoo People - Pendulum Mix](https://www.last.fm/music/The+Prodigy/_/Voodoo+People+-+Pendulum+Mix)
-* [Shy FX — Roll the Dice &lpar;feat. Stamina MC &amp; Lily Allen&rpar; [The Sauce Remix] - Mixed](https://www.last.fm/music/Shy+FX/_/Roll+the+Dice+&lpar;feat.+Stamina+MC+&amp;+Lily+Allen&rpar;+%5BThe+Sauce+Remix%5D+-+Mixed)
-* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
-* [Superior Cornrows — Test Me](https://www.last.fm/music/Superior+Cornrows/_/Test+Me)<!-- LASTFM:END -->
+* [Shy FX — Roll the Dice &lpar;feat. Stamina MC &amp; Lily Allen&rpar; [The Sauce Remix] - Mixed](https://www.last.fm/music/Shy+FX/_/Roll+the+Dice+&lpar;feat.+Stamina+MC+&amp;+Lily+Allen&rpar;+%5BThe+Sauce+Remix%5D+-+Mixed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
