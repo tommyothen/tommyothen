@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)
 * [Fox Stevenson — Dreamland](https://www.last.fm/music/Fox+Stevenson/_/Dreamland)
 * [Headie One — Martin&#39;s Sofa](https://www.last.fm/music/Headie+One/_/Martin%27s+Sofa)
 * [Lil Yachty — Poland](https://www.last.fm/music/Lil+Yachty/_/Poland)
-* [Noisia — Supersonic &lpar;VIP&rpar;](https://www.last.fm/music/Noisia/_/Supersonic+&lpar;VIP&rpar;)
-* [Noisia — Tentacles](https://www.last.fm/music/Noisia/_/Tentacles)<!-- LASTFM:END -->
+* [Noisia — Supersonic &lpar;VIP&rpar;](https://www.last.fm/music/Noisia/_/Supersonic+&lpar;VIP&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
