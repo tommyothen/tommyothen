@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
 * [XXXTENTACION — before i close my eyes](https://www.last.fm/music/XXXTENTACION/_/before+i+close+my+eyes)
 * [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [DJ Khalil — Elevate &lpar;feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich&rpar;](https://www.last.fm/music/DJ+Khalil/_/Elevate+&lpar;feat.+Denzel+Curry,+YBN+Cordae,+SwaVay,+Trevor+Rich&rpar;)
-* [bbno$ — edamame &lpar;feat. Rich Brian&rpar;](https://www.last.fm/music/bbno$/_/edamame+&lpar;feat.+Rich+Brian&rpar;)<!-- LASTFM:END -->
+* [DJ Khalil — Elevate &lpar;feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich&rpar;](https://www.last.fm/music/DJ+Khalil/_/Elevate+&lpar;feat.+Denzel+Curry,+YBN+Cordae,+SwaVay,+Trevor+Rich&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
