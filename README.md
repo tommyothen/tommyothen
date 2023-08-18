@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LOBSTA B — CRAZYFROG OUVERTURE](https://www.last.fm/music/LOBSTA+B/_/CRAZYFROG+OUVERTURE)
+* [lapix — Day by day - PSYQUI Remix](https://www.last.fm/music/lapix/_/Day+by+day+-+PSYQUI+Remix)
 * [Verbalase — Tetris - Beatbox](https://www.last.fm/music/Verbalase/_/Tetris+-+Beatbox)
 * [t+pazolite — Marble](https://www.last.fm/music/t%252Bpazolite/_/Marble)
-* [Luca-Dante Spadafora — NOOT NOOT](https://www.last.fm/music/Luca-Dante+Spadafora/_/NOOT+NOOT)
-* [Z-Flo — The Black People Song](https://www.last.fm/music/Z-Flo/_/The+Black+People+Song)
-* [Katy Perry — Firework](https://www.last.fm/music/Katy+Perry/_/Firework)<!-- LASTFM:END -->
+* [Luca-Dante Spadafora — NOOT NOOT](https://www.last.fm/music/Luca-Dante+Spadafora/_/NOOT+NOOT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
