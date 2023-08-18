@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shy FX — Roll the Dice &lpar;feat. Stamina MC &amp; Lily Allen&rpar; [The Sauce Remix] - Mixed](https://www.last.fm/music/Shy+FX/_/Roll+the+Dice+&lpar;feat.+Stamina+MC+&amp;+Lily+Allen&rpar;+%5BThe+Sauce+Remix%5D+-+Mixed)
+* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
+* [Superior Cornrows — Test Me](https://www.last.fm/music/Superior+Cornrows/_/Test+Me)
 * [Blaze U — Walk Tha Plank](https://www.last.fm/music/Blaze+U/_/Walk+Tha+Plank)
-* [Fox Stevenson — Sandblast](https://www.last.fm/music/Fox+Stevenson/_/Sandblast)
-* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
-* [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)
-* [Fox Stevenson — Dreamland](https://www.last.fm/music/Fox+Stevenson/_/Dreamland)<!-- LASTFM:END -->
+* [Fox Stevenson — Sandblast](https://www.last.fm/music/Fox+Stevenson/_/Sandblast)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
