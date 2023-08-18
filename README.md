@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Yachty — Poland](https://www.last.fm/music/Lil+Yachty/_/Poland)
+* [Noisia — Supersonic &lpar;VIP&rpar;](https://www.last.fm/music/Noisia/_/Supersonic+&lpar;VIP&rpar;)
 * [Noisia — Tentacles](https://www.last.fm/music/Noisia/_/Tentacles)
 * [Rich Brian — Yellow &lpar;feat. Bekon&rpar;](https://www.last.fm/music/Rich+Brian/_/Yellow+&lpar;feat.+Bekon&rpar;)
-* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
-* [XXXTENTACION — before i close my eyes](https://www.last.fm/music/XXXTENTACION/_/before+i+close+my+eyes)
-* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)<!-- LASTFM:END -->
+* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
