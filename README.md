@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
 * [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)
 * [Darren Ang — Lake &lpar;From &quot;Pokémon DPPt&quot;&rpar;](https://www.last.fm/music/Darren+Ang/_/Lake+&lpar;From+%22Pok%C3%A9mon+DPPt%22&rpar;)
-* [Joel Sunny — Slow Dancing In the Dark &lpar;Violin&rpar;](https://www.last.fm/music/Joel+Sunny/_/Slow+Dancing+In+the+Dark+&lpar;Violin&rpar;)
-* [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)
-* [Omori — DUET](https://www.last.fm/music/Omori/_/DUET)<!-- LASTFM:END -->
+* [Joel Sunny — Slow Dancing In the Dark &lpar;Violin&rpar;](https://www.last.fm/music/Joel+Sunny/_/Slow+Dancing+In+the+Dark+&lpar;Violin&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
