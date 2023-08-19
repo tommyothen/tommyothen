@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BROCKHAMPTON — BOY BYE](https://www.last.fm/music/BROCKHAMPTON/_/BOY+BYE)
+* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
+* [DJ BJ — Part IV](https://www.last.fm/music/DJ+BJ/_/Part+IV)
 * [Com Truise — 4 Morant &lpar;Better Luck Next Time&rpar;](https://www.last.fm/music/Com+Truise/_/4+Morant+&lpar;Better+Luck+Next+Time&rpar;)
-* [Alex G — Mary](https://www.last.fm/music/Alex+G/_/Mary)
-* [TV Girl — Not Allowed](https://www.last.fm/music/TV+Girl/_/Not+Allowed)
-* [Vundabar — Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues)
-* [TWICE — SIGNAL](https://www.last.fm/music/TWICE/_/SIGNAL)<!-- LASTFM:END -->
+* [Alex G — Mary](https://www.last.fm/music/Alex+G/_/Mary)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
