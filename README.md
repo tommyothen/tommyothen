@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TV Girl — Not Allowed](https://www.last.fm/music/TV+Girl/_/Not+Allowed)
+* [Vundabar — Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues)
+* [TWICE — SIGNAL](https://www.last.fm/music/TWICE/_/SIGNAL)
 * [TWICE — Conversation](https://www.last.fm/music/TWICE/_/Conversation)
-* [TWICE — Alcohol-Free](https://www.last.fm/music/TWICE/_/Alcohol-Free)
-* [TWICE — TT](https://www.last.fm/music/TWICE/_/TT)
-* [TWICE — MOONLIGHT SUNRISE](https://www.last.fm/music/TWICE/_/MOONLIGHT+SUNRISE)
-* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)<!-- LASTFM:END -->
+* [TWICE — Alcohol-Free](https://www.last.fm/music/TWICE/_/Alcohol-Free)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
