@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Com Truise — 4 Morant &lpar;Better Luck Next Time&rpar;](https://www.last.fm/music/Com+Truise/_/4+Morant+&lpar;Better+Luck+Next+Time&rpar;)
+* [Alex G — Mary](https://www.last.fm/music/Alex+G/_/Mary)
 * [TV Girl — Not Allowed](https://www.last.fm/music/TV+Girl/_/Not+Allowed)
 * [Vundabar — Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues)
-* [TWICE — SIGNAL](https://www.last.fm/music/TWICE/_/SIGNAL)
-* [TWICE — Conversation](https://www.last.fm/music/TWICE/_/Conversation)
-* [TWICE — Alcohol-Free](https://www.last.fm/music/TWICE/_/Alcohol-Free)<!-- LASTFM:END -->
+* [TWICE — SIGNAL](https://www.last.fm/music/TWICE/_/SIGNAL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
