@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Notorious B.I.G. — Notorious Thugs - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Notorious+Thugs+-+2014+Remaster)
 * [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)
 * [Oliver Tree — I&#39;m Gone](https://www.last.fm/music/Oliver+Tree/_/I%27m+Gone)
 * [BROCKHAMPTON — BLEACH](https://www.last.fm/music/BROCKHAMPTON/_/BLEACH)
-* [N.W.A. — Straight Outta Compton](https://www.last.fm/music/N.W.A./_/Straight+Outta+Compton)
-* [Issey Cross — Bittersweet Goodbye](https://www.last.fm/music/Issey+Cross/_/Bittersweet+Goodbye)<!-- LASTFM:END -->
+* [N.W.A. — Straight Outta Compton](https://www.last.fm/music/N.W.A./_/Straight+Outta+Compton)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
