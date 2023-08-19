@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Unlucky Morpheus — Dead Leaves Rising](https://www.last.fm/music/Unlucky+Morpheus/_/Dead+Leaves+Rising)
+* [Megadeth — Holy Wars...The Punishment Due - 2004 Remix](https://www.last.fm/music/Megadeth/_/Holy+Wars...The+Punishment+Due+-+2004+Remix)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [Polyphia — Genesis &lpar;feat. Brasstracks&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;feat.+Brasstracks&rpar;)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
-* [Bakar — Hell N Back](https://www.last.fm/music/Bakar/_/Hell+N+Back)
-* [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)<!-- LASTFM:END -->
+* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
