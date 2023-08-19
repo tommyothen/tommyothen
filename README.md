@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charli XCX — Speed Drive &lpar;From Barbie the Album&rpar;](https://www.last.fm/music/Charli+XCX/_/Speed+Drive+&lpar;From+Barbie+the+Album&rpar;)
+* [cassö — Prada](https://www.last.fm/music/cass%C3%B6/_/Prada)
+* [Nicki Minaj — Fly](https://www.last.fm/music/Nicki+Minaj/_/Fly)
 * [FLO — Summertime](https://www.last.fm/music/FLO/_/Summertime)
-* [Shygirl — Coochie &lpar;a bedtime story&rpar;](https://www.last.fm/music/Shygirl/_/Coochie+&lpar;a+bedtime+story&rpar;)
-* [BROCKHAMPTON — BOY BYE](https://www.last.fm/music/BROCKHAMPTON/_/BOY+BYE)
-* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
-* [DJ BJ — Part IV](https://www.last.fm/music/DJ+BJ/_/Part+IV)<!-- LASTFM:END -->
+* [Shygirl — Coochie &lpar;a bedtime story&rpar;](https://www.last.fm/music/Shygirl/_/Coochie+&lpar;a+bedtime+story&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
