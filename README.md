@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BROCKHAMPTON — BLEACH](https://www.last.fm/music/BROCKHAMPTON/_/BLEACH)
+* [N.W.A. — Straight Outta Compton](https://www.last.fm/music/N.W.A./_/Straight+Outta+Compton)
 * [Issey Cross — Bittersweet Goodbye](https://www.last.fm/music/Issey+Cross/_/Bittersweet+Goodbye)
 * [Ceechynaa — Last laugh](https://www.last.fm/music/Ceechynaa/_/Last+laugh)
-* [Sonny Fodera — Asking](https://www.last.fm/music/Sonny+Fodera/_/Asking)
-* [Charli XCX — Speed Drive &lpar;From Barbie the Album&rpar;](https://www.last.fm/music/Charli+XCX/_/Speed+Drive+&lpar;From+Barbie+the+Album&rpar;)
-* [cassö — Prada](https://www.last.fm/music/cass%C3%B6/_/Prada)<!-- LASTFM:END -->
+* [Sonny Fodera — Asking](https://www.last.fm/music/Sonny+Fodera/_/Asking)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
