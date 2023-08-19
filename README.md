@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KiLLOWEN — Sober](https://www.last.fm/music/KiLLOWEN/_/Sober)
+* [MCR-T — My Barn My Rules](https://www.last.fm/music/MCR-T/_/My+Barn+My+Rules)
 * [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
 * [Aurora — Cure For Me](https://www.last.fm/music/Aurora/_/Cure+For+Me)
-* [Josh A — No Shima Remix](https://www.last.fm/music/Josh+A/_/No+Shima+Remix)
-* [brb. — Whoops](https://www.last.fm/music/brb./_/Whoops)
-* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)<!-- LASTFM:END -->
+* [Josh A — No Shima Remix](https://www.last.fm/music/Josh+A/_/No+Shima+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
