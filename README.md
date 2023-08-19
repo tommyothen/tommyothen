@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)
+* [Oliver Tree — I&#39;m Gone](https://www.last.fm/music/Oliver+Tree/_/I%27m+Gone)
 * [BROCKHAMPTON — BLEACH](https://www.last.fm/music/BROCKHAMPTON/_/BLEACH)
 * [N.W.A. — Straight Outta Compton](https://www.last.fm/music/N.W.A./_/Straight+Outta+Compton)
-* [Issey Cross — Bittersweet Goodbye](https://www.last.fm/music/Issey+Cross/_/Bittersweet+Goodbye)
-* [Ceechynaa — Last laugh](https://www.last.fm/music/Ceechynaa/_/Last+laugh)
-* [Sonny Fodera — Asking](https://www.last.fm/music/Sonny+Fodera/_/Asking)<!-- LASTFM:END -->
+* [Issey Cross — Bittersweet Goodbye](https://www.last.fm/music/Issey+Cross/_/Bittersweet+Goodbye)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
