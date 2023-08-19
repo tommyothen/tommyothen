@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FLO — Summertime](https://www.last.fm/music/FLO/_/Summertime)
+* [Shygirl — Coochie &lpar;a bedtime story&rpar;](https://www.last.fm/music/Shygirl/_/Coochie+&lpar;a+bedtime+story&rpar;)
 * [BROCKHAMPTON — BOY BYE](https://www.last.fm/music/BROCKHAMPTON/_/BOY+BYE)
 * [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
-* [DJ BJ — Part IV](https://www.last.fm/music/DJ+BJ/_/Part+IV)
-* [Com Truise — 4 Morant &lpar;Better Luck Next Time&rpar;](https://www.last.fm/music/Com+Truise/_/4+Morant+&lpar;Better+Luck+Next+Time&rpar;)
-* [Alex G — Mary](https://www.last.fm/music/Alex+G/_/Mary)<!-- LASTFM:END -->
+* [DJ BJ — Part IV](https://www.last.fm/music/DJ+BJ/_/Part+IV)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
