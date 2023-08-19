@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)
+* [Rings of Saturn — No Pity For A Coward](https://www.last.fm/music/Rings+of+Saturn/_/No+Pity+For+A+Coward)
 * [Kill Bill: The Rapper — Backwoods](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Backwoods)
 * [The Notorious B.I.G. — Notorious Thugs - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Notorious+Thugs+-+2014+Remaster)
-* [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)
-* [Oliver Tree — I&#39;m Gone](https://www.last.fm/music/Oliver+Tree/_/I%27m+Gone)
-* [BROCKHAMPTON — BLEACH](https://www.last.fm/music/BROCKHAMPTON/_/BLEACH)<!-- LASTFM:END -->
+* [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
