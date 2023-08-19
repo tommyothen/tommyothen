@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Josh A — No Shima Remix](https://www.last.fm/music/Josh+A/_/No+Shima+Remix)
+* [brb. — Whoops](https://www.last.fm/music/brb./_/Whoops)
+* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
 * [BLACKPINK — Typa Girl](https://www.last.fm/music/BLACKPINK/_/Typa+Girl)
-* [Rings of Saturn — Godless Times](https://www.last.fm/music/Rings+of+Saturn/_/Godless+Times)
-* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)
-* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
-* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)<!-- LASTFM:END -->
+* [Rings of Saturn — Godless Times](https://www.last.fm/music/Rings+of+Saturn/_/Godless+Times)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
