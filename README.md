@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [We Came as Romans — Cold Like War](https://www.last.fm/music/We+Came+as+Romans/_/Cold+Like+War)
+* [We Came as Romans — Cold Like War](https://www.last.fm/music/We+Came+as+Romans/_/Cold+Like+War)
 * [$uicideboy$ — In Constant Sorrow](https://www.last.fm/music/$uicideboy$/_/In+Constant+Sorrow)
 * [$uicideboy$ — 1000 Blunts](https://www.last.fm/music/$uicideboy$/_/1000+Blunts)
-* [COCKAHOLICS — KETAMINE JUNKIE](https://www.last.fm/music/COCKAHOLICS/_/KETAMINE+JUNKIE)
-* [$uicideboy$ — KILL YOURSELF &lpar;Part III&rpar;](https://www.last.fm/music/$uicideboy$/_/KILL+YOURSELF+&lpar;Part+III&rpar;)<!-- LASTFM:END -->
+* [COCKAHOLICS — KETAMINE JUNKIE](https://www.last.fm/music/COCKAHOLICS/_/KETAMINE+JUNKIE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
