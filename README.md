@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — Conversation](https://www.last.fm/music/TWICE/_/Conversation)
+* [TWICE — Alcohol-Free](https://www.last.fm/music/TWICE/_/Alcohol-Free)
 * [TWICE — TT](https://www.last.fm/music/TWICE/_/TT)
 * [TWICE — MOONLIGHT SUNRISE](https://www.last.fm/music/TWICE/_/MOONLIGHT+SUNRISE)
-* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
-* [teeawgo — Hot on My Heels](https://www.last.fm/music/teeawgo/_/Hot+on+My+Heels)
-* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)<!-- LASTFM:END -->
+* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
