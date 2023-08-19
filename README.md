@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Freddie Dredd — WEATHER](https://www.last.fm/music/Freddie+Dredd/_/WEATHER)
+* [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
+* [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
 * [Unlucky Morpheus — Dead Leaves Rising](https://www.last.fm/music/Unlucky+Morpheus/_/Dead+Leaves+Rising)
-* [Megadeth — Holy Wars...The Punishment Due - 2004 Remix](https://www.last.fm/music/Megadeth/_/Holy+Wars...The+Punishment+Due+-+2004+Remix)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Polyphia — Genesis &lpar;feat. Brasstracks&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;feat.+Brasstracks&rpar;)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)<!-- LASTFM:END -->
+* [Megadeth — Holy Wars...The Punishment Due - 2004 Remix](https://www.last.fm/music/Megadeth/_/Holy+Wars...The+Punishment+Due+-+2004+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
