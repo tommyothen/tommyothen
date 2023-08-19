@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
+* [Aurora — Cure For Me](https://www.last.fm/music/Aurora/_/Cure+For+Me)
 * [Josh A — No Shima Remix](https://www.last.fm/music/Josh+A/_/No+Shima+Remix)
 * [brb. — Whoops](https://www.last.fm/music/brb./_/Whoops)
-* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)
-* [BLACKPINK — Typa Girl](https://www.last.fm/music/BLACKPINK/_/Typa+Girl)
-* [Rings of Saturn — Godless Times](https://www.last.fm/music/Rings+of+Saturn/_/Godless+Times)<!-- LASTFM:END -->
+* [1NONLY — Lovely](https://www.last.fm/music/1NONLY/_/Lovely)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
