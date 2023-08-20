@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [System of a Down — Chop Suey!](https://www.last.fm/music/System+of+a+Down/_/Chop+Suey!)
 * [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
-* [久石譲 — Ikaros](https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/Ikaros)<!-- LASTFM:END -->
+* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
