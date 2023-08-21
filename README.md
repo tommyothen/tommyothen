@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — The Jungle](https://www.last.fm/music/Polyphia/_/The+Jungle)
+* [Polyphia — Aviator](https://www.last.fm/music/Polyphia/_/Aviator)
 * [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [Polyphia — Sweet Tea](https://www.last.fm/music/Polyphia/_/Sweet+Tea)
-* [Polyphia — 87](https://www.last.fm/music/Polyphia/_/87)
-* [Polyphia — Euphoria](https://www.last.fm/music/Polyphia/_/Euphoria)
-* [Polyphia — Crush](https://www.last.fm/music/Polyphia/_/Crush)<!-- LASTFM:END -->
+* [Polyphia — 87](https://www.last.fm/music/Polyphia/_/87)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
