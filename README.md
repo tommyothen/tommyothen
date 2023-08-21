@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
+* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
 * [Polyphia — G.O.A.T.](https://www.last.fm/music/Polyphia/_/G.O.A.T.)
 * [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Guardin — homebound](https://www.last.fm/music/Guardin/_/homebound)
-* [Guardin — i think you&#39;re really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)<!-- LASTFM:END -->
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
