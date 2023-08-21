@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Hourglass](https://www.last.fm/music/Polyphia/_/Hourglass)
+* [Polyphia — Mood Swing](https://www.last.fm/music/Polyphia/_/Mood+Swing)
 * [Polyphia — Memory](https://www.last.fm/music/Polyphia/_/Memory)
 * [Polyphia — The Jungle](https://www.last.fm/music/Polyphia/_/The+Jungle)
-* [Polyphia — Aviator](https://www.last.fm/music/Polyphia/_/Aviator)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [Polyphia — Sweet Tea](https://www.last.fm/music/Polyphia/_/Sweet+Tea)<!-- LASTFM:END -->
+* [Polyphia — Aviator](https://www.last.fm/music/Polyphia/_/Aviator)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
