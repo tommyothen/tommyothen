@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Finale](https://www.last.fm/music/Polyphia/_/Finale)
 * [Polyphia — Baditude](https://www.last.fm/music/Polyphia/_/Baditude)
 * [Polyphia — James Franco](https://www.last.fm/music/Polyphia/_/James+Franco)
 * [Polyphia — Hourglass](https://www.last.fm/music/Polyphia/_/Hourglass)
-* [Polyphia — Mood Swing](https://www.last.fm/music/Polyphia/_/Mood+Swing)
-* [Polyphia — Memory](https://www.last.fm/music/Polyphia/_/Memory)<!-- LASTFM:END -->
+* [Polyphia — Mood Swing](https://www.last.fm/music/Polyphia/_/Mood+Swing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
