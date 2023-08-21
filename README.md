@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Guardin — homebound](https://www.last.fm/music/Guardin/_/homebound)
 * [Guardin — i think you&#39;re really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)
 * [Guardin — dim, dark, depleting](https://www.last.fm/music/Guardin/_/dim,+dark,+depleting)
-* [Guardin — jetlag](https://www.last.fm/music/Guardin/_/jetlag)
-* [Guardin — i think you&#39;re really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)<!-- LASTFM:END -->
+* [Guardin — jetlag](https://www.last.fm/music/Guardin/_/jetlag)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
