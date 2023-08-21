@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Amour](https://www.last.fm/music/Polyphia/_/Amour)
+* [Polyphia — Paradise](https://www.last.fm/music/Polyphia/_/Paradise)
 * [Polyphia — Ivory](https://www.last.fm/music/Polyphia/_/Ivory)
 * [Polyphia — Symmetry](https://www.last.fm/music/Polyphia/_/Symmetry)
-* [Polyphia — Bittersweet](https://www.last.fm/music/Polyphia/_/Bittersweet)
-* [Polyphia — Storm](https://www.last.fm/music/Polyphia/_/Storm)
-* [Polyphia — Nightmare](https://www.last.fm/music/Polyphia/_/Nightmare)<!-- LASTFM:END -->
+* [Polyphia — Bittersweet](https://www.last.fm/music/Polyphia/_/Bittersweet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
