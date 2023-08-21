@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Fuck Around and Find Out &lpar;feat. $not&rpar;](https://www.last.fm/music/Polyphia/_/Fuck+Around+and+Find+Out+&lpar;feat.+$not&rpar;)
+* [Polyphia — Memento Mori &lpar;feat. Killstation&rpar;](https://www.last.fm/music/Polyphia/_/Memento+Mori+&lpar;feat.+Killstation&rpar;)
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
 * [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)
-* [Polyphia — The Audacity &lpar;feat. Anomalie&rpar;](https://www.last.fm/music/Polyphia/_/The+Audacity+&lpar;feat.+Anomalie&rpar;)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Polyphia — Genesis &lpar;feat. Brasstracks&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;feat.+Brasstracks&rpar;)
-* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)<!-- LASTFM:END -->
+* [Polyphia — The Audacity &lpar;feat. Anomalie&rpar;](https://www.last.fm/music/Polyphia/_/The+Audacity+&lpar;feat.+Anomalie&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
