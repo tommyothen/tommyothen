@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
 * [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
 * [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
 * [Polyphia — Finale](https://www.last.fm/music/Polyphia/_/Finale)
-* [Polyphia — Baditude](https://www.last.fm/music/Polyphia/_/Baditude)
-* [Polyphia — James Franco](https://www.last.fm/music/Polyphia/_/James+Franco)<!-- LASTFM:END -->
+* [Polyphia — Baditude](https://www.last.fm/music/Polyphia/_/Baditude)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
