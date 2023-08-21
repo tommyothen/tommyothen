@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Storm](https://www.last.fm/music/Polyphia/_/Storm)
+* [Polyphia — Nightmare](https://www.last.fm/music/Polyphia/_/Nightmare)
 * [Polyphia — Florence](https://www.last.fm/music/Polyphia/_/Florence)
 * [Polyphia — Light](https://www.last.fm/music/Polyphia/_/Light)
-* [Polyphia — Culture Shock](https://www.last.fm/music/Polyphia/_/Culture+Shock)
-* [Polyphia — G.O.A.T.](https://www.last.fm/music/Polyphia/_/G.O.A.T.)
-* [Polyphia — Rich Kids](https://www.last.fm/music/Polyphia/_/Rich+Kids)<!-- LASTFM:END -->
+* [Polyphia — Culture Shock](https://www.last.fm/music/Polyphia/_/Culture+Shock)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
