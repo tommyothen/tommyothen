@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — NUMB](https://www.last.fm/music/XXXTENTACION/_/NUMB)
+* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
 * [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
 * [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)
-* [XYLØ — ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)
-* [Osvaldorio — Lotus](https://www.last.fm/music/Osvaldorio/_/Lotus)
-* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)<!-- LASTFM:END -->
+* [XYLØ — ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
