@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
 * [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
 * [Post Malone — Goodbyes &lpar;feat. Young Thug&rpar;](https://www.last.fm/music/Post+Malone/_/Goodbyes+&lpar;feat.+Young+Thug&rpar;)
 * [XXXTENTACION — NUMB](https://www.last.fm/music/XXXTENTACION/_/NUMB)
-* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
-* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)<!-- LASTFM:END -->
+* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
