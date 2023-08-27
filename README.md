@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jack Gray — I Think She Wants Me](https://www.last.fm/music/Jack+Gray/_/I+Think+She+Wants+Me)
+* [Oli Fox — Butterfingers](https://www.last.fm/music/Oli+Fox/_/Butterfingers)
 * [Harrison Borts — good karma](https://www.last.fm/music/Harrison+Borts/_/good+karma)
 * [Tiffi — california](https://www.last.fm/music/Tiffi/_/california)
-* [Balu Brigada — I Should Be Home](https://www.last.fm/music/Balu+Brigada/_/I+Should+Be+Home)
-* [Jefferson Clay — People IDK Yet](https://www.last.fm/music/Jefferson+Clay/_/People+IDK+Yet)
-* [Boo Seeka — Stories](https://www.last.fm/music/Boo+Seeka/_/Stories)<!-- LASTFM:END -->
+* [Balu Brigada — I Should Be Home](https://www.last.fm/music/Balu+Brigada/_/I+Should+Be+Home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
