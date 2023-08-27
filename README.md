@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Porter Robinson — Sad Machine](https://www.last.fm/music/Porter+Robinson/_/Sad+Machine)
 * [Aries — UR NOT PRECIOUS](https://www.last.fm/music/Aries/_/UR+NOT+PRECIOUS)
 * [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
 * [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [Shawn Wasabi — Mango Love](https://www.last.fm/music/Shawn+Wasabi/_/Mango+Love)
-* [DJ Khalil — Elevate &lpar;feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich&rpar;](https://www.last.fm/music/DJ+Khalil/_/Elevate+&lpar;feat.+Denzel+Curry,+YBN+Cordae,+SwaVay,+Trevor+Rich&rpar;)<!-- LASTFM:END -->
+* [Shawn Wasabi — Mango Love](https://www.last.fm/music/Shawn+Wasabi/_/Mango+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
