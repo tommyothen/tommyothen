@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Emilia Ali — Moonview hwy &lpar;mario kart&rpar;](https://www.last.fm/music/Emilia+Ali/_/Moonview+hwy+&lpar;mario+kart&rpar;)
+* [Aidan Fine — Sunday Morning](https://www.last.fm/music/Aidan+Fine/_/Sunday+Morning)
+* [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)
 * [Cassie Marin — Lemon Sugar](https://www.last.fm/music/Cassie+Marin/_/Lemon+Sugar)
-* [Alt Fiction — She Knows It](https://www.last.fm/music/Alt+Fiction/_/She+Knows+It)
-* [Jack Gray — I Think She Wants Me](https://www.last.fm/music/Jack+Gray/_/I+Think+She+Wants+Me)
-* [Oli Fox — Butterfingers](https://www.last.fm/music/Oli+Fox/_/Butterfingers)
-* [Harrison Borts — good karma](https://www.last.fm/music/Harrison+Borts/_/good+karma)<!-- LASTFM:END -->
+* [Alt Fiction — She Knows It](https://www.last.fm/music/Alt+Fiction/_/She+Knows+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
