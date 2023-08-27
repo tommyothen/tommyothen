@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shawn Wasabi — Mango Love](https://www.last.fm/music/Shawn+Wasabi/_/Mango+Love)
+* [MC Virgins — Anime Thighs](https://www.last.fm/music/MC+Virgins/_/Anime+Thighs)
+* [Arizona Zervas — ROXANNE](https://www.last.fm/music/Arizona+Zervas/_/ROXANNE)
 * [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [Token — Code Red](https://www.last.fm/music/Token/_/Code+Red)
-* [Yarmak — Гни свою линию](https://www.last.fm/music/Yarmak/_/%D0%93%D0%BD%D0%B8+%D1%81%D0%B2%D0%BE%D1%8E+%D0%BB%D0%B8%D0%BD%D0%B8%D1%8E)
-* [TWICE — SIGNAL - Japanese ver.](https://www.last.fm/music/TWICE/_/SIGNAL+-+Japanese+ver.)
-* [Reece Brunke — Funk Wave](https://www.last.fm/music/Reece+Brunke/_/Funk+Wave)<!-- LASTFM:END -->
+* [Token — Code Red](https://www.last.fm/music/Token/_/Code+Red)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
