@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [88rising — Breathe](https://www.last.fm/music/88rising/_/Breathe)
+* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
 * [Shawn Wasabi — Mango Love](https://www.last.fm/music/Shawn+Wasabi/_/Mango+Love)
 * [MC Virgins — Anime Thighs](https://www.last.fm/music/MC+Virgins/_/Anime+Thighs)
-* [Arizona Zervas — ROXANNE](https://www.last.fm/music/Arizona+Zervas/_/ROXANNE)
-* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [Token — Code Red](https://www.last.fm/music/Token/_/Code+Red)<!-- LASTFM:END -->
+* [Arizona Zervas — ROXANNE](https://www.last.fm/music/Arizona+Zervas/_/ROXANNE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
