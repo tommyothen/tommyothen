@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
 * [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
 * [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Emilia Ali — Moonview hwy &lpar;mario kart&rpar;](https://www.last.fm/music/Emilia+Ali/_/Moonview+hwy+&lpar;mario+kart&rpar;)
-* [Aidan Fine — Sunday Morning](https://www.last.fm/music/Aidan+Fine/_/Sunday+Morning)
-* [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)<!-- LASTFM:END -->
+* [Emilia Ali — Moonview hwy &lpar;mario kart&rpar;](https://www.last.fm/music/Emilia+Ali/_/Moonview+hwy+&lpar;mario+kart&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
