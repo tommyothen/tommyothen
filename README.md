@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nujabes — Feather &lpar;feat. Cise Starr &amp; Akin from Cyne&rpar;](https://www.last.fm/music/Nujabes/_/Feather+&lpar;feat.+Cise+Starr+&amp;+Akin+from+Cyne&rpar;)
 * [Kris Wu — 18](https://www.last.fm/music/Kris+Wu/_/18)
 * [slushii — Through the Night](https://www.last.fm/music/slushii/_/Through+the+Night)
 * [Rich Brian — Flight](https://www.last.fm/music/Rich+Brian/_/Flight)
-* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
-* [Papaya &amp; Friends — SKIM MILK](https://www.last.fm/music/Papaya+&amp;+Friends/_/SKIM+MILK)<!-- LASTFM:END -->
+* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
