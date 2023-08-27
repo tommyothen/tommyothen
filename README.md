@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pusher — Sober](https://www.last.fm/music/Pusher/_/Sober)
+* [XXXTENTACION — love yourself &lpar;interlude&rpar;](https://www.last.fm/music/XXXTENTACION/_/love+yourself+&lpar;interlude&rpar;)
+* [slowthai — terms &lpar;feat. Dominic Fike &amp; Denzel Curry&rpar;](https://www.last.fm/music/slowthai/_/terms+&lpar;feat.+Dominic+Fike+&amp;+Denzel+Curry&rpar;)
 * [Camellia — Exit This Earth&#39;s Atomosphere](https://www.last.fm/music/Camellia/_/Exit+This+Earth%27s+Atomosphere)
-* [Porter Robinson — Sad Machine](https://www.last.fm/music/Porter+Robinson/_/Sad+Machine)
-* [Aries — UR NOT PRECIOUS](https://www.last.fm/music/Aries/_/UR+NOT+PRECIOUS)
-* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
+* [Porter Robinson — Sad Machine](https://www.last.fm/music/Porter+Robinson/_/Sad+Machine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
