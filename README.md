@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yarmak — Гни свою линию](https://www.last.fm/music/Yarmak/_/%D0%93%D0%BD%D0%B8+%D1%81%D0%B2%D0%BE%D1%8E+%D0%BB%D0%B8%D0%BD%D0%B8%D1%8E)
+* [TWICE — SIGNAL - Japanese ver.](https://www.last.fm/music/TWICE/_/SIGNAL+-+Japanese+ver.)
 * [Reece Brunke — Funk Wave](https://www.last.fm/music/Reece+Brunke/_/Funk+Wave)
 * [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
-* [Jakey — Medium](https://www.last.fm/music/Jakey/_/Medium)
-* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)<!-- LASTFM:END -->
+* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
