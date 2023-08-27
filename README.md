@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Boo Seeka — Stories](https://www.last.fm/music/Boo+Seeka/_/Stories)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [Bel — Cold Brew](https://www.last.fm/music/Bel/_/Cold+Brew)
 * [Abby Bella May — Luvsakilla](https://www.last.fm/music/Abby+Bella+May/_/Luvsakilla)
-* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Buppy. — comfort, texas](https://www.last.fm/music/Buppy./_/comfort,+texas)
-* [Grady — Butter](https://www.last.fm/music/Grady/_/Butter)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
+* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
