@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
 * [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Rings of Saturn — Senseless Massacre](https://www.last.fm/music/Rings+of+Saturn/_/Senseless+Massacre)
-* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)
-* [Rings of Saturn — No Pity For A Coward](https://www.last.fm/music/Rings+of+Saturn/_/No+Pity+For+A+Coward)<!-- LASTFM:END -->
+* [Rings of Saturn — Senseless Massacre](https://www.last.fm/music/Rings+of+Saturn/_/Senseless+Massacre)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
