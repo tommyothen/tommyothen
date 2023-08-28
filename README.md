@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Will Paquin — Chandelier](https://www.last.fm/music/Will+Paquin/_/Chandelier)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)<!-- LASTFM:END -->
+* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)
+* [Will Paquin — Chandelier](https://www.last.fm/music/Will+Paquin/_/Chandelier)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
