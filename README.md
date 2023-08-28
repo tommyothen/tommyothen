@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tiffany Day — HANNA](https://www.last.fm/music/Tiffany+Day/_/HANNA)
+* [Atwood — OFF BAT](https://www.last.fm/music/Atwood/_/OFF+BAT)
 * [Will Joseph Cook — Kisses](https://www.last.fm/music/Will+Joseph+Cook/_/Kisses)
 * [spill tab — Grade A &lpar;feat. JAWNY&rpar;](https://www.last.fm/music/spill+tab/_/Grade+A+&lpar;feat.+JAWNY&rpar;)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [kaz moon — Regressa](https://www.last.fm/music/kaz+moon/_/Regressa)
-* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)<!-- LASTFM:END -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
