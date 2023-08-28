@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [$uicideboy$ — KILL YOURSELF &lpar;Part III&rpar;](https://www.last.fm/music/$uicideboy$/_/KILL+YOURSELF+&lpar;Part+III&rpar;)
+* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
 * [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
 * [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
-* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)<!-- LASTFM:END -->
+* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
