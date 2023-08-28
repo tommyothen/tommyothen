@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
 * [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
 * [Eden — crash](https://www.last.fm/music/Eden/_/crash)
-* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
+* [JO YURI — Round and Around](https://www.last.fm/music/JO+YURI/_/Round+and+Around)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
