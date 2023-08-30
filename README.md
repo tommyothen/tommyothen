@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
 * [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
 * [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
 * [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
