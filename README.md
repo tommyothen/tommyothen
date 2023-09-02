@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Renai Flops - TV](https://myanimelist.net/anime/51403/Renai_Flops) - Watching - 2 of 12 episodes
+* [Futoku no Guild - TV](https://myanimelist.net/anime/51212/Futoku_no_Guild) - Watching - 8 of 12 episodes
+* [Isekai Meikyuu de Harem wo - TV](https://myanimelist.net/anime/44524/Isekai_Meikyuu_de_Harem_wo) - Watching - 4 of 12 episodes
 * [Jitsu wa Ore, Saikyou deshita? - TV](https://myanimelist.net/anime/52969/Jitsu_wa_Ore_Saikyou_deshita) - Watching - 7 of 12 episodes
-* [Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. - TV](https://myanimelist.net/anime/51128/Noumin_Kanren_no_Skill_bakka_Agetetara_Nazeka_Tsuyoku_Natta) - Plan to Watch - 0 of 12 episodes
-* [Kaminaki Sekai no Kamisama Katsudou - TV](https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou) - Plan to Watch - 0 of 12 episodes
-* [Wotaku ni Koi wa Muzukashii - TV](https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii) - Watching - 5 of 11 episodes
-* [Cyberpunk: Edgerunners - ONA](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners) - Watching - 6 of 10 episodes<!-- ANIME-LIST:END -->
+* [Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. - TV](https://myanimelist.net/anime/51128/Noumin_Kanren_no_Skill_bakka_Agetetara_Nazeka_Tsuyoku_Natta) - Plan to Watch - 0 of 12 episodes<!-- ANIME-LIST:END -->
