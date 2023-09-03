@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — Revenge](https://www.last.fm/music/XXXTENTACION/_/Revenge)
+* [Tyler, the Creator — I THINK](https://www.last.fm/music/Tyler,+the+Creator/_/I+THINK)
 * [Wun Two — Again](https://www.last.fm/music/Wun+Two/_/Again)
 * [Fat Nick — Torch](https://www.last.fm/music/Fat+Nick/_/Torch)
-* [Dreamcatcher — Full Moon](https://www.last.fm/music/Dreamcatcher/_/Full+Moon)
-* [June — Something To Lose](https://www.last.fm/music/June/_/Something+To+Lose)
-* [Reece Brunke — Funk Wave](https://www.last.fm/music/Reece+Brunke/_/Funk+Wave)<!-- LASTFM:END -->
+* [Dreamcatcher — Full Moon](https://www.last.fm/music/Dreamcatcher/_/Full+Moon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
