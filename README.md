@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wun Two — Again](https://www.last.fm/music/Wun+Two/_/Again)
+* [Fat Nick — Torch](https://www.last.fm/music/Fat+Nick/_/Torch)
 * [Dreamcatcher — Full Moon](https://www.last.fm/music/Dreamcatcher/_/Full+Moon)
 * [June — Something To Lose](https://www.last.fm/music/June/_/Something+To+Lose)
-* [Reece Brunke — Funk Wave](https://www.last.fm/music/Reece+Brunke/_/Funk+Wave)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
-* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)<!-- LASTFM:END -->
+* [Reece Brunke — Funk Wave](https://www.last.fm/music/Reece+Brunke/_/Funk+Wave)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
