@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Surfaces — Sunday Best](https://www.last.fm/music/Surfaces/_/Sunday+Best)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
 * [The Bravery — Hatefuck](https://www.last.fm/music/The+Bravery/_/Hatefuck)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
