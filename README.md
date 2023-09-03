@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
 * [Mike Will Made-It — 23](https://www.last.fm/music/Mike+Will+Made-It/_/23)
 * [Aqua — Barbie Girl](https://www.last.fm/music/Aqua/_/Barbie+Girl)
-* [slowthai — terms &lpar;feat. Dominic Fike &amp; Denzel Curry&rpar;](https://www.last.fm/music/slowthai/_/terms+&lpar;feat.+Dominic+Fike+&amp;+Denzel+Curry&rpar;)
-* [FEDUK — Мой район &lpar;feat. Dooit&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9C%D0%BE%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD+&lpar;feat.+Dooit&rpar;)
-* [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)<!-- LASTFM:END -->
+* [slowthai — terms &lpar;feat. Dominic Fike &amp; Denzel Curry&rpar;](https://www.last.fm/music/slowthai/_/terms+&lpar;feat.+Dominic+Fike+&amp;+Denzel+Curry&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
