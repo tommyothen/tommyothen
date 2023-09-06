@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
 * [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
 * [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
-* [Eevee — viola](https://www.last.fm/music/Eevee/_/viola)
-* [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)
-* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)<!-- LASTFM:END -->
+* [Eevee — viola](https://www.last.fm/music/Eevee/_/viola)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
