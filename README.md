@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Get Scared — Sarcasm](https://www.last.fm/music/Get+Scared/_/Sarcasm)
 * [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
 * [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
 * [Slayer — Delusions of Saviour](https://www.last.fm/music/Slayer/_/Delusions+of+Saviour)
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
-* [D-Real [愛] — Interstellar Love Story](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Interstellar+Love+Story)<!-- LASTFM:END -->
+* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
