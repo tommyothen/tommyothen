@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dogleg — Star 67](https://www.last.fm/music/Dogleg/_/Star+67)
+* [Dads — But](https://www.last.fm/music/Dads/_/But)
+* [Dads — If Your Song Title Has the Word &quot;Beach&quot; In It, I&#39;m Not Listening to It.](https://www.last.fm/music/Dads/_/If+Your+Song+Title+Has+the+Word+%22Beach%22+In+It,+I%27m+Not+Listening+to+It.)
 * [Dads — Shit Twins](https://www.last.fm/music/Dads/_/Shit+Twins)
-* [The Front Bottoms — Lipstick Covered Magnet](https://www.last.fm/music/The+Front+Bottoms/_/Lipstick+Covered+Magnet)
-* [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)
-* [Camping in Alaska — c u in da ballpit](https://www.last.fm/music/Camping+in+Alaska/_/c+u+in+da+ballpit)
-* [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)<!-- LASTFM:END -->
+* [The Front Bottoms — Lipstick Covered Magnet](https://www.last.fm/music/The+Front+Bottoms/_/Lipstick+Covered+Magnet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
