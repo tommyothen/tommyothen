@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Get Scared — Sarcasm](https://www.last.fm/music/Get+Scared/_/Sarcasm)
-* [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
-* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
-* [Slayer — Delusions of Saviour](https://www.last.fm/music/Slayer/_/Delusions+of+Saviour)
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)<!-- LASTFM:END -->
+* [Hannah Laing — Party All The Time](https://www.last.fm/music/Hannah+Laing/_/Party+All+The+Time)
+* [H-el-ical// — JUST DO IT](https://www.last.fm/music/H-el-ical%2F%2F/_/JUST+DO+IT)
+* [GRANRODEO — BEASTFUL](https://www.last.fm/music/GRANRODEO/_/BEASTFUL)
+* [Marmalade butcher — Floccinaucinihilipilification](https://www.last.fm/music/Marmalade+butcher/_/Floccinaucinihilipilification)
+* [Eden — C&#39;est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
