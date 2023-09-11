@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camping in Alaska — c u in da ballpit](https://www.last.fm/music/Camping+in+Alaska/_/c+u+in+da+ballpit)
 * [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)
 * [Riley! — Fight Milk!](https://www.last.fm/music/Riley!/_/Fight+Milk!)
 * [Modern Baseball — Re-Do](https://www.last.fm/music/Modern+Baseball/_/Re-Do)
-* [Michael Cera Palin — Laughing Makes It Worse](https://www.last.fm/music/Michael+Cera+Palin/_/Laughing+Makes+It+Worse)
-* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)<!-- LASTFM:END -->
+* [Michael Cera Palin — Laughing Makes It Worse](https://www.last.fm/music/Michael+Cera+Palin/_/Laughing+Makes+It+Worse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
