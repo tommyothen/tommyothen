@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
+* [Miley Cyrus — Someone Else](https://www.last.fm/music/Miley+Cyrus/_/Someone+Else)
 * [Hannah Montana — Wherever I Go](https://www.last.fm/music/Hannah+Montana/_/Wherever+I+Go)
 * [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [ukiyo — let’s end it](https://www.last.fm/music/ukiyo/_/let%E2%80%99s+end+it)
-* [Taylor Swift — 22 &lpar;Taylor&#39;s Version&rpar;](https://www.last.fm/music/Taylor+Swift/_/22+&lpar;Taylor%27s+Version&rpar;)
-* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)<!-- LASTFM:END -->
+* [ukiyo — let’s end it](https://www.last.fm/music/ukiyo/_/let%E2%80%99s+end+it)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
