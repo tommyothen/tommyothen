@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Front Bottoms — Lipstick Covered Magnet](https://www.last.fm/music/The+Front+Bottoms/_/Lipstick+Covered+Magnet)
 * [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)
 * [Camping in Alaska — c u in da ballpit](https://www.last.fm/music/Camping+in+Alaska/_/c+u+in+da+ballpit)
 * [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)
-* [Riley! — Fight Milk!](https://www.last.fm/music/Riley!/_/Fight+Milk!)
-* [Modern Baseball — Re-Do](https://www.last.fm/music/Modern+Baseball/_/Re-Do)<!-- LASTFM:END -->
+* [Riley! — Fight Milk!](https://www.last.fm/music/Riley!/_/Fight+Milk!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
