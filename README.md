@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — You Belong with Me &lpar;Taylor’s Version&rpar;](https://www.last.fm/music/Taylor+Swift/_/You+Belong+with+Me+&lpar;Taylor%E2%80%99s+Version&rpar;)
 * [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
 * [Miley Cyrus — Someone Else](https://www.last.fm/music/Miley+Cyrus/_/Someone+Else)
 * [Hannah Montana — Wherever I Go](https://www.last.fm/music/Hannah+Montana/_/Wherever+I+Go)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [ukiyo — let’s end it](https://www.last.fm/music/ukiyo/_/let%E2%80%99s+end+it)<!-- LASTFM:END -->
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
