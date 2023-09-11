@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easy Life — OJPL](https://www.last.fm/music/Easy+Life/_/OJPL)
 * [Easy Life — Nightmares](https://www.last.fm/music/Easy+Life/_/Nightmares)
 * [Havelock — SCRAMBLED](https://www.last.fm/music/Havelock/_/SCRAMBLED)
-* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Dogleg — Star 67](https://www.last.fm/music/Dogleg/_/Star+67)
-* [Dads — But](https://www.last.fm/music/Dads/_/But)<!-- LASTFM:END -->
+* [gianni &amp; kyle — tension](https://www.last.fm/music/gianni+&amp;+kyle/_/tension)
+* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
