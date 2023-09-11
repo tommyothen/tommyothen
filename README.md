@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
+* [Mac Miller — The Spins](https://www.last.fm/music/Mac+Miller/_/The+Spins)
 * [Cloud District — You Will Never Be a Samurai](https://www.last.fm/music/Cloud+District/_/You+Will+Never+Be+a+Samurai)
 * [Joyce Manor — Catalina Fight Song](https://www.last.fm/music/Joyce+Manor/_/Catalina+Fight+Song)
-* [Joyce Manor — NBTSA](https://www.last.fm/music/Joyce+Manor/_/NBTSA)
-* [Mom Jeans. — tie die](https://www.last.fm/music/Mom+Jeans./_/tie+die)
-* [Mom Jeans. — shred cruz](https://www.last.fm/music/Mom+Jeans./_/shred+cruz)<!-- LASTFM:END -->
+* [Joyce Manor — NBTSA](https://www.last.fm/music/Joyce+Manor/_/NBTSA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
