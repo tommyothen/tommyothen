@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Riley! — Fight Milk!](https://www.last.fm/music/Riley!/_/Fight+Milk!)
+* [Modern Baseball — Re-Do](https://www.last.fm/music/Modern+Baseball/_/Re-Do)
+* [Michael Cera Palin — Laughing Makes It Worse](https://www.last.fm/music/Michael+Cera+Palin/_/Laughing+Makes+It+Worse)
 * [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
-* [Mac Miller — The Spins](https://www.last.fm/music/Mac+Miller/_/The+Spins)
-* [Cloud District — You Will Never Be a Samurai](https://www.last.fm/music/Cloud+District/_/You+Will+Never+Be+a+Samurai)
-* [Joyce Manor — Catalina Fight Song](https://www.last.fm/music/Joyce+Manor/_/Catalina+Fight+Song)
-* [Joyce Manor — NBTSA](https://www.last.fm/music/Joyce+Manor/_/NBTSA)<!-- LASTFM:END -->
+* [Mac Miller — The Spins](https://www.last.fm/music/Mac+Miller/_/The+Spins)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
