@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — 22 &lpar;Taylor&#39;s Version&rpar;](https://www.last.fm/music/Taylor+Swift/_/22+&lpar;Taylor%27s+Version&rpar;)
+* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
 * [Katy Perry — California Gurls](https://www.last.fm/music/Katy+Perry/_/California+Gurls)
 * [Sodikken — Misery Meat](https://www.last.fm/music/Sodikken/_/Misery+Meat)
-* [Tila Tsoli — Bimbo Doll](https://www.last.fm/music/Tila+Tsoli/_/Bimbo+Doll)
-* [Easy Life — OJPL](https://www.last.fm/music/Easy+Life/_/OJPL)
-* [Easy Life — Nightmares](https://www.last.fm/music/Easy+Life/_/Nightmares)<!-- LASTFM:END -->
+* [Tila Tsoli — Bimbo Doll](https://www.last.fm/music/Tila+Tsoli/_/Bimbo+Doll)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
