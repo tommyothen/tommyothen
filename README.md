@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
 * [Far East Movement — Like a G6](https://www.last.fm/music/Far+East+Movement/_/Like+a+G6)
 * [Taylor Swift — You Belong with Me &lpar;Taylor’s Version&rpar;](https://www.last.fm/music/Taylor+Swift/_/You+Belong+with+Me+&lpar;Taylor%E2%80%99s+Version&rpar;)
 * [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
-* [Miley Cyrus — Someone Else](https://www.last.fm/music/Miley+Cyrus/_/Someone+Else)
-* [Hannah Montana — Wherever I Go](https://www.last.fm/music/Hannah+Montana/_/Wherever+I+Go)<!-- LASTFM:END -->
+* [Miley Cyrus — Someone Else](https://www.last.fm/music/Miley+Cyrus/_/Someone+Else)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
