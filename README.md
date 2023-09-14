@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
+* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
 * [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
-* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
-* [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)<!-- LASTFM:END -->
+* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
