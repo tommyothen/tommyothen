@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Apocalyptica — Pray!](https://www.last.fm/music/Apocalyptica/_/Pray!)
+* [John Denver — Take Me Home, Country Roads](https://www.last.fm/music/John+Denver/_/Take+Me+Home,+Country+Roads)
 * [Inon Zur — Turning the Tide](https://www.last.fm/music/Inon+Zur/_/Turning+the+Tide)
 * [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
-* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
-* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
-* [Far East Movement — Like a G6](https://www.last.fm/music/Far+East+Movement/_/Like+a+G6)<!-- LASTFM:END -->
+* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
