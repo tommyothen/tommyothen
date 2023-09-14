@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Daniel Licht — Delilah Fights &lpar;Combat&rpar;](https://www.last.fm/music/Daniel+Licht/_/Delilah+Fights+&lpar;Combat&rpar;)
+* [Samuel Kim — Duel of the Fates - Epic Version - Cover](https://www.last.fm/music/Samuel+Kim/_/Duel+of+the+Fates+-+Epic+Version+-+Cover)
+* [Midnight Syndicate — Beasts of the Borderlands](https://www.last.fm/music/Midnight+Syndicate/_/Beasts+of+the+Borderlands)
 * [Apocalyptica — Path](https://www.last.fm/music/Apocalyptica/_/Path)
-* [Kevin Macleod — Volatile Reaction](https://www.last.fm/music/Kevin+Macleod/_/Volatile+Reaction)
-* [Trevor Morris — Trespasser - Qunari Battle &lpar;Full Theme&rpar;](https://www.last.fm/music/Trevor+Morris/_/Trespasser+-+Qunari+Battle+&lpar;Full+Theme&rpar;)
-* [Justin Bell — The Dragon Thrashed and Wailed](https://www.last.fm/music/Justin+Bell/_/The+Dragon+Thrashed+and+Wailed)
-* [Midnight Syndicate — Final Confrontation](https://www.last.fm/music/Midnight+Syndicate/_/Final+Confrontation)<!-- LASTFM:END -->
+* [Kevin Macleod — Volatile Reaction](https://www.last.fm/music/Kevin+Macleod/_/Volatile+Reaction)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
