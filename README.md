@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
-* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)<!-- LASTFM:END -->
+* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
