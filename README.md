@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
+* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [e.hillman — Shadow of the Ashen](https://www.last.fm/music/e.hillman/_/Shadow+of+the+Ashen)
-* [e.hillman — Ukotto of the Elder Dark](https://www.last.fm/music/e.hillman/_/Ukotto+of+the+Elder+Dark)<!-- LASTFM:END -->
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
