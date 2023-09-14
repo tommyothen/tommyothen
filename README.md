@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Borislav Slavov — Mysterious Trails](https://www.last.fm/music/Borislav+Slavov/_/Mysterious+Trails)
+* [Allen Constantine — Chasing Freedom](https://www.last.fm/music/Allen+Constantine/_/Chasing+Freedom)
+* [Krzysztof Wierzynkiewicz — Easier Said than Killed](https://www.last.fm/music/Krzysztof+Wierzynkiewicz/_/Easier+Said+than+Killed)
 * [Adam Skorupa — Howl of the White Wolf](https://www.last.fm/music/Adam+Skorupa/_/Howl+of+the+White+Wolf)
-* [Jason Hayes — The Shaping of the World](https://www.last.fm/music/Jason+Hayes/_/The+Shaping+of+the+World)
-* [Midnight Syndicate — Skirmish](https://www.last.fm/music/Midnight+Syndicate/_/Skirmish)
-* [SOFA SOUNDS — Don&#39;t Die With A Clean Sword &lpar;from Game of Thrones - Season 2&rpar; - Cover Version](https://www.last.fm/music/SOFA+SOUNDS/_/Don%27t+Die+With+A+Clean+Sword+&lpar;from+Game+of+Thrones+-+Season+2&rpar;+-+Cover+Version)
-* [Stuart Chatwood — The Cove Battle](https://www.last.fm/music/Stuart+Chatwood/_/The+Cove+Battle)<!-- LASTFM:END -->
+* [Jason Hayes — The Shaping of the World](https://www.last.fm/music/Jason+Hayes/_/The+Shaping+of+the+World)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
