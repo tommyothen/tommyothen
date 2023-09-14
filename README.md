@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Stuart Chatwood — Explore the Ruins](https://www.last.fm/music/Stuart+Chatwood/_/Explore+the+Ruins)
 * [Borislav Slavov — Mysterious Trails](https://www.last.fm/music/Borislav+Slavov/_/Mysterious+Trails)
 * [Allen Constantine — Chasing Freedom](https://www.last.fm/music/Allen+Constantine/_/Chasing+Freedom)
 * [Krzysztof Wierzynkiewicz — Easier Said than Killed](https://www.last.fm/music/Krzysztof+Wierzynkiewicz/_/Easier+Said+than+Killed)
-* [Adam Skorupa — Howl of the White Wolf](https://www.last.fm/music/Adam+Skorupa/_/Howl+of+the+White+Wolf)
-* [Jason Hayes — The Shaping of the World](https://www.last.fm/music/Jason+Hayes/_/The+Shaping+of+the+World)<!-- LASTFM:END -->
+* [Adam Skorupa — Howl of the White Wolf](https://www.last.fm/music/Adam+Skorupa/_/Howl+of+the+White+Wolf)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
