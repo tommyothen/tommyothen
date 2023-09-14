@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SOFA SOUNDS — Don&#39;t Die With A Clean Sword &lpar;from Game of Thrones - Season 2&rpar; - Cover Version](https://www.last.fm/music/SOFA+SOUNDS/_/Don%27t+Die+With+A+Clean+Sword+&lpar;from+Game+of+Thrones+-+Season+2&rpar;+-+Cover+Version)
 * [Stuart Chatwood — The Cove Battle](https://www.last.fm/music/Stuart+Chatwood/_/The+Cove+Battle)
 * [Mikolai Stroinski — Commanding the Fury](https://www.last.fm/music/Mikolai+Stroinski/_/Commanding+the+Fury)
 * [Sonya Belousova — Geralt Of Rivia](https://www.last.fm/music/Sonya+Belousova/_/Geralt+Of+Rivia)
-* [Stuart Chatwood — Combat in the Ruins](https://www.last.fm/music/Stuart+Chatwood/_/Combat+in+the+Ruins)
-* [Adam Skorupa — The Scent of Battle](https://www.last.fm/music/Adam+Skorupa/_/The+Scent+of+Battle)<!-- LASTFM:END -->
+* [Stuart Chatwood — Combat in the Ruins](https://www.last.fm/music/Stuart+Chatwood/_/Combat+in+the+Ruins)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
