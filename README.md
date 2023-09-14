@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Trevor Morris — Trespasser - Qunari Battle &lpar;Full Theme&rpar;](https://www.last.fm/music/Trevor+Morris/_/Trespasser+-+Qunari+Battle+&lpar;Full+Theme&rpar;)
+* [Justin Bell — The Dragon Thrashed and Wailed](https://www.last.fm/music/Justin+Bell/_/The+Dragon+Thrashed+and+Wailed)
+* [Midnight Syndicate — Final Confrontation](https://www.last.fm/music/Midnight+Syndicate/_/Final+Confrontation)
 * [Hans Zimmer — The Kraken](https://www.last.fm/music/Hans+Zimmer/_/The+Kraken)
-* [Apocalyptica — Pray!](https://www.last.fm/music/Apocalyptica/_/Pray!)
-* [John Denver — Take Me Home, Country Roads](https://www.last.fm/music/John+Denver/_/Take+Me+Home,+Country+Roads)
-* [Inon Zur — Turning the Tide](https://www.last.fm/music/Inon+Zur/_/Turning+the+Tide)
-* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)<!-- LASTFM:END -->
+* [Apocalyptica — Pray!](https://www.last.fm/music/Apocalyptica/_/Pray!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
