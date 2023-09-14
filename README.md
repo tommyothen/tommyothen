@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Apocalyptica — Path](https://www.last.fm/music/Apocalyptica/_/Path)
+* [Kevin Macleod — Volatile Reaction](https://www.last.fm/music/Kevin+Macleod/_/Volatile+Reaction)
 * [Trevor Morris — Trespasser - Qunari Battle &lpar;Full Theme&rpar;](https://www.last.fm/music/Trevor+Morris/_/Trespasser+-+Qunari+Battle+&lpar;Full+Theme&rpar;)
 * [Justin Bell — The Dragon Thrashed and Wailed](https://www.last.fm/music/Justin+Bell/_/The+Dragon+Thrashed+and+Wailed)
-* [Midnight Syndicate — Final Confrontation](https://www.last.fm/music/Midnight+Syndicate/_/Final+Confrontation)
-* [Hans Zimmer — The Kraken](https://www.last.fm/music/Hans+Zimmer/_/The+Kraken)
-* [Apocalyptica — Pray!](https://www.last.fm/music/Apocalyptica/_/Pray!)<!-- LASTFM:END -->
+* [Midnight Syndicate — Final Confrontation](https://www.last.fm/music/Midnight+Syndicate/_/Final+Confrontation)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
