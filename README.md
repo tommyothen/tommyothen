@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sonya Belousova — Geralt Of Rivia](https://www.last.fm/music/Sonya+Belousova/_/Geralt+Of+Rivia)
+* [Stuart Chatwood — Combat in the Ruins](https://www.last.fm/music/Stuart+Chatwood/_/Combat+in+the+Ruins)
 * [Adam Skorupa — The Scent of Battle](https://www.last.fm/music/Adam+Skorupa/_/The+Scent+of+Battle)
 * [Borislav Slavov — Symphony of the Void](https://www.last.fm/music/Borislav+Slavov/_/Symphony+of+the+Void)
-* [Marcin Przybyłowicz — The House Of The Borsodis](https://www.last.fm/music/Marcin+Przyby%C5%82owicz/_/The+House+Of+The+Borsodis)
-* [Stuart Chatwood — Battle in the Warrens](https://www.last.fm/music/Stuart+Chatwood/_/Battle+in+the+Warrens)
-* [Daniel Licht — Delilah Fights &lpar;Combat&rpar;](https://www.last.fm/music/Daniel+Licht/_/Delilah+Fights+&lpar;Combat&rpar;)<!-- LASTFM:END -->
+* [Marcin Przybyłowicz — The House Of The Borsodis](https://www.last.fm/music/Marcin+Przyby%C5%82owicz/_/The+House+Of+The+Borsodis)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
