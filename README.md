@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SIE Sound Team — Moonlit Melody](https://www.last.fm/music/SIE+Sound+Team/_/Moonlit+Melody)
 * [Dmitry V. Silantyev — Kenabres in Flames](https://www.last.fm/music/Dmitry+V.+Silantyev/_/Kenabres+in+Flames)
 * [Takeshi Furukawa — Hanging Gardens](https://www.last.fm/music/Takeshi+Furukawa/_/Hanging+Gardens)
 * [Everrune — Krugbu](https://www.last.fm/music/Everrune/_/Krugbu)
-* [Christopher Larkin — Furious Gods](https://www.last.fm/music/Christopher+Larkin/_/Furious+Gods)
-* [Jeremy Soule — Caught off Guard](https://www.last.fm/music/Jeremy+Soule/_/Caught+off+Guard)<!-- LASTFM:END -->
+* [Christopher Larkin — Furious Gods](https://www.last.fm/music/Christopher+Larkin/_/Furious+Gods)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
