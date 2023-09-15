@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lena Raine — Prologue](https://www.last.fm/music/Lena+Raine/_/Prologue)
-* [Chris Remo — Calm After the Storm](https://www.last.fm/music/Chris+Remo/_/Calm+After+the+Storm)
-* [Jeremy Soule — Unbound](https://www.last.fm/music/Jeremy+Soule/_/Unbound)
-* [Jonathan Geer — End Credits](https://www.last.fm/music/Jonathan+Geer/_/End+Credits)
-* [Christopher Larkin — Enter Hallownest](https://www.last.fm/music/Christopher+Larkin/_/Enter+Hallownest)<!-- LASTFM:END -->
+* [Dmitry V. Silantyev — Kenabres in Flames](https://www.last.fm/music/Dmitry+V.+Silantyev/_/Kenabres+in+Flames)
+* [Takeshi Furukawa — Hanging Gardens](https://www.last.fm/music/Takeshi+Furukawa/_/Hanging+Gardens)
+* [Everrune — Krugbu](https://www.last.fm/music/Everrune/_/Krugbu)
+* [Christopher Larkin — Furious Gods](https://www.last.fm/music/Christopher+Larkin/_/Furious+Gods)
+* [Jeremy Soule — Caught off Guard](https://www.last.fm/music/Jeremy+Soule/_/Caught+off+Guard)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
