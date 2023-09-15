@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jeremy Soule — Out of the Cold](https://www.last.fm/music/Jeremy+Soule/_/Out+of+the+Cold)
-* [ConcernedApe — Cloud Country](https://www.last.fm/music/ConcernedApe/_/Cloud+Country)
-* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)<!-- LASTFM:END -->
+* [Lena Raine — Prologue](https://www.last.fm/music/Lena+Raine/_/Prologue)
+* [Chris Remo — Calm After the Storm](https://www.last.fm/music/Chris+Remo/_/Calm+After+the+Storm)
+* [Jeremy Soule — Unbound](https://www.last.fm/music/Jeremy+Soule/_/Unbound)
+* [Jonathan Geer — End Credits](https://www.last.fm/music/Jonathan+Geer/_/End+Credits)
+* [Christopher Larkin — Enter Hallownest](https://www.last.fm/music/Christopher+Larkin/_/Enter+Hallownest)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
