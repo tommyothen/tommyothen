@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
+* [Slipknot — Dead Memories](https://www.last.fm/music/Slipknot/_/Dead+Memories)
 * [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
 * [Dreamville — Under the Sun &lpar;with J. Cole &amp; Lute feat. DaBaby&rpar;](https://www.last.fm/music/Dreamville/_/Under+the+Sun+&lpar;with+J.+Cole+&amp;+Lute+feat.+DaBaby&rpar;)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)
-* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)<!-- LASTFM:END -->
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
