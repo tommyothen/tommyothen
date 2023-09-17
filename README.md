@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
 * [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
 * [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)
-* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)<!-- LASTFM:END -->
+* [NewJeans — Hype Boy](https://www.last.fm/music/NewJeans/_/Hype+Boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
