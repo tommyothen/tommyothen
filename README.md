@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
 * [Slipknot — Dead Memories](https://www.last.fm/music/Slipknot/_/Dead+Memories)
 * [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
 * [Slipknot — Dead Memories](https://www.last.fm/music/Slipknot/_/Dead+Memories)
-* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
-* [Dreamville — Under the Sun &lpar;with J. Cole &amp; Lute feat. DaBaby&rpar;](https://www.last.fm/music/Dreamville/_/Under+the+Sun+&lpar;with+J.+Cole+&amp;+Lute+feat.+DaBaby&rpar;)<!-- LASTFM:END -->
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
