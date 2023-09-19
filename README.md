@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joey Valence &amp; Brae — PUNK TACTICS](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/PUNK+TACTICS)
+* [YUNG BAE — Slam Jam!](https://www.last.fm/music/YUNG+BAE/_/Slam+Jam!)
+* [XXXTENTACION — Jocelyn Flores](https://www.last.fm/music/XXXTENTACION/_/Jocelyn+Flores)
 * [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)
-* [Guardin — in my sleep](https://www.last.fm/music/Guardin/_/in+my+sleep)
-* [bbno$ — ploy](https://www.last.fm/music/bbno$/_/ploy)
-* [XXXTENTACION — RIP ROACH](https://www.last.fm/music/XXXTENTACION/_/RIP+ROACH)
-* [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)<!-- LASTFM:END -->
+* [Guardin — in my sleep](https://www.last.fm/music/Guardin/_/in+my+sleep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
