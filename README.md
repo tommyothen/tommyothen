@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
+* [Inzo — Visionaries &lpar;feat. Novet&rpar;](https://www.last.fm/music/Inzo/_/Visionaries+&lpar;feat.+Novet&rpar;)
 * [DOGDEER — Snow](https://www.last.fm/music/DOGDEER/_/Snow)
 * [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)
-* [Joakim Karud — Classic](https://www.last.fm/music/Joakim+Karud/_/Classic)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [Billie Eilish — bury a friend](https://www.last.fm/music/Billie+Eilish/_/bury+a+friend)<!-- LASTFM:END -->
+* [Joakim Karud — Classic](https://www.last.fm/music/Joakim+Karud/_/Classic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
