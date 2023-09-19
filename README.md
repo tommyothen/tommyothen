@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)
+* [Guardin — in my sleep](https://www.last.fm/music/Guardin/_/in+my+sleep)
+* [bbno$ — ploy](https://www.last.fm/music/bbno$/_/ploy)
 * [XXXTENTACION — RIP ROACH](https://www.last.fm/music/XXXTENTACION/_/RIP+ROACH)
-* [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)
-* [D-Real [愛] — Until Next Time...](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Until+Next+Time...)
-* [KID TRUNKS — ON THAT BITCH](https://www.last.fm/music/KID+TRUNKS/_/ON+THAT+BITCH)
-* [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)<!-- LASTFM:END -->
+* [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
