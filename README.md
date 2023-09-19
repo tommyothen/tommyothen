@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)
+* [FEDUK — Fresh!](https://www.last.fm/music/FEDUK/_/Fresh!)
 * [Tsundere Alley — Like My Love](https://www.last.fm/music/Tsundere+Alley/_/Like+My+Love)
 * [Cute Girls Doing Cute Things — I Like Cute Girls](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/I+Like+Cute+Girls)
-* [ONI INC. — Plague](https://www.last.fm/music/ONI+INC./_/Plague)
-* [iAmJakeHill — Day Ones](https://www.last.fm/music/iAmJakeHill/_/Day+Ones)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)<!-- LASTFM:END -->
+* [ONI INC. — Plague](https://www.last.fm/music/ONI+INC./_/Plague)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
