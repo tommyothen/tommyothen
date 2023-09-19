@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ONI INC. — Plague](https://www.last.fm/music/ONI+INC./_/Plague)
+* [iAmJakeHill — Day Ones](https://www.last.fm/music/iAmJakeHill/_/Day+Ones)
 * [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
 * [Blaze U — Walk Tha Plank](https://www.last.fm/music/Blaze+U/_/Walk+Tha+Plank)
-* [Joey Valence &amp; Brae — PUNK TACTICS](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/PUNK+TACTICS)
-* [YUNG BAE — Slam Jam!](https://www.last.fm/music/YUNG+BAE/_/Slam+Jam!)
-* [XXXTENTACION — Jocelyn Flores](https://www.last.fm/music/XXXTENTACION/_/Jocelyn+Flores)<!-- LASTFM:END -->
+* [Joey Valence &amp; Brae — PUNK TACTICS](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/PUNK+TACTICS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
