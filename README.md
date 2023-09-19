@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)
 * [Rich Brian — Love In My Pocket](https://www.last.fm/music/Rich+Brian/_/Love+In+My+Pocket)
 * [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
 * [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [luvbird — Dawn Amble](https://www.last.fm/music/luvbird/_/Dawn+Amble)<!-- LASTFM:END -->
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
