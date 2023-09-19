@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Love In My Pocket](https://www.last.fm/music/Rich+Brian/_/Love+In+My+Pocket)
+* [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
 * [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [luvbird — Dawn Amble](https://www.last.fm/music/luvbird/_/Dawn+Amble)
-* [Shakewell — Hold Me Down](https://www.last.fm/music/Shakewell/_/Hold+Me+Down)
-* [Oliver Tree — Fuck](https://www.last.fm/music/Oliver+Tree/_/Fuck)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)<!-- LASTFM:END -->
+* [luvbird — Dawn Amble](https://www.last.fm/music/luvbird/_/Dawn+Amble)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
