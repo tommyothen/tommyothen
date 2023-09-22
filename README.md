@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yarmak — Пидарасия](https://www.last.fm/music/Yarmak/_/%D0%9F%D0%B8%D0%B4%D0%B0%D1%80%D0%B0%D1%81%D0%B8%D1%8F)
-* [Mr.Kitty — 0% Angel](https://www.last.fm/music/Mr.Kitty/_/0%25+Angel)
-* [nothing,nowhere. — hammer](https://www.last.fm/music/nothing,nowhere./_/hammer)
-* [Deca — Mammon&#39;s Mantra](https://www.last.fm/music/Deca/_/Mammon%27s+Mantra)
-* [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)<!-- LASTFM:END -->
+* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
+* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
+* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
+* [Rings of Saturn — Senseless Massacre](https://www.last.fm/music/Rings+of+Saturn/_/Senseless+Massacre)
+* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
