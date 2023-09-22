@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wolf &amp; Bear — Deleto](https://www.last.fm/music/Wolf+&amp;+Bear/_/Deleto)
+* [Intervals — Breathe](https://www.last.fm/music/Intervals/_/Breathe)
+* [Good Tiger — Kimbal](https://www.last.fm/music/Good+Tiger/_/Kimbal)
 * [Nyu. — Stormy](https://www.last.fm/music/Nyu./_/Stormy)
-* [Stage Kids — Welcome to the Jungle](https://www.last.fm/music/Stage+Kids/_/Welcome+to+the+Jungle)
-* [Thrailkill — The Latter](https://www.last.fm/music/Thrailkill/_/The+Latter)
-* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
-* [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)<!-- LASTFM:END -->
+* [Stage Kids — Welcome to the Jungle](https://www.last.fm/music/Stage+Kids/_/Welcome+to+the+Jungle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
