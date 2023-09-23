@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kjjjjjjjjj — Cartus](https://www.last.fm/music/Kjjjjjjjjj/_/Cartus)
 * [Nyu. — Johnny Walker](https://www.last.fm/music/Nyu./_/Johnny+Walker)
 * [Catbamboo — Interlude](https://www.last.fm/music/Catbamboo/_/Interlude)
 * [Polyphia — Finale](https://www.last.fm/music/Polyphia/_/Finale)
-* [Thrailkill — Exercise in Futility](https://www.last.fm/music/Thrailkill/_/Exercise+in+Futility)
-* [Wolf &amp; Bear — Deleto](https://www.last.fm/music/Wolf+&amp;+Bear/_/Deleto)<!-- LASTFM:END -->
+* [Thrailkill — Exercise in Futility](https://www.last.fm/music/Thrailkill/_/Exercise+in+Futility)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
