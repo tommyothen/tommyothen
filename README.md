@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [takayan — Cheating is a crime](https://www.last.fm/music/takayan/_/Cheating+is+a+crime)
+* [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
 * [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
 * [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
-* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)
-* [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)<!-- LASTFM:END -->
+* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
