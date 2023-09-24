@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
+* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
 * [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)<!-- LASTFM:END -->
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
