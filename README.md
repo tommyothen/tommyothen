@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
+* [199X — Gillette](https://www.last.fm/music/199X/_/Gillette)
 * [TWICE — Fake &amp; True](https://www.last.fm/music/TWICE/_/Fake+&amp;+True)
 * [Jorja Smith — On My Mind &lpar;Jorja Smith X Preditah&rpar;](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+&lpar;Jorja+Smith+X+Preditah&rpar;)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [Daisy Mortem — Étoiles](https://www.last.fm/music/Daisy+Mortem/_/E%CC%81toiles)
-* [Osvaldorio — Lotus](https://www.last.fm/music/Osvaldorio/_/Lotus)<!-- LASTFM:END -->
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
