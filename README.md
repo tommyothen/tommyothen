@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [dacelynn — tell me what you want](https://www.last.fm/music/dacelynn/_/tell+me+what+you+want)
+* [Zeph — happy again](https://www.last.fm/music/Zeph/_/happy+again)
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [Will Joseph Cook — Kisses](https://www.last.fm/music/Will+Joseph+Cook/_/Kisses)
-* [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)
-* [diet lemon — Lime](https://www.last.fm/music/diet+lemon/_/Lime)
-* [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
+* [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
