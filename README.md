@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Osvaldorio — Lotus](https://www.last.fm/music/Osvaldorio/_/Lotus)
+* [DNMO — Broken](https://www.last.fm/music/DNMO/_/Broken)
 * [Eazy Mac — Chasing Rabbits &lpar;feat. Merkules&rpar;](https://www.last.fm/music/Eazy+Mac/_/Chasing+Rabbits+&lpar;feat.+Merkules&rpar;)
 * [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
-* [199X — Gillette](https://www.last.fm/music/199X/_/Gillette)
-* [TWICE — Fake &amp; True](https://www.last.fm/music/TWICE/_/Fake+&amp;+True)
-* [Jorja Smith — On My Mind &lpar;Jorja Smith X Preditah&rpar;](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+&lpar;Jorja+Smith+X+Preditah&rpar;)<!-- LASTFM:END -->
+* [199X — Gillette](https://www.last.fm/music/199X/_/Gillette)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
