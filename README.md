@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camille — Sneakers](https://www.last.fm/music/Camille/_/Sneakers)
+* [Zeph — world](https://www.last.fm/music/Zeph/_/world)
+* [Kidsnot$aints. — Daydreamer](https://www.last.fm/music/Kidsnot$aints./_/Daydreamer)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Kid Bloom — CIRCLES](https://www.last.fm/music/Kid+Bloom/_/CIRCLES)
-* [dacelynn — tell me what you want](https://www.last.fm/music/dacelynn/_/tell+me+what+you+want)
-* [Zeph — happy again](https://www.last.fm/music/Zeph/_/happy+again)
-* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)<!-- LASTFM:END -->
+* [Kid Bloom — CIRCLES](https://www.last.fm/music/Kid+Bloom/_/CIRCLES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
