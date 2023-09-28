@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
-* [Ūla — SCANDAL](https://www.last.fm/music/%C5%AAla/_/SCANDAL)<!-- LASTFM:END -->
+* [Will Joseph Cook — Kisses](https://www.last.fm/music/Will+Joseph+Cook/_/Kisses)
+* [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)
+* [diet lemon — Lime](https://www.last.fm/music/diet+lemon/_/Lime)
+* [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
