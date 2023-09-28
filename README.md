@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Abby Cates — better friends](https://www.last.fm/music/Abby+Cates/_/better+friends)
-* [Lyn Lapid — tlit21c](https://www.last.fm/music/Lyn+Lapid/_/tlit21c)
-* [Kieron Lee — Raincoat &lpar;feat. Chloe Ho&rpar;](https://www.last.fm/music/Kieron+Lee/_/Raincoat+&lpar;feat.+Chloe+Ho&rpar;)
-* [Camille — Sneakers](https://www.last.fm/music/Camille/_/Sneakers)
-* [Zeph — world](https://www.last.fm/music/Zeph/_/world)<!-- LASTFM:END -->
+* [Camille — do u?](https://www.last.fm/music/Camille/_/do+u%3F)
+* [spill tab — Cotton Candy](https://www.last.fm/music/spill+tab/_/Cotton+Candy)
+* [Zeph — history](https://www.last.fm/music/Zeph/_/history)
+* [Lukey — Justlikethis](https://www.last.fm/music/Lukey/_/Justlikethis)
+* [Abby Cates — better friends](https://www.last.fm/music/Abby+Cates/_/better+friends)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
