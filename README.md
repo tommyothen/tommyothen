@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
+* [Ber — I&#39;m Not In Love](https://www.last.fm/music/Ber/_/I%27m+Not+In+Love)
+* [Thomston — Magnolia &lpar;with Zeph&rpar;](https://www.last.fm/music/Thomston/_/Magnolia+&lpar;with+Zeph&rpar;)
 * [LayZi — Nothing Ever Feels Right](https://www.last.fm/music/LayZi/_/Nothing+Ever+Feels+Right)
-* [calica — Darlin&#39;](https://www.last.fm/music/calica/_/Darlin%27)
-* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
-* [Baby Storme — 2022](https://www.last.fm/music/Baby+Storme/_/2022)
-* [Camille — do u?](https://www.last.fm/music/Camille/_/do+u%3F)<!-- LASTFM:END -->
+* [calica — Darlin&#39;](https://www.last.fm/music/calica/_/Darlin%27)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
