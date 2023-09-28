@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Osvaldorio — Lotus](https://www.last.fm/music/Osvaldorio/_/Lotus)
-* [DNMO — Broken](https://www.last.fm/music/DNMO/_/Broken)
-* [Eazy Mac — Chasing Rabbits &lpar;feat. Merkules&rpar;](https://www.last.fm/music/Eazy+Mac/_/Chasing+Rabbits+&lpar;feat.+Merkules&rpar;)
-* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
-* [199X — Gillette](https://www.last.fm/music/199X/_/Gillette)<!-- LASTFM:END -->
+* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
+* [Ūla — SCANDAL](https://www.last.fm/music/%C5%AAla/_/SCANDAL)
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
+* [Osvaldorio — Lotus](https://www.last.fm/music/Osvaldorio/_/Lotus)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
