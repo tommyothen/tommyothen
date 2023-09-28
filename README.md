@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Camille — do u?](https://www.last.fm/music/Camille/_/do+u%3F)
-* [spill tab — Cotton Candy](https://www.last.fm/music/spill+tab/_/Cotton+Candy)
-* [Zeph — history](https://www.last.fm/music/Zeph/_/history)
-* [Lukey — Justlikethis](https://www.last.fm/music/Lukey/_/Justlikethis)
-* [Abby Cates — better friends](https://www.last.fm/music/Abby+Cates/_/better+friends)<!-- LASTFM:END -->
+* [LayZi — Nothing Ever Feels Right](https://www.last.fm/music/LayZi/_/Nothing+Ever+Feels+Right)
+* [calica — Darlin&#39;](https://www.last.fm/music/calica/_/Darlin%27)
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
+* [Baby Storme — 2022](https://www.last.fm/music/Baby+Storme/_/2022)
+* [Camille — do u?](https://www.last.fm/music/Camille/_/do+u%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
