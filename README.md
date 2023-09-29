@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — happy again](https://www.last.fm/music/Zeph/_/happy+again)
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Will Joseph Cook — Kisses](https://www.last.fm/music/Will+Joseph+Cook/_/Kisses)
-* [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)
-* [LayZi — Nothing Ever Feels Right](https://www.last.fm/music/LayZi/_/Nothing+Ever+Feels+Right)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)<!-- LASTFM:END -->
+* [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
