@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Baby Storme — 2022](https://www.last.fm/music/Baby+Storme/_/2022)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
 * [Zeph — happy again](https://www.last.fm/music/Zeph/_/happy+again)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Will Joseph Cook — Kisses](https://www.last.fm/music/Will+Joseph+Cook/_/Kisses)
-* [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)<!-- LASTFM:END -->
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
