@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)
+* [LayZi — Nothing Ever Feels Right](https://www.last.fm/music/LayZi/_/Nothing+Ever+Feels+Right)
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
 * [diet lemon — always.](https://www.last.fm/music/diet+lemon/_/always.)
-* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
-* [Ber — I&#39;m Not In Love](https://www.last.fm/music/Ber/_/I%27m+Not+In+Love)
-* [Thomston — Magnolia &lpar;with Zeph&rpar;](https://www.last.fm/music/Thomston/_/Magnolia+&lpar;with+Zeph&rpar;)
-* [LayZi — Nothing Ever Feels Right](https://www.last.fm/music/LayZi/_/Nothing+Ever+Feels+Right)<!-- LASTFM:END -->
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
