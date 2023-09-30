@@ -31,8 +31,8 @@ Now Playing\
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [Easha — You Make Me Feel](https://www.last.fm/music/Easha/_/You+Make+Me+Feel)<!-- LASTFM:END -->
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
