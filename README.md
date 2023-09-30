@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
-* [Will Joseph Cook — We Met On The Internet](https://www.last.fm/music/Will+Joseph+Cook/_/We+Met+On+The+Internet)
-* [Zeph — history](https://www.last.fm/music/Zeph/_/history)<!-- LASTFM:END -->
+* [Will Joseph Cook — We Met On The Internet](https://www.last.fm/music/Will+Joseph+Cook/_/We+Met+On+The+Internet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
