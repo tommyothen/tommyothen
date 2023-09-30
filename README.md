@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [Will Joseph Cook — We Met On The Internet](https://www.last.fm/music/Will+Joseph+Cook/_/We+Met+On+The+Internet)
-* [Zeph — history](https://www.last.fm/music/Zeph/_/history)
-* [Elio — hurts 2 hate somebody &lpar;with Chase Atlantic &amp; No Rome&rpar;](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+&lpar;with+Chase+Atlantic+&amp;+No+Rome&rpar;)<!-- LASTFM:END -->
+* [Zeph — history](https://www.last.fm/music/Zeph/_/history)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
