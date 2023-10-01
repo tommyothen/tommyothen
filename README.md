@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [DPR LIVE — Action! &lpar;feat. GRAY&rpar;](https://www.last.fm/music/DPR+LIVE/_/Action!+&lpar;feat.+GRAY&rpar;)
-* [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)
-* [DPR LIVE — Action! &lpar;feat. GRAY&rpar;](https://www.last.fm/music/DPR+LIVE/_/Action!+&lpar;feat.+GRAY&rpar;)
-* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
-* [QM — Plata](https://www.last.fm/music/QM/_/Plata)<!-- LASTFM:END -->
+* [EK — WOLF &lpar;prod. YoungSick&rpar;](https://www.last.fm/music/EK/_/WOLF+&lpar;prod.+YoungSick&rpar;)
+* [BewhY — Curtain Call](https://www.last.fm/music/BewhY/_/Curtain+Call)
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
+* [BewhY — Leading Actor](https://www.last.fm/music/BewhY/_/Leading+Actor)
+* [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
