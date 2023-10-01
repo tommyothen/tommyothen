@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [QM — Plata](https://www.last.fm/music/QM/_/Plata)
-* [QM — Plata](https://www.last.fm/music/QM/_/Plata)
-* [E SENS — Confirmed](https://www.last.fm/music/E+SENS/_/Confirmed)
-* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
-* [Jann — Gladiator](https://www.last.fm/music/Jann/_/Gladiator)<!-- LASTFM:END -->
+* [DPR LIVE — Action! &lpar;feat. GRAY&rpar;](https://www.last.fm/music/DPR+LIVE/_/Action!+&lpar;feat.+GRAY&rpar;)
+* [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)
+* [DPR LIVE — Action! &lpar;feat. GRAY&rpar;](https://www.last.fm/music/DPR+LIVE/_/Action!+&lpar;feat.+GRAY&rpar;)
+* [Swervy — Mama Lisa](https://www.last.fm/music/Swervy/_/Mama+Lisa)
+* [QM — Plata](https://www.last.fm/music/QM/_/Plata)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
