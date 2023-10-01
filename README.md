@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tiffany Day — YOU&#39;RE SO FUCKING MEAN TO ME](https://www.last.fm/music/Tiffany+Day/_/YOU%27RE+SO+FUCKING+MEAN+TO+ME)
+* [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)
+* [adan diaz — do re mi](https://www.last.fm/music/adan+diaz/_/do+re+mi)
 * [Zeph — alternate universe](https://www.last.fm/music/Zeph/_/alternate+universe)
-* [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)
-* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
-* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)<!-- LASTFM:END -->
+* [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
