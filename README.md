@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jann — Gladiator](https://www.last.fm/music/Jann/_/Gladiator)
+* [QM — Plata](https://www.last.fm/music/QM/_/Plata)
+* [QM — Plata](https://www.last.fm/music/QM/_/Plata)
+* [E SENS — Confirmed](https://www.last.fm/music/E+SENS/_/Confirmed)
 * [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
-* [GRANRODEO — BEASTFUL](https://www.last.fm/music/GRANRODEO/_/BEASTFUL)<!-- LASTFM:END -->
+* [Jann — Gladiator](https://www.last.fm/music/Jann/_/Gladiator)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
