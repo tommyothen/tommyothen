@@ -36,7 +36,7 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
-* [Jitsu wa Ore, Saikyou deshita? - TV](https://myanimelist.net/anime/52969/Jitsu_wa_Ore_Saikyou_deshita) - Watching - 9 of 12 episodes
+* [Jitsu wa Ore, Saikyou deshita? - TV](https://myanimelist.net/anime/52969/Jitsu_wa_Ore_Saikyou_deshita) - Completed - 12 of 12 episodes
 * [Renai Flops - TV](https://myanimelist.net/anime/51403/Renai_Flops) - Watching - 2 of 12 episodes
 * [Futoku no Guild - TV](https://myanimelist.net/anime/51212/Futoku_no_Guild) - Watching - 8 of 12 episodes
 * [Isekai Meikyuu de Harem wo - TV](https://myanimelist.net/anime/44524/Isekai_Meikyuu_de_Harem_wo) - Watching - 4 of 12 episodes
