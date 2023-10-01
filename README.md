@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tiffany Day — YOU&#39;RE SO FUCKING MEAN TO ME](https://www.last.fm/music/Tiffany+Day/_/YOU%27RE+SO+FUCKING+MEAN+TO+ME)
-* [Zeph — happy again](https://www.last.fm/music/Zeph/_/happy+again)
+* [Lyn Lapid — poster boy](https://www.last.fm/music/Lyn+Lapid/_/poster+boy)
+* [Adrift — Elegance](https://www.last.fm/music/Adrift/_/Elegance)
 * [fig — Raspberry Tongue](https://www.last.fm/music/fig/_/Raspberry+Tongue)
 * [Tiffany Day — YOU&#39;RE SO FUCKING MEAN TO ME](https://www.last.fm/music/Tiffany+Day/_/YOU%27RE+SO+FUCKING+MEAN+TO+ME)
-* [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)<!-- LASTFM:END -->
+* [Zeph — happy again](https://www.last.fm/music/Zeph/_/happy+again)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
