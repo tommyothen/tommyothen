@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
-* [Lyn Lapid — poster boy](https://www.last.fm/music/Lyn+Lapid/_/poster+boy)
-* [Adrift — Elegance](https://www.last.fm/music/Adrift/_/Elegance)
-* [fig — Raspberry Tongue](https://www.last.fm/music/fig/_/Raspberry+Tongue)<!-- LASTFM:END -->
+* [Lyn Lapid — poster boy](https://www.last.fm/music/Lyn+Lapid/_/poster+boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
