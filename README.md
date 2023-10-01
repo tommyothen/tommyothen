@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
 * [EK — WOLF &lpar;prod. YoungSick&rpar;](https://www.last.fm/music/EK/_/WOLF+&lpar;prod.+YoungSick&rpar;)
 * [BewhY — Curtain Call](https://www.last.fm/music/BewhY/_/Curtain+Call)
 * [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
-* [BewhY — Leading Actor](https://www.last.fm/music/BewhY/_/Leading+Actor)
-* [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)<!-- LASTFM:END -->
+* [BewhY — Leading Actor](https://www.last.fm/music/BewhY/_/Leading+Actor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
