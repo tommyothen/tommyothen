@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
-* [DJ Ötzi — Hey Baby &lpar;Uhh, Ahh&rpar;](https://www.last.fm/music/DJ+%C3%96tzi/_/Hey+Baby+&lpar;Uhh,+Ahh&rpar;)
-* [Hannah Laing — Party All The Time](https://www.last.fm/music/Hannah+Laing/_/Party+All+The+Time)<!-- LASTFM:END -->
+* [Zeph — alternate universe](https://www.last.fm/music/Zeph/_/alternate+universe)
+* [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)
+* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
+* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
