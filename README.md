@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [o k h o — Just Us](https://www.last.fm/music/o+k+h+o/_/Just+Us)
 * [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
 * [Yun Head — Cats on Mars](https://www.last.fm/music/Yun+Head/_/Cats+on+Mars)
-* [Eden — float](https://www.last.fm/music/Eden/_/float)
-* [Spencer Sutherland — Lemons](https://www.last.fm/music/Spencer+Sutherland/_/Lemons)
-* [brb. — Whoops](https://www.last.fm/music/brb./_/Whoops)<!-- LASTFM:END -->
+* [Eden — float](https://www.last.fm/music/Eden/_/float)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
