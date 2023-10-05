@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Demi Lovato — Don&#39;t Forget - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Don%27t+Forget+-+Rock+Version)
+* [Demi Lovato — Neon Lights &lpar;with The Maine&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Neon+Lights+&lpar;with+The+Maine&rpar;+-+Rock+Version)
 * [Demi Lovato — La La Land &lpar;feat. Nita Strauss&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/La+La+Land+&lpar;feat.+Nita+Strauss&rpar;+-+Rock+Version)
 * [Demi Lovato — Heart Attack - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Heart+Attack+-+Rock+Version)
-* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
-* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)
-* [Antoha MC — время ток](https://www.last.fm/music/Antoha+MC/_/%D0%B2%D1%80%D0%B5%D0%BC%D1%8F+%D1%82%D0%BE%D0%BA)<!-- LASTFM:END -->
+* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
