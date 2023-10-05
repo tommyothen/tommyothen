@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Antoha MC — время ток](https://www.last.fm/music/Antoha+MC/_/%D0%B2%D1%80%D0%B5%D0%BC%D1%8F+%D1%82%D0%BE%D0%BA)
+* [Die Antwoord — Baby&#39;s on Fire](https://www.last.fm/music/Die+Antwoord/_/Baby%27s+on+Fire)
 * [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
 * [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [TWICE — KNOCK KNOCK](https://www.last.fm/music/TWICE/_/KNOCK+KNOCK)
-* [Yakkle — 愛密集](https://www.last.fm/music/Yakkle/_/%E6%84%9B%E5%AF%86%E9%9B%86)<!-- LASTFM:END -->
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
