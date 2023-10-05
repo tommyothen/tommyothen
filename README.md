@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Arctic Monkeys — Brianstorm](https://www.last.fm/music/Arctic+Monkeys/_/Brianstorm)
+* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
 * [Flux Pavilion — Pull The Trigger - Maduk Remix](https://www.last.fm/music/Flux+Pavilion/_/Pull+The+Trigger+-+Maduk+Remix)
 * [DJ Fresh — Gold Dust - Fox Stevenson Remix](https://www.last.fm/music/DJ+Fresh/_/Gold+Dust+-+Fox+Stevenson+Remix)
-* [Fox Stevenson — Don&#39;t Care Crown](https://www.last.fm/music/Fox+Stevenson/_/Don%27t+Care+Crown)
-* [1991 — Full Send](https://www.last.fm/music/1991/_/Full+Send)
-* [Urbandawn — Come Together](https://www.last.fm/music/Urbandawn/_/Come+Together)<!-- LASTFM:END -->
+* [Fox Stevenson — Don&#39;t Care Crown](https://www.last.fm/music/Fox+Stevenson/_/Don%27t+Care+Crown)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
