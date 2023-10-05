@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Urbandawn — Come Together](https://www.last.fm/music/Urbandawn/_/Come+Together)
 * [Flo Rida — My House](https://www.last.fm/music/Flo+Rida/_/My+House)
 * [Mike Posner — Cooler Than Me](https://www.last.fm/music/Mike+Posner/_/Cooler+Than+Me)
 * [Katy Perry — Last Friday Night &lpar;T.G.I.F.&rpar;](https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+&lpar;T.G.I.F.&rpar;)
-* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
-* [Katy Perry — California Gurls](https://www.last.fm/music/Katy+Perry/_/California+Gurls)<!-- LASTFM:END -->
+* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
