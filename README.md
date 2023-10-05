@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katy Perry — California Gurls](https://www.last.fm/music/Katy+Perry/_/California+Gurls)
 * [Kelly Rowland — Commander](https://www.last.fm/music/Kelly+Rowland/_/Commander)
 * [Rihanna — Man Down](https://www.last.fm/music/Rihanna/_/Man+Down)
 * [Alicia Keys — Empire State of Mind &lpar;Part II&rpar; Broken Down](https://www.last.fm/music/Alicia+Keys/_/Empire+State+of+Mind+&lpar;Part+II&rpar;+Broken+Down)
-* [Timbaland — If We Ever Meet Again &lpar;Featuring Katy Perry&rpar;](https://www.last.fm/music/Timbaland/_/If+We+Ever+Meet+Again+&lpar;Featuring+Katy+Perry&rpar;)
-* [Sean Kingston — Eenie Meenie](https://www.last.fm/music/Sean+Kingston/_/Eenie+Meenie)<!-- LASTFM:END -->
+* [Timbaland — If We Ever Meet Again &lpar;Featuring Katy Perry&rpar;](https://www.last.fm/music/Timbaland/_/If+We+Ever+Meet+Again+&lpar;Featuring+Katy+Perry&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
