@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
-* [Slipknot — Vermilion, Pt. 2](https://www.last.fm/music/Slipknot/_/Vermilion,+Pt.+2)
-* [Slipknot — Spit It Out](https://www.last.fm/music/Slipknot/_/Spit+It+Out)
-* [Slipknot — People = Shit](https://www.last.fm/music/Slipknot/_/People+=+Shit)<!-- LASTFM:END -->
+* [Slipknot — Vermilion, Pt. 2](https://www.last.fm/music/Slipknot/_/Vermilion,+Pt.+2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
