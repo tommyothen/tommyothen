@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Demi Lovato — Confident - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Confident+-+Rock+Version)
-* [Demi Lovato — Cool for the Summer - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Cool+for+the+Summer+-+Rock+Version)
-* [Demi Lovato — Sorry Not Sorry &lpar;with Slash&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Sorry+Not+Sorry+&lpar;with+Slash&rpar;+-+Rock+Version)
-* [Demi Lovato — Don&#39;t Forget - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Don%27t+Forget+-+Rock+Version)
-* [Demi Lovato — Neon Lights &lpar;with The Maine&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Neon+Lights+&lpar;with+The+Maine&rpar;+-+Rock+Version)<!-- LASTFM:END -->
+* [Marshmello — Other Boys](https://www.last.fm/music/Marshmello/_/Other+Boys)
+* [LØLØ — hot girls in hell](https://www.last.fm/music/L%C3%98L%C3%98/_/hot+girls+in+hell)
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
+* [Demi Lovato — Give Your Heart a Break &lpar;with Bert McCracken from The Used&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Give+Your+Heart+a+Break+&lpar;with+Bert+McCracken+from+The+Used&rpar;+-+Rock+Version)
+* [Demi Lovato — Confident - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Confident+-+Rock+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
