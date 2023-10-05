@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)<!-- LASTFM:END -->
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
