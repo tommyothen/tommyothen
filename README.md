@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — float](https://www.last.fm/music/Eden/_/float)
+* [Spencer Sutherland — Lemons](https://www.last.fm/music/Spencer+Sutherland/_/Lemons)
 * [brb. — Whoops](https://www.last.fm/music/brb./_/Whoops)
 * [Josh A — Crumbling](https://www.last.fm/music/Josh+A/_/Crumbling)
-* [Yung Gravy — C’est La Vie &lpar;with bbno$ &amp; Rich Brian&rpar;](https://www.last.fm/music/Yung+Gravy/_/C%E2%80%99est+La+Vie+&lpar;with+bbno$+&amp;+Rich+Brian&rpar;)
-* [BLACKPINK — Typa Girl](https://www.last.fm/music/BLACKPINK/_/Typa+Girl)
-* [Mothica — Sirens &lpar;feat. Sophie Powers&rpar;](https://www.last.fm/music/Mothica/_/Sirens+&lpar;feat.+Sophie+Powers&rpar;)<!-- LASTFM:END -->
+* [Yung Gravy — C’est La Vie &lpar;with bbno$ &amp; Rich Brian&rpar;](https://www.last.fm/music/Yung+Gravy/_/C%E2%80%99est+La+Vie+&lpar;with+bbno$+&amp;+Rich+Brian&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
