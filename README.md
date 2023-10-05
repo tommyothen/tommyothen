@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sean Kingston — Eenie Meenie](https://www.last.fm/music/Sean+Kingston/_/Eenie+Meenie)
 * [Rihanna — Only Girl &lpar;In the World&rpar;](https://www.last.fm/music/Rihanna/_/Only+Girl+&lpar;In+the+World&rpar;)
 * [Justin Bieber — Baby](https://www.last.fm/music/Justin+Bieber/_/Baby)
 * [CeeLo Green — Forget You](https://www.last.fm/music/CeeLo+Green/_/Forget+You)
-* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
-* [Enrique Iglesias — Do You Know? &lpar;The Ping Pong Song&rpar;](https://www.last.fm/music/Enrique+Iglesias/_/Do+You+Know%3F+&lpar;The+Ping+Pong+Song&rpar;)<!-- LASTFM:END -->
+* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
