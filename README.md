@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)
 * [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
-* [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)
-* [I DONT KNOW HOW BUT THEY FOUND ME — Leave Me Alone](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Leave+Me+Alone)
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)<!-- LASTFM:END -->
+* [One Direction — Best Song Ever](https://www.last.fm/music/One+Direction/_/Best+Song+Ever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
