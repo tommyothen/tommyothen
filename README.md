@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — The Devil in I](https://www.last.fm/music/Slipknot/_/The+Devil+in+I)
 * [Slipknot — Snuff](https://www.last.fm/music/Slipknot/_/Snuff)
 * [Slipknot — Unsainted](https://www.last.fm/music/Slipknot/_/Unsainted)
 * [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
-* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)<!-- LASTFM:END -->
+* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
