@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The 1975 — I&#39;m in Love with You](https://www.last.fm/music/The+1975/_/I%27m+in+Love+with+You)
+* [The 1975 — If You’re Too Shy &lpar;Let Me Know&rpar;](https://www.last.fm/music/The+1975/_/If+You%E2%80%99re+Too+Shy+&lpar;Let+Me+Know&rpar;)
 * [Maroon 5 — Payphone](https://www.last.fm/music/Maroon+5/_/Payphone)
 * [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [o k h o — Just Us](https://www.last.fm/music/o+k+h+o/_/Just+Us)
-* [1NONLY — Stay With Me](https://www.last.fm/music/1NONLY/_/Stay+With+Me)
-* [Yun Head — Cats on Mars](https://www.last.fm/music/Yun+Head/_/Cats+on+Mars)<!-- LASTFM:END -->
+* [o k h o — Just Us](https://www.last.fm/music/o+k+h+o/_/Just+Us)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
