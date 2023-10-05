@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Alicia Keys — Empire State of Mind &lpar;Part II&rpar; Broken Down](https://www.last.fm/music/Alicia+Keys/_/Empire+State+of+Mind+&lpar;Part+II&rpar;+Broken+Down)
+* [Timbaland — If We Ever Meet Again &lpar;Featuring Katy Perry&rpar;](https://www.last.fm/music/Timbaland/_/If+We+Ever+Meet+Again+&lpar;Featuring+Katy+Perry&rpar;)
 * [Sean Kingston — Eenie Meenie](https://www.last.fm/music/Sean+Kingston/_/Eenie+Meenie)
 * [Rihanna — Only Girl &lpar;In the World&rpar;](https://www.last.fm/music/Rihanna/_/Only+Girl+&lpar;In+the+World&rpar;)
-* [Justin Bieber — Baby](https://www.last.fm/music/Justin+Bieber/_/Baby)
-* [CeeLo Green — Forget You](https://www.last.fm/music/CeeLo+Green/_/Forget+You)
-* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)<!-- LASTFM:END -->
+* [Justin Bieber — Baby](https://www.last.fm/music/Justin+Bieber/_/Baby)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
