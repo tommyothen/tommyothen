@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Demi Lovato — La La Land &lpar;feat. Nita Strauss&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/La+La+Land+&lpar;feat.+Nita+Strauss&rpar;+-+Rock+Version)
+* [Demi Lovato — Heart Attack - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Heart+Attack+-+Rock+Version)
 * [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
 * [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)
-* [Antoha MC — время ток](https://www.last.fm/music/Antoha+MC/_/%D0%B2%D1%80%D0%B5%D0%BC%D1%8F+%D1%82%D0%BE%D0%BA)
-* [Die Antwoord — Baby&#39;s on Fire](https://www.last.fm/music/Die+Antwoord/_/Baby%27s+on+Fire)
-* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)<!-- LASTFM:END -->
+* [Antoha MC — время ток](https://www.last.fm/music/Antoha+MC/_/%D0%B2%D1%80%D0%B5%D0%BC%D1%8F+%D1%82%D0%BE%D0%BA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
