@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)
 * [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [D-Real [愛] — Love In The East](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Love+In+The+East)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
