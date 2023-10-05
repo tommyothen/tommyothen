@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — Typa Girl](https://www.last.fm/music/BLACKPINK/_/Typa+Girl)
+* [Mothica — Sirens &lpar;feat. Sophie Powers&rpar;](https://www.last.fm/music/Mothica/_/Sirens+&lpar;feat.+Sophie+Powers&rpar;)
 * [Marshmello — Other Boys](https://www.last.fm/music/Marshmello/_/Other+Boys)
 * [LØLØ — hot girls in hell](https://www.last.fm/music/L%C3%98L%C3%98/_/hot+girls+in+hell)
-* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [Demi Lovato — Give Your Heart a Break &lpar;with Bert McCracken from The Used&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Give+Your+Heart+a+Break+&lpar;with+Bert+McCracken+from+The+Used&rpar;+-+Rock+Version)
-* [Demi Lovato — Confident - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Confident+-+Rock+Version)<!-- LASTFM:END -->
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
