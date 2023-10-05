@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Demi Lovato — Confident - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Confident+-+Rock+Version)
+* [Demi Lovato — Cool for the Summer - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Cool+for+the+Summer+-+Rock+Version)
 * [Demi Lovato — Sorry Not Sorry &lpar;with Slash&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Sorry+Not+Sorry+&lpar;with+Slash&rpar;+-+Rock+Version)
 * [Demi Lovato — Don&#39;t Forget - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Don%27t+Forget+-+Rock+Version)
-* [Demi Lovato — Neon Lights &lpar;with The Maine&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Neon+Lights+&lpar;with+The+Maine&rpar;+-+Rock+Version)
-* [Demi Lovato — La La Land &lpar;feat. Nita Strauss&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/La+La+Land+&lpar;feat.+Nita+Strauss&rpar;+-+Rock+Version)
-* [Demi Lovato — Heart Attack - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Heart+Attack+-+Rock+Version)<!-- LASTFM:END -->
+* [Demi Lovato — Neon Lights &lpar;with The Maine&rpar; - Rock Version](https://www.last.fm/music/Demi+Lovato/_/Neon+Lights+&lpar;with+The+Maine&rpar;+-+Rock+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
