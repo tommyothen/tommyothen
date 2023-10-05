@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
+* [Enrique Iglesias — Do You Know? &lpar;The Ping Pong Song&rpar;](https://www.last.fm/music/Enrique+Iglesias/_/Do+You+Know%3F+&lpar;The+Ping+Pong+Song&rpar;)
 * [Take That — Patience](https://www.last.fm/music/Take+That/_/Patience)
 * [Nickelback — Rockstar](https://www.last.fm/music/Nickelback/_/Rockstar)
-* [Arctic Monkeys — Brianstorm](https://www.last.fm/music/Arctic+Monkeys/_/Brianstorm)
-* [Rihanna — Umbrella](https://www.last.fm/music/Rihanna/_/Umbrella)
-* [Flux Pavilion — Pull The Trigger - Maduk Remix](https://www.last.fm/music/Flux+Pavilion/_/Pull+The+Trigger+-+Maduk+Remix)<!-- LASTFM:END -->
+* [Arctic Monkeys — Brianstorm](https://www.last.fm/music/Arctic+Monkeys/_/Brianstorm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
