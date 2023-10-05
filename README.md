@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — G.O.A.T.](https://www.last.fm/music/Polyphia/_/G.O.A.T.)
+* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
 * [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
-* [Slipknot — Vermilion, Pt. 2](https://www.last.fm/music/Slipknot/_/Vermilion,+Pt.+2)<!-- LASTFM:END -->
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
