@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
 * [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
 * [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
 * [MAX — Blueberry Eyes &lpar;feat. SUGA of BTS&rpar;](https://www.last.fm/music/MAX/_/Blueberry+Eyes+&lpar;feat.+SUGA+of+BTS&rpar;)
-* [ABSRDST — Imaginary Friend](https://www.last.fm/music/ABSRDST/_/Imaginary+Friend)
-* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)<!-- LASTFM:END -->
+* [ABSRDST — Imaginary Friend](https://www.last.fm/music/ABSRDST/_/Imaginary+Friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
