@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
 * [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Shontelle — Impossible](https://www.last.fm/music/Shontelle/_/Impossible)<!-- LASTFM:END -->
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
