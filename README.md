@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
+* [DAOKO — 打上花火](https://www.last.fm/music/DAOKO/_/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB)
 * [Ashnikko — Daisy 2.0 &lpar;feat. Hatsune Miku&rpar;](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+&lpar;feat.+Hatsune+Miku&rpar;)
-* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)
-* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
-* [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [Creepy Nuts — 堕天](https://www.last.fm/music/Creepy+Nuts/_/%E5%A0%95%E5%A4%A9)<!-- LASTFM:END -->
+* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
