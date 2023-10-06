@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
+* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Packy — Like This](https://www.last.fm/music/Packy/_/Like+This)
-* [XXXTENTACION — Ayala &lpar;Outro&rpar;](https://www.last.fm/music/XXXTENTACION/_/Ayala+&lpar;Outro&rpar;)<!-- LASTFM:END -->
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
