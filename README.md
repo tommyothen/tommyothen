@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
 * [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
-* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)<!-- LASTFM:END -->
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
