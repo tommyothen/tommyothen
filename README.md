@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lady Gaga — Telephone](https://www.last.fm/music/Lady+Gaga/_/Telephone)
 * [Paramore — Misery Business](https://www.last.fm/music/Paramore/_/Misery+Business)
 * [Tyler, the Creator — BEST INTEREST](https://www.last.fm/music/Tyler,+the+Creator/_/BEST+INTEREST)
 * [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)
-* [3OH!3 — Starstrukk &lpar;feat. Katy Perry&rpar;](https://www.last.fm/music/3OH!3/_/Starstrukk+&lpar;feat.+Katy+Perry&rpar;)
-* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)<!-- LASTFM:END -->
+* [3OH!3 — Starstrukk &lpar;feat. Katy Perry&rpar;](https://www.last.fm/music/3OH!3/_/Starstrukk+&lpar;feat.+Katy+Perry&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
