@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)
+* [Black Eyed Peas — Meet Me Halfway](https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway)
 * [Carly Rae Jepsen — I Really Like You](https://www.last.fm/music/Carly+Rae+Jepsen/_/I+Really+Like+You)
 * [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
-* [Far East Movement — Like a G6](https://www.last.fm/music/Far+East+Movement/_/Like+a+G6)
-* [Michael Bublé — Haven&#39;t Met You Yet](https://www.last.fm/music/Michael+Bubl%C3%A9/_/Haven%27t+Met+You+Yet)
-* [Tyler, the Creator — See You Again &lpar;feat. Kali Uchis&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+&lpar;feat.+Kali+Uchis&rpar;)<!-- LASTFM:END -->
+* [Far East Movement — Like a G6](https://www.last.fm/music/Far+East+Movement/_/Like+a+G6)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
