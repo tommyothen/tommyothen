@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
+* [Maybe Baby — Аскорбинка 2.0](https://www.last.fm/music/Maybe+Baby/_/%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0+2.0)
 * [Alex Gaudino — Destination Calabria](https://www.last.fm/music/Alex+Gaudino/_/Destination+Calabria)
 * [Lady Gaga — Telephone](https://www.last.fm/music/Lady+Gaga/_/Telephone)
-* [Paramore — Misery Business](https://www.last.fm/music/Paramore/_/Misery+Business)
-* [Tyler, the Creator — BEST INTEREST](https://www.last.fm/music/Tyler,+the+Creator/_/BEST+INTEREST)
-* [Kelly Clarkson — Since U Been Gone](https://www.last.fm/music/Kelly+Clarkson/_/Since+U+Been+Gone)<!-- LASTFM:END -->
+* [Paramore — Misery Business](https://www.last.fm/music/Paramore/_/Misery+Business)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
