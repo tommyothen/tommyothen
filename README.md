@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — [BLEED BLOOD]](https://www.last.fm/music/Camellia/_/%5BBLEED+BLOOD%5D)
 * [Vieze Asbak — Erika Uit Langenboom - Uptempo Braak Mix](https://www.last.fm/music/Vieze+Asbak/_/Erika+Uit+Langenboom+-+Uptempo+Braak+Mix)
 * [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
 * [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)<!-- LASTFM:END -->
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
