@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NEEDTOBREATHE — The Cave](https://www.last.fm/music/NEEDTOBREATHE/_/The+Cave)
 * [Stryper — Same Old Story](https://www.last.fm/music/Stryper/_/Same+Old+Story)
 * [Disciple — Promise to Live](https://www.last.fm/music/Disciple/_/Promise+to+Live)
 * [Skillet — Hero](https://www.last.fm/music/Skillet/_/Hero)
-* [Fallstar — Radio &lpar;NW Hesh&rpar;](https://www.last.fm/music/Fallstar/_/Radio+&lpar;NW+Hesh&rpar;)
-* [Torndown — Live Again](https://www.last.fm/music/Torndown/_/Live+Again)<!-- LASTFM:END -->
+* [Fallstar — Radio &lpar;NW Hesh&rpar;](https://www.last.fm/music/Fallstar/_/Radio+&lpar;NW+Hesh&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
