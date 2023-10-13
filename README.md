@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bellarive — Lazarus](https://www.last.fm/music/Bellarive/_/Lazarus)
 * [Thrice — Black Honey](https://www.last.fm/music/Thrice/_/Black+Honey)
 * [Skillet — Monster](https://www.last.fm/music/Skillet/_/Monster)
 * [Chevelle — The Red](https://www.last.fm/music/Chevelle/_/The+Red)
-* [Creed — My Own Prison](https://www.last.fm/music/Creed/_/My+Own+Prison)
-* [Chevelle — Comfortable Liar](https://www.last.fm/music/Chevelle/_/Comfortable+Liar)<!-- LASTFM:END -->
+* [Creed — My Own Prison](https://www.last.fm/music/Creed/_/My+Own+Prison)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
