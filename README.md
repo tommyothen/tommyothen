@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Living Scars — Wake Me Up](https://www.last.fm/music/Living+Scars/_/Wake+Me+Up)
+* [Stryper — Rise to the Call](https://www.last.fm/music/Stryper/_/Rise+to+the+Call)
 * [Manafest — Stones](https://www.last.fm/music/Manafest/_/Stones)
 * [War of Ages — No Altars](https://www.last.fm/music/War+of+Ages/_/No+Altars)
-* [Matt Sassano — In Defiance](https://www.last.fm/music/Matt+Sassano/_/In+Defiance)
-* [NEEDTOBREATHE — The Cave](https://www.last.fm/music/NEEDTOBREATHE/_/The+Cave)
-* [Stryper — Same Old Story](https://www.last.fm/music/Stryper/_/Same+Old+Story)<!-- LASTFM:END -->
+* [Matt Sassano — In Defiance](https://www.last.fm/music/Matt+Sassano/_/In+Defiance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
