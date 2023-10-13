@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Attalus — Coming Clean](https://www.last.fm/music/Attalus/_/Coming+Clean)
+* [Nathan Wagner — The Antihero](https://www.last.fm/music/Nathan+Wagner/_/The+Antihero)
 * [Nathan Wagner — Vice](https://www.last.fm/music/Nathan+Wagner/_/Vice)
 * [Bellarive — Lazarus](https://www.last.fm/music/Bellarive/_/Lazarus)
-* [Thrice — Black Honey](https://www.last.fm/music/Thrice/_/Black+Honey)
-* [Skillet — Monster](https://www.last.fm/music/Skillet/_/Monster)
-* [Chevelle — The Red](https://www.last.fm/music/Chevelle/_/The+Red)<!-- LASTFM:END -->
+* [Thrice — Black Honey](https://www.last.fm/music/Thrice/_/Black+Honey)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
