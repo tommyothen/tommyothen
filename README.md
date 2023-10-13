@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
 * [Maybe Baby — Аскорбинка 2.0](https://www.last.fm/music/Maybe+Baby/_/%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0+2.0)
-* [Camellia — [BLEED BLOOD]](https://www.last.fm/music/Camellia/_/%5BBLEED+BLOOD%5D)
-* [Vieze Asbak — Erika Uit Langenboom - Uptempo Braak Mix](https://www.last.fm/music/Vieze+Asbak/_/Erika+Uit+Langenboom+-+Uptempo+Braak+Mix)<!-- LASTFM:END -->
+* [Camellia — [BLEED BLOOD]](https://www.last.fm/music/Camellia/_/%5BBLEED+BLOOD%5D)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
