@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Night Argent — Dreamcatcher](https://www.last.fm/music/Night+Argent/_/Dreamcatcher)
+* [Kutless — Words of Fire](https://www.last.fm/music/Kutless/_/Words+of+Fire)
+* [Phinehas — In the Night](https://www.last.fm/music/Phinehas/_/In+the+Night)
 * [House of Heroes — Feel](https://www.last.fm/music/House+of+Heroes/_/Feel)
-* [XXI — Way You Love Me](https://www.last.fm/music/XXI/_/Way+You+Love+Me)
-* [Attalus — Coming Clean](https://www.last.fm/music/Attalus/_/Coming+Clean)
-* [Nathan Wagner — The Antihero](https://www.last.fm/music/Nathan+Wagner/_/The+Antihero)
-* [Nathan Wagner — Vice](https://www.last.fm/music/Nathan+Wagner/_/Vice)<!-- LASTFM:END -->
+* [XXI — Way You Love Me](https://www.last.fm/music/XXI/_/Way+You+Love+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
