@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Thrice — Black Honey](https://www.last.fm/music/Thrice/_/Black+Honey)
+* [Skillet — Monster](https://www.last.fm/music/Skillet/_/Monster)
 * [Chevelle — The Red](https://www.last.fm/music/Chevelle/_/The+Red)
 * [Creed — My Own Prison](https://www.last.fm/music/Creed/_/My+Own+Prison)
-* [Chevelle — Comfortable Liar](https://www.last.fm/music/Chevelle/_/Comfortable+Liar)
-* [Puddle of Mudd — Blurry](https://www.last.fm/music/Puddle+of+Mudd/_/Blurry)
-* [Nickelback — How You Remind Me](https://www.last.fm/music/Nickelback/_/How+You+Remind+Me)<!-- LASTFM:END -->
+* [Chevelle — Comfortable Liar](https://www.last.fm/music/Chevelle/_/Comfortable+Liar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
