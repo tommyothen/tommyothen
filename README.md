@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zahna — Promise You&#39;re Coming Home](https://www.last.fm/music/Zahna/_/Promise+You%27re+Coming+Home)
+* [Skillet — Finish Line &lpar;feat. Adam Gontier&rpar;](https://www.last.fm/music/Skillet/_/Finish+Line+&lpar;feat.+Adam+Gontier&rpar;)
 * [Demon Hunter — GODLESS](https://www.last.fm/music/Demon+Hunter/_/GODLESS)
 * [Living Scars — Wake Me Up](https://www.last.fm/music/Living+Scars/_/Wake+Me+Up)
-* [Stryper — Rise to the Call](https://www.last.fm/music/Stryper/_/Rise+to+the+Call)
-* [Manafest — Stones](https://www.last.fm/music/Manafest/_/Stones)
-* [War of Ages — No Altars](https://www.last.fm/music/War+of+Ages/_/No+Altars)<!-- LASTFM:END -->
+* [Stryper — Rise to the Call](https://www.last.fm/music/Stryper/_/Rise+to+the+Call)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
