@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
 * [Maybe Baby — Аскорбинка 2.0](https://www.last.fm/music/Maybe+Baby/_/%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0+2.0)
-* [Zahna — Promise You&#39;re Coming Home](https://www.last.fm/music/Zahna/_/Promise+You%27re+Coming+Home)
-* [Skillet — Finish Line &lpar;feat. Adam Gontier&rpar;](https://www.last.fm/music/Skillet/_/Finish+Line+&lpar;feat.+Adam+Gontier&rpar;)<!-- LASTFM:END -->
+* [Phinehas — In the Night](https://www.last.fm/music/Phinehas/_/In+the+Night)
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
+* [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
