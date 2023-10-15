@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jey — Bxxch &lpar;Feat. THEO&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Bxxch+&lpar;Feat.+THEO&rpar;+&lpar;PROD.+GXXD&rpar;)
+* [BewhY — Rose &lpar;feat. SUMIN&rpar;](https://www.last.fm/music/BewhY/_/Rose+&lpar;feat.+SUMIN&rpar;)
 * [ZICO — Extreme](https://www.last.fm/music/ZICO/_/Extreme)
 * [twlv — ALL IN](https://www.last.fm/music/twlv/_/ALL+IN)
-* [BewhY — Curtain Call](https://www.last.fm/music/BewhY/_/Curtain+Call)
-* [Piri — Mass Suicide](https://www.last.fm/music/Piri/_/Mass+Suicide)
-* [E SENS — Confirmed](https://www.last.fm/music/E+SENS/_/Confirmed)<!-- LASTFM:END -->
+* [BewhY — Curtain Call](https://www.last.fm/music/BewhY/_/Curtain+Call)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
