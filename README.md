@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR CREAM — Problems](https://www.last.fm/music/DPR+CREAM/_/Problems)
+* [ZICO — She’s a Baby](https://www.last.fm/music/ZICO/_/She%E2%80%99s+a+Baby)
 * [BewhY — Vivian Girl](https://www.last.fm/music/BewhY/_/Vivian+Girl)
 * [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
-* [DPR LIVE — NEON](https://www.last.fm/music/DPR+LIVE/_/NEON)
-* [Lee Young Ji — Dark Room](https://www.last.fm/music/Lee+Young+Ji/_/Dark+Room)
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)<!-- LASTFM:END -->
+* [DPR LIVE — NEON](https://www.last.fm/music/DPR+LIVE/_/NEON)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
