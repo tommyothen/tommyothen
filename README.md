@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lee Young Ji — Dark Room](https://www.last.fm/music/Lee+Young+Ji/_/Dark+Room)
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
+* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
 * [DPR LIVE — Hula Hoops](https://www.last.fm/music/DPR+LIVE/_/Hula+Hoops)
-* [BewhY — Leading Actor](https://www.last.fm/music/BewhY/_/Leading+Actor)
-* [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)
-* [Jey — Bxxch &lpar;Feat. THEO&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Bxxch+&lpar;Feat.+THEO&rpar;+&lpar;PROD.+GXXD&rpar;)
-* [BewhY — Rose &lpar;feat. SUMIN&rpar;](https://www.last.fm/music/BewhY/_/Rose+&lpar;feat.+SUMIN&rpar;)<!-- LASTFM:END -->
+* [BewhY — Leading Actor](https://www.last.fm/music/BewhY/_/Leading+Actor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
