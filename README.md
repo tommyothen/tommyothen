@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Celebration](https://www.last.fm/music/BewhY/_/Celebration)
+* [DPR LIVE — LEGACY](https://www.last.fm/music/DPR+LIVE/_/LEGACY)
 * [BewhY — Vivian Girl](https://www.last.fm/music/BewhY/_/Vivian+Girl)
 * [Piri — Mass Suicide](https://www.last.fm/music/Piri/_/Mass+Suicide)
-* [Jey — Bxxch &lpar;Feat. THEO&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Bxxch+&lpar;Feat.+THEO&rpar;+&lpar;PROD.+GXXD&rpar;)
-* [Jey — Drug=love &lpar;Feat. Sik-K&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Drug=love+&lpar;Feat.+Sik-K&rpar;+&lpar;PROD.+GXXD&rpar;)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)<!-- LASTFM:END -->
+* [Jey — Bxxch &lpar;Feat. THEO&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Bxxch+&lpar;Feat.+THEO&rpar;+&lpar;PROD.+GXXD&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
