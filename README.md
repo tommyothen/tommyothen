@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZICO — Extreme](https://www.last.fm/music/ZICO/_/Extreme)
+* [twlv — ALL IN](https://www.last.fm/music/twlv/_/ALL+IN)
+* [BewhY — Curtain Call](https://www.last.fm/music/BewhY/_/Curtain+Call)
 * [Piri — Mass Suicide](https://www.last.fm/music/Piri/_/Mass+Suicide)
-* [E SENS — Confirmed](https://www.last.fm/music/E+SENS/_/Confirmed)
-* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
-* [Epik High — Prequel](https://www.last.fm/music/Epik+High/_/Prequel)
-* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)<!-- LASTFM:END -->
+* [E SENS — Confirmed](https://www.last.fm/music/E+SENS/_/Confirmed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
