@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR LIVE — Hula Hoops](https://www.last.fm/music/DPR+LIVE/_/Hula+Hoops)
+* [BewhY — Leading Actor](https://www.last.fm/music/BewhY/_/Leading+Actor)
+* [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)
 * [Jey — Bxxch &lpar;Feat. THEO&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Bxxch+&lpar;Feat.+THEO&rpar;+&lpar;PROD.+GXXD&rpar;)
-* [BewhY — Rose &lpar;feat. SUMIN&rpar;](https://www.last.fm/music/BewhY/_/Rose+&lpar;feat.+SUMIN&rpar;)
-* [ZICO — Extreme](https://www.last.fm/music/ZICO/_/Extreme)
-* [twlv — ALL IN](https://www.last.fm/music/twlv/_/ALL+IN)
-* [BewhY — Curtain Call](https://www.last.fm/music/BewhY/_/Curtain+Call)<!-- LASTFM:END -->
+* [BewhY — Rose &lpar;feat. SUMIN&rpar;](https://www.last.fm/music/BewhY/_/Rose+&lpar;feat.+SUMIN&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
