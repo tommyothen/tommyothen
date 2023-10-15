@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jarv &amp; Thief — Slack-Jaw](https://www.last.fm/music/Jarv+&amp;+Thief/_/Slack-Jaw)
+* [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)
 * [88rising — Indigo](https://www.last.fm/music/88rising/_/Indigo)
 * [Moe Shop — Love Taste](https://www.last.fm/music/Moe+Shop/_/Love+Taste)
-* [TWICE — Fake &amp; True](https://www.last.fm/music/TWICE/_/Fake+&amp;+True)
-* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
-* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)<!-- LASTFM:END -->
+* [TWICE — Fake &amp; True](https://www.last.fm/music/TWICE/_/Fake+&amp;+True)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
