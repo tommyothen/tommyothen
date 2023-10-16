@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
 * [C Jamm — Error](https://www.last.fm/music/C+Jamm/_/Error)
 * [MUSHVENOM — 논산](https://www.last.fm/music/MUSHVENOM/_/%EB%85%BC%EC%82%B0)
 * [twlv — ALL IN](https://www.last.fm/music/twlv/_/ALL+IN)
-* [twlv — ALL IN](https://www.last.fm/music/twlv/_/ALL+IN)
-* [BewhY — Celebration](https://www.last.fm/music/BewhY/_/Celebration)<!-- LASTFM:END -->
+* [twlv — ALL IN](https://www.last.fm/music/twlv/_/ALL+IN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
