@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BewhY — Celebration](https://www.last.fm/music/BewhY/_/Celebration)
-* [DPR LIVE — LEGACY](https://www.last.fm/music/DPR+LIVE/_/LEGACY)
-* [BewhY — Vivian Girl](https://www.last.fm/music/BewhY/_/Vivian+Girl)
-* [Piri — Mass Suicide](https://www.last.fm/music/Piri/_/Mass+Suicide)
-* [Jey — Bxxch &lpar;Feat. THEO&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Bxxch+&lpar;Feat.+THEO&rpar;+&lpar;PROD.+GXXD&rpar;)<!-- LASTFM:END -->
+* [C Jamm — Error](https://www.last.fm/music/C+Jamm/_/Error)
+* [MUSHVENOM — 논산](https://www.last.fm/music/MUSHVENOM/_/%EB%85%BC%EC%82%B0)
+* [twlv — ALL IN](https://www.last.fm/music/twlv/_/ALL+IN)
+* [twlv — ALL IN](https://www.last.fm/music/twlv/_/ALL+IN)
+* [BewhY — Celebration](https://www.last.fm/music/BewhY/_/Celebration)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
