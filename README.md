@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
+* [Modern Baseball — Re-Done](https://www.last.fm/music/Modern+Baseball/_/Re-Done)
 * [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
 * [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
-* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
-* [Ashnikko — Deal With It &lpar;feat. Kelis&rpar;](https://www.last.fm/music/Ashnikko/_/Deal+With+It+&lpar;feat.+Kelis&rpar;)
-* [Azealia Banks — 1991](https://www.last.fm/music/Azealia+Banks/_/1991)<!-- LASTFM:END -->
+* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
