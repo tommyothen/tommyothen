@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TheDooo — YO HO &lpar;PEG THE POOPDECK&rpar;](https://www.last.fm/music/TheDooo/_/YO+HO+&lpar;PEG+THE+POOPDECK&rpar;)
 * [Eden — sex](https://www.last.fm/music/Eden/_/sex)
 * [Eden — XO](https://www.last.fm/music/Eden/_/XO)
 * [Eden — gold](https://www.last.fm/music/Eden/_/gold)
-* [Mungo&#39;s Hi Fi — Jump Up Quickly](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Jump+Up+Quickly)
-* [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)<!-- LASTFM:END -->
+* [Mungo&#39;s Hi Fi — Jump Up Quickly](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Jump+Up+Quickly)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
