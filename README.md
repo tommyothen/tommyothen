@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
+* [Ashnikko — Deal With It &lpar;feat. Kelis&rpar;](https://www.last.fm/music/Ashnikko/_/Deal+With+It+&lpar;feat.+Kelis&rpar;)
+* [Azealia Banks — 1991](https://www.last.fm/music/Azealia+Banks/_/1991)
 * [Torren Foot — New Bottega](https://www.last.fm/music/Torren+Foot/_/New+Bottega)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)<!-- LASTFM:END -->
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
