@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)
+* [Yion — Girls Just Want Breaks &lpar;yion-flip&rpar;](https://www.last.fm/music/Yion/_/Girls+Just+Want+Breaks+&lpar;yion-flip&rpar;)
+* [Marietta — God Bless Eric Taylor](https://www.last.fm/music/Marietta/_/God+Bless+Eric+Taylor)
 * [sports. — Good Will Haunting](https://www.last.fm/music/sports./_/Good+Will+Haunting)
-* [Modern Baseball — It&#39;s Cold Out Here](https://www.last.fm/music/Modern+Baseball/_/It%27s+Cold+Out+Here)
-* [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
-* [Michael Cera Palin — Laughing Makes It Worse](https://www.last.fm/music/Michael+Cera+Palin/_/Laughing+Makes+It+Worse)
-* [Faithless — Insomnia](https://www.last.fm/music/Faithless/_/Insomnia)<!-- LASTFM:END -->
+* [Modern Baseball — It&#39;s Cold Out Here](https://www.last.fm/music/Modern+Baseball/_/It%27s+Cold+Out+Here)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
