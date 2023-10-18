@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
+* [Mungo&#39;s Hi Fi — Jump Up Quickly](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Jump+Up+Quickly)
 * [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)
 * [Yion — Girls Just Want Breaks &lpar;yion-flip&rpar;](https://www.last.fm/music/Yion/_/Girls+Just+Want+Breaks+&lpar;yion-flip&rpar;)
-* [Marietta — God Bless Eric Taylor](https://www.last.fm/music/Marietta/_/God+Bless+Eric+Taylor)
-* [sports. — Good Will Haunting](https://www.last.fm/music/sports./_/Good+Will+Haunting)
-* [Modern Baseball — It&#39;s Cold Out Here](https://www.last.fm/music/Modern+Baseball/_/It%27s+Cold+Out+Here)<!-- LASTFM:END -->
+* [Marietta — God Bless Eric Taylor](https://www.last.fm/music/Marietta/_/God+Bless+Eric+Taylor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
