@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Michael Cera Palin — Laughing Makes It Worse](https://www.last.fm/music/Michael+Cera+Palin/_/Laughing+Makes+It+Worse)
 * [Faithless — Insomnia](https://www.last.fm/music/Faithless/_/Insomnia)
 * [Faithless — God Is a DJ](https://www.last.fm/music/Faithless/_/God+Is+a+DJ)
 * [Modern Baseball — Re-Do](https://www.last.fm/music/Modern+Baseball/_/Re-Do)
-* [The Front Bottoms — Be Nice to Me](https://www.last.fm/music/The+Front+Bottoms/_/Be+Nice+to+Me)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
+* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
