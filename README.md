@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Phinehas — In the Night](https://www.last.fm/music/Phinehas/_/In+the+Night)
 * [TheDooo — YO HO &lpar;PEG THE POOPDECK&rpar;](https://www.last.fm/music/TheDooo/_/YO+HO+&lpar;PEG+THE+POOPDECK&rpar;)
 * [Eden — sex](https://www.last.fm/music/Eden/_/sex)
-* [Eden — XO](https://www.last.fm/music/Eden/_/XO)
-* [Eden — gold](https://www.last.fm/music/Eden/_/gold)<!-- LASTFM:END -->
+* [Eden — XO](https://www.last.fm/music/Eden/_/XO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
