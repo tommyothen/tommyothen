@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Modern Baseball — Re-Do](https://www.last.fm/music/Modern+Baseball/_/Re-Do)
+* [The Front Bottoms — Be Nice to Me](https://www.last.fm/music/The+Front+Bottoms/_/Be+Nice+to+Me)
 * [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [88rising — Breathe](https://www.last.fm/music/88rising/_/Breathe)
-* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [Modern Baseball — Re-Done](https://www.last.fm/music/Modern+Baseball/_/Re-Done)<!-- LASTFM:END -->
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
