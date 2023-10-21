@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Villain — Rescue Squad &lpar;Prod. by Ownr&rpar;](https://www.last.fm/music/Villain/_/Rescue+Squad+&lpar;Prod.+by+Ownr&rpar;)
+* [PENOMECO — Till I Die](https://www.last.fm/music/PENOMECO/_/Till+I+Die)
+* [ZICO — Extreme](https://www.last.fm/music/ZICO/_/Extreme)
 * [E SENS — CLOCK &lpar;FEAT. KIM XIMYA&rpar;](https://www.last.fm/music/E+SENS/_/CLOCK+&lpar;FEAT.+KIM+XIMYA&rpar;)
-* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)
-* [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
-* [BewhY — Vivian Girl](https://www.last.fm/music/BewhY/_/Vivian+Girl)
-* [Reddy — Too Busy](https://www.last.fm/music/Reddy/_/Too+Busy)<!-- LASTFM:END -->
+* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
