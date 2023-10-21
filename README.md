@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [E SENS — Confirmed](https://www.last.fm/music/E+SENS/_/Confirmed)
+* [BewhY — Celebration](https://www.last.fm/music/BewhY/_/Celebration)
+* [BewhY — Stand Out](https://www.last.fm/music/BewhY/_/Stand+Out)
 * [LEEBADA — High &lpar;feat. PENOMECO&rpar;](https://www.last.fm/music/LEEBADA/_/High+&lpar;feat.+PENOMECO&rpar;)
-* [HUH — Come Upright &lpar;Prod. Viann&rpar;](https://www.last.fm/music/HUH/_/Come+Upright+&lpar;Prod.+Viann&rpar;)
-* [CIX — What You Wanted](https://www.last.fm/music/CIX/_/What+You+Wanted)
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
-* [Yogi — bloodshed](https://www.last.fm/music/Yogi/_/bloodshed)<!-- LASTFM:END -->
+* [HUH — Come Upright &lpar;Prod. Viann&rpar;](https://www.last.fm/music/HUH/_/Come+Upright+&lpar;Prod.+Viann&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
