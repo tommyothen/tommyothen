@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
 * [QM — Canoe &lpar;feat. BIBI&rpar;](https://www.last.fm/music/QM/_/Canoe+&lpar;feat.+BIBI&rpar;)
 * [Villain — Rescue Squad &lpar;Prod. by Ownr&rpar;](https://www.last.fm/music/Villain/_/Rescue+Squad+&lpar;Prod.+by+Ownr&rpar;)
-* [PENOMECO — Till I Die](https://www.last.fm/music/PENOMECO/_/Till+I+Die)
-* [ZICO — Extreme](https://www.last.fm/music/ZICO/_/Extreme)
-* [E SENS — CLOCK &lpar;FEAT. KIM XIMYA&rpar;](https://www.last.fm/music/E+SENS/_/CLOCK+&lpar;FEAT.+KIM+XIMYA&rpar;)<!-- LASTFM:END -->
+* [PENOMECO — Till I Die](https://www.last.fm/music/PENOMECO/_/Till+I+Die)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
