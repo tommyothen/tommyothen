@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Piri — CANNIBALISM FREESTYLE](https://www.last.fm/music/Piri/_/CANNIBALISM+FREESTYLE)
+* [YUMDDA — I Told You I Like You](https://www.last.fm/music/YUMDDA/_/I+Told+You+I+Like+You)
+* [BewhY — Curtain Call](https://www.last.fm/music/BewhY/_/Curtain+Call)
 * [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
-* [BewhY — Celebration](https://www.last.fm/music/BewhY/_/Celebration)
-* [Yogi — bloodshed](https://www.last.fm/music/Yogi/_/bloodshed)
-* [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)
-* [PENOMECO — Rain Drop](https://www.last.fm/music/PENOMECO/_/Rain+Drop)<!-- LASTFM:END -->
+* [BewhY — Celebration](https://www.last.fm/music/BewhY/_/Celebration)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
