@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yogi — bloodshed](https://www.last.fm/music/Yogi/_/bloodshed)
+* [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)
+* [PENOMECO — Rain Drop](https://www.last.fm/music/PENOMECO/_/Rain+Drop)
 * [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [QM — Canoe &lpar;feat. BIBI&rpar;](https://www.last.fm/music/QM/_/Canoe+&lpar;feat.+BIBI&rpar;)
-* [Villain — Rescue Squad &lpar;Prod. by Ownr&rpar;](https://www.last.fm/music/Villain/_/Rescue+Squad+&lpar;Prod.+by+Ownr&rpar;)
-* [PENOMECO — Till I Die](https://www.last.fm/music/PENOMECO/_/Till+I+Die)<!-- LASTFM:END -->
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
