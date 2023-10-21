@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PENOMECO — Till I Die](https://www.last.fm/music/PENOMECO/_/Till+I+Die)
+* [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
 * [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)
 * [BewhY — Curtain Call](https://www.last.fm/music/BewhY/_/Curtain+Call)
-* [Jey — Drug=love &lpar;Feat. Sik-K&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Drug=love+&lpar;Feat.+Sik-K&rpar;+&lpar;PROD.+GXXD&rpar;)
-* [MUSHVENOM — 논산](https://www.last.fm/music/MUSHVENOM/_/%EB%85%BC%EC%82%B0)
-* [Stray Kids — We Go &lpar;Bang Chan, Changbin, HAN&rpar;](https://www.last.fm/music/Stray+Kids/_/We+Go+&lpar;Bang+Chan,+Changbin,+HAN&rpar;)<!-- LASTFM:END -->
+* [Jey — Drug=love &lpar;Feat. Sik-K&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Drug=love+&lpar;Feat.+Sik-K&rpar;+&lpar;PROD.+GXXD&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
