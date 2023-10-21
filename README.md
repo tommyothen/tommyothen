@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)
+* [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)
 * [PENOMECO — Rain Drop](https://www.last.fm/music/PENOMECO/_/Rain+Drop)
 * [BewhY — Vivian Girl](https://www.last.fm/music/BewhY/_/Vivian+Girl)
-* [PENOMECO — Till I Die](https://www.last.fm/music/PENOMECO/_/Till+I+Die)
-* [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
-* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)<!-- LASTFM:END -->
+* [PENOMECO — Till I Die](https://www.last.fm/music/PENOMECO/_/Till+I+Die)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
