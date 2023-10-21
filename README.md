@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
+* [BewhY — Celebration](https://www.last.fm/music/BewhY/_/Celebration)
 * [Yogi — bloodshed](https://www.last.fm/music/Yogi/_/bloodshed)
 * [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)
-* [PENOMECO — Rain Drop](https://www.last.fm/music/PENOMECO/_/Rain+Drop)
-* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)<!-- LASTFM:END -->
+* [PENOMECO — Rain Drop](https://www.last.fm/music/PENOMECO/_/Rain+Drop)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
