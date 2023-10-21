@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
+* [BewhY — Vivian Girl](https://www.last.fm/music/BewhY/_/Vivian+Girl)
 * [Reddy — Too Busy](https://www.last.fm/music/Reddy/_/Too+Busy)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [Untell — HAVING &lpar;Prod. Will Not Fear&rpar;](https://www.last.fm/music/Untell/_/HAVING+&lpar;Prod.+Will+Not+Fear&rpar;)
-* [Jey — Drug=love &lpar;Feat. Sik-K&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Drug=love+&lpar;Feat.+Sik-K&rpar;+&lpar;PROD.+GXXD&rpar;)
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)<!-- LASTFM:END -->
+* [Untell — HAVING &lpar;Prod. Will Not Fear&rpar;](https://www.last.fm/music/Untell/_/HAVING+&lpar;Prod.+Will+Not+Fear&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
