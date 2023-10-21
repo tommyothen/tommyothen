@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
+* [Yogi — bloodshed](https://www.last.fm/music/Yogi/_/bloodshed)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [DPR LIVE — LEGACY](https://www.last.fm/music/DPR+LIVE/_/LEGACY)
-* [PENOMECO — COCO BOTTLE](https://www.last.fm/music/PENOMECO/_/COCO+BOTTLE)
-* [YUMDDA — I Told You I Like You](https://www.last.fm/music/YUMDDA/_/I+Told+You+I+Like+You)
-* [Reddy — Too Busy](https://www.last.fm/music/Reddy/_/Too+Busy)<!-- LASTFM:END -->
+* [PENOMECO — COCO BOTTLE](https://www.last.fm/music/PENOMECO/_/COCO+BOTTLE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
