@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YUMDDA — I Told You I Like You](https://www.last.fm/music/YUMDDA/_/I+Told+You+I+Like+You)
+* [Reddy — Too Busy](https://www.last.fm/music/Reddy/_/Too+Busy)
 * [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)
 * [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)
-* [PENOMECO — Rain Drop](https://www.last.fm/music/PENOMECO/_/Rain+Drop)
-* [BewhY — Vivian Girl](https://www.last.fm/music/BewhY/_/Vivian+Girl)
-* [PENOMECO — Till I Die](https://www.last.fm/music/PENOMECO/_/Till+I+Die)<!-- LASTFM:END -->
+* [PENOMECO — Rain Drop](https://www.last.fm/music/PENOMECO/_/Rain+Drop)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
