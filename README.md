@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
+* [Bibi — PIRI the dog](https://www.last.fm/music/Bibi/_/PIRI+the+dog)
+* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
 * [WOODZ — Chaser](https://www.last.fm/music/WOODZ/_/Chaser)
-* [BewhY — Pack Up](https://www.last.fm/music/BewhY/_/Pack+Up)
-* [Piri — CANNIBALISM FREESTYLE](https://www.last.fm/music/Piri/_/CANNIBALISM+FREESTYLE)
-* [YUMDDA — I Told You I Like You](https://www.last.fm/music/YUMDDA/_/I+Told+You+I+Like+You)
-* [BewhY — Curtain Call](https://www.last.fm/music/BewhY/_/Curtain+Call)<!-- LASTFM:END -->
+* [BewhY — Pack Up](https://www.last.fm/music/BewhY/_/Pack+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
