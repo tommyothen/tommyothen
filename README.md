@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — HDYF &lpar;Feat. Hash Swan&rpar;](https://www.last.fm/music/HUH/_/HDYF+&lpar;Feat.+Hash+Swan&rpar;)
+* [HUH — Midnight law &lpar;Feat. Skinny Brown&rpar;](https://www.last.fm/music/HUH/_/Midnight+law+&lpar;Feat.+Skinny+Brown&rpar;)
 * [HUH — hit the floor &lpar;sped up&rpar;](https://www.last.fm/music/HUH/_/hit+the+floor+&lpar;sped+up&rpar;)
 * [HUH — hit the floor](https://www.last.fm/music/HUH/_/hit+the+floor)
-* [HUH — fuck′em up!](https://www.last.fm/music/HUH/_/fuck%E2%80%B2em+up!)
-* [HUH — freak asian &lpar;Feat. Loopy&rpar;](https://www.last.fm/music/HUH/_/freak+asian+&lpar;Feat.+Loopy&rpar;)
-* [HUH — Live in Jamsil &lpar;Feat. Street Baby&rpar;](https://www.last.fm/music/HUH/_/Live+in+Jamsil+&lpar;Feat.+Street+Baby&rpar;)<!-- LASTFM:END -->
+* [HUH — fuck′em up!](https://www.last.fm/music/HUH/_/fuck%E2%80%B2em+up!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
