@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — DDKD &lpar;Feat. JUSTHIS, Dynamicduo&rpar;](https://www.last.fm/music/HUH/_/DDKD+&lpar;Feat.+JUSTHIS,+Dynamicduo&rpar;)
+* [HUH — Die](https://www.last.fm/music/HUH/_/Die)
 * [HUH — Win Win &lpar;Feat. Gaeko, BewhY&rpar; &lpar;Prod. BewhY&rpar;](https://www.last.fm/music/HUH/_/Win+Win+&lpar;Feat.+Gaeko,+BewhY&rpar;+&lpar;Prod.+BewhY&rpar;)
 * [HUH — See you ! &lpar;Feat. SOLE&rpar; &lpar;Prod. R.Tee&rpar;](https://www.last.fm/music/HUH/_/See+you+!+&lpar;Feat.+SOLE&rpar;+&lpar;Prod.+R.Tee&rpar;)
-* [HUH — Way up &lpar;Feat. CAMO, JUSTHIS&rpar; &lpar;Prod. R.Tee&rpar;](https://www.last.fm/music/HUH/_/Way+up+&lpar;Feat.+CAMO,+JUSTHIS&rpar;+&lpar;Prod.+R.Tee&rpar;)
-* [HUH — Burn Up &lpar;Feat. Dynamicduo&rpar; &lpar;Prod. R.Tee&rpar;](https://www.last.fm/music/HUH/_/Burn+Up+&lpar;Feat.+Dynamicduo&rpar;+&lpar;Prod.+R.Tee&rpar;)
-* [HUH — 2ttam &lpar;Feat. BOBBY&rpar;](https://www.last.fm/music/HUH/_/2ttam+&lpar;Feat.+BOBBY&rpar;)<!-- LASTFM:END -->
+* [HUH — Way up &lpar;Feat. CAMO, JUSTHIS&rpar; &lpar;Prod. R.Tee&rpar;](https://www.last.fm/music/HUH/_/Way+up+&lpar;Feat.+CAMO,+JUSTHIS&rpar;+&lpar;Prod.+R.Tee&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
