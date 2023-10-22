@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — 2ttam &lpar;Feat. BOBBY&rpar;](https://www.last.fm/music/HUH/_/2ttam+&lpar;Feat.+BOBBY&rpar;)
+* [HUH — 9 to 6](https://www.last.fm/music/HUH/_/9+to+6)
+* [HUH — EXS](https://www.last.fm/music/HUH/_/EXS)
 * [HUH — Pouritup &lpar;Feat. SOLE&rpar;](https://www.last.fm/music/HUH/_/Pouritup+&lpar;Feat.+SOLE&rpar;)
-* [HUH — Thumbs up &lpar;Feat. PARA9ON, THAMA&rpar;](https://www.last.fm/music/HUH/_/Thumbs+up+&lpar;Feat.+PARA9ON,+THAMA&rpar;)
-* [HUH — interlude 130](https://www.last.fm/music/HUH/_/interlude+130)
-* [HUH — Dreamwalk](https://www.last.fm/music/HUH/_/Dreamwalk)
-* [HUH — Phantom &lpar;Feat. Mirani&rpar;](https://www.last.fm/music/HUH/_/Phantom+&lpar;Feat.+Mirani&rpar;)<!-- LASTFM:END -->
+* [HUH — Thumbs up &lpar;Feat. PARA9ON, THAMA&rpar;](https://www.last.fm/music/HUH/_/Thumbs+up+&lpar;Feat.+PARA9ON,+THAMA&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
