@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — 2ttam &lpar;Feat. BOBBY&rpar;](https://www.last.fm/music/HUH/_/2ttam+&lpar;Feat.+BOBBY&rpar;)
 * [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
 * [HUH — hit the floor](https://www.last.fm/music/HUH/_/hit+the+floor)
 * [HUH — Ugly duckling &lpar;Feat. sunwoojunga, BOBBY&rpar; &lpar;Prod. R.Tee&rpar;](https://www.last.fm/music/HUH/_/Ugly+duckling+&lpar;Feat.+sunwoojunga,+BOBBY&rpar;+&lpar;Prod.+R.Tee&rpar;)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [JUSTHIS — MY WAY &lpar;Prod. R.Tee&rpar;](https://www.last.fm/music/JUSTHIS/_/MY+WAY+&lpar;Prod.+R.Tee&rpar;)<!-- LASTFM:END -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
