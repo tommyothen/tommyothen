@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — Way up &lpar;Feat. CAMO, JUSTHIS&rpar; &lpar;Prod. R.Tee&rpar;](https://www.last.fm/music/HUH/_/Way+up+&lpar;Feat.+CAMO,+JUSTHIS&rpar;+&lpar;Prod.+R.Tee&rpar;)
 * [HUH — Burn Up &lpar;Feat. Dynamicduo&rpar; &lpar;Prod. R.Tee&rpar;](https://www.last.fm/music/HUH/_/Burn+Up+&lpar;Feat.+Dynamicduo&rpar;+&lpar;Prod.+R.Tee&rpar;)
 * [HUH — 2ttam &lpar;Feat. BOBBY&rpar;](https://www.last.fm/music/HUH/_/2ttam+&lpar;Feat.+BOBBY&rpar;)
 * [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
-* [HUH — hit the floor](https://www.last.fm/music/HUH/_/hit+the+floor)
-* [HUH — Ugly duckling &lpar;Feat. sunwoojunga, BOBBY&rpar; &lpar;Prod. R.Tee&rpar;](https://www.last.fm/music/HUH/_/Ugly+duckling+&lpar;Feat.+sunwoojunga,+BOBBY&rpar;+&lpar;Prod.+R.Tee&rpar;)<!-- LASTFM:END -->
+* [HUH — hit the floor](https://www.last.fm/music/HUH/_/hit+the+floor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
