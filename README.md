@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
+* [JUSTHIS — MY WAY &lpar;Prod. R.Tee&rpar;](https://www.last.fm/music/JUSTHIS/_/MY+WAY+&lpar;Prod.+R.Tee&rpar;)
 * [HUH — 1번](https://www.last.fm/music/HUH/_/1%EB%B2%88)
 * [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
-* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
-* [HUH — uh-uh &lpar;Feat. Kid Milli, Gaeko&rpar;](https://www.last.fm/music/HUH/_/uh-uh+&lpar;Feat.+Kid+Milli,+Gaeko&rpar;)
-* [HUH — business boy &lpar;Feat. nongmill kim, BLOO&rpar;](https://www.last.fm/music/HUH/_/business+boy+&lpar;Feat.+nongmill+kim,+BLOO&rpar;)<!-- LASTFM:END -->
+* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
