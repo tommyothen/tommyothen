@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — Dreamwalk](https://www.last.fm/music/HUH/_/Dreamwalk)
+* [HUH — Phantom &lpar;Feat. Mirani&rpar;](https://www.last.fm/music/HUH/_/Phantom+&lpar;Feat.+Mirani&rpar;)
+* [HUH — Django &lpar;Feat. OUREALGOAT, lobonabeat!, Gwangil Jo&rpar;](https://www.last.fm/music/HUH/_/Django+&lpar;Feat.+OUREALGOAT,+lobonabeat!,+Gwangil+Jo&rpar;)
 * [HUH — DDKD &lpar;Feat. JUSTHIS, Dynamicduo&rpar;](https://www.last.fm/music/HUH/_/DDKD+&lpar;Feat.+JUSTHIS,+Dynamicduo&rpar;)
-* [HUH — Die](https://www.last.fm/music/HUH/_/Die)
-* [HUH — Win Win &lpar;Feat. Gaeko, BewhY&rpar; &lpar;Prod. BewhY&rpar;](https://www.last.fm/music/HUH/_/Win+Win+&lpar;Feat.+Gaeko,+BewhY&rpar;+&lpar;Prod.+BewhY&rpar;)
-* [HUH — See you ! &lpar;Feat. SOLE&rpar; &lpar;Prod. R.Tee&rpar;](https://www.last.fm/music/HUH/_/See+you+!+&lpar;Feat.+SOLE&rpar;+&lpar;Prod.+R.Tee&rpar;)
-* [HUH — Way up &lpar;Feat. CAMO, JUSTHIS&rpar; &lpar;Prod. R.Tee&rpar;](https://www.last.fm/music/HUH/_/Way+up+&lpar;Feat.+CAMO,+JUSTHIS&rpar;+&lpar;Prod.+R.Tee&rpar;)<!-- LASTFM:END -->
+* [HUH — Die](https://www.last.fm/music/HUH/_/Die)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
