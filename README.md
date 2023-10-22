@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — business boy &lpar;Feat. nongmill kim, BLOO&rpar;](https://www.last.fm/music/HUH/_/business+boy+&lpar;Feat.+nongmill+kim,+BLOO&rpar;)
+* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [HUH — Come Upright &lpar;Prod. Viann&rpar; - Instrumental](https://www.last.fm/music/HUH/_/Come+Upright+&lpar;Prod.+Viann&rpar;+-+Instrumental)
-* [HUH — Come Upright &lpar;Prod. Viann&rpar;](https://www.last.fm/music/HUH/_/Come+Upright+&lpar;Prod.+Viann&rpar;)
-* [HUH — DDKD &lpar;Feat. JUSTHIS, Dynamicduo&rpar;](https://www.last.fm/music/HUH/_/DDKD+&lpar;Feat.+JUSTHIS,+Dynamicduo&rpar;)
-* [HUH — HDYF &lpar;Feat. Hash Swan&rpar;](https://www.last.fm/music/HUH/_/HDYF+&lpar;Feat.+Hash+Swan&rpar;)<!-- LASTFM:END -->
+* [HUH — Come Upright &lpar;Prod. Viann&rpar;](https://www.last.fm/music/HUH/_/Come+Upright+&lpar;Prod.+Viann&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
