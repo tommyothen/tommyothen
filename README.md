@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
+* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
+* [HUH — uh-uh &lpar;Feat. Kid Milli, Gaeko&rpar;](https://www.last.fm/music/HUH/_/uh-uh+&lpar;Feat.+Kid+Milli,+Gaeko&rpar;)
 * [HUH — business boy &lpar;Feat. nongmill kim, BLOO&rpar;](https://www.last.fm/music/HUH/_/business+boy+&lpar;Feat.+nongmill+kim,+BLOO&rpar;)
-* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [HUH — Come Upright &lpar;Prod. Viann&rpar; - Instrumental](https://www.last.fm/music/HUH/_/Come+Upright+&lpar;Prod.+Viann&rpar;+-+Instrumental)
-* [HUH — Come Upright &lpar;Prod. Viann&rpar;](https://www.last.fm/music/HUH/_/Come+Upright+&lpar;Prod.+Viann&rpar;)<!-- LASTFM:END -->
+* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
