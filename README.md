@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
+* [HUH — Come Upright &lpar;Prod. Viann&rpar; - Instrumental](https://www.last.fm/music/HUH/_/Come+Upright+&lpar;Prod.+Viann&rpar;+-+Instrumental)
 * [HUH — Come Upright &lpar;Prod. Viann&rpar;](https://www.last.fm/music/HUH/_/Come+Upright+&lpar;Prod.+Viann&rpar;)
 * [HUH — DDKD &lpar;Feat. JUSTHIS, Dynamicduo&rpar;](https://www.last.fm/music/HUH/_/DDKD+&lpar;Feat.+JUSTHIS,+Dynamicduo&rpar;)
-* [HUH — HDYF &lpar;Feat. Hash Swan&rpar;](https://www.last.fm/music/HUH/_/HDYF+&lpar;Feat.+Hash+Swan&rpar;)
-* [HUH — Midnight law &lpar;Feat. Skinny Brown&rpar;](https://www.last.fm/music/HUH/_/Midnight+law+&lpar;Feat.+Skinny+Brown&rpar;)
-* [HUH — hit the floor &lpar;sped up&rpar;](https://www.last.fm/music/HUH/_/hit+the+floor+&lpar;sped+up&rpar;)<!-- LASTFM:END -->
+* [HUH — HDYF &lpar;Feat. Hash Swan&rpar;](https://www.last.fm/music/HUH/_/HDYF+&lpar;Feat.+Hash+Swan&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
