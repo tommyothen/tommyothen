@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
+* [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)
+* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)
 * [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
-* [BewhY — Stand Out](https://www.last.fm/music/BewhY/_/Stand+Out)
-* [QM — Canoe &lpar;feat. BIBI&rpar;](https://www.last.fm/music/QM/_/Canoe+&lpar;feat.+BIBI&rpar;)
-* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
-* [BewhY — Vivian Girl](https://www.last.fm/music/BewhY/_/Vivian+Girl)<!-- LASTFM:END -->
+* [BewhY — Stand Out](https://www.last.fm/music/BewhY/_/Stand+Out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
