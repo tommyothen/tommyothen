@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
 * [88rising — Indigo](https://www.last.fm/music/88rising/_/Indigo)
 * [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
 * [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
