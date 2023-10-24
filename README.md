@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Church Outfit](https://www.last.fm/music/Poppy/_/Church+Outfit)
+* [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
 * [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
-* [88rising — Indigo](https://www.last.fm/music/88rising/_/Indigo)
-* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)<!-- LASTFM:END -->
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
