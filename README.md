@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)
+* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
 * [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)
 * [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)
-* [BewhY — Stand Out](https://www.last.fm/music/BewhY/_/Stand+Out)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)<!-- LASTFM:END -->
+* [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
