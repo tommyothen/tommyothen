@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hieroglyphics — Make Your Move](https://www.last.fm/music/Hieroglyphics/_/Make+Your+Move)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Within Destruction — Yōkai](https://www.last.fm/music/Within+Destruction/_/Y%C5%8Dkai)
-* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
-* [Colliding With Mars — Mental Breakdown In Slow Motion](https://www.last.fm/music/Colliding+With+Mars/_/Mental+Breakdown+In+Slow+Motion)<!-- LASTFM:END -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
+* [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
+* [Hieroglyphics — Make Your Move](https://www.last.fm/music/Hieroglyphics/_/Make+Your+Move)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
