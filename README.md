@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
 * [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
 * [E SENS — Confirmed](https://www.last.fm/music/E+SENS/_/Confirmed)
 * [BewhY — Stand Out](https://www.last.fm/music/BewhY/_/Stand+Out)
-* [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)
-* [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)<!-- LASTFM:END -->
+* [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
