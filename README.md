@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
-* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
+* [WIV — headache](https://www.last.fm/music/WIV/_/headache)
 * [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
-* [pH-1 — Cupid](https://www.last.fm/music/pH-1/_/Cupid)
-* [DPR LIVE — Hula Hoops](https://www.last.fm/music/DPR+LIVE/_/Hula+Hoops)<!-- LASTFM:END -->
+* [Vertigoaway — AM FM](https://www.last.fm/music/Vertigoaway/_/AM+FM)
+* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
+* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
