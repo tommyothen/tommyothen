@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
+* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
+* [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
 * [Poppy — Flicker](https://www.last.fm/music/Poppy/_/Flicker)
-* [Poppy — What It Becomes](https://www.last.fm/music/Poppy/_/What+It+Becomes)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [Wonder Girls — Tell Me](https://www.last.fm/music/Wonder+Girls/_/Tell+Me)
-* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)<!-- LASTFM:END -->
+* [Poppy — What It Becomes](https://www.last.fm/music/Poppy/_/What+It+Becomes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
