@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
+* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
+* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
 * [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
-* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
-* [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
-* [Poppy — Flicker](https://www.last.fm/music/Poppy/_/Flicker)
-* [Poppy — What It Becomes](https://www.last.fm/music/Poppy/_/What+It+Becomes)<!-- LASTFM:END -->
+* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
