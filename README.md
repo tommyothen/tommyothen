@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
+* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
 * [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)
 * [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
-* [WIV — headache](https://www.last.fm/music/WIV/_/headache)
 * [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
