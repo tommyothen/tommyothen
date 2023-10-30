@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [pH-1 — Cupid](https://www.last.fm/music/pH-1/_/Cupid)
+* [DPR LIVE — Hula Hoops](https://www.last.fm/music/DPR+LIVE/_/Hula+Hoops)
+* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)
 * [Eden — 909](https://www.last.fm/music/Eden/_/909)
-* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
-* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
-* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
-* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)<!-- LASTFM:END -->
+* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
