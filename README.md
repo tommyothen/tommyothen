@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
-* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [4649nadeshiko — re:re: i made a snail pancake](https://www.last.fm/music/4649nadeshiko/_/re:re:+i+made+a+snail+pancake)
-* [Vertigoaway — Talking Show](https://www.last.fm/music/Vertigoaway/_/Talking+Show)
-* [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)<!-- LASTFM:END -->
+* [Aeriu Ika — Fata Morgana](https://www.last.fm/music/Aeriu+Ika/_/Fata+Morgana)
+* [Pisca — ULTRAVIOLENCE](https://www.last.fm/music/Pisca/_/ULTRAVIOLENCE)
+* [MIMIDEATH — Bethlehem Entity XMas party gifts thru the Dna spiral](https://www.last.fm/music/MIMIDEATH/_/Bethlehem+Entity+XMas+party+gifts+thru+the+Dna+spiral)
+* [hxly xo — Midnight](https://www.last.fm/music/hxly+xo/_/Midnight)
+* [AZALI — EVE&#39;S ALTER EGO](https://www.last.fm/music/AZALI/_/EVE%27S+ALTER+EGO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
