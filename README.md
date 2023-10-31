@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
-* [ZØMB — GAME OVER](https://www.last.fm/music/Z%C3%98MB/_/GAME+OVER)
-* [jnhygs — uhh p2.](https://www.last.fm/music/jnhygs/_/uhh+p2.)
-* [d3r — slvtz](https://www.last.fm/music/d3r/_/slvtz)
-* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)<!-- LASTFM:END -->
+* [WIV — turn back](https://www.last.fm/music/WIV/_/turn+back)
+* [WIV — admired](https://www.last.fm/music/WIV/_/admired)
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
+* [SAGEISKAMI — BLOOD X](https://www.last.fm/music/SAGEISKAMI/_/BLOOD+X)
+* [Pisca — DEAD](https://www.last.fm/music/Pisca/_/DEAD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
