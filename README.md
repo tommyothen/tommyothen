@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
+* [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
 * [Mayo. — Marauding](https://www.last.fm/music/Mayo./_/Marauding)
-* [purity filter — Remnant Syphon](https://www.last.fm/music/purity+filter/_/Remnant+Syphon)
-* [Vertigoaway — YIP!](https://www.last.fm/music/Vertigoaway/_/YIP!)
-* [Mayo. — Reduplicate](https://www.last.fm/music/Mayo./_/Reduplicate)
-* [MIMIDEATH — if god didnt want us to snort worms he wouldn&#39;t have made them cylindrical!](https://www.last.fm/music/MIMIDEATH/_/if+god+didnt+want+us+to+snort+worms+he+wouldn%27t+have+made+them+cylindrical!)<!-- LASTFM:END -->
+* [purity filter — Remnant Syphon](https://www.last.fm/music/purity+filter/_/Remnant+Syphon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
