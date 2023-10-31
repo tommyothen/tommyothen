@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
+* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)
 * [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
 * [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)
-* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [Mayo. — Marauding](https://www.last.fm/music/Mayo./_/Marauding)
-* [purity filter — Remnant Syphon](https://www.last.fm/music/purity+filter/_/Remnant+Syphon)<!-- LASTFM:END -->
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
