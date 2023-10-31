@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)
-* [Snafu — fkn sucks](https://www.last.fm/music/Snafu/_/fkn+sucks)
-* [Sugure Joka — home](https://www.last.fm/music/Sugure+Joka/_/home)
-* [AZALI — BATTLE UNDER A BROKEN SKY](https://www.last.fm/music/AZALI/_/BATTLE+UNDER+A+BROKEN+SKY)
-* [68+1 — betrayal](https://www.last.fm/music/68%252B1/_/betrayal)<!-- LASTFM:END -->
+* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
+* [4649nadeshiko — re:re: i made a snail pancake](https://www.last.fm/music/4649nadeshiko/_/re:re:+i+made+a+snail+pancake)
+* [Vertigoaway — Talking Show](https://www.last.fm/music/Vertigoaway/_/Talking+Show)
+* [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
