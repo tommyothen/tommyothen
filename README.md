@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [68+1 — betrayal](https://www.last.fm/music/68%252B1/_/betrayal)
-* [Rory in early 20s — 彼女が12-14年間自分を切](https://www.last.fm/music/Rory+in+early+20s/_/%E5%BD%BC%E5%A5%B3%E3%81%8C12-14%E5%B9%B4%E9%96%93%E8%87%AA%E5%88%86%E3%82%92%E5%88%87)
-* [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
-* [SERAPHINE NOIR — Red Sun](https://www.last.fm/music/SERAPHINE+NOIR/_/Red+Sun)
-* [WIV — turn back](https://www.last.fm/music/WIV/_/turn+back)<!-- LASTFM:END -->
+* [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)
+* [Snafu — fkn sucks](https://www.last.fm/music/Snafu/_/fkn+sucks)
+* [Sugure Joka — home](https://www.last.fm/music/Sugure+Joka/_/home)
+* [AZALI — BATTLE UNDER A BROKEN SKY](https://www.last.fm/music/AZALI/_/BATTLE+UNDER+A+BROKEN+SKY)
+* [68+1 — betrayal](https://www.last.fm/music/68%252B1/_/betrayal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
