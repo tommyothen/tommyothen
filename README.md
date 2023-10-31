@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Vertigoaway — KINDA WANT TO FUCK BUT OH GOD IM SCARED](https://www.last.fm/music/Vertigoaway/_/KINDA+WANT+TO+FUCK+BUT+OH+GOD+IM+SCARED)
-* [Mayo. — 804](https://www.last.fm/music/Mayo./_/804)
-* [Vertigoaway — AM FM](https://www.last.fm/music/Vertigoaway/_/AM+FM)
-* [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
-* [AZALI — CORRUPTED AUTOMATA](https://www.last.fm/music/AZALI/_/CORRUPTED+AUTOMATA)<!-- LASTFM:END -->
+* [Mayo. — Reduplicate](https://www.last.fm/music/Mayo./_/Reduplicate)
+* [MIMIDEATH — if god didnt want us to snort worms he wouldn&#39;t have made them cylindrical!](https://www.last.fm/music/MIMIDEATH/_/if+god+didnt+want+us+to+snort+worms+he+wouldn%27t+have+made+them+cylindrical!)
+* [Mayo. — Ascension](https://www.last.fm/music/Mayo./_/Ascension)
+* [Maebi — The Lobotomy](https://www.last.fm/music/Maebi/_/The+Lobotomy)
+* [Marzuku — Colliding Stars](https://www.last.fm/music/Marzuku/_/Colliding+Stars)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
