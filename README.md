@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
-* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
-* [Maybe Baby — Аскорбинка 2.0](https://www.last.fm/music/Maybe+Baby/_/%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0+2.0)
-* [Maybe Baby — Аскорбинка 2.0](https://www.last.fm/music/Maybe+Baby/_/%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0+2.0)
-* [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)<!-- LASTFM:END -->
+* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
+* [ZØMB — GAME OVER](https://www.last.fm/music/Z%C3%98MB/_/GAME+OVER)
+* [jnhygs — uhh p2.](https://www.last.fm/music/jnhygs/_/uhh+p2.)
+* [d3r — slvtz](https://www.last.fm/music/d3r/_/slvtz)
+* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
