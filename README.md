@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lumi Athena — XVI ULTIMA!](https://www.last.fm/music/Lumi+Athena/_/XVI+ULTIMA!)
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
 * [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
-* [Drake — God&#39;s Plan](https://www.last.fm/music/Drake/_/God%27s+Plan)
-* [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)<!-- LASTFM:END -->
+* [Axxad — Zone](https://www.last.fm/music/Axxad/_/Zone)
+* [Lumi Athena — XVI ULTIMA!](https://www.last.fm/music/Lumi+Athena/_/XVI+ULTIMA!)
+* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
