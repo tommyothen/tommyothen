@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)
+* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
 * [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
 * [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)<!-- LASTFM:END -->
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
