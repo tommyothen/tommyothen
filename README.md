@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — The Attic](https://www.last.fm/music/Poppy/_/The+Attic)
+* [Poppy — Linger](https://www.last.fm/music/Poppy/_/Linger)
 * [Poppy — Zig](https://www.last.fm/music/Poppy/_/Zig)
 * [Poppy — 1s + 0s](https://www.last.fm/music/Poppy/_/1s+%252B+0s)
-* [Poppy — Flicker](https://www.last.fm/music/Poppy/_/Flicker)
-* [Poppy — What It Becomes](https://www.last.fm/music/Poppy/_/What+It+Becomes)
-* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)<!-- LASTFM:END -->
+* [Poppy — Flicker](https://www.last.fm/music/Poppy/_/Flicker)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
