@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
 * [Poppy — Concrete](https://www.last.fm/music/Poppy/_/Concrete)
 * [Poppy — Scream](https://www.last.fm/music/Poppy/_/Scream)
-* [Poppy — Don&#39;t Ask](https://www.last.fm/music/Poppy/_/Don%27t+Ask)
-* [Sub Zero Project — 200 Beathoven](https://www.last.fm/music/Sub+Zero+Project/_/200+Beathoven)
-* [Poppy — Khaos x4](https://www.last.fm/music/Poppy/_/Khaos+x4)<!-- LASTFM:END -->
+* [Poppy — Don&#39;t Ask](https://www.last.fm/music/Poppy/_/Don%27t+Ask)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
