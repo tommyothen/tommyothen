@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
 * [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)
-* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
-* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
 * [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
