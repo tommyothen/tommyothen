@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — As Strange As It Seems](https://www.last.fm/music/Poppy/_/As+Strange+As+It+Seems)
+* [Poppy — Bloom](https://www.last.fm/music/Poppy/_/Bloom)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
 * [Poppy — Hysteria](https://www.last.fm/music/Poppy/_/Hysteria)
-* [Poppy — On the Level](https://www.last.fm/music/Poppy/_/On+the+Level)
-* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)
-* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)<!-- LASTFM:END -->
+* [Poppy — On the Level](https://www.last.fm/music/Poppy/_/On+the+Level)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
