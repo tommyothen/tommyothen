@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Elita — Sour Switchblade](https://www.last.fm/music/Elita/_/Sour+Switchblade)
+* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
 * [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
-* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
-* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
