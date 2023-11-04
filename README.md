@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
+* [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)
 * [Poppy — Church Outfit](https://www.last.fm/music/Poppy/_/Church+Outfit)
 * [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
-* [Poppy — Church Outfit](https://www.last.fm/music/Poppy/_/Church+Outfit)<!-- LASTFM:END -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
