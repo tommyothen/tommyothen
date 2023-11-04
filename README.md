@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Don&#39;t Go Outside](https://www.last.fm/music/Poppy/_/Don%27t+Go+Outside)
+* [Poppy — Sick of the Sun](https://www.last.fm/music/Poppy/_/Sick+of+the+Sun)
 * [Poppy — Bite Your Teeth](https://www.last.fm/music/Poppy/_/Bite+Your+Teeth)
 * [Poppy — Sit / Stay](https://www.last.fm/music/Poppy/_/Sit+%2F+Stay)
-* [Poppy — Nothing I Need](https://www.last.fm/music/Poppy/_/Nothing+I+Need)
-* [Poppy — Fill the Crown](https://www.last.fm/music/Poppy/_/Fill+the+Crown)
-* [Poppy — Anything Like Me](https://www.last.fm/music/Poppy/_/Anything+Like+Me)<!-- LASTFM:END -->
+* [Poppy — Nothing I Need](https://www.last.fm/music/Poppy/_/Nothing+I+Need)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
