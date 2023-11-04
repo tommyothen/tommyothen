@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
 * [Poppy — As Strange As It Seems](https://www.last.fm/music/Poppy/_/As+Strange+As+It+Seems)
 * [Poppy — Bloom](https://www.last.fm/music/Poppy/_/Bloom)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [Poppy — Hysteria](https://www.last.fm/music/Poppy/_/Hysteria)
-* [Poppy — On the Level](https://www.last.fm/music/Poppy/_/On+the+Level)<!-- LASTFM:END -->
+* [Poppy — Hysteria](https://www.last.fm/music/Poppy/_/Hysteria)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
