@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Linger](https://www.last.fm/music/Poppy/_/Linger)
+* [Poppy — I&#39;m Poppy](https://www.last.fm/music/Poppy/_/I%27m+Poppy)
 * [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [Poppy — Church Outfit](https://www.last.fm/music/Poppy/_/Church+Outfit)
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
-* [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)<!-- LASTFM:END -->
+* [Poppy — Church Outfit](https://www.last.fm/music/Poppy/_/Church+Outfit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
