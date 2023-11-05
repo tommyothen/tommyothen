@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
 * [Shakin&#39; Stevens — Merry Christmas Everyone](https://www.last.fm/music/Shakin%27+Stevens/_/Merry+Christmas+Everyone)
 * [Girls Aloud — Sound of the Underground](https://www.last.fm/music/Girls+Aloud/_/Sound+of+the+Underground)
 * [Poppy — Concrete](https://www.last.fm/music/Poppy/_/Concrete)
-* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
-* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)<!-- LASTFM:END -->
+* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
