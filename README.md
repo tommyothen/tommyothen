@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Flux](https://www.last.fm/music/Poppy/_/Flux)
 * [Poppy — FYB](https://www.last.fm/music/Poppy/_/FYB)
 * [Poppy — Anything Like Me](https://www.last.fm/music/Poppy/_/Anything+Like+Me)
 * [Poppy — Prove It](https://www.last.fm/music/Poppy/_/Prove+It)
-* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)
-* [Poppy — X](https://www.last.fm/music/Poppy/_/X)<!-- LASTFM:END -->
+* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
