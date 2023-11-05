@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aries — CAROUSEL](https://www.last.fm/music/Aries/_/CAROUSEL)
+* [88rising — Head In The Clouds](https://www.last.fm/music/88rising/_/Head+In+The+Clouds)
 * [Getter — SOME CREATURE](https://www.last.fm/music/Getter/_/SOME+CREATURE)
 * [88rising — Breathe](https://www.last.fm/music/88rising/_/Breathe)
-* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
-* [TERROR REID — Stormin tha Gatez](https://www.last.fm/music/TERROR+REID/_/Stormin+tha+Gatez)
-* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)<!-- LASTFM:END -->
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
