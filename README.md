@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Prove It](https://www.last.fm/music/Poppy/_/Prove+It)
+* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)
+* [Poppy — X](https://www.last.fm/music/Poppy/_/X)
 * [Poppy — Scary Mask](https://www.last.fm/music/Poppy/_/Scary+Mask)
-* [Poppy — 1s + 0s](https://www.last.fm/music/Poppy/_/1s+%252B+0s)
-* [Poppy — EAT](https://www.last.fm/music/Poppy/_/EAT)
-* [Poppy — Time Is Up](https://www.last.fm/music/Poppy/_/Time+Is+Up)
-* [Poppy — Concrete](https://www.last.fm/music/Poppy/_/Concrete)<!-- LASTFM:END -->
+* [Poppy — 1s + 0s](https://www.last.fm/music/Poppy/_/1s+%252B+0s)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
