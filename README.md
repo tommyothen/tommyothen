@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Concrete](https://www.last.fm/music/Poppy/_/Concrete)
+* [Poppy — The Attic](https://www.last.fm/music/Poppy/_/The+Attic)
 * [HEALTH — Dead Flowers](https://www.last.fm/music/HEALTH/_/Dead+Flowers)
 * [Poppy — Am I a Girl?](https://www.last.fm/music/Poppy/_/Am+I+a+Girl%3F)
-* [Poppy — Linger](https://www.last.fm/music/Poppy/_/Linger)
-* [Poppy — I&#39;m Poppy](https://www.last.fm/music/Poppy/_/I%27m+Poppy)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
+* [Poppy — Linger](https://www.last.fm/music/Poppy/_/Linger)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
