@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Getter — SOME CREATURE](https://www.last.fm/music/Getter/_/SOME+CREATURE)
+* [88rising — Breathe](https://www.last.fm/music/88rising/_/Breathe)
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
 * [TERROR REID — Stormin tha Gatez](https://www.last.fm/music/TERROR+REID/_/Stormin+tha+Gatez)
-* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
-* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)
-* [Shakin&#39; Stevens — Merry Christmas Everyone](https://www.last.fm/music/Shakin%27+Stevens/_/Merry+Christmas+Everyone)
-* [Girls Aloud — Sound of the Underground](https://www.last.fm/music/Girls+Aloud/_/Sound+of+the+Underground)<!-- LASTFM:END -->
+* [Getter — On My Way Out](https://www.last.fm/music/Getter/_/On+My+Way+Out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
