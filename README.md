@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — XO](https://www.last.fm/music/Eden/_/XO)
 * [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
 * [Aries — CAROUSEL](https://www.last.fm/music/Aries/_/CAROUSEL)
 * [88rising — Head In The Clouds](https://www.last.fm/music/88rising/_/Head+In+The+Clouds)
-* [Getter — SOME CREATURE](https://www.last.fm/music/Getter/_/SOME+CREATURE)
-* [88rising — Breathe](https://www.last.fm/music/88rising/_/Breathe)<!-- LASTFM:END -->
+* [Getter — SOME CREATURE](https://www.last.fm/music/Getter/_/SOME+CREATURE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
