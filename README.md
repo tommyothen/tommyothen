@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Linkin Park — Breaking the Habit](https://www.last.fm/music/Linkin+Park/_/Breaking+the+Habit)
+* [Crazy Town — Butterfly](https://www.last.fm/music/Crazy+Town/_/Butterfly)
 * [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
-* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
-* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
-* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)<!-- LASTFM:END -->
+* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
