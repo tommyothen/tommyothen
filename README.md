@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
+* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
+* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [Muse — Hysteria](https://www.last.fm/music/Muse/_/Hysteria)
-* [Linkin Park — What I&#39;ve Done](https://www.last.fm/music/Linkin+Park/_/What+I%27ve+Done)
-* [Linkin Park — Breaking the Habit](https://www.last.fm/music/Linkin+Park/_/Breaking+the+Habit)<!-- LASTFM:END -->
+* [Muse — Hysteria](https://www.last.fm/music/Muse/_/Hysteria)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
