@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
-* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)<!-- LASTFM:END -->
+* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
