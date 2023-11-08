@@ -31,8 +31,8 @@ Now Playing\
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [Muse — Hysteria](https://www.last.fm/music/Muse/_/Hysteria)<!-- LASTFM:END -->
+* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
