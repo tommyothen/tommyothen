@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
 * [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
-* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
