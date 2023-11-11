@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [King Von — Took Her To The O](https://www.last.fm/music/King+Von/_/Took+Her+To+The+O)
+* [Gunna — fukumean](https://www.last.fm/music/Gunna/_/fukumean)
+* [JID — 151 Rum](https://www.last.fm/music/JID/_/151+Rum)
 * [6LACK — PRBLMS](https://www.last.fm/music/6LACK/_/PRBLMS)
-* [Aminé — Caroline](https://www.last.fm/music/Amin%C3%A9/_/Caroline)
-* [J. Cole — No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)
-* [Chief Keef — Hate Bein&#39; Sober](https://www.last.fm/music/Chief+Keef/_/Hate+Bein%27+Sober)
-* [Fetty Wap — My Way &lpar;feat. Monty&rpar;](https://www.last.fm/music/Fetty+Wap/_/My+Way+&lpar;feat.+Monty&rpar;)<!-- LASTFM:END -->
+* [Aminé — Caroline](https://www.last.fm/music/Amin%C3%A9/_/Caroline)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
