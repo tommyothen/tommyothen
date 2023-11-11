@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YBN Nahmir — Rubbin Off The Paint](https://www.last.fm/music/YBN+Nahmir/_/Rubbin+Off+The+Paint)
+* [Kanye West — Can&#39;t Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)
 * [BlocBoy JB — Look Alive &lpar;feat. Drake&rpar;](https://www.last.fm/music/BlocBoy+JB/_/Look+Alive+&lpar;feat.+Drake&rpar;)
 * [King Von — Took Her To The O](https://www.last.fm/music/King+Von/_/Took+Her+To+The+O)
-* [Gunna — fukumean](https://www.last.fm/music/Gunna/_/fukumean)
-* [JID — 151 Rum](https://www.last.fm/music/JID/_/151+Rum)
-* [6LACK — PRBLMS](https://www.last.fm/music/6LACK/_/PRBLMS)<!-- LASTFM:END -->
+* [Gunna — fukumean](https://www.last.fm/music/Gunna/_/fukumean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
