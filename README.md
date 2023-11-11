@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Drake — BackOutsideBoyz](https://www.last.fm/music/Drake/_/BackOutsideBoyz)
+* [Rejjie Snow — Egyptian Luvr &lpar;feat. Aminé &amp; Dana Williams&rpar;](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr+&lpar;feat.+Amin%C3%A9+&amp;+Dana+Williams&rpar;)
+* [Mick Jenkins — Jazz](https://www.last.fm/music/Mick+Jenkins/_/Jazz)
 * [Sheck Wes — Mo Bamba](https://www.last.fm/music/Sheck+Wes/_/Mo+Bamba)
-* [DUCKWRTH — I&#39;M DEAD](https://www.last.fm/music/DUCKWRTH/_/I%27M+DEAD)
-* [EARTHGANG — UP - A COLORS SHOW](https://www.last.fm/music/EARTHGANG/_/UP+-+A+COLORS+SHOW)
-* [Ski Mask the Slump God — Catch Me Outside](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/Catch+Me+Outside)
-* [KYLE — iSpy &lpar;feat. Lil Yachty&rpar; - No Intro](https://www.last.fm/music/KYLE/_/iSpy+&lpar;feat.+Lil+Yachty&rpar;+-+No+Intro)<!-- LASTFM:END -->
+* [DUCKWRTH — I&#39;M DEAD](https://www.last.fm/music/DUCKWRTH/_/I%27M+DEAD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
