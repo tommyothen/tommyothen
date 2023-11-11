@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Drake — Rich Baby Daddy &lpar;feat. Sexyy Red &amp; SZA&rpar;](https://www.last.fm/music/Drake/_/Rich+Baby+Daddy+&lpar;feat.+Sexyy+Red+&amp;+SZA&rpar;)
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Kanye West — Runaway](https://www.last.fm/music/Kanye+West/_/Runaway)
 * [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
-* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
-* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)<!-- LASTFM:END -->
+* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
