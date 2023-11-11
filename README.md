@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sheck Wes — Mo Bamba](https://www.last.fm/music/Sheck+Wes/_/Mo+Bamba)
+* [DUCKWRTH — I&#39;M DEAD](https://www.last.fm/music/DUCKWRTH/_/I%27M+DEAD)
 * [EARTHGANG — UP - A COLORS SHOW](https://www.last.fm/music/EARTHGANG/_/UP+-+A+COLORS+SHOW)
 * [Ski Mask the Slump God — Catch Me Outside](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/Catch+Me+Outside)
-* [KYLE — iSpy &lpar;feat. Lil Yachty&rpar; - No Intro](https://www.last.fm/music/KYLE/_/iSpy+&lpar;feat.+Lil+Yachty&rpar;+-+No+Intro)
-* [Dram — Broccoli &lpar;feat. Lil Yachty&rpar;](https://www.last.fm/music/Dram/_/Broccoli+&lpar;feat.+Lil+Yachty&rpar;)
-* [Comethazine — Walk](https://www.last.fm/music/Comethazine/_/Walk)<!-- LASTFM:END -->
+* [KYLE — iSpy &lpar;feat. Lil Yachty&rpar; - No Intro](https://www.last.fm/music/KYLE/_/iSpy+&lpar;feat.+Lil+Yachty&rpar;+-+No+Intro)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
