@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dram — Broccoli &lpar;feat. Lil Yachty&rpar;](https://www.last.fm/music/Dram/_/Broccoli+&lpar;feat.+Lil+Yachty&rpar;)
+* [Comethazine — Walk](https://www.last.fm/music/Comethazine/_/Walk)
+* [Glass Animals — Tokyo Drifting](https://www.last.fm/music/Glass+Animals/_/Tokyo+Drifting)
 * [YBN Nahmir — Rubbin Off The Paint](https://www.last.fm/music/YBN+Nahmir/_/Rubbin+Off+The+Paint)
-* [Kanye West — Can&#39;t Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)
-* [BlocBoy JB — Look Alive &lpar;feat. Drake&rpar;](https://www.last.fm/music/BlocBoy+JB/_/Look+Alive+&lpar;feat.+Drake&rpar;)
-* [King Von — Took Her To The O](https://www.last.fm/music/King+Von/_/Took+Her+To+The+O)
-* [Gunna — fukumean](https://www.last.fm/music/Gunna/_/fukumean)<!-- LASTFM:END -->
+* [Kanye West — Can&#39;t Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
