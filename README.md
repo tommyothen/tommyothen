@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fetty Wap — My Way &lpar;feat. Monty&rpar;](https://www.last.fm/music/Fetty+Wap/_/My+Way+&lpar;feat.+Monty&rpar;)
 * [Migos — Walk It Talk It](https://www.last.fm/music/Migos/_/Walk+It+Talk+It)
 * [Travis Scott — HIGHEST IN THE ROOM](https://www.last.fm/music/Travis+Scott/_/HIGHEST+IN+THE+ROOM)
 * [The Weeknd — False Alarm](https://www.last.fm/music/The+Weeknd/_/False+Alarm)
-* [Baby Keem — family ties &lpar;with Kendrick Lamar&rpar;](https://www.last.fm/music/Baby+Keem/_/family+ties+&lpar;with+Kendrick+Lamar&rpar;)
-* [Drake — Rich Flex](https://www.last.fm/music/Drake/_/Rich+Flex)<!-- LASTFM:END -->
+* [Baby Keem — family ties &lpar;with Kendrick Lamar&rpar;](https://www.last.fm/music/Baby+Keem/_/family+ties+&lpar;with+Kendrick+Lamar&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
