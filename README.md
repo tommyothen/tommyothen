@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [blink-182 — Adam&#39;s Song](https://www.last.fm/music/blink-182/_/Adam%27s+Song)
 * [Drake — BackOutsideBoyz](https://www.last.fm/music/Drake/_/BackOutsideBoyz)
 * [Rejjie Snow — Egyptian Luvr &lpar;feat. Aminé &amp; Dana Williams&rpar;](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr+&lpar;feat.+Amin%C3%A9+&amp;+Dana+Williams&rpar;)
 * [Mick Jenkins — Jazz](https://www.last.fm/music/Mick+Jenkins/_/Jazz)
-* [Sheck Wes — Mo Bamba](https://www.last.fm/music/Sheck+Wes/_/Mo+Bamba)
-* [DUCKWRTH — I&#39;M DEAD](https://www.last.fm/music/DUCKWRTH/_/I%27M+DEAD)<!-- LASTFM:END -->
+* [Sheck Wes — Mo Bamba](https://www.last.fm/music/Sheck+Wes/_/Mo+Bamba)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
