@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Baby Keem — family ties &lpar;with Kendrick Lamar&rpar;](https://www.last.fm/music/Baby+Keem/_/family+ties+&lpar;with+Kendrick+Lamar&rpar;)
+* [Drake — Rich Flex](https://www.last.fm/music/Drake/_/Rich+Flex)
 * [Drake — On BS](https://www.last.fm/music/Drake/_/On+BS)
 * [Kanye West — I Love Kanye](https://www.last.fm/music/Kanye+West/_/I+Love+Kanye)
-* [Drake — First Person Shooter &lpar;feat. J. Cole&rpar;](https://www.last.fm/music/Drake/_/First+Person+Shooter+&lpar;feat.+J.+Cole&rpar;)
-* [Drake — Rich Baby Daddy &lpar;feat. Sexyy Red &amp; SZA&rpar;](https://www.last.fm/music/Drake/_/Rich+Baby+Daddy+&lpar;feat.+Sexyy+Red+&amp;+SZA&rpar;)
-* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)<!-- LASTFM:END -->
+* [Drake — First Person Shooter &lpar;feat. J. Cole&rpar;](https://www.last.fm/music/Drake/_/First+Person+Shooter+&lpar;feat.+J.+Cole&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
