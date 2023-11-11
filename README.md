@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ski Mask the Slump God — Catch Me Outside](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/Catch+Me+Outside)
+* [KYLE — iSpy &lpar;feat. Lil Yachty&rpar; - No Intro](https://www.last.fm/music/KYLE/_/iSpy+&lpar;feat.+Lil+Yachty&rpar;+-+No+Intro)
 * [Dram — Broccoli &lpar;feat. Lil Yachty&rpar;](https://www.last.fm/music/Dram/_/Broccoli+&lpar;feat.+Lil+Yachty&rpar;)
 * [Comethazine — Walk](https://www.last.fm/music/Comethazine/_/Walk)
-* [Glass Animals — Tokyo Drifting](https://www.last.fm/music/Glass+Animals/_/Tokyo+Drifting)
-* [YBN Nahmir — Rubbin Off The Paint](https://www.last.fm/music/YBN+Nahmir/_/Rubbin+Off+The+Paint)
-* [Kanye West — Can&#39;t Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)<!-- LASTFM:END -->
+* [Glass Animals — Tokyo Drifting](https://www.last.fm/music/Glass+Animals/_/Tokyo+Drifting)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
