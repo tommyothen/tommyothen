@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [6LACK — PRBLMS](https://www.last.fm/music/6LACK/_/PRBLMS)
+* [Aminé — Caroline](https://www.last.fm/music/Amin%C3%A9/_/Caroline)
 * [J. Cole — No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)
 * [Chief Keef — Hate Bein&#39; Sober](https://www.last.fm/music/Chief+Keef/_/Hate+Bein%27+Sober)
-* [Fetty Wap — My Way &lpar;feat. Monty&rpar;](https://www.last.fm/music/Fetty+Wap/_/My+Way+&lpar;feat.+Monty&rpar;)
-* [Migos — Walk It Talk It](https://www.last.fm/music/Migos/_/Walk+It+Talk+It)
-* [Travis Scott — HIGHEST IN THE ROOM](https://www.last.fm/music/Travis+Scott/_/HIGHEST+IN+THE+ROOM)<!-- LASTFM:END -->
+* [Fetty Wap — My Way &lpar;feat. Monty&rpar;](https://www.last.fm/music/Fetty+Wap/_/My+Way+&lpar;feat.+Monty&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
