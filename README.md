@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
+* [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)
+* [Cap&#39;n Jazz — Little League](https://www.last.fm/music/Cap%27n+Jazz/_/Little+League)
 * [Khaki Cuffs — Caffeine Cops](https://www.last.fm/music/Khaki+Cuffs/_/Caffeine+Cops)
-* [Kidsnot$aints. — Daydreamer](https://www.last.fm/music/Kidsnot$aints./_/Daydreamer)
-* [Hot Mulligan — Dary](https://www.last.fm/music/Hot+Mulligan/_/Dary)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Basement — Covet](https://www.last.fm/music/Basement/_/Covet)<!-- LASTFM:END -->
+* [Kidsnot$aints. — Daydreamer](https://www.last.fm/music/Kidsnot$aints./_/Daydreamer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
