@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Chats — Smoko](https://www.last.fm/music/The+Chats/_/Smoko)
+* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)
 * [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
 * [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Vieze Asbak — Erika Uit Langenboom - Uptempo Braak Mix](https://www.last.fm/music/Vieze+Asbak/_/Erika+Uit+Langenboom+-+Uptempo+Braak+Mix)
-* [Neutral Milk Hotel — In the Aeroplane Over the Sea](https://www.last.fm/music/Neutral+Milk+Hotel/_/In+the+Aeroplane+Over+the+Sea)
-* [Phinehas — In the Night](https://www.last.fm/music/Phinehas/_/In+the+Night)<!-- LASTFM:END -->
+* [Vieze Asbak — Erika Uit Langenboom - Uptempo Braak Mix](https://www.last.fm/music/Vieze+Asbak/_/Erika+Uit+Langenboom+-+Uptempo+Braak+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
