@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hot Mulligan — Dary](https://www.last.fm/music/Hot+Mulligan/_/Dary)
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
 * [Basement — Covet](https://www.last.fm/music/Basement/_/Covet)
 * [The Chats — Pub Feed](https://www.last.fm/music/The+Chats/_/Pub+Feed)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [The Chats — Smoko](https://www.last.fm/music/The+Chats/_/Smoko)
-* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)<!-- LASTFM:END -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
