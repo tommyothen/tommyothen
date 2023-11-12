@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Phinehas — In the Night](https://www.last.fm/music/Phinehas/_/In+the+Night)
+* [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)
 * [Eden — Balling](https://www.last.fm/music/Eden/_/Balling)
 * [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
-* [Eden — Circles](https://www.last.fm/music/Eden/_/Circles)
-* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
-* [Eden — XO](https://www.last.fm/music/Eden/_/XO)<!-- LASTFM:END -->
+* [Eden — Circles](https://www.last.fm/music/Eden/_/Circles)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
