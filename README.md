@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Basement — Covet](https://www.last.fm/music/Basement/_/Covet)
 * [The Chats — Pub Feed](https://www.last.fm/music/The+Chats/_/Pub+Feed)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
 * [The Chats — Smoko](https://www.last.fm/music/The+Chats/_/Smoko)
-* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)<!-- LASTFM:END -->
+* [Neon Trees — Animal](https://www.last.fm/music/Neon+Trees/_/Animal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
