@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
 * [Hus — Banana Shake &lpar;sped up&rpar;](https://www.last.fm/music/Hus/_/Banana+Shake+&lpar;sped+up&rpar;)
 * [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
 * [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)
-* [Cap&#39;n Jazz — Little League](https://www.last.fm/music/Cap%27n+Jazz/_/Little+League)
-* [Khaki Cuffs — Caffeine Cops](https://www.last.fm/music/Khaki+Cuffs/_/Caffeine+Cops)<!-- LASTFM:END -->
+* [Cap&#39;n Jazz — Little League](https://www.last.fm/music/Cap%27n+Jazz/_/Little+League)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
