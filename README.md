@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
 * [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
+* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
 * [Hus — Banana Shake &lpar;sped up&rpar;](https://www.last.fm/music/Hus/_/Banana+Shake+&lpar;sped+up&rpar;)
-* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
-* [Jawny — Honeypie](https://www.last.fm/music/Jawny/_/Honeypie)<!-- LASTFM:END -->
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
