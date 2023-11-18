@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
+* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)
 * [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
 * [LoveJoy — Portrait of a Blank Slate](https://www.last.fm/music/LoveJoy/_/Portrait+of+a+Blank+Slate)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)<!-- LASTFM:END -->
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
