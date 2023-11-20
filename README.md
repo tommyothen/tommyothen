@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [LE SSERAFIM — Eve, Psyche &amp; The Bluebeard’s wife](https://www.last.fm/music/LE+SSERAFIM/_/Eve,+Psyche+&amp;+The+Bluebeard%E2%80%99s+wife)
 * [LE SSERAFIM — UNFORGIVEN &lpar;feat. Nile Rodgers&rpar;](https://www.last.fm/music/LE+SSERAFIM/_/UNFORGIVEN+&lpar;feat.+Nile+Rodgers&rpar;)
 * [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)<!-- LASTFM:END -->
+* [LE SSERAFIM — Eve, Psyche &amp; The Bluebeard’s wife](https://www.last.fm/music/LE+SSERAFIM/_/Eve,+Psyche+&amp;+The+Bluebeard%E2%80%99s+wife)
+* [LE SSERAFIM — UNFORGIVEN &lpar;feat. Nile Rodgers&rpar;](https://www.last.fm/music/LE+SSERAFIM/_/UNFORGIVEN+&lpar;feat.+Nile+Rodgers&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
