@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [LE SSERAFIM — UNFORGIVEN &lpar;feat. Nile Rodgers&rpar;](https://www.last.fm/music/LE+SSERAFIM/_/UNFORGIVEN+&lpar;feat.+Nile+Rodgers&rpar;)
-* [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)
+* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)
+* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [LE SSERAFIM — Eve, Psyche &amp; The Bluebeard’s wife](https://www.last.fm/music/LE+SSERAFIM/_/Eve,+Psyche+&amp;+The+Bluebeard%E2%80%99s+wife)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [LE SSERAFIM — UNFORGIVEN &lpar;feat. Nile Rodgers&rpar;](https://www.last.fm/music/LE+SSERAFIM/_/UNFORGIVEN+&lpar;feat.+Nile+Rodgers&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
