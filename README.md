@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
+* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
+* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
