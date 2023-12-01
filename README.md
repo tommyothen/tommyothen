@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [NewJeans — Beautiful Restriction](https://www.last.fm/music/NewJeans/_/Beautiful+Restriction)
 * [NewJeans — Get Up](https://www.last.fm/music/NewJeans/_/Get+Up)
-* [NewJeans — Cool With You](https://www.last.fm/music/NewJeans/_/Cool+With+You)
-* [NewJeans — ASAP](https://www.last.fm/music/NewJeans/_/ASAP)
-* [NewJeans — ETA](https://www.last.fm/music/NewJeans/_/ETA)
-* [Panic! at the Disco — I Write Sins Not Tragedies](https://www.last.fm/music/Panic!+at+the+Disco/_/I+Write+Sins+Not+Tragedies)<!-- LASTFM:END -->
+* [NewJeans — Cool With You](https://www.last.fm/music/NewJeans/_/Cool+With+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
