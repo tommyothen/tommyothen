@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
 * [The Dresden Dolls — My Alcoholic Friends](https://www.last.fm/music/The+Dresden+Dolls/_/My+Alcoholic+Friends)
 * [J. Cole — No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)
-* [Tyler, the Creator — See You Again &lpar;feat. Kali Uchis&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+&lpar;feat.+Kali+Uchis&rpar;)
-* [Baby Keem — family ties &lpar;with Kendrick Lamar&rpar;](https://www.last.fm/music/Baby+Keem/_/family+ties+&lpar;with+Kendrick+Lamar&rpar;)
-* [Mac Miller — The Spins](https://www.last.fm/music/Mac+Miller/_/The+Spins)<!-- LASTFM:END -->
+* [Tyler, the Creator — See You Again &lpar;feat. Kali Uchis&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+&lpar;feat.+Kali+Uchis&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
