@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [The Dresden Dolls — My Alcoholic Friends](https://www.last.fm/music/The+Dresden+Dolls/_/My+Alcoholic+Friends)
-* [J. Cole — No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)
-* [Tyler, the Creator — See You Again &lpar;feat. Kali Uchis&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+&lpar;feat.+Kali+Uchis&rpar;)<!-- LASTFM:END -->
+* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
+* [dacelynn — 80&#39;s Makeout Session](https://www.last.fm/music/dacelynn/_/80%27s+Makeout+Session)
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
+* [Rory Webley — Something Super Sweet](https://www.last.fm/music/Rory+Webley/_/Something+Super+Sweet)
+* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
