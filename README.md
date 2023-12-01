@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [J. Cole — No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)
 * [Tyler, the Creator — See You Again &lpar;feat. Kali Uchis&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+&lpar;feat.+Kali+Uchis&rpar;)
 * [Baby Keem — family ties &lpar;with Kendrick Lamar&rpar;](https://www.last.fm/music/Baby+Keem/_/family+ties+&lpar;with+Kendrick+Lamar&rpar;)
 * [Mac Miller — The Spins](https://www.last.fm/music/Mac+Miller/_/The+Spins)
-* [Jay Rock — King&#39;s Dead &lpar;with Kendrick Lamar, Future &amp; James Blake&rpar;](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+&lpar;with+Kendrick+Lamar,+Future+&amp;+James+Blake&rpar;)
-* [Adjust the Sails — Get Your Game On! &lpar;Yu-Gi-Oh GX Theme&rpar;](https://www.last.fm/music/Adjust+the+Sails/_/Get+Your+Game+On!+&lpar;Yu-Gi-Oh+GX+Theme&rpar;)<!-- LASTFM:END -->
+* [Jay Rock — King&#39;s Dead &lpar;with Kendrick Lamar, Future &amp; James Blake&rpar;](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+&lpar;with+Kendrick+Lamar,+Future+&amp;+James+Blake&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
