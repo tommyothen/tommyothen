@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
+* [Mazie — u and i will always be okay](https://www.last.fm/music/Mazie/_/u+and+i+will+always+be+okay)
 * [Cavetown — del mar county fair 2008](https://www.last.fm/music/Cavetown/_/del+mar+county+fair+2008)
 * [Thomas Headon — I loved a boy](https://www.last.fm/music/Thomas+Headon/_/I+loved+a+boy)
-* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
-* [dacelynn — 80&#39;s Makeout Session](https://www.last.fm/music/dacelynn/_/80%27s+Makeout+Session)
-* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)<!-- LASTFM:END -->
+* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
