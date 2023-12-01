@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kim Petras — &lt;demons&gt;](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
+* [Kendrick Lamar — N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)
 * [aespa — Drama](https://www.last.fm/music/aespa/_/Drama)
-* [JEON SOYEON — NOBODY](https://www.last.fm/music/JEON+SOYEON/_/NOBODY)
-* [Soojin — AGASSY](https://www.last.fm/music/Soojin/_/AGASSY)
-* [VIVIZ — MANIAC](https://www.last.fm/music/VIVIZ/_/MANIAC)
-* [Red Velvet — Chill Kill](https://www.last.fm/music/Red+Velvet/_/Chill+Kill)<!-- LASTFM:END -->
+* [JEON SOYEON — NOBODY](https://www.last.fm/music/JEON+SOYEON/_/NOBODY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
