@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Marmalade butcher — Floccinaucinihilipilification](https://www.last.fm/music/Marmalade+butcher/_/Floccinaucinihilipilification)
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [Kim Petras — &lt;demons&gt;](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
 * [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [Kendrick Lamar — N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)
-* [aespa — Drama](https://www.last.fm/music/aespa/_/Drama)
-* [JEON SOYEON — NOBODY](https://www.last.fm/music/JEON+SOYEON/_/NOBODY)<!-- LASTFM:END -->
+* [Kendrick Lamar — N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
