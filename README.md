@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [VIVIZ — MANIAC](https://www.last.fm/music/VIVIZ/_/MANIAC)
+* [Red Velvet — Chill Kill](https://www.last.fm/music/Red+Velvet/_/Chill+Kill)
 * [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
 * [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
-* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
+* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
