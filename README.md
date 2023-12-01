@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Panic! at the Disco — I Write Sins Not Tragedies](https://www.last.fm/music/Panic!+at+the+Disco/_/I+Write+Sins+Not+Tragedies)
-* [Paramore — Misery Business](https://www.last.fm/music/Paramore/_/Misery+Business)
-* [Maybe Baby — Аскорбинка 2.0](https://www.last.fm/music/Maybe+Baby/_/%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0+2.0)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [Slipknot — Vermilion, Pt. 2](https://www.last.fm/music/Slipknot/_/Vermilion,+Pt.+2)<!-- LASTFM:END -->
+* [NewJeans — Get Up](https://www.last.fm/music/NewJeans/_/Get+Up)
+* [NewJeans — Cool With You](https://www.last.fm/music/NewJeans/_/Cool+With+You)
+* [NewJeans — ASAP](https://www.last.fm/music/NewJeans/_/ASAP)
+* [NewJeans — ETA](https://www.last.fm/music/NewJeans/_/ETA)
+* [Panic! at the Disco — I Write Sins Not Tragedies](https://www.last.fm/music/Panic!+at+the+Disco/_/I+Write+Sins+Not+Tragedies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
