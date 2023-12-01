@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Maybe Baby — Аскорбинка 2.0](https://www.last.fm/music/Maybe+Baby/_/%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0+2.0)
+* [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)
+* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
 * [Phonon — emme](https://www.last.fm/music/Phonon/_/emme)
-* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)
-* [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)
-* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
-* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)<!-- LASTFM:END -->
+* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
