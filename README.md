@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The 1975 — If You’re Too Shy &lpar;Let Me Know&rpar;](https://www.last.fm/music/The+1975/_/If+You%E2%80%99re+Too+Shy+&lpar;Let+Me+Know&rpar;)
+* [The 1975 — It&#39;s Not Living &lpar;If It&#39;s Not With You&rpar;](https://www.last.fm/music/The+1975/_/It%27s+Not+Living+&lpar;If+It%27s+Not+With+You&rpar;)
 * [The 1975 — I&#39;m in Love with You](https://www.last.fm/music/The+1975/_/I%27m+in+Love+with+You)
 * [Chris Rea — Driving Home for Christmas](https://www.last.fm/music/Chris+Rea/_/Driving+Home+for+Christmas)
-* [Shakin&#39; Stevens — Merry Christmas Everyone](https://www.last.fm/music/Shakin%27+Stevens/_/Merry+Christmas+Everyone)
-* [Kelly Clarkson — Underneath the Tree](https://www.last.fm/music/Kelly+Clarkson/_/Underneath+the+Tree)
-* [Ariana Grande — Santa Tell Me](https://www.last.fm/music/Ariana+Grande/_/Santa+Tell+Me)<!-- LASTFM:END -->
+* [Shakin&#39; Stevens — Merry Christmas Everyone](https://www.last.fm/music/Shakin%27+Stevens/_/Merry+Christmas+Everyone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
