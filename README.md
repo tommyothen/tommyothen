@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
+* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [Ski Mask the Slump God — Faucet Failure](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/Faucet+Failure)
-* [hxly xo — Motive](https://www.last.fm/music/hxly+xo/_/Motive)<!-- LASTFM:END -->
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
