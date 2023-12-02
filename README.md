@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shakin&#39; Stevens — Merry Christmas Everyone](https://www.last.fm/music/Shakin%27+Stevens/_/Merry+Christmas+Everyone)
+* [Kelly Clarkson — Underneath the Tree](https://www.last.fm/music/Kelly+Clarkson/_/Underneath+the+Tree)
 * [Ariana Grande — Santa Tell Me](https://www.last.fm/music/Ariana+Grande/_/Santa+Tell+Me)
 * [Wham! — Last Christmas](https://www.last.fm/music/Wham!/_/Last+Christmas)
-* [Mariah Carey — All I Want for Christmas Is You](https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You)
-* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
-* [Peachy! — Pop Star 팝스타](https://www.last.fm/music/Peachy!/_/Pop+Star+%ED%8C%9D%EC%8A%A4%ED%83%80)<!-- LASTFM:END -->
+* [Mariah Carey — All I Want for Christmas Is You](https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
