@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The 1975 — I&#39;m in Love with You](https://www.last.fm/music/The+1975/_/I%27m+in+Love+with+You)
+* [Chris Rea — Driving Home for Christmas](https://www.last.fm/music/Chris+Rea/_/Driving+Home+for+Christmas)
 * [Shakin&#39; Stevens — Merry Christmas Everyone](https://www.last.fm/music/Shakin%27+Stevens/_/Merry+Christmas+Everyone)
 * [Kelly Clarkson — Underneath the Tree](https://www.last.fm/music/Kelly+Clarkson/_/Underneath+the+Tree)
-* [Ariana Grande — Santa Tell Me](https://www.last.fm/music/Ariana+Grande/_/Santa+Tell+Me)
-* [Wham! — Last Christmas](https://www.last.fm/music/Wham!/_/Last+Christmas)
-* [Mariah Carey — All I Want for Christmas Is You](https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You)<!-- LASTFM:END -->
+* [Ariana Grande — Santa Tell Me](https://www.last.fm/music/Ariana+Grande/_/Santa+Tell+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
