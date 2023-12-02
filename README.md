@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
+* [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
 * [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
 * [Ski Mask the Slump God — Faucet Failure](https://www.last.fm/music/Ski+Mask+the+Slump+God/_/Faucet+Failure)
-* [hxly xo — Motive](https://www.last.fm/music/hxly+xo/_/Motive)
-* [MOTEL GHOUL — sad love](https://www.last.fm/music/MOTEL+GHOUL/_/sad+love)
-* [marshall4 — joint custody? sorry i don&#39;t smoke](https://www.last.fm/music/marshall4/_/joint+custody%3F+sorry+i+don%27t+smoke)<!-- LASTFM:END -->
+* [hxly xo — Motive](https://www.last.fm/music/hxly+xo/_/Motive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
