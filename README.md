@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [hxly xo — Motive](https://www.last.fm/music/hxly+xo/_/Motive)
+* [MOTEL GHOUL — sad love](https://www.last.fm/music/MOTEL+GHOUL/_/sad+love)
 * [marshall4 — joint custody? sorry i don&#39;t smoke](https://www.last.fm/music/marshall4/_/joint+custody%3F+sorry+i+don%27t+smoke)
 * [Polyphia — O.D.](https://www.last.fm/music/Polyphia/_/O.D.)
-* [Polyphia — Inferno](https://www.last.fm/music/Polyphia/_/Inferno)
-* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
-* [tortuganónima — Ukiyo](https://www.last.fm/music/tortugan%C3%B3nima/_/Ukiyo)<!-- LASTFM:END -->
+* [Polyphia — Inferno](https://www.last.fm/music/Polyphia/_/Inferno)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
