@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
+* [We Came as Romans — Cold Like War](https://www.last.fm/music/We+Came+as+Romans/_/Cold+Like+War)
 * [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
 * [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)<!-- LASTFM:END -->
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
