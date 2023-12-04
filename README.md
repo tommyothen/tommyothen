@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
+* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
-* [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
 * [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
