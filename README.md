@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
 * [Wonder Girls — Tell Me](https://www.last.fm/music/Wonder+Girls/_/Tell+Me)
 * [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Lady Gaga — Replay](https://www.last.fm/music/Lady+Gaga/_/Replay)
-* [Psy — That That &lpar;prod.&amp;feat. SUGA of BTS&rpar;](https://www.last.fm/music/Psy/_/That+That+&lpar;prod.&amp;feat.+SUGA+of+BTS&rpar;)<!-- LASTFM:END -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
