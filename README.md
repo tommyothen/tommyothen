@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Johannes Brahms — Hungarian Dance No. 5](https://www.last.fm/music/Johannes+Brahms/_/Hungarian+Dance+No.+5)
+* [The Prodigy — Omen](https://www.last.fm/music/The+Prodigy/_/Omen)
 * [Modjo — Lady &lpar;Hear Me Tonight&rpar;](https://www.last.fm/music/Modjo/_/Lady+&lpar;Hear+Me+Tonight&rpar;)
 * [Faithless — Insomnia - Radio edit](https://www.last.fm/music/Faithless/_/Insomnia+-+Radio+edit)
-* [Astrix — Sahara - Original Mix](https://www.last.fm/music/Astrix/_/Sahara+-+Original+Mix)
-* [Charlie Sparks &lpar;UK&rpar; — Welcome To London](https://www.last.fm/music/Charlie+Sparks+&lpar;UK&rpar;/_/Welcome+To+London)
-* [Sota — Machete](https://www.last.fm/music/Sota/_/Machete)<!-- LASTFM:END -->
+* [Astrix — Sahara - Original Mix](https://www.last.fm/music/Astrix/_/Sahara+-+Original+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
