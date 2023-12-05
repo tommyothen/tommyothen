@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Prototypes — Electric](https://www.last.fm/music/The+Prototypes/_/Electric)
+* [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)
 * [Toshifumi Hinata — Little Rascal &lpar;いたずら天使&rpar; - 2007 ver.](https://www.last.fm/music/Toshifumi+Hinata/_/Little+Rascal+&lpar;%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E5%A4%A9%E4%BD%BF&rpar;+-+2007+ver.)
 * [Giuseppe Verdi — Rigoletto, act III: La donna è mobile](https://www.last.fm/music/Giuseppe+Verdi/_/Rigoletto,+act+III:+La+donna+%C3%A8+mobile)
-* [Giacomo Puccini — Turandot, SC 91, Act III: Nessun dorma!](https://www.last.fm/music/Giacomo+Puccini/_/Turandot,+SC+91,+Act+III:+Nessun+dorma!)
-* [Nine Inch Nails — Hurt](https://www.last.fm/music/Nine+Inch+Nails/_/Hurt)
-* [The Highwaymen — &lpar;Ghost&rpar; Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990](https://www.last.fm/music/The+Highwaymen/_/&lpar;Ghost&rpar;+Riders+in+the+Sky+-+Live+at+Nassau+Coliseum,+Uniondale,+NY+-+March+1990)<!-- LASTFM:END -->
+* [Giacomo Puccini — Turandot, SC 91, Act III: Nessun dorma!](https://www.last.fm/music/Giacomo+Puccini/_/Turandot,+SC+91,+Act+III:+Nessun+dorma!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
