@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charlie Sparks &lpar;UK&rpar; — Welcome To London](https://www.last.fm/music/Charlie+Sparks+&lpar;UK&rpar;/_/Welcome+To+London)
 * [Sota — Machete](https://www.last.fm/music/Sota/_/Machete)
 * [Hybrid Minds — Touch](https://www.last.fm/music/Hybrid+Minds/_/Touch)
 * [UK Apache — Original Nuttah 25](https://www.last.fm/music/UK+Apache/_/Original+Nuttah+25)
-* [The Prototypes — Electric](https://www.last.fm/music/The+Prototypes/_/Electric)
-* [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)<!-- LASTFM:END -->
+* [The Prototypes — Electric](https://www.last.fm/music/The+Prototypes/_/Electric)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
