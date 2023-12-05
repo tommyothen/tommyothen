@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hybrid Minds — Touch](https://www.last.fm/music/Hybrid+Minds/_/Touch)
 * [UK Apache — Original Nuttah 25](https://www.last.fm/music/UK+Apache/_/Original+Nuttah+25)
 * [The Prototypes — Electric](https://www.last.fm/music/The+Prototypes/_/Electric)
 * [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)
-* [Toshifumi Hinata — Little Rascal &lpar;いたずら天使&rpar; - 2007 ver.](https://www.last.fm/music/Toshifumi+Hinata/_/Little+Rascal+&lpar;%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E5%A4%A9%E4%BD%BF&rpar;+-+2007+ver.)
-* [Giuseppe Verdi — Rigoletto, act III: La donna è mobile](https://www.last.fm/music/Giuseppe+Verdi/_/Rigoletto,+act+III:+La+donna+%C3%A8+mobile)<!-- LASTFM:END -->
+* [Toshifumi Hinata — Little Rascal &lpar;いたずら天使&rpar; - 2007 ver.](https://www.last.fm/music/Toshifumi+Hinata/_/Little+Rascal+&lpar;%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E5%A4%A9%E4%BD%BF&rpar;+-+2007+ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
