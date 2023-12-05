@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Burial — Archangel](https://www.last.fm/music/Burial/_/Archangel)
+* [Lofi.Samurai — dearest](https://www.last.fm/music/Lofi.Samurai/_/dearest)
+* [Basement Jaxx — where’s my head at _](https://www.last.fm/music/Basement+Jaxx/_/where%E2%80%99s+my+head+at+_)
 * [The Chats — Smoko](https://www.last.fm/music/The+Chats/_/Smoko)
-* [Lacross Club — Welsh Weather Heather](https://www.last.fm/music/Lacross+Club/_/Welsh+Weather+Heather)
-* [Ellie Goulding — Starry Eyed](https://www.last.fm/music/Ellie+Goulding/_/Starry+Eyed)
-* [Tkay Maidza — So Cold](https://www.last.fm/music/Tkay+Maidza/_/So+Cold)
-* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)<!-- LASTFM:END -->
+* [Lacross Club — Welsh Weather Heather](https://www.last.fm/music/Lacross+Club/_/Welsh+Weather+Heather)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
