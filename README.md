@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Astrix — Sahara - Original Mix](https://www.last.fm/music/Astrix/_/Sahara+-+Original+Mix)
 * [Charlie Sparks &lpar;UK&rpar; — Welcome To London](https://www.last.fm/music/Charlie+Sparks+&lpar;UK&rpar;/_/Welcome+To+London)
 * [Sota — Machete](https://www.last.fm/music/Sota/_/Machete)
 * [Hybrid Minds — Touch](https://www.last.fm/music/Hybrid+Minds/_/Touch)
-* [UK Apache — Original Nuttah 25](https://www.last.fm/music/UK+Apache/_/Original+Nuttah+25)
-* [The Prototypes — Electric](https://www.last.fm/music/The+Prototypes/_/Electric)<!-- LASTFM:END -->
+* [UK Apache — Original Nuttah 25](https://www.last.fm/music/UK+Apache/_/Original+Nuttah+25)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
