@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)
+* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
+* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)
 * [Bicep — Glue](https://www.last.fm/music/Bicep/_/Glue)
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)
-* [Camellia — KillerBeast](https://www.last.fm/music/Camellia/_/KillerBeast)
-* [XI — Halcyon](https://www.last.fm/music/XI/_/Halcyon)<!-- LASTFM:END -->
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
