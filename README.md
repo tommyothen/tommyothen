@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lady Gaga — Replay](https://www.last.fm/music/Lady+Gaga/_/Replay)
 * [Psy — That That &lpar;prod.&amp;feat. SUGA of BTS&rpar;](https://www.last.fm/music/Psy/_/That+That+&lpar;prod.&amp;feat.+SUGA+of+BTS&rpar;)
 * [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)
 * [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
-* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)
-* [Bicep — Glue](https://www.last.fm/music/Bicep/_/Glue)<!-- LASTFM:END -->
+* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
