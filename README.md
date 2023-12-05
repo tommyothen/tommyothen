@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Modjo — Lady &lpar;Hear Me Tonight&rpar;](https://www.last.fm/music/Modjo/_/Lady+&lpar;Hear+Me+Tonight&rpar;)
+* [Faithless — Insomnia - Radio edit](https://www.last.fm/music/Faithless/_/Insomnia+-+Radio+edit)
 * [Astrix — Sahara - Original Mix](https://www.last.fm/music/Astrix/_/Sahara+-+Original+Mix)
 * [Charlie Sparks &lpar;UK&rpar; — Welcome To London](https://www.last.fm/music/Charlie+Sparks+&lpar;UK&rpar;/_/Welcome+To+London)
-* [Sota — Machete](https://www.last.fm/music/Sota/_/Machete)
-* [Hybrid Minds — Touch](https://www.last.fm/music/Hybrid+Minds/_/Touch)
-* [UK Apache — Original Nuttah 25](https://www.last.fm/music/UK+Apache/_/Original+Nuttah+25)<!-- LASTFM:END -->
+* [Sota — Machete](https://www.last.fm/music/Sota/_/Machete)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
