@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)
 * [Caelan — Forever with you](https://www.last.fm/music/Caelan/_/Forever+with+you)
 * [PURPLE KISS — Intro : Save Me](https://www.last.fm/music/PURPLE+KISS/_/Intro+:+Save+Me)
 * [eaJ — sober go away](https://www.last.fm/music/eaJ/_/sober+go+away)
-* [DPR LIVE — Gravity](https://www.last.fm/music/DPR+LIVE/_/Gravity)
-* [DPR IAN — MITO](https://www.last.fm/music/DPR+IAN/_/MITO)<!-- LASTFM:END -->
+* [DPR LIVE — Gravity](https://www.last.fm/music/DPR+LIVE/_/Gravity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
