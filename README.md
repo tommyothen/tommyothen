@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Giuseppe Verdi — Rigoletto, act III: La donna è mobile](https://www.last.fm/music/Giuseppe+Verdi/_/Rigoletto,+act+III:+La+donna+%C3%A8+mobile)
+* [Giacomo Puccini — Turandot, SC 91, Act III: Nessun dorma!](https://www.last.fm/music/Giacomo+Puccini/_/Turandot,+SC+91,+Act+III:+Nessun+dorma!)
 * [Nine Inch Nails — Hurt](https://www.last.fm/music/Nine+Inch+Nails/_/Hurt)
 * [The Highwaymen — &lpar;Ghost&rpar; Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990](https://www.last.fm/music/The+Highwaymen/_/&lpar;Ghost&rpar;+Riders+in+the+Sky+-+Live+at+Nassau+Coliseum,+Uniondale,+NY+-+March+1990)
-* [Burial — Archangel](https://www.last.fm/music/Burial/_/Archangel)
-* [Lofi.Samurai — dearest](https://www.last.fm/music/Lofi.Samurai/_/dearest)
-* [Basement Jaxx — where’s my head at _](https://www.last.fm/music/Basement+Jaxx/_/where%E2%80%99s+my+head+at+_)<!-- LASTFM:END -->
+* [Burial — Archangel](https://www.last.fm/music/Burial/_/Archangel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
