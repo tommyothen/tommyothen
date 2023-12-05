@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nine Inch Nails — Hurt](https://www.last.fm/music/Nine+Inch+Nails/_/Hurt)
+* [The Highwaymen — &lpar;Ghost&rpar; Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990](https://www.last.fm/music/The+Highwaymen/_/&lpar;Ghost&rpar;+Riders+in+the+Sky+-+Live+at+Nassau+Coliseum,+Uniondale,+NY+-+March+1990)
 * [Burial — Archangel](https://www.last.fm/music/Burial/_/Archangel)
 * [Lofi.Samurai — dearest](https://www.last.fm/music/Lofi.Samurai/_/dearest)
-* [Basement Jaxx — where’s my head at _](https://www.last.fm/music/Basement+Jaxx/_/where%E2%80%99s+my+head+at+_)
-* [The Chats — Smoko](https://www.last.fm/music/The+Chats/_/Smoko)
-* [Lacross Club — Welsh Weather Heather](https://www.last.fm/music/Lacross+Club/_/Welsh+Weather+Heather)<!-- LASTFM:END -->
+* [Basement Jaxx — where’s my head at _](https://www.last.fm/music/Basement+Jaxx/_/where%E2%80%99s+my+head+at+_)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
