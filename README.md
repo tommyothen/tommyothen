@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Macabre Plaza — An Old Smile](https://www.last.fm/music/Macabre+Plaza/_/An+Old+Smile)
+* [Johannes Brahms — Hungarian Dance No. 5](https://www.last.fm/music/Johannes+Brahms/_/Hungarian+Dance+No.+5)
 * [Ellie Goulding — Starry Eyed](https://www.last.fm/music/Ellie+Goulding/_/Starry+Eyed)
 * [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
-* [Ellie Goulding — Starry Eyed](https://www.last.fm/music/Ellie+Goulding/_/Starry+Eyed)
-* [Alexander Scriabin — 5 Preludes, Op. 16: IV. Prelude No. 4 in E-Flat Minor: Lento](https://www.last.fm/music/Alexander+Scriabin/_/5+Preludes,+Op.+16:+IV.+Prelude+No.+4+in+E-Flat+Minor:+Lento)
-* [Frédéric Chopin — Fantasy-Impromptu in C-sharp minor, Op. 66](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasy-Impromptu+in+C-sharp+minor,+Op.+66)<!-- LASTFM:END -->
+* [Ellie Goulding — Starry Eyed](https://www.last.fm/music/Ellie+Goulding/_/Starry+Eyed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
