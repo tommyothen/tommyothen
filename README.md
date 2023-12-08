@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)
-* [Marmalade butcher — Floccinaucinihilipilification](https://www.last.fm/music/Marmalade+butcher/_/Floccinaucinihilipilification)
-* [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)
-* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
-* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)<!-- LASTFM:END -->
+* [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
+* [Kobaryo — Invisible Frenzy](https://www.last.fm/music/Kobaryo/_/Invisible+Frenzy)
+* [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)
+* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
