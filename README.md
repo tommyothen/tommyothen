@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
+* [Sleep Token — The Apparition](https://www.last.fm/music/Sleep+Token/_/The+Apparition)
 * [Mungo&#39;s Hi Fi — Jump Up Quickly](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Jump+Up+Quickly)
-* [Suburban — Go Go +](https://www.last.fm/music/Suburban/_/Go+Go+%252B)
-* [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)
-* [Red Velvet - IRENE &amp; SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&amp;+SEULGI/_/Naughty)
-* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)<!-- LASTFM:END -->
+* [Mungo&#39;s Hi Fi — Jump Up Quickly](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Jump+Up+Quickly)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
