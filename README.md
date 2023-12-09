@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kyary Pamyu Pamyu — PONPONPON](https://www.last.fm/music/Kyary+Pamyu+Pamyu/_/PONPONPON)
 * [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
 * [Frédéric Chopin — Nocturne No. 2 in E-flat major, Op. 9 No. 2](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Nocturne+No.+2+in+E-flat+major,+Op.+9+No.+2)
 * [Frédéric Chopin — Fantasy-Impromptu in C-sharp minor, Op. 66](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasy-Impromptu+in+C-sharp+minor,+Op.+66)
-* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
-* [Eden — crash](https://www.last.fm/music/Eden/_/crash)<!-- LASTFM:END -->
+* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
