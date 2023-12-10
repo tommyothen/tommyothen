@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
 * [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
-* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)
-* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)<!-- LASTFM:END -->
+* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
