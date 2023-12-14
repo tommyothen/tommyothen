@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
+* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
 * [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
 * [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
-* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)
-* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
-* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)<!-- LASTFM:END -->
+* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
