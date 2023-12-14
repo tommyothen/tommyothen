@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
+* [Phonon — polyriddim - Original Mix](https://www.last.fm/music/Phonon/_/polyriddim+-+Original+Mix)
 * [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)
 * [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
-* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)<!-- LASTFM:END -->
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
