@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
