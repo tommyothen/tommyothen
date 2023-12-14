@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
+* [Kobaryo — Invisible Frenzy](https://www.last.fm/music/Kobaryo/_/Invisible+Frenzy)
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
-* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)
-* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
-* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
-* [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)<!-- LASTFM:END -->
+* [Polyphia — Ego Death &lpar;feat. Steve Vai&rpar;](https://www.last.fm/music/Polyphia/_/Ego+Death+&lpar;feat.+Steve+Vai&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
