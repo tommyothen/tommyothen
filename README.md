@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
+* [meltycanon — brittle &lpar;wake up&rpar;](https://www.last.fm/music/meltycanon/_/brittle+&lpar;wake+up&rpar;)
 * [Rav — YOU FUCKERS WERE ASKING FOR THIS ONE](https://www.last.fm/music/Rav/_/YOU+FUCKERS+WERE+ASKING+FOR+THIS+ONE)
 * [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
-* [Banshee — FAIRY METAL](https://www.last.fm/music/Banshee/_/FAIRY+METAL)
-* [Jazmin Bean — Worldwide Torture](https://www.last.fm/music/Jazmin+Bean/_/Worldwide+Torture)
-* [Cassyette — Petrichor](https://www.last.fm/music/Cassyette/_/Petrichor)<!-- LASTFM:END -->
+* [Banshee — FAIRY METAL](https://www.last.fm/music/Banshee/_/FAIRY+METAL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
