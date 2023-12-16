@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charli XCX — pink diamond](https://www.last.fm/music/Charli+XCX/_/pink+diamond)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
 * [Buzzcocks — Ever Fallen in Love &lpar;With Someone You Shouldn&#39;t&#39;ve?&rpar; - 1996 Remastered Version](https://www.last.fm/music/Buzzcocks/_/Ever+Fallen+in+Love+&lpar;With+Someone+You+Shouldn%27t%27ve%3F&rpar;+-+1996+Remastered+Version)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)<!-- LASTFM:END -->
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
