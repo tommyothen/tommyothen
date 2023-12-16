@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rav — YOU FUCKERS WERE ASKING FOR THIS ONE](https://www.last.fm/music/Rav/_/YOU+FUCKERS+WERE+ASKING+FOR+THIS+ONE)
+* [khai dreams — Sunkissed](https://www.last.fm/music/khai+dreams/_/Sunkissed)
+* [Banshee — FAIRY METAL](https://www.last.fm/music/Banshee/_/FAIRY+METAL)
 * [Jazmin Bean — Worldwide Torture](https://www.last.fm/music/Jazmin+Bean/_/Worldwide+Torture)
-* [Cassyette — Petrichor](https://www.last.fm/music/Cassyette/_/Petrichor)
-* [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)
-* [Adonis — My Man Freestyle](https://www.last.fm/music/Adonis/_/My+Man+Freestyle)
-* [Drake — First Person Shooter &lpar;feat. J. Cole&rpar;](https://www.last.fm/music/Drake/_/First+Person+Shooter+&lpar;feat.+J.+Cole&rpar;)<!-- LASTFM:END -->
+* [Cassyette — Petrichor](https://www.last.fm/music/Cassyette/_/Petrichor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
