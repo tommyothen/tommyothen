@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Noisia — Mantra](https://www.last.fm/music/Noisia/_/Mantra)
 * [State Of Mind — Sunking](https://www.last.fm/music/State+Of+Mind/_/Sunking)
 * [Skindred — Nobody](https://www.last.fm/music/Skindred/_/Nobody)
 * [Portishead — Glory Box](https://www.last.fm/music/Portishead/_/Glory+Box)
-* [DJ Shadow — Organ Donor](https://www.last.fm/music/DJ+Shadow/_/Organ+Donor)
-* [Deftones — My Own Summer &lpar;Shove It&rpar;](https://www.last.fm/music/Deftones/_/My+Own+Summer+&lpar;Shove+It&rpar;)<!-- LASTFM:END -->
+* [DJ Shadow — Organ Donor](https://www.last.fm/music/DJ+Shadow/_/Organ+Donor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
