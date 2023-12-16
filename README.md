@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jazmin Bean — Worldwide Torture](https://www.last.fm/music/Jazmin+Bean/_/Worldwide+Torture)
+* [Cassyette — Petrichor](https://www.last.fm/music/Cassyette/_/Petrichor)
 * [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)
 * [Adonis — My Man Freestyle](https://www.last.fm/music/Adonis/_/My+Man+Freestyle)
-* [Drake — First Person Shooter &lpar;feat. J. Cole&rpar;](https://www.last.fm/music/Drake/_/First+Person+Shooter+&lpar;feat.+J.+Cole&rpar;)
-* [JID — Surround Sound &lpar;feat. 21 Savage &amp; Baby Tate&rpar;](https://www.last.fm/music/JID/_/Surround+Sound+&lpar;feat.+21+Savage+&amp;+Baby+Tate&rpar;)
-* [Imagine Dragons — Enemy &lpar;with JID&rpar; - from the series Arcane League of Legends](https://www.last.fm/music/Imagine+Dragons/_/Enemy+&lpar;with+JID&rpar;+-+from+the+series+Arcane+League+of+Legends)<!-- LASTFM:END -->
+* [Drake — First Person Shooter &lpar;feat. J. Cole&rpar;](https://www.last.fm/music/Drake/_/First+Person+Shooter+&lpar;feat.+J.+Cole&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
