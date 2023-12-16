@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kendrick Lamar — N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)
 * [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
 * [Dreamville — Under the Sun &lpar;with J. Cole &amp; Lute feat. DaBaby&rpar;](https://www.last.fm/music/Dreamville/_/Under+the+Sun+&lpar;with+J.+Cole+&amp;+Lute+feat.+DaBaby&rpar;)
 * [Skepta — Disguise](https://www.last.fm/music/Skepta/_/Disguise)
-* [Skepta — Castles](https://www.last.fm/music/Skepta/_/Castles)
-* [Skepta — I Spy](https://www.last.fm/music/Skepta/_/I+Spy)<!-- LASTFM:END -->
+* [Skepta — Castles](https://www.last.fm/music/Skepta/_/Castles)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
