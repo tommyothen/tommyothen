@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JID — Surround Sound &lpar;feat. 21 Savage &amp; Baby Tate&rpar;](https://www.last.fm/music/JID/_/Surround+Sound+&lpar;feat.+21+Savage+&amp;+Baby+Tate&rpar;)
 * [Imagine Dragons — Enemy &lpar;with JID&rpar; - from the series Arcane League of Legends](https://www.last.fm/music/Imagine+Dragons/_/Enemy+&lpar;with+JID&rpar;+-+from+the+series+Arcane+League+of+Legends)
 * [Sean Paul — Get Busy](https://www.last.fm/music/Sean+Paul/_/Get+Busy)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [galdive — Sorbet](https://www.last.fm/music/galdive/_/Sorbet)
-* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)<!-- LASTFM:END -->
+* [galdive — Sorbet](https://www.last.fm/music/galdive/_/Sorbet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
