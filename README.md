@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Imagine Dragons — Enemy &lpar;with JID&rpar; - from the series Arcane League of Legends](https://www.last.fm/music/Imagine+Dragons/_/Enemy+&lpar;with+JID&rpar;+-+from+the+series+Arcane+League+of+Legends)
+* [Sean Paul — Get Busy](https://www.last.fm/music/Sean+Paul/_/Get+Busy)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [galdive — Sorbet](https://www.last.fm/music/galdive/_/Sorbet)
-* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)
-* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Charli XCX — pink diamond](https://www.last.fm/music/Charli+XCX/_/pink+diamond)<!-- LASTFM:END -->
+* [nohidea — defeated](https://www.last.fm/music/nohidea/_/defeated)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
