@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Azealia Banks — 1991](https://www.last.fm/music/Azealia+Banks/_/1991)
 * [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
 * [Noisia — Dead Limit](https://www.last.fm/music/Noisia/_/Dead+Limit)
 * [Noisia — Mantra](https://www.last.fm/music/Noisia/_/Mantra)
-* [State Of Mind — Sunking](https://www.last.fm/music/State+Of+Mind/_/Sunking)
-* [Skindred — Nobody](https://www.last.fm/music/Skindred/_/Nobody)<!-- LASTFM:END -->
+* [State Of Mind — Sunking](https://www.last.fm/music/State+Of+Mind/_/Sunking)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
