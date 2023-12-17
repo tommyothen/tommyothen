@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Circles](https://www.last.fm/music/Eden/_/Circles)
+* [Coolio — County Line](https://www.last.fm/music/Coolio/_/County+Line)
 * [Ice Cube — What They Hittin&#39; Foe?](https://www.last.fm/music/Ice+Cube/_/What+They+Hittin%27+Foe%3F)
 * [Kendrick Lamar — Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)
-* [Ice Cube — No Vaseline](https://www.last.fm/music/Ice+Cube/_/No+Vaseline)
-* [David Bowie — Starman - 2012 Remaster](https://www.last.fm/music/David+Bowie/_/Starman+-+2012+Remaster)
-* [Elton John — I&#39;m Still Standing](https://www.last.fm/music/Elton+John/_/I%27m+Still+Standing)<!-- LASTFM:END -->
+* [Ice Cube — No Vaseline](https://www.last.fm/music/Ice+Cube/_/No+Vaseline)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
