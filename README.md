@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gwen Stefani — Hollaback Girl](https://www.last.fm/music/Gwen+Stefani/_/Hollaback+Girl)
+* [Metro Station — Shake It](https://www.last.fm/music/Metro+Station/_/Shake+It)
 * [Owl City — Fireflies](https://www.last.fm/music/Owl+City/_/Fireflies)
 * [Electric Six — Danger! High Voltage - Soulchild Radio Mix](https://www.last.fm/music/Electric+Six/_/Danger!+High+Voltage+-+Soulchild+Radio+Mix)
-* [Lady Gaga — Applause](https://www.last.fm/music/Lady+Gaga/_/Applause)
-* [Lady Gaga — Bad Romance](https://www.last.fm/music/Lady+Gaga/_/Bad+Romance)
-* [Britney Spears — Toxic](https://www.last.fm/music/Britney+Spears/_/Toxic)<!-- LASTFM:END -->
+* [Lady Gaga — Applause](https://www.last.fm/music/Lady+Gaga/_/Applause)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
