@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ice Cube — What They Hittin&#39; Foe?](https://www.last.fm/music/Ice+Cube/_/What+They+Hittin%27+Foe%3F)
+* [Kendrick Lamar — Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)
+* [Ice Cube — No Vaseline](https://www.last.fm/music/Ice+Cube/_/No+Vaseline)
 * [David Bowie — Starman - 2012 Remaster](https://www.last.fm/music/David+Bowie/_/Starman+-+2012+Remaster)
-* [Elton John — I&#39;m Still Standing](https://www.last.fm/music/Elton+John/_/I%27m+Still+Standing)
-* [Elton John — Step Into Christmas - Remastered 1995](https://www.last.fm/music/Elton+John/_/Step+Into+Christmas+-+Remastered+1995)
-* [Stray Kids — Christmas EveL](https://www.last.fm/music/Stray+Kids/_/Christmas+EveL)
-* [The Pogues — Fairytale of New York &lpar;feat. Kirsty MacColl&rpar;](https://www.last.fm/music/The+Pogues/_/Fairytale+of+New+York+&lpar;feat.+Kirsty+MacColl&rpar;)<!-- LASTFM:END -->
+* [Elton John — I&#39;m Still Standing](https://www.last.fm/music/Elton+John/_/I%27m+Still+Standing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
