@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Pogues — Fairytale of New York &lpar;feat. Kirsty MacColl&rpar;](https://www.last.fm/music/The+Pogues/_/Fairytale+of+New+York+&lpar;feat.+Kirsty+MacColl&rpar;)
 * [Modjo — Lady &lpar;Hear Me Tonight&rpar;](https://www.last.fm/music/Modjo/_/Lady+&lpar;Hear+Me+Tonight&rpar;)
 * [Madonna — Hung Up](https://www.last.fm/music/Madonna/_/Hung+Up)
 * [Toploader — Dancing in the Moonlight](https://www.last.fm/music/Toploader/_/Dancing+in+the+Moonlight)
-* [Walk the Moon — Shut Up and Dance](https://www.last.fm/music/Walk+the+Moon/_/Shut+Up+and+Dance)
-* [Olly Murs — Troublemaker &lpar;feat. Flo Rida&rpar;](https://www.last.fm/music/Olly+Murs/_/Troublemaker+&lpar;feat.+Flo+Rida&rpar;)<!-- LASTFM:END -->
+* [Walk the Moon — Shut Up and Dance](https://www.last.fm/music/Walk+the+Moon/_/Shut+Up+and+Dance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
