@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [David Bowie — Starman - 2012 Remaster](https://www.last.fm/music/David+Bowie/_/Starman+-+2012+Remaster)
 * [Elton John — I&#39;m Still Standing](https://www.last.fm/music/Elton+John/_/I%27m+Still+Standing)
 * [Elton John — Step Into Christmas - Remastered 1995](https://www.last.fm/music/Elton+John/_/Step+Into+Christmas+-+Remastered+1995)
 * [Stray Kids — Christmas EveL](https://www.last.fm/music/Stray+Kids/_/Christmas+EveL)
-* [The Pogues — Fairytale of New York &lpar;feat. Kirsty MacColl&rpar;](https://www.last.fm/music/The+Pogues/_/Fairytale+of+New+York+&lpar;feat.+Kirsty+MacColl&rpar;)
-* [Modjo — Lady &lpar;Hear Me Tonight&rpar;](https://www.last.fm/music/Modjo/_/Lady+&lpar;Hear+Me+Tonight&rpar;)<!-- LASTFM:END -->
+* [The Pogues — Fairytale of New York &lpar;feat. Kirsty MacColl&rpar;](https://www.last.fm/music/The+Pogues/_/Fairytale+of+New+York+&lpar;feat.+Kirsty+MacColl&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
