@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Walk the Moon — Shut Up and Dance](https://www.last.fm/music/Walk+the+Moon/_/Shut+Up+and+Dance)
+* [Olly Murs — Troublemaker &lpar;feat. Flo Rida&rpar;](https://www.last.fm/music/Olly+Murs/_/Troublemaker+&lpar;feat.+Flo+Rida&rpar;)
+* [Gym Class Heroes — Stereo Hearts &lpar;feat. Adam Levine&rpar;](https://www.last.fm/music/Gym+Class+Heroes/_/Stereo+Hearts+&lpar;feat.+Adam+Levine&rpar;)
 * [Gwen Stefani — Hollaback Girl](https://www.last.fm/music/Gwen+Stefani/_/Hollaback+Girl)
-* [Metro Station — Shake It](https://www.last.fm/music/Metro+Station/_/Shake+It)
-* [Owl City — Fireflies](https://www.last.fm/music/Owl+City/_/Fireflies)
-* [Electric Six — Danger! High Voltage - Soulchild Radio Mix](https://www.last.fm/music/Electric+Six/_/Danger!+High+Voltage+-+Soulchild+Radio+Mix)
-* [Lady Gaga — Applause](https://www.last.fm/music/Lady+Gaga/_/Applause)<!-- LASTFM:END -->
+* [Metro Station — Shake It](https://www.last.fm/music/Metro+Station/_/Shake+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
