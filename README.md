@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Geoxor — Abandoned](https://www.last.fm/music/Geoxor/_/Abandoned)
 * [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
 * [Eden — Circles](https://www.last.fm/music/Eden/_/Circles)
 * [Coolio — County Line](https://www.last.fm/music/Coolio/_/County+Line)
-* [Ice Cube — What They Hittin&#39; Foe?](https://www.last.fm/music/Ice+Cube/_/What+They+Hittin%27+Foe%3F)
-* [Kendrick Lamar — Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)<!-- LASTFM:END -->
+* [Ice Cube — What They Hittin&#39; Foe?](https://www.last.fm/music/Ice+Cube/_/What+They+Hittin%27+Foe%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
