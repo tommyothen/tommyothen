@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
 * [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
-* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)<!-- LASTFM:END -->
+* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
