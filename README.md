@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)
+* [Joey Trap — I Got Top In Bikini Bottom](https://www.last.fm/music/Joey+Trap/_/I+Got+Top+In+Bikini+Bottom)
+* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
 * [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
-* [Geoxor — Abandoned](https://www.last.fm/music/Geoxor/_/Abandoned)
-* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
-* [Eden — Circles](https://www.last.fm/music/Eden/_/Circles)
-* [Coolio — County Line](https://www.last.fm/music/Coolio/_/County+Line)<!-- LASTFM:END -->
+* [Geoxor — Abandoned](https://www.last.fm/music/Geoxor/_/Abandoned)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
