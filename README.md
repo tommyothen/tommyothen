@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glocca Morra — railing](https://www.last.fm/music/Glocca+Morra/_/railing)
 * [Into It. Over It. — Heartificial](https://www.last.fm/music/Into+It.+Over+It./_/Heartificial)
 * [Joyce Manor — NBTSA](https://www.last.fm/music/Joyce+Manor/_/NBTSA)
 * [Joyce Manor — Catalina Fight Song](https://www.last.fm/music/Joyce+Manor/_/Catalina+Fight+Song)
-* [The Smiths — Frankly, Mr. Shankly - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Frankly,+Mr.+Shankly+-+2011+Remaster)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)<!-- LASTFM:END -->
+* [The Smiths — Frankly, Mr. Shankly - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Frankly,+Mr.+Shankly+-+2011+Remaster)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
