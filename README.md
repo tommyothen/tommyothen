@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
 * [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [Kanaria — Rendezvous](https://www.last.fm/music/Kanaria/_/Rendezvous)
-* [Lumi Athena — SMOKE IT OFF!](https://www.last.fm/music/Lumi+Athena/_/SMOKE+IT+OFF!)
-* [Katya Lel — Мой мармеладный &lpar;Speed Up&rpar;](https://www.last.fm/music/Katya+Lel/_/%D0%9C%D0%BE%D0%B9+%D0%BC%D0%B0%D1%80%D0%BC%D0%B5%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9+&lpar;Speed+Up&rpar;)
-* [Vundabar — Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues)<!-- LASTFM:END -->
+* [Kanaria — Rendezvous](https://www.last.fm/music/Kanaria/_/Rendezvous)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
