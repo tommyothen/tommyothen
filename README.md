@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vertigoaway — MAGI Alert](https://www.last.fm/music/Vertigoaway/_/MAGI+Alert)
+* [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)
 * [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [TOKYOPILL — ONLINE INDUCED HIGH](https://www.last.fm/music/TOKYOPILL/_/ONLINE+INDUCED+HIGH)
-* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
-* [Jupiluxe — JetSetGo](https://www.last.fm/music/Jupiluxe/_/JetSetGo)
-* [GNB CHILI — Failan](https://www.last.fm/music/GNB+CHILI/_/Failan)<!-- LASTFM:END -->
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
+* [TOKYOPILL — ONLINE INDUCED HIGH](https://www.last.fm/music/TOKYOPILL/_/ONLINE+INDUCED+HIGH)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
