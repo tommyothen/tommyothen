@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Vundabar — Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues)
-* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
-* [KENTENSHI — paranoia](https://www.last.fm/music/KENTENSHI/_/paranoia)
-* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
-* [jon-YAKITORY — Muchinnchi](https://www.last.fm/music/jon-YAKITORY/_/Muchinnchi)<!-- LASTFM:END -->
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
+* [Kanaria — Rendezvous](https://www.last.fm/music/Kanaria/_/Rendezvous)
+* [Lumi Athena — SMOKE IT OFF!](https://www.last.fm/music/Lumi+Athena/_/SMOKE+IT+OFF!)
+* [Katya Lel — Мой мармеладный &lpar;Speed Up&rpar;](https://www.last.fm/music/Katya+Lel/_/%D0%9C%D0%BE%D0%B9+%D0%BC%D0%B0%D1%80%D0%BC%D0%B5%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9+&lpar;Speed+Up&rpar;)
+* [Vundabar — Alien Blues](https://www.last.fm/music/Vundabar/_/Alien+Blues)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
