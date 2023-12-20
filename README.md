@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GNB CHILI — Failan](https://www.last.fm/music/GNB+CHILI/_/Failan)
-* [Pisca — ULTRAVIOLENCE](https://www.last.fm/music/Pisca/_/ULTRAVIOLENCE)
-* [TOKYOPILL — WISH](https://www.last.fm/music/TOKYOPILL/_/WISH)
-* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)<!-- LASTFM:END -->
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
+* [TOKYOPILL — ONLINE INDUCED HIGH](https://www.last.fm/music/TOKYOPILL/_/ONLINE+INDUCED+HIGH)
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
+* [Jupiluxe — JetSetGo](https://www.last.fm/music/Jupiluxe/_/JetSetGo)
+* [GNB CHILI — Failan](https://www.last.fm/music/GNB+CHILI/_/Failan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
