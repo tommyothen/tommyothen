@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)
 * [Vertigoaway — MAGI Alert](https://www.last.fm/music/Vertigoaway/_/MAGI+Alert)
 * [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)
 * [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [TOKYOPILL — ONLINE INDUCED HIGH](https://www.last.fm/music/TOKYOPILL/_/ONLINE+INDUCED+HIGH)<!-- LASTFM:END -->
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
