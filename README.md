@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
 * [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
 * [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
-* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)<!-- LASTFM:END -->
+* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
