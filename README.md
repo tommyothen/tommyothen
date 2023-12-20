@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Siinamota — Young Girl A](https://www.last.fm/music/Siinamota/_/Young+Girl+A)
-* [JME — Test Me](https://www.last.fm/music/JME/_/Test+Me)
-* [JME — Man Don&#39;t Care](https://www.last.fm/music/JME/_/Man+Don%27t+Care)
-* [Blaze U — Walk Tha Plank](https://www.last.fm/music/Blaze+U/_/Walk+Tha+Plank)
-* [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)<!-- LASTFM:END -->
+* [KENTENSHI — paranoia](https://www.last.fm/music/KENTENSHI/_/paranoia)
+* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
+* [jon-YAKITORY — Muchinnchi](https://www.last.fm/music/jon-YAKITORY/_/Muchinnchi)
+* [BABYMETAL — Head Bangeeeeerrrrr!!!!!](https://www.last.fm/music/BABYMETAL/_/Head+Bangeeeeerrrrr!!!!!)
+* [Siinamota — Young Girl A](https://www.last.fm/music/Siinamota/_/Young+Girl+A)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
