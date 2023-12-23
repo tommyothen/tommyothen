@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
 * [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
 * [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
-* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
-* [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)<!-- LASTFM:END -->
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
