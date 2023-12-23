@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kendrick Lamar — King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)
 * [Electric Callboy — Everytime We Touch - TEKKNO Version](https://www.last.fm/music/Electric+Callboy/_/Everytime+We+Touch+-+TEKKNO+Version)
 * [Vengaboys — Boom, Boom, Boom, Boom!!](https://www.last.fm/music/Vengaboys/_/Boom,+Boom,+Boom,+Boom!!)
 * [Hot Mulligan — Dary](https://www.last.fm/music/Hot+Mulligan/_/Dary)
-* [Modern Baseball — Hours Outside in the Snow](https://www.last.fm/music/Modern+Baseball/_/Hours+Outside+in+the+Snow)
-* [Vengaboys — We Like to Party! &lpar;The Vengabus&rpar;](https://www.last.fm/music/Vengaboys/_/We+Like+to+Party!+&lpar;The+Vengabus&rpar;)<!-- LASTFM:END -->
+* [Modern Baseball — Hours Outside in the Snow](https://www.last.fm/music/Modern+Baseball/_/Hours+Outside+in+the+Snow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
