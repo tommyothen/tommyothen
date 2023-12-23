@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bladee — Girls just want to have fun](https://www.last.fm/music/Bladee/_/Girls+just+want+to+have+fun)
+* [Bladee — Girls just want to have fun](https://www.last.fm/music/Bladee/_/Girls+just+want+to+have+fun)
 * [Hot Mulligan — Drink Milk and Run](https://www.last.fm/music/Hot+Mulligan/_/Drink+Milk+and+Run)
 * [Bladee — Be Nice 2 Me](https://www.last.fm/music/Bladee/_/Be+Nice+2+Me)
-* [Britney Spears — Toxic](https://www.last.fm/music/Britney+Spears/_/Toxic)
-* [oso oso — gb/ol h/nf](https://www.last.fm/music/oso+oso/_/gb%2Fol+h%2Fnf)
-* [Gwen Stefani — Hollaback Girl](https://www.last.fm/music/Gwen+Stefani/_/Hollaback+Girl)<!-- LASTFM:END -->
+* [Britney Spears — Toxic](https://www.last.fm/music/Britney+Spears/_/Toxic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
