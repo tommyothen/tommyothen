@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Electric Callboy — Everytime We Touch - TEKKNO Version](https://www.last.fm/music/Electric+Callboy/_/Everytime+We+Touch+-+TEKKNO+Version)
+* [Vengaboys — Boom, Boom, Boom, Boom!!](https://www.last.fm/music/Vengaboys/_/Boom,+Boom,+Boom,+Boom!!)
+* [Hot Mulligan — Dary](https://www.last.fm/music/Hot+Mulligan/_/Dary)
 * [Modern Baseball — Hours Outside in the Snow](https://www.last.fm/music/Modern+Baseball/_/Hours+Outside+in+the+Snow)
-* [Vengaboys — We Like to Party! &lpar;The Vengabus&rpar;](https://www.last.fm/music/Vengaboys/_/We+Like+to+Party!+&lpar;The+Vengabus&rpar;)
-* [Bladee — Girls just want to have fun](https://www.last.fm/music/Bladee/_/Girls+just+want+to+have+fun)
-* [Bladee — Girls just want to have fun](https://www.last.fm/music/Bladee/_/Girls+just+want+to+have+fun)
-* [Hot Mulligan — Drink Milk and Run](https://www.last.fm/music/Hot+Mulligan/_/Drink+Milk+and+Run)<!-- LASTFM:END -->
+* [Vengaboys — We Like to Party! &lpar;The Vengabus&rpar;](https://www.last.fm/music/Vengaboys/_/We+Like+to+Party!+&lpar;The+Vengabus&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
