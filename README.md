@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
+* [Frédéric Chopin — Fantasy-Impromptu in C-sharp minor, Op. 66](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasy-Impromptu+in+C-sharp+minor,+Op.+66)
 * [Eden — forever//over](https://www.last.fm/music/Eden/_/forever%2F%2Fover)
 * [Eden — gold](https://www.last.fm/music/Eden/_/gold)
-* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)
-* [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
-* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)<!-- LASTFM:END -->
+* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
