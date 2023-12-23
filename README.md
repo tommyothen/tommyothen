@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
+* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
 * [Eden — 909](https://www.last.fm/music/Eden/_/909)
 * [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
-* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
-* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)
-* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)<!-- LASTFM:END -->
+* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
