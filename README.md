@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
+* [Eden — Interlude](https://www.last.fm/music/Eden/_/Interlude)
 * [Eden — 2:09](https://www.last.fm/music/Eden/_/2:09)
 * [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
-* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
-* [Eden — 909](https://www.last.fm/music/Eden/_/909)
-* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)<!-- LASTFM:END -->
+* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
