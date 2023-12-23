@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [oso oso — gb/ol h/nf](https://www.last.fm/music/oso+oso/_/gb%2Fol+h%2Fnf)
 * [Gwen Stefani — Hollaback Girl](https://www.last.fm/music/Gwen+Stefani/_/Hollaback+Girl)
 * [Panic! at the Disco — I Write Sins Not Tragedies](https://www.last.fm/music/Panic!+at+the+Disco/_/I+Write+Sins+Not+Tragedies)
 * [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
-* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [Frédéric Chopin — Fantasy-Impromptu in C-sharp minor, Op. 66](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasy-Impromptu+in+C-sharp+minor,+Op.+66)<!-- LASTFM:END -->
+* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
