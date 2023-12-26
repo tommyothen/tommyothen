@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Laura Shigihara — Loonboon](https://www.last.fm/music/Laura+Shigihara/_/Loonboon)
+* [Spongebob Squarepants — Ripped Pants](https://www.last.fm/music/Spongebob+Squarepants/_/Ripped+Pants)
 * [Spongebob Squarepants — Ripped Pants](https://www.last.fm/music/Spongebob+Squarepants/_/Ripped+Pants)
 * [Lacross Club — Welsh Weather Heather](https://www.last.fm/music/Lacross+Club/_/Welsh+Weather+Heather)
-* [MF DOOM — Rapp Snitch Knishes feat. Mr. Fantastik](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes+feat.+Mr.+Fantastik)
-* [Algernon Cadwallader — Horror](https://www.last.fm/music/Algernon+Cadwallader/_/Horror)
-* [Cap&#39;n Jazz — Winter Wonderland](https://www.last.fm/music/Cap%27n+Jazz/_/Winter+Wonderland)<!-- LASTFM:END -->
+* [MF DOOM — Rapp Snitch Knishes feat. Mr. Fantastik](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes+feat.+Mr.+Fantastik)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
