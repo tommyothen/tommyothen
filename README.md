@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ghostemane — 1000 Rounds](https://www.last.fm/music/Ghostemane/_/1000+Rounds)
+* [Moe Shop — Superstar](https://www.last.fm/music/Moe+Shop/_/Superstar)
 * [Marvin Divine — Back Again](https://www.last.fm/music/Marvin+Divine/_/Back+Again)
 * [Colliding With Mars — my mom doesn&#39;t believe in me](https://www.last.fm/music/Colliding+With+Mars/_/my+mom+doesn%27t+believe+in+me)
-* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
-* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
-* [CVLTE — Happy. &lpar;feat. 釈迦坊主&rpar;](https://www.last.fm/music/CVLTE/_/Happy.+&lpar;feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB&rpar;)<!-- LASTFM:END -->
+* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
