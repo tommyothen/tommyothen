@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
+* [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)
 * [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
 * [ROSHIMA — Too Much Yello](https://www.last.fm/music/ROSHIMA/_/Too+Much+Yello)
-* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
-* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
-* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)<!-- LASTFM:END -->
+* [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
