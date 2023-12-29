@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [slushii — Through the Night](https://www.last.fm/music/slushii/_/Through+the+Night)
+* [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)
 * [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
 * [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
-* [Autograf — Simple &lpar;feat. Victoria Zaro&rpar;](https://www.last.fm/music/Autograf/_/Simple+&lpar;feat.+Victoria+Zaro&rpar;)
-* [Autograf — Simple &lpar;feat. Victoria Zaro&rpar;](https://www.last.fm/music/Autograf/_/Simple+&lpar;feat.+Victoria+Zaro&rpar;)
-* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)<!-- LASTFM:END -->
+* [Autograf — Simple &lpar;feat. Victoria Zaro&rpar;](https://www.last.fm/music/Autograf/_/Simple+&lpar;feat.+Victoria+Zaro&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
