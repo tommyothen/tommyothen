@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Demons &lpar;Lunice Remix&rpar;](https://www.last.fm/music/Joji/_/Demons+&lpar;Lunice+Remix&rpar;)
+* [Kloud — In for the Kill](https://www.last.fm/music/Kloud/_/In+for+the+Kill)
 * [Dreamville — Under the Sun &lpar;with J. Cole &amp; Lute feat. DaBaby&rpar;](https://www.last.fm/music/Dreamville/_/Under+the+Sun+&lpar;with+J.+Cole+&amp;+Lute+feat.+DaBaby&rpar;)
 * [Knapsack — Matrix](https://www.last.fm/music/Knapsack/_/Matrix)
-* [Andrew Huang — Summertime Feeling](https://www.last.fm/music/Andrew+Huang/_/Summertime+Feeling)
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [XXXTENTACION — the remedy for a broken heart &lpar;why am i so in love&rpar;](https://www.last.fm/music/XXXTENTACION/_/the+remedy+for+a+broken+heart+&lpar;why+am+i+so+in+love&rpar;)<!-- LASTFM:END -->
+* [Andrew Huang — Summertime Feeling](https://www.last.fm/music/Andrew+Huang/_/Summertime+Feeling)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
