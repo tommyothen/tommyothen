@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dreamville — Under the Sun &lpar;with J. Cole &amp; Lute feat. DaBaby&rpar;](https://www.last.fm/music/Dreamville/_/Under+the+Sun+&lpar;with+J.+Cole+&amp;+Lute+feat.+DaBaby&rpar;)
+* [Knapsack — Matrix](https://www.last.fm/music/Knapsack/_/Matrix)
 * [Andrew Huang — Summertime Feeling](https://www.last.fm/music/Andrew+Huang/_/Summertime+Feeling)
 * [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [XXXTENTACION — the remedy for a broken heart &lpar;why am i so in love&rpar;](https://www.last.fm/music/XXXTENTACION/_/the+remedy+for+a+broken+heart+&lpar;why+am+i+so+in+love&rpar;)
-* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
-* [Just A Gent — Phenomenon](https://www.last.fm/music/Just+A+Gent/_/Phenomenon)<!-- LASTFM:END -->
+* [XXXTENTACION — the remedy for a broken heart &lpar;why am i so in love&rpar;](https://www.last.fm/music/XXXTENTACION/_/the+remedy+for+a+broken+heart+&lpar;why+am+i+so+in+love&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
