@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ludwig Ahgren — Baby, It&#39;s Cold Outside](https://www.last.fm/music/Ludwig+Ahgren/_/Baby,+It%27s+Cold+Outside)
 * [Porter Robinson — Polygon Dust](https://www.last.fm/music/Porter+Robinson/_/Polygon+Dust)
 * [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
 * [Joji — Demons &lpar;Lunice Remix&rpar;](https://www.last.fm/music/Joji/_/Demons+&lpar;Lunice+Remix&rpar;)
-* [Kloud — In for the Kill](https://www.last.fm/music/Kloud/_/In+for+the+Kill)
-* [Dreamville — Under the Sun &lpar;with J. Cole &amp; Lute feat. DaBaby&rpar;](https://www.last.fm/music/Dreamville/_/Under+the+Sun+&lpar;with+J.+Cole+&amp;+Lute+feat.+DaBaby&rpar;)<!-- LASTFM:END -->
+* [Kloud — In for the Kill](https://www.last.fm/music/Kloud/_/In+for+the+Kill)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
