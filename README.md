@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
+* [Justin Hawkes — Better Than Gold](https://www.last.fm/music/Justin+Hawkes/_/Better+Than+Gold)
 * [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
 * [Cybertrash — hang tight](https://www.last.fm/music/Cybertrash/_/hang+tight)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)
-* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)<!-- LASTFM:END -->
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
