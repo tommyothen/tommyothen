@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)
-* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)
-* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)<!-- LASTFM:END -->
+* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
