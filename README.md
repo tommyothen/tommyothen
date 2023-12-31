@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
 * [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
-* [DAOKO — 打上花火](https://www.last.fm/music/DAOKO/_/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB)
-* [Freddie Dredd — Oh Darling &lpar;feat. Soudiere&rpar;](https://www.last.fm/music/Freddie+Dredd/_/Oh+Darling+&lpar;feat.+Soudiere&rpar;)
-* [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)<!-- LASTFM:END -->
+* [DAOKO — 打上花火](https://www.last.fm/music/DAOKO/_/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
