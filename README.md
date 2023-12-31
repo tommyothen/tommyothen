@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
-* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
-* [City Girl — Endless and Artificial](https://www.last.fm/music/City+Girl/_/Endless+and+Artificial)
-* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
-* [Porter Robinson — Divinity](https://www.last.fm/music/Porter+Robinson/_/Divinity)<!-- LASTFM:END -->
+* [FEDUK — Делай, Что Хочешь](https://www.last.fm/music/FEDUK/_/%D0%94%D0%B5%D0%BB%D0%B0%D0%B9,+%D0%A7%D1%82%D0%BE+%D0%A5%D0%BE%D1%87%D0%B5%D1%88%D1%8C)
+* [sleepdealer — Ocean](https://www.last.fm/music/sleepdealer/_/Ocean)
+* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
+* [Phinehas — In the Night](https://www.last.fm/music/Phinehas/_/In+the+Night)
+* [Rav — Lovedrug &lpar;Off That&rpar;](https://www.last.fm/music/Rav/_/Lovedrug+&lpar;Off+That&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
