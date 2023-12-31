@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kano — 3 Wheel-ups &lpar;feat. Wiley &amp; Giggs&rpar;](https://www.last.fm/music/Kano/_/3+Wheel-ups+&lpar;feat.+Wiley+&amp;+Giggs&rpar;)
 * [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
 * [Labrinth — Earthquake &lpar;feat. Tinie Tempah&rpar;](https://www.last.fm/music/Labrinth/_/Earthquake+&lpar;feat.+Tinie+Tempah&rpar;)
 * [Tinie Tempah — Pass Out](https://www.last.fm/music/Tinie+Tempah/_/Pass+Out)
-* [Knife Party — Internet Friends](https://www.last.fm/music/Knife+Party/_/Internet+Friends)
-* [Nero — Promises](https://www.last.fm/music/Nero/_/Promises)<!-- LASTFM:END -->
+* [Knife Party — Internet Friends](https://www.last.fm/music/Knife+Party/_/Internet+Friends)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
