@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [FEDUK — Не одно и тоже](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B5+%D0%BE%D0%B4%D0%BD%D0%BE+%D0%B8+%D1%82%D0%BE%D0%B6%D0%B5)
-* [Quadeca — Uh Huh!](https://www.last.fm/music/Quadeca/_/Uh+Huh!)
-* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [Zomboy — Battlefields](https://www.last.fm/music/Zomboy/_/Battlefields)
-* [Unlike Pluto — Revenge, And a Little More](https://www.last.fm/music/Unlike+Pluto/_/Revenge,+And+a+Little+More)<!-- LASTFM:END -->
+* [Yinyo — Hard Hitter](https://www.last.fm/music/Yinyo/_/Hard+Hitter)
+* [BROCKBEATS — magic smoke](https://www.last.fm/music/BROCKBEATS/_/magic+smoke)
+* [Haywyre — Insight](https://www.last.fm/music/Haywyre/_/Insight)
+* [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
+* [HENTAI DUDE — Tokyo Chopp](https://www.last.fm/music/HENTAI+DUDE/_/Tokyo+Chopp)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
