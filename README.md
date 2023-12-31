@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Marmalade butcher — Floccinaucinihilipilification](https://www.last.fm/music/Marmalade+butcher/_/Floccinaucinihilipilification)
+* [Wonder Girls — Tell Me](https://www.last.fm/music/Wonder+Girls/_/Tell+Me)
 * [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
 * [Sim — The Rumbling](https://www.last.fm/music/Sim/_/The+Rumbling)
-* [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)
-* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
-* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)<!-- LASTFM:END -->
+* [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
