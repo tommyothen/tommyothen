@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)
 * [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
 * [Yung Bambi — craving](https://www.last.fm/music/Yung+Bambi/_/craving)
 * [Shawn Wasabi — MARBLE TEA](https://www.last.fm/music/Shawn+Wasabi/_/MARBLE+TEA)
-* [Riot — Overkill](https://www.last.fm/music/Riot/_/Overkill)
-* [bbno$ — zoom](https://www.last.fm/music/bbno$/_/zoom)<!-- LASTFM:END -->
+* [Riot — Overkill](https://www.last.fm/music/Riot/_/Overkill)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
