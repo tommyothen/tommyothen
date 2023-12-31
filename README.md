@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — zoom](https://www.last.fm/music/bbno$/_/zoom)
-* [iAmJakeHill — Sempiternal](https://www.last.fm/music/iAmJakeHill/_/Sempiternal)
-* [Rich Brian — 100 Degrees](https://www.last.fm/music/Rich+Brian/_/100+Degrees)
-* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
-* [FEDUK — Делай, Что Хочешь](https://www.last.fm/music/FEDUK/_/%D0%94%D0%B5%D0%BB%D0%B0%D0%B9,+%D0%A7%D1%82%D0%BE+%D0%A5%D0%BE%D1%87%D0%B5%D1%88%D1%8C)<!-- LASTFM:END -->
+* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
+* [Yung Bambi — craving](https://www.last.fm/music/Yung+Bambi/_/craving)
+* [Shawn Wasabi — MARBLE TEA](https://www.last.fm/music/Shawn+Wasabi/_/MARBLE+TEA)
+* [Riot — Overkill](https://www.last.fm/music/Riot/_/Overkill)
+* [bbno$ — zoom](https://www.last.fm/music/bbno$/_/zoom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
