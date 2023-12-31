@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
+* [Labrinth — Earthquake &lpar;feat. Tinie Tempah&rpar;](https://www.last.fm/music/Labrinth/_/Earthquake+&lpar;feat.+Tinie+Tempah&rpar;)
 * [Tinie Tempah — Pass Out](https://www.last.fm/music/Tinie+Tempah/_/Pass+Out)
 * [Knife Party — Internet Friends](https://www.last.fm/music/Knife+Party/_/Internet+Friends)
-* [Nero — Promises](https://www.last.fm/music/Nero/_/Promises)
-* [Pendulum — Slam](https://www.last.fm/music/Pendulum/_/Slam)
-* [Pendulum — Mercy Killing](https://www.last.fm/music/Pendulum/_/Mercy+Killing)<!-- LASTFM:END -->
+* [Nero — Promises](https://www.last.fm/music/Nero/_/Promises)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
