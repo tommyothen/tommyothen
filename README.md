@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nero — Promises](https://www.last.fm/music/Nero/_/Promises)
 * [Pendulum — Slam](https://www.last.fm/music/Pendulum/_/Slam)
 * [Pendulum — Mercy Killing](https://www.last.fm/music/Pendulum/_/Mercy+Killing)
 * [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
-* [Justin Hawkes — Better Than Gold](https://www.last.fm/music/Justin+Hawkes/_/Better+Than+Gold)
-* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)<!-- LASTFM:END -->
+* [Justin Hawkes — Better Than Gold](https://www.last.fm/music/Justin+Hawkes/_/Better+Than+Gold)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
