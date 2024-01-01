@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
 * [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
 * [Rancid — Maxwell Murder](https://www.last.fm/music/Rancid/_/Maxwell+Murder)
 * [Rancid — Roots Radical](https://www.last.fm/music/Rancid/_/Roots+Radical)
-* [Rancid — Maxwell Murder](https://www.last.fm/music/Rancid/_/Maxwell+Murder)
-* [Goldfinger — Superman](https://www.last.fm/music/Goldfinger/_/Superman)<!-- LASTFM:END -->
+* [Rancid — Maxwell Murder](https://www.last.fm/music/Rancid/_/Maxwell+Murder)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
