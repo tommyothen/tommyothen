@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
 * [Enter Shikari — The Void Stares Back](https://www.last.fm/music/Enter+Shikari/_/The+Void+Stares+Back)
 * [Enter Shikari — Zzzonked](https://www.last.fm/music/Enter+Shikari/_/Zzzonked)
 * [Enter Shikari — Sorry You&#39;re Not a Winner](https://www.last.fm/music/Enter+Shikari/_/Sorry+You%27re+Not+a+Winner)
-* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
-* [cassö — Prada](https://www.last.fm/music/cass%C3%B6/_/Prada)<!-- LASTFM:END -->
+* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
