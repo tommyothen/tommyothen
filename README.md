@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)
 * [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
 * [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
 * [Rancid — Maxwell Murder](https://www.last.fm/music/Rancid/_/Maxwell+Murder)
-* [Rancid — Roots Radical](https://www.last.fm/music/Rancid/_/Roots+Radical)
-* [Rancid — Maxwell Murder](https://www.last.fm/music/Rancid/_/Maxwell+Murder)<!-- LASTFM:END -->
+* [Rancid — Roots Radical](https://www.last.fm/music/Rancid/_/Roots+Radical)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
