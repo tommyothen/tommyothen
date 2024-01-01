@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Enter Shikari — The Void Stares Back](https://www.last.fm/music/Enter+Shikari/_/The+Void+Stares+Back)
+* [Enter Shikari — Zzzonked](https://www.last.fm/music/Enter+Shikari/_/Zzzonked)
 * [Enter Shikari — Sorry You&#39;re Not a Winner](https://www.last.fm/music/Enter+Shikari/_/Sorry+You%27re+Not+a+Winner)
 * [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)
-* [cassö — Prada](https://www.last.fm/music/cass%C3%B6/_/Prada)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Lesha Svik — Светофоры](https://www.last.fm/music/Lesha+Svik/_/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D1%84%D0%BE%D1%80%D1%8B)<!-- LASTFM:END -->
+* [cassö — Prada](https://www.last.fm/music/cass%C3%B6/_/Prada)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
