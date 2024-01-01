@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BROCKHAMPTON — SWEET](https://www.last.fm/music/BROCKHAMPTON/_/SWEET)
 * [BROCKHAMPTON — JELLO](https://www.last.fm/music/BROCKHAMPTON/_/JELLO)
 * [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
 * [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)
-* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
-* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)<!-- LASTFM:END -->
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
