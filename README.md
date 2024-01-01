@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FREEL — Чорний Дим](https://www.last.fm/music/FREEL/_/%D0%A7%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+%D0%94%D0%B8%D0%BC)
+* [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
+* [Sub Focus — Solar System](https://www.last.fm/music/Sub+Focus/_/Solar+System)
 * [DJ Khalil — Elevate &lpar;feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich&rpar;](https://www.last.fm/music/DJ+Khalil/_/Elevate+&lpar;feat.+Denzel+Curry,+YBN+Cordae,+SwaVay,+Trevor+Rich&rpar;)
-* [BROCKHAMPTON — SWEET](https://www.last.fm/music/BROCKHAMPTON/_/SWEET)
-* [BROCKHAMPTON — JELLO](https://www.last.fm/music/BROCKHAMPTON/_/JELLO)
-* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
-* [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)<!-- LASTFM:END -->
+* [BROCKHAMPTON — SWEET](https://www.last.fm/music/BROCKHAMPTON/_/SWEET)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
