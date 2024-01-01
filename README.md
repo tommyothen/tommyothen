@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Guardin — i think you&#39;re really cool](https://www.last.fm/music/Guardin/_/i+think+you%27re+really+cool)
+* [Buzzcocks — Ever Fallen in Love &lpar;With Someone You Shouldn&#39;t&#39;ve?&rpar; - 1996 Remastered Version](https://www.last.fm/music/Buzzcocks/_/Ever+Fallen+in+Love+&lpar;With+Someone+You+Shouldn%27t%27ve%3F&rpar;+-+1996+Remastered+Version)
 * [Oliver Tree — Welcome To LA](https://www.last.fm/music/Oliver+Tree/_/Welcome+To+LA)
 * [Colliding With Mars — Mental Breakdown In Slow Motion](https://www.last.fm/music/Colliding+With+Mars/_/Mental+Breakdown+In+Slow+Motion)
-* [android52 — Fall in Love](https://www.last.fm/music/android52/_/Fall+in+Love)
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)<!-- LASTFM:END -->
+* [android52 — Fall in Love](https://www.last.fm/music/android52/_/Fall+in+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
