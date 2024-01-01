@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
+* [Lemaitre — Higher](https://www.last.fm/music/Lemaitre/_/Higher)
 * [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
 * [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
-* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
-* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
-* [FREEL — Чорний Дим](https://www.last.fm/music/FREEL/_/%D0%A7%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+%D0%94%D0%B8%D0%BC)<!-- LASTFM:END -->
+* [Eden — gold](https://www.last.fm/music/Eden/_/gold)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
