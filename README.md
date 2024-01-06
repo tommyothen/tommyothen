@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LE SSERAFIM — UNFORGIVEN &lpar;feat. Nile Rodgers&rpar;](https://www.last.fm/music/LE+SSERAFIM/_/UNFORGIVEN+&lpar;feat.+Nile+Rodgers&rpar;)
+* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)
+* [do not resurrect — MK Plus Ultra](https://www.last.fm/music/do+not+resurrect/_/MK+Plus+Ultra)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [ariis — S1KE](https://www.last.fm/music/ariis/_/S1KE)
-* [Phonon — emme](https://www.last.fm/music/Phonon/_/emme)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)<!-- LASTFM:END -->
+* [ariis — S1KE](https://www.last.fm/music/ariis/_/S1KE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
