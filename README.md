@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
 * [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
 * [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
-* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)<!-- LASTFM:END -->
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
