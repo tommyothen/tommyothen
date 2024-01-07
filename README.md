@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
+* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
 * [BewhY — Adaptation](https://www.last.fm/music/BewhY/_/Adaptation)
 * [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [Within Destruction — Yōkai](https://www.last.fm/music/Within+Destruction/_/Y%C5%8Dkai)<!-- LASTFM:END -->
+* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
