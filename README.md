@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rings of Saturn — No Pity For A Coward](https://www.last.fm/music/Rings+of+Saturn/_/No+Pity+For+A+Coward)
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
-* [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
-* [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)<!-- LASTFM:END -->
+* [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
