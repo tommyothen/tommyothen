@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [QM — Canoe &lpar;feat. BIBI&rpar;](https://www.last.fm/music/QM/_/Canoe+&lpar;feat.+BIBI&rpar;)
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
+* [BewhY — Stand Out](https://www.last.fm/music/BewhY/_/Stand+Out)
 * [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
-* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
-* [BewhY — Adaptation](https://www.last.fm/music/BewhY/_/Adaptation)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
 * [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
