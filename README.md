@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
 * [Kendrick Lamar — DNA.](https://www.last.fm/music/Kendrick+Lamar/_/DNA.)
 * [Ashnikko — Daisy](https://www.last.fm/music/Ashnikko/_/Daisy)
 * [DPR LIVE — Please &lpar;feat. Kim Hyo Eun, G2 &amp; Dumbfoundead&rpar;](https://www.last.fm/music/DPR+LIVE/_/Please+&lpar;feat.+Kim+Hyo+Eun,+G2+&amp;+Dumbfoundead&rpar;)
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
-* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)<!-- LASTFM:END -->
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
