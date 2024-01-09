@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [$uicideboy$ — 1000 Blunts](https://www.last.fm/music/$uicideboy$/_/1000+Blunts)
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
+* [$uicideboy$ — KILL YOURSELF &lpar;Part III&rpar;](https://www.last.fm/music/$uicideboy$/_/KILL+YOURSELF+&lpar;Part+III&rpar;)
 * [Panic! at the Disco — I Write Sins Not Tragedies](https://www.last.fm/music/Panic!+at+the+Disco/_/I+Write+Sins+Not+Tragedies)
-* [Black Eyed Peas — Meet Me Halfway](https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway)
-* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
-* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
-* [Shakira — Waka Waka &lpar;This Time for Africa&rpar; [The Official 2010 FIFA World Cup &lpar;TM&rpar; Song] &lpar;feat. Freshlyground&rpar;](https://www.last.fm/music/Shakira/_/Waka+Waka+&lpar;This+Time+for+Africa&rpar;+%5BThe+Official+2010+FIFA+World+Cup+&lpar;TM&rpar;+Song%5D+&lpar;feat.+Freshlyground&rpar;)<!-- LASTFM:END -->
+* [Black Eyed Peas — Meet Me Halfway](https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
