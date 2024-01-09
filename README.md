@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
+* [LIL DUSTY G — INSECTS](https://www.last.fm/music/LIL+DUSTY+G/_/INSECTS)
+* [Taska Black — In Your Eyes](https://www.last.fm/music/Taska+Black/_/In+Your+Eyes)
 * [bbno$ — opus](https://www.last.fm/music/bbno$/_/opus)
-* [Rejjie Snow — Egyptian Luvr](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr)
-* [grandson — Best Friends](https://www.last.fm/music/grandson/_/Best+Friends)
-* [Saib — Snow](https://www.last.fm/music/Saib/_/Snow)
-* [Billie Eilish — my strange addiction](https://www.last.fm/music/Billie+Eilish/_/my+strange+addiction)<!-- LASTFM:END -->
+* [Rejjie Snow — Egyptian Luvr](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
