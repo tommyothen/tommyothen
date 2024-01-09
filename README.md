@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
 * [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
+* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
 * [Kendrick Lamar — DNA.](https://www.last.fm/music/Kendrick+Lamar/_/DNA.)
-* [Ashnikko — Daisy](https://www.last.fm/music/Ashnikko/_/Daisy)
-* [DPR LIVE — Please &lpar;feat. Kim Hyo Eun, G2 &amp; Dumbfoundead&rpar;](https://www.last.fm/music/DPR+LIVE/_/Please+&lpar;feat.+Kim+Hyo+Eun,+G2+&amp;+Dumbfoundead&rpar;)<!-- LASTFM:END -->
+* [Ashnikko — Daisy](https://www.last.fm/music/Ashnikko/_/Daisy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
