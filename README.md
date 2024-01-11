@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JLS — Beat Again - Radio Edit](https://www.last.fm/music/JLS/_/Beat+Again+-+Radio+Edit)
+* [Katy Perry — I Kissed a Girl](https://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl)
 * [Katy Perry — Last Friday Night &lpar;T.G.I.F.&rpar;](https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+&lpar;T.G.I.F.&rpar;)
 * [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
-* [Olivia Rodrigo — vampire](https://www.last.fm/music/Olivia+Rodrigo/_/vampire)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
+* [Olivia Rodrigo — vampire](https://www.last.fm/music/Olivia+Rodrigo/_/vampire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
