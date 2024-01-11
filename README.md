@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
 * [Kali Uchis — After the Storm &lpar;feat. Tyler, the Creator &amp; Bootsy Collins&rpar;](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+&lpar;feat.+Tyler,+the+Creator+&amp;+Bootsy+Collins&rpar;)
 * [Far East Movement — Like a G6](https://www.last.fm/music/Far+East+Movement/_/Like+a+G6)
-* [Basshunter — Now You&#39;re Gone &lpar;feat. DJ Mental Theo&#39;s Bazzheadz&rpar; - Video Edit](https://www.last.fm/music/Basshunter/_/Now+You%27re+Gone+&lpar;feat.+DJ+Mental+Theo%27s+Bazzheadz&rpar;+-+Video+Edit)
-* [Michael Bublé — Haven&#39;t Met You Yet](https://www.last.fm/music/Michael+Bubl%C3%A9/_/Haven%27t+Met+You+Yet)
-* [Pitbull — Hotel Room Service](https://www.last.fm/music/Pitbull/_/Hotel+Room+Service)<!-- LASTFM:END -->
+* [Basshunter — Now You&#39;re Gone &lpar;feat. DJ Mental Theo&#39;s Bazzheadz&rpar; - Video Edit](https://www.last.fm/music/Basshunter/_/Now+You%27re+Gone+&lpar;feat.+DJ+Mental+Theo%27s+Bazzheadz&rpar;+-+Video+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
