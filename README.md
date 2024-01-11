@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
+* [Frédéric Chopin — Fantasy-Impromptu in C-sharp minor, Op. 66](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasy-Impromptu+in+C-sharp+minor,+Op.+66)
 * [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)
 * [do not resurrect — MK Plus Ultra](https://www.last.fm/music/do+not+resurrect/_/MK+Plus+Ultra)
-* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
-* [DAEGHO — Dirty Viibe](https://www.last.fm/music/DAEGHO/_/Dirty+Viibe)
 * [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
