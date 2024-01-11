@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Я не могу понять](https://www.last.fm/music/FEDUK/_/%D0%AF+%D0%BD%D0%B5+%D0%BC%D0%BE%D0%B3%D1%83+%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D1%8C)
+* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
 * [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
 * [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
-* [Kali Uchis — After the Storm &lpar;feat. Tyler, the Creator &amp; Bootsy Collins&rpar;](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+&lpar;feat.+Tyler,+the+Creator+&amp;+Bootsy+Collins&rpar;)
-* [Far East Movement — Like a G6](https://www.last.fm/music/Far+East+Movement/_/Like+a+G6)
-* [Basshunter — Now You&#39;re Gone &lpar;feat. DJ Mental Theo&#39;s Bazzheadz&rpar; - Video Edit](https://www.last.fm/music/Basshunter/_/Now+You%27re+Gone+&lpar;feat.+DJ+Mental+Theo%27s+Bazzheadz&rpar;+-+Video+Edit)<!-- LASTFM:END -->
+* [Kali Uchis — After the Storm &lpar;feat. Tyler, the Creator &amp; Bootsy Collins&rpar;](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+&lpar;feat.+Tyler,+the+Creator+&amp;+Bootsy+Collins&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
