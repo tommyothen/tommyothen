@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [FEDUK — Я не могу понять](https://www.last.fm/music/FEDUK/_/%D0%AF+%D0%BD%D0%B5+%D0%BC%D0%BE%D0%B3%D1%83+%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D1%8C)
-* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
-* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
-* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
-* [Kali Uchis — After the Storm &lpar;feat. Tyler, the Creator &amp; Bootsy Collins&rpar;](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+&lpar;feat.+Tyler,+the+Creator+&amp;+Bootsy+Collins&rpar;)<!-- LASTFM:END -->
+* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)
+* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
+* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
+* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
+* [Fliptrix — Graffiti Won&#39;t Die](https://www.last.fm/music/Fliptrix/_/Graffiti+Won%27t+Die)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
