@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billie Eilish — lovely](https://www.last.fm/music/Billie+Eilish/_/lovely)
 * [demxntia — why do i try](https://www.last.fm/music/demxntia/_/why+do+i+try)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
-* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)<!-- LASTFM:END -->
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
