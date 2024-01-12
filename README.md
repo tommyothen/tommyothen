@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)
+* [do not resurrect — MK Plus Ultra](https://www.last.fm/music/do+not+resurrect/_/MK+Plus+Ultra)
 * [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
 * [DAEGHO — Dirty Viibe](https://www.last.fm/music/DAEGHO/_/Dirty+Viibe)
-* [ericdoa — sad4whattt - From &quot;Euphoria&quot; An HBO Original Series](https://www.last.fm/music/ericdoa/_/sad4whattt+-+From+%22Euphoria%22+An+HBO+Original+Series)
-* [Ryan Hall — THERAPY](https://www.last.fm/music/Ryan+Hall/_/THERAPY)
-* [SUGR? — Strong](https://www.last.fm/music/SUGR%3F/_/Strong)<!-- LASTFM:END -->
+* [ericdoa — sad4whattt - From &quot;Euphoria&quot; An HBO Original Series](https://www.last.fm/music/ericdoa/_/sad4whattt+-+From+%22Euphoria%22+An+HBO+Original+Series)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
