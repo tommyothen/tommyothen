@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ericdoa — sad4whattt - From &quot;Euphoria&quot; An HBO Original Series](https://www.last.fm/music/ericdoa/_/sad4whattt+-+From+%22Euphoria%22+An+HBO+Original+Series)
 * [Ryan Hall — THERAPY](https://www.last.fm/music/Ryan+Hall/_/THERAPY)
 * [SUGR? — Strong](https://www.last.fm/music/SUGR%3F/_/Strong)
 * [Adore — dancing while the world burns](https://www.last.fm/music/Adore/_/dancing+while+the+world+burns)
-* [2 Mello — I Wanna Kno](https://www.last.fm/music/2+Mello/_/I+Wanna+Kno)
-* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)<!-- LASTFM:END -->
+* [2 Mello — I Wanna Kno](https://www.last.fm/music/2+Mello/_/I+Wanna+Kno)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
