@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DEATHNYANN — tarantula](https://www.last.fm/music/DEATHNYANN/_/tarantula)
+* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
 * [Shoffy — I Can&#39;t Help](https://www.last.fm/music/Shoffy/_/I+Can%27t+Help)
 * [9 Gramm — Город дыма](https://www.last.fm/music/9+Gramm/_/%D0%93%D0%BE%D1%80%D0%BE%D0%B4+%D0%B4%D1%8B%D0%BC%D0%B0)
-* [bbno$ — dont tell me shit](https://www.last.fm/music/bbno$/_/dont+tell+me+shit)
-* [Yung Gravy — Whippin](https://www.last.fm/music/Yung+Gravy/_/Whippin)
-* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)<!-- LASTFM:END -->
+* [bbno$ — dont tell me shit](https://www.last.fm/music/bbno$/_/dont+tell+me+shit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
