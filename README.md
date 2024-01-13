@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Antoha MC — Сладкий чай &lpar;Aslamin Remix&rpar;](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B9+%D1%87%D0%B0%D0%B9+&lpar;Aslamin+Remix&rpar;)
 * [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
 * [DAEGHO — Dirty Viibe](https://www.last.fm/music/DAEGHO/_/Dirty+Viibe)
 * [DEATHNYANN — tarantula](https://www.last.fm/music/DEATHNYANN/_/tarantula)
-* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
-* [Shoffy — I Can&#39;t Help](https://www.last.fm/music/Shoffy/_/I+Can%27t+Help)<!-- LASTFM:END -->
+* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
