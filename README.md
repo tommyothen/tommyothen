@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jean Sibelius — 5 Pieces, Op. 75, &quot;The Trees&quot;: No. 3 Aspen](https://www.last.fm/music/Jean+Sibelius/_/5+Pieces,+Op.+75,+%22The+Trees%22:+No.+3+Aspen)
+* [Lelio Luttazzi — Souvenir d&#39;Italie](https://www.last.fm/music/Lelio+Luttazzi/_/Souvenir+d%27Italie)
+* [Johannes Brahms — Hungarian Dance No. 5](https://www.last.fm/music/Johannes+Brahms/_/Hungarian+Dance+No.+5)
 * [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)
-* [Toshifumi Hinata — Little Rascal &lpar;いたずら天使&rpar; - 2007 ver.](https://www.last.fm/music/Toshifumi+Hinata/_/Little+Rascal+&lpar;%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E5%A4%A9%E4%BD%BF&rpar;+-+2007+ver.)
-* [Frédéric Chopin — Chopin: 12 Études, Op. 25: No. 11 in A Minor &quot;Winter Wind&quot;](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Chopin:+12+%C3%89tudes,+Op.+25:+No.+11+in+A+Minor+%22Winter+Wind%22)
-* [Frédéric Chopin — Fantasy-Impromptu in C-sharp minor, Op. 66](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasy-Impromptu+in+C-sharp+minor,+Op.+66)
-* [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)<!-- LASTFM:END -->
+* [Toshifumi Hinata — Little Rascal &lpar;いたずら天使&rpar; - 2007 ver.](https://www.last.fm/music/Toshifumi+Hinata/_/Little+Rascal+&lpar;%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E5%A4%A9%E4%BD%BF&rpar;+-+2007+ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
