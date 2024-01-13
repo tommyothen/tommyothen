@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nero — The Thrill - Porter Robinson Remix](https://www.last.fm/music/Nero/_/The+Thrill+-+Porter+Robinson+Remix)
 * [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)
 * [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
 * [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
-* [Ashnikko — Cry &lpar;feat. Grimes&rpar;](https://www.last.fm/music/Ashnikko/_/Cry+&lpar;feat.+Grimes&rpar;)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)<!-- LASTFM:END -->
+* [Ashnikko — Cry &lpar;feat. Grimes&rpar;](https://www.last.fm/music/Ashnikko/_/Cry+&lpar;feat.+Grimes&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
