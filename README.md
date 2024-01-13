@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Oliver Tree — Do You Feel Me?](https://www.last.fm/music/Oliver+Tree/_/Do+You+Feel+Me%3F)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Puppet — The Fire](https://www.last.fm/music/Puppet/_/The+Fire)
-* [Nero — The Thrill - Porter Robinson Remix](https://www.last.fm/music/Nero/_/The+Thrill+-+Porter+Robinson+Remix)
-* [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)<!-- LASTFM:END -->
+* [Frédéric Chopin — Fantasy-Impromptu in C-sharp minor, Op. 66](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasy-Impromptu+in+C-sharp+minor,+Op.+66)
+* [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)
+* [do not resurrect — MK Plus Ultra](https://www.last.fm/music/do+not+resurrect/_/MK+Plus+Ultra)
+* [Made in M — Tierra](https://www.last.fm/music/Made+in+M/_/Tierra)
+* [Oliver Tree — Do You Feel Me?](https://www.last.fm/music/Oliver+Tree/_/Do+You+Feel+Me%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
