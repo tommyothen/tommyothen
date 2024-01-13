@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Egg — Putting a Spin on Sweater Weather](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Sweater+Weather)
+* [XXXTENTACION — love yourself &lpar;interlude&rpar;](https://www.last.fm/music/XXXTENTACION/_/love+yourself+&lpar;interlude&rpar;)
+* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
 * [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
-* [t+pazolite — You are the Miserable - Uncut Edition](https://www.last.fm/music/t%252Bpazolite/_/You+are+the+Miserable+-+Uncut+Edition)
-* [BROCKHAMPTON — ZIPPER](https://www.last.fm/music/BROCKHAMPTON/_/ZIPPER)
-* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
-* [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)<!-- LASTFM:END -->
+* [t+pazolite — You are the Miserable - Uncut Edition](https://www.last.fm/music/t%252Bpazolite/_/You+are+the+Miserable+-+Uncut+Edition)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
