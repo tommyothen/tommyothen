@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DAEGHO — Dirty Viibe](https://www.last.fm/music/DAEGHO/_/Dirty+Viibe)
 * [Elijah Fox — Wall St Underwater](https://www.last.fm/music/Elijah+Fox/_/Wall+St+Underwater)
 * [Jean Sibelius — 5 Pieces, Op. 75, &quot;The Trees&quot;: No. 3 Aspen](https://www.last.fm/music/Jean+Sibelius/_/5+Pieces,+Op.+75,+%22The+Trees%22:+No.+3+Aspen)
 * [Lelio Luttazzi — Souvenir d&#39;Italie](https://www.last.fm/music/Lelio+Luttazzi/_/Souvenir+d%27Italie)
-* [Johannes Brahms — Hungarian Dance No. 5](https://www.last.fm/music/Johannes+Brahms/_/Hungarian+Dance+No.+5)
-* [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)<!-- LASTFM:END -->
+* [Johannes Brahms — Hungarian Dance No. 5](https://www.last.fm/music/Johannes+Brahms/_/Hungarian+Dance+No.+5)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
