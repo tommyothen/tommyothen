@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dreamcatcher — Full Moon](https://www.last.fm/music/Dreamcatcher/_/Full+Moon)
+* [Eden — Circles](https://www.last.fm/music/Eden/_/Circles)
 * [Mungo&#39;s Hi Fi — Babylon Raid](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Babylon+Raid)
 * [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
-* [DAEGHO — Dirty Viibe](https://www.last.fm/music/DAEGHO/_/Dirty+Viibe)
-* [Elijah Fox — Wall St Underwater](https://www.last.fm/music/Elijah+Fox/_/Wall+St+Underwater)
-* [Jean Sibelius — 5 Pieces, Op. 75, &quot;The Trees&quot;: No. 3 Aspen](https://www.last.fm/music/Jean+Sibelius/_/5+Pieces,+Op.+75,+%22The+Trees%22:+No.+3+Aspen)<!-- LASTFM:END -->
+* [DAEGHO — Dirty Viibe](https://www.last.fm/music/DAEGHO/_/Dirty+Viibe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
