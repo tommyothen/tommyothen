@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Luna Li — 2516](https://www.last.fm/music/Luna+Li/_/2516)
 * [Vansire — Metamodernity](https://www.last.fm/music/Vansire/_/Metamodernity)
 * [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
 * [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)
-* [2 Mello — I Wanna Kno](https://www.last.fm/music/2+Mello/_/I+Wanna+Kno)<!-- LASTFM:END -->
+* [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
