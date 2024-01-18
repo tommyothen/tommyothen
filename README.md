@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JID — Surround Sound &lpar;feat. 21 Savage &amp; Baby Tate&rpar;](https://www.last.fm/music/JID/_/Surround+Sound+&lpar;feat.+21+Savage+&amp;+Baby+Tate&rpar;)
+* [JID — Workin Out](https://www.last.fm/music/JID/_/Workin+Out)
+* [A$AP Ant — The God Hour](https://www.last.fm/music/A$AP+Ant/_/The+God+Hour)
 * [XXXTENTACION — Look at Me!](https://www.last.fm/music/XXXTENTACION/_/Look+at+Me!)
-* [Dreamville — Under the Sun &lpar;with J. Cole &amp; Lute feat. DaBaby&rpar;](https://www.last.fm/music/Dreamville/_/Under+the+Sun+&lpar;with+J.+Cole+&amp;+Lute+feat.+DaBaby&rpar;)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
-* [A$AP Rocky — Praise the Lord &lpar;Da Shine&rpar; &lpar;feat. Skepta&rpar;](https://www.last.fm/music/A$AP+Rocky/_/Praise+the+Lord+&lpar;Da+Shine&rpar;+&lpar;feat.+Skepta&rpar;)
-* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)<!-- LASTFM:END -->
+* [Dreamville — Under the Sun &lpar;with J. Cole &amp; Lute feat. DaBaby&rpar;](https://www.last.fm/music/Dreamville/_/Under+the+Sun+&lpar;with+J.+Cole+&amp;+Lute+feat.+DaBaby&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
