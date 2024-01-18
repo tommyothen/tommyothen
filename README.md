@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
 * [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
 * [JID — Bruddanem &lpar;feat. Lil Durk&rpar;](https://www.last.fm/music/JID/_/Bruddanem+&lpar;feat.+Lil+Durk&rpar;)
-* [Offset — Danger &lpar;Spider&rpar; &lpar;Offset &amp; JID&rpar;](https://www.last.fm/music/Offset/_/Danger+&lpar;Spider&rpar;+&lpar;Offset+&amp;+JID&rpar;)
-* [JID — 151 Rum](https://www.last.fm/music/JID/_/151+Rum)
-* [JID — Dance Now &lpar;feat. Kenny Mason&rpar;](https://www.last.fm/music/JID/_/Dance+Now+&lpar;feat.+Kenny+Mason&rpar;)<!-- LASTFM:END -->
+* [Offset — Danger &lpar;Spider&rpar; &lpar;Offset &amp; JID&rpar;](https://www.last.fm/music/Offset/_/Danger+&lpar;Spider&rpar;+&lpar;Offset+&amp;+JID&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
