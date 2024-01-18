@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
+* [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
 * [Adore — dancing while the world burns](https://www.last.fm/music/Adore/_/dancing+while+the+world+burns)
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
-* [Frédéric Chopin — Fantasy-Impromptu in C-sharp minor, Op. 66](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasy-Impromptu+in+C-sharp+minor,+Op.+66)<!-- LASTFM:END -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
