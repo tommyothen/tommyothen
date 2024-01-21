@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JID — Surround Sound &lpar;feat. 21 Savage &amp; Baby Tate&rpar;](https://www.last.fm/music/JID/_/Surround+Sound+&lpar;feat.+21+Savage+&amp;+Baby+Tate&rpar;)
 * [Kwaj — Clouds in the Sky](https://www.last.fm/music/Kwaj/_/Clouds+in+the+Sky)
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
 * [Pendulum — Self vs Self &lpar;feat. In Flames&rpar;](https://www.last.fm/music/Pendulum/_/Self+vs+Self+&lpar;feat.+In+Flames&rpar;)
-* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [GOLEMM — MorningStarz](https://www.last.fm/music/GOLEMM/_/MorningStarz)<!-- LASTFM:END -->
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
