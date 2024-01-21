@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
 * [GOLEMM — MorningStarz](https://www.last.fm/music/GOLEMM/_/MorningStarz)
 * [GOLEMM — Sky Lands](https://www.last.fm/music/GOLEMM/_/Sky+Lands)
 * [GOLEMM — Ecstasy](https://www.last.fm/music/GOLEMM/_/Ecstasy)
-* [GOLEMM — Exotic!](https://www.last.fm/music/GOLEMM/_/Exotic!)
-* [GOLEMM — Bionic Golem](https://www.last.fm/music/GOLEMM/_/Bionic+Golem)<!-- LASTFM:END -->
+* [GOLEMM — Exotic!](https://www.last.fm/music/GOLEMM/_/Exotic!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
