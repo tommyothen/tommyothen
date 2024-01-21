@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
 * [DUCKWRTH — Super Bounce](https://www.last.fm/music/DUCKWRTH/_/Super+Bounce)
 * [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
 * [Ravenna Golden — Contest](https://www.last.fm/music/Ravenna+Golden/_/Contest)
-* [Fred again.. — leavemealone](https://www.last.fm/music/Fred+again../_/leavemealone)
-* [JID — Surround Sound &lpar;feat. 21 Savage &amp; Baby Tate&rpar;](https://www.last.fm/music/JID/_/Surround+Sound+&lpar;feat.+21+Savage+&amp;+Baby+Tate&rpar;)<!-- LASTFM:END -->
+* [Fred again.. — leavemealone](https://www.last.fm/music/Fred+again../_/leavemealone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
