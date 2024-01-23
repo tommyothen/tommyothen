@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grabbitz — My Cloud](https://www.last.fm/music/Grabbitz/_/My+Cloud)
 * [Ghost Data — Blatant Plagiarism](https://www.last.fm/music/Ghost+Data/_/Blatant+Plagiarism)
 * [Ravenna Golden — Contest](https://www.last.fm/music/Ravenna+Golden/_/Contest)
 * [Rich Brian — Kitty](https://www.last.fm/music/Rich+Brian/_/Kitty)
-* [TWICE — KNOCK KNOCK](https://www.last.fm/music/TWICE/_/KNOCK+KNOCK)
-* [D-Real [愛] — Candy](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Candy)<!-- LASTFM:END -->
+* [TWICE — KNOCK KNOCK](https://www.last.fm/music/TWICE/_/KNOCK+KNOCK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
