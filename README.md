@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [egs✰ — Six Days](https://www.last.fm/music/egs%E2%9C%B0/_/Six+Days)
-* [Grabbitz — My Cloud](https://www.last.fm/music/Grabbitz/_/My+Cloud)
-* [Ghost Data — Blatant Plagiarism](https://www.last.fm/music/Ghost+Data/_/Blatant+Plagiarism)
+* [2 Mello — I Wanna Kno](https://www.last.fm/music/2+Mello/_/I+Wanna+Kno)
+* [Adore — dancing while the world burns](https://www.last.fm/music/Adore/_/dancing+while+the+world+burns)
 * [Ravenna Golden — Contest](https://www.last.fm/music/Ravenna+Golden/_/Contest)
-* [Rich Brian — Kitty](https://www.last.fm/music/Rich+Brian/_/Kitty)<!-- LASTFM:END -->
+* [egs✰ — Six Days](https://www.last.fm/music/egs%E2%9C%B0/_/Six+Days)
+* [Grabbitz — My Cloud](https://www.last.fm/music/Grabbitz/_/My+Cloud)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
