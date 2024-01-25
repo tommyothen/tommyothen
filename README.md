@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
-* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Maurice Ravel — Antar &lpar;After N. Rimsky-Korsakov&rpar;: No. 7. Ravel: Allegretto](https://www.last.fm/music/Maurice+Ravel/_/Antar+&lpar;After+N.+Rimsky-Korsakov&rpar;:+No.+7.+Ravel:+Allegretto)
-* [Janos Sebestyen — Prelude In C Minor, BWV 999 : Prelude In C Minor, BWV 999](https://www.last.fm/music/Janos+Sebestyen/_/Prelude+In+C+Minor,+BWV+999+:+Prelude+In+C+Minor,+BWV+999)<!-- LASTFM:END -->
+* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
+* [do not resurrect — MK Plus Ultra](https://www.last.fm/music/do+not+resurrect/_/MK+Plus+Ultra)
+* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
