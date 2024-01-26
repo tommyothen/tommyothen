@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [Capital Soiree — Oxygen!](https://www.last.fm/music/Capital+Soiree/_/Oxygen!)
-* [Lilithzplug — CLEARED - Remix](https://www.last.fm/music/Lilithzplug/_/CLEARED+-+Remix)
-* [2 Mello — I Wanna Kno](https://www.last.fm/music/2+Mello/_/I+Wanna+Kno)
-* [Adore — dancing while the world burns](https://www.last.fm/music/Adore/_/dancing+while+the+world+burns)<!-- LASTFM:END -->
+* [ukiyo — let’s end it](https://www.last.fm/music/ukiyo/_/let%E2%80%99s+end+it)
+* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
+* [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
+* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
