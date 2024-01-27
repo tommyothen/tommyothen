@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JID — Can’t Punk Me &lpar;feat. EARTHGANG&rpar;](https://www.last.fm/music/JID/_/Can%E2%80%99t+Punk+Me+&lpar;feat.+EARTHGANG&rpar;)
+* [Dreamville — Sacrifices &lpar;with EARTHGANG &amp; J. Cole feat. Smino &amp; Saba&rpar;](https://www.last.fm/music/Dreamville/_/Sacrifices+&lpar;with+EARTHGANG+&amp;+J.+Cole+feat.+Smino+&amp;+Saba&rpar;)
 * [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)
 * [Swervy — ART GANG MONEY &lpar;Feat. Reddy&rpar;](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY+&lpar;Feat.+Reddy&rpar;)
-* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)<!-- LASTFM:END -->
+* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
