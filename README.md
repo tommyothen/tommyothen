@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JID — Surround Sound &lpar;feat. 21 Savage &amp; Baby Tate&rpar;](https://www.last.fm/music/JID/_/Surround+Sound+&lpar;feat.+21+Savage+&amp;+Baby+Tate&rpar;)
 * [JID — Can’t Punk Me &lpar;feat. EARTHGANG&rpar;](https://www.last.fm/music/JID/_/Can%E2%80%99t+Punk+Me+&lpar;feat.+EARTHGANG&rpar;)
 * [Dreamville — Sacrifices &lpar;with EARTHGANG &amp; J. Cole feat. Smino &amp; Saba&rpar;](https://www.last.fm/music/Dreamville/_/Sacrifices+&lpar;with+EARTHGANG+&amp;+J.+Cole+feat.+Smino+&amp;+Saba&rpar;)
 * [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)
-* [Swervy — ART GANG MONEY &lpar;Feat. Reddy&rpar;](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY+&lpar;Feat.+Reddy&rpar;)
-* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)<!-- LASTFM:END -->
+* [Swervy — ART GANG MONEY &lpar;Feat. Reddy&rpar;](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY+&lpar;Feat.+Reddy&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
