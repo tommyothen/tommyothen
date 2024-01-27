@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)
+* [Swervy — ART GANG MONEY &lpar;Feat. Reddy&rpar;](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY+&lpar;Feat.+Reddy&rpar;)
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
-* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
-* [do not resurrect — MK Plus Ultra](https://www.last.fm/music/do+not+resurrect/_/MK+Plus+Ultra)<!-- LASTFM:END -->
+* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
