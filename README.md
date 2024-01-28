@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — Lucky](https://www.last.fm/music/Zeph/_/Lucky)
+* [MARC WAVY — Daydreaming](https://www.last.fm/music/MARC+WAVY/_/Daydreaming)
 * [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Zeph — un-unnoticed](https://www.last.fm/music/Zeph/_/un-unnoticed)
-* [dacelynn — stars](https://www.last.fm/music/dacelynn/_/stars)
-* [Devon Again — Suburbia](https://www.last.fm/music/Devon+Again/_/Suburbia)<!-- LASTFM:END -->
+* [Zeph — un-unnoticed](https://www.last.fm/music/Zeph/_/un-unnoticed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
