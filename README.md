@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [spill tab — Anybody Else](https://www.last.fm/music/spill+tab/_/Anybody+Else)
+* [Laica — Valentine&#39;s Day](https://www.last.fm/music/Laica/_/Valentine%27s+Day)
+* [Zeph — Ways to Go](https://www.last.fm/music/Zeph/_/Ways+to+Go)
 * [Ber — I&#39;m Not In Love](https://www.last.fm/music/Ber/_/I%27m+Not+In+Love)
-* [Lilacs. — 7PM](https://www.last.fm/music/Lilacs./_/7PM)
-* [calica — Drive Slow](https://www.last.fm/music/calica/_/Drive+Slow)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)<!-- LASTFM:END -->
+* [Lilacs. — 7PM](https://www.last.fm/music/Lilacs./_/7PM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
