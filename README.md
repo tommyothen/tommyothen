@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
+* [a kid named rufus — things will be okay](https://www.last.fm/music/a+kid+named+rufus/_/things+will+be+okay)
+* [adan diaz — girl at the skate park who smiled at me after i fell](https://www.last.fm/music/adan+diaz/_/girl+at+the+skate+park+who+smiled+at+me+after+i+fell)
 * [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
-* [Easha — A Little Bit Longer](https://www.last.fm/music/Easha/_/A+Little+Bit+Longer)
-* [Thomston — Magnolia &lpar;with Zeph&rpar;](https://www.last.fm/music/Thomston/_/Magnolia+&lpar;with+Zeph&rpar;)
-* [dacelynn — love &amp; doubt](https://www.last.fm/music/dacelynn/_/love+&amp;+doubt)
-* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)<!-- LASTFM:END -->
+* [Easha — A Little Bit Longer](https://www.last.fm/music/Easha/_/A+Little+Bit+Longer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
