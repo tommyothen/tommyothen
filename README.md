@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [saturn 17 — ur not into me](https://www.last.fm/music/saturn+17/_/ur+not+into+me)
 * [Pilar Victoria — I Left A Party For You](https://www.last.fm/music/Pilar+Victoria/_/I+Left+A+Party+For+You)
-* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
-* [a kid named rufus — things will be okay](https://www.last.fm/music/a+kid+named+rufus/_/things+will+be+okay)
-* [adan diaz — girl at the skate park who smiled at me after i fell](https://www.last.fm/music/adan+diaz/_/girl+at+the+skate+park+who+smiled+at+me+after+i+fell)<!-- LASTFM:END -->
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
