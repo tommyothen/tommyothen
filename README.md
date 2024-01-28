@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Abby Cates — better friends](https://www.last.fm/music/Abby+Cates/_/better+friends)
+* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
 * [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)
 * [Lyn Lapid — In My Mind](https://www.last.fm/music/Lyn+Lapid/_/In+My+Mind)
-* [Ivoris — Fairybread &amp; Old Cartoons](https://www.last.fm/music/Ivoris/_/Fairybread+&amp;+Old+Cartoons)
-* [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
+* [Ivoris — Fairybread &amp; Old Cartoons](https://www.last.fm/music/Ivoris/_/Fairybread+&amp;+Old+Cartoons)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
