@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ber — I&#39;m Not In Love](https://www.last.fm/music/Ber/_/I%27m+Not+In+Love)
+* [Lilacs. — 7PM](https://www.last.fm/music/Lilacs./_/7PM)
+* [calica — Drive Slow](https://www.last.fm/music/calica/_/Drive+Slow)
 * [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
-* [dacelynn — 80&#39;s Makeout Session](https://www.last.fm/music/dacelynn/_/80%27s+Makeout+Session)
-* [Abby Cates — better friends](https://www.last.fm/music/Abby+Cates/_/better+friends)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)<!-- LASTFM:END -->
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
