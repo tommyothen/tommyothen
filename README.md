@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hoax — Beach House ii](https://www.last.fm/music/Hoax/_/Beach+House+ii)
 * [Zeph — Lucky](https://www.last.fm/music/Zeph/_/Lucky)
 * [MARC WAVY — Daydreaming](https://www.last.fm/music/MARC+WAVY/_/Daydreaming)
 * [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Zeph — un-unnoticed](https://www.last.fm/music/Zeph/_/un-unnoticed)<!-- LASTFM:END -->
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
