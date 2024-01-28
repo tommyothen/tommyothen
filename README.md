@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — un-unnoticed](https://www.last.fm/music/Zeph/_/un-unnoticed)
+* [dacelynn — stars](https://www.last.fm/music/dacelynn/_/stars)
+* [Devon Again — Suburbia](https://www.last.fm/music/Devon+Again/_/Suburbia)
 * [mimi bay — no doubt](https://www.last.fm/music/mimi+bay/_/no+doubt)
-* [Will Joseph Cook — We Met On The Internet](https://www.last.fm/music/Will+Joseph+Cook/_/We+Met+On+The+Internet)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Easha — You Make Me Feel](https://www.last.fm/music/Easha/_/You+Make+Me+Feel)
-* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)<!-- LASTFM:END -->
+* [Will Joseph Cook — We Met On The Internet](https://www.last.fm/music/Will+Joseph+Cook/_/We+Met+On+The+Internet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
