@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Devon Again — Suburbia](https://www.last.fm/music/Devon+Again/_/Suburbia)
+* [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [spill tab — Anybody Else](https://www.last.fm/music/spill+tab/_/Anybody+Else)
-* [Laica — Valentine&#39;s Day](https://www.last.fm/music/Laica/_/Valentine%27s+Day)
-* [Zeph — Ways to Go](https://www.last.fm/music/Zeph/_/Ways+to+Go)
-* [Ber — I&#39;m Not In Love](https://www.last.fm/music/Ber/_/I%27m+Not+In+Love)
-* [Lilacs. — 7PM](https://www.last.fm/music/Lilacs./_/7PM)<!-- LASTFM:END -->
+* [Laica — Valentine&#39;s Day](https://www.last.fm/music/Laica/_/Valentine%27s+Day)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
