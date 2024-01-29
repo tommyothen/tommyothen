@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [Devon Again — Suburbia](https://www.last.fm/music/Devon+Again/_/Suburbia)
 * [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
-* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
-* [spill tab — Anybody Else](https://www.last.fm/music/spill+tab/_/Anybody+Else)
-* [Laica — Valentine&#39;s Day](https://www.last.fm/music/Laica/_/Valentine%27s+Day)<!-- LASTFM:END -->
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
