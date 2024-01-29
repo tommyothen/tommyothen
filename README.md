@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [spill tab — Anybody Else](https://www.last.fm/music/spill+tab/_/Anybody+Else)
+* [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)
+* [MARC WAVY — Daydreaming](https://www.last.fm/music/MARC+WAVY/_/Daydreaming)
 * [fig — Raspberry Tongue](https://www.last.fm/music/fig/_/Raspberry+Tongue)
-* [dacelynn — 80&#39;s Makeout Session](https://www.last.fm/music/dacelynn/_/80%27s+Makeout+Session)
-* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
-* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
-* [Devon Again — Suburbia](https://www.last.fm/music/Devon+Again/_/Suburbia)<!-- LASTFM:END -->
+* [dacelynn — 80&#39;s Makeout Session](https://www.last.fm/music/dacelynn/_/80%27s+Makeout+Session)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
