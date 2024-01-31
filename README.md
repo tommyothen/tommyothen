@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ravenna Golden — Contest](https://www.last.fm/music/Ravenna+Golden/_/Contest)
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
+* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
 * [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
-* [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
-* [BLACKPINK — Don&#39;t Know What to Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+to+Do)<!-- LASTFM:END -->
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
