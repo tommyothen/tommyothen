@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
+* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
 * [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
-* [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)
-* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
-* [Zeph — bed - demo](https://www.last.fm/music/Zeph/_/bed+-+demo)<!-- LASTFM:END -->
+* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
