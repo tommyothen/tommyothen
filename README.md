@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — history](https://www.last.fm/music/Zeph/_/history)
+* [Zeph — Sober](https://www.last.fm/music/Zeph/_/Sober)
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
 * [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
-* [Zeph — anything but safe and sound](https://www.last.fm/music/Zeph/_/anything+but+safe+and+sound)
-* [Zeph — Ways to Go](https://www.last.fm/music/Zeph/_/Ways+to+Go)
-* [Zeph — what does he have that i don&#39;t?](https://www.last.fm/music/Zeph/_/what+does+he+have+that+i+don%27t%3F)
-* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)<!-- LASTFM:END -->
+* [Zeph — anything but safe and sound](https://www.last.fm/music/Zeph/_/anything+but+safe+and+sound)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
