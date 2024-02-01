@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [J. Cole — Kevin’s Heart](https://www.last.fm/music/J.+Cole/_/Kevin%E2%80%99s+Heart)
 * [Kendrick Lamar — Rich Spirit](https://www.last.fm/music/Kendrick+Lamar/_/Rich+Spirit)
 * [JID — Surround Sound &lpar;feat. 21 Savage &amp; Baby Tate&rpar;](https://www.last.fm/music/JID/_/Surround+Sound+&lpar;feat.+21+Savage+&amp;+Baby+Tate&rpar;)
 * [JID — Surround Sound &lpar;feat. 21 Savage &amp; Baby Tate&rpar;](https://www.last.fm/music/JID/_/Surround+Sound+&lpar;feat.+21+Savage+&amp;+Baby+Tate&rpar;)
-* [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)
-* [FEDUK — Ощути разницу &lpar;feat. Vagner&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9E%D1%89%D1%83%D1%82%D0%B8+%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D1%83+&lpar;feat.+Vagner&rpar;)<!-- LASTFM:END -->
+* [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
