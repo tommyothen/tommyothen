@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Ощути разницу &lpar;feat. Vagner&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9E%D1%89%D1%83%D1%82%D0%B8+%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D1%83+&lpar;feat.+Vagner&rpar;)
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
 * [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)<!-- LASTFM:END -->
+* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
