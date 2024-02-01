@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
 * [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
 * [Geri Halliwell — It&#39;s Raining Men](https://www.last.fm/music/Geri+Halliwell/_/It%27s+Raining+Men)
-* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [deadman 死人 — Omae Wa Mou](https://www.last.fm/music/deadman+%E6%AD%BB%E4%BA%BA/_/Omae+Wa+Mou)<!-- LASTFM:END -->
+* [Elio — CHARGER &lpar;ft. Charli XCX&rpar;](https://www.last.fm/music/Elio/_/CHARGER+&lpar;ft.+Charli+XCX&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
