@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [JID — Van Gogh &lpar;feat. Lil Yachty&rpar;](https://www.last.fm/music/JID/_/Van+Gogh+&lpar;feat.+Lil+Yachty&rpar;)
-* [JID — Surround Sound &lpar;feat. 21 Savage &amp; Baby Tate&rpar;](https://www.last.fm/music/JID/_/Surround+Sound+&lpar;feat.+21+Savage+&amp;+Baby+Tate&rpar;)
-* [J. Cole — Kevin’s Heart](https://www.last.fm/music/J.+Cole/_/Kevin%E2%80%99s+Heart)
-* [Kendrick Lamar — Rich Spirit](https://www.last.fm/music/Kendrick+Lamar/_/Rich+Spirit)
-* [JID — Surround Sound &lpar;feat. 21 Savage &amp; Baby Tate&rpar;](https://www.last.fm/music/JID/_/Surround+Sound+&lpar;feat.+21+Savage+&amp;+Baby+Tate&rpar;)<!-- LASTFM:END -->
+* [Zeph — world](https://www.last.fm/music/Zeph/_/world)
+* [New West — Those Eyes &lpar;feat. Zeph&rpar;](https://www.last.fm/music/New+West/_/Those+Eyes+&lpar;feat.+Zeph&rpar;)
+* [Zeph — my fault](https://www.last.fm/music/Zeph/_/my+fault)
+* [Zeph — could you love me while i hate myself](https://www.last.fm/music/Zeph/_/could+you+love+me+while+i+hate+myself)
+* [JID — Van Gogh &lpar;feat. Lil Yachty&rpar;](https://www.last.fm/music/JID/_/Van+Gogh+&lpar;feat.+Lil+Yachty&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
