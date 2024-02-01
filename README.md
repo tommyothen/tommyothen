@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Zeph — world](https://www.last.fm/music/Zeph/_/world)
-* [New West — Those Eyes &lpar;feat. Zeph&rpar;](https://www.last.fm/music/New+West/_/Those+Eyes+&lpar;feat.+Zeph&rpar;)
-* [Zeph — my fault](https://www.last.fm/music/Zeph/_/my+fault)
-* [Zeph — could you love me while i hate myself](https://www.last.fm/music/Zeph/_/could+you+love+me+while+i+hate+myself)
-* [JID — Van Gogh &lpar;feat. Lil Yachty&rpar;](https://www.last.fm/music/JID/_/Van+Gogh+&lpar;feat.+Lil+Yachty&rpar;)<!-- LASTFM:END -->
+* [Zeph — i&#39;m where you draw the line](https://www.last.fm/music/Zeph/_/i%27m+where+you+draw+the+line)
+* [Zeph — Lucky](https://www.last.fm/music/Zeph/_/Lucky)
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
+* [Zeph — Forever &amp; Always](https://www.last.fm/music/Zeph/_/Forever+&amp;+Always)
+* [Zeph — world](https://www.last.fm/music/Zeph/_/world)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
