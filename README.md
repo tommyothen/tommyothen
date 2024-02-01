@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
+* [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)
 * [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
 * [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
-* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
-* [JID — Surround Sound &lpar;feat. 21 Savage &amp; Baby Tate&rpar;](https://www.last.fm/music/JID/_/Surround+Sound+&lpar;feat.+21+Savage+&amp;+Baby+Tate&rpar;)<!-- LASTFM:END -->
+* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
