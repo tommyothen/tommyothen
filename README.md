@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Anemoria — The Pineapple Tradition](https://www.last.fm/music/Anemoria/_/The+Pineapple+Tradition)
+* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
 * [Zeph — bed - demo](https://www.last.fm/music/Zeph/_/bed+-+demo)
 * [Zeph — like everyone else](https://www.last.fm/music/Zeph/_/like+everyone+else)
-* [Zeph — history](https://www.last.fm/music/Zeph/_/history)
-* [Zeph — Sober](https://www.last.fm/music/Zeph/_/Sober)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)<!-- LASTFM:END -->
+* [Zeph — history](https://www.last.fm/music/Zeph/_/history)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
