@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
-* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
-* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)<!-- LASTFM:END -->
+* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
