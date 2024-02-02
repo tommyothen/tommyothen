@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)
+* [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)
 * [Pixey — The Thrill Of It](https://www.last.fm/music/Pixey/_/The+Thrill+Of+It)
 * [Cavetown — Let Them Know They&#39;re On Your Mind](https://www.last.fm/music/Cavetown/_/Let+Them+Know+They%27re+On+Your+Mind)
-* [Nxdia — She likes a boy](https://www.last.fm/music/Nxdia/_/She+likes+a+boy)
-* [Su Lee — Cocoa Butter Kisses](https://www.last.fm/music/Su+Lee/_/Cocoa+Butter+Kisses)
-* [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)<!-- LASTFM:END -->
+* [Nxdia — She likes a boy](https://www.last.fm/music/Nxdia/_/She+likes+a+boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
