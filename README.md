@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [punkinloveee — freak show](https://www.last.fm/music/punkinloveee/_/freak+show)
-* [Mitski — Francis Forever](https://www.last.fm/music/Mitski/_/Francis+Forever)
-* [Lil Darkie — i can see clearly](https://www.last.fm/music/Lil+Darkie/_/i+can+see+clearly)
-* [725 — Pretty Cvnt](https://www.last.fm/music/725/_/Pretty+Cvnt)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)<!-- LASTFM:END -->
+* [2 Mello — I Wanna Kno](https://www.last.fm/music/2+Mello/_/I+Wanna+Kno)
+* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
+* [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)
+* [punkinloveee — freak show](https://www.last.fm/music/punkinloveee/_/freak+show)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
