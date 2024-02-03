@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
 * [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)
 * [Britney Spears — Toxic](https://www.last.fm/music/Britney+Spears/_/Toxic)
 * [Britney Spears — ...Baby One More Time](https://www.last.fm/music/Britney+Spears/_/...Baby+One+More+Time)
-* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)
-* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)<!-- LASTFM:END -->
+* [Rihanna — Disturbia](https://www.last.fm/music/Rihanna/_/Disturbia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
