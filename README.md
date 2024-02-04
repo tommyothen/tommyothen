@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Zeph — world](https://www.last.fm/music/Zeph/_/world)
-* [Zeph — my fault](https://www.last.fm/music/Zeph/_/my+fault)
-* [Zeph — could you love me while i hate myself](https://www.last.fm/music/Zeph/_/could+you+love+me+while+i+hate+myself)
-* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)<!-- LASTFM:END -->
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
+* [Zeph — you](https://www.last.fm/music/Zeph/_/you)
+* [Zeph — i&#39;ll never fall in love with myself - demo](https://www.last.fm/music/Zeph/_/i%27ll+never+fall+in+love+with+myself+-+demo)
+* [Zeph — Forever &amp; Always](https://www.last.fm/music/Zeph/_/Forever+&amp;+Always)
+* [Zeph — world](https://www.last.fm/music/Zeph/_/world)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
