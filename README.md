@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)
 * [BewhY — Stand Out](https://www.last.fm/music/BewhY/_/Stand+Out)
 * [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
 * [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
-* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
-* [DAEGHO — Dirty Viibe](https://www.last.fm/music/DAEGHO/_/Dirty+Viibe)<!-- LASTFM:END -->
+* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
