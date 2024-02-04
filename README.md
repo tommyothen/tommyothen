@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Zeph — backseat](https://www.last.fm/music/Zeph/_/backseat)
-* [Zeph — scared of everything](https://www.last.fm/music/Zeph/_/scared+of+everything)
-* [Zeph — why did you look at me like that?](https://www.last.fm/music/Zeph/_/why+did+you+look+at+me+like+that%3F)
-* [Zeph — what&#39;s it like - demo](https://www.last.fm/music/Zeph/_/what%27s+it+like+-+demo)
-* [Zeph — home of hurt](https://www.last.fm/music/Zeph/_/home+of+hurt)<!-- LASTFM:END -->
+* [Zeph — my fault](https://www.last.fm/music/Zeph/_/my+fault)
+* [Zeph — could you love me while i hate myself](https://www.last.fm/music/Zeph/_/could+you+love+me+while+i+hate+myself)
+* [Zeph — character development](https://www.last.fm/music/Zeph/_/character+development)
+* [Zeph — you don&#39;t like me like that](https://www.last.fm/music/Zeph/_/you+don%27t+like+me+like+that)
+* [Zeph — backseat](https://www.last.fm/music/Zeph/_/backseat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
