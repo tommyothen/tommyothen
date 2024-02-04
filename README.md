@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
+* [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)
 * [BROCKBEATS — magic smoke](https://www.last.fm/music/BROCKBEATS/_/magic+smoke)
 * [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
-* [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)
-* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)<!-- LASTFM:END -->
+* [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
