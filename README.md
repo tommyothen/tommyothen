@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
 * [Zeph — something that i barely had](https://www.last.fm/music/Zeph/_/something+that+i+barely+had)
 * [Zeph — like everyone else](https://www.last.fm/music/Zeph/_/like+everyone+else)
-* [Zeph — bed - demo](https://www.last.fm/music/Zeph/_/bed+-+demo)
-* [Zeph — history](https://www.last.fm/music/Zeph/_/history)
-* [Zeph — Sober](https://www.last.fm/music/Zeph/_/Sober)<!-- LASTFM:END -->
+* [Zeph — bed - demo](https://www.last.fm/music/Zeph/_/bed+-+demo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
