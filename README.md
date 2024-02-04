@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
-* [Zeph — you](https://www.last.fm/music/Zeph/_/you)
-* [Zeph — i&#39;ll never fall in love with myself - demo](https://www.last.fm/music/Zeph/_/i%27ll+never+fall+in+love+with+myself+-+demo)
-* [Zeph — Forever &amp; Always](https://www.last.fm/music/Zeph/_/Forever+&amp;+Always)
-* [Zeph — world](https://www.last.fm/music/Zeph/_/world)<!-- LASTFM:END -->
+* [Zeph — Ways to Go](https://www.last.fm/music/Zeph/_/Ways+to+Go)
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
+* [Zeph — Walls](https://www.last.fm/music/Zeph/_/Walls)
+* [Zeph — i&#39;m where you draw the line](https://www.last.fm/music/Zeph/_/i%27m+where+you+draw+the+line)
+* [Zeph — Lucky](https://www.last.fm/music/Zeph/_/Lucky)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
