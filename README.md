@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)
+* [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)
 * [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)
 * [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)
-* [New West — Those Eyes &lpar;feat. Zeph&rpar;](https://www.last.fm/music/New+West/_/Those+Eyes+&lpar;feat.+Zeph&rpar;)
-* [Zeph — my fault](https://www.last.fm/music/Zeph/_/my+fault)
-* [Zeph — could you love me while i hate myself](https://www.last.fm/music/Zeph/_/could+you+love+me+while+i+hate+myself)<!-- LASTFM:END -->
+* [New West — Those Eyes &lpar;feat. Zeph&rpar;](https://www.last.fm/music/New+West/_/Those+Eyes+&lpar;feat.+Zeph&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
