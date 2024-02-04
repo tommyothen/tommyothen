@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
 * [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
 * [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)
 * [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)
-* [Heart — Alone](https://www.last.fm/music/Heart/_/Alone)
-* [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)<!-- LASTFM:END -->
+* [Heart — Alone](https://www.last.fm/music/Heart/_/Alone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
