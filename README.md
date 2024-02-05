@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [han.irl &lt;3 — dopamine crash!](https://www.last.fm/music/han.irl+%3C3/_/dopamine+crash!)
-* [New West — Those Eyes &lpar;feat. Zeph&rpar;](https://www.last.fm/music/New+West/_/Those+Eyes+&lpar;feat.+Zeph&rpar;)
-* [Darby — Think Bout U](https://www.last.fm/music/Darby/_/Think+Bout+U)
-* [Zeph — nightmare](https://www.last.fm/music/Zeph/_/nightmare)
-* [Kyoto Black — Looking Pretty](https://www.last.fm/music/Kyoto+Black/_/Looking+Pretty)<!-- LASTFM:END -->
+* [Sakima — Love On Repeat](https://www.last.fm/music/Sakima/_/Love+On+Repeat)
+* [Adore — falling back to earth](https://www.last.fm/music/Adore/_/falling+back+to+earth)
+* [Zeph — anything but safe and sound](https://www.last.fm/music/Zeph/_/anything+but+safe+and+sound)
+* [Babebee — VIDEO GAME](https://www.last.fm/music/Babebee/_/VIDEO+GAME)
+* [han.irl &lt;3 — dopamine crash!](https://www.last.fm/music/han.irl+%3C3/_/dopamine+crash!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
