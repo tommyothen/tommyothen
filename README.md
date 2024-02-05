@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)
+* [Oppidan — See Me](https://www.last.fm/music/Oppidan/_/See+Me)
+* [Kyoto Black — Looking Pretty](https://www.last.fm/music/Kyoto+Black/_/Looking+Pretty)
 * [Lilyisthatyou — Superstar](https://www.last.fm/music/Lilyisthatyou/_/Superstar)
-* [Zeph — epilogue](https://www.last.fm/music/Zeph/_/epilogue)
-* [camoufly — Told U So](https://www.last.fm/music/camoufly/_/Told+U+So)
-* [Sakima — Love On Repeat](https://www.last.fm/music/Sakima/_/Love+On+Repeat)
-* [Adore — falling back to earth](https://www.last.fm/music/Adore/_/falling+back+to+earth)<!-- LASTFM:END -->
+* [Zeph — epilogue](https://www.last.fm/music/Zeph/_/epilogue)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
