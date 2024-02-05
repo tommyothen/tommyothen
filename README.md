@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kyoto Black — Looking Pretty](https://www.last.fm/music/Kyoto+Black/_/Looking+Pretty)
 * [Ravenna Golden — Contest](https://www.last.fm/music/Ravenna+Golden/_/Contest)
 * [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
 * [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
