@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Darby — Everything](https://www.last.fm/music/Darby/_/Everything)
+* [camoufly — &lpar;I&#39;ve Been&rpar; Lookin 4 U](https://www.last.fm/music/camoufly/_/&lpar;I%27ve+Been&rpar;+Lookin+4+U)
+* [Ūla — SCANDAL](https://www.last.fm/music/%C5%AAla/_/SCANDAL)
 * [Lyn Lapid — tlit21c](https://www.last.fm/music/Lyn+Lapid/_/tlit21c)
-* [Melkin — CVS](https://www.last.fm/music/Melkin/_/CVS)
-* [Zeph — something that i barely had](https://www.last.fm/music/Zeph/_/something+that+i+barely+had)
-* [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)
-* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)<!-- LASTFM:END -->
+* [Melkin — CVS](https://www.last.fm/music/Melkin/_/CVS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
