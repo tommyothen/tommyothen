@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — nightmare](https://www.last.fm/music/Zeph/_/nightmare)
+* [Kyoto Black — Looking Pretty](https://www.last.fm/music/Kyoto+Black/_/Looking+Pretty)
+* [Oppidan — See Me](https://www.last.fm/music/Oppidan/_/See+Me)
 * [Zeph — my fault](https://www.last.fm/music/Zeph/_/my+fault)
-* [Zeph — you](https://www.last.fm/music/Zeph/_/you)
-* [Zeph — you](https://www.last.fm/music/Zeph/_/you)
-* [Darby — Everything](https://www.last.fm/music/Darby/_/Everything)
-* [camoufly — &lpar;I&#39;ve Been&rpar; Lookin 4 U](https://www.last.fm/music/camoufly/_/&lpar;I%27ve+Been&rpar;+Lookin+4+U)<!-- LASTFM:END -->
+* [Zeph — you](https://www.last.fm/music/Zeph/_/you)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
