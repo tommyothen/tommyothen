@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Zeph — my fault](https://www.last.fm/music/Zeph/_/my+fault)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)
-* [Kyoto Black — Looking Pretty](https://www.last.fm/music/Kyoto+Black/_/Looking+Pretty)
-* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)<!-- LASTFM:END -->
+* [Zeph — i&#39;m where you draw the line](https://www.last.fm/music/Zeph/_/i%27m+where+you+draw+the+line)
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
+* [Zeph — i&#39;ll never fall in love with myself - demo](https://www.last.fm/music/Zeph/_/i%27ll+never+fall+in+love+with+myself+-+demo)
+* [Zeph — Forever &amp; Always](https://www.last.fm/music/Zeph/_/Forever+&amp;+Always)
+* [Zeph — world](https://www.last.fm/music/Zeph/_/world)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
