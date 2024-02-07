@@ -32,7 +32,7 @@ Now Playing\
 * [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
 * [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
 * [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)<!-- LASTFM:END -->
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
