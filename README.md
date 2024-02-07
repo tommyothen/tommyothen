@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)
 * [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Ben Kessler — It Could Be Worse](https://www.last.fm/music/Ben+Kessler/_/It+Could+Be+Worse)
-* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)<!-- LASTFM:END -->
+* [Ben Kessler — It Could Be Worse](https://www.last.fm/music/Ben+Kessler/_/It+Could+Be+Worse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
