@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ellie Williams — Say You Do](https://www.last.fm/music/Ellie+Williams/_/Say+You+Do)
-* [Ellie Williams — Warning Signs](https://www.last.fm/music/Ellie+Williams/_/Warning+Signs)
-* [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)
-* [Ellie Williams — Warning Signs](https://www.last.fm/music/Ellie+Williams/_/Warning+Signs)
-* [Ellie Williams — Partly](https://www.last.fm/music/Ellie+Williams/_/Partly)<!-- LASTFM:END -->
+* [Ellie Williams — Glances](https://www.last.fm/music/Ellie+Williams/_/Glances)
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
+* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
+* [Ellie Williams — After You Go](https://www.last.fm/music/Ellie+Williams/_/After+You+Go)
+* [Ellie Williams — Say You Do](https://www.last.fm/music/Ellie+Williams/_/Say+You+Do)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
