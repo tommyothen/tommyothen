@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Glances](https://www.last.fm/music/Ellie+Williams/_/Glances)
 * [Laufey — Slow Down](https://www.last.fm/music/Laufey/_/Slow+Down)
 * [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)
 * [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
-* [Ellie Williams — Say You Do](https://www.last.fm/music/Ellie+Williams/_/Say+You+Do)
-* [Ellie Williams — Massive Heart Eyes](https://www.last.fm/music/Ellie+Williams/_/Massive+Heart+Eyes)<!-- LASTFM:END -->
+* [Ellie Williams — Say You Do](https://www.last.fm/music/Ellie+Williams/_/Say+You+Do)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
