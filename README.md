@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
+* [Suriel Hess — Sick of You](https://www.last.fm/music/Suriel+Hess/_/Sick+of+You)
 * [Ellie Williams — Glances](https://www.last.fm/music/Ellie+Williams/_/Glances)
 * [Laufey — Slow Down](https://www.last.fm/music/Laufey/_/Slow+Down)
-* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)
-* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
-* [Ellie Williams — Say You Do](https://www.last.fm/music/Ellie+Williams/_/Say+You+Do)<!-- LASTFM:END -->
+* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
