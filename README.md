@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cloudy June — Red Flag](https://www.last.fm/music/Cloudy+June/_/Red+Flag)
+* [REI AMI — SNOWCONE](https://www.last.fm/music/REI+AMI/_/SNOWCONE)
+* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)
 * [Cloudy June — Mommy Issues](https://www.last.fm/music/Cloudy+June/_/Mommy+Issues)
-* [Cloudy June — You Problem](https://www.last.fm/music/Cloudy+June/_/You+Problem)
-* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)<!-- LASTFM:END -->
+* [Cloudy June — You Problem](https://www.last.fm/music/Cloudy+June/_/You+Problem)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
