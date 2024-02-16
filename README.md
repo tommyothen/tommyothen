@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DEAN — 어때](https://www.last.fm/music/DEAN/_/%EC%96%B4%EB%95%8C)
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
 * [Milena — Riddle &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/Milena/_/Riddle+&lpar;feat.+Khundi+Panda&rpar;)
 * [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
-* [HUH — fuck′em up!](https://www.last.fm/music/HUH/_/fuck%E2%80%B2em+up!)
-* [XINSAYNE — Welcome](https://www.last.fm/music/XINSAYNE/_/Welcome)
-* [DEAN — 하루살이](https://www.last.fm/music/DEAN/_/%ED%95%98%EB%A3%A8%EC%82%B4%EC%9D%B4)<!-- LASTFM:END -->
+* [HUH — fuck′em up!](https://www.last.fm/music/HUH/_/fuck%E2%80%B2em+up!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
