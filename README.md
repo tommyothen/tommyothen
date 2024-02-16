@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — Die](https://www.last.fm/music/HUH/_/Die)
+* [Tabber — Electric Animal](https://www.last.fm/music/Tabber/_/Electric+Animal)
+* [ZICO — Nocturnal Animals &lpar;feat. Zior Park&rpar;](https://www.last.fm/music/ZICO/_/Nocturnal+Animals+&lpar;feat.+Zior+Park&rpar;)
 * [C Jamm — Error](https://www.last.fm/music/C+Jamm/_/Error)
-* [Une — foff &lpar;Feat. CHOILB&rpar;](https://www.last.fm/music/Une/_/foff+&lpar;Feat.+CHOILB&rpar;)
-* [Bibi — Witch Hunt](https://www.last.fm/music/Bibi/_/Witch+Hunt)
-* [BewhY — Side By Side](https://www.last.fm/music/BewhY/_/Side+By+Side)
-* [HUH — 2ttam &lpar;Feat. BOBBY&rpar;](https://www.last.fm/music/HUH/_/2ttam+&lpar;Feat.+BOBBY&rpar;)<!-- LASTFM:END -->
+* [Une — foff &lpar;Feat. CHOILB&rpar;](https://www.last.fm/music/Une/_/foff+&lpar;Feat.+CHOILB&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
