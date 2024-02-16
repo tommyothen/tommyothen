@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jey — Drug=love &lpar;Feat. Sik-K&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Drug=love+&lpar;Feat.+Sik-K&rpar;+&lpar;PROD.+GXXD&rpar;)
+* [XINSAYNE — Cliché](https://www.last.fm/music/XINSAYNE/_/Clich%C3%A9)
+* [DPR CREAM — Color Drive](https://www.last.fm/music/DPR+CREAM/_/Color+Drive)
 * [HUH — Die](https://www.last.fm/music/HUH/_/Die)
-* [Tabber — Electric Animal](https://www.last.fm/music/Tabber/_/Electric+Animal)
-* [ZICO — Nocturnal Animals &lpar;feat. Zior Park&rpar;](https://www.last.fm/music/ZICO/_/Nocturnal+Animals+&lpar;feat.+Zior+Park&rpar;)
-* [C Jamm — Error](https://www.last.fm/music/C+Jamm/_/Error)
-* [Une — foff &lpar;Feat. CHOILB&rpar;](https://www.last.fm/music/Une/_/foff+&lpar;Feat.+CHOILB&rpar;)<!-- LASTFM:END -->
+* [Tabber — Electric Animal](https://www.last.fm/music/Tabber/_/Electric+Animal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
