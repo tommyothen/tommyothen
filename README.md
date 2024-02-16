@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
+* [HUH — Pouritup &lpar;Feat. SOLE&rpar;](https://www.last.fm/music/HUH/_/Pouritup+&lpar;Feat.+SOLE&rpar;)
 * [FANXY CHILD — Y](https://www.last.fm/music/FANXY+CHILD/_/Y)
 * [DEAN — bonnie &amp; clyde](https://www.last.fm/music/DEAN/_/bonnie+&amp;+clyde)
-* [PENOMECO — RINDAMAN &lpar;Feat. ZICO&rpar;](https://www.last.fm/music/PENOMECO/_/RINDAMAN+&lpar;Feat.+ZICO&rpar;)
-* [Jey — Drug=love &lpar;Feat. Sik-K&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Drug=love+&lpar;Feat.+Sik-K&rpar;+&lpar;PROD.+GXXD&rpar;)
-* [XINSAYNE — Cliché](https://www.last.fm/music/XINSAYNE/_/Clich%C3%A9)<!-- LASTFM:END -->
+* [PENOMECO — RINDAMAN &lpar;Feat. ZICO&rpar;](https://www.last.fm/music/PENOMECO/_/RINDAMAN+&lpar;Feat.+ZICO&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
