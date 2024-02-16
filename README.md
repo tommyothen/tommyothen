@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Untell — HAVING &lpar;Prod. Will Not Fear&rpar;](https://www.last.fm/music/Untell/_/HAVING+&lpar;Prod.+Will+Not+Fear&rpar;)
-* [Swervy — ART GANG MONEY &lpar;Feat. Reddy&rpar;](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY+&lpar;Feat.+Reddy&rpar;)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)<!-- LASTFM:END -->
+* [QM — Plata](https://www.last.fm/music/QM/_/Plata)
+* [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)
+* [HUH — Dreamwalk](https://www.last.fm/music/HUH/_/Dreamwalk)
+* [BewhY — Holy Toast](https://www.last.fm/music/BewhY/_/Holy+Toast)
+* [BewhY — Holy Toast](https://www.last.fm/music/BewhY/_/Holy+Toast)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
