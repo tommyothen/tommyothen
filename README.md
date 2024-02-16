@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — hit the floor &lpar;sped up&rpar;](https://www.last.fm/music/HUH/_/hit+the+floor+&lpar;sped+up&rpar;)
+* [Tabber — Look At My](https://www.last.fm/music/Tabber/_/Look+At+My)
+* [Rad Museum — SOME GIRL](https://www.last.fm/music/Rad+Museum/_/SOME+GIRL)
 * [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
-* [HUH — Pouritup &lpar;Feat. SOLE&rpar;](https://www.last.fm/music/HUH/_/Pouritup+&lpar;Feat.+SOLE&rpar;)
-* [FANXY CHILD — Y](https://www.last.fm/music/FANXY+CHILD/_/Y)
-* [DEAN — bonnie &amp; clyde](https://www.last.fm/music/DEAN/_/bonnie+&amp;+clyde)
-* [PENOMECO — RINDAMAN &lpar;Feat. ZICO&rpar;](https://www.last.fm/music/PENOMECO/_/RINDAMAN+&lpar;Feat.+ZICO&rpar;)<!-- LASTFM:END -->
+* [HUH — Pouritup &lpar;Feat. SOLE&rpar;](https://www.last.fm/music/HUH/_/Pouritup+&lpar;Feat.+SOLE&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
