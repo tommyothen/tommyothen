@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jey — Bxxch &lpar;Feat. THEO&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Bxxch+&lpar;Feat.+THEO&rpar;+&lpar;PROD.+GXXD&rpar;)
+* [Untell — MR. LUCID DREAM](https://www.last.fm/music/Untell/_/MR.+LUCID+DREAM)
 * [BewhY — Celebration](https://www.last.fm/music/BewhY/_/Celebration)
 * [DPR LIVE — THIRST](https://www.last.fm/music/DPR+LIVE/_/THIRST)
-* [HUH — Midnight law &lpar;Feat. Skinny Brown&rpar;](https://www.last.fm/music/HUH/_/Midnight+law+&lpar;Feat.+Skinny+Brown&rpar;)
-* [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
-* [ZICO — OMZ Freestyle](https://www.last.fm/music/ZICO/_/OMZ+Freestyle)<!-- LASTFM:END -->
+* [HUH — Midnight law &lpar;Feat. Skinny Brown&rpar;](https://www.last.fm/music/HUH/_/Midnight+law+&lpar;Feat.+Skinny+Brown&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
