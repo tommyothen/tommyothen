@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XINSAYNE — Welcome](https://www.last.fm/music/XINSAYNE/_/Welcome)
+* [DEAN — 하루살이](https://www.last.fm/music/DEAN/_/%ED%95%98%EB%A3%A8%EC%82%B4%EC%9D%B4)
+* [Tabber — I Want You](https://www.last.fm/music/Tabber/_/I+Want+You)
 * [QM — Plata](https://www.last.fm/music/QM/_/Plata)
-* [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)
-* [HUH — Dreamwalk](https://www.last.fm/music/HUH/_/Dreamwalk)
-* [BewhY — Holy Toast](https://www.last.fm/music/BewhY/_/Holy+Toast)
-* [BewhY — Holy Toast](https://www.last.fm/music/BewhY/_/Holy+Toast)<!-- LASTFM:END -->
+* [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
