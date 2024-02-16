@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZICO — OMZ Freestyle](https://www.last.fm/music/ZICO/_/OMZ+Freestyle)
+* [BewhY — Rose &lpar;feat. SUMIN&rpar;](https://www.last.fm/music/BewhY/_/Rose+&lpar;feat.+SUMIN&rpar;)
+* [MUSHVENOM — 논산](https://www.last.fm/music/MUSHVENOM/_/%EB%85%BC%EC%82%B0)
 * [DPR CREAM — Problems](https://www.last.fm/music/DPR+CREAM/_/Problems)
-* [HUH — interlude 130](https://www.last.fm/music/HUH/_/interlude+130)
-* [ZICO — Freak](https://www.last.fm/music/ZICO/_/Freak)
-* [DEAN — 어때](https://www.last.fm/music/DEAN/_/%EC%96%B4%EB%95%8C)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)<!-- LASTFM:END -->
+* [HUH — interlude 130](https://www.last.fm/music/HUH/_/interlude+130)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
