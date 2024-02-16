@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [HUH — 2ttam &lpar;Feat. BOBBY&rpar;](https://www.last.fm/music/HUH/_/2ttam+&lpar;Feat.+BOBBY&rpar;)
-* [DEAN — 풀어](https://www.last.fm/music/DEAN/_/%ED%92%80%EC%96%B4)
-* [NAMSAYN — GETTING STARTED](https://www.last.fm/music/NAMSAYN/_/GETTING+STARTED)
-* [Jey — Bxxch &lpar;Feat. THEO&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Bxxch+&lpar;Feat.+THEO&rpar;+&lpar;PROD.+GXXD&rpar;)
-* [Untell — MR. LUCID DREAM](https://www.last.fm/music/Untell/_/MR.+LUCID+DREAM)<!-- LASTFM:END -->
+* [C Jamm — Error](https://www.last.fm/music/C+Jamm/_/Error)
+* [Une — foff &lpar;Feat. CHOILB&rpar;](https://www.last.fm/music/Une/_/foff+&lpar;Feat.+CHOILB&rpar;)
+* [Bibi — Witch Hunt](https://www.last.fm/music/Bibi/_/Witch+Hunt)
+* [BewhY — Side By Side](https://www.last.fm/music/BewhY/_/Side+By+Side)
+* [HUH — 2ttam &lpar;Feat. BOBBY&rpar;](https://www.last.fm/music/HUH/_/2ttam+&lpar;Feat.+BOBBY&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
