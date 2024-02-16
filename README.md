@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DEAN — bonnie &amp; clyde](https://www.last.fm/music/DEAN/_/bonnie+&amp;+clyde)
+* [PENOMECO — RINDAMAN &lpar;Feat. ZICO&rpar;](https://www.last.fm/music/PENOMECO/_/RINDAMAN+&lpar;Feat.+ZICO&rpar;)
 * [Jey — Drug=love &lpar;Feat. Sik-K&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Drug=love+&lpar;Feat.+Sik-K&rpar;+&lpar;PROD.+GXXD&rpar;)
 * [XINSAYNE — Cliché](https://www.last.fm/music/XINSAYNE/_/Clich%C3%A9)
-* [DPR CREAM — Color Drive](https://www.last.fm/music/DPR+CREAM/_/Color+Drive)
-* [HUH — Die](https://www.last.fm/music/HUH/_/Die)
-* [Tabber — Electric Animal](https://www.last.fm/music/Tabber/_/Electric+Animal)<!-- LASTFM:END -->
+* [DPR CREAM — Color Drive](https://www.last.fm/music/DPR+CREAM/_/Color+Drive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
