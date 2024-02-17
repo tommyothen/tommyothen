@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
 * [Ellie Williams — Partly](https://www.last.fm/music/Ellie+Williams/_/Partly)
 * [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
-* [saturn 17 — could this be love?](https://www.last.fm/music/saturn+17/_/could+this+be+love%3F)
-* [Zeph — what does he have that i don&#39;t?](https://www.last.fm/music/Zeph/_/what+does+he+have+that+i+don%27t%3F)
-* [Rook Monroe — Californialand](https://www.last.fm/music/Rook+Monroe/_/Californialand)<!-- LASTFM:END -->
+* [saturn 17 — could this be love?](https://www.last.fm/music/saturn+17/_/could+this+be+love%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
