@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Queens of the Stone Age — Go With the Flow](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Go+With+the+Flow)
+* [Queens of the Stone Age — Little Sister](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Little+Sister)
+* [Tsuko G. — Gas Gas Gas &lpar;Initial D&rpar;](https://www.last.fm/music/Tsuko+G./_/Gas+Gas+Gas+&lpar;Initial+D&rpar;)
 * [Tsuko G. — Deja Vu &lpar;Initial D&rpar;](https://www.last.fm/music/Tsuko+G./_/Deja+Vu+&lpar;Initial+D&rpar;)
-* [Max Coveri — Running in the 90&#39;s](https://www.last.fm/music/Max+Coveri/_/Running+in+the+90%27s)
-* [Benny Benassi — Cinema &lpar;feat. Gary Go&rpar; - Skrillex Remix](https://www.last.fm/music/Benny+Benassi/_/Cinema+&lpar;feat.+Gary+Go&rpar;+-+Skrillex+Remix)
-* [Flo Rida — Good Feeling](https://www.last.fm/music/Flo+Rida/_/Good+Feeling)
-* [Ellie Goulding — Starry Eyed](https://www.last.fm/music/Ellie+Goulding/_/Starry+Eyed)<!-- LASTFM:END -->
+* [Max Coveri — Running in the 90&#39;s](https://www.last.fm/music/Max+Coveri/_/Running+in+the+90%27s)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
