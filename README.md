@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — what does he have that i don&#39;t?](https://www.last.fm/music/Zeph/_/what+does+he+have+that+i+don%27t%3F)
+* [Rook Monroe — Californialand](https://www.last.fm/music/Rook+Monroe/_/Californialand)
 * [Chloe Ho — Let&#39;s Never Talk About It](https://www.last.fm/music/Chloe+Ho/_/Let%27s+Never+Talk+About+It)
 * [Ellie Williams — Perfect Playlist](https://www.last.fm/music/Ellie+Williams/_/Perfect+Playlist)
-* [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)
-* [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)
-* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)<!-- LASTFM:END -->
+* [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
