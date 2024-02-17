@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sam Sparro — Black &amp; Gold](https://www.last.fm/music/Sam+Sparro/_/Black+&amp;+Gold)
+* [Swedish House Mafia — One &lpar;Your Name&rpar;](https://www.last.fm/music/Swedish+House+Mafia/_/One+&lpar;Your+Name&rpar;)
 * [DVBBS — Tsunami &lpar;Jump&rpar; [feat. Tinie Tempah] - Radio Edit](https://www.last.fm/music/DVBBS/_/Tsunami+&lpar;Jump&rpar;+%5Bfeat.+Tinie+Tempah%5D+-+Radio+Edit)
 * [The Goo Goo Dolls — Iris](https://www.last.fm/music/The+Goo+Goo+Dolls/_/Iris)
-* [La Dispute — King Park](https://www.last.fm/music/La+Dispute/_/King+Park)
-* [La Dispute — Such Small Hands](https://www.last.fm/music/La+Dispute/_/Such+Small+Hands)
-* [Panchiko — D&gt;E&gt;A&gt;T&gt;H&gt;M&gt;E&gt;T&gt;A&gt;L](https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)<!-- LASTFM:END -->
+* [La Dispute — King Park](https://www.last.fm/music/La+Dispute/_/King+Park)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
