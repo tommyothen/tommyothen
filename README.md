@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
 * [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
 * [QM — Canoe &lpar;feat. BIBI&rpar;](https://www.last.fm/music/QM/_/Canoe+&lpar;feat.+BIBI&rpar;)
 * [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)
-* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
-* [BewhY — Vivian Girl](https://www.last.fm/music/BewhY/_/Vivian+Girl)<!-- LASTFM:END -->
+* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
