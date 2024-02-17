@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [adan diaz — girl at the skate park who smiled at me after i fell](https://www.last.fm/music/adan+diaz/_/girl+at+the+skate+park+who+smiled+at+me+after+i+fell)
+* [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
 * [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [BewhY — Holy Toast](https://www.last.fm/music/BewhY/_/Holy+Toast)
-* [BewhY — Curtain Call](https://www.last.fm/music/BewhY/_/Curtain+Call)<!-- LASTFM:END -->
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
