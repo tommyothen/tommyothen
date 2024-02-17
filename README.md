@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Goo Goo Dolls — Iris](https://www.last.fm/music/The+Goo+Goo+Dolls/_/Iris)
 * [La Dispute — King Park](https://www.last.fm/music/La+Dispute/_/King+Park)
 * [La Dispute — Such Small Hands](https://www.last.fm/music/La+Dispute/_/Such+Small+Hands)
 * [Panchiko — D&gt;E&gt;A&gt;T&gt;H&gt;M&gt;E&gt;T&gt;A&gt;L](https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)
-* [Julie — flutter](https://www.last.fm/music/Julie/_/flutter)
-* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)<!-- LASTFM:END -->
+* [Julie — flutter](https://www.last.fm/music/Julie/_/flutter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
