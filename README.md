@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chloe Ho — Let&#39;s Never Talk About It](https://www.last.fm/music/Chloe+Ho/_/Let%27s+Never+Talk+About+It)
+* [Ellie Williams — Perfect Playlist](https://www.last.fm/music/Ellie+Williams/_/Perfect+Playlist)
+* [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)
 * [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)
-* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
-* [saturn 17 — not my fault](https://www.last.fm/music/saturn+17/_/not+my+fault)
-* [dacelynn — 80&#39;s Makeout Session](https://www.last.fm/music/dacelynn/_/80%27s+Makeout+Session)
-* [mimi bay — no doubt](https://www.last.fm/music/mimi+bay/_/no+doubt)<!-- LASTFM:END -->
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
