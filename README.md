@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flo Rida — Good Feeling](https://www.last.fm/music/Flo+Rida/_/Good+Feeling)
+* [Ellie Goulding — Starry Eyed](https://www.last.fm/music/Ellie+Goulding/_/Starry+Eyed)
 * [Sam Sparro — Black &amp; Gold](https://www.last.fm/music/Sam+Sparro/_/Black+&amp;+Gold)
 * [Swedish House Mafia — One &lpar;Your Name&rpar;](https://www.last.fm/music/Swedish+House+Mafia/_/One+&lpar;Your+Name&rpar;)
-* [DVBBS — Tsunami &lpar;Jump&rpar; [feat. Tinie Tempah] - Radio Edit](https://www.last.fm/music/DVBBS/_/Tsunami+&lpar;Jump&rpar;+%5Bfeat.+Tinie+Tempah%5D+-+Radio+Edit)
-* [The Goo Goo Dolls — Iris](https://www.last.fm/music/The+Goo+Goo+Dolls/_/Iris)
-* [La Dispute — King Park](https://www.last.fm/music/La+Dispute/_/King+Park)<!-- LASTFM:END -->
+* [DVBBS — Tsunami &lpar;Jump&rpar; [feat. Tinie Tempah] - Radio Edit](https://www.last.fm/music/DVBBS/_/Tsunami+&lpar;Jump&rpar;+%5Bfeat.+Tinie+Tempah%5D+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
