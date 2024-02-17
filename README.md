@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tsuko G. — Deja Vu &lpar;Initial D&rpar;](https://www.last.fm/music/Tsuko+G./_/Deja+Vu+&lpar;Initial+D&rpar;)
+* [Max Coveri — Running in the 90&#39;s](https://www.last.fm/music/Max+Coveri/_/Running+in+the+90%27s)
+* [Benny Benassi — Cinema &lpar;feat. Gary Go&rpar; - Skrillex Remix](https://www.last.fm/music/Benny+Benassi/_/Cinema+&lpar;feat.+Gary+Go&rpar;+-+Skrillex+Remix)
 * [Flo Rida — Good Feeling](https://www.last.fm/music/Flo+Rida/_/Good+Feeling)
-* [Ellie Goulding — Starry Eyed](https://www.last.fm/music/Ellie+Goulding/_/Starry+Eyed)
-* [Sam Sparro — Black &amp; Gold](https://www.last.fm/music/Sam+Sparro/_/Black+&amp;+Gold)
-* [Swedish House Mafia — One &lpar;Your Name&rpar;](https://www.last.fm/music/Swedish+House+Mafia/_/One+&lpar;Your+Name&rpar;)
-* [DVBBS — Tsunami &lpar;Jump&rpar; [feat. Tinie Tempah] - Radio Edit](https://www.last.fm/music/DVBBS/_/Tsunami+&lpar;Jump&rpar;+%5Bfeat.+Tinie+Tempah%5D+-+Radio+Edit)<!-- LASTFM:END -->
+* [Ellie Goulding — Starry Eyed](https://www.last.fm/music/Ellie+Goulding/_/Starry+Eyed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
