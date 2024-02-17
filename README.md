@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
 * [BewhY — Holy Toast](https://www.last.fm/music/BewhY/_/Holy+Toast)
-* [BewhY — Curtain Call](https://www.last.fm/music/BewhY/_/Curtain+Call)
-* [Zion.T — V &lpar;Peace&rpar; &lpar;feat. AKMU&rpar;](https://www.last.fm/music/Zion.T/_/V+&lpar;Peace&rpar;+&lpar;feat.+AKMU&rpar;)
-* [HUH — hit the floor &lpar;sped up&rpar;](https://www.last.fm/music/HUH/_/hit+the+floor+&lpar;sped+up&rpar;)<!-- LASTFM:END -->
+* [BewhY — Curtain Call](https://www.last.fm/music/BewhY/_/Curtain+Call)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
