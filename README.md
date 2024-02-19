@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
+* [Camo &amp; Krooked — Good Times Bad Times &lpar;Document One Remix&rpar;](https://www.last.fm/music/Camo+&amp;+Krooked/_/Good+Times+Bad+Times+&lpar;Document+One+Remix&rpar;)
 * [Delta Heavy — Kaleidoscope](https://www.last.fm/music/Delta+Heavy/_/Kaleidoscope)
 * [Delta Heavy — Anarchy](https://www.last.fm/music/Delta+Heavy/_/Anarchy)
-* [Everyone You Know — Dance Like We Used To](https://www.last.fm/music/Everyone+You+Know/_/Dance+Like+We+Used+To)
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)<!-- LASTFM:END -->
+* [Everyone You Know — Dance Like We Used To](https://www.last.fm/music/Everyone+You+Know/_/Dance+Like+We+Used+To)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
