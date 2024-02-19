@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
 * [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [Camo &amp; Krooked — Good Times Bad Times &lpar;Document One Remix&rpar;](https://www.last.fm/music/Camo+&amp;+Krooked/_/Good+Times+Bad+Times+&lpar;Document+One+Remix&rpar;)<!-- LASTFM:END -->
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
