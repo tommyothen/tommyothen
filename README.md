@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Delta Heavy — Kaleidoscope](https://www.last.fm/music/Delta+Heavy/_/Kaleidoscope)
 * [Delta Heavy — Anarchy](https://www.last.fm/music/Delta+Heavy/_/Anarchy)
 * [Everyone You Know — Dance Like We Used To](https://www.last.fm/music/Everyone+You+Know/_/Dance+Like+We+Used+To)
 * [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)<!-- LASTFM:END -->
+* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
