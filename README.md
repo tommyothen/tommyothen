@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
 * [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
-* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)<!-- LASTFM:END -->
+* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
