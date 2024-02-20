@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tillie — jeLLiefish aPocaLypsE](https://www.last.fm/music/Tillie/_/jeLLiefish+aPocaLypsE)
+* [The Haunt — I&#39;m Not Yours](https://www.last.fm/music/The+Haunt/_/I%27m+Not+Yours)
+* [VIOLENT VIRA — I&#39;ll Save Myself This Time](https://www.last.fm/music/VIOLENT+VIRA/_/I%27ll+Save+Myself+This+Time)
 * [Mothica — sensitive](https://www.last.fm/music/Mothica/_/sensitive)
-* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [Cassyette — Petrichor](https://www.last.fm/music/Cassyette/_/Petrichor)
-* [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
-* [Elita — Sour Switchblade](https://www.last.fm/music/Elita/_/Sour+Switchblade)<!-- LASTFM:END -->
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
