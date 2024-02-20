@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mothica — sensitive](https://www.last.fm/music/Mothica/_/sensitive)
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
 * [Cassyette — Petrichor](https://www.last.fm/music/Cassyette/_/Petrichor)
 * [Corpse — fuK u lol](https://www.last.fm/music/Corpse/_/fuK+u+lol)
-* [Elita — Sour Switchblade](https://www.last.fm/music/Elita/_/Sour+Switchblade)
-* [VIOLENT VIRA — You Wanted More](https://www.last.fm/music/VIOLENT+VIRA/_/You+Wanted+More)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)<!-- LASTFM:END -->
+* [Elita — Sour Switchblade](https://www.last.fm/music/Elita/_/Sour+Switchblade)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
