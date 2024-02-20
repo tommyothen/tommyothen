@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [VIOLENT VIRA — Collar of Truth](https://www.last.fm/music/VIOLENT+VIRA/_/Collar+of+Truth)
-* [Kailee Morgue — This is Why I&#39;m Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
-* [Poppy — Iconic](https://www.last.fm/music/Poppy/_/Iconic)<!-- LASTFM:END -->
+* [Kyoto Black — Looking Pretty](https://www.last.fm/music/Kyoto+Black/_/Looking+Pretty)
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
+* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
