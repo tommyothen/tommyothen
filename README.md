@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kailee Morgue — This is Why I&#39;m Hot](https://www.last.fm/music/Kailee+Morgue/_/This+is+Why+I%27m+Hot)
+* [Poppy — Iconic](https://www.last.fm/music/Poppy/_/Iconic)
 * [Tillie — jeLLiefish aPocaLypsE](https://www.last.fm/music/Tillie/_/jeLLiefish+aPocaLypsE)
 * [The Haunt — I&#39;m Not Yours](https://www.last.fm/music/The+Haunt/_/I%27m+Not+Yours)
-* [VIOLENT VIRA — I&#39;ll Save Myself This Time](https://www.last.fm/music/VIOLENT+VIRA/_/I%27ll+Save+Myself+This+Time)
-* [Mothica — sensitive](https://www.last.fm/music/Mothica/_/sensitive)
-* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)<!-- LASTFM:END -->
+* [VIOLENT VIRA — I&#39;ll Save Myself This Time](https://www.last.fm/music/VIOLENT+VIRA/_/I%27ll+Save+Myself+This+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
