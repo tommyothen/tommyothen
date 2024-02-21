@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [Maybe Baby — Аскорбинка 2.0](https://www.last.fm/music/Maybe+Baby/_/%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0+2.0)
-* [Phinehas — In the Night](https://www.last.fm/music/Phinehas/_/In+the+Night)
-* [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)<!-- LASTFM:END -->
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
+* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
