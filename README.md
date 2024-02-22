@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gorillaz — On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)
+* [Clairo — Bags](https://www.last.fm/music/Clairo/_/Bags)
 * [Rex Orange County — Best Friend](https://www.last.fm/music/Rex+Orange+County/_/Best+Friend)
 * [Car Seat Headrest — Fill in the Blank](https://www.last.fm/music/Car+Seat+Headrest/_/Fill+in+the+Blank)
-* [Faye Webster — Kingston](https://www.last.fm/music/Faye+Webster/_/Kingston)
-* [Soccer Mommy — Your Dog](https://www.last.fm/music/Soccer+Mommy/_/Your+Dog)
-* [M.I.A. — Bad Girls](https://www.last.fm/music/M.I.A./_/Bad+Girls)<!-- LASTFM:END -->
+* [Faye Webster — Kingston](https://www.last.fm/music/Faye+Webster/_/Kingston)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
