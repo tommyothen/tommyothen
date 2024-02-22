@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [QM — Anchor &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/QM/_/Anchor+&lpar;feat.+Khundi+Panda&rpar;)
+* [Zion.T — Happy End.](https://www.last.fm/music/Zion.T/_/Happy+End.)
 * [One — Night Time Ride](https://www.last.fm/music/One/_/Night+Time+Ride)
 * [Reddy — Tag](https://www.last.fm/music/Reddy/_/Tag)
-* [HUH — Come Upright &lpar;Prod. Viann&rpar; - Instrumental](https://www.last.fm/music/HUH/_/Come+Upright+&lpar;Prod.+Viann&rpar;+-+Instrumental)
-* [EK — WOLF &lpar;prod. YoungSick&rpar;](https://www.last.fm/music/EK/_/WOLF+&lpar;prod.+YoungSick&rpar;)
-* [DPR CREAM — Problems](https://www.last.fm/music/DPR+CREAM/_/Problems)<!-- LASTFM:END -->
+* [HUH — Come Upright &lpar;Prod. Viann&rpar; - Instrumental](https://www.last.fm/music/HUH/_/Come+Upright+&lpar;Prod.+Viann&rpar;+-+Instrumental)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
