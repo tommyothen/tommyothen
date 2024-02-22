@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
+* [Glorb — The Bottom 2](https://www.last.fm/music/Glorb/_/The+Bottom+2)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [One — Angel](https://www.last.fm/music/One/_/Angel)
-* [Villain — Rescue Squad &lpar;Prod. by Ownr&rpar;](https://www.last.fm/music/Villain/_/Rescue+Squad+&lpar;Prod.+by+Ownr&rpar;)<!-- LASTFM:END -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
