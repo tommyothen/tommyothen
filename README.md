@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
+* [Memi — Guitar Pick](https://www.last.fm/music/Memi/_/Guitar+Pick)
 * [Nxdia — Ouch](https://www.last.fm/music/Nxdia/_/Ouch)
 * [Adventure Time — Monster &lpar;feat. Olivia Olson &amp; Half Shy&rpar;](https://www.last.fm/music/Adventure+Time/_/Monster+&lpar;feat.+Olivia+Olson+&amp;+Half+Shy&rpar;)
-* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)
-* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
-* [Cavetown — Sweet Tooth](https://www.last.fm/music/Cavetown/_/Sweet+Tooth)<!-- LASTFM:END -->
+* [mxmtoon — seasonal depression](https://www.last.fm/music/mxmtoon/_/seasonal+depression)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
