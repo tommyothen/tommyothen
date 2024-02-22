@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DEAN — bonnie &amp; clyde](https://www.last.fm/music/DEAN/_/bonnie+&amp;+clyde)
 * [Jey — Bxxch &lpar;Feat. THEO&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Bxxch+&lpar;Feat.+THEO&rpar;+&lpar;PROD.+GXXD&rpar;)
 * [One — Victoria](https://www.last.fm/music/One/_/Victoria)
 * [punchnello — Boiling Point &lpar;feat. Simon Dominic, Tabber&rpar; &lpar;Prod. by 0channel&rpar;](https://www.last.fm/music/punchnello/_/Boiling+Point+&lpar;feat.+Simon+Dominic,+Tabber&rpar;+&lpar;Prod.+by+0channel&rpar;)
-* [BewhY — My Star](https://www.last.fm/music/BewhY/_/My+Star)
-* [JUSTHIS — IndiGO](https://www.last.fm/music/JUSTHIS/_/IndiGO)<!-- LASTFM:END -->
+* [BewhY — My Star](https://www.last.fm/music/BewhY/_/My+Star)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
