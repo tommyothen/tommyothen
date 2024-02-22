@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [boygenius — Bite the Hand](https://www.last.fm/music/boygenius/_/Bite+the+Hand)
 * [Dreamville — Under the Sun &lpar;with J. Cole &amp; Lute feat. DaBaby&rpar;](https://www.last.fm/music/Dreamville/_/Under+the+Sun+&lpar;with+J.+Cole+&amp;+Lute+feat.+DaBaby&rpar;)
 * [Aaron May — Ride](https://www.last.fm/music/Aaron+May/_/Ride)
 * [Isaiah Rashad — Find a Topic &lpar;homies begged&rpar;](https://www.last.fm/music/Isaiah+Rashad/_/Find+a+Topic+&lpar;homies+begged&rpar;)
-* [Offset — Danger &lpar;Spider&rpar; &lpar;Offset &amp; JID&rpar;](https://www.last.fm/music/Offset/_/Danger+&lpar;Spider&rpar;+&lpar;Offset+&amp;+JID&rpar;)
-* [JID — Van Gogh &lpar;feat. Lil Yachty&rpar;](https://www.last.fm/music/JID/_/Van+Gogh+&lpar;feat.+Lil+Yachty&rpar;)<!-- LASTFM:END -->
+* [Offset — Danger &lpar;Spider&rpar; &lpar;Offset &amp; JID&rpar;](https://www.last.fm/music/Offset/_/Danger+&lpar;Spider&rpar;+&lpar;Offset+&amp;+JID&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
