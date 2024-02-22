@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Isaiah Rashad — Find a Topic &lpar;homies begged&rpar;](https://www.last.fm/music/Isaiah+Rashad/_/Find+a+Topic+&lpar;homies+begged&rpar;)
+* [Offset — Danger &lpar;Spider&rpar; &lpar;Offset &amp; JID&rpar;](https://www.last.fm/music/Offset/_/Danger+&lpar;Spider&rpar;+&lpar;Offset+&amp;+JID&rpar;)
+* [JID — Van Gogh &lpar;feat. Lil Yachty&rpar;](https://www.last.fm/music/JID/_/Van+Gogh+&lpar;feat.+Lil+Yachty&rpar;)
 * [Mother Mother — Nobody Escapes](https://www.last.fm/music/Mother+Mother/_/Nobody+Escapes)
-* [DJ Drama — Legendary - Chopped Not Slopped](https://www.last.fm/music/DJ+Drama/_/Legendary+-+Chopped+Not+Slopped)
-* [ukiyo — Insects](https://www.last.fm/music/ukiyo/_/Insects)
-* [Saib — On The Run](https://www.last.fm/music/Saib/_/On+The+Run)
-* [doogles — Resting Grounds - Hollow Knight](https://www.last.fm/music/doogles/_/Resting+Grounds+-+Hollow+Knight)<!-- LASTFM:END -->
+* [DJ Drama — Legendary - Chopped Not Slopped](https://www.last.fm/music/DJ+Drama/_/Legendary+-+Chopped+Not+Slopped)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
