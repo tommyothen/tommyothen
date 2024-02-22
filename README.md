@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cavetown — Sweet Tooth](https://www.last.fm/music/Cavetown/_/Sweet+Tooth)
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [Allie X — Bitch](https://www.last.fm/music/Allie+X/_/Bitch)
 * [Mitski — First Love / Late Spring](https://www.last.fm/music/Mitski/_/First+Love+%2F+Late+Spring)
-* [Roar — I Can&#39;t Handle Change](https://www.last.fm/music/Roar/_/I+Can%27t+Handle+Change)
-* [Marina — Primadonna](https://www.last.fm/music/Marina/_/Primadonna)
-* [Melanie Martinez — Cry Baby](https://www.last.fm/music/Melanie+Martinez/_/Cry+Baby)<!-- LASTFM:END -->
+* [Roar — I Can&#39;t Handle Change](https://www.last.fm/music/Roar/_/I+Can%27t+Handle+Change)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
