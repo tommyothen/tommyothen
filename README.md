@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
-* [Glorb — The Bottom 2](https://www.last.fm/music/Glorb/_/The+Bottom+2)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
+* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)
+* [Zeph — something that i barely had](https://www.last.fm/music/Zeph/_/something+that+i+barely+had)
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
