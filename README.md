@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ashnikko — Cry &lpar;feat. Grimes&rpar;](https://www.last.fm/music/Ashnikko/_/Cry+&lpar;feat.+Grimes&rpar;)
+* [Rina Sawayama — Comme des Garçons &lpar;Like the Boys&rpar;](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+&lpar;Like+the+Boys&rpar;)
 * [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
 * [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Mac Miller — Cinderella &lpar;feat. Ty Dolla $ign&rpar;](https://www.last.fm/music/Mac+Miller/_/Cinderella+&lpar;feat.+Ty+Dolla+$ign&rpar;)
-* [Mac Miller — Inside Outside](https://www.last.fm/music/Mac+Miller/_/Inside+Outside)
-* [Mac Miller — What&#39;s the Use?](https://www.last.fm/music/Mac+Miller/_/What%27s+the+Use%3F)<!-- LASTFM:END -->
+* [Mac Miller — Cinderella &lpar;feat. Ty Dolla $ign&rpar;](https://www.last.fm/music/Mac+Miller/_/Cinderella+&lpar;feat.+Ty+Dolla+$ign&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
