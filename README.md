@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [REI AMI — body bag](https://www.last.fm/music/REI+AMI/_/body+bag)
-* [Spider — daisy chains](https://www.last.fm/music/Spider/_/daisy+chains)
-* [DyE — supernAtural](https://www.last.fm/music/DyE/_/supernAtural)
-* [Deijuvhs — Gaunt](https://www.last.fm/music/Deijuvhs/_/Gaunt)
-* [WARGASM &lpar;UK&rpar; — Modern Love](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Modern+Love)<!-- LASTFM:END -->
+* [Maya Manuela — playing pretend](https://www.last.fm/music/Maya+Manuela/_/playing+pretend)
+* [dacelynn — 80&#39;s Makeout Session](https://www.last.fm/music/dacelynn/_/80%27s+Makeout+Session)
+* [Easha — You Make Me Feel](https://www.last.fm/music/Easha/_/You+Make+Me+Feel)
+* [Lyn Lapid — tlit21c](https://www.last.fm/music/Lyn+Lapid/_/tlit21c)
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
