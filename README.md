@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lazy Rich — Flash](https://www.last.fm/music/Lazy+Rich/_/Flash)
 * [Lazy Rich — BONK!](https://www.last.fm/music/Lazy+Rich/_/BONK!)
 * [Lazy Rich — FuNK eL - Lazy Rich Club Mix](https://www.last.fm/music/Lazy+Rich/_/FuNK+eL+-+Lazy+Rich+Club+Mix)
 * [Lazy Rich — International Bastard - Original](https://www.last.fm/music/Lazy+Rich/_/International+Bastard+-+Original)
-* [ZICO — OMZ Freestyle](https://www.last.fm/music/ZICO/_/OMZ+Freestyle)
-* [DPR LIVE — THIRST](https://www.last.fm/music/DPR+LIVE/_/THIRST)<!-- LASTFM:END -->
+* [ZICO — OMZ Freestyle](https://www.last.fm/music/ZICO/_/OMZ+Freestyle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
