@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mac Miller — Cinderella &lpar;feat. Ty Dolla $ign&rpar;](https://www.last.fm/music/Mac+Miller/_/Cinderella+&lpar;feat.+Ty+Dolla+$ign&rpar;)
 * [Mac Miller — Inside Outside](https://www.last.fm/music/Mac+Miller/_/Inside+Outside)
 * [Mac Miller — What&#39;s the Use?](https://www.last.fm/music/Mac+Miller/_/What%27s+the+Use%3F)
 * [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)
-* [Mac Miller — The Spins](https://www.last.fm/music/Mac+Miller/_/The+Spins)
-* [Maya Manuela — playing pretend](https://www.last.fm/music/Maya+Manuela/_/playing+pretend)<!-- LASTFM:END -->
+* [Mac Miller — The Spins](https://www.last.fm/music/Mac+Miller/_/The+Spins)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
