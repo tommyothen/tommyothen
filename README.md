@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [P1Harmony — Killin&#39; It](https://www.last.fm/music/P1Harmony/_/Killin%27+It)
+* [TWICE — I GOT YOU &lpar;feat. Lauv&rpar;](https://www.last.fm/music/TWICE/_/I+GOT+YOU+&lpar;feat.+Lauv&rpar;)
+* [MAX — STUPID IN LOVE &lpar;feat. HUH YUNJIN of LE SSERAFIM&rpar;](https://www.last.fm/music/MAX/_/STUPID+IN+LOVE+&lpar;feat.+HUH+YUNJIN+of+LE+SSERAFIM&rpar;)
 * [Gorillaz — On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)
-* [Clairo — Bags](https://www.last.fm/music/Clairo/_/Bags)
-* [Rex Orange County — Best Friend](https://www.last.fm/music/Rex+Orange+County/_/Best+Friend)
-* [Car Seat Headrest — Fill in the Blank](https://www.last.fm/music/Car+Seat+Headrest/_/Fill+in+the+Blank)
-* [Faye Webster — Kingston](https://www.last.fm/music/Faye+Webster/_/Kingston)<!-- LASTFM:END -->
+* [Clairo — Bags](https://www.last.fm/music/Clairo/_/Bags)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
