@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [girl in red — Too Much](https://www.last.fm/music/girl+in+red/_/Too+Much)
+* [DPR ARTIC — Do or Die &lpar;ft. DPR IAN&rpar;](https://www.last.fm/music/DPR+ARTIC/_/Do+or+Die+&lpar;ft.+DPR+IAN&rpar;)
 * [P1Harmony — Killin&#39; It](https://www.last.fm/music/P1Harmony/_/Killin%27+It)
 * [TWICE — I GOT YOU &lpar;feat. Lauv&rpar;](https://www.last.fm/music/TWICE/_/I+GOT+YOU+&lpar;feat.+Lauv&rpar;)
-* [MAX — STUPID IN LOVE &lpar;feat. HUH YUNJIN of LE SSERAFIM&rpar;](https://www.last.fm/music/MAX/_/STUPID+IN+LOVE+&lpar;feat.+HUH+YUNJIN+of+LE+SSERAFIM&rpar;)
-* [Gorillaz — On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)
-* [Clairo — Bags](https://www.last.fm/music/Clairo/_/Bags)<!-- LASTFM:END -->
+* [MAX — STUPID IN LOVE &lpar;feat. HUH YUNJIN of LE SSERAFIM&rpar;](https://www.last.fm/music/MAX/_/STUPID+IN+LOVE+&lpar;feat.+HUH+YUNJIN+of+LE+SSERAFIM&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
