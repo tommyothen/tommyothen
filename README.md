@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Laufey — From The Start](https://www.last.fm/music/Laufey/_/From+The+Start)
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
-* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)
-* [Zeph — something that i barely had](https://www.last.fm/music/Zeph/_/something+that+i+barely+had)<!-- LASTFM:END -->
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
