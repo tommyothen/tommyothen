@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DEAN — Howlin&#39; 404](https://www.last.fm/music/DEAN/_/Howlin%27+404)
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
+* [Benjamin Ingrosso — KITE](https://www.last.fm/music/Benjamin+Ingrosso/_/KITE)
 * [Nessa Barrett — girl in new york](https://www.last.fm/music/Nessa+Barrett/_/girl+in+new+york)
-* [Dylan — The Alibi](https://www.last.fm/music/Dylan/_/The+Alibi)
-* [L Devine — Eaten Alive](https://www.last.fm/music/L+Devine/_/Eaten+Alive)
-* [The Kid LAROI — BLEED](https://www.last.fm/music/The+Kid+LAROI/_/BLEED)
-* [REI AMI — EVERYBODY ELSE](https://www.last.fm/music/REI+AMI/_/EVERYBODY+ELSE)<!-- LASTFM:END -->
+* [Dylan — The Alibi](https://www.last.fm/music/Dylan/_/The+Alibi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
