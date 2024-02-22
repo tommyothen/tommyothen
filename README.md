@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nessa Barrett — girl in new york](https://www.last.fm/music/Nessa+Barrett/_/girl+in+new+york)
+* [Dylan — The Alibi](https://www.last.fm/music/Dylan/_/The+Alibi)
 * [L Devine — Eaten Alive](https://www.last.fm/music/L+Devine/_/Eaten+Alive)
 * [The Kid LAROI — BLEED](https://www.last.fm/music/The+Kid+LAROI/_/BLEED)
-* [REI AMI — EVERYBODY ELSE](https://www.last.fm/music/REI+AMI/_/EVERYBODY+ELSE)
-* [REI AMI — shhh](https://www.last.fm/music/REI+AMI/_/shhh)
-* [REI AMI — CHERRY CHAPSTICK &lpar;feat. Lolo Zouaï&rpar;](https://www.last.fm/music/REI+AMI/_/CHERRY+CHAPSTICK+&lpar;feat.+Lolo+Zoua%C3%AF&rpar;)<!-- LASTFM:END -->
+* [REI AMI — EVERYBODY ELSE](https://www.last.fm/music/REI+AMI/_/EVERYBODY+ELSE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
