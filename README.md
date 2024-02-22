@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [One — Angel](https://www.last.fm/music/One/_/Angel)
+* [Villain — Rescue Squad &lpar;Prod. by Ownr&rpar;](https://www.last.fm/music/Villain/_/Rescue+Squad+&lpar;Prod.+by+Ownr&rpar;)
 * [DPR CREAM — Color Drive](https://www.last.fm/music/DPR+CREAM/_/Color+Drive)
 * [Rad Museum — Tiny Little Boy &lpar;feat. DEAN&rpar;](https://www.last.fm/music/Rad+Museum/_/Tiny+Little+Boy+&lpar;feat.+DEAN&rpar;)
-* [QM — Anchor &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/QM/_/Anchor+&lpar;feat.+Khundi+Panda&rpar;)
-* [Zion.T — Happy End.](https://www.last.fm/music/Zion.T/_/Happy+End.)
-* [One — Night Time Ride](https://www.last.fm/music/One/_/Night+Time+Ride)<!-- LASTFM:END -->
+* [QM — Anchor &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/QM/_/Anchor+&lpar;feat.+Khundi+Panda&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
