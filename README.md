@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — yes, and?](https://www.last.fm/music/Ariana+Grande/_/yes,+and%3F)
+* [Kanye West — Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)
 * [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)
 * [Lazy Rich — Goodride - Lazy Rich Remix](https://www.last.fm/music/Lazy+Rich/_/Goodride+-+Lazy+Rich+Remix)
-* [Lazy Rich — Flash](https://www.last.fm/music/Lazy+Rich/_/Flash)
-* [Lazy Rich — BONK!](https://www.last.fm/music/Lazy+Rich/_/BONK!)
-* [Lazy Rich — FuNK eL - Lazy Rich Club Mix](https://www.last.fm/music/Lazy+Rich/_/FuNK+eL+-+Lazy+Rich+Club+Mix)<!-- LASTFM:END -->
+* [Lazy Rich — Flash](https://www.last.fm/music/Lazy+Rich/_/Flash)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
