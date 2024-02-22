@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [EK — WOLF &lpar;prod. YoungSick&rpar;](https://www.last.fm/music/EK/_/WOLF+&lpar;prod.+YoungSick&rpar;)
+* [DPR CREAM — Problems](https://www.last.fm/music/DPR+CREAM/_/Problems)
+* [Jey — Drug=love &lpar;Feat. Sik-K&rpar; &lpar;PROD. GXXD&rpar;](https://www.last.fm/music/Jey/_/Drug=love+&lpar;Feat.+Sik-K&rpar;+&lpar;PROD.+GXXD&rpar;)
 * [One — Nineteen](https://www.last.fm/music/One/_/Nineteen)
-* [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)
-* [JUSTHIS — SUN GOES DOWN &lpar;Prod. R.Tee&rpar;](https://www.last.fm/music/JUSTHIS/_/SUN+GOES+DOWN+&lpar;Prod.+R.Tee&rpar;)
-* [YUMDDA — I Told You I Like You](https://www.last.fm/music/YUMDDA/_/I+Told+You+I+Like+You)
-* [DEAN — bonnie &amp; clyde](https://www.last.fm/music/DEAN/_/bonnie+&amp;+clyde)<!-- LASTFM:END -->
+* [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
