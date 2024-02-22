@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rad Museum — Tiny Little Boy &lpar;feat. DEAN&rpar;](https://www.last.fm/music/Rad+Museum/_/Tiny+Little+Boy+&lpar;feat.+DEAN&rpar;)
 * [QM — Anchor &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/QM/_/Anchor+&lpar;feat.+Khundi+Panda&rpar;)
 * [Zion.T — Happy End.](https://www.last.fm/music/Zion.T/_/Happy+End.)
 * [One — Night Time Ride](https://www.last.fm/music/One/_/Night+Time+Ride)
-* [Reddy — Tag](https://www.last.fm/music/Reddy/_/Tag)
-* [HUH — Come Upright &lpar;Prod. Viann&rpar; - Instrumental](https://www.last.fm/music/HUH/_/Come+Upright+&lpar;Prod.+Viann&rpar;+-+Instrumental)<!-- LASTFM:END -->
+* [Reddy — Tag](https://www.last.fm/music/Reddy/_/Tag)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
