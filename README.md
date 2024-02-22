@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)
-* [BewhY — Vivian Girl](https://www.last.fm/music/BewhY/_/Vivian+Girl)
-* [E SENS — Confirmed](https://www.last.fm/music/E+SENS/_/Confirmed)<!-- LASTFM:END -->
+* [NAMSAYN — GETTING STARTED](https://www.last.fm/music/NAMSAYN/_/GETTING+STARTED)
+* [LE SSERAFIM — EASY](https://www.last.fm/music/LE+SSERAFIM/_/EASY)
+* [BewhY — Stand Out](https://www.last.fm/music/BewhY/_/Stand+Out)
+* [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)
+* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
