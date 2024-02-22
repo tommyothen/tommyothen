@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Deijuvhs — Gaunt](https://www.last.fm/music/Deijuvhs/_/Gaunt)
+* [WARGASM &lpar;UK&rpar; — Modern Love](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Modern+Love)
 * [Lia Lia — Am I Human?](https://www.last.fm/music/Lia+Lia/_/Am+I+Human%3F)
 * [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
-* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
-* [Memi — Guitar Pick](https://www.last.fm/music/Memi/_/Guitar+Pick)
-* [Nxdia — Ouch](https://www.last.fm/music/Nxdia/_/Ouch)<!-- LASTFM:END -->
+* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
