@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [Phinehas — In the Night](https://www.last.fm/music/Phinehas/_/In+the+Night)
-* [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)<!-- LASTFM:END -->
+* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
