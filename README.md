@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DEAN — 풀어](https://www.last.fm/music/DEAN/_/%ED%92%80%EC%96%B4)
+* [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)
+* [Tabber — Look At My](https://www.last.fm/music/Tabber/_/Look+At+My)
 * [ZICO — OMZ Freestyle](https://www.last.fm/music/ZICO/_/OMZ+Freestyle)
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
-* [Swervy — ART GANG MONEY &lpar;Feat. Reddy&rpar;](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY+&lpar;Feat.+Reddy&rpar;)
-* [Rad Museum — SOME GIRL](https://www.last.fm/music/Rad+Museum/_/SOME+GIRL)
-* [DEAN — 하루살이](https://www.last.fm/music/DEAN/_/%ED%95%98%EB%A3%A8%EC%82%B4%EC%9D%B4)<!-- LASTFM:END -->
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
