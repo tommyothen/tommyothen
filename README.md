@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [REI AMI — EVERYBODY ELSE](https://www.last.fm/music/REI+AMI/_/EVERYBODY+ELSE)
+* [REI AMI — shhh](https://www.last.fm/music/REI+AMI/_/shhh)
+* [REI AMI — CHERRY CHAPSTICK &lpar;feat. Lolo Zouaï&rpar;](https://www.last.fm/music/REI+AMI/_/CHERRY+CHAPSTICK+&lpar;feat.+Lolo+Zoua%C3%AF&rpar;)
 * [REI AMI — THAT&#39;S ON YOU!](https://www.last.fm/music/REI+AMI/_/THAT%27S+ON+YOU!)
-* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)
-* [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)
-* [Piri — on &amp; on](https://www.last.fm/music/Piri/_/on+&amp;+on)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)<!-- LASTFM:END -->
+* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
