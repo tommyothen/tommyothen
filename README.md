@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ukiyo — Insects](https://www.last.fm/music/ukiyo/_/Insects)
+* [Saib — On The Run](https://www.last.fm/music/Saib/_/On+The+Run)
 * [doogles — Resting Grounds - Hollow Knight](https://www.last.fm/music/doogles/_/Resting+Grounds+-+Hollow+Knight)
 * [REI AMI — SNOWCONE](https://www.last.fm/music/REI+AMI/_/SNOWCONE)
-* [Ashnikko — Cry &lpar;feat. Grimes&rpar;](https://www.last.fm/music/Ashnikko/_/Cry+&lpar;feat.+Grimes&rpar;)
-* [Rina Sawayama — Comme des Garçons &lpar;Like the Boys&rpar;](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+&lpar;Like+the+Boys&rpar;)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
+* [Ashnikko — Cry &lpar;feat. Grimes&rpar;](https://www.last.fm/music/Ashnikko/_/Cry+&lpar;feat.+Grimes&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
