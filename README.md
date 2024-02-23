@@ -28,9 +28,9 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Stand Out](https://www.last.fm/music/BewhY/_/Stand+Out)
+* [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
 * [QM — Canoe &lpar;feat. BIBI&rpar;](https://www.last.fm/music/QM/_/Canoe+&lpar;feat.+BIBI&rpar;)
-* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
 
