@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [REI AMI — THAT&#39;S ON YOU!](https://www.last.fm/music/REI+AMI/_/THAT%27S+ON+YOU!)
+* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)
 * [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)
 * [Piri — on &amp; on](https://www.last.fm/music/Piri/_/on+&amp;+on)
-* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [Dizzee Rascal — Bonkers](https://www.last.fm/music/Dizzee+Rascal/_/Bonkers)
-* [Basement Jaxx — Where&#39;s Your Head At](https://www.last.fm/music/Basement+Jaxx/_/Where%27s+Your+Head+At)<!-- LASTFM:END -->
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
