@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [The 1975 — Somebody Else](https://www.last.fm/music/The+1975/_/Somebody+Else)
-* [boygenius — Bite the Hand](https://www.last.fm/music/boygenius/_/Bite+the+Hand)
-* [Dreamville — Under the Sun &lpar;with J. Cole &amp; Lute feat. DaBaby&rpar;](https://www.last.fm/music/Dreamville/_/Under+the+Sun+&lpar;with+J.+Cole+&amp;+Lute+feat.+DaBaby&rpar;)
-* [Aaron May — Ride](https://www.last.fm/music/Aaron+May/_/Ride)
-* [Isaiah Rashad — Find a Topic &lpar;homies begged&rpar;](https://www.last.fm/music/Isaiah+Rashad/_/Find+a+Topic+&lpar;homies+begged&rpar;)<!-- LASTFM:END -->
+* [Faye Webster — Kingston](https://www.last.fm/music/Faye+Webster/_/Kingston)
+* [Soccer Mommy — Your Dog](https://www.last.fm/music/Soccer+Mommy/_/Your+Dog)
+* [M.I.A. — Bad Girls](https://www.last.fm/music/M.I.A./_/Bad+Girls)
+* [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)
+* [The 1975 — Somebody Else](https://www.last.fm/music/The+1975/_/Somebody+Else)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
