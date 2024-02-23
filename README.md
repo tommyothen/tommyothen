@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rex Orange County — Best Friend](https://www.last.fm/music/Rex+Orange+County/_/Best+Friend)
+* [Car Seat Headrest — Fill in the Blank](https://www.last.fm/music/Car+Seat+Headrest/_/Fill+in+the+Blank)
 * [Faye Webster — Kingston](https://www.last.fm/music/Faye+Webster/_/Kingston)
 * [Soccer Mommy — Your Dog](https://www.last.fm/music/Soccer+Mommy/_/Your+Dog)
-* [M.I.A. — Bad Girls](https://www.last.fm/music/M.I.A./_/Bad+Girls)
-* [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)
-* [The 1975 — Somebody Else](https://www.last.fm/music/The+1975/_/Somebody+Else)<!-- LASTFM:END -->
+* [M.I.A. — Bad Girls](https://www.last.fm/music/M.I.A./_/Bad+Girls)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
