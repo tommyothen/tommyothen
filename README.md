@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rad Museum — SOME GIRL](https://www.last.fm/music/Rad+Museum/_/SOME+GIRL)
+* [DEAN — 하루살이](https://www.last.fm/music/DEAN/_/%ED%95%98%EB%A3%A8%EC%82%B4%EC%9D%B4)
 * [Tabber — Baby Doll](https://www.last.fm/music/Tabber/_/Baby+Doll)
 * [Bibi — Witch Hunt](https://www.last.fm/music/Bibi/_/Witch+Hunt)
-* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
-* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)<!-- LASTFM:END -->
+* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
