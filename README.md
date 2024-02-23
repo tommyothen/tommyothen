@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JID — Van Gogh &lpar;feat. Lil Yachty&rpar;](https://www.last.fm/music/JID/_/Van+Gogh+&lpar;feat.+Lil+Yachty&rpar;)
+* [Mother Mother — Nobody Escapes](https://www.last.fm/music/Mother+Mother/_/Nobody+Escapes)
+* [DJ Drama — Legendary - Chopped Not Slopped](https://www.last.fm/music/DJ+Drama/_/Legendary+-+Chopped+Not+Slopped)
 * [ukiyo — Insects](https://www.last.fm/music/ukiyo/_/Insects)
-* [Saib — On The Run](https://www.last.fm/music/Saib/_/On+The+Run)
-* [doogles — Resting Grounds - Hollow Knight](https://www.last.fm/music/doogles/_/Resting+Grounds+-+Hollow+Knight)
-* [REI AMI — SNOWCONE](https://www.last.fm/music/REI+AMI/_/SNOWCONE)
-* [Ashnikko — Cry &lpar;feat. Grimes&rpar;](https://www.last.fm/music/Ashnikko/_/Cry+&lpar;feat.+Grimes&rpar;)<!-- LASTFM:END -->
+* [Saib — On The Run](https://www.last.fm/music/Saib/_/On+The+Run)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
