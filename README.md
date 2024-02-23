@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
 * [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)
 * [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
 * [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [E SENS — Confirmed](https://www.last.fm/music/E+SENS/_/Confirmed)
-* [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)<!-- LASTFM:END -->
+* [E SENS — Confirmed](https://www.last.fm/music/E+SENS/_/Confirmed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
