@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nelly Furtado — Maneater](https://www.last.fm/music/Nelly+Furtado/_/Maneater)
+* [Piri — on &amp; on](https://www.last.fm/music/Piri/_/on+&amp;+on)
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
 * [Dizzee Rascal — Bonkers](https://www.last.fm/music/Dizzee+Rascal/_/Bonkers)
-* [Basement Jaxx — Where&#39;s Your Head At](https://www.last.fm/music/Basement+Jaxx/_/Where%27s+Your+Head+At)
-* [girl in red — Too Much](https://www.last.fm/music/girl+in+red/_/Too+Much)
-* [DPR ARTIC — Do or Die &lpar;ft. DPR IAN&rpar;](https://www.last.fm/music/DPR+ARTIC/_/Do+or+Die+&lpar;ft.+DPR+IAN&rpar;)
-* [P1Harmony — Killin&#39; It](https://www.last.fm/music/P1Harmony/_/Killin%27+It)<!-- LASTFM:END -->
+* [Basement Jaxx — Where&#39;s Your Head At](https://www.last.fm/music/Basement+Jaxx/_/Where%27s+Your+Head+At)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
