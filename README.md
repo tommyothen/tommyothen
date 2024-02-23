@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hayley Kiyoko — Girls Like Girls](https://www.last.fm/music/Hayley+Kiyoko/_/Girls+Like+Girls)
-* [Sizzy Rocket — That Bitch](https://www.last.fm/music/Sizzy+Rocket/_/That+Bitch)
-* [XYLØ — yes &amp; no](https://www.last.fm/music/XYL%C3%98/_/yes+&amp;+no)
-* [Lostboycrow — Strawberry Sunscreen](https://www.last.fm/music/Lostboycrow/_/Strawberry+Sunscreen)
-* [The Weeknd — One Of The Girls &lpar;with JENNIE, Lily Rose Depp&rpar;](https://www.last.fm/music/The+Weeknd/_/One+Of+The+Girls+&lpar;with+JENNIE,+Lily+Rose+Depp&rpar;)<!-- LASTFM:END -->
+* [girl in red — bad idea!](https://www.last.fm/music/girl+in+red/_/bad+idea!)
+* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)
+* [Mother Mother — Hayloft](https://www.last.fm/music/Mother+Mother/_/Hayloft)
+* [Gorillaz — Rhinestone Eyes](https://www.last.fm/music/Gorillaz/_/Rhinestone+Eyes)
+* [MUNA — Silk Chiffon](https://www.last.fm/music/MUNA/_/Silk+Chiffon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
