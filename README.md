@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [girl in red — bad idea!](https://www.last.fm/music/girl+in+red/_/bad+idea!)
-* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)
-* [Mother Mother — Hayloft](https://www.last.fm/music/Mother+Mother/_/Hayloft)
-* [Gorillaz — Rhinestone Eyes](https://www.last.fm/music/Gorillaz/_/Rhinestone+Eyes)
-* [MUNA — Silk Chiffon](https://www.last.fm/music/MUNA/_/Silk+Chiffon)<!-- LASTFM:END -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
+* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)
+* [Zeph — something that i barely had](https://www.last.fm/music/Zeph/_/something+that+i+barely+had)
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
