@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tabber — Healing Killing](https://www.last.fm/music/Tabber/_/Healing+Killing)
+* [ZICO — Nocturnal Animals &lpar;feat. Zior Park&rpar;](https://www.last.fm/music/ZICO/_/Nocturnal+Animals+&lpar;feat.+Zior+Park&rpar;)
+* [QM — Plata](https://www.last.fm/music/QM/_/Plata)
 * [HUH — Dreamwalk](https://www.last.fm/music/HUH/_/Dreamwalk)
-* [DPR CREAM — Problems](https://www.last.fm/music/DPR+CREAM/_/Problems)
-* [XINSAYNE — Cliché](https://www.last.fm/music/XINSAYNE/_/Clich%C3%A9)
-* [Tabber — Honey!](https://www.last.fm/music/Tabber/_/Honey!)
-* [ZICO — Freak](https://www.last.fm/music/ZICO/_/Freak)<!-- LASTFM:END -->
+* [DPR CREAM — Problems](https://www.last.fm/music/DPR+CREAM/_/Problems)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
