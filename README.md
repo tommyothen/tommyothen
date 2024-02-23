@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [The Weeknd — One Of The Girls &lpar;with JENNIE, Lily Rose Depp&rpar;](https://www.last.fm/music/The+Weeknd/_/One+Of+The+Girls+&lpar;with+JENNIE,+Lily+Rose+Depp&rpar;)
-* [Taylor Swift — Cruel Summer](https://www.last.fm/music/Taylor+Swift/_/Cruel+Summer)
-* [Ariana Grande — yes, and?](https://www.last.fm/music/Ariana+Grande/_/yes,+and%3F)
-* [Kanye West — Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)
-* [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)<!-- LASTFM:END -->
+* [Hayley Kiyoko — Girls Like Girls](https://www.last.fm/music/Hayley+Kiyoko/_/Girls+Like+Girls)
+* [Sizzy Rocket — That Bitch](https://www.last.fm/music/Sizzy+Rocket/_/That+Bitch)
+* [XYLØ — yes &amp; no](https://www.last.fm/music/XYL%C3%98/_/yes+&amp;+no)
+* [Lostboycrow — Strawberry Sunscreen](https://www.last.fm/music/Lostboycrow/_/Strawberry+Sunscreen)
+* [The Weeknd — One Of The Girls &lpar;with JENNIE, Lily Rose Depp&rpar;](https://www.last.fm/music/The+Weeknd/_/One+Of+The+Girls+&lpar;with+JENNIE,+Lily+Rose+Depp&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
