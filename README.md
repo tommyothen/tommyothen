@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZICO — Freak](https://www.last.fm/music/ZICO/_/Freak)
+* [Rad Museum — ROCKSTAR](https://www.last.fm/music/Rad+Museum/_/ROCKSTAR)
 * [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
 * [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
-* [DEAN — 풀어](https://www.last.fm/music/DEAN/_/%ED%92%80%EC%96%B4)
-* [jjangyou — MICrotrip](https://www.last.fm/music/jjangyou/_/MICrotrip)
-* [Tabber — Look At My](https://www.last.fm/music/Tabber/_/Look+At+My)<!-- LASTFM:END -->
+* [DEAN — 풀어](https://www.last.fm/music/DEAN/_/%ED%92%80%EC%96%B4)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
