@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
+* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)
 * [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [HUH — fuck′em up!](https://www.last.fm/music/HUH/_/fuck%E2%80%B2em+up!)
-* [DPR CREAM — Color Drive](https://www.last.fm/music/DPR+CREAM/_/Color+Drive)
-* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
-* [Tabber — Healing Killing](https://www.last.fm/music/Tabber/_/Healing+Killing)<!-- LASTFM:END -->
+* [HUH — fuck′em up!](https://www.last.fm/music/HUH/_/fuck%E2%80%B2em+up!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
