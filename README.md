@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yama — 偽顔](https://www.last.fm/music/Yama/_/%E5%81%BD%E9%A1%94)
+* [Fujii Kaze — きらり](https://www.last.fm/music/Fujii+Kaze/_/%E3%81%8D%E3%82%89%E3%82%8A)
 * [Takasetoya — Doushite](https://www.last.fm/music/Takasetoya/_/Doushite)
 * [Creepy Nuts — Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)
-* [Milet — Anytime Anywhere](https://www.last.fm/music/Milet/_/Anytime+Anywhere)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)<!-- LASTFM:END -->
+* [Milet — Anytime Anywhere](https://www.last.fm/music/Milet/_/Anytime+Anywhere)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
