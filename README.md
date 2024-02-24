@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
 * [YOASOBI — アイドル](https://www.last.fm/music/YOASOBI/_/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB)
 * [Yama — 偽顔](https://www.last.fm/music/Yama/_/%E5%81%BD%E9%A1%94)
 * [Fujii Kaze — きらり](https://www.last.fm/music/Fujii+Kaze/_/%E3%81%8D%E3%82%89%E3%82%8A)
-* [Takasetoya — Doushite](https://www.last.fm/music/Takasetoya/_/Doushite)
-* [Creepy Nuts — Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)<!-- LASTFM:END -->
+* [Takasetoya — Doushite](https://www.last.fm/music/Takasetoya/_/Doushite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
