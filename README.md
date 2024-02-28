@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Vivian Girl](https://www.last.fm/music/BewhY/_/Vivian+Girl)
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
+* [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
 * [QM — Canoe &lpar;feat. BIBI&rpar;](https://www.last.fm/music/QM/_/Canoe+&lpar;feat.+BIBI&rpar;)
-* [E SENS — Confirmed](https://www.last.fm/music/E+SENS/_/Confirmed)
-* [Kyoto Black — Looking Pretty](https://www.last.fm/music/Kyoto+Black/_/Looking+Pretty)
-* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
-* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)<!-- LASTFM:END -->
+* [E SENS — Confirmed](https://www.last.fm/music/E+SENS/_/Confirmed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
