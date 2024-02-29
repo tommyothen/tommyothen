@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
-* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
-* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)<!-- LASTFM:END -->
+* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
