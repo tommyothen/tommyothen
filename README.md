@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)
 * [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
-* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)<!-- LASTFM:END -->
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
