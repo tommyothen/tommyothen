@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)
 * [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
 * [Fokke Simons — Verdwaald](https://www.last.fm/music/Fokke+Simons/_/Verdwaald)
 * [Natte Visstick — In De Tram](https://www.last.fm/music/Natte+Visstick/_/In+De+Tram)
-* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
-* [Rings of Saturn — Senseless Massacre](https://www.last.fm/music/Rings+of+Saturn/_/Senseless+Massacre)<!-- LASTFM:END -->
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
