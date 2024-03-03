@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [BewhY — Holy Toast](https://www.last.fm/music/BewhY/_/Holy+Toast)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [Joost — Europapa - Outro](https://www.last.fm/music/Joost/_/Europapa+-+Outro)<!-- LASTFM:END -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
