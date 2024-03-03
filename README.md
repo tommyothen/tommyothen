@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [BewhY — Holy Toast](https://www.last.fm/music/BewhY/_/Holy+Toast)
 * [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [Joost — Europapa - Outro](https://www.last.fm/music/Joost/_/Europapa+-+Outro)
-* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)<!-- LASTFM:END -->
+* [Joost — Europapa - Outro](https://www.last.fm/music/Joost/_/Europapa+-+Outro)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
