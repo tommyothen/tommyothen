@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yama — 憧れのままに](https://www.last.fm/music/Yama/_/%E6%86%A7%E3%82%8C%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB)
+* [sasanomaly — 空と虚](https://www.last.fm/music/sasanomaly/_/%E7%A9%BA%E3%81%A8%E8%99%9A)
 * [Milet — Anytime Anywhere](https://www.last.fm/music/Milet/_/Anytime+Anywhere)
 * [YOASOBI — 勇者](https://www.last.fm/music/YOASOBI/_/%E5%8B%87%E8%80%85)
-* [Milet — Anytime Anywhere](https://www.last.fm/music/Milet/_/Anytime+Anywhere)
-* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
-* [Adore — dancing while the world burns](https://www.last.fm/music/Adore/_/dancing+while+the+world+burns)<!-- LASTFM:END -->
+* [Milet — Anytime Anywhere](https://www.last.fm/music/Milet/_/Anytime+Anywhere)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
