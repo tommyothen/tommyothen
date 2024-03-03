@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [WARGASM &lpar;UK&rpar; — Death Rattle](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Death+Rattle)
 * [Electric Callboy — Everytime We Touch - TEKKNO Version](https://www.last.fm/music/Electric+Callboy/_/Everytime+We+Touch+-+TEKKNO+Version)
 * [WARGASM &lpar;UK&rpar; — Minigun](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Minigun)
 * [WARGASM &lpar;UK&rpar; — Minigun](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Minigun)
-* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)
-* [Rammstein — Armee der Tristen](https://www.last.fm/music/Rammstein/_/Armee+der+Tristen)<!-- LASTFM:END -->
+* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
