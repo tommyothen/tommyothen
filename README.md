@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
+* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
 * [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
-* [Poppy — Church Outfit](https://www.last.fm/music/Poppy/_/Church+Outfit)
-* [WARGASM &lpar;UK&rpar; — Death Rattle](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Death+Rattle)
-* [Electric Callboy — Everytime We Touch - TEKKNO Version](https://www.last.fm/music/Electric+Callboy/_/Everytime+We+Touch+-+TEKKNO+Version)
-* [WARGASM &lpar;UK&rpar; — Minigun](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Minigun)<!-- LASTFM:END -->
+* [Poppy — Church Outfit](https://www.last.fm/music/Poppy/_/Church+Outfit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
