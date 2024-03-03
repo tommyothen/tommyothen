@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
 * [Bambie Thug — Tsunami &lpar;11:11&rpar;](https://www.last.fm/music/Bambie+Thug/_/Tsunami+&lpar;11:11&rpar;)
 * [Skindred — Set Fazers](https://www.last.fm/music/Skindred/_/Set+Fazers)
 * [Ocean Grove — Superstar](https://www.last.fm/music/Ocean+Grove/_/Superstar)
-* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)<!-- LASTFM:END -->
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
