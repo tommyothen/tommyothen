@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
-* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
-* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)
-* [Rammstein — Engel](https://www.last.fm/music/Rammstein/_/Engel)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)<!-- LASTFM:END -->
+* [Joost — Europapa - Outro](https://www.last.fm/music/Joost/_/Europapa+-+Outro)
+* [Fokke Simons — Verdwaald](https://www.last.fm/music/Fokke+Simons/_/Verdwaald)
+* [Natte Visstick — In De Tram](https://www.last.fm/music/Natte+Visstick/_/In+De+Tram)
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
