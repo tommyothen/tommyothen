@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
+* [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)
 * [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)
-* [Yama — 憧れのままに](https://www.last.fm/music/Yama/_/%E6%86%A7%E3%82%8C%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB)
-* [sasanomaly — 空と虚](https://www.last.fm/music/sasanomaly/_/%E7%A9%BA%E3%81%A8%E8%99%9A)<!-- LASTFM:END -->
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
