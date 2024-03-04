@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
 * [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
 * [Rammstein — Zeit](https://www.last.fm/music/Rammstein/_/Zeit)
-* [Rammstein — AUSLÄNDER](https://www.last.fm/music/Rammstein/_/AUSL%C3%84NDER)
-* [Rammstein — Ich will](https://www.last.fm/music/Rammstein/_/Ich+will)
-* [Rammstein — Feuer frei!](https://www.last.fm/music/Rammstein/_/Feuer+frei!)<!-- LASTFM:END -->
+* [Rammstein — AUSLÄNDER](https://www.last.fm/music/Rammstein/_/AUSL%C3%84NDER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
