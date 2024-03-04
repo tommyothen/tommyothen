@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rammstein — AUSLÄNDER](https://www.last.fm/music/Rammstein/_/AUSL%C3%84NDER)
 * [Rammstein — Mein Herz brennt](https://www.last.fm/music/Rammstein/_/Mein+Herz+brennt)
 * [Rammstein — Ich will](https://www.last.fm/music/Rammstein/_/Ich+will)
 * [Rammstein — Feuer frei!](https://www.last.fm/music/Rammstein/_/Feuer+frei!)
-* [Rammstein — Engel](https://www.last.fm/music/Rammstein/_/Engel)
 * [Rammstein — Engel](https://www.last.fm/music/Rammstein/_/Engel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
