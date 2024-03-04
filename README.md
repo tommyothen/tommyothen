@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rammstein — Feuer frei!](https://www.last.fm/music/Rammstein/_/Feuer+frei!)
+* [Rammstein — Engel](https://www.last.fm/music/Rammstein/_/Engel)
+* [Rammstein — Engel](https://www.last.fm/music/Rammstein/_/Engel)
 * [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)
-* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)<!-- LASTFM:END -->
+* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
