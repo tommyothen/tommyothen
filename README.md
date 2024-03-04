@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rammstein — Zeit](https://www.last.fm/music/Rammstein/_/Zeit)
 * [Rammstein — Armee der Tristen](https://www.last.fm/music/Rammstein/_/Armee+der+Tristen)
 * [Rammstein — Dicke Titten](https://www.last.fm/music/Rammstein/_/Dicke+Titten)
 * [Rammstein — AUSLÄNDER](https://www.last.fm/music/Rammstein/_/AUSL%C3%84NDER)
-* [Rammstein — Mein Herz brennt](https://www.last.fm/music/Rammstein/_/Mein+Herz+brennt)
-* [Rammstein — Ich will](https://www.last.fm/music/Rammstein/_/Ich+will)<!-- LASTFM:END -->
+* [Rammstein — Mein Herz brennt](https://www.last.fm/music/Rammstein/_/Mein+Herz+brennt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
