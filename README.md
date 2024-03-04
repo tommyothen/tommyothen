@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rammstein — Zick Zack](https://www.last.fm/music/Rammstein/_/Zick+Zack)
 * [Rammstein — Giftig](https://www.last.fm/music/Rammstein/_/Giftig)
 * [Rammstein — Schwarz](https://www.last.fm/music/Rammstein/_/Schwarz)
 * [Rammstein — Zeit](https://www.last.fm/music/Rammstein/_/Zeit)
-* [Rammstein — Armee der Tristen](https://www.last.fm/music/Rammstein/_/Armee+der+Tristen)
-* [Rammstein — Dicke Titten](https://www.last.fm/music/Rammstein/_/Dicke+Titten)<!-- LASTFM:END -->
+* [Rammstein — Armee der Tristen](https://www.last.fm/music/Rammstein/_/Armee+der+Tristen)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
