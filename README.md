@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)
+* [Rammstein — Amerika](https://www.last.fm/music/Rammstein/_/Amerika)
 * [Rammstein — Ich will](https://www.last.fm/music/Rammstein/_/Ich+will)
 * [Rammstein — Feuer frei!](https://www.last.fm/music/Rammstein/_/Feuer+frei!)
-* [Rammstein — Engel](https://www.last.fm/music/Rammstein/_/Engel)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)<!-- LASTFM:END -->
+* [Rammstein — Engel](https://www.last.fm/music/Rammstein/_/Engel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
