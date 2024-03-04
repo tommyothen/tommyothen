@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
+* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)
+* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
 * [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [Hatebreed — Looking Down the Barrel of Today](https://www.last.fm/music/Hatebreed/_/Looking+Down+the+Barrel+of+Today)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)<!-- LASTFM:END -->
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
