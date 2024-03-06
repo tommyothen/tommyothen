@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
 * [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)
 * [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
-* [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
+* [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
