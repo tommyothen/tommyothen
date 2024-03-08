@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
 * [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
 * [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
-* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)
-* [Rings of Saturn — No Pity For A Coward](https://www.last.fm/music/Rings+of+Saturn/_/No+Pity+For+A+Coward)
-* [We Came as Romans — Cold Like War](https://www.last.fm/music/We+Came+as+Romans/_/Cold+Like+War)<!-- LASTFM:END -->
+* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
