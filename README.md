@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — history](https://www.last.fm/music/Zeph/_/history)
+* [Lyn Lapid — In My Mind](https://www.last.fm/music/Lyn+Lapid/_/In+My+Mind)
+* [Regina Song — high school boy](https://www.last.fm/music/Regina+Song/_/high+school+boy)
 * [Easha — Floating Rock](https://www.last.fm/music/Easha/_/Floating+Rock)
-* [Wabie — Hey Lover!](https://www.last.fm/music/Wabie/_/Hey+Lover!)
-* [dacelynn — tell me what you want](https://www.last.fm/music/dacelynn/_/tell+me+what+you+want)
-* [Zeph — world](https://www.last.fm/music/Zeph/_/world)
-* [adan diaz — girl at the skate park who smiled at me after i fell](https://www.last.fm/music/adan+diaz/_/girl+at+the+skate+park+who+smiled+at+me+after+i+fell)<!-- LASTFM:END -->
+* [Wabie — Hey Lover!](https://www.last.fm/music/Wabie/_/Hey+Lover!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
