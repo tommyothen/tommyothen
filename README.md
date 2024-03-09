@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sophie May — lover boy](https://www.last.fm/music/Sophie+May/_/lover+boy)
-* [Easha — Please Love Me](https://www.last.fm/music/Easha/_/Please+Love+Me)
-* [Public Library Commute — Summertime](https://www.last.fm/music/Public+Library+Commute/_/Summertime)
-* [Kid Bloom — CIRCLES](https://www.last.fm/music/Kid+Bloom/_/CIRCLES)
-* [Zeph — scared of everything](https://www.last.fm/music/Zeph/_/scared+of+everything)<!-- LASTFM:END -->
+* [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)
+* [Ellie Williams — Glances](https://www.last.fm/music/Ellie+Williams/_/Glances)
+* [adan diaz — do re mi](https://www.last.fm/music/adan+diaz/_/do+re+mi)
+* [Zeph — Sober](https://www.last.fm/music/Zeph/_/Sober)
+* [Lyn Lapid — east side](https://www.last.fm/music/Lyn+Lapid/_/east+side)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
