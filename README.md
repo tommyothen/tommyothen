@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — home of hurt](https://www.last.fm/music/Zeph/_/home+of+hurt)
+* [Leanna Firestone — Smitten](https://www.last.fm/music/Leanna+Firestone/_/Smitten)
+* [Public Library Commute — Run It Back](https://www.last.fm/music/Public+Library+Commute/_/Run+It+Back)
 * [Delaney Bailey — For You](https://www.last.fm/music/Delaney+Bailey/_/For+You)
-* [Good Kid — First Rate Town](https://www.last.fm/music/Good+Kid/_/First+Rate+Town)
-* [dacelynn — cracked teeth](https://www.last.fm/music/dacelynn/_/cracked+teeth)
-* [Zeph — history](https://www.last.fm/music/Zeph/_/history)
-* [Lyn Lapid — In My Mind](https://www.last.fm/music/Lyn+Lapid/_/In+My+Mind)<!-- LASTFM:END -->
+* [Good Kid — First Rate Town](https://www.last.fm/music/Good+Kid/_/First+Rate+Town)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
