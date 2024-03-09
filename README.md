@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Say You Do](https://www.last.fm/music/Ellie+Williams/_/Say+You+Do)
+* [Lyn Lapid — ok with it](https://www.last.fm/music/Lyn+Lapid/_/ok+with+it)
+* [Sundial — deadline](https://www.last.fm/music/Sundial/_/deadline)
 * [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [myclownshoes — Alexandria](https://www.last.fm/music/myclownshoes/_/Alexandria)
-* [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
-* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
-* [Lyn Lapid — poster boy](https://www.last.fm/music/Lyn+Lapid/_/poster+boy)<!-- LASTFM:END -->
+* [myclownshoes — Alexandria](https://www.last.fm/music/myclownshoes/_/Alexandria)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
