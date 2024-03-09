@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ellie Williams — Say You Do](https://www.last.fm/music/Ellie+Williams/_/Say+You+Do)
-* [Lyn Lapid — ok with it](https://www.last.fm/music/Lyn+Lapid/_/ok+with+it)
-* [Sundial — deadline](https://www.last.fm/music/Sundial/_/deadline)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [myclownshoes — Alexandria](https://www.last.fm/music/myclownshoes/_/Alexandria)<!-- LASTFM:END -->
+* [dacelynn — stars](https://www.last.fm/music/dacelynn/_/stars)
+* [Zeph — you](https://www.last.fm/music/Zeph/_/you)
+* [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
+* [Lonely God — Marlboro Nights](https://www.last.fm/music/Lonely+God/_/Marlboro+Nights)
+* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
