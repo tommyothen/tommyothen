@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Keanu Bicol — don&#39;t know](https://www.last.fm/music/Keanu+Bicol/_/don%27t+know)
-* [Chloe Ho — Not Like This](https://www.last.fm/music/Chloe+Ho/_/Not+Like+This)
-* [Zeph — home of hurt](https://www.last.fm/music/Zeph/_/home+of+hurt)
-* [Leanna Firestone — Smitten](https://www.last.fm/music/Leanna+Firestone/_/Smitten)
-* [Public Library Commute — Run It Back](https://www.last.fm/music/Public+Library+Commute/_/Run+It+Back)<!-- LASTFM:END -->
+* [Zeph — Walls](https://www.last.fm/music/Zeph/_/Walls)
+* [Boyish — Is This A Breakdown Baby?](https://www.last.fm/music/Boyish/_/Is+This+A+Breakdown+Baby%3F)
+* [llusion — walk but in a garden &lpar;feat. mxmtoon&rpar;](https://www.last.fm/music/llusion/_/walk+but+in+a+garden+&lpar;feat.+mxmtoon&rpar;)
+* [Minova — If You Were Mine](https://www.last.fm/music/Minova/_/If+You+Were+Mine)
+* [Keanu Bicol — don&#39;t know](https://www.last.fm/music/Keanu+Bicol/_/don%27t+know)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
