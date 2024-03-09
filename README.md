@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [dacelynn — tell me what you want](https://www.last.fm/music/dacelynn/_/tell+me+what+you+want)
+* [Zeph — world](https://www.last.fm/music/Zeph/_/world)
+* [adan diaz — girl at the skate park who smiled at me after i fell](https://www.last.fm/music/adan+diaz/_/girl+at+the+skate+park+who+smiled+at+me+after+i+fell)
 * [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)
-* [Public Library Commute — Brand New](https://www.last.fm/music/Public+Library+Commute/_/Brand+New)
-* [kaz moon — A lot to explain](https://www.last.fm/music/kaz+moon/_/A+lot+to+explain)
-* [dacelynn — stars](https://www.last.fm/music/dacelynn/_/stars)
-* [Zeph — you](https://www.last.fm/music/Zeph/_/you)<!-- LASTFM:END -->
+* [Public Library Commute — Brand New](https://www.last.fm/music/Public+Library+Commute/_/Brand+New)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
