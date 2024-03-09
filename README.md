@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
-* [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)
-* [Maya Manuela — playing pretend](https://www.last.fm/music/Maya+Manuela/_/playing+pretend)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
+* [saturn 17 — ur not into me](https://www.last.fm/music/saturn+17/_/ur+not+into+me)
+* [Zeph — preventative measure](https://www.last.fm/music/Zeph/_/preventative+measure)
+* [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)
+* [Lyn Lapid — tlit21c](https://www.last.fm/music/Lyn+Lapid/_/tlit21c)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
