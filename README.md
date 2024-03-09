@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
 * [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
-* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
+* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
