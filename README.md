@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — gold star](https://www.last.fm/music/%C5%AAla/_/gold+star)
+* [Public Library Commute — Brand New](https://www.last.fm/music/Public+Library+Commute/_/Brand+New)
+* [kaz moon — A lot to explain](https://www.last.fm/music/kaz+moon/_/A+lot+to+explain)
 * [dacelynn — stars](https://www.last.fm/music/dacelynn/_/stars)
-* [Zeph — you](https://www.last.fm/music/Zeph/_/you)
-* [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
-* [Lonely God — Marlboro Nights](https://www.last.fm/music/Lonely+God/_/Marlboro+Nights)
-* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)<!-- LASTFM:END -->
+* [Zeph — you](https://www.last.fm/music/Zeph/_/you)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
