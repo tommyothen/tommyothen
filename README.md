@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
+* [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
 * [Rammstein — Feuer frei!](https://www.last.fm/music/Rammstein/_/Feuer+frei!)
 * [Rammstein — Engel](https://www.last.fm/music/Rammstein/_/Engel)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)
-* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)<!-- LASTFM:END -->
+* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
