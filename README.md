@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Keanu Bicol — don&#39;t know](https://www.last.fm/music/Keanu+Bicol/_/don%27t+know)
+* [Chloe Ho — Not Like This](https://www.last.fm/music/Chloe+Ho/_/Not+Like+This)
 * [Zeph — home of hurt](https://www.last.fm/music/Zeph/_/home+of+hurt)
 * [Leanna Firestone — Smitten](https://www.last.fm/music/Leanna+Firestone/_/Smitten)
-* [Public Library Commute — Run It Back](https://www.last.fm/music/Public+Library+Commute/_/Run+It+Back)
-* [Delaney Bailey — For You](https://www.last.fm/music/Delaney+Bailey/_/For+You)
-* [Good Kid — First Rate Town](https://www.last.fm/music/Good+Kid/_/First+Rate+Town)<!-- LASTFM:END -->
+* [Public Library Commute — Run It Back](https://www.last.fm/music/Public+Library+Commute/_/Run+It+Back)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
