@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nathanie — Sunscreen](https://www.last.fm/music/Nathanie/_/Sunscreen)
+* [kaz moon — Left Hand](https://www.last.fm/music/kaz+moon/_/Left+Hand)
+* [fig — Raspberry Tongue](https://www.last.fm/music/fig/_/Raspberry+Tongue)
 * [INOHA — ALUCARDA](https://www.last.fm/music/INOHA/_/ALUCARDA)
-* [Crying City — Nervous](https://www.last.fm/music/Crying+City/_/Nervous)
-* [Zeph — what does he have that i don&#39;t?](https://www.last.fm/music/Zeph/_/what+does+he+have+that+i+don%27t%3F)
-* [saturn 17 — ur not into me](https://www.last.fm/music/saturn+17/_/ur+not+into+me)
-* [Zeph — preventative measure](https://www.last.fm/music/Zeph/_/preventative+measure)<!-- LASTFM:END -->
+* [Crying City — Nervous](https://www.last.fm/music/Crying+City/_/Nervous)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
