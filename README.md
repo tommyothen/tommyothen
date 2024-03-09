@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flower Face — jupiter](https://www.last.fm/music/Flower+Face/_/jupiter)
 * [Keanu Bicol — lookin&#39;](https://www.last.fm/music/Keanu+Bicol/_/lookin%27)
 * [Ellie Williams — Massive Heart Eyes](https://www.last.fm/music/Ellie+Williams/_/Massive+Heart+Eyes)
 * [Ūla — just a gimmick](https://www.last.fm/music/%C5%AAla/_/just+a+gimmick)
-* [Zeph — Walls](https://www.last.fm/music/Zeph/_/Walls)
-* [Boyish — Is This A Breakdown Baby?](https://www.last.fm/music/Boyish/_/Is+This+A+Breakdown+Baby%3F)<!-- LASTFM:END -->
+* [Zeph — Walls](https://www.last.fm/music/Zeph/_/Walls)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
