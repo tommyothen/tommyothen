@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Black Polish — Baby Tonight](https://www.last.fm/music/Black+Polish/_/Baby+Tonight)
+* [Zeph — but he wouldn&#39;t be you](https://www.last.fm/music/Zeph/_/but+he+wouldn%27t+be+you)
+* [Ella Jane — nothing else i could do](https://www.last.fm/music/Ella+Jane/_/nothing+else+i+could+do)
 * [Flower Face — jupiter](https://www.last.fm/music/Flower+Face/_/jupiter)
-* [Keanu Bicol — lookin&#39;](https://www.last.fm/music/Keanu+Bicol/_/lookin%27)
-* [Ellie Williams — Massive Heart Eyes](https://www.last.fm/music/Ellie+Williams/_/Massive+Heart+Eyes)
-* [Ūla — just a gimmick](https://www.last.fm/music/%C5%AAla/_/just+a+gimmick)
-* [Zeph — Walls](https://www.last.fm/music/Zeph/_/Walls)<!-- LASTFM:END -->
+* [Keanu Bicol — lookin&#39;](https://www.last.fm/music/Keanu+Bicol/_/lookin%27)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
