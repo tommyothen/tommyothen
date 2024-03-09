@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Delaney Bailey — For You](https://www.last.fm/music/Delaney+Bailey/_/For+You)
+* [Good Kid — First Rate Town](https://www.last.fm/music/Good+Kid/_/First+Rate+Town)
+* [dacelynn — cracked teeth](https://www.last.fm/music/dacelynn/_/cracked+teeth)
 * [Zeph — history](https://www.last.fm/music/Zeph/_/history)
-* [Lyn Lapid — In My Mind](https://www.last.fm/music/Lyn+Lapid/_/In+My+Mind)
-* [Regina Song — high school boy](https://www.last.fm/music/Regina+Song/_/high+school+boy)
-* [Easha — Floating Rock](https://www.last.fm/music/Easha/_/Floating+Rock)
-* [Wabie — Hey Lover!](https://www.last.fm/music/Wabie/_/Hey+Lover!)<!-- LASTFM:END -->
+* [Lyn Lapid — In My Mind](https://www.last.fm/music/Lyn+Lapid/_/In+My+Mind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
