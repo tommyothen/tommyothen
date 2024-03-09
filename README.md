@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Public Library Commute — Summertime](https://www.last.fm/music/Public+Library+Commute/_/Summertime)
+* [Kid Bloom — CIRCLES](https://www.last.fm/music/Kid+Bloom/_/CIRCLES)
+* [Zeph — scared of everything](https://www.last.fm/music/Zeph/_/scared+of+everything)
 * [Nathanie — Sunscreen](https://www.last.fm/music/Nathanie/_/Sunscreen)
-* [kaz moon — Left Hand](https://www.last.fm/music/kaz+moon/_/Left+Hand)
-* [fig — Raspberry Tongue](https://www.last.fm/music/fig/_/Raspberry+Tongue)
-* [INOHA — ALUCARDA](https://www.last.fm/music/INOHA/_/ALUCARDA)
-* [Crying City — Nervous](https://www.last.fm/music/Crying+City/_/Nervous)<!-- LASTFM:END -->
+* [kaz moon — Left Hand](https://www.last.fm/music/kaz+moon/_/Left+Hand)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
