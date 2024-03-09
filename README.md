@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
+* [myclownshoes — Alexandria](https://www.last.fm/music/myclownshoes/_/Alexandria)
+* [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
 * [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
-* [Lyn Lapid — poster boy](https://www.last.fm/music/Lyn+Lapid/_/poster+boy)
-* [Marianne Ross — violet](https://www.last.fm/music/Marianne+Ross/_/violet)
-* [Zeph — epilogue](https://www.last.fm/music/Zeph/_/epilogue)
-* [The Vanished People — QUEEN OF THE NIGHT](https://www.last.fm/music/The+Vanished+People/_/QUEEN+OF+THE+NIGHT)<!-- LASTFM:END -->
+* [Lyn Lapid — poster boy](https://www.last.fm/music/Lyn+Lapid/_/poster+boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
