@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
+* [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
 * [Laufey — I Wish You Love](https://www.last.fm/music/Laufey/_/I+Wish+You+Love)
 * [beabadoobee — A Night To Remember](https://www.last.fm/music/beabadoobee/_/A+Night+To+Remember)
-* [Laufey — Promise](https://www.last.fm/music/Laufey/_/Promise)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)<!-- LASTFM:END -->
+* [Laufey — Promise](https://www.last.fm/music/Laufey/_/Promise)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
