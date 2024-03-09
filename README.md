@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
+* [Lyn Lapid — poster boy](https://www.last.fm/music/Lyn+Lapid/_/poster+boy)
+* [Marianne Ross — violet](https://www.last.fm/music/Marianne+Ross/_/violet)
 * [Zeph — epilogue](https://www.last.fm/music/Zeph/_/epilogue)
-* [The Vanished People — QUEEN OF THE NIGHT](https://www.last.fm/music/The+Vanished+People/_/QUEEN+OF+THE+NIGHT)
-* [Kevin Walkman — I&#39;m Not Crazy](https://www.last.fm/music/Kevin+Walkman/_/I%27m+Not+Crazy)
-* [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)
-* [Ellie Williams — Glances](https://www.last.fm/music/Ellie+Williams/_/Glances)<!-- LASTFM:END -->
+* [The Vanished People — QUEEN OF THE NIGHT](https://www.last.fm/music/The+Vanished+People/_/QUEEN+OF+THE+NIGHT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
