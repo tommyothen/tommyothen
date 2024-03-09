@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — my best friend](https://www.last.fm/music/Zeph/_/my+best+friend)
+* [beabadoobee — You’re here that’s the thing](https://www.last.fm/music/beabadoobee/_/You%E2%80%99re+here+that%E2%80%99s+the+thing)
+* [Ted Fresco — My Sunny Day](https://www.last.fm/music/Ted+Fresco/_/My+Sunny+Day)
 * [Ūla — SCANDAL](https://www.last.fm/music/%C5%AAla/_/SCANDAL)
-* [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)
-* [Black Polish — Baby Tonight](https://www.last.fm/music/Black+Polish/_/Baby+Tonight)
-* [Zeph — but he wouldn&#39;t be you](https://www.last.fm/music/Zeph/_/but+he+wouldn%27t+be+you)
-* [Ella Jane — nothing else i could do](https://www.last.fm/music/Ella+Jane/_/nothing+else+i+could+do)<!-- LASTFM:END -->
+* [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
