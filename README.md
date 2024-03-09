@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — epilogue](https://www.last.fm/music/Zeph/_/epilogue)
+* [The Vanished People — QUEEN OF THE NIGHT](https://www.last.fm/music/The+Vanished+People/_/QUEEN+OF+THE+NIGHT)
+* [Kevin Walkman — I&#39;m Not Crazy](https://www.last.fm/music/Kevin+Walkman/_/I%27m+Not+Crazy)
 * [Easha — Happy Ending](https://www.last.fm/music/Easha/_/Happy+Ending)
-* [Ellie Williams — Glances](https://www.last.fm/music/Ellie+Williams/_/Glances)
-* [adan diaz — do re mi](https://www.last.fm/music/adan+diaz/_/do+re+mi)
-* [Zeph — Sober](https://www.last.fm/music/Zeph/_/Sober)
-* [Lyn Lapid — east side](https://www.last.fm/music/Lyn+Lapid/_/east+side)<!-- LASTFM:END -->
+* [Ellie Williams — Glances](https://www.last.fm/music/Ellie+Williams/_/Glances)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
