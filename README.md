@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
+* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
-* [Ellie Williams — After You Go](https://www.last.fm/music/Ellie+Williams/_/After+You+Go)
-* [Zeph — anything but safe and sound](https://www.last.fm/music/Zeph/_/anything+but+safe+and+sound)
-* [Jemzel — Tell Nobody](https://www.last.fm/music/Jemzel/_/Tell+Nobody)<!-- LASTFM:END -->
+* [Ellie Williams — After You Go](https://www.last.fm/music/Ellie+Williams/_/After+You+Go)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
