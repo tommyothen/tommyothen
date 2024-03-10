@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [Ellie Williams — Perfect Playlist](https://www.last.fm/music/Ellie+Williams/_/Perfect+Playlist)
-* [Zeph — my best friend](https://www.last.fm/music/Zeph/_/my+best+friend)
-* [beabadoobee — You’re here that’s the thing](https://www.last.fm/music/beabadoobee/_/You%E2%80%99re+here+that%E2%80%99s+the+thing)
-* [Ted Fresco — My Sunny Day](https://www.last.fm/music/Ted+Fresco/_/My+Sunny+Day)<!-- LASTFM:END -->
+* [Tiffany Day — IF I DON&#39;T TEXT YOU FIRST](https://www.last.fm/music/Tiffany+Day/_/IF+I+DON%27T+TEXT+YOU+FIRST)
+* [Zeph — happy again](https://www.last.fm/music/Zeph/_/happy+again)
+* [Tony22 — cozy](https://www.last.fm/music/Tony22/_/cozy)
+* [Zeph — change your mind](https://www.last.fm/music/Zeph/_/change+your+mind)
+* [Easha — A Little Bit Longer](https://www.last.fm/music/Easha/_/A+Little+Bit+Longer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
