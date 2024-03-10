@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Delaney Bailey — Coffee Stained Smile](https://www.last.fm/music/Delaney+Bailey/_/Coffee+Stained+Smile)
-* [dee holt — Stuck in the Middle](https://www.last.fm/music/dee+holt/_/Stuck+in+the+Middle)
-* [Noah Floersch — Ghost of Chicago](https://www.last.fm/music/Noah+Floersch/_/Ghost+of+Chicago)
-* [Zeph — Forever &amp; Always](https://www.last.fm/music/Zeph/_/Forever+&amp;+Always)
-* [saturn 17 — not my fault](https://www.last.fm/music/saturn+17/_/not+my+fault)<!-- LASTFM:END -->
+* [Ellie Williams — After You Go](https://www.last.fm/music/Ellie+Williams/_/After+You+Go)
+* [Zeph — anything but safe and sound](https://www.last.fm/music/Zeph/_/anything+but+safe+and+sound)
+* [Jemzel — Tell Nobody](https://www.last.fm/music/Jemzel/_/Tell+Nobody)
+* [The Millennial Club — summer nights](https://www.last.fm/music/The+Millennial+Club/_/summer+nights)
+* [Delaney Bailey — Coffee Stained Smile](https://www.last.fm/music/Delaney+Bailey/_/Coffee+Stained+Smile)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
