@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
+* [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
 * [Ellie Williams — After You Go](https://www.last.fm/music/Ellie+Williams/_/After+You+Go)
 * [Zeph — anything but safe and sound](https://www.last.fm/music/Zeph/_/anything+but+safe+and+sound)
-* [Jemzel — Tell Nobody](https://www.last.fm/music/Jemzel/_/Tell+Nobody)
-* [The Millennial Club — summer nights](https://www.last.fm/music/The+Millennial+Club/_/summer+nights)
-* [Delaney Bailey — Coffee Stained Smile](https://www.last.fm/music/Delaney+Bailey/_/Coffee+Stained+Smile)<!-- LASTFM:END -->
+* [Jemzel — Tell Nobody](https://www.last.fm/music/Jemzel/_/Tell+Nobody)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
