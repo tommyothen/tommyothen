@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tiffany Day — IF I DON&#39;T TEXT YOU FIRST](https://www.last.fm/music/Tiffany+Day/_/IF+I+DON%27T+TEXT+YOU+FIRST)
-* [Zeph — happy again](https://www.last.fm/music/Zeph/_/happy+again)
-* [Tony22 — cozy](https://www.last.fm/music/Tony22/_/cozy)
-* [Zeph — change your mind](https://www.last.fm/music/Zeph/_/change+your+mind)
-* [Easha — A Little Bit Longer](https://www.last.fm/music/Easha/_/A+Little+Bit+Longer)<!-- LASTFM:END -->
+* [Tiffany Day — YOU&#39;RE SO FUCKING MEAN TO ME](https://www.last.fm/music/Tiffany+Day/_/YOU%27RE+SO+FUCKING+MEAN+TO+ME)
+* [Zeph — i&#39;ll never fall in love with myself - demo](https://www.last.fm/music/Zeph/_/i%27ll+never+fall+in+love+with+myself+-+demo)
+* [a kid named rufus — things will be okay](https://www.last.fm/music/a+kid+named+rufus/_/things+will+be+okay)
+* [Kidsnot$aints. — Daydreamer](https://www.last.fm/music/Kidsnot$aints./_/Daydreamer)
+* [saturn 17 — could this be love?](https://www.last.fm/music/saturn+17/_/could+this+be+love%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
