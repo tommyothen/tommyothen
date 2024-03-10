@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joost — Europapa - Outro](https://www.last.fm/music/Joost/_/Europapa+-+Outro)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
 * [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)<!-- LASTFM:END -->
+* [Joost — Europapa - Outro](https://www.last.fm/music/Joost/_/Europapa+-+Outro)
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
