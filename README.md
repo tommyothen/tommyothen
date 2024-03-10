@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tiffany Day — YOU&#39;RE SO FUCKING MEAN TO ME](https://www.last.fm/music/Tiffany+Day/_/YOU%27RE+SO+FUCKING+MEAN+TO+ME)
-* [Zeph — i&#39;ll never fall in love with myself - demo](https://www.last.fm/music/Zeph/_/i%27ll+never+fall+in+love+with+myself+-+demo)
-* [a kid named rufus — things will be okay](https://www.last.fm/music/a+kid+named+rufus/_/things+will+be+okay)
-* [Kidsnot$aints. — Daydreamer](https://www.last.fm/music/Kidsnot$aints./_/Daydreamer)
-* [saturn 17 — could this be love?](https://www.last.fm/music/saturn+17/_/could+this+be+love%3F)<!-- LASTFM:END -->
+* [Delaney Bailey — Coffee Stained Smile](https://www.last.fm/music/Delaney+Bailey/_/Coffee+Stained+Smile)
+* [dee holt — Stuck in the Middle](https://www.last.fm/music/dee+holt/_/Stuck+in+the+Middle)
+* [Noah Floersch — Ghost of Chicago](https://www.last.fm/music/Noah+Floersch/_/Ghost+of+Chicago)
+* [Zeph — Forever &amp; Always](https://www.last.fm/music/Zeph/_/Forever+&amp;+Always)
+* [saturn 17 — not my fault](https://www.last.fm/music/saturn+17/_/not+my+fault)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
