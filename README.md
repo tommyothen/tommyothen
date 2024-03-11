@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Claire Young — All I Ask](https://www.last.fm/music/Claire+Young/_/All+I+Ask)
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Juliana Chahayed — Violins](https://www.last.fm/music/Juliana+Chahayed/_/Violins)
-* [Margaux Beylier — Everything You Need](https://www.last.fm/music/Margaux+Beylier/_/Everything+You+Need)
-* [BitterMilk — Superglue](https://www.last.fm/music/BitterMilk/_/Superglue)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)<!-- LASTFM:END -->
+* [Margaux Beylier — Everything You Need](https://www.last.fm/music/Margaux+Beylier/_/Everything+You+Need)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
