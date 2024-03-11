@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [saturn 17 — could this be love?](https://www.last.fm/music/saturn+17/_/could+this+be+love%3F)
 * [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
 * [Ryan Woods — Bad Texter](https://www.last.fm/music/Ryan+Woods/_/Bad+Texter)
 * [dacelynn — 80&#39;s Makeout Session](https://www.last.fm/music/dacelynn/_/80%27s+Makeout+Session)
-* [dacelynn — love &amp; doubt](https://www.last.fm/music/dacelynn/_/love+&amp;+doubt)
-* [Claire Young — All I Ask](https://www.last.fm/music/Claire+Young/_/All+I+Ask)<!-- LASTFM:END -->
+* [dacelynn — love &amp; doubt](https://www.last.fm/music/dacelynn/_/love+&amp;+doubt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
