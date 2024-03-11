@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
+* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)
 * [Palmer — soft boy](https://www.last.fm/music/Palmer/_/soft+boy)
 * [Tiffi — the way you say hello](https://www.last.fm/music/Tiffi/_/the+way+you+say+hello)
-* [Will Joseph Cook — We Met On The Internet](https://www.last.fm/music/Will+Joseph+Cook/_/We+Met+On+The+Internet)
-* [Audrey — Chai Tea](https://www.last.fm/music/Audrey/_/Chai+Tea)
-* [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)<!-- LASTFM:END -->
+* [Will Joseph Cook — We Met On The Internet](https://www.last.fm/music/Will+Joseph+Cook/_/We+Met+On+The+Internet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
