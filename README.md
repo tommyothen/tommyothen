@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Juliana Chahayed — Violins](https://www.last.fm/music/Juliana+Chahayed/_/Violins)
+* [Margaux Beylier — Everything You Need](https://www.last.fm/music/Margaux+Beylier/_/Everything+You+Need)
+* [BitterMilk — Superglue](https://www.last.fm/music/BitterMilk/_/Superglue)
 * [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)
-* [Palmer — soft boy](https://www.last.fm/music/Palmer/_/soft+boy)
-* [Tiffi — the way you say hello](https://www.last.fm/music/Tiffi/_/the+way+you+say+hello)
-* [Will Joseph Cook — We Met On The Internet](https://www.last.fm/music/Will+Joseph+Cook/_/We+Met+On+The+Internet)<!-- LASTFM:END -->
+* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
