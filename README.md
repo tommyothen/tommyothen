@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
 * [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
-* [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)
-* [Kidsnot$aints. — Katrina](https://www.last.fm/music/Kidsnot$aints./_/Katrina)
-* [Zeph — history](https://www.last.fm/music/Zeph/_/history)<!-- LASTFM:END -->
+* [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
