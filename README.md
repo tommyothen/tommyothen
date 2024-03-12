@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
+* [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)
 * [Kidsnot$aints. — Katrina](https://www.last.fm/music/Kidsnot$aints./_/Katrina)
 * [Zeph — history](https://www.last.fm/music/Zeph/_/history)
-* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
-* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
-* [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)<!-- LASTFM:END -->
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
