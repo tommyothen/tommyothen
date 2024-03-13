@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Perfect Playlist](https://www.last.fm/music/Ellie+Williams/_/Perfect+Playlist)
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
-* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)<!-- LASTFM:END -->
+* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
