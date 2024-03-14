@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
+* [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
 * [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
 * [Creepy Nuts — Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)
-* [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)<!-- LASTFM:END -->
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
