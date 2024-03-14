@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
+* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
-* [Evanescence — Lacrymosa](https://www.last.fm/music/Evanescence/_/Lacrymosa)
-* [Adore — dancing while the world burns](https://www.last.fm/music/Adore/_/dancing+while+the+world+burns)
-* [Ravenna Golden — Contest](https://www.last.fm/music/Ravenna+Golden/_/Contest)<!-- LASTFM:END -->
+* [Evanescence — Lacrymosa](https://www.last.fm/music/Evanescence/_/Lacrymosa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
