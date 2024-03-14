@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
+* [Creepy Nuts — Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)
+* [Cö shu Nie — 絶体絶命](https://www.last.fm/music/C%C3%B6+shu+Nie/_/%E7%B5%B6%E4%BD%93%E7%B5%B6%E5%91%BD)
 * [Sumika — フィクション](https://www.last.fm/music/Sumika/_/%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3)
-* [Phinehas — In the Night](https://www.last.fm/music/Phinehas/_/In+the+Night)
-* [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
-* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)<!-- LASTFM:END -->
+* [Phinehas — In the Night](https://www.last.fm/music/Phinehas/_/In+the+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
