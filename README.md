@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
 * [Josh A — Retroland &lpar;Intro&rpar;](https://www.last.fm/music/Josh+A/_/Retroland+&lpar;Intro&rpar;)
 * [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)
-* [Wolfgang Amadeus Mozart — Lacrimosa](https://www.last.fm/music/Wolfgang+Amadeus+Mozart/_/Lacrimosa)
-* [Kyoto Black — Looking Pretty](https://www.last.fm/music/Kyoto+Black/_/Looking+Pretty)
-* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)<!-- LASTFM:END -->
+* [Wolfgang Amadeus Mozart — Lacrimosa](https://www.last.fm/music/Wolfgang+Amadeus+Mozart/_/Lacrimosa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
