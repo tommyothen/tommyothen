@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
-* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
-* [Creepy Nuts — Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)
-* [Creepy Nuts — Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)<!-- LASTFM:END -->
+* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)
+* [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
+* [adan diaz — girl at the skate park who smiled at me after i fell](https://www.last.fm/music/adan+diaz/_/girl+at+the+skate+park+who+smiled+at+me+after+i+fell)
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
