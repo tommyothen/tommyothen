@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
 * [2 Mello — I Wanna Kno](https://www.last.fm/music/2+Mello/_/I+Wanna+Kno)
 * [Kyoto Black — Looking Pretty](https://www.last.fm/music/Kyoto+Black/_/Looking+Pretty)
-* [Ravenna Golden — Contest](https://www.last.fm/music/Ravenna+Golden/_/Contest)
-* [Adore — dancing while the world burns](https://www.last.fm/music/Adore/_/dancing+while+the+world+burns)
-* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)<!-- LASTFM:END -->
+* [Ravenna Golden — Contest](https://www.last.fm/music/Ravenna+Golden/_/Contest)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
