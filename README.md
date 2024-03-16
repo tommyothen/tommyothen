@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Smiths — There Is a Light That Never Goes Out - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/There+Is+a+Light+That+Never+Goes+Out+-+2011+Remaster)
+* [Radiohead — Everything in Its Right Place](https://www.last.fm/music/Radiohead/_/Everything+in+Its+Right+Place)
 * [Radiohead — Exit Music &lpar;for a Film&rpar;](https://www.last.fm/music/Radiohead/_/Exit+Music+&lpar;for+a+Film&rpar;)
 * [Radiohead — Jigsaw Falling Into Place](https://www.last.fm/music/Radiohead/_/Jigsaw+Falling+Into+Place)
-* [Portishead — Glory Box](https://www.last.fm/music/Portishead/_/Glory+Box)
-* [Mayhem — Freezing Moon](https://www.last.fm/music/Mayhem/_/Freezing+Moon)
-* [Chase &amp; Status — Control](https://www.last.fm/music/Chase+&amp;+Status/_/Control)<!-- LASTFM:END -->
+* [Portishead — Glory Box](https://www.last.fm/music/Portishead/_/Glory+Box)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
