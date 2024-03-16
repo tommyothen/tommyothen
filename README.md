@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mayhem — Freezing Moon](https://www.last.fm/music/Mayhem/_/Freezing+Moon)
+* [Chase &amp; Status — Control](https://www.last.fm/music/Chase+&amp;+Status/_/Control)
 * [Soft Play — Punk&#39;s Dead](https://www.last.fm/music/Soft+Play/_/Punk%27s+Dead)
 * [The Fall of Troy — F.C.P.R.E.M.I.X.](https://www.last.fm/music/The+Fall+of+Troy/_/F.C.P.R.E.M.I.X.)
-* [The Mars Volta — The Widow](https://www.last.fm/music/The+Mars+Volta/_/The+Widow)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
-* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)<!-- LASTFM:END -->
+* [The Mars Volta — The Widow](https://www.last.fm/music/The+Mars+Volta/_/The+Widow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
