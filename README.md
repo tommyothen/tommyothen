@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
 * [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
 * [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
-* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)<!-- LASTFM:END -->
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
