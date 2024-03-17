@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joey Bada$ — Survival Tactics](https://www.last.fm/music/Joey+Bada$/_/Survival+Tactics)
+* [J. Cole — She Knows &lpar;feat. Amber Coffman &amp; Cults&rpar;](https://www.last.fm/music/J.+Cole/_/She+Knows+&lpar;feat.+Amber+Coffman+&amp;+Cults&rpar;)
 * [J. Cole — No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)
 * [Kendrick Lamar — m.A.A.d city](https://www.last.fm/music/Kendrick+Lamar/_/m.A.A.d+city)
-* [Kendrick Lamar — Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)
-* [Kendrick Lamar — HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)
-* [D-Real [愛] — Coast Ghost](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Coast+Ghost)<!-- LASTFM:END -->
+* [Kendrick Lamar — Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
