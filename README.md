@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Odd Future — Oldie](https://www.last.fm/music/Odd+Future/_/Oldie)
-* [OutKast — Roses](https://www.last.fm/music/OutKast/_/Roses)
-* [EARTHGANG — UP - A COLORS SHOW](https://www.last.fm/music/EARTHGANG/_/UP+-+A+COLORS+SHOW)
-* [JID — Workin’ Out - A Colors Show](https://www.last.fm/music/JID/_/Workin%E2%80%99+Out+-+A+Colors+Show)
-* [JME — Man Don&#39;t Care](https://www.last.fm/music/JME/_/Man+Don%27t+Care)<!-- LASTFM:END -->
+* [Wu-Tang Clan — Wu-Tang Clan Ain&#39;t Nuthing Ta F&#39; Wit &lpar;Feat. RZA, Inspectah Deck &amp; Method Man&rpar;](https://www.last.fm/music/Wu-Tang+Clan/_/Wu-Tang+Clan+Ain%27t+Nuthing+Ta+F%27+Wit+&lpar;Feat.+RZA,+Inspectah+Deck+&amp;+Method+Man&rpar;)
+* [Mac Miller — Nikes on My Feet](https://www.last.fm/music/Mac+Miller/_/Nikes+on+My+Feet)
+* [Mac Miller — Jet Fuel](https://www.last.fm/music/Mac+Miller/_/Jet+Fuel)
+* [Jorja Smith — Blue Lights](https://www.last.fm/music/Jorja+Smith/_/Blue+Lights)
+* [Odd Future — Oldie](https://www.last.fm/music/Odd+Future/_/Oldie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
