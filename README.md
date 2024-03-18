@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Wu-Tang Clan — Wu-Tang Clan Ain&#39;t Nuthing Ta F&#39; Wit &lpar;Feat. RZA, Inspectah Deck &amp; Method Man&rpar;](https://www.last.fm/music/Wu-Tang+Clan/_/Wu-Tang+Clan+Ain%27t+Nuthing+Ta+F%27+Wit+&lpar;Feat.+RZA,+Inspectah+Deck+&amp;+Method+Man&rpar;)
-* [Mac Miller — Nikes on My Feet](https://www.last.fm/music/Mac+Miller/_/Nikes+on+My+Feet)
-* [Mac Miller — Jet Fuel](https://www.last.fm/music/Mac+Miller/_/Jet+Fuel)
-* [Jorja Smith — Blue Lights](https://www.last.fm/music/Jorja+Smith/_/Blue+Lights)
-* [Odd Future — Oldie](https://www.last.fm/music/Odd+Future/_/Oldie)<!-- LASTFM:END -->
+* [Sumika — フィクション](https://www.last.fm/music/Sumika/_/%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3)
+* [YOASOBI — 勇者](https://www.last.fm/music/YOASOBI/_/%E5%8B%87%E8%80%85)
+* [Milet — Anytime Anywhere](https://www.last.fm/music/Milet/_/Anytime+Anywhere)
+* [Creepy Nuts — Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
