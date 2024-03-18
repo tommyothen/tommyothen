@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [EARTHGANG — UP - A COLORS SHOW](https://www.last.fm/music/EARTHGANG/_/UP+-+A+COLORS+SHOW)
+* [JID — Workin’ Out - A Colors Show](https://www.last.fm/music/JID/_/Workin%E2%80%99+Out+-+A+Colors+Show)
+* [JME — Man Don&#39;t Care](https://www.last.fm/music/JME/_/Man+Don%27t+Care)
 * [Joey Bada$ — Survival Tactics](https://www.last.fm/music/Joey+Bada$/_/Survival+Tactics)
-* [J. Cole — She Knows &lpar;feat. Amber Coffman &amp; Cults&rpar;](https://www.last.fm/music/J.+Cole/_/She+Knows+&lpar;feat.+Amber+Coffman+&amp;+Cults&rpar;)
-* [J. Cole — No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)
-* [Kendrick Lamar — m.A.A.d city](https://www.last.fm/music/Kendrick+Lamar/_/m.A.A.d+city)
-* [Kendrick Lamar — Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)<!-- LASTFM:END -->
+* [J. Cole — She Knows &lpar;feat. Amber Coffman &amp; Cults&rpar;](https://www.last.fm/music/J.+Cole/_/She+Knows+&lpar;feat.+Amber+Coffman+&amp;+Cults&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
