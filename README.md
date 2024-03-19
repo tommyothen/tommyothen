@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Elijah Fox — Wall St Underwater](https://www.last.fm/music/Elijah+Fox/_/Wall+St+Underwater)
-* [Camille Saint-Saëns — Introduction and Rondo capriccioso in A Minor, Op. 28](https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Introduction+and+Rondo+capriccioso+in+A+Minor,+Op.+28)
-* [Camille Saint-Saëns — Introduction and Rondo capriccioso in A Minor, Op. 28](https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Introduction+and+Rondo+capriccioso+in+A+Minor,+Op.+28)
-* [Imaginary Ambition — Take Five but It&#39;s Song of Storms](https://www.last.fm/music/Imaginary+Ambition/_/Take+Five+but+It%27s+Song+of+Storms)
-* [Elijah Fox — Crystal Falls](https://www.last.fm/music/Elijah+Fox/_/Crystal+Falls)<!-- LASTFM:END -->
+* [Nikolai Rimsky-Korsakov — Flight of the Bumblebee](https://www.last.fm/music/Nikolai+Rimsky-Korsakov/_/Flight+of+the+Bumblebee)
+* [Alberto Baldan Bembo — Linda](https://www.last.fm/music/Alberto+Baldan+Bembo/_/Linda)
+* [Yehezkel Raz — Ballerina](https://www.last.fm/music/Yehezkel+Raz/_/Ballerina)
+* [Blagoje Bersa — Ballabile](https://www.last.fm/music/Blagoje+Bersa/_/Ballabile)
+* [Elijah Fox — Wall St Underwater](https://www.last.fm/music/Elijah+Fox/_/Wall+St+Underwater)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
