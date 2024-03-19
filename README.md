@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Frédéric Chopin — Nocturne No. 2 in E-flat major, Op. 9 No. 2](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Nocturne+No.+2+in+E-flat+major,+Op.+9+No.+2)
-* [Takumi Kaneko — Gerden](https://www.last.fm/music/Takumi+Kaneko/_/Gerden)
-* [Lelio Luttazzi — Souvenir d&#39;Italie](https://www.last.fm/music/Lelio+Luttazzi/_/Souvenir+d%27Italie)
-* [Invadable Harmony — Once Upon a Dream](https://www.last.fm/music/Invadable+Harmony/_/Once+Upon+a+Dream)
-* [Maurice Ravel — Antar &lpar;After N. Rimsky-Korsakov&rpar;: No. 7. Ravel: Allegretto](https://www.last.fm/music/Maurice+Ravel/_/Antar+&lpar;After+N.+Rimsky-Korsakov&rpar;:+No.+7.+Ravel:+Allegretto)<!-- LASTFM:END -->
+* [Carl Philipp Emanuel Bach — Solfeggio, H. 220](https://www.last.fm/music/Carl+Philipp+Emanuel+Bach/_/Solfeggio,+H.+220)
+* [Tomoki Hasegawa — U no Hane](https://www.last.fm/music/Tomoki+Hasegawa/_/U+no+Hane)
+* [Toby Fox — Chill](https://www.last.fm/music/Toby+Fox/_/Chill)
+* [Hikaru Shirosu — Waltz No. 1, Collapse](https://www.last.fm/music/Hikaru+Shirosu/_/Waltz+No.+1,+Collapse)
+* [Joe Hisaishi — Spring](https://www.last.fm/music/Joe+Hisaishi/_/Spring)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
