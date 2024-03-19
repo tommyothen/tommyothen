@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dominik Scherrer — Endless Night - Urban Romance](https://www.last.fm/music/Dominik+Scherrer/_/Endless+Night+-+Urban+Romance)
+* [Joe Hisaishi — You&#39;re In Love](https://www.last.fm/music/Joe+Hisaishi/_/You%27re+In+Love)
+* [Lang Lang — Piano Sonata No. 16 in C Major, K. 545 &quot;Sonata facile&quot;: I. Allegro](https://www.last.fm/music/Lang+Lang/_/Piano+Sonata+No.+16+in+C+Major,+K.+545+%22Sonata+facile%22:+I.+Allegro)
 * [Frédéric Chopin — Fantasie-Impromptu In C-Sharp Minor, Op. 66 No. 4](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasie-Impromptu+In+C-Sharp+Minor,+Op.+66+No.+4)
-* [Macabre Plaza — A Devil&#39;s Touch in the Midwest](https://www.last.fm/music/Macabre+Plaza/_/A+Devil%27s+Touch+in+the+Midwest)
-* [Fabrizio Paterlini — Rue des Trois Frères](https://www.last.fm/music/Fabrizio+Paterlini/_/Rue+des+Trois+Fr%C3%A8res)
-* [Yu-Peng Chen — Tender Strength](https://www.last.fm/music/Yu-Peng+Chen/_/Tender+Strength)
-* [Antonio Vivaldi — Cello Concerto in E minor, RV 409: II. Allegro](https://www.last.fm/music/Antonio+Vivaldi/_/Cello+Concerto+in+E+minor,+RV+409:+II.+Allegro)<!-- LASTFM:END -->
+* [Macabre Plaza — A Devil&#39;s Touch in the Midwest](https://www.last.fm/music/Macabre+Plaza/_/A+Devil%27s+Touch+in+the+Midwest)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
