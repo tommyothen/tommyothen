@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Erik Satie — 3 Gymnopédies: No. 1 Lent et douloureux](https://www.last.fm/music/Erik+Satie/_/3+Gymnop%C3%A9dies:+No.+1+Lent+et+douloureux)
+* [Frédéric Schubert — L&#39;autre Valse D&#39;amélie](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Schubert/_/L%27autre+Valse+D%27am%C3%A9lie)
+* [Janos Sebestyen — Prelude In D Minor, BWV 926 : Prelude In D Minor, BWV 926](https://www.last.fm/music/Janos+Sebestyen/_/Prelude+In+D+Minor,+BWV+926+:+Prelude+In+D+Minor,+BWV+926)
 * [Antonín Dvořák — Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di valse](https://www.last.fm/music/Anton%C3%ADn+Dvo%C5%99%C3%A1k/_/Serenade+for+Strings+in+E+Major,+Op.+22,+B.+52:+II.+Tempo+di+valse)
-* [Dominik Scherrer — Endless Night - Urban Romance](https://www.last.fm/music/Dominik+Scherrer/_/Endless+Night+-+Urban+Romance)
-* [Joe Hisaishi — You&#39;re In Love](https://www.last.fm/music/Joe+Hisaishi/_/You%27re+In+Love)
-* [Lang Lang — Piano Sonata No. 16 in C Major, K. 545 &quot;Sonata facile&quot;: I. Allegro](https://www.last.fm/music/Lang+Lang/_/Piano+Sonata+No.+16+in+C+Major,+K.+545+%22Sonata+facile%22:+I.+Allegro)
-* [Frédéric Chopin — Fantasie-Impromptu In C-Sharp Minor, Op. 66 No. 4](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasie-Impromptu+In+C-Sharp+Minor,+Op.+66+No.+4)<!-- LASTFM:END -->
+* [Dominik Scherrer — Endless Night - Urban Romance](https://www.last.fm/music/Dominik+Scherrer/_/Endless+Night+-+Urban+Romance)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
