@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frédéric Chopin — Nocturne No. 2 in E-flat major, Op. 9 No. 2](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Nocturne+No.+2+in+E-flat+major,+Op.+9+No.+2)
+* [Takumi Kaneko — Gerden](https://www.last.fm/music/Takumi+Kaneko/_/Gerden)
 * [Lelio Luttazzi — Souvenir d&#39;Italie](https://www.last.fm/music/Lelio+Luttazzi/_/Souvenir+d%27Italie)
 * [Invadable Harmony — Once Upon a Dream](https://www.last.fm/music/Invadable+Harmony/_/Once+Upon+a+Dream)
-* [Maurice Ravel — Antar &lpar;After N. Rimsky-Korsakov&rpar;: No. 7. Ravel: Allegretto](https://www.last.fm/music/Maurice+Ravel/_/Antar+&lpar;After+N.+Rimsky-Korsakov&rpar;:+No.+7.+Ravel:+Allegretto)
-* [Jean Sibelius — 13 Pieces, Op. 76: No. 2 Etude](https://www.last.fm/music/Jean+Sibelius/_/13+Pieces,+Op.+76:+No.+2+Etude)
-* [Omori — DUET](https://www.last.fm/music/Omori/_/DUET)<!-- LASTFM:END -->
+* [Maurice Ravel — Antar &lpar;After N. Rimsky-Korsakov&rpar;: No. 7. Ravel: Allegretto](https://www.last.fm/music/Maurice+Ravel/_/Antar+&lpar;After+N.+Rimsky-Korsakov&rpar;:+No.+7.+Ravel:+Allegretto)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
