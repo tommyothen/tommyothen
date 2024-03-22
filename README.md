@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Sousou no Frieren: ●● no Mahou - ONA](https://myanimelist.net/anime/56885/Sousou_no_Frieren__●●_no_Mahou) - Completed - 11 of ? episodes
 * [Sousou no Frieren - TV](https://myanimelist.net/anime/52991/Sousou_no_Frieren) - Watching - 27 of 28 episodes
 * [Ore dake Level Up na Ken - TV](https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken) - Watching - 10 of 12 episodes
 * [Fumetsu no Anata e - TV](https://myanimelist.net/anime/41025/Fumetsu_no_Anata_e) - Watching - 6 of 20 episodes
-* [Jujutsu Kaisen 2nd Season - TV](https://myanimelist.net/anime/51009/Jujutsu_Kaisen_2nd_Season) - Completed - 23 of 23 episodes
-* [Jujutsu Kaisen 0 Movie - Movie](https://myanimelist.net/anime/48561/Jujutsu_Kaisen_0_Movie) - Completed - 1 of 1 episodes<!-- ANIME-LIST:END -->
+* [Jujutsu Kaisen 2nd Season - TV](https://myanimelist.net/anime/51009/Jujutsu_Kaisen_2nd_Season) - Completed - 23 of 23 episodes<!-- ANIME-LIST:END -->
