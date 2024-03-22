@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Creepy Nuts — Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)
 * [Taku Matsushiba — ピアノ練習曲ロ短調 &lpar;Piano etude in h-moll&rpar;](https://www.last.fm/music/Taku+Matsushiba/_/%E3%83%94%E3%82%A2%E3%83%8E%E7%B7%B4%E7%BF%92%E6%9B%B2%E3%83%AD%E7%9F%AD%E8%AA%BF+&lpar;Piano+etude+in+h-moll&rpar;)
 * [Super Guitar Bros — Fairy Fountain](https://www.last.fm/music/Super+Guitar+Bros/_/Fairy+Fountain)
 * [Michel Colombier — Personal Contact](https://www.last.fm/music/Michel+Colombier/_/Personal+Contact)
-* [Erik Satie — 3 Gymnopédies: No. 1 Lent et douloureux](https://www.last.fm/music/Erik+Satie/_/3+Gymnop%C3%A9dies:+No.+1+Lent+et+douloureux)
-* [Frédéric Schubert — L&#39;autre Valse D&#39;amélie](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Schubert/_/L%27autre+Valse+D%27am%C3%A9lie)<!-- LASTFM:END -->
+* [Erik Satie — 3 Gymnopédies: No. 1 Lent et douloureux](https://www.last.fm/music/Erik+Satie/_/3+Gymnop%C3%A9dies:+No.+1+Lent+et+douloureux)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
