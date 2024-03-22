@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
+* [Camille Saint-Saëns — Introduction and Rondo capriccioso in A Minor, Op. 28](https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Introduction+and+Rondo+capriccioso+in+A+Minor,+Op.+28)
 * [Milet — Anytime Anywhere](https://www.last.fm/music/Milet/_/Anytime+Anywhere)
 * [Milet — Anytime Anywhere](https://www.last.fm/music/Milet/_/Anytime+Anywhere)
-* [Creepy Nuts — Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)
-* [Taku Matsushiba — ピアノ練習曲ロ短調 &lpar;Piano etude in h-moll&rpar;](https://www.last.fm/music/Taku+Matsushiba/_/%E3%83%94%E3%82%A2%E3%83%8E%E7%B7%B4%E7%BF%92%E6%9B%B2%E3%83%AD%E7%9F%AD%E8%AA%BF+&lpar;Piano+etude+in+h-moll&rpar;)
-* [Super Guitar Bros — Fairy Fountain](https://www.last.fm/music/Super+Guitar+Bros/_/Fairy+Fountain)<!-- LASTFM:END -->
+* [Creepy Nuts — Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
