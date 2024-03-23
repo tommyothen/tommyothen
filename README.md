@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [久石譲 — Fragile Dream](https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/Fragile+Dream)
+* [Federico Dubbini — Kairi I](https://www.last.fm/music/Federico+Dubbini/_/Kairi+I)
+* [Yu-Peng Chen — Tender Strength](https://www.last.fm/music/Yu-Peng+Chen/_/Tender+Strength)
 * [Hikaru Shirosu — Waltz No. 1, Op. 6 &quot;Collapse&quot;](https://www.last.fm/music/Hikaru+Shirosu/_/Waltz+No.+1,+Op.+6+%22Collapse%22)
-* [Tomoki Hasegawa — U no Hane](https://www.last.fm/music/Tomoki+Hasegawa/_/U+no+Hane)
-* [Jean Sibelius — 13 Pieces, Op. 76: No. 2 Etude](https://www.last.fm/music/Jean+Sibelius/_/13+Pieces,+Op.+76:+No.+2+Etude)
-* [Joe Hisaishi — Spring](https://www.last.fm/music/Joe+Hisaishi/_/Spring)
-* [Omori — DUET](https://www.last.fm/music/Omori/_/DUET)<!-- LASTFM:END -->
+* [Tomoki Hasegawa — U no Hane](https://www.last.fm/music/Tomoki+Hasegawa/_/U+no+Hane)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
