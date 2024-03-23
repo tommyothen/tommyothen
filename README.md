@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Josh A — Blessed](https://www.last.fm/music/Josh+A/_/Blessed)
+* [Stephen — Crossfire](https://www.last.fm/music/Stephen/_/Crossfire)
 * [Rezz — H E X](https://www.last.fm/music/Rezz/_/H+E+X)
 * [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [Lil Boom — Already Dead](https://www.last.fm/music/Lil+Boom/_/Already+Dead)
-* [Samsa — Superlative Heroes](https://www.last.fm/music/Samsa/_/Superlative+Heroes)
-* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)<!-- LASTFM:END -->
+* [Lil Boom — Already Dead](https://www.last.fm/music/Lil+Boom/_/Already+Dead)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
