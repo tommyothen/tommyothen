@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frédéric Chopin — Nocturne No. 2 in E-flat major, Op. 9 No. 2](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Nocturne+No.+2+in+E-flat+major,+Op.+9+No.+2)
+* [Johann Sebastian Bach — Cello Suite No. 1 in G Major, BWV 1007: I. Prélude](https://www.last.fm/music/Johann+Sebastian+Bach/_/Cello+Suite+No.+1+in+G+Major,+BWV+1007:+I.+Pr%C3%A9lude)
 * [Maurice Ravel — Antar &lpar;After N. Rimsky-Korsakov&rpar;: No. 7. Ravel: Allegretto](https://www.last.fm/music/Maurice+Ravel/_/Antar+&lpar;After+N.+Rimsky-Korsakov&rpar;:+No.+7.+Ravel:+Allegretto)
 * [AZALI — alone together](https://www.last.fm/music/AZALI/_/alone+together)
-* [Johannes Brahms — 16 Waltzes, Op. 39 &lpar;1867 version&rpar;: No. 3 in G-Sharp Minor](https://www.last.fm/music/Johannes+Brahms/_/16+Waltzes,+Op.+39+&lpar;1867+version&rpar;:+No.+3+in+G-Sharp+Minor)
-* [Niccolò Paganini — Sonata for Violin and Guitar in A Minor, Op. 2, No. 6, MS 26: Tempo di Walzer](https://www.last.fm/music/Niccol%C3%B2+Paganini/_/Sonata+for+Violin+and+Guitar+in+A+Minor,+Op.+2,+No.+6,+MS+26:+Tempo+di+Walzer)
-* [Video Days — Bleached](https://www.last.fm/music/Video+Days/_/Bleached)<!-- LASTFM:END -->
+* [Johannes Brahms — 16 Waltzes, Op. 39 &lpar;1867 version&rpar;: No. 3 in G-Sharp Minor](https://www.last.fm/music/Johannes+Brahms/_/16+Waltzes,+Op.+39+&lpar;1867+version&rpar;:+No.+3+in+G-Sharp+Minor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
