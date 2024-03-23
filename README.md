@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joe Hisaishi — You&#39;re In Love](https://www.last.fm/music/Joe+Hisaishi/_/You%27re+In+Love)
+* [Fabrizio Paterlini — Rue des Trois Frères](https://www.last.fm/music/Fabrizio+Paterlini/_/Rue+des+Trois+Fr%C3%A8res)
+* [Elijah Fox — West 144th St](https://www.last.fm/music/Elijah+Fox/_/West+144th+St)
 * [Hikaru Shirosu — Prelude No. 3, Final Stars](https://www.last.fm/music/Hikaru+Shirosu/_/Prelude+No.+3,+Final+Stars)
-* [Frédéric Chopin — Fantasie-Impromptu In C-Sharp Minor, Op. 66 No. 4](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasie-Impromptu+In+C-Sharp+Minor,+Op.+66+No.+4)
-* [久石譲 — Fragile Dream](https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/Fragile+Dream)
-* [Federico Dubbini — Kairi I](https://www.last.fm/music/Federico+Dubbini/_/Kairi+I)
-* [Yu-Peng Chen — Tender Strength](https://www.last.fm/music/Yu-Peng+Chen/_/Tender+Strength)<!-- LASTFM:END -->
+* [Frédéric Chopin — Fantasie-Impromptu In C-Sharp Minor, Op. 66 No. 4](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasie-Impromptu+In+C-Sharp+Minor,+Op.+66+No.+4)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
