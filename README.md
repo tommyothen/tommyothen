@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yoh Kamiyama — YELLOW](https://www.last.fm/music/Yoh+Kamiyama/_/YELLOW)
+* [Kanaria — Rendezvous](https://www.last.fm/music/Kanaria/_/Rendezvous)
 * [Tia — Deal with the devil - TV Size](https://www.last.fm/music/Tia/_/Deal+with+the+devil+-+TV+Size)
 * [MIYAVI — Flashback](https://www.last.fm/music/MIYAVI/_/Flashback)
-* [Ali — Wild Side -Anime Ver.-](https://www.last.fm/music/Ali/_/Wild+Side+-Anime+Ver.-)
-* [Sou — ミスターフィクサー](https://www.last.fm/music/Sou/_/%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B5%E3%83%BC)
-* [Hello Sleepwalkers — Goya no Machiawase](https://www.last.fm/music/Hello+Sleepwalkers/_/Goya+no+Machiawase)<!-- LASTFM:END -->
+* [Ali — Wild Side -Anime Ver.-](https://www.last.fm/music/Ali/_/Wild+Side+-Anime+Ver.-)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
