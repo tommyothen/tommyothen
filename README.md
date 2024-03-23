@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MYTH &amp; ROID — Reminiscence Reincarnation](https://www.last.fm/music/MYTH+&amp;+ROID/_/Reminiscence+Reincarnation)
 * [Cö shu Nie — 絶体絶命](https://www.last.fm/music/C%C3%B6+shu+Nie/_/%E7%B5%B6%E4%BD%93%E7%B5%B6%E5%91%BD)
 * [THE ORAL CIGARETTES — Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!)
 * [YOASOBI — アイドル](https://www.last.fm/music/YOASOBI/_/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB)
-* [Creepy Nuts — よふかしのうた](https://www.last.fm/music/Creepy+Nuts/_/%E3%82%88%E3%81%B5%E3%81%8B%E3%81%97%E3%81%AE%E3%81%86%E3%81%9F)
-* [Cö shu Nie — asphyxia](https://www.last.fm/music/C%C3%B6+shu+Nie/_/asphyxia)<!-- LASTFM:END -->
+* [Creepy Nuts — よふかしのうた](https://www.last.fm/music/Creepy+Nuts/_/%E3%82%88%E3%81%B5%E3%81%8B%E3%81%97%E3%81%AE%E3%81%86%E3%81%9F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
