@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
+* [FEDUK — Бьёт солнце](https://www.last.fm/music/FEDUK/_/%D0%91%D1%8C%D1%91%D1%82+%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5)
+* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
 * [Robert Schumann — Carnaval, Op. 9: No. 12. Chopin](https://www.last.fm/music/Robert+Schumann/_/Carnaval,+Op.+9:+No.+12.+Chopin)
-* [Macabre Plaza — A Devil&#39;s Touch in the Midwest](https://www.last.fm/music/Macabre+Plaza/_/A+Devil%27s+Touch+in+the+Midwest)
-* [Taku Matsushiba — ピアノ練習曲ロ短調 &lpar;Piano etude in h-moll&rpar;](https://www.last.fm/music/Taku+Matsushiba/_/%E3%83%94%E3%82%A2%E3%83%8E%E7%B7%B4%E7%BF%92%E6%9B%B2%E3%83%AD%E7%9F%AD%E8%AA%BF+&lpar;Piano+etude+in+h-moll&rpar;)
-* [Frédéric Chopin — Chopin: 12 Études, Op. 25: No. 11 in A Minor &quot;Winter Wind&quot;](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Chopin:+12+%C3%89tudes,+Op.+25:+No.+11+in+A+Minor+%22Winter+Wind%22)
-* [Camille Saint-Saëns — Introduction and Rondo Capriccioso in A minor](https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Introduction+and+Rondo+Capriccioso+in+A+minor)<!-- LASTFM:END -->
+* [Macabre Plaza — A Devil&#39;s Touch in the Midwest](https://www.last.fm/music/Macabre+Plaza/_/A+Devil%27s+Touch+in+the+Midwest)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
