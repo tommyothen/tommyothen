@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ali — Wild Side](https://www.last.fm/music/Ali/_/Wild+Side)
+* [Creepy Nuts — Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)
+* [Yorushika — 晴る](https://www.last.fm/music/Yorushika/_/%E6%99%B4%E3%82%8B)
 * [YOASOBI — 勇者](https://www.last.fm/music/YOASOBI/_/%E5%8B%87%E8%80%85)
-* [Josh A — Blessed](https://www.last.fm/music/Josh+A/_/Blessed)
-* [Stephen — Crossfire](https://www.last.fm/music/Stephen/_/Crossfire)
-* [Rezz — H E X](https://www.last.fm/music/Rezz/_/H+E+X)
-* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)<!-- LASTFM:END -->
+* [Josh A — Blessed](https://www.last.fm/music/Josh+A/_/Blessed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
