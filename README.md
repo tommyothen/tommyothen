@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taku Matsushiba — ピアノ練習曲ロ短調 &lpar;Piano etude in h-moll&rpar;](https://www.last.fm/music/Taku+Matsushiba/_/%E3%83%94%E3%82%A2%E3%83%8E%E7%B7%B4%E7%BF%92%E6%9B%B2%E3%83%AD%E7%9F%AD%E8%AA%BF+&lpar;Piano+etude+in+h-moll&rpar;)
+* [Frédéric Chopin — Chopin: 12 Études, Op. 25: No. 11 in A Minor &quot;Winter Wind&quot;](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Chopin:+12+%C3%89tudes,+Op.+25:+No.+11+in+A+Minor+%22Winter+Wind%22)
+* [Camille Saint-Saëns — Introduction and Rondo Capriccioso in A minor](https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Introduction+and+Rondo+Capriccioso+in+A+minor)
 * [Joe Hisaishi — You&#39;re In Love](https://www.last.fm/music/Joe+Hisaishi/_/You%27re+In+Love)
-* [Fabrizio Paterlini — Rue des Trois Frères](https://www.last.fm/music/Fabrizio+Paterlini/_/Rue+des+Trois+Fr%C3%A8res)
-* [Elijah Fox — West 144th St](https://www.last.fm/music/Elijah+Fox/_/West+144th+St)
-* [Hikaru Shirosu — Prelude No. 3, Final Stars](https://www.last.fm/music/Hikaru+Shirosu/_/Prelude+No.+3,+Final+Stars)
-* [Frédéric Chopin — Fantasie-Impromptu In C-Sharp Minor, Op. 66 No. 4](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasie-Impromptu+In+C-Sharp+Minor,+Op.+66+No.+4)<!-- LASTFM:END -->
+* [Fabrizio Paterlini — Rue des Trois Frères](https://www.last.fm/music/Fabrizio+Paterlini/_/Rue+des+Trois+Fr%C3%A8res)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
