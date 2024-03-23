@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YOASOBI — 勇者](https://www.last.fm/music/YOASOBI/_/%E5%8B%87%E8%80%85)
+* [Creepy Nuts — 堕天](https://www.last.fm/music/Creepy+Nuts/_/%E5%A0%95%E5%A4%A9)
 * [9mm Parabellum Bullet — インフェルノ](https://www.last.fm/music/9mm+Parabellum+Bullet/_/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E)
 * [sasanomaly — 空と虚](https://www.last.fm/music/sasanomaly/_/%E7%A9%BA%E3%81%A8%E8%99%9A)
-* [Yorushika — ただ君に晴れ](https://www.last.fm/music/Yorushika/_/%E3%81%9F%E3%81%A0%E5%90%9B%E3%81%AB%E6%99%B4%E3%82%8C)
-* [MYTH &amp; ROID — Reminiscence Reincarnation](https://www.last.fm/music/MYTH+&amp;+ROID/_/Reminiscence+Reincarnation)
-* [Cö shu Nie — 絶体絶命](https://www.last.fm/music/C%C3%B6+shu+Nie/_/%E7%B5%B6%E4%BD%93%E7%B5%B6%E5%91%BD)<!-- LASTFM:END -->
+* [Yorushika — ただ君に晴れ](https://www.last.fm/music/Yorushika/_/%E3%81%9F%E3%81%A0%E5%90%9B%E3%81%AB%E6%99%B4%E3%82%8C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
