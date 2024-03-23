@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Boom — Already Dead](https://www.last.fm/music/Lil+Boom/_/Already+Dead)
+* [Samsa — Superlative Heroes](https://www.last.fm/music/Samsa/_/Superlative+Heroes)
 * [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
 * [FEDUK — Бьёт солнце](https://www.last.fm/music/FEDUK/_/%D0%91%D1%8C%D1%91%D1%82+%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5)
-* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
-* [Robert Schumann — Carnaval, Op. 9: No. 12. Chopin](https://www.last.fm/music/Robert+Schumann/_/Carnaval,+Op.+9:+No.+12.+Chopin)
-* [Macabre Plaza — A Devil&#39;s Touch in the Midwest](https://www.last.fm/music/Macabre+Plaza/_/A+Devil%27s+Touch+in+the+Midwest)<!-- LASTFM:END -->
+* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
