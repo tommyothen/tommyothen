@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yehezkel Raz — Ballerina](https://www.last.fm/music/Yehezkel+Raz/_/Ballerina)
-* [Lelio Luttazzi — Souvenir d&#39;Italie](https://www.last.fm/music/Lelio+Luttazzi/_/Souvenir+d%27Italie)
-* [Camille Saint-Saëns — Introduction and Rondo capriccioso in A Minor, Op. 28](https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Introduction+and+Rondo+capriccioso+in+A+Minor,+Op.+28)
-* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
-* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)<!-- LASTFM:END -->
+* [Video Days — Bleached](https://www.last.fm/music/Video+Days/_/Bleached)
+* [Jean Sibelius — 5 Pieces, Op. 75, &quot;The Trees&quot;: No. 3 Aspen](https://www.last.fm/music/Jean+Sibelius/_/5+Pieces,+Op.+75,+%22The+Trees%22:+No.+3+Aspen)
+* [Austin Farwell — Once Upon a Time](https://www.last.fm/music/Austin+Farwell/_/Once+Upon+a+Time)
+* [Super Guitar Bros — Fairy Fountain](https://www.last.fm/music/Super+Guitar+Bros/_/Fairy+Fountain)
+* [Yehezkel Raz — Ballerina](https://www.last.fm/music/Yehezkel+Raz/_/Ballerina)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
