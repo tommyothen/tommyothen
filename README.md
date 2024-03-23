@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hikaru Shirosu — Prelude No. 3, Final Stars](https://www.last.fm/music/Hikaru+Shirosu/_/Prelude+No.+3,+Final+Stars)
+* [Frédéric Chopin — Fantasie-Impromptu In C-Sharp Minor, Op. 66 No. 4](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasie-Impromptu+In+C-Sharp+Minor,+Op.+66+No.+4)
 * [久石譲 — Fragile Dream](https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/Fragile+Dream)
 * [Federico Dubbini — Kairi I](https://www.last.fm/music/Federico+Dubbini/_/Kairi+I)
-* [Yu-Peng Chen — Tender Strength](https://www.last.fm/music/Yu-Peng+Chen/_/Tender+Strength)
-* [Hikaru Shirosu — Waltz No. 1, Op. 6 &quot;Collapse&quot;](https://www.last.fm/music/Hikaru+Shirosu/_/Waltz+No.+1,+Op.+6+%22Collapse%22)
-* [Tomoki Hasegawa — U no Hane](https://www.last.fm/music/Tomoki+Hasegawa/_/U+no+Hane)<!-- LASTFM:END -->
+* [Yu-Peng Chen — Tender Strength](https://www.last.fm/music/Yu-Peng+Chen/_/Tender+Strength)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
