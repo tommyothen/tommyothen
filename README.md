@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Video Days — Bleached](https://www.last.fm/music/Video+Days/_/Bleached)
-* [Jean Sibelius — 5 Pieces, Op. 75, &quot;The Trees&quot;: No. 3 Aspen](https://www.last.fm/music/Jean+Sibelius/_/5+Pieces,+Op.+75,+%22The+Trees%22:+No.+3+Aspen)
-* [Austin Farwell — Once Upon a Time](https://www.last.fm/music/Austin+Farwell/_/Once+Upon+a+Time)
-* [Super Guitar Bros — Fairy Fountain](https://www.last.fm/music/Super+Guitar+Bros/_/Fairy+Fountain)
-* [Yehezkel Raz — Ballerina](https://www.last.fm/music/Yehezkel+Raz/_/Ballerina)<!-- LASTFM:END -->
+* [Maurice Ravel — Antar &lpar;After N. Rimsky-Korsakov&rpar;: No. 7. Ravel: Allegretto](https://www.last.fm/music/Maurice+Ravel/_/Antar+&lpar;After+N.+Rimsky-Korsakov&rpar;:+No.+7.+Ravel:+Allegretto)
+* [AZALI — alone together](https://www.last.fm/music/AZALI/_/alone+together)
+* [Johannes Brahms — 16 Waltzes, Op. 39 &lpar;1867 version&rpar;: No. 3 in G-Sharp Minor](https://www.last.fm/music/Johannes+Brahms/_/16+Waltzes,+Op.+39+&lpar;1867+version&rpar;:+No.+3+in+G-Sharp+Minor)
+* [Niccolò Paganini — Sonata for Violin and Guitar in A Minor, Op. 2, No. 6, MS 26: Tempo di Walzer](https://www.last.fm/music/Niccol%C3%B2+Paganini/_/Sonata+for+Violin+and+Guitar+in+A+Minor,+Op.+2,+No.+6,+MS+26:+Tempo+di+Walzer)
+* [Video Days — Bleached](https://www.last.fm/music/Video+Days/_/Bleached)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
