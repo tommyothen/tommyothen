@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
+* [DJ Khalil — Elevate &lpar;feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich&rpar;](https://www.last.fm/music/DJ+Khalil/_/Elevate+&lpar;feat.+Denzel+Curry,+YBN+Cordae,+SwaVay,+Trevor+Rich&rpar;)
 * [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
 * [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
-* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)
-* [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)
-* [William Bolton — Dream at Night](https://www.last.fm/music/William+Bolton/_/Dream+at+Night)<!-- LASTFM:END -->
+* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
