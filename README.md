@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)
+* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
 * [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
 * [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
-* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
-* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)<!-- LASTFM:END -->
+* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
