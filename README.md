@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Milet — Anytime Anywhere](https://www.last.fm/music/Milet/_/Anytime+Anywhere)
+* [Evan Call — Departures](https://www.last.fm/music/Evan+Call/_/Departures)
 * [Evan Call — Farewell, My Friend](https://www.last.fm/music/Evan+Call/_/Farewell,+My+Friend)
 * [Evan Call — One Last Adventure](https://www.last.fm/music/Evan+Call/_/One+Last+Adventure)
-* [Evan Call — For 1000 Years](https://www.last.fm/music/Evan+Call/_/For+1000+Years)
-* [Evan Call — A Well-Earned Celebration](https://www.last.fm/music/Evan+Call/_/A+Well-Earned+Celebration)
-* [Evan Call — The End of One Journey](https://www.last.fm/music/Evan+Call/_/The+End+of+One+Journey)<!-- LASTFM:END -->
+* [Evan Call — For 1000 Years](https://www.last.fm/music/Evan+Call/_/For+1000+Years)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
