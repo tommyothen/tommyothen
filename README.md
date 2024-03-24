@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [9mm Parabellum Bullet — インフェルノ](https://www.last.fm/music/9mm+Parabellum+Bullet/_/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E)
+* [Fujii Kaze — Hana](https://www.last.fm/music/Fujii+Kaze/_/Hana)
 * [Kanaria — Rendezvous](https://www.last.fm/music/Kanaria/_/Rendezvous)
 * [須田景凪 — veil](https://www.last.fm/music/%E9%A0%88%E7%94%B0%E6%99%AF%E5%87%AA/_/veil)
-* [Cö shu Nie — 絶体絶命](https://www.last.fm/music/C%C3%B6+shu+Nie/_/%E7%B5%B6%E4%BD%93%E7%B5%B6%E5%91%BD)
-* [THE ORAL CIGARETTES — Kyouran Hey Kids!!](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Kyouran+Hey+Kids!!)
-* [YOASOBI — アイドル](https://www.last.fm/music/YOASOBI/_/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB)<!-- LASTFM:END -->
+* [Cö shu Nie — 絶体絶命](https://www.last.fm/music/C%C3%B6+shu+Nie/_/%E7%B5%B6%E4%BD%93%E7%B5%B6%E5%91%BD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
