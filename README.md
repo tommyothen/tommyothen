@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Evan Call — Farewell, My Friend](https://www.last.fm/music/Evan+Call/_/Farewell,+My+Friend)
+* [Evan Call — One Last Adventure](https://www.last.fm/music/Evan+Call/_/One+Last+Adventure)
+* [Evan Call — For 1000 Years](https://www.last.fm/music/Evan+Call/_/For+1000+Years)
 * [Evan Call — A Well-Earned Celebration](https://www.last.fm/music/Evan+Call/_/A+Well-Earned+Celebration)
-* [Evan Call — The End of One Journey](https://www.last.fm/music/Evan+Call/_/The+End+of+One+Journey)
-* [Evan Call — Journey of a Lifetime ~ Frieren Main Theme](https://www.last.fm/music/Evan+Call/_/Journey+of+a+Lifetime+~+Frieren+Main+Theme)
-* [YOASOBI — 勇者](https://www.last.fm/music/YOASOBI/_/%E5%8B%87%E8%80%85)
-* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)<!-- LASTFM:END -->
+* [Evan Call — The End of One Journey](https://www.last.fm/music/Evan+Call/_/The+End+of+One+Journey)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
