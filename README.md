@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)
-* [Eden — lost//found](https://www.last.fm/music/Eden/_/lost%2F%2Ffound)
-* [XXXTENTACION — Ayala &lpar;Outro&rpar;](https://www.last.fm/music/XXXTENTACION/_/Ayala+&lpar;Outro&rpar;)<!-- LASTFM:END -->
+* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)
+* [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)
+* [William Bolton — Dream at Night](https://www.last.fm/music/William+Bolton/_/Dream+at+Night)
+* [Rich Brian — Flight](https://www.last.fm/music/Rich+Brian/_/Flight)
+* [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
