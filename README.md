@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rude-α — LIFE](https://www.last.fm/music/Rude-%CE%B1/_/LIFE)
-* [Tatsuya Kitani — 青のすみか](https://www.last.fm/music/Tatsuya+Kitani/_/%E9%9D%92%E3%81%AE%E3%81%99%E3%81%BF%E3%81%8B)
-* [須田景凪 — veil](https://www.last.fm/music/%E9%A0%88%E7%94%B0%E6%99%AF%E5%87%AA/_/veil)
-* [THE ORAL CIGARETTES — Mouiikai?](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Mouiikai%3F)
-* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)<!-- LASTFM:END -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
+* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)
+* [Eden — lost//found](https://www.last.fm/music/Eden/_/lost%2F%2Ffound)
+* [XXXTENTACION — Ayala &lpar;Outro&rpar;](https://www.last.fm/music/XXXTENTACION/_/Ayala+&lpar;Outro&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
