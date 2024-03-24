@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Milet — Anytime Anywhere](https://www.last.fm/music/Milet/_/Anytime+Anywhere)
-* [Evan Call — Departures](https://www.last.fm/music/Evan+Call/_/Departures)
-* [Evan Call — Farewell, My Friend](https://www.last.fm/music/Evan+Call/_/Farewell,+My+Friend)
-* [Evan Call — One Last Adventure](https://www.last.fm/music/Evan+Call/_/One+Last+Adventure)
-* [Evan Call — For 1000 Years](https://www.last.fm/music/Evan+Call/_/For+1000+Years)<!-- LASTFM:END -->
+* [Evan Call — Grassy Turtles and Seed Rats](https://www.last.fm/music/Evan+Call/_/Grassy+Turtles+and+Seed+Rats)
+* [Evan Call — Time Flows Ever Onward](https://www.last.fm/music/Evan+Call/_/Time+Flows+Ever+Onward)
+* [Evan Call — Zoltraak](https://www.last.fm/music/Evan+Call/_/Zoltraak)
+* [Yorushika — 晴る](https://www.last.fm/music/Yorushika/_/%E6%99%B4%E3%82%8B)
+* [Milet — Anytime Anywhere](https://www.last.fm/music/Milet/_/Anytime+Anywhere)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
