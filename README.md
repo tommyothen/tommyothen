@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)
 * [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
 * [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
 * [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
-* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)
-* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)<!-- LASTFM:END -->
+* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
