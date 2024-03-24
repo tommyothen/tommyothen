@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vaundy — 踊り子](https://www.last.fm/music/Vaundy/_/%E8%B8%8A%E3%82%8A%E5%AD%90)
+* [ハナエ — 神様はじめました](https://www.last.fm/music/%E3%83%8F%E3%83%8A%E3%82%A8/_/%E7%A5%9E%E6%A7%98%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F)
 * [YOASOBI — 勇者](https://www.last.fm/music/YOASOBI/_/%E5%8B%87%E8%80%85)
 * [Creepy Nuts — 堕天](https://www.last.fm/music/Creepy+Nuts/_/%E5%A0%95%E5%A4%A9)
-* [9mm Parabellum Bullet — インフェルノ](https://www.last.fm/music/9mm+Parabellum+Bullet/_/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E)
-* [Fujii Kaze — Hana](https://www.last.fm/music/Fujii+Kaze/_/Hana)
-* [Kanaria — Rendezvous](https://www.last.fm/music/Kanaria/_/Rendezvous)<!-- LASTFM:END -->
+* [9mm Parabellum Bullet — インフェルノ](https://www.last.fm/music/9mm+Parabellum+Bullet/_/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
