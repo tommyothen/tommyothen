@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
 * [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)
 * [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)
 * [William Bolton — Dream at Night](https://www.last.fm/music/William+Bolton/_/Dream+at+Night)
-* [Rich Brian — Flight](https://www.last.fm/music/Rich+Brian/_/Flight)
-* [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)<!-- LASTFM:END -->
+* [Rich Brian — Flight](https://www.last.fm/music/Rich+Brian/_/Flight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
