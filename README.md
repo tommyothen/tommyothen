@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
 * [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
 * [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
-* [Easy Life — Nightmares](https://www.last.fm/music/Easy+Life/_/Nightmares)
-* [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)<!-- LASTFM:END -->
+* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
