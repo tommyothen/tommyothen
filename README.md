@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Evan Call — A Well-Earned Celebration](https://www.last.fm/music/Evan+Call/_/A+Well-Earned+Celebration)
+* [Evan Call — The End of One Journey](https://www.last.fm/music/Evan+Call/_/The+End+of+One+Journey)
+* [Evan Call — Journey of a Lifetime ~ Frieren Main Theme](https://www.last.fm/music/Evan+Call/_/Journey+of+a+Lifetime+~+Frieren+Main+Theme)
 * [YOASOBI — 勇者](https://www.last.fm/music/YOASOBI/_/%E5%8B%87%E8%80%85)
-* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
-* [NOA — Any angle](https://www.last.fm/music/NOA/_/Any+angle)
-* [ATARASHII GAKKO! — Otonablue](https://www.last.fm/music/ATARASHII+GAKKO!/_/Otonablue)
-* [Vaundy — 踊り子](https://www.last.fm/music/Vaundy/_/%E8%B8%8A%E3%82%8A%E5%AD%90)<!-- LASTFM:END -->
+* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
