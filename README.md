@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rude-α — LIFE](https://www.last.fm/music/Rude-%CE%B1/_/LIFE)
+* [Tatsuya Kitani — 青のすみか](https://www.last.fm/music/Tatsuya+Kitani/_/%E9%9D%92%E3%81%AE%E3%81%99%E3%81%BF%E3%81%8B)
+* [須田景凪 — veil](https://www.last.fm/music/%E9%A0%88%E7%94%B0%E6%99%AF%E5%87%AA/_/veil)
 * [THE ORAL CIGARETTES — Mouiikai?](https://www.last.fm/music/THE+ORAL+CIGARETTES/_/Mouiikai%3F)
-* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
-* [Yama — Haru wo Tsugeru](https://www.last.fm/music/Yama/_/Haru+wo+Tsugeru)
-* [Rude-α — Paradise](https://www.last.fm/music/Rude-%CE%B1/_/Paradise)
-* [Sangatsu no Phantasia — パステルレイン](https://www.last.fm/music/Sangatsu+no+Phantasia/_/%E3%83%91%E3%82%B9%E3%83%86%E3%83%AB%E3%83%AC%E3%82%A4%E3%83%B3)<!-- LASTFM:END -->
+* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
