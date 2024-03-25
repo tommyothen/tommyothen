@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Evan Call — Grassy Turtles and Seed Rats](https://www.last.fm/music/Evan+Call/_/Grassy+Turtles+and+Seed+Rats)
-* [Evan Call — Time Flows Ever Onward](https://www.last.fm/music/Evan+Call/_/Time+Flows+Ever+Onward)
-* [Evan Call — Zoltraak](https://www.last.fm/music/Evan+Call/_/Zoltraak)
-* [Yorushika — 晴る](https://www.last.fm/music/Yorushika/_/%E6%99%B4%E3%82%8B)
-* [Milet — Anytime Anywhere](https://www.last.fm/music/Milet/_/Anytime+Anywhere)<!-- LASTFM:END -->
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
+* [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)
+* [Sebastian Paul — ON SOME HIGH](https://www.last.fm/music/Sebastian+Paul/_/ON+SOME+HIGH)
+* [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)
+* [Evan Call — Grassy Turtles and Seed Rats](https://www.last.fm/music/Evan+Call/_/Grassy+Turtles+and+Seed+Rats)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
