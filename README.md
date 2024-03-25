@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
+* [Stephen — Crossfire](https://www.last.fm/music/Stephen/_/Crossfire)
 * [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
-* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)<!-- LASTFM:END -->
+* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
