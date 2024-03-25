@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
+* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
 * [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
-* [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)
-* [Sebastian Paul — ON SOME HIGH](https://www.last.fm/music/Sebastian+Paul/_/ON+SOME+HIGH)
-* [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)
-* [Evan Call — Grassy Turtles and Seed Rats](https://www.last.fm/music/Evan+Call/_/Grassy+Turtles+and+Seed+Rats)<!-- LASTFM:END -->
+* [atlas in motion — Well Known](https://www.last.fm/music/atlas+in+motion/_/Well+Known)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
