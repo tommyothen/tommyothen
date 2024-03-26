@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — WHISTLE - Acoustic Ver.](https://www.last.fm/music/BLACKPINK/_/WHISTLE+-+Acoustic+Ver.)
 * [BLACKPINK — Ice Cream &lpar;with Selena Gomez&rpar;](https://www.last.fm/music/BLACKPINK/_/Ice+Cream+&lpar;with+Selena+Gomez&rpar;)
 * [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
 * [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
-* [BLACKPINK — Don&#39;t Know What to Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+to+Do)
-* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)<!-- LASTFM:END -->
+* [BLACKPINK — Don&#39;t Know What to Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+to+Do)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
