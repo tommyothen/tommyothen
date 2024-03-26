@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
+* [BLACKPINK — Don&#39;t Know What to Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+to+Do)
 * [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
 * [Camellia — POLYBIUS GB SPEEDRUN -Glitchless 100% WR in 0:03:57-](https://www.last.fm/music/Camellia/_/POLYBIUS+GB+SPEEDRUN+-Glitchless+100%25+WR+in+0:03:57-)
-* [Rich Brian — Slow Down Turbo](https://www.last.fm/music/Rich+Brian/_/Slow+Down+Turbo)
-* [Creepy Nuts — Bling-Bang-Bang-Born](https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born)
-* [nothing,nowhere. — blood &lpar;feat. KennyHoopla &amp; JUDGE&rpar;](https://www.last.fm/music/nothing,nowhere./_/blood+&lpar;feat.+KennyHoopla+&amp;+JUDGE&rpar;)<!-- LASTFM:END -->
+* [Rich Brian — Slow Down Turbo](https://www.last.fm/music/Rich+Brian/_/Slow+Down+Turbo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
