@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [YOASOBI — 勇者](https://www.last.fm/music/YOASOBI/_/%E5%8B%87%E8%80%85)
 * [BLACKPINK — SEE U LATER](https://www.last.fm/music/BLACKPINK/_/SEE+U+LATER)
 * [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)
-* [BLACKPINK — WHISTLE - Acoustic Ver.](https://www.last.fm/music/BLACKPINK/_/WHISTLE+-+Acoustic+Ver.)
-* [BLACKPINK — Ice Cream &lpar;with Selena Gomez&rpar;](https://www.last.fm/music/BLACKPINK/_/Ice+Cream+&lpar;with+Selena+Gomez&rpar;)<!-- LASTFM:END -->
+* [BLACKPINK — WHISTLE - Acoustic Ver.](https://www.last.fm/music/BLACKPINK/_/WHISTLE+-+Acoustic+Ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
