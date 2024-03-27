@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
+* [Her Name In Blood — LAST DAY](https://www.last.fm/music/Her+Name+In+Blood/_/LAST+DAY)
 * [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [YOASOBI — 勇者](https://www.last.fm/music/YOASOBI/_/%E5%8B%87%E8%80%85)
-* [BLACKPINK — SEE U LATER](https://www.last.fm/music/BLACKPINK/_/SEE+U+LATER)
-* [BLACKPINK — AS IF IT&#39;S YOUR LAST](https://www.last.fm/music/BLACKPINK/_/AS+IF+IT%27S+YOUR+LAST)<!-- LASTFM:END -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
