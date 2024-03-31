@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — crystallized](https://www.last.fm/music/Camellia/_/crystallized)
 * [Ironmouse — Rodents Kingdom](https://www.last.fm/music/Ironmouse/_/Rodents+Kingdom)
 * [Camellia — ヒアソビ &lpar;feat. 初音ミク&rpar;](https://www.last.fm/music/Camellia/_/%E3%83%92%E3%82%A2%E3%82%BD%E3%83%93+&lpar;feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF&rpar;)
 * [Camellia — Nasty * Nasty * Spell](https://www.last.fm/music/Camellia/_/Nasty+*+Nasty+*+Spell)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)<!-- LASTFM:END -->
+* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
