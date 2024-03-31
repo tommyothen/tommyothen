@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)
 * [Nanahira — Can I friend you on Bassbook? lol](https://www.last.fm/music/Nanahira/_/Can+I+friend+you+on+Bassbook%3F+lol)
 * [Camellia — GHOST](https://www.last.fm/music/Camellia/_/GHOST)
 * [Camellia — crystallized](https://www.last.fm/music/Camellia/_/crystallized)
-* [Ironmouse — Rodents Kingdom](https://www.last.fm/music/Ironmouse/_/Rodents+Kingdom)
-* [Camellia — ヒアソビ &lpar;feat. 初音ミク&rpar;](https://www.last.fm/music/Camellia/_/%E3%83%92%E3%82%A2%E3%82%BD%E3%83%93+&lpar;feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF&rpar;)<!-- LASTFM:END -->
+* [Ironmouse — Rodents Kingdom](https://www.last.fm/music/Ironmouse/_/Rodents+Kingdom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
