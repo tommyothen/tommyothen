@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — #1f1e33 - #00102g version](https://www.last.fm/music/Camellia/_/%231f1e33+-+%2300102g+version)
 * [Camellia — [diffraction]](https://www.last.fm/music/Camellia/_/%5Bdiffraction%5D)
 * [Camellia — Soroban De Big-Bang](https://www.last.fm/music/Camellia/_/Soroban+De+Big-Bang)
 * [Camellia — &lpar;The&rpar; Red * Room](https://www.last.fm/music/Camellia/_/&lpar;The&rpar;+Red+*+Room)
-* [M-Project — D.C. Al Coda](https://www.last.fm/music/M-Project/_/D.C.+Al+Coda)
-* [Camellia — Hello &lpar;BPM&rpar; 2021](https://www.last.fm/music/Camellia/_/Hello+&lpar;BPM&rpar;+2021)<!-- LASTFM:END -->
+* [M-Project — D.C. Al Coda](https://www.last.fm/music/M-Project/_/D.C.+Al+Coda)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
