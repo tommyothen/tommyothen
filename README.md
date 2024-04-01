@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — &lpar;The&rpar; Red * Room](https://www.last.fm/music/Camellia/_/&lpar;The&rpar;+Red+*+Room)
 * [M-Project — D.C. Al Coda](https://www.last.fm/music/M-Project/_/D.C.+Al+Coda)
 * [Camellia — Hello &lpar;BPM&rpar; 2021](https://www.last.fm/music/Camellia/_/Hello+&lpar;BPM&rpar;+2021)
 * [Camellia — CICADA3302](https://www.last.fm/music/Camellia/_/CICADA3302)
-* [Camellia — Light it up](https://www.last.fm/music/Camellia/_/Light+it+up)
-* [Camellia — Exit This Earth&#39;s Atomosphere](https://www.last.fm/music/Camellia/_/Exit+This+Earth%27s+Atomosphere)<!-- LASTFM:END -->
+* [Camellia — Light it up](https://www.last.fm/music/Camellia/_/Light+it+up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
