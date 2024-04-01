@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — CICADA3302](https://www.last.fm/music/Camellia/_/CICADA3302)
 * [Camellia — Light it up](https://www.last.fm/music/Camellia/_/Light+it+up)
 * [Camellia — Exit This Earth&#39;s Atomosphere](https://www.last.fm/music/Camellia/_/Exit+This+Earth%27s+Atomosphere)
 * [Camellia — Flamewall](https://www.last.fm/music/Camellia/_/Flamewall)
-* [Nanahira — Can I friend you on Bassbook? lol](https://www.last.fm/music/Nanahira/_/Can+I+friend+you+on+Bassbook%3F+lol)
-* [Camellia — GHOST](https://www.last.fm/music/Camellia/_/GHOST)<!-- LASTFM:END -->
+* [Nanahira — Can I friend you on Bassbook? lol](https://www.last.fm/music/Nanahira/_/Can+I+friend+you+on+Bassbook%3F+lol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
