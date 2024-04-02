@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
 * [Black Balloons — EMERALD HANDS](https://www.last.fm/music/Black+Balloons/_/EMERALD+HANDS)
-* [Vertigoaway — AM FM](https://www.last.fm/music/Vertigoaway/_/AM+FM)
-* [GOLEMM — croakers](https://www.last.fm/music/GOLEMM/_/croakers)
-* [GOLEMM — Back To Earth](https://www.last.fm/music/GOLEMM/_/Back+To+Earth)
-* [GOLEMM — VIDEOGAMES](https://www.last.fm/music/GOLEMM/_/VIDEOGAMES)<!-- LASTFM:END -->
+* [Vertigoaway — AM FM](https://www.last.fm/music/Vertigoaway/_/AM+FM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
