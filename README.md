@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — croakers](https://www.last.fm/music/GOLEMM/_/croakers)
+* [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)
+* [GOLEMM — Castle](https://www.last.fm/music/GOLEMM/_/Castle)
 * [GOLEMM — LUCKYLUCKY](https://www.last.fm/music/GOLEMM/_/LUCKYLUCKY)
-* [GOLEMM — Land Of Enchantment](https://www.last.fm/music/GOLEMM/_/Land+Of+Enchantment)
-* [GOLEMM — Brain Slushie](https://www.last.fm/music/GOLEMM/_/Brain+Slushie)
-* [GOLEMM — Far Out](https://www.last.fm/music/GOLEMM/_/Far+Out)
-* [GOLEMM — MorningStarz](https://www.last.fm/music/GOLEMM/_/MorningStarz)<!-- LASTFM:END -->
+* [GOLEMM — Land Of Enchantment](https://www.last.fm/music/GOLEMM/_/Land+Of+Enchantment)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
