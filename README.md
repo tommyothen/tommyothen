@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Dolphin Love](https://www.last.fm/music/GOLEMM/_/Dolphin+Love)
+* [GOLEMM — Aquatic Ivy](https://www.last.fm/music/GOLEMM/_/Aquatic+Ivy)
+* [GOLEMM — Seaweed](https://www.last.fm/music/GOLEMM/_/Seaweed)
 * [GOLEMM — Acidic Hydrophyte](https://www.last.fm/music/GOLEMM/_/Acidic+Hydrophyte)
-* [GOLEMM — Clams Saloon](https://www.last.fm/music/GOLEMM/_/Clams+Saloon)
-* [GOLEMM — Sea Monkeys](https://www.last.fm/music/GOLEMM/_/Sea+Monkeys)
-* [GOLEMM — Asteroidea](https://www.last.fm/music/GOLEMM/_/Asteroidea)
-* [GOLEMM — Chase](https://www.last.fm/music/GOLEMM/_/Chase)<!-- LASTFM:END -->
+* [GOLEMM — Clams Saloon](https://www.last.fm/music/GOLEMM/_/Clams+Saloon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
