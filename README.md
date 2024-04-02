@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
 * [Camellia — Flash Me Back](https://www.last.fm/music/Camellia/_/Flash+Me+Back)
 * [Camellia — I think, it&#39;s kind of like the Some Squad](https://www.last.fm/music/Camellia/_/I+think,+it%27s+kind+of+like+the+Some+Squad)
-* [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)
-* [Camellia — Rainbow - P*Light Remix](https://www.last.fm/music/Camellia/_/Rainbow+-+P*Light+Remix)
-* [Camellia — #1f1e33 - #00102g version](https://www.last.fm/music/Camellia/_/%231f1e33+-+%2300102g+version)<!-- LASTFM:END -->
+* [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
