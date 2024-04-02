@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Badness](https://www.last.fm/music/GOLEMM/_/Badness)
+* [GOLEMM — Ant Racing](https://www.last.fm/music/GOLEMM/_/Ant+Racing)
 * [GOLEMM — Polliwogs](https://www.last.fm/music/GOLEMM/_/Polliwogs)
 * [GOLEMM — Villfarelse](https://www.last.fm/music/GOLEMM/_/Villfarelse)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
-* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)<!-- LASTFM:END -->
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
