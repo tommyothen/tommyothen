@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
 * [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [GOLEMM — Resurfaced](https://www.last.fm/music/GOLEMM/_/Resurfaced)
-* [GOLEMM — Fluorescence](https://www.last.fm/music/GOLEMM/_/Fluorescence)
-* [GOLEMM — Fugu](https://www.last.fm/music/GOLEMM/_/Fugu)
-* [GOLEMM — Dolphin Love](https://www.last.fm/music/GOLEMM/_/Dolphin+Love)<!-- LASTFM:END -->
+* [GOLEMM — Resurfaced](https://www.last.fm/music/GOLEMM/_/Resurfaced)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
