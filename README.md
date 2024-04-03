@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
+* [Joji — Demons &lpar;Lunice Remix&rpar;](https://www.last.fm/music/Joji/_/Demons+&lpar;Lunice+Remix&rpar;)
 * [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)
 * [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
-* [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)<!-- LASTFM:END -->
+* [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
