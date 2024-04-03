@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
-* [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
-* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
+* [Underscores — regulate you](https://www.last.fm/music/Underscores/_/regulate+you)
+* [Oliver Tree — Enemy](https://www.last.fm/music/Oliver+Tree/_/Enemy)
+* [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)
+* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
