@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
+* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
 * [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
 * [Underscores — regulate you](https://www.last.fm/music/Underscores/_/regulate+you)
-* [Oliver Tree — Enemy](https://www.last.fm/music/Oliver+Tree/_/Enemy)
-* [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)
-* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)<!-- LASTFM:END -->
+* [Oliver Tree — Enemy](https://www.last.fm/music/Oliver+Tree/_/Enemy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
