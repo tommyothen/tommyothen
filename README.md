@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Internet Girl — living far away](https://www.last.fm/music/Internet+Girl/_/living+far+away)
+* [MISSIO — Temple Priest &lpar;feat. Paul Wall &amp; Kota the Friend&rpar;](https://www.last.fm/music/MISSIO/_/Temple+Priest+&lpar;feat.+Paul+Wall+&amp;+Kota+the+Friend&rpar;)
 * [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
 * [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
-* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
-* [Ryan Caraveo — Bang](https://www.last.fm/music/Ryan+Caraveo/_/Bang)
-* [The Haunt — Cigarettes &amp; Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&amp;+Feelings)<!-- LASTFM:END -->
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
