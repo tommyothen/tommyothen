@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
+* [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)
 * [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
 * [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
-* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)
-* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
-* [Joji — Demons &lpar;Lunice Remix&rpar;](https://www.last.fm/music/Joji/_/Demons+&lpar;Lunice+Remix&rpar;)<!-- LASTFM:END -->
+* [Grimes — We Appreciate Power](https://www.last.fm/music/Grimes/_/We+Appreciate+Power)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
