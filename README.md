@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ryan Caraveo — Bang](https://www.last.fm/music/Ryan+Caraveo/_/Bang)
+* [The Haunt — Cigarettes &amp; Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&amp;+Feelings)
 * [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Smoke Trees — Date 5: Vanessa](https://www.last.fm/music/Smoke+Trees/_/Date+5:+Vanessa)
-* [Rich Brian — Arizona &lpar;feat. AUGUST 08&rpar;](https://www.last.fm/music/Rich+Brian/_/Arizona+&lpar;feat.+AUGUST+08&rpar;)
-* [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)<!-- LASTFM:END -->
+* [Smoke Trees — Date 5: Vanessa](https://www.last.fm/music/Smoke+Trees/_/Date+5:+Vanessa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
