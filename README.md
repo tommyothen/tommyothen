@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
+* [Oliver Tree — Welcome To LA](https://www.last.fm/music/Oliver+Tree/_/Welcome+To+LA)
 * [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
-* [half•alive — The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall)
-* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
-* [brakence — dropout &lpar;w/ blackbear&rpar;](https://www.last.fm/music/brakence/_/dropout+&lpar;w%2F+blackbear&rpar;)
-* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)<!-- LASTFM:END -->
+* [half•alive — The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
