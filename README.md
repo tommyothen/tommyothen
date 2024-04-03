@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)
+* [Hobo Johnson — Uglykid &lpar;feat. Elohim&rpar;](https://www.last.fm/music/Hobo+Johnson/_/Uglykid+&lpar;feat.+Elohim&rpar;)
 * [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
 * [Kailee Morgue — Black Sheep](https://www.last.fm/music/Kailee+Morgue/_/Black+Sheep)
-* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)
-* [Au/Ra — Panic Room](https://www.last.fm/music/Au%2FRa/_/Panic+Room)
-* [demxntia — it&#39;s alright](https://www.last.fm/music/demxntia/_/it%27s+alright)<!-- LASTFM:END -->
+* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
