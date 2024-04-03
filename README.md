@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
+* [brakence — dropout &lpar;w/ blackbear&rpar;](https://www.last.fm/music/brakence/_/dropout+&lpar;w%2F+blackbear&rpar;)
 * [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
 * [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
-* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)
-* [Underscores — regulate you](https://www.last.fm/music/Underscores/_/regulate+you)
-* [Oliver Tree — Enemy](https://www.last.fm/music/Oliver+Tree/_/Enemy)<!-- LASTFM:END -->
+* [tsubi club — burbank house](https://www.last.fm/music/tsubi+club/_/burbank+house)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
