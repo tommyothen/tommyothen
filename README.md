@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
+* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
+* [XYLØ — ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)
 * [Oliver Tree — Movement](https://www.last.fm/music/Oliver+Tree/_/Movement)
-* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
-* [MISSIO — Rad Drugz](https://www.last.fm/music/MISSIO/_/Rad+Drugz)
-* [Billie Eilish — 8](https://www.last.fm/music/Billie+Eilish/_/8)
-* [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)<!-- LASTFM:END -->
+* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
