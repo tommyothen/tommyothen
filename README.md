@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
+* [Stephen — Play Me Like a Violin](https://www.last.fm/music/Stephen/_/Play+Me+Like+a+Violin)
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
 * [Jakey — Not Dead Yet](https://www.last.fm/music/Jakey/_/Not+Dead+Yet)
-* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
-* [Eden — 909](https://www.last.fm/music/Eden/_/909)
-* [Grimes — My Name Is Dark - Art Mix](https://www.last.fm/music/Grimes/_/My+Name+Is+Dark+-+Art+Mix)<!-- LASTFM:END -->
+* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
