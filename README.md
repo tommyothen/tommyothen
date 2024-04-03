@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)
+* [Evann McIntosh — WIYULD](https://www.last.fm/music/Evann+McIntosh/_/WIYULD)
 * [Blue Nude — 20](https://www.last.fm/music/Blue+Nude/_/20)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
-* [GOLEMM — Brain Slushie](https://www.last.fm/music/GOLEMM/_/Brain+Slushie)
-* [GOLEMM — Far Out](https://www.last.fm/music/GOLEMM/_/Far+Out)
-* [GOLEMM — MorningStarz](https://www.last.fm/music/GOLEMM/_/MorningStarz)<!-- LASTFM:END -->
+* [GOLEMM — Brain Slushie](https://www.last.fm/music/GOLEMM/_/Brain+Slushie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
