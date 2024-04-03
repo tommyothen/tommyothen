@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
+* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
 * [Ryan Caraveo — Bang](https://www.last.fm/music/Ryan+Caraveo/_/Bang)
-* [The Haunt — Cigarettes &amp; Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&amp;+Feelings)
-* [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Smoke Trees — Date 5: Vanessa](https://www.last.fm/music/Smoke+Trees/_/Date+5:+Vanessa)<!-- LASTFM:END -->
+* [The Haunt — Cigarettes &amp; Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&amp;+Feelings)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
