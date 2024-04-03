@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Oliver Tree — Movement](https://www.last.fm/music/Oliver+Tree/_/Movement)
+* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
 * [MISSIO — Rad Drugz](https://www.last.fm/music/MISSIO/_/Rad+Drugz)
 * [Billie Eilish — 8](https://www.last.fm/music/Billie+Eilish/_/8)
-* [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)
-* [Hobo Johnson — Uglykid &lpar;feat. Elohim&rpar;](https://www.last.fm/music/Hobo+Johnson/_/Uglykid+&lpar;feat.+Elohim&rpar;)
-* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)<!-- LASTFM:END -->
+* [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
