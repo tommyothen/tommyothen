@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Blue Nude — 20](https://www.last.fm/music/Blue+Nude/_/20)
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
 * [GOLEMM — Brain Slushie](https://www.last.fm/music/GOLEMM/_/Brain+Slushie)
 * [GOLEMM — Far Out](https://www.last.fm/music/GOLEMM/_/Far+Out)
-* [GOLEMM — MorningStarz](https://www.last.fm/music/GOLEMM/_/MorningStarz)
-* [GOLEMM — Sky Lands](https://www.last.fm/music/GOLEMM/_/Sky+Lands)
-* [GOLEMM — Ecstasy](https://www.last.fm/music/GOLEMM/_/Ecstasy)<!-- LASTFM:END -->
+* [GOLEMM — MorningStarz](https://www.last.fm/music/GOLEMM/_/MorningStarz)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
