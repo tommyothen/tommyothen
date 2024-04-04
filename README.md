@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)
+* [Halogen — U Got That](https://www.last.fm/music/Halogen/_/U+Got+That)
 * [Billie Eilish — ocean eyes](https://www.last.fm/music/Billie+Eilish/_/ocean+eyes)
-* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)
-* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
-* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
-* [Camellia — Exit This Earth&#39;s Atomosphere](https://www.last.fm/music/Camellia/_/Exit+This+Earth%27s+Atomosphere)<!-- LASTFM:END -->
+* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
