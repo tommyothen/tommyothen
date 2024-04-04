@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Unlike Pluto — Revenge, And a Little More](https://www.last.fm/music/Unlike+Pluto/_/Revenge,+And+a+Little+More)
+* [D-Real [愛] — Coast Ghost](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Coast+Ghost)
 * [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
 * [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)
-* [Halogen — U Got That](https://www.last.fm/music/Halogen/_/U+Got+That)
-* [Billie Eilish — ocean eyes](https://www.last.fm/music/Billie+Eilish/_/ocean+eyes)
-* [Alex Layne — Okay](https://www.last.fm/music/Alex+Layne/_/Okay)<!-- LASTFM:END -->
+* [Halogen — U Got That](https://www.last.fm/music/Halogen/_/U+Got+That)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
