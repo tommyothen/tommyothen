@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shakewell — Terminal Sex](https://www.last.fm/music/Shakewell/_/Terminal+Sex)
+* [Qumu — Bubblegum K.K. &lpar;From &quot;Animal Crossing: New Leaf&quot;&rpar;](https://www.last.fm/music/Qumu/_/Bubblegum+K.K.+&lpar;From+%22Animal+Crossing:+New+Leaf%22&rpar;)
+* [Eden — wonder](https://www.last.fm/music/Eden/_/wonder)
 * [t+pazolite — You are the Miserable - Uncut Edition](https://www.last.fm/music/t%252Bpazolite/_/You+are+the+Miserable+-+Uncut+Edition)
-* [Pham — Movements &lpar;feat. Yung Fusion&rpar;](https://www.last.fm/music/Pham/_/Movements+&lpar;feat.+Yung+Fusion&rpar;)
-* [Tyler, the Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+the+Creator/_/EARFQUAKE)
-* [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
-* [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)<!-- LASTFM:END -->
+* [Pham — Movements &lpar;feat. Yung Fusion&rpar;](https://www.last.fm/music/Pham/_/Movements+&lpar;feat.+Yung+Fusion&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
