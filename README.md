@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)
 * [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [Ricky Montgomery — Line Without a Hook &lpar;feat. mxmtoon&rpar;](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+&lpar;feat.+mxmtoon&rpar;)
 * [I DONT KNOW HOW BUT THEY FOUND ME — Leave Me Alone](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Leave+Me+Alone)
-* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
-* [Minecraft King27 — Emerald](https://www.last.fm/music/Minecraft+King27/_/Emerald)<!-- LASTFM:END -->
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
