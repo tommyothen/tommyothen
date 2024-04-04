@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
+* [Marc Madness — Tadi](https://www.last.fm/music/Marc+Madness/_/Tadi)
+* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)
 * [Elohim — Sensations &lpar;Whethan Remix&rpar;](https://www.last.fm/music/Elohim/_/Sensations+&lpar;Whethan+Remix&rpar;)
-* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)
-* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)
-* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
-* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)<!-- LASTFM:END -->
+* [Eva Grace — Goes Like &lpar;Do Do Do&rpar;](https://www.last.fm/music/Eva+Grace/_/Goes+Like+&lpar;Do+Do+Do&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
