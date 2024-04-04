@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [AMpm — more](https://www.last.fm/music/AMpm/_/more)
 * [Khamsin — My Way](https://www.last.fm/music/Khamsin/_/My+Way)
 * [Rich Brian — No Worries](https://www.last.fm/music/Rich+Brian/_/No+Worries)
 * [Rich Brian — Trespass](https://www.last.fm/music/Rich+Brian/_/Trespass)
-* [Freddie Dredd — WEATHER](https://www.last.fm/music/Freddie+Dredd/_/WEATHER)
-* [BROCKHAMPTON — ZIPPER](https://www.last.fm/music/BROCKHAMPTON/_/ZIPPER)<!-- LASTFM:END -->
+* [Freddie Dredd — WEATHER](https://www.last.fm/music/Freddie+Dredd/_/WEATHER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
