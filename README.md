@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pham — Movements &lpar;feat. Yung Fusion&rpar;](https://www.last.fm/music/Pham/_/Movements+&lpar;feat.+Yung+Fusion&rpar;)
+* [Tyler, the Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+the+Creator/_/EARFQUAKE)
 * [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
 * [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)
-* [Smoke Trees — Date 5: Vanessa](https://www.last.fm/music/Smoke+Trees/_/Date+5:+Vanessa)
-* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
-* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)<!-- LASTFM:END -->
+* [Smoke Trees — Date 5: Vanessa](https://www.last.fm/music/Smoke+Trees/_/Date+5:+Vanessa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
