@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
-* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
-* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
-* [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)
-* [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)<!-- LASTFM:END -->
+* [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)
+* [black coast — Trndsttr &lpar;feat. M. Maggie&rpar; - Lucian Remix](https://www.last.fm/music/black+coast/_/Trndsttr+&lpar;feat.+M.+Maggie&rpar;+-+Lucian+Remix)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
+* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
