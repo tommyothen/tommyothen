@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — LOVE FOOLISH](https://www.last.fm/music/TWICE/_/LOVE+FOOLISH)
+* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
 * [Camellia — Exit This Earth&#39;s Atomosphere](https://www.last.fm/music/Camellia/_/Exit+This+Earth%27s+Atomosphere)
 * [Yarmak — Пидарасия](https://www.last.fm/music/Yarmak/_/%D0%9F%D0%B8%D0%B4%D0%B0%D1%80%D0%B0%D1%81%D0%B8%D1%8F)
-* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
-* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
-* [Home — We&#39;re Finally Landing](https://www.last.fm/music/Home/_/We%27re+Finally+Landing)<!-- LASTFM:END -->
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
