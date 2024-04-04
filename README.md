@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yarmak — Пидарасия](https://www.last.fm/music/Yarmak/_/%D0%9F%D0%B8%D0%B4%D0%B0%D1%80%D0%B0%D1%81%D0%B8%D1%8F)
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
 * [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
 * [Home — We&#39;re Finally Landing](https://www.last.fm/music/Home/_/We%27re+Finally+Landing)
-* [Eery — Reefer](https://www.last.fm/music/Eery/_/Reefer)
-* [Myles Parrish — Kickback](https://www.last.fm/music/Myles+Parrish/_/Kickback)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
+* [Eery — Reefer](https://www.last.fm/music/Eery/_/Reefer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
