@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
+* [Home — We&#39;re Finally Landing](https://www.last.fm/music/Home/_/We%27re+Finally+Landing)
 * [Eery — Reefer](https://www.last.fm/music/Eery/_/Reefer)
 * [Myles Parrish — Kickback](https://www.last.fm/music/Myles+Parrish/_/Kickback)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)<!-- LASTFM:END -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
