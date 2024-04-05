@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)
 * [Manuel — GAS GAS GAS - EXTENDED MIX](https://www.last.fm/music/Manuel/_/GAS+GAS+GAS+-+EXTENDED+MIX)
 * [Billie Eilish — No Time to Die](https://www.last.fm/music/Billie+Eilish/_/No+Time+to+Die)
 * [AMpm — more](https://www.last.fm/music/AMpm/_/more)
-* [Khamsin — My Way](https://www.last.fm/music/Khamsin/_/My+Way)
-* [Rich Brian — No Worries](https://www.last.fm/music/Rich+Brian/_/No+Worries)<!-- LASTFM:END -->
+* [Khamsin — My Way](https://www.last.fm/music/Khamsin/_/My+Way)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
