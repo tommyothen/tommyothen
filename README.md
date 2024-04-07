@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FWLR — How We Win](https://www.last.fm/music/FWLR/_/How+We+Win)
 * [Billie Eilish — No Time to Die](https://www.last.fm/music/Billie+Eilish/_/No+Time+to+Die)
 * [Coming Soon!!! — Trippin in Paris](https://www.last.fm/music/Coming+Soon!!!/_/Trippin+in+Paris)
 * [khai dreams — Travels](https://www.last.fm/music/khai+dreams/_/Travels)
-* [Eazy Mac — Chasing Rabbits &lpar;feat. Merkules&rpar;](https://www.last.fm/music/Eazy+Mac/_/Chasing+Rabbits+&lpar;feat.+Merkules&rpar;)
-* [Rich Brian — Vacant](https://www.last.fm/music/Rich+Brian/_/Vacant)<!-- LASTFM:END -->
+* [Eazy Mac — Chasing Rabbits &lpar;feat. Merkules&rpar;](https://www.last.fm/music/Eazy+Mac/_/Chasing+Rabbits+&lpar;feat.+Merkules&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
