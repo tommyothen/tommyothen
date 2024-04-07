@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
 * [Internet Girl — living far away](https://www.last.fm/music/Internet+Girl/_/living+far+away)
 * [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
 * [DROELOE — Sunburn](https://www.last.fm/music/DROELOE/_/Sunburn)
-* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
-* [Jarv &amp; Thief — The Beat](https://www.last.fm/music/Jarv+&amp;+Thief/_/The+Beat)<!-- LASTFM:END -->
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
