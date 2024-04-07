@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DROELOE — Sunburn](https://www.last.fm/music/DROELOE/_/Sunburn)
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
 * [Jarv &amp; Thief — The Beat](https://www.last.fm/music/Jarv+&amp;+Thief/_/The+Beat)
 * [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
-* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)
-* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
-* [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)<!-- LASTFM:END -->
+* [Ben Yen — Animal Crossing &lpar;Freestyle&rpar;](https://www.last.fm/music/Ben+Yen/_/Animal+Crossing+&lpar;Freestyle&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
