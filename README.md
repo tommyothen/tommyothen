@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [jon-YAKITORY — Muchinnchi](https://www.last.fm/music/jon-YAKITORY/_/Muchinnchi)
+* [inabakumori — Lost Umbrella](https://www.last.fm/music/inabakumori/_/Lost+Umbrella)
 * [GOLEMM — Ant Racing](https://www.last.fm/music/GOLEMM/_/Ant+Racing)
 * [GOLEMM — Brain Slushie](https://www.last.fm/music/GOLEMM/_/Brain+Slushie)
-* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [GOLEMM — croakers](https://www.last.fm/music/GOLEMM/_/croakers)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)<!-- LASTFM:END -->
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
