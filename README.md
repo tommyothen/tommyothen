@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
 * [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)
-* [FWLR — How We Win](https://www.last.fm/music/FWLR/_/How+We+Win)
-* [Billie Eilish — No Time to Die](https://www.last.fm/music/Billie+Eilish/_/No+Time+to+Die)
-* [Coming Soon!!! — Trippin in Paris](https://www.last.fm/music/Coming+Soon!!!/_/Trippin+in+Paris)<!-- LASTFM:END -->
+* [Heartsrevolution — Kill Your Radio](https://www.last.fm/music/Heartsrevolution/_/Kill+Your+Radio)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
