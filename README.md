@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shawn Wasabi — MARBLE TEA](https://www.last.fm/music/Shawn+Wasabi/_/MARBLE+TEA)
+* [Niki — move!](https://www.last.fm/music/Niki/_/move!)
 * [D-Real [愛] — Candy](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Candy)
 * [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)
-* [Lofi.Samurai — already dead](https://www.last.fm/music/Lofi.Samurai/_/already+dead)
-* [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)
-* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)<!-- LASTFM:END -->
+* [Lofi.Samurai — already dead](https://www.last.fm/music/Lofi.Samurai/_/already+dead)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
