@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XYLØ — yes &amp; no](https://www.last.fm/music/XYL%C3%98/_/yes+&amp;+no)
+* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)
 * [iAmJakeHill — Orlando Forever](https://www.last.fm/music/iAmJakeHill/_/Orlando+Forever)
 * [Pusher — Sober](https://www.last.fm/music/Pusher/_/Sober)
-* [Home — We&#39;re Finally Landing](https://www.last.fm/music/Home/_/We%27re+Finally+Landing)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [bbno$ — ploy](https://www.last.fm/music/bbno$/_/ploy)<!-- LASTFM:END -->
+* [Home — We&#39;re Finally Landing](https://www.last.fm/music/Home/_/We%27re+Finally+Landing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
