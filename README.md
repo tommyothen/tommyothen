@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [D-Real [愛] — Candy](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Candy)
+* [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)
 * [Lofi.Samurai — already dead](https://www.last.fm/music/Lofi.Samurai/_/already+dead)
 * [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)
-* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
-* [Lucaveros — Слёзы - Zi-zi Remix](https://www.last.fm/music/Lucaveros/_/%D0%A1%D0%BB%D1%91%D0%B7%D1%8B+-+Zi-zi+Remix)<!-- LASTFM:END -->
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
