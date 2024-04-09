@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
 * [nothing,nowhere. — blood &lpar;feat. KennyHoopla &amp; JUDGE&rpar;](https://www.last.fm/music/nothing,nowhere./_/blood+&lpar;feat.+KennyHoopla+&amp;+JUDGE&rpar;)
 * [Kuwago — Let&#39;s start](https://www.last.fm/music/Kuwago/_/Let%27s+start)
 * [ROY PURDY — Walk It out!](https://www.last.fm/music/ROY+PURDY/_/Walk+It+out!)
-* [bbno$ — doubles](https://www.last.fm/music/bbno$/_/doubles)
-* [khai dreams — Travels](https://www.last.fm/music/khai+dreams/_/Travels)<!-- LASTFM:END -->
+* [bbno$ — doubles](https://www.last.fm/music/bbno$/_/doubles)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
