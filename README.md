@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
+* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)
 * [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
 * [FEDUK — Номер братвы &lpar;Feduk guitar&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%BE%D0%BC%D0%B5%D1%80+%D0%B1%D1%80%D0%B0%D1%82%D0%B2%D1%8B+&lpar;Feduk+guitar&rpar;)
-* [Quadeca — Ego Death](https://www.last.fm/music/Quadeca/_/Ego+Death)
-* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)
-* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)<!-- LASTFM:END -->
+* [Quadeca — Ego Death](https://www.last.fm/music/Quadeca/_/Ego+Death)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
