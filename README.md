@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ashnikko — Tantrum](https://www.last.fm/music/Ashnikko/_/Tantrum)
-* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
-* [Porter Robinson — Years Of War](https://www.last.fm/music/Porter+Robinson/_/Years+Of+War)
-* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
-* [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)<!-- LASTFM:END -->
+* [Home — We&#39;re Finally Landing](https://www.last.fm/music/Home/_/We%27re+Finally+Landing)
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
+* [bbno$ — ploy](https://www.last.fm/music/bbno$/_/ploy)
+* [88rising — History](https://www.last.fm/music/88rising/_/History)
+* [The Deli — 5:32PM](https://www.last.fm/music/The+Deli/_/5:32PM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
