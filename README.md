@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billie Eilish — xanny](https://www.last.fm/music/Billie+Eilish/_/xanny)
 * [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
 * [Blankz — Nakama](https://www.last.fm/music/Blankz/_/Nakama)
 * [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
-* [Her&#39;s — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)
-* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)<!-- LASTFM:END -->
+* [Her&#39;s — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
