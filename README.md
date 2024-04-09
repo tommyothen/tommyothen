@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DAOKO — 打上花火](https://www.last.fm/music/DAOKO/_/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB)
 * [Phinehas — In the Night](https://www.last.fm/music/Phinehas/_/In+the+Night)
 * [eli filosov [ p h i l o ] — pallet](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/pallet)
 * [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
-* [eli filosov [ p h i l o ] — pallet](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/pallet)
-* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)<!-- LASTFM:END -->
+* [eli filosov [ p h i l o ] — pallet](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/pallet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
