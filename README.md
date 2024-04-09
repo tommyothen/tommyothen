@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [Softwilly — OLIVIA](https://www.last.fm/music/Softwilly/_/OLIVIA)
 * [Call Me Karizma — Rebels](https://www.last.fm/music/Call+Me+Karizma/_/Rebels)
 * [mxmtoon — cliché](https://www.last.fm/music/mxmtoon/_/clich%C3%A9)
-* [XXXTENTACION — HOPE](https://www.last.fm/music/XXXTENTACION/_/HOPE)
-* [Blaze U — Walk Tha Plank](https://www.last.fm/music/Blaze+U/_/Walk+Tha+Plank)
-* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)<!-- LASTFM:END -->
+* [XXXTENTACION — HOPE](https://www.last.fm/music/XXXTENTACION/_/HOPE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
