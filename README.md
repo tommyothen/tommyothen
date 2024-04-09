@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iAmJakeHill — Orlando Forever](https://www.last.fm/music/iAmJakeHill/_/Orlando+Forever)
+* [Pusher — Sober](https://www.last.fm/music/Pusher/_/Sober)
 * [Home — We&#39;re Finally Landing](https://www.last.fm/music/Home/_/We%27re+Finally+Landing)
 * [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [bbno$ — ploy](https://www.last.fm/music/bbno$/_/ploy)
-* [88rising — History](https://www.last.fm/music/88rising/_/History)
-* [The Deli — 5:32PM](https://www.last.fm/music/The+Deli/_/5:32PM)<!-- LASTFM:END -->
+* [bbno$ — ploy](https://www.last.fm/music/bbno$/_/ploy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
