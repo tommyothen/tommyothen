@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Deca — Mammon&#39;s Mantra](https://www.last.fm/music/Deca/_/Mammon%27s+Mantra)
+* [Logic — Homicide &lpar;feat. Eminem&rpar;](https://www.last.fm/music/Logic/_/Homicide+&lpar;feat.+Eminem&rpar;)
 * [Autograf — Simple &lpar;feat. Victoria Zaro&rpar;](https://www.last.fm/music/Autograf/_/Simple+&lpar;feat.+Victoria+Zaro&rpar;)
 * [Kloud — Promises](https://www.last.fm/music/Kloud/_/Promises)
-* [nohidea — Garden / Lost](https://www.last.fm/music/nohidea/_/Garden+%2F+Lost)
-* [Bearson — Go to Sleep &lpar;feat. Kailee Morgue&rpar; &lpar;feat. Kailee Morgue&rpar; - Oshi Remix](https://www.last.fm/music/Bearson/_/Go+to+Sleep+&lpar;feat.+Kailee+Morgue&rpar;+&lpar;feat.+Kailee+Morgue&rpar;+-+Oshi+Remix)
-* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)<!-- LASTFM:END -->
+* [nohidea — Garden / Lost](https://www.last.fm/music/nohidea/_/Garden+%2F+Lost)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
