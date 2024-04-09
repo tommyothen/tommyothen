@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [eli filosov [ p h i l o ] — oneofone_rwrk](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/oneofone_rwrk)
+* [Lucaveros — Слёзы - Zi-zi Remix](https://www.last.fm/music/Lucaveros/_/%D0%A1%D0%BB%D1%91%D0%B7%D1%8B+-+Zi-zi+Remix)
+* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)
 * [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
-* [Eden — lost//found](https://www.last.fm/music/Eden/_/lost%2F%2Ffound)
-* [88rising — History](https://www.last.fm/music/88rising/_/History)
-* [Shawn Wasabi — MARBLE TEA](https://www.last.fm/music/Shawn+Wasabi/_/MARBLE+TEA)
-* [Niki — move!](https://www.last.fm/music/Niki/_/move!)<!-- LASTFM:END -->
+* [Eden — lost//found](https://www.last.fm/music/Eden/_/lost%2F%2Ffound)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
