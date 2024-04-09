@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jarv — Escargot](https://www.last.fm/music/Jarv/_/Escargot)
+* [Hey Violet — Hoodie](https://www.last.fm/music/Hey+Violet/_/Hoodie)
 * [Au/Ra — Panic Room](https://www.last.fm/music/Au%2FRa/_/Panic+Room)
 * [khai dreams — All I Need](https://www.last.fm/music/khai+dreams/_/All+I+Need)
-* [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [Wonder Girls — Tell Me](https://www.last.fm/music/Wonder+Girls/_/Tell+Me)<!-- LASTFM:END -->
+* [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
