@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Phinehas — In the Night](https://www.last.fm/music/Phinehas/_/In+the+Night)
 * [eli filosov [ p h i l o ] — pallet](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/pallet)
 * [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
 * [eli filosov [ p h i l o ] — pallet](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/pallet)
-* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
-* [XXXTENTACION — looking for a star](https://www.last.fm/music/XXXTENTACION/_/looking+for+a+star)<!-- LASTFM:END -->
+* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
