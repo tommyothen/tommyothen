@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [D-Real [愛] — Until Next Time...](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Until+Next+Time...)
 * [Varien — Can You Feel My Heart](https://www.last.fm/music/Varien/_/Can+You+Feel+My+Heart)
 * [potsu — letting go](https://www.last.fm/music/potsu/_/letting+go)
 * [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
-* [Underscores — regulate you](https://www.last.fm/music/Underscores/_/regulate+you)
-* [DAOKO — 打上花火](https://www.last.fm/music/DAOKO/_/%E6%89%93%E4%B8%8A%E8%8A%B1%E7%81%AB)<!-- LASTFM:END -->
+* [Underscores — regulate you](https://www.last.fm/music/Underscores/_/regulate+you)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
