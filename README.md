@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)
-* [DNMO — Broken](https://www.last.fm/music/DNMO/_/Broken)
-* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
-* [AcesToAces — CHINA TOWN](https://www.last.fm/music/AcesToAces/_/CHINA+TOWN)
-* [Colliding With Mars — Mental Breakdown In Slow Motion](https://www.last.fm/music/Colliding+With+Mars/_/Mental+Breakdown+In+Slow+Motion)<!-- LASTFM:END -->
+* [eli filosov [ p h i l o ] — pallet](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/pallet)
+* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
+* [XXXTENTACION — looking for a star](https://www.last.fm/music/XXXTENTACION/_/looking+for+a+star)
+* [Sharpe — Waiting 4 You](https://www.last.fm/music/Sharpe/_/Waiting+4+You)
+* [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
