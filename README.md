@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nohidea — Garden / Lost](https://www.last.fm/music/nohidea/_/Garden+%2F+Lost)
 * [Bearson — Go to Sleep &lpar;feat. Kailee Morgue&rpar; &lpar;feat. Kailee Morgue&rpar; - Oshi Remix](https://www.last.fm/music/Bearson/_/Go+to+Sleep+&lpar;feat.+Kailee+Morgue&rpar;+&lpar;feat.+Kailee+Morgue&rpar;+-+Oshi+Remix)
 * [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)
 * [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
-* [Reece Brunke — Funk Wave](https://www.last.fm/music/Reece+Brunke/_/Funk+Wave)
-* [Billie Eilish — xanny](https://www.last.fm/music/Billie+Eilish/_/xanny)<!-- LASTFM:END -->
+* [Reece Brunke — Funk Wave](https://www.last.fm/music/Reece+Brunke/_/Funk+Wave)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
