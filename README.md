@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Red Velvet - IRENE &amp; SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&amp;+SEULGI/_/Naughty)
+* [YUNG BAE — I Can Tell](https://www.last.fm/music/YUNG+BAE/_/I+Can+Tell)
 * [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
 * [eli filosov [ p h i l o ] — oneofone_rwrk](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/oneofone_rwrk)
-* [Lucaveros — Слёзы - Zi-zi Remix](https://www.last.fm/music/Lucaveros/_/%D0%A1%D0%BB%D1%91%D0%B7%D1%8B+-+Zi-zi+Remix)
-* [Rav — Passionfruit](https://www.last.fm/music/Rav/_/Passionfruit)
-* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)<!-- LASTFM:END -->
+* [Lucaveros — Слёзы - Zi-zi Remix](https://www.last.fm/music/Lucaveros/_/%D0%A1%D0%BB%D1%91%D0%B7%D1%8B+-+Zi-zi+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
