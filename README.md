@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lesha Svik — Светофоры](https://www.last.fm/music/Lesha+Svik/_/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D1%84%D0%BE%D1%80%D1%8B)
+* [Lofi.Samurai — already dead](https://www.last.fm/music/Lofi.Samurai/_/already+dead)
+* [Jarv &amp; Thief — Lady Killer](https://www.last.fm/music/Jarv+&amp;+Thief/_/Lady+Killer)
 * [Joji — Window](https://www.last.fm/music/Joji/_/Window)
-* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
-* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
-* [Maybe Baby — Аскорбинка 2.0](https://www.last.fm/music/Maybe+Baby/_/%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0+2.0)
-* [Bren Joy — Sweet &lpar;feat. Landon Sears&rpar;](https://www.last.fm/music/Bren+Joy/_/Sweet+&lpar;feat.+Landon+Sears&rpar;)<!-- LASTFM:END -->
+* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
