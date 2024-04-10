@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Starmaxx — Patient Zero](https://www.last.fm/music/Starmaxx/_/Patient+Zero)
+* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)
 * [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
 * [Forrest. — Your Soul](https://www.last.fm/music/Forrest./_/Your+Soul)
-* [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
-* [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
+* [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
