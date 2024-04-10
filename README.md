@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
+* [Forrest. — Your Soul](https://www.last.fm/music/Forrest./_/Your+Soul)
 * [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
 * [demxntia — fly 2 the moon](https://www.last.fm/music/demxntia/_/fly+2+the+moon)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Lucaveros — Слёзы - Zi-zi Remix](https://www.last.fm/music/Lucaveros/_/%D0%A1%D0%BB%D1%91%D0%B7%D1%8B+-+Zi-zi+Remix)
-* [takayan — Just disappear](https://www.last.fm/music/takayan/_/Just+disappear)<!-- LASTFM:END -->
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
