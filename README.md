@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
+* [Lucaveros — Слёзы - Zi-zi Remix](https://www.last.fm/music/Lucaveros/_/%D0%A1%D0%BB%D1%91%D0%B7%D1%8B+-+Zi-zi+Remix)
 * [takayan — Just disappear](https://www.last.fm/music/takayan/_/Just+disappear)
 * [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)
-* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [ROY PURDY — PINK AND GREEN](https://www.last.fm/music/ROY+PURDY/_/PINK+AND+GREEN)
-* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)<!-- LASTFM:END -->
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
