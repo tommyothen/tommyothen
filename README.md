@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
+* [Maybe Baby — Аскорбинка 2.0](https://www.last.fm/music/Maybe+Baby/_/%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0+2.0)
 * [Bren Joy — Sweet &lpar;feat. Landon Sears&rpar;](https://www.last.fm/music/Bren+Joy/_/Sweet+&lpar;feat.+Landon+Sears&rpar;)
 * [Eden — about time](https://www.last.fm/music/Eden/_/about+time)
-* [Colliding With Mars — Mental Breakdown In Slow Motion](https://www.last.fm/music/Colliding+With+Mars/_/Mental+Breakdown+In+Slow+Motion)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)<!-- LASTFM:END -->
+* [Colliding With Mars — Mental Breakdown In Slow Motion](https://www.last.fm/music/Colliding+With+Mars/_/Mental+Breakdown+In+Slow+Motion)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
