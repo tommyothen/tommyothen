@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Omori — DUET](https://www.last.fm/music/Omori/_/DUET)
+* [久石譲 — Fragile Dream](https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/Fragile+Dream)
 * [Carlos Marquez — Valse Melancolique No. 6 in F Minor](https://www.last.fm/music/Carlos+Marquez/_/Valse+Melancolique+No.+6+in+F+Minor)
 * [Cortex — Go Round](https://www.last.fm/music/Cortex/_/Go+Round)
-* [Million Eyes — The Mercy of the Wind](https://www.last.fm/music/Million+Eyes/_/The+Mercy+of+the+Wind)
-* [Elijah Fox — Vinegar Hill](https://www.last.fm/music/Elijah+Fox/_/Vinegar+Hill)
-* [Carl Philipp Emanuel Bach — Solfeggio, H. 220](https://www.last.fm/music/Carl+Philipp+Emanuel+Bach/_/Solfeggio,+H.+220)<!-- LASTFM:END -->
+* [Million Eyes — The Mercy of the Wind](https://www.last.fm/music/Million+Eyes/_/The+Mercy+of+the+Wind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
