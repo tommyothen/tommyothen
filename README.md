@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
+* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
 * [Cemetery Drive — Slowly](https://www.last.fm/music/Cemetery+Drive/_/Slowly)
 * [bbno$ — coasting](https://www.last.fm/music/bbno$/_/coasting)
-* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
-* [Starmaxx — Patient Zero](https://www.last.fm/music/Starmaxx/_/Patient+Zero)
-* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)<!-- LASTFM:END -->
+* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
