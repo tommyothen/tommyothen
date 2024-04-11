@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Johannes Brahms — Hungarian Dance No. 5](https://www.last.fm/music/Johannes+Brahms/_/Hungarian+Dance+No.+5)
+* [Toshifumi Hinata — Little Rascal &lpar;いたずら天使&rpar; - 2007 ver.](https://www.last.fm/music/Toshifumi+Hinata/_/Little+Rascal+&lpar;%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E5%A4%A9%E4%BD%BF&rpar;+-+2007+ver.)
 * [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
 * [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)
-* [strxwberrymilk — My Head Hurts](https://www.last.fm/music/strxwberrymilk/_/My+Head+Hurts)
-* [Xxtarlit⚸ — Fleeting Frozen Heart](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/Fleeting+Frozen+Heart)
-* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)<!-- LASTFM:END -->
+* [strxwberrymilk — My Head Hurts](https://www.last.fm/music/strxwberrymilk/_/My+Head+Hurts)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
