@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Sky Lands](https://www.last.fm/music/GOLEMM/_/Sky+Lands)
+* [Vertigoaway — KINDA WANT TO FUCK BUT OH GOD IM SCARED](https://www.last.fm/music/Vertigoaway/_/KINDA+WANT+TO+FUCK+BUT+OH+GOD+IM+SCARED)
+* [hxly xo — Starry](https://www.last.fm/music/hxly+xo/_/Starry)
 * [Mayo. — Lost](https://www.last.fm/music/Mayo./_/Lost)
-* [68+1 — forgotten dream](https://www.last.fm/music/68%252B1/_/forgotten+dream)
-* [Akiba — MOOGCiTY](https://www.last.fm/music/Akiba/_/MOOGCiTY)
-* [Acidgvrl — raging breakcore](https://www.last.fm/music/Acidgvrl/_/raging+breakcore)
-* [WIV — headache](https://www.last.fm/music/WIV/_/headache)<!-- LASTFM:END -->
+* [68+1 — forgotten dream](https://www.last.fm/music/68%252B1/_/forgotten+dream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
