@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Ant Racing](https://www.last.fm/music/GOLEMM/_/Ant+Racing)
+* [Vertigoaway — YIP!](https://www.last.fm/music/Vertigoaway/_/YIP!)
+* [hxly xo — Discarded](https://www.last.fm/music/hxly+xo/_/Discarded)
 * [11vx — abroad](https://www.last.fm/music/11vx/_/abroad)
-* [68+1 — erased](https://www.last.fm/music/68%252B1/_/erased)
-* [Black Balloons — EARTHBOUND](https://www.last.fm/music/Black+Balloons/_/EARTHBOUND)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
-* [Aeriu Ika — Fata Morgana](https://www.last.fm/music/Aeriu+Ika/_/Fata+Morgana)<!-- LASTFM:END -->
+* [68+1 — erased](https://www.last.fm/music/68%252B1/_/erased)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
