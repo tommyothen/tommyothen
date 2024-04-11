@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cemetery Drive — Slowly](https://www.last.fm/music/Cemetery+Drive/_/Slowly)
 * [bbno$ — coasting](https://www.last.fm/music/bbno$/_/coasting)
 * [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
 * [Starmaxx — Patient Zero](https://www.last.fm/music/Starmaxx/_/Patient+Zero)
-* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)<!-- LASTFM:END -->
+* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
