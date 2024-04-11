@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Machine Girl — Cyan Hardcore](https://www.last.fm/music/Machine+Girl/_/Cyan+Hardcore)
+* [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
 * [iwakura — Hatred](https://www.last.fm/music/iwakura/_/Hatred)
 * [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)
-* [iwakura — Cyberia](https://www.last.fm/music/iwakura/_/Cyberia)
-* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
-* [Ooxygen — Final wish](https://www.last.fm/music/Ooxygen/_/Final+wish)<!-- LASTFM:END -->
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
