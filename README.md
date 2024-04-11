@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iwakura — Hatred](https://www.last.fm/music/iwakura/_/Hatred)
+* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)
 * [iwakura — Cyberia](https://www.last.fm/music/iwakura/_/Cyberia)
 * [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
-* [Ooxygen — Final wish](https://www.last.fm/music/Ooxygen/_/Final+wish)
-* [Fifty Grand — Different Places](https://www.last.fm/music/Fifty+Grand/_/Different+Places)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
+* [Ooxygen — Final wish](https://www.last.fm/music/Ooxygen/_/Final+wish)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
