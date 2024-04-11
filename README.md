@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Carl Philipp Emanuel Bach — Solfeggio, H. 220](https://www.last.fm/music/Carl+Philipp+Emanuel+Bach/_/Solfeggio,+H.+220)
-* [Maurice Ravel — Antar &lpar;After N. Rimsky-Korsakov&rpar;: No. 7. Ravel: Allegretto](https://www.last.fm/music/Maurice+Ravel/_/Antar+&lpar;After+N.+Rimsky-Korsakov&rpar;:+No.+7.+Ravel:+Allegretto)
-* [Slovak Philharmonic — Requiem In D Minor, K. 626: Sequence: VI. Lacrimosa Dies Illa](https://www.last.fm/music/Slovak+Philharmonic/_/Requiem+In+D+Minor,+K.+626:+Sequence:+VI.+Lacrimosa+Dies+Illa)
-* [Nikolai Rimsky-Korsakov — Flight of the Bumblebee](https://www.last.fm/music/Nikolai+Rimsky-Korsakov/_/Flight+of+the+Bumblebee)
-* [Sebastian Reuten — Introduction](https://www.last.fm/music/Sebastian+Reuten/_/Introduction)<!-- LASTFM:END -->
+* [Carlos Marquez — Valse Melancolique No. 6 in F Minor](https://www.last.fm/music/Carlos+Marquez/_/Valse+Melancolique+No.+6+in+F+Minor)
+* [Cortex — Go Round](https://www.last.fm/music/Cortex/_/Go+Round)
+* [Million Eyes — The Mercy of the Wind](https://www.last.fm/music/Million+Eyes/_/The+Mercy+of+the+Wind)
+* [Elijah Fox — Vinegar Hill](https://www.last.fm/music/Elijah+Fox/_/Vinegar+Hill)
+* [Carl Philipp Emanuel Bach — Solfeggio, H. 220](https://www.last.fm/music/Carl+Philipp+Emanuel+Bach/_/Solfeggio,+H.+220)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
