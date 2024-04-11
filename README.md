@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Aeriu Ika — Fata Morgana](https://www.last.fm/music/Aeriu+Ika/_/Fata+Morgana)
-* [Vertigoaway — AM FM](https://www.last.fm/music/Vertigoaway/_/AM+FM)
-* [Lomaji — RR](https://www.last.fm/music/Lomaji/_/RR)
-* [FlowerBoyDeMii — Subject: Haise](https://www.last.fm/music/FlowerBoyDeMii/_/Subject:+Haise)
-* [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)<!-- LASTFM:END -->
+* [11vx — abroad](https://www.last.fm/music/11vx/_/abroad)
+* [68+1 — erased](https://www.last.fm/music/68%252B1/_/erased)
+* [Black Balloons — EARTHBOUND](https://www.last.fm/music/Black+Balloons/_/EARTHBOUND)
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
+* [Aeriu Ika — Fata Morgana](https://www.last.fm/music/Aeriu+Ika/_/Fata+Morgana)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
