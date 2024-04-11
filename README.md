@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Black Balloons — FINAL FANTASY](https://www.last.fm/music/Black+Balloons/_/FINAL+FANTASY)
-* [Acidgvrl — breakcore to get my senpai to notice me](https://www.last.fm/music/Acidgvrl/_/breakcore+to+get+my+senpai+to+notice+me)
-* [68+1 — your eyes](https://www.last.fm/music/68%252B1/_/your+eyes)
-* [Ftlframe — Subterranean Loner](https://www.last.fm/music/Ftlframe/_/Subterranean+Loner)
-* [GOLEMM — Ant Racing](https://www.last.fm/music/GOLEMM/_/Ant+Racing)<!-- LASTFM:END -->
+* [JVNLIII — 24FPS](https://www.last.fm/music/JVNLIII/_/24FPS)
+* [FlowerBoyDeMii — jade tower](https://www.last.fm/music/FlowerBoyDeMii/_/jade+tower)
+* [Acidgvrl — breakcore is dumb](https://www.last.fm/music/Acidgvrl/_/breakcore+is+dumb)
+* [Ftlframe — 707](https://www.last.fm/music/Ftlframe/_/707)
+* [Vertigoaway — Talking Show](https://www.last.fm/music/Vertigoaway/_/Talking+Show)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
