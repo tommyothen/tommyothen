@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Omori — DUET](https://www.last.fm/music/Omori/_/DUET)
-* [久石譲 — Fragile Dream](https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/Fragile+Dream)
-* [Carlos Marquez — Valse Melancolique No. 6 in F Minor](https://www.last.fm/music/Carlos+Marquez/_/Valse+Melancolique+No.+6+in+F+Minor)
-* [Cortex — Go Round](https://www.last.fm/music/Cortex/_/Go+Round)
-* [Million Eyes — The Mercy of the Wind](https://www.last.fm/music/Million+Eyes/_/The+Mercy+of+the+Wind)<!-- LASTFM:END -->
+* [Antonio Vivaldi — Cello Concerto in E minor, RV 409: II. Allegro](https://www.last.fm/music/Antonio+Vivaldi/_/Cello+Concerto+in+E+minor,+RV+409:+II.+Allegro)
+* [Ben Crosland — Oceans Apart](https://www.last.fm/music/Ben+Crosland/_/Oceans+Apart)
+* [Edvard Grieg — Lyric Pieces, Book 1, Op. 12: Arietta](https://www.last.fm/music/Edvard+Grieg/_/Lyric+Pieces,+Book+1,+Op.+12:+Arietta)
+* [Taku Matsushiba — ピアノ練習曲ロ短調 &lpar;Piano etude in h-moll&rpar;](https://www.last.fm/music/Taku+Matsushiba/_/%E3%83%94%E3%82%A2%E3%83%8E%E7%B7%B4%E7%BF%92%E6%9B%B2%E3%83%AD%E7%9F%AD%E8%AA%BF+&lpar;Piano+etude+in+h-moll&rpar;)
+* [Elijah Fox — Wyoming](https://www.last.fm/music/Elijah+Fox/_/Wyoming)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
