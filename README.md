@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [JVNLIII — 24FPS](https://www.last.fm/music/JVNLIII/_/24FPS)
-* [FlowerBoyDeMii — jade tower](https://www.last.fm/music/FlowerBoyDeMii/_/jade+tower)
-* [Acidgvrl — breakcore is dumb](https://www.last.fm/music/Acidgvrl/_/breakcore+is+dumb)
-* [Ftlframe — 707](https://www.last.fm/music/Ftlframe/_/707)
-* [Vertigoaway — Talking Show](https://www.last.fm/music/Vertigoaway/_/Talking+Show)<!-- LASTFM:END -->
+* [Acidgvrl — raging breakcore](https://www.last.fm/music/Acidgvrl/_/raging+breakcore)
+* [WIV — headache](https://www.last.fm/music/WIV/_/headache)
+* [hxly xo — Midnight](https://www.last.fm/music/hxly+xo/_/Midnight)
+* [GOLEMM — Chase](https://www.last.fm/music/GOLEMM/_/Chase)
+* [JVNLIII — 24FPS](https://www.last.fm/music/JVNLIII/_/24FPS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
