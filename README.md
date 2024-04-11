@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mayo. — Lost](https://www.last.fm/music/Mayo./_/Lost)
+* [68+1 — forgotten dream](https://www.last.fm/music/68%252B1/_/forgotten+dream)
+* [Akiba — MOOGCiTY](https://www.last.fm/music/Akiba/_/MOOGCiTY)
 * [Acidgvrl — raging breakcore](https://www.last.fm/music/Acidgvrl/_/raging+breakcore)
-* [WIV — headache](https://www.last.fm/music/WIV/_/headache)
-* [hxly xo — Midnight](https://www.last.fm/music/hxly+xo/_/Midnight)
-* [GOLEMM — Chase](https://www.last.fm/music/GOLEMM/_/Chase)
-* [JVNLIII — 24FPS](https://www.last.fm/music/JVNLIII/_/24FPS)<!-- LASTFM:END -->
+* [WIV — headache](https://www.last.fm/music/WIV/_/headache)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
