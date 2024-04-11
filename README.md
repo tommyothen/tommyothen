@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GOLEMM — Ant Racing](https://www.last.fm/music/GOLEMM/_/Ant+Racing)
-* [Vertigoaway — YIP!](https://www.last.fm/music/Vertigoaway/_/YIP!)
-* [hxly xo — Discarded](https://www.last.fm/music/hxly+xo/_/Discarded)
-* [11vx — abroad](https://www.last.fm/music/11vx/_/abroad)
-* [68+1 — erased](https://www.last.fm/music/68%252B1/_/erased)<!-- LASTFM:END -->
+* [Black Balloons — FINAL FANTASY](https://www.last.fm/music/Black+Balloons/_/FINAL+FANTASY)
+* [Acidgvrl — breakcore to get my senpai to notice me](https://www.last.fm/music/Acidgvrl/_/breakcore+to+get+my+senpai+to+notice+me)
+* [68+1 — your eyes](https://www.last.fm/music/68%252B1/_/your+eyes)
+* [Ftlframe — Subterranean Loner](https://www.last.fm/music/Ftlframe/_/Subterranean+Loner)
+* [GOLEMM — Ant Racing](https://www.last.fm/music/GOLEMM/_/Ant+Racing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
