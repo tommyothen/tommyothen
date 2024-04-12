@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Just A Gent — Rolling Dice](https://www.last.fm/music/Just+A+Gent/_/Rolling+Dice)
+* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
 * [XXXTENTACION — The Explanation](https://www.last.fm/music/XXXTENTACION/_/The+Explanation)
 * [cherry beach — Gravity](https://www.last.fm/music/cherry+beach/_/Gravity)
-* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
-* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
-* [Lazy Rich — Hello - Schoolboy Remix](https://www.last.fm/music/Lazy+Rich/_/Hello+-+Schoolboy+Remix)<!-- LASTFM:END -->
+* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
