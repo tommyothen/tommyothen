@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
 * [Lazy Rich — Hello - Schoolboy Remix](https://www.last.fm/music/Lazy+Rich/_/Hello+-+Schoolboy+Remix)
 * [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
-* [Guardin — in my sleep](https://www.last.fm/music/Guardin/_/in+my+sleep)
-* [Porter Robinson — Sad Machine - Deon Custom Remix](https://www.last.fm/music/Porter+Robinson/_/Sad+Machine+-+Deon+Custom+Remix)
-* [Kaivon — Reborn](https://www.last.fm/music/Kaivon/_/Reborn)<!-- LASTFM:END -->
+* [Guardin — in my sleep](https://www.last.fm/music/Guardin/_/in+my+sleep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
