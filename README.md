@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lazy Rich — Hello - Schoolboy Remix](https://www.last.fm/music/Lazy+Rich/_/Hello+-+Schoolboy+Remix)
+* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
 * [Guardin — in my sleep](https://www.last.fm/music/Guardin/_/in+my+sleep)
 * [Porter Robinson — Sad Machine - Deon Custom Remix](https://www.last.fm/music/Porter+Robinson/_/Sad+Machine+-+Deon+Custom+Remix)
-* [Kaivon — Reborn](https://www.last.fm/music/Kaivon/_/Reborn)
-* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
-* [Eden — 2:09](https://www.last.fm/music/Eden/_/2:09)<!-- LASTFM:END -->
+* [Kaivon — Reborn](https://www.last.fm/music/Kaivon/_/Reborn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
