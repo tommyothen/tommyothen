@@ -31,8 +31,8 @@ Now Playing\
 * [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)
 * [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
 * [GOLEMM — Submerge](https://www.last.fm/music/GOLEMM/_/Submerge)
-* [WIV — admired](https://www.last.fm/music/WIV/_/admired)
-* [hxly xo — papercuts](https://www.last.fm/music/hxly+xo/_/papercuts)<!-- LASTFM:END -->
+* [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)
+* [GOLEMM — Submerge](https://www.last.fm/music/GOLEMM/_/Submerge)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
