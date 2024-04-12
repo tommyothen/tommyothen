@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [deadman 死人 — Omae Wa Mou](https://www.last.fm/music/deadman+%E6%AD%BB%E4%BA%BA/_/Omae+Wa+Mou)
+* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
 * [Unlike Pluto — Worst In Me](https://www.last.fm/music/Unlike+Pluto/_/Worst+In+Me)
 * [Yakkle — 愛密集](https://www.last.fm/music/Yakkle/_/%E6%84%9B%E5%AF%86%E9%9B%86)
-* [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)
-* [nothing,nowhere. — hammer](https://www.last.fm/music/nothing,nowhere./_/hammer)
-* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)<!-- LASTFM:END -->
+* [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
