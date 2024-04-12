@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
+* [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
 * [bbno$ — bulletproof](https://www.last.fm/music/bbno$/_/bulletproof)
 * [knowmadic — spliff](https://www.last.fm/music/knowmadic/_/spliff)
-* [YoungBoy Never Broke Again — Rock and Roll](https://www.last.fm/music/YoungBoy+Never+Broke+Again/_/Rock+and+Roll)
-* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
-* [lund — By My Side](https://www.last.fm/music/lund/_/By+My+Side)<!-- LASTFM:END -->
+* [YoungBoy Never Broke Again — Rock and Roll](https://www.last.fm/music/YoungBoy+Never+Broke+Again/_/Rock+and+Roll)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
