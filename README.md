@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dreamer Isioma — Sensitive](https://www.last.fm/music/Dreamer+Isioma/_/Sensitive)
+* [Birocratic — Corporate Japan](https://www.last.fm/music/Birocratic/_/Corporate+Japan)
 * [D-Real [愛] — Always You](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Always+You)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Just A Gent — Rolling Dice](https://www.last.fm/music/Just+A+Gent/_/Rolling+Dice)
-* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
-* [XXXTENTACION — The Explanation](https://www.last.fm/music/XXXTENTACION/_/The+Explanation)<!-- LASTFM:END -->
+* [Just A Gent — Rolling Dice](https://www.last.fm/music/Just+A+Gent/_/Rolling+Dice)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
