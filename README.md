@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [goreshit — seriously?](https://www.last.fm/music/goreshit/_/seriously%3F)
-* [goreshit — toromi hearts 2](https://www.last.fm/music/goreshit/_/toromi+hearts+2)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
-* [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
+* [Jorja Smith — On My Mind &lpar;Jorja Smith X Preditah&rpar;](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+&lpar;Jorja+Smith+X+Preditah&rpar;)
+* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
+* [Surfaces — Sunday Best](https://www.last.fm/music/Surfaces/_/Sunday+Best)
+* [Au/Ra — Panic Room](https://www.last.fm/music/Au%2FRa/_/Panic+Room)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
