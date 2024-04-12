@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
+* [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)
 * [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
 * [Virtual Riot — In My Head](https://www.last.fm/music/Virtual+Riot/_/In+My+Head)
-* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
-* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)<!-- LASTFM:END -->
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
