@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Submerge](https://www.last.fm/music/GOLEMM/_/Submerge)
 * [WIV — admired](https://www.last.fm/music/WIV/_/admired)
 * [hxly xo — papercuts](https://www.last.fm/music/hxly+xo/_/papercuts)
 * [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
-* [BLKSMIITH — F R A G M E N T](https://www.last.fm/music/BLKSMIITH/_/F+R+A+G+M+E+N+T)
-* [Black Balloons — care4me](https://www.last.fm/music/Black+Balloons/_/care4me)<!-- LASTFM:END -->
+* [BLKSMIITH — F R A G M E N T](https://www.last.fm/music/BLKSMIITH/_/F+R+A+G+M+E+N+T)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
