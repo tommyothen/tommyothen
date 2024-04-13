@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [goreshit — chiyopop?](https://www.last.fm/music/goreshit/_/chiyopop%3F)
+* [goreshit — looming shadow of a tree long gone](https://www.last.fm/music/goreshit/_/looming+shadow+of+a+tree+long+gone)
 * [goreshit — found it](https://www.last.fm/music/goreshit/_/found+it)
 * [goreshit — seerafuku dakara desu](https://www.last.fm/music/goreshit/_/seerafuku+dakara+desu)
-* [goreshit — u got 2 let teh gabberz &lpar;move yr loli body!&rpar;](https://www.last.fm/music/goreshit/_/u+got+2+let+teh+gabberz+&lpar;move+yr+loli+body!&rpar;)
-* [goreshit — they know](https://www.last.fm/music/goreshit/_/they+know)
-* [goreshit — schranz, bitch!](https://www.last.fm/music/goreshit/_/schranz,+bitch!)<!-- LASTFM:END -->
+* [goreshit — u got 2 let teh gabberz &lpar;move yr loli body!&rpar;](https://www.last.fm/music/goreshit/_/u+got+2+let+teh+gabberz+&lpar;move+yr+loli+body!&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
