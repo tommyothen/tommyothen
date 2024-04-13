@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frédéric Chopin — Nocturne No. 2 in E-flat major, Op. 9 No. 2](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Nocturne+No.+2+in+E-flat+major,+Op.+9+No.+2)
 * [Yehezkel Raz — Ballerina](https://www.last.fm/music/Yehezkel+Raz/_/Ballerina)
 * [Johann Sebastian Bach — Cello Suite No. 1 in G Major, BWV 1007: I. Prélude](https://www.last.fm/music/Johann+Sebastian+Bach/_/Cello+Suite+No.+1+in+G+Major,+BWV+1007:+I.+Pr%C3%A9lude)
 * [Super Guitar Bros — Fairy Fountain](https://www.last.fm/music/Super+Guitar+Bros/_/Fairy+Fountain)
-* [Johannes Brahms — 16 Waltzes, Op. 39 &lpar;1867 version&rpar;: No. 3 in G-Sharp Minor](https://www.last.fm/music/Johannes+Brahms/_/16+Waltzes,+Op.+39+&lpar;1867+version&rpar;:+No.+3+in+G-Sharp+Minor)
-* [Lelio Luttazzi — Souvenir d&#39;Italie](https://www.last.fm/music/Lelio+Luttazzi/_/Souvenir+d%27Italie)<!-- LASTFM:END -->
+* [Johannes Brahms — 16 Waltzes, Op. 39 &lpar;1867 version&rpar;: No. 3 in G-Sharp Minor](https://www.last.fm/music/Johannes+Brahms/_/16+Waltzes,+Op.+39+&lpar;1867+version&rpar;:+No.+3+in+G-Sharp+Minor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
