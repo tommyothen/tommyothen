@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [goreshit — come over to my house](https://www.last.fm/music/goreshit/_/come+over+to+my+house)
+* [goreshit — watch me drown](https://www.last.fm/music/goreshit/_/watch+me+drown)
 * [goreshit — Random Preset](https://www.last.fm/music/goreshit/_/Random+Preset)
 * [goreshit — Ladgen - Fat Frumos Remix](https://www.last.fm/music/goreshit/_/Ladgen+-+Fat+Frumos+Remix)
-* [goreshit — more rage!!](https://www.last.fm/music/goreshit/_/more+rage!!)
-* [goreshit — Daddy](https://www.last.fm/music/goreshit/_/Daddy)
-* [goreshit — when i die](https://www.last.fm/music/goreshit/_/when+i+die)<!-- LASTFM:END -->
+* [goreshit — more rage!!](https://www.last.fm/music/goreshit/_/more+rage!!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
