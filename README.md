@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [goreshit — broken promises/shattered dreams](https://www.last.fm/music/goreshit/_/broken+promises%2Fshattered+dreams)
 * [goreshit — austria](https://www.last.fm/music/goreshit/_/austria)
 * [goreshit — moov it!](https://www.last.fm/music/goreshit/_/moov+it!)
 * [goreshit — take you](https://www.last.fm/music/goreshit/_/take+you)
-* [goreshit — jeh, right.](https://www.last.fm/music/goreshit/_/jeh,+right.)
-* [goreshit — like it was](https://www.last.fm/music/goreshit/_/like+it+was)<!-- LASTFM:END -->
+* [goreshit — jeh, right.](https://www.last.fm/music/goreshit/_/jeh,+right.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
