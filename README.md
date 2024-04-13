@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
+* [Golden Boy — Spirit Gun](https://www.last.fm/music/Golden+Boy/_/Spirit+Gun)
+* [Pisca — Is your online persona an untamed unfiltered version of yourself?](https://www.last.fm/music/Pisca/_/Is+your+online+persona+an+untamed+unfiltered+version+of+yourself%3F)
 * [FlowerBoyDeMii — iris](https://www.last.fm/music/FlowerBoyDeMii/_/iris)
-* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
-* [Frédéric Chopin — Nocturne No. 2 in E-flat major, Op. 9 No. 2](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Nocturne+No.+2+in+E-flat+major,+Op.+9+No.+2)
-* [Yehezkel Raz — Ballerina](https://www.last.fm/music/Yehezkel+Raz/_/Ballerina)<!-- LASTFM:END -->
+* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
