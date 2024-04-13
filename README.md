@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [goreshit — cherry&#39;s theme](https://www.last.fm/music/goreshit/_/cherry%27s+theme)
+* [goreshit — seventy four &lpar;don the shell suit&rpar;](https://www.last.fm/music/goreshit/_/seventy+four+&lpar;don+the+shell+suit&rpar;)
 * [goreshit — strawberry cheesecake](https://www.last.fm/music/goreshit/_/strawberry+cheesecake)
 * [goreshit — lovism](https://www.last.fm/music/goreshit/_/lovism)
-* [goreshit — eat you up inside](https://www.last.fm/music/goreshit/_/eat+you+up+inside)
-* [goreshit — terminal](https://www.last.fm/music/goreshit/_/terminal)
-* [goreshit — pirupi! fuck!!](https://www.last.fm/music/goreshit/_/pirupi!+fuck!!)<!-- LASTFM:END -->
+* [goreshit — eat you up inside](https://www.last.fm/music/goreshit/_/eat+you+up+inside)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
