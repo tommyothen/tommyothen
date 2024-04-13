@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
+* [Joji — Bitter Fuck &lpar;salute remix&rpar;](https://www.last.fm/music/Joji/_/Bitter+Fuck+&lpar;salute+remix&rpar;)
+* [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)
 * [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
-* [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)
-* [Quadeca — Ego Death](https://www.last.fm/music/Quadeca/_/Ego+Death)
-* [Dreamer Isioma — Sensitive](https://www.last.fm/music/Dreamer+Isioma/_/Sensitive)
-* [Birocratic — Corporate Japan](https://www.last.fm/music/Birocratic/_/Corporate+Japan)<!-- LASTFM:END -->
+* [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
