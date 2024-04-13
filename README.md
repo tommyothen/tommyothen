@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
+* [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)
 * [Quadeca — Ego Death](https://www.last.fm/music/Quadeca/_/Ego+Death)
 * [Dreamer Isioma — Sensitive](https://www.last.fm/music/Dreamer+Isioma/_/Sensitive)
-* [Birocratic — Corporate Japan](https://www.last.fm/music/Birocratic/_/Corporate+Japan)
-* [D-Real [愛] — Always You](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Always+You)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
+* [Birocratic — Corporate Japan](https://www.last.fm/music/Birocratic/_/Corporate+Japan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
