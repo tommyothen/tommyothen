@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ravenna Golden — Contest](https://www.last.fm/music/Ravenna+Golden/_/Contest)
+* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
 * [TeddyLoid — Fly Away](https://www.last.fm/music/TeddyLoid/_/Fly+Away)
 * [Joji — Bitter Fuck &lpar;salute remix&rpar;](https://www.last.fm/music/Joji/_/Bitter+Fuck+&lpar;salute+remix&rpar;)
-* [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)
-* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
-* [4s4ki — FR](https://www.last.fm/music/4s4ki/_/FR)<!-- LASTFM:END -->
+* [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
