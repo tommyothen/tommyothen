@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [goreshit — toromi hearts 2](https://www.last.fm/music/goreshit/_/toromi+hearts+2)
 * [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
 * [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
 * [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)
-* [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)
-* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)<!-- LASTFM:END -->
+* [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
