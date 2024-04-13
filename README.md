@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FlowerBoyDeMii — iris](https://www.last.fm/music/FlowerBoyDeMii/_/iris)
+* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
 * [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
 * [Frédéric Chopin — Nocturne No. 2 in E-flat major, Op. 9 No. 2](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Nocturne+No.+2+in+E-flat+major,+Op.+9+No.+2)
-* [Yehezkel Raz — Ballerina](https://www.last.fm/music/Yehezkel+Raz/_/Ballerina)
-* [Johann Sebastian Bach — Cello Suite No. 1 in G Major, BWV 1007: I. Prélude](https://www.last.fm/music/Johann+Sebastian+Bach/_/Cello+Suite+No.+1+in+G+Major,+BWV+1007:+I.+Pr%C3%A9lude)
-* [Super Guitar Bros — Fairy Fountain](https://www.last.fm/music/Super+Guitar+Bros/_/Fairy+Fountain)<!-- LASTFM:END -->
+* [Yehezkel Raz — Ballerina](https://www.last.fm/music/Yehezkel+Raz/_/Ballerina)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
