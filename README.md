@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Just Juice — Coast](https://www.last.fm/music/Just+Juice/_/Coast)
+* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)
 * [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
 * [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
-* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
-* [Shakewell — Hold Me Down](https://www.last.fm/music/Shakewell/_/Hold+Me+Down)
-* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)<!-- LASTFM:END -->
+* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
