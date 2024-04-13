@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [goreshit — take you](https://www.last.fm/music/goreshit/_/take+you)
 * [goreshit — jeh, right.](https://www.last.fm/music/goreshit/_/jeh,+right.)
 * [goreshit — like it was](https://www.last.fm/music/goreshit/_/like+it+was)
 * [goreshit — toromi hearts 2](https://www.last.fm/music/goreshit/_/toromi+hearts+2)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)<!-- LASTFM:END -->
+* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
