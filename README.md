@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Elijah Fox — Wall St Underwater](https://www.last.fm/music/Elijah+Fox/_/Wall+St+Underwater)
-* [Imaginary Ambition — Take Five but It&#39;s Song of Storms](https://www.last.fm/music/Imaginary+Ambition/_/Take+Five+but+It%27s+Song+of+Storms)
-* [Super Guitar Bros — Fairy Fountain](https://www.last.fm/music/Super+Guitar+Bros/_/Fairy+Fountain)
-* [Frédéric Chopin — Chopin: 12 Études, Op. 25: No. 11 in A Minor &quot;Winter Wind&quot;](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Chopin:+12+%C3%89tudes,+Op.+25:+No.+11+in+A+Minor+%22Winter+Wind%22)
-* [Camille Saint-Saëns — Introduction and Rondo capriccioso in A Minor, Op. 28](https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Introduction+and+Rondo+capriccioso+in+A+Minor,+Op.+28)<!-- LASTFM:END -->
+* [Elijah Fox — Wyoming](https://www.last.fm/music/Elijah+Fox/_/Wyoming)
+* [Michael Small — Street Market / Love Scene](https://www.last.fm/music/Michael+Small/_/Street+Market+%2F+Love+Scene)
+* [Maurice Ravel — Antar &lpar;After N. Rimsky-Korsakov&rpar;: No. 7. Ravel: Allegretto](https://www.last.fm/music/Maurice+Ravel/_/Antar+&lpar;After+N.+Rimsky-Korsakov&rpar;:+No.+7.+Ravel:+Allegretto)
+* [Jean Sibelius — 5 Pieces, Op. 75, &quot;The Trees&quot;: No. 3 Aspen](https://www.last.fm/music/Jean+Sibelius/_/5+Pieces,+Op.+75,+%22The+Trees%22:+No.+3+Aspen)
+* [Video Days — Bleached](https://www.last.fm/music/Video+Days/_/Bleached)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
