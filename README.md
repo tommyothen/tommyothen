@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [K Motionz — Phantasm](https://www.last.fm/music/K+Motionz/_/Phantasm)
+* [PHATWORLD — Captain Hook Riddim](https://www.last.fm/music/PHATWORLD/_/Captain+Hook+Riddim)
 * [Boxxy — CAN I HELP U?](https://www.last.fm/music/Boxxy/_/CAN+I+HELP+U%3F)
 * [Boxxy — SPLOINK](https://www.last.fm/music/Boxxy/_/SPLOINK)
-* [Boxxy — 74](https://www.last.fm/music/Boxxy/_/74)
-* [Boxxy — Steppa Pig](https://www.last.fm/music/Boxxy/_/Steppa+Pig)
-* [Boxxy — BREAK FROM THE ADS - Boxxy Remix](https://www.last.fm/music/Boxxy/_/BREAK+FROM+THE+ADS+-+Boxxy+Remix)<!-- LASTFM:END -->
+* [Boxxy — 74](https://www.last.fm/music/Boxxy/_/74)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
