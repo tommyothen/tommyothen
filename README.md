@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Boxxy — BAD BITCH DNB](https://www.last.fm/music/Boxxy/_/BAD+BITCH+DNB)
-* [Boxxy — HYPERDONK MASH](https://www.last.fm/music/Boxxy/_/HYPERDONK+MASH)
-* [Boxxy — UNMEDICATED POP](https://www.last.fm/music/Boxxy/_/UNMEDICATED+POP)
-* [Boxxy — wobbly dolphin](https://www.last.fm/music/Boxxy/_/wobbly+dolphin)
-* [Boxxy — wobbly dolphin](https://www.last.fm/music/Boxxy/_/wobbly+dolphin)<!-- LASTFM:END -->
+* [Boxxy — BREAK FROM THE ADS - Boxxy Remix](https://www.last.fm/music/Boxxy/_/BREAK+FROM+THE+ADS+-+Boxxy+Remix)
+* [Boxxy — SLAGALICIOUS - Boxxy Remix](https://www.last.fm/music/Boxxy/_/SLAGALICIOUS+-+Boxxy+Remix)
+* [Boxxy — I TOOK THE NIGHT](https://www.last.fm/music/Boxxy/_/I+TOOK+THE+NIGHT)
+* [Boxxy — Auditory Lobotomy](https://www.last.fm/music/Boxxy/_/Auditory+Lobotomy)
+* [Boxxy — BAD BITCH DNB](https://www.last.fm/music/Boxxy/_/BAD+BITCH+DNB)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
