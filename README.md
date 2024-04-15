@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Frédéric Chopin — Nocturne No. 2 in E-flat major, Op. 9 No. 2](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Nocturne+No.+2+in+E-flat+major,+Op.+9+No.+2)
 * [Omori — DUET](https://www.last.fm/music/Omori/_/DUET)
 * [Alberto Baldan Bembo — Linda](https://www.last.fm/music/Alberto+Baldan+Bembo/_/Linda)
 * [Million Eyes — The Mercy of the Wind](https://www.last.fm/music/Million+Eyes/_/The+Mercy+of+the+Wind)
-* [Elijah Fox — Wyoming](https://www.last.fm/music/Elijah+Fox/_/Wyoming)
-* [Michael Small — Street Market / Love Scene](https://www.last.fm/music/Michael+Small/_/Street+Market+%2F+Love+Scene)<!-- LASTFM:END -->
+* [Elijah Fox — Wyoming](https://www.last.fm/music/Elijah+Fox/_/Wyoming)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
