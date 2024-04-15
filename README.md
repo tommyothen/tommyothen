@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Johannes Brahms — 16 Waltzes, Op. 39 &lpar;1867 version&rpar;: No. 3 in G-Sharp Minor](https://www.last.fm/music/Johannes+Brahms/_/16+Waltzes,+Op.+39+&lpar;1867+version&rpar;:+No.+3+in+G-Sharp+Minor)
+* [Lelio Luttazzi — Souvenir d&#39;Italie](https://www.last.fm/music/Lelio+Luttazzi/_/Souvenir+d%27Italie)
 * [Camille Saint-Saëns — Introduction and Rondo capriccioso in A Minor, Op. 28](https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Introduction+and+Rondo+capriccioso+in+A+Minor,+Op.+28)
 * [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
-* [goreshit — dreamer](https://www.last.fm/music/goreshit/_/dreamer)
-* [goreshit — mina](https://www.last.fm/music/goreshit/_/mina)
-* [goreshit — cherry&#39;s theme](https://www.last.fm/music/goreshit/_/cherry%27s+theme)<!-- LASTFM:END -->
+* [goreshit — dreamer](https://www.last.fm/music/goreshit/_/dreamer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
