@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Omori — DUET](https://www.last.fm/music/Omori/_/DUET)
+* [Alberto Baldan Bembo — Linda](https://www.last.fm/music/Alberto+Baldan+Bembo/_/Linda)
+* [Million Eyes — The Mercy of the Wind](https://www.last.fm/music/Million+Eyes/_/The+Mercy+of+the+Wind)
 * [Elijah Fox — Wyoming](https://www.last.fm/music/Elijah+Fox/_/Wyoming)
-* [Michael Small — Street Market / Love Scene](https://www.last.fm/music/Michael+Small/_/Street+Market+%2F+Love+Scene)
-* [Maurice Ravel — Antar &lpar;After N. Rimsky-Korsakov&rpar;: No. 7. Ravel: Allegretto](https://www.last.fm/music/Maurice+Ravel/_/Antar+&lpar;After+N.+Rimsky-Korsakov&rpar;:+No.+7.+Ravel:+Allegretto)
-* [Jean Sibelius — 5 Pieces, Op. 75, &quot;The Trees&quot;: No. 3 Aspen](https://www.last.fm/music/Jean+Sibelius/_/5+Pieces,+Op.+75,+%22The+Trees%22:+No.+3+Aspen)
-* [Video Days — Bleached](https://www.last.fm/music/Video+Days/_/Bleached)<!-- LASTFM:END -->
+* [Michael Small — Street Market / Love Scene](https://www.last.fm/music/Michael+Small/_/Street+Market+%2F+Love+Scene)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
