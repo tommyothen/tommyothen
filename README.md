@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Boxxy — BREAK FROM THE ADS - Boxxy Remix](https://www.last.fm/music/Boxxy/_/BREAK+FROM+THE+ADS+-+Boxxy+Remix)
-* [Boxxy — SLAGALICIOUS - Boxxy Remix](https://www.last.fm/music/Boxxy/_/SLAGALICIOUS+-+Boxxy+Remix)
-* [Boxxy — I TOOK THE NIGHT](https://www.last.fm/music/Boxxy/_/I+TOOK+THE+NIGHT)
-* [Boxxy — Auditory Lobotomy](https://www.last.fm/music/Boxxy/_/Auditory+Lobotomy)
-* [Boxxy — BAD BITCH DNB](https://www.last.fm/music/Boxxy/_/BAD+BITCH+DNB)<!-- LASTFM:END -->
+* [Boxxy — CAN I HELP U?](https://www.last.fm/music/Boxxy/_/CAN+I+HELP+U%3F)
+* [Boxxy — SPLOINK](https://www.last.fm/music/Boxxy/_/SPLOINK)
+* [Boxxy — 74](https://www.last.fm/music/Boxxy/_/74)
+* [Boxxy — Steppa Pig](https://www.last.fm/music/Boxxy/_/Steppa+Pig)
+* [Boxxy — BREAK FROM THE ADS - Boxxy Remix](https://www.last.fm/music/Boxxy/_/BREAK+FROM+THE+ADS+-+Boxxy+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
