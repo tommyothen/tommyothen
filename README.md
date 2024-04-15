@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camille Saint-Saëns — Introduction and Rondo capriccioso in A Minor, Op. 28](https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Introduction+and+Rondo+capriccioso+in+A+Minor,+Op.+28)
 * [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
 * [goreshit — dreamer](https://www.last.fm/music/goreshit/_/dreamer)
 * [goreshit — mina](https://www.last.fm/music/goreshit/_/mina)
-* [goreshit — cherry&#39;s theme](https://www.last.fm/music/goreshit/_/cherry%27s+theme)
-* [goreshit — seventy four &lpar;don the shell suit&rpar;](https://www.last.fm/music/goreshit/_/seventy+four+&lpar;don+the+shell+suit&rpar;)<!-- LASTFM:END -->
+* [goreshit — cherry&#39;s theme](https://www.last.fm/music/goreshit/_/cherry%27s+theme)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
