@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jack Stauber&#39;s Micropop — Two Time](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Two+Time)
+* [FrankJavCee — OmegaWave1986 &lpar;feat. Matt Watson&rpar;](https://www.last.fm/music/FrankJavCee/_/OmegaWave1986+&lpar;feat.+Matt+Watson&rpar;)
 * [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
 * [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)
-* [Rav — And That&#39;s Me](https://www.last.fm/music/Rav/_/And+That%27s+Me)
-* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
-* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)<!-- LASTFM:END -->
+* [Rav — And That&#39;s Me](https://www.last.fm/music/Rav/_/And+That%27s+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
