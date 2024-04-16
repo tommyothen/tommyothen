@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [strxwberrymilk — My Head Hurts](https://www.last.fm/music/strxwberrymilk/_/My+Head+Hurts)
+* [FlowerBoyDeMii — iris](https://www.last.fm/music/FlowerBoyDeMii/_/iris)
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
 * [iwakura — Hatred](https://www.last.fm/music/iwakura/_/Hatred)
-* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)
-* [goreshit — the pain of relief &lpar;we have our vices one and all&rpar;](https://www.last.fm/music/goreshit/_/the+pain+of+relief+&lpar;we+have+our+vices+one+and+all&rpar;)
-* [Golden Boy — Spirit Gun](https://www.last.fm/music/Golden+Boy/_/Spirit+Gun)
-* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)<!-- LASTFM:END -->
+* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
