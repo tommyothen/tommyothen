@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pisca — Is your online persona an untamed unfiltered version of yourself?](https://www.last.fm/music/Pisca/_/Is+your+online+persona+an+untamed+unfiltered+version+of+yourself%3F)
+* [BLKSMIITH — SR20DET](https://www.last.fm/music/BLKSMIITH/_/SR20DET)
+* [Nedaj — Alone](https://www.last.fm/music/Nedaj/_/Alone)
 * [strxwberrymilk — My Head Hurts](https://www.last.fm/music/strxwberrymilk/_/My+Head+Hurts)
-* [FlowerBoyDeMii — iris](https://www.last.fm/music/FlowerBoyDeMii/_/iris)
-* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [iwakura — Hatred](https://www.last.fm/music/iwakura/_/Hatred)
-* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)<!-- LASTFM:END -->
+* [FlowerBoyDeMii — iris](https://www.last.fm/music/FlowerBoyDeMii/_/iris)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
