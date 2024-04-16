@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Jakey — Medium](https://www.last.fm/music/Jakey/_/Medium)
-* [Jack Stauber&#39;s Micropop — Two Time](https://www.last.fm/music/Jack+Stauber%27s+Micropop/_/Two+Time)
-* [FrankJavCee — OmegaWave1986 &lpar;feat. Matt Watson&rpar;](https://www.last.fm/music/FrankJavCee/_/OmegaWave1986+&lpar;feat.+Matt+Watson&rpar;)
-* [A-Kil — Cowboy Bebop](https://www.last.fm/music/A-Kil/_/Cowboy+Bebop)
-* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)<!-- LASTFM:END -->
+* [sleepdealer — Ocean](https://www.last.fm/music/sleepdealer/_/Ocean)
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
+* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
+* [YUNG BAE — Must Be Love](https://www.last.fm/music/YUNG+BAE/_/Must+Be+Love)
+* [Jakey — Medium](https://www.last.fm/music/Jakey/_/Medium)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
