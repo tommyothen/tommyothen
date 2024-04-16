@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Bassline Bitches](https://www.last.fm/music/FEDUK/_/Bassline+Bitches)
+* [Sleepy — Hai Domo](https://www.last.fm/music/Sleepy/_/Hai+Domo)
 * [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
 * [Rich Brian — 100 Degrees](https://www.last.fm/music/Rich+Brian/_/100+Degrees)
-* [Tyler, the Creator — I THINK](https://www.last.fm/music/Tyler,+the+Creator/_/I+THINK)
-* [FEDUK — Мой район &lpar;feat. Dooit&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9C%D0%BE%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD+&lpar;feat.+Dooit&rpar;)
-* [demxntia — it&#39;s alright](https://www.last.fm/music/demxntia/_/it%27s+alright)<!-- LASTFM:END -->
+* [Tyler, the Creator — I THINK](https://www.last.fm/music/Tyler,+the+Creator/_/I+THINK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
