@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
-* [Frédéric Chopin — Nocturne No. 2 in E-flat major, Op. 9 No. 2](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Nocturne+No.+2+in+E-flat+major,+Op.+9+No.+2)
-* [Omori — DUET](https://www.last.fm/music/Omori/_/DUET)
-* [Alberto Baldan Bembo — Linda](https://www.last.fm/music/Alberto+Baldan+Bembo/_/Linda)
-* [Million Eyes — The Mercy of the Wind](https://www.last.fm/music/Million+Eyes/_/The+Mercy+of+the+Wind)<!-- LASTFM:END -->
+* [TOKYOPILL — Let&#39;s All Love Lain](https://www.last.fm/music/TOKYOPILL/_/Let%27s+All+Love+Lain)
+* [Xxtarlit⚸ — Fleeting Frozen Heart](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/Fleeting+Frozen+Heart)
+* [iwakura — Hatred](https://www.last.fm/music/iwakura/_/Hatred)
+* [Nosgov — goes nowhere](https://www.last.fm/music/Nosgov/_/goes+nowhere)
+* [Ooxygen — Final wish](https://www.last.fm/music/Ooxygen/_/Final+wish)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
