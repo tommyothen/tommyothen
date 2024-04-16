@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Audrey Nuna — damn Right](https://www.last.fm/music/Audrey+Nuna/_/damn+Right)
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
 * [FEDUK — Дружите странами &lpar;feat. Artur Kreem&rpar;](https://www.last.fm/music/FEDUK/_/%D0%94%D1%80%D1%83%D0%B6%D0%B8%D1%82%D0%B5+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BC%D0%B8+&lpar;feat.+Artur+Kreem&rpar;)
 * [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)
-* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
-* [YUC&#39;e — Sunset Tea Cup](https://www.last.fm/music/YUC%27e/_/Sunset+Tea+Cup)<!-- LASTFM:END -->
+* [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
