@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iwakura — Hatred](https://www.last.fm/music/iwakura/_/Hatred)
+* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)
 * [goreshit — the pain of relief &lpar;we have our vices one and all&rpar;](https://www.last.fm/music/goreshit/_/the+pain+of+relief+&lpar;we+have+our+vices+one+and+all&rpar;)
 * [Golden Boy — Spirit Gun](https://www.last.fm/music/Golden+Boy/_/Spirit+Gun)
-* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
-* [FEDUK — Bassline Bitches](https://www.last.fm/music/FEDUK/_/Bassline+Bitches)
-* [Sleepy — Hai Domo](https://www.last.fm/music/Sleepy/_/Hai+Domo)<!-- LASTFM:END -->
+* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
