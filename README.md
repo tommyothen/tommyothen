@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — float](https://www.last.fm/music/Eden/_/float)
+* [88rising — History](https://www.last.fm/music/88rising/_/History)
 * [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [sleepdealer — Ocean](https://www.last.fm/music/sleepdealer/_/Ocean)
-* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
-* [Ylona Garcia — Entertain Me](https://www.last.fm/music/Ylona+Garcia/_/Entertain+Me)
-* [YUNG BAE — Must Be Love](https://www.last.fm/music/YUNG+BAE/_/Must+Be+Love)<!-- LASTFM:END -->
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
