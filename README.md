@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sewerslvt — Ecifircas](https://www.last.fm/music/Sewerslvt/_/Ecifircas)
+* [Xxtarlit⚸ — untitled](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/untitled)
 * [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)
 * [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [FlowerBoyDeMii — iris](https://www.last.fm/music/FlowerBoyDeMii/_/iris)
-* [TOKYOPILL — Let&#39;s All Love Lain](https://www.last.fm/music/TOKYOPILL/_/Let%27s+All+Love+Lain)
-* [iwakura — Cyberia](https://www.last.fm/music/iwakura/_/Cyberia)<!-- LASTFM:END -->
+* [FlowerBoyDeMii — iris](https://www.last.fm/music/FlowerBoyDeMii/_/iris)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
