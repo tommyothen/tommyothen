@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)
-* [WIV — headache](https://www.last.fm/music/WIV/_/headache)
-* [Aeriu Ika — Fata Morgana](https://www.last.fm/music/Aeriu+Ika/_/Fata+Morgana)
-* [Akiba — popipo00](https://www.last.fm/music/Akiba/_/popipo00)
-* [Vertigoaway — HEXING THE MOON](https://www.last.fm/music/Vertigoaway/_/HEXING+THE+MOON)<!-- LASTFM:END -->
+* [Eden FM — Escape DSi](https://www.last.fm/music/Eden+FM/_/Escape+DSi)
+* [Aeriu Ika — Ascend Through the Heavens](https://www.last.fm/music/Aeriu+Ika/_/Ascend+Through+the+Heavens)
+* [WIV — stop it](https://www.last.fm/music/WIV/_/stop+it)
+* [FlowerBoyDeMii — SKIN](https://www.last.fm/music/FlowerBoyDeMii/_/SKIN)
+* [Vertigoaway — glass &lpar;shattered everywhere&rpar;](https://www.last.fm/music/Vertigoaway/_/glass+&lpar;shattered+everywhere&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
