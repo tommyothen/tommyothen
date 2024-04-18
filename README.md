@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
+* [Golden Boy — Spirit Gun](https://www.last.fm/music/Golden+Boy/_/Spirit+Gun)
 * [iwakura — Hatred](https://www.last.fm/music/iwakura/_/Hatred)
 * [Machine Girl — Cyan Hardcore](https://www.last.fm/music/Machine+Girl/_/Cyan+Hardcore)
-* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)
-* [Fifty Grand — Different Places](https://www.last.fm/music/Fifty+Grand/_/Different+Places)
-* [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)<!-- LASTFM:END -->
+* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
