@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Moe Shop — Identity](https://www.last.fm/music/Moe+Shop/_/Identity)
 * [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)
 * [Packy — Like This](https://www.last.fm/music/Packy/_/Like+This)
 * [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
-* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)
-* [Fabian Mazur — Arena](https://www.last.fm/music/Fabian+Mazur/_/Arena)<!-- LASTFM:END -->
+* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
