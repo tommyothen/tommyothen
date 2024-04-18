@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [CVLTE — Happy. &lpar;feat. 釈迦坊主&rpar;](https://www.last.fm/music/CVLTE/_/Happy.+&lpar;feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB&rpar;)
 * [Moe Shop — Identity](https://www.last.fm/music/Moe+Shop/_/Identity)
 * [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)
 * [Packy — Like This](https://www.last.fm/music/Packy/_/Like+This)
-* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
-* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)<!-- LASTFM:END -->
+* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
