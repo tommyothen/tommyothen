@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TOKYOPILL — Let&#39;s All Love Lain](https://www.last.fm/music/TOKYOPILL/_/Let%27s+All+Love+Lain)
 * [hxly xo — Motive](https://www.last.fm/music/hxly+xo/_/Motive)
 * [Akiba — MOOGCiTY](https://www.last.fm/music/Akiba/_/MOOGCiTY)
 * [Eden FM — Escape DSi](https://www.last.fm/music/Eden+FM/_/Escape+DSi)
-* [Aeriu Ika — Ascend Through the Heavens](https://www.last.fm/music/Aeriu+Ika/_/Ascend+Through+the+Heavens)
-* [WIV — stop it](https://www.last.fm/music/WIV/_/stop+it)<!-- LASTFM:END -->
+* [Aeriu Ika — Ascend Through the Heavens](https://www.last.fm/music/Aeriu+Ika/_/Ascend+Through+the+Heavens)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
