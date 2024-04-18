@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)
+* [Packy — Like This](https://www.last.fm/music/Packy/_/Like+This)
 * [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
 * [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)
-* [Fabian Mazur — Arena](https://www.last.fm/music/Fabian+Mazur/_/Arena)
-* [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
+* [Fabian Mazur — Arena](https://www.last.fm/music/Fabian+Mazur/_/Arena)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
