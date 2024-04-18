@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [hxly xo — Midnight](https://www.last.fm/music/hxly+xo/_/Midnight)
-* [Ftlframe — Lucy&#39;s Revenge](https://www.last.fm/music/Ftlframe/_/Lucy%27s+Revenge)
-* [purity filter — Wisteria Awakens](https://www.last.fm/music/purity+filter/_/Wisteria+Awakens)
-* [Acidgvrl — breakcore for the mood](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+mood)<!-- LASTFM:END -->
+* [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)
+* [WIV — headache](https://www.last.fm/music/WIV/_/headache)
+* [Aeriu Ika — Fata Morgana](https://www.last.fm/music/Aeriu+Ika/_/Fata+Morgana)
+* [Akiba — popipo00](https://www.last.fm/music/Akiba/_/popipo00)
+* [Vertigoaway — HEXING THE MOON](https://www.last.fm/music/Vertigoaway/_/HEXING+THE+MOON)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
