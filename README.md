@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Acidgvrl — breakcore for the mood](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+mood)
+* [Vertigoaway — tritium](https://www.last.fm/music/Vertigoaway/_/tritium)
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
 * [FlowerBoyDeMii — Subject: Haise](https://www.last.fm/music/FlowerBoyDeMii/_/Subject:+Haise)
-* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
-* [Akiba — いつか会いたい](https://www.last.fm/music/Akiba/_/%E3%81%84%E3%81%A4%E3%81%8B%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%84)
-* [68+1 — =](https://www.last.fm/music/68%252B1/_/=)
-* [Vertigoaway — Missed the Bus!](https://www.last.fm/music/Vertigoaway/_/Missed+the+Bus!)<!-- LASTFM:END -->
+* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
