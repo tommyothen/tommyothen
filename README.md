@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)
+* [Fifty Grand — Different Places](https://www.last.fm/music/Fifty+Grand/_/Different+Places)
 * [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
 * [Pisca — Is your online persona an untamed unfiltered version of yourself?](https://www.last.fm/music/Pisca/_/Is+your+online+persona+an+untamed+unfiltered+version+of+yourself%3F)
-* [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)
-* [Rory in early 20s — De Kieru](https://www.last.fm/music/Rory+in+early+20s/_/De+Kieru)
-* [Sewerslvt — Ecifircas](https://www.last.fm/music/Sewerslvt/_/Ecifircas)<!-- LASTFM:END -->
+* [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
