@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)
 * [Ooxygen — Final wish](https://www.last.fm/music/Ooxygen/_/Final+wish)
 * [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
 * [Sewerslvt — Ecifircas](https://www.last.fm/music/Sewerslvt/_/Ecifircas)
-* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)<!-- LASTFM:END -->
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
