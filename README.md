@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Elijah Fox — Staten Island Ferry](https://www.last.fm/music/Elijah+Fox/_/Staten+Island+Ferry)
+* [Johann Sebastian Bach — Cello Suite No. 1 in G Major, BWV 1007: I. Prélude](https://www.last.fm/music/Johann+Sebastian+Bach/_/Cello+Suite+No.+1+in+G+Major,+BWV+1007:+I.+Pr%C3%A9lude)
+* [Omori — DUET](https://www.last.fm/music/Omori/_/DUET)
 * [Alberto Baldan Bembo — Linda](https://www.last.fm/music/Alberto+Baldan+Bembo/_/Linda)
-* [Jean Sibelius — 13 Pieces, Op. 76: No. 2 Etude](https://www.last.fm/music/Jean+Sibelius/_/13+Pieces,+Op.+76:+No.+2+Etude)
-* [Johannes Brahms — 16 Waltzes, Op. 39 &lpar;1867 version&rpar;: No. 3 in G-Sharp Minor](https://www.last.fm/music/Johannes+Brahms/_/16+Waltzes,+Op.+39+&lpar;1867+version&rpar;:+No.+3+in+G-Sharp+Minor)
-* [Elijah Fox — Wall St Underwater](https://www.last.fm/music/Elijah+Fox/_/Wall+St+Underwater)
-* [Frédéric Chopin — Chopin: 12 Études, Op. 25: No. 11 in A Minor &quot;Winter Wind&quot;](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Chopin:+12+%C3%89tudes,+Op.+25:+No.+11+in+A+Minor+%22Winter+Wind%22)<!-- LASTFM:END -->
+* [Jean Sibelius — 13 Pieces, Op. 76: No. 2 Etude](https://www.last.fm/music/Jean+Sibelius/_/13+Pieces,+Op.+76:+No.+2+Etude)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
