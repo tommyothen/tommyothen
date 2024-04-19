@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Elijah Fox — Staten Island Ferry](https://www.last.fm/music/Elijah+Fox/_/Staten+Island+Ferry)
-* [Johann Sebastian Bach — Cello Suite No. 1 in G Major, BWV 1007: I. Prélude](https://www.last.fm/music/Johann+Sebastian+Bach/_/Cello+Suite+No.+1+in+G+Major,+BWV+1007:+I.+Pr%C3%A9lude)
-* [Omori — DUET](https://www.last.fm/music/Omori/_/DUET)
-* [Alberto Baldan Bembo — Linda](https://www.last.fm/music/Alberto+Baldan+Bembo/_/Linda)
-* [Jean Sibelius — 13 Pieces, Op. 76: No. 2 Etude](https://www.last.fm/music/Jean+Sibelius/_/13+Pieces,+Op.+76:+No.+2+Etude)<!-- LASTFM:END -->
+* [Jean Sibelius — 5 Pieces, Op. 75, &quot;The Trees&quot;: No. 3 Aspen](https://www.last.fm/music/Jean+Sibelius/_/5+Pieces,+Op.+75,+%22The+Trees%22:+No.+3+Aspen)
+* [Maurice Ravel — Antar &lpar;After N. Rimsky-Korsakov&rpar;: No. 7. Ravel: Allegretto](https://www.last.fm/music/Maurice+Ravel/_/Antar+&lpar;After+N.+Rimsky-Korsakov&rpar;:+No.+7.+Ravel:+Allegretto)
+* [Sebastian Reuten — Introduction](https://www.last.fm/music/Sebastian+Reuten/_/Introduction)
+* [Toby Fox — Chill](https://www.last.fm/music/Toby+Fox/_/Chill)
+* [Ludwig Minkus — Paquita: Variation 5: Allegro non troppo &lpar;by Cherepnin&rpar;](https://www.last.fm/music/Ludwig+Minkus/_/Paquita:+Variation+5:+Allegro+non+troppo+&lpar;by+Cherepnin&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
