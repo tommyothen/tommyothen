@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [aespa — YEPPI YEPPI](https://www.last.fm/music/aespa/_/YEPPI+YEPPI)
+* [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)
+* [NMIXX — DICE](https://www.last.fm/music/NMIXX/_/DICE)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [WOOAH — BLUSH](https://www.last.fm/music/WOOAH/_/BLUSH)
-* [Seori — 긴 밤 &lpar;feat. GIRIBOY&rpar;](https://www.last.fm/music/Seori/_/%EA%B8%B4+%EB%B0%A4+&lpar;feat.+GIRIBOY&rpar;)
-* [IVE — Off the Record](https://www.last.fm/music/IVE/_/Off+the+Record)
-* [LE SSERAFIM — Swan Song](https://www.last.fm/music/LE+SSERAFIM/_/Swan+Song)<!-- LASTFM:END -->
+* [WOOAH — BLUSH](https://www.last.fm/music/WOOAH/_/BLUSH)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
