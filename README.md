@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
+* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
+* [MAX — STUPID IN LOVE &lpar;feat. HUH YUNJIN of LE SSERAFIM&rpar;](https://www.last.fm/music/MAX/_/STUPID+IN+LOVE+&lpar;feat.+HUH+YUNJIN+of+LE+SSERAFIM&rpar;)
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
