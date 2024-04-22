@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kiss of Life — Midas Touch](https://www.last.fm/music/Kiss+of+Life/_/Midas+Touch)
+* [aespa — Lucid Dream](https://www.last.fm/music/aespa/_/Lucid+Dream)
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
 * [Illit — Lucky Girl Syndrome](https://www.last.fm/music/Illit/_/Lucky+Girl+Syndrome)
-* [Illit — Midnight Fiction](https://www.last.fm/music/Illit/_/Midnight+Fiction)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [TWICE — SET ME FREE](https://www.last.fm/music/TWICE/_/SET+ME+FREE)<!-- LASTFM:END -->
+* [Illit — Midnight Fiction](https://www.last.fm/music/Illit/_/Midnight+Fiction)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
