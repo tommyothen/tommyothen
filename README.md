@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Hurt](https://www.last.fm/music/NewJeans/_/Hurt)
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [aespa — YEPPI YEPPI](https://www.last.fm/music/aespa/_/YEPPI+YEPPI)
 * [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)
-* [NMIXX — DICE](https://www.last.fm/music/NMIXX/_/DICE)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
-* [WOOAH — BLUSH](https://www.last.fm/music/WOOAH/_/BLUSH)<!-- LASTFM:END -->
+* [NMIXX — DICE](https://www.last.fm/music/NMIXX/_/DICE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
