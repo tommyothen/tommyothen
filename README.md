@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)
+* [Illit — My World](https://www.last.fm/music/Illit/_/My+World)
 * [Red Velvet — 러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
-* [MAX — STUPID IN LOVE &lpar;feat. HUH YUNJIN of LE SSERAFIM&rpar;](https://www.last.fm/music/MAX/_/STUPID+IN+LOVE+&lpar;feat.+HUH+YUNJIN+of+LE+SSERAFIM&rpar;)<!-- LASTFM:END -->
+* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
