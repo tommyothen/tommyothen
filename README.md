@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Periphery — Hell Below](https://www.last.fm/music/Periphery/_/Hell+Below)
+* [Periphery — Graveless](https://www.last.fm/music/Periphery/_/Graveless)
 * [Periphery — Priestess](https://www.last.fm/music/Periphery/_/Priestess)
 * [Periphery — The Bad Thing](https://www.last.fm/music/Periphery/_/The+Bad+Thing)
-* [Periphery — Reprise](https://www.last.fm/music/Periphery/_/Reprise)
-* [Periphery — Psychosphere](https://www.last.fm/music/Periphery/_/Psychosphere)
-* [Periphery — Four Lights](https://www.last.fm/music/Periphery/_/Four+Lights)<!-- LASTFM:END -->
+* [Periphery — Reprise](https://www.last.fm/music/Periphery/_/Reprise)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
