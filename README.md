@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Periphery — Four Lights](https://www.last.fm/music/Periphery/_/Four+Lights)
+* [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)
 * [Periphery — 22 Faces](https://www.last.fm/music/Periphery/_/22+Faces)
 * [Periphery — Alpha](https://www.last.fm/music/Periphery/_/Alpha)
-* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)
-* [Kiss of Life — Nothing](https://www.last.fm/music/Kiss+of+Life/_/Nothing)
-* [NMIXX — Passionfruit](https://www.last.fm/music/NMIXX/_/Passionfruit)<!-- LASTFM:END -->
+* [NewJeans — Attention](https://www.last.fm/music/NewJeans/_/Attention)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
