@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kiss of Life — Nothing](https://www.last.fm/music/Kiss+of+Life/_/Nothing)
+* [NMIXX — Passionfruit](https://www.last.fm/music/NMIXX/_/Passionfruit)
 * [ODD EYE CIRCLE &lpar;ARTMS&rpar; — Love Me Like](https://www.last.fm/music/ODD+EYE+CIRCLE+&lpar;ARTMS&rpar;/_/Love+Me+Like)
 * [BOYNEXTDOOR — Amnesia](https://www.last.fm/music/BOYNEXTDOOR/_/Amnesia)
-* [tripleS — Rising](https://www.last.fm/music/tripleS/_/Rising)
-* [LE SSERAFIM — UNFORGIVEN &lpar;feat. Nile Rodgers&rpar;](https://www.last.fm/music/LE+SSERAFIM/_/UNFORGIVEN+&lpar;feat.+Nile+Rodgers&rpar;)
-* [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)<!-- LASTFM:END -->
+* [tripleS — Rising](https://www.last.fm/music/tripleS/_/Rising)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
