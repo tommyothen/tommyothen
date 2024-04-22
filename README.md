@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LE SSERAFIM — Eve, Psyche &amp; The Bluebeard’s wife](https://www.last.fm/music/LE+SSERAFIM/_/Eve,+Psyche+&amp;+The+Bluebeard%E2%80%99s+wife)
+* [NewJeans — Cool With You](https://www.last.fm/music/NewJeans/_/Cool+With+You)
+* [aespa — aenergy](https://www.last.fm/music/aespa/_/aenergy)
 * [IVE — Baddie](https://www.last.fm/music/IVE/_/Baddie)
-* [ILLIT — Magnetic &lpar;City Night Remix&rpar;](https://www.last.fm/music/ILLIT/_/Magnetic+&lpar;City+Night+Remix&rpar;)
-* [Tabber — Chi-Ka](https://www.last.fm/music/Tabber/_/Chi-Ka)
-* [LE SSERAFIM — EASY](https://www.last.fm/music/LE+SSERAFIM/_/EASY)
-* [VIVIZ — MANIAC](https://www.last.fm/music/VIVIZ/_/MANIAC)<!-- LASTFM:END -->
+* [ILLIT — Magnetic &lpar;City Night Remix&rpar;](https://www.last.fm/music/ILLIT/_/Magnetic+&lpar;City+Night+Remix&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
