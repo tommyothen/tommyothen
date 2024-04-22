@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LE SSERAFIM — UNFORGIVEN &lpar;feat. Nile Rodgers&rpar;](https://www.last.fm/music/LE+SSERAFIM/_/UNFORGIVEN+&lpar;feat.+Nile+Rodgers&rpar;)
+* [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)
+* [NMIXX — DASH](https://www.last.fm/music/NMIXX/_/DASH)
 * [NewJeans — Hurt](https://www.last.fm/music/NewJeans/_/Hurt)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [aespa — YEPPI YEPPI](https://www.last.fm/music/aespa/_/YEPPI+YEPPI)
-* [LE SSERAFIM — ANTIFRAGILE](https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE)
-* [NMIXX — DICE](https://www.last.fm/music/NMIXX/_/DICE)<!-- LASTFM:END -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
