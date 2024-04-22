@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Red Velvet — 러시안 룰렛 Russian Roulette](https://www.last.fm/music/Red+Velvet/_/%EB%9F%AC%EC%8B%9C%EC%95%88+%EB%A3%B0%EB%A0%9B+Russian+Roulette)
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
 * [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
-* [MAX — STUPID IN LOVE &lpar;feat. HUH YUNJIN of LE SSERAFIM&rpar;](https://www.last.fm/music/MAX/_/STUPID+IN+LOVE+&lpar;feat.+HUH+YUNJIN+of+LE+SSERAFIM&rpar;)
-* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
+* [MAX — STUPID IN LOVE &lpar;feat. HUH YUNJIN of LE SSERAFIM&rpar;](https://www.last.fm/music/MAX/_/STUPID+IN+LOVE+&lpar;feat.+HUH+YUNJIN+of+LE+SSERAFIM&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
