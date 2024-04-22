@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zion.T — V &lpar;Peace&rpar; &lpar;feat. AKMU&rpar;](https://www.last.fm/music/Zion.T/_/V+&lpar;Peace&rpar;+&lpar;feat.+AKMU&rpar;)
+* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [Kiss of Life — Midas Touch](https://www.last.fm/music/Kiss+of+Life/_/Midas+Touch)
 * [aespa — Lucid Dream](https://www.last.fm/music/aespa/_/Lucid+Dream)
-* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [Illit — Lucky Girl Syndrome](https://www.last.fm/music/Illit/_/Lucky+Girl+Syndrome)
-* [Illit — Midnight Fiction](https://www.last.fm/music/Illit/_/Midnight+Fiction)<!-- LASTFM:END -->
+* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
