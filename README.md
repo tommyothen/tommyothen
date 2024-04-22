@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IVE — Baddie](https://www.last.fm/music/IVE/_/Baddie)
+* [ILLIT — Magnetic &lpar;City Night Remix&rpar;](https://www.last.fm/music/ILLIT/_/Magnetic+&lpar;City+Night+Remix&rpar;)
 * [Tabber — Chi-Ka](https://www.last.fm/music/Tabber/_/Chi-Ka)
 * [LE SSERAFIM — EASY](https://www.last.fm/music/LE+SSERAFIM/_/EASY)
-* [VIVIZ — MANIAC](https://www.last.fm/music/VIVIZ/_/MANIAC)
-* [Zion.T — V &lpar;Peace&rpar; &lpar;feat. AKMU&rpar;](https://www.last.fm/music/Zion.T/_/V+&lpar;Peace&rpar;+&lpar;feat.+AKMU&rpar;)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)<!-- LASTFM:END -->
+* [VIVIZ — MANIAC](https://www.last.fm/music/VIVIZ/_/MANIAC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
