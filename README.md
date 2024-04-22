@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Seori — 긴 밤 &lpar;feat. GIRIBOY&rpar;](https://www.last.fm/music/Seori/_/%EA%B8%B4+%EB%B0%A4+&lpar;feat.+GIRIBOY&rpar;)
+* [IVE — Off the Record](https://www.last.fm/music/IVE/_/Off+the+Record)
 * [LE SSERAFIM — Swan Song](https://www.last.fm/music/LE+SSERAFIM/_/Swan+Song)
 * [Wonder Girls — Tell Me](https://www.last.fm/music/Wonder+Girls/_/Tell+Me)
-* [aespa — Drama](https://www.last.fm/music/aespa/_/Drama)
-* [IVE — OTT](https://www.last.fm/music/IVE/_/OTT)
-* [YOUNG POSSE — XXL](https://www.last.fm/music/YOUNG+POSSE/_/XXL)<!-- LASTFM:END -->
+* [aespa — Drama](https://www.last.fm/music/aespa/_/Drama)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
