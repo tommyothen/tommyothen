@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [aespa — Drama](https://www.last.fm/music/aespa/_/Drama)
+* [IVE — OTT](https://www.last.fm/music/IVE/_/OTT)
 * [YOUNG POSSE — XXL](https://www.last.fm/music/YOUNG+POSSE/_/XXL)
 * [Kiss Of Life — Sugarcoat &lpar;NATTY Solo&rpar;](https://www.last.fm/music/Kiss+Of+Life/_/Sugarcoat+&lpar;NATTY+Solo&rpar;)
-* [LE SSERAFIM — Eve, Psyche &amp; The Bluebeard’s wife](https://www.last.fm/music/LE+SSERAFIM/_/Eve,+Psyche+&amp;+The+Bluebeard%E2%80%99s+wife)
-* [NewJeans — Cool With You](https://www.last.fm/music/NewJeans/_/Cool+With+You)
-* [aespa — aenergy](https://www.last.fm/music/aespa/_/aenergy)<!-- LASTFM:END -->
+* [LE SSERAFIM — Eve, Psyche &amp; The Bluebeard’s wife](https://www.last.fm/music/LE+SSERAFIM/_/Eve,+Psyche+&amp;+The+Bluebeard%E2%80%99s+wife)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
