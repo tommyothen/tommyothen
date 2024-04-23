@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)
 * [Illit — Lucky Girl Syndrome](https://www.last.fm/music/Illit/_/Lucky+Girl+Syndrome)
 * [Illit — Midnight Fiction](https://www.last.fm/music/Illit/_/Midnight+Fiction)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Prismo — Too Close](https://www.last.fm/music/Prismo/_/Too+Close)<!-- LASTFM:END -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
