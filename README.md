@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)
+* [Periphery — 22 Faces](https://www.last.fm/music/Periphery/_/22+Faces)
 * [Periphery — Alpha](https://www.last.fm/music/Periphery/_/Alpha)
 * [Periphery — The Scourge](https://www.last.fm/music/Periphery/_/The+Scourge)
-* [Periphery — The Event](https://www.last.fm/music/Periphery/_/The+Event)
-* [Periphery — Heavy Heart](https://www.last.fm/music/Periphery/_/Heavy+Heart)
-* [Periphery — MK Ultra](https://www.last.fm/music/Periphery/_/MK+Ultra)<!-- LASTFM:END -->
+* [Periphery — The Event](https://www.last.fm/music/Periphery/_/The+Event)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
