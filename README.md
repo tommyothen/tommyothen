@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [knowmadic — Fade](https://www.last.fm/music/knowmadic/_/Fade)
+* [JID — Workin Out](https://www.last.fm/music/JID/_/Workin+Out)
 * [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
 * [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Periphery — Scarlet](https://www.last.fm/music/Periphery/_/Scarlet)<!-- LASTFM:END -->
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
