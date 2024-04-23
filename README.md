@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)
+* [Periphery — 22 Faces](https://www.last.fm/music/Periphery/_/22+Faces)
 * [Suriel Hess — Hurt Me](https://www.last.fm/music/Suriel+Hess/_/Hurt+Me)
 * [Rings of Saturn — No Pity For A Coward](https://www.last.fm/music/Rings+of+Saturn/_/No+Pity+For+A+Coward)
-* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)
-* [Rings of Saturn — Senseless Massacre](https://www.last.fm/music/Rings+of+Saturn/_/Senseless+Massacre)
-* [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)<!-- LASTFM:END -->
+* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
