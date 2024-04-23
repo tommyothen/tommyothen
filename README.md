@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
+* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Periphery — Psychosphere](https://www.last.fm/music/Periphery/_/Psychosphere)
-* [Periphery — Four Lights](https://www.last.fm/music/Periphery/_/Four+Lights)
-* [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)<!-- LASTFM:END -->
+* [Periphery — Psychosphere](https://www.last.fm/music/Periphery/_/Psychosphere)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
