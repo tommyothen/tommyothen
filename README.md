@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)
+* [Rings of Saturn — Senseless Massacre](https://www.last.fm/music/Rings+of+Saturn/_/Senseless+Massacre)
 * [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)
 * [Illit — Lucky Girl Syndrome](https://www.last.fm/music/Illit/_/Lucky+Girl+Syndrome)
-* [Illit — Midnight Fiction](https://www.last.fm/music/Illit/_/Midnight+Fiction)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
+* [Illit — Midnight Fiction](https://www.last.fm/music/Illit/_/Midnight+Fiction)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
