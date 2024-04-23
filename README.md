@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Periphery — Heavy Heart](https://www.last.fm/music/Periphery/_/Heavy+Heart)
+* [Periphery — MK Ultra](https://www.last.fm/music/Periphery/_/MK+Ultra)
 * [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)
 * [Periphery — Marigold](https://www.last.fm/music/Periphery/_/Marigold)
-* [Periphery — Stranger Things](https://www.last.fm/music/Periphery/_/Stranger+Things)
-* [Periphery — Omega](https://www.last.fm/music/Periphery/_/Omega)
-* [Periphery — Hell Below](https://www.last.fm/music/Periphery/_/Hell+Below)<!-- LASTFM:END -->
+* [Periphery — Stranger Things](https://www.last.fm/music/Periphery/_/Stranger+Things)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
