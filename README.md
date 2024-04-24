@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
 * [Caroline Polachek — So Hot You&#39;re Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
 * [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
+* [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
