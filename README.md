@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
+* [Billie Eilish — xanny](https://www.last.fm/music/Billie+Eilish/_/xanny)
 * [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
 * [Eden — sex](https://www.last.fm/music/Eden/_/sex)
-* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
-* [Caroline Polachek — So Hot You&#39;re Hurting My Feelings](https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings)
-* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)<!-- LASTFM:END -->
+* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
