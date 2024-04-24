@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)
+* [Periphery — 22 Faces](https://www.last.fm/music/Periphery/_/22+Faces)
 * [Periphery — Alpha](https://www.last.fm/music/Periphery/_/Alpha)
 * [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)
-* [Sabaton — Night Witches](https://www.last.fm/music/Sabaton/_/Night+Witches)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)<!-- LASTFM:END -->
+* [Sabaton — Night Witches](https://www.last.fm/music/Sabaton/_/Night+Witches)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
