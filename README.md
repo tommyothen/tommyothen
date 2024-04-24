@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eery — her](https://www.last.fm/music/Eery/_/her)
+* [Rina Sawayama — Flicker](https://www.last.fm/music/Rina+Sawayama/_/Flicker)
+* [Axiliya — Ride](https://www.last.fm/music/Axiliya/_/Ride)
 * [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Billie Eilish — xanny](https://www.last.fm/music/Billie+Eilish/_/xanny)
-* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
-* [Eden — sex](https://www.last.fm/music/Eden/_/sex)<!-- LASTFM:END -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
