@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
+* [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)
-* [Periphery — 22 Faces](https://www.last.fm/music/Periphery/_/22+Faces)
-* [Periphery — Alpha](https://www.last.fm/music/Periphery/_/Alpha)<!-- LASTFM:END -->
+* [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
