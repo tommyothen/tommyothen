@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)
 * [Sabaton — Night Witches](https://www.last.fm/music/Sabaton/_/Night+Witches)
 * [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
 * [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)
-* [Suriel Hess — The Line](https://www.last.fm/music/Suriel+Hess/_/The+Line)
-* [Camellia — &lpar;The&rpar; Red * Room](https://www.last.fm/music/Camellia/_/&lpar;The&rpar;+Red+*+Room)<!-- LASTFM:END -->
+* [Suriel Hess — The Line](https://www.last.fm/music/Suriel+Hess/_/The+Line)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
