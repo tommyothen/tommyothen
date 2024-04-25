@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [D-Real [愛] — Nerd Won&#39;t Stop](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Nerd+Won%27t+Stop)
+* [FEDUK — Ретро пати](https://www.last.fm/music/FEDUK/_/%D0%A0%D0%B5%D1%82%D1%80%D0%BE+%D0%BF%D0%B0%D1%82%D0%B8)
+* [slushii — WALLS](https://www.last.fm/music/slushii/_/WALLS)
 * [A D M B — Just A Day](https://www.last.fm/music/A+D+M+B/_/Just+A+Day)
-* [Josh A — Tilted Towers](https://www.last.fm/music/Josh+A/_/Tilted+Towers)
-* [FEDUK — Наш остров &lpar;feat. Garri Vu&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B0%D1%88+%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2+&lpar;feat.+Garri+Vu&rpar;)
-* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
-* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)<!-- LASTFM:END -->
+* [Josh A — Tilted Towers](https://www.last.fm/music/Josh+A/_/Tilted+Towers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
