@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
+* [Gigi D&#39;Agostino — L&#39;Amour Toujours](https://www.last.fm/music/Gigi+D%27Agostino/_/L%27Amour+Toujours)
 * [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)
 * [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
+* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
