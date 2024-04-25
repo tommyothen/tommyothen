@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [A D M B — Just A Day](https://www.last.fm/music/A+D+M+B/_/Just+A+Day)
+* [Josh A — Tilted Towers](https://www.last.fm/music/Josh+A/_/Tilted+Towers)
 * [FEDUK — Наш остров &lpar;feat. Garri Vu&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B0%D1%88+%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2+&lpar;feat.+Garri+Vu&rpar;)
 * [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
-* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
-* [MAX — Blueberry Eyes &lpar;feat. SUGA of BTS&rpar;](https://www.last.fm/music/MAX/_/Blueberry+Eyes+&lpar;feat.+SUGA+of+BTS&rpar;)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
+* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
