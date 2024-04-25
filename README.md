@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)
-* [GNB CHILI — Failan](https://www.last.fm/music/GNB+CHILI/_/Failan)
-* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
-* [Kobaryo — Tool-Assisted Speedcore &lpar;TQBF Frame Advance RMX&rpar;](https://www.last.fm/music/Kobaryo/_/Tool-Assisted+Speedcore+&lpar;TQBF+Frame+Advance+RMX&rpar;)
-* [TOKYOPILL — WISH](https://www.last.fm/music/TOKYOPILL/_/WISH)<!-- LASTFM:END -->
+* [TOKYOPILL — T O K Y O F R U I T !](https://www.last.fm/music/TOKYOPILL/_/T+O+K+Y+O+F+R+U+I+T+!)
+* [Snafu — fkn sucks](https://www.last.fm/music/Snafu/_/fkn+sucks)
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
+* [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
