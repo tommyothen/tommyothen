@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
+* [MAX — Blueberry Eyes &lpar;feat. SUGA of BTS&rpar;](https://www.last.fm/music/MAX/_/Blueberry+Eyes+&lpar;feat.+SUGA+of+BTS&rpar;)
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [Kanye West — Lift Yourself](https://www.last.fm/music/Kanye+West/_/Lift+Yourself)
-* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
-* [L.Dre — Across the Country](https://www.last.fm/music/L.Dre/_/Across+the+Country)
-* [o k h o — Espresso](https://www.last.fm/music/o+k+h+o/_/Espresso)
-* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)<!-- LASTFM:END -->
+* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
