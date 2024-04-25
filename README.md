@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [swimswim — Pier 34](https://www.last.fm/music/swimswim/_/Pier+34)
-* [boy 2000 — zero](https://www.last.fm/music/boy+2000/_/zero)
-* [Acidgvrl — I Wanna Be a Breakcore Cowboy](https://www.last.fm/music/Acidgvrl/_/I+Wanna+Be+a+Breakcore+Cowboy)
-* [Vertigoaway — CURSD EXPOR](https://www.last.fm/music/Vertigoaway/_/CURSD+EXPOR)
-* [Mayo. — Lost](https://www.last.fm/music/Mayo./_/Lost)<!-- LASTFM:END -->
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
+* [Mayo. — Ascension](https://www.last.fm/music/Mayo./_/Ascension)
+* [Ftlframe — Lucy&#39;s Revenge](https://www.last.fm/music/Ftlframe/_/Lucy%27s+Revenge)
+* [Black Balloons — EMERALD HANDS](https://www.last.fm/music/Black+Balloons/_/EMERALD+HANDS)
+* [swimswim — Pier 34](https://www.last.fm/music/swimswim/_/Pier+34)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
