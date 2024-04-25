@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Starjunk 95 — Subsonic Twilight](https://www.last.fm/music/Starjunk+95/_/Subsonic+Twilight)
-* [Starjunk 95 — Grimestar](https://www.last.fm/music/Starjunk+95/_/Grimestar)
-* [TOKYOPILL — Pink Blood +](https://www.last.fm/music/TOKYOPILL/_/Pink+Blood+%252B)
-* [sienna sleep — 72.8](https://www.last.fm/music/sienna+sleep/_/72.8)
-* [Adolf Nomura — BEAT THE POLICE](https://www.last.fm/music/Adolf+Nomura/_/BEAT+THE+POLICE)<!-- LASTFM:END -->
+* [MIMIDEATH — Yoooooooooo](https://www.last.fm/music/MIMIDEATH/_/Yoooooooooo)
+* [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)
+* [kosu. — gamu.](https://www.last.fm/music/kosu./_/gamu.)
+* [purity filter — Lost Silver](https://www.last.fm/music/purity+filter/_/Lost+Silver)
+* [TOKYOPILL — ONLINE INDUCED HIGH](https://www.last.fm/music/TOKYOPILL/_/ONLINE+INDUCED+HIGH)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
