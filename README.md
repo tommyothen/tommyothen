@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [o k h o — Espresso](https://www.last.fm/music/o+k+h+o/_/Espresso)
+* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
+* [bbno$ — coasting](https://www.last.fm/music/bbno$/_/coasting)
 * [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
-* [Rainych — Say So - Japanese Version](https://www.last.fm/music/Rainych/_/Say+So+-+Japanese+Version)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [Ramirez — Glitter &amp; Gold](https://www.last.fm/music/Ramirez/_/Glitter+&amp;+Gold)
-* [TERROR REID — DEAD TO ME](https://www.last.fm/music/TERROR+REID/_/DEAD+TO+ME)<!-- LASTFM:END -->
+* [Rainych — Say So - Japanese Version](https://www.last.fm/music/Rainych/_/Say+So+-+Japanese+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
