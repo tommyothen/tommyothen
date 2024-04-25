@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BROCKHAMPTON — ZIPPER](https://www.last.fm/music/BROCKHAMPTON/_/ZIPPER)
+* [Moow — Reconcilation](https://www.last.fm/music/Moow/_/Reconcilation)
+* [luvbird — Dawn Amble](https://www.last.fm/music/luvbird/_/Dawn+Amble)
 * [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
-* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
-* [Yung Gravy — Knockout](https://www.last.fm/music/Yung+Gravy/_/Knockout)
-* [D-Real [愛] — Nerd Won&#39;t Stop](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Nerd+Won%27t+Stop)
-* [FEDUK — Ретро пати](https://www.last.fm/music/FEDUK/_/%D0%A0%D0%B5%D1%82%D1%80%D0%BE+%D0%BF%D0%B0%D1%82%D0%B8)<!-- LASTFM:END -->
+* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
