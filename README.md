@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GOLEMM — Brain Slushie](https://www.last.fm/music/GOLEMM/_/Brain+Slushie)
-* [Vertigoaway — AM FM](https://www.last.fm/music/Vertigoaway/_/AM+FM)
-* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
-* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)<!-- LASTFM:END -->
+* [Mayo. — Lost](https://www.last.fm/music/Mayo./_/Lost)
+* [Aeriu Ika — Fata Morgana](https://www.last.fm/music/Aeriu+Ika/_/Fata+Morgana)
+* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
+* [strxwberrymilk — I&#39;ll Go Home Then - Radio Edit](https://www.last.fm/music/strxwberrymilk/_/I%27ll+Go+Home+Then+-+Radio+Edit)
+* [GOLEMM — Brain Slushie](https://www.last.fm/music/GOLEMM/_/Brain+Slushie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
