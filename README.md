@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kanye West — Lift Yourself](https://www.last.fm/music/Kanye+West/_/Lift+Yourself)
 * [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
 * [L.Dre — Across the Country](https://www.last.fm/music/L.Dre/_/Across+the+Country)
 * [o k h o — Espresso](https://www.last.fm/music/o+k+h+o/_/Espresso)
-* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
-* [bbno$ — coasting](https://www.last.fm/music/bbno$/_/coasting)<!-- LASTFM:END -->
+* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
