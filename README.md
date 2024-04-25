@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)
-* [Jupiluxe — JetSetGo](https://www.last.fm/music/Jupiluxe/_/JetSetGo)
-* [SAGEISKAMI — GUNMA / BLOTTTER](https://www.last.fm/music/SAGEISKAMI/_/GUNMA+%2F+BLOTTTER)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)<!-- LASTFM:END -->
+* [Yion — Girls Just Want Breaks &lpar;yion-flip&rpar;](https://www.last.fm/music/Yion/_/Girls+Just+Want+Breaks+&lpar;yion-flip&rpar;)
+* [Irelia — goodbye_4ever](https://www.last.fm/music/Irelia/_/goodbye_4ever)
+* [3mouth — Ulala And Purge](https://www.last.fm/music/3mouth/_/Ulala+And+Purge)
+* [KENTENSHI — GO-GO](https://www.last.fm/music/KENTENSHI/_/GO-GO)
+* [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
