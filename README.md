@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
+* [Shakewell — Sobriety](https://www.last.fm/music/Shakewell/_/Sobriety)
 * [elijah who — my new love](https://www.last.fm/music/elijah+who/_/my+new+love)
 * [gianni &amp; kyle — fuckboi](https://www.last.fm/music/gianni+&amp;+kyle/_/fuckboi)
-* [Guardin — creature - Sawce Remix](https://www.last.fm/music/Guardin/_/creature+-+Sawce+Remix)
-* [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
+* [Guardin — creature - Sawce Remix](https://www.last.fm/music/Guardin/_/creature+-+Sawce+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
