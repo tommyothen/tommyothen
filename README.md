@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
+* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
 * [MIMIDEATH — Yoooooooooo](https://www.last.fm/music/MIMIDEATH/_/Yoooooooooo)
 * [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)
-* [kosu. — gamu.](https://www.last.fm/music/kosu./_/gamu.)
-* [purity filter — Lost Silver](https://www.last.fm/music/purity+filter/_/Lost+Silver)
-* [TOKYOPILL — ONLINE INDUCED HIGH](https://www.last.fm/music/TOKYOPILL/_/ONLINE+INDUCED+HIGH)<!-- LASTFM:END -->
+* [kosu. — gamu.](https://www.last.fm/music/kosu./_/gamu.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
