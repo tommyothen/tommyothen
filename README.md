@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mayo. — Lost](https://www.last.fm/music/Mayo./_/Lost)
-* [Aeriu Ika — Fata Morgana](https://www.last.fm/music/Aeriu+Ika/_/Fata+Morgana)
-* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
-* [strxwberrymilk — I&#39;ll Go Home Then - Radio Edit](https://www.last.fm/music/strxwberrymilk/_/I%27ll+Go+Home+Then+-+Radio+Edit)
-* [GOLEMM — Brain Slushie](https://www.last.fm/music/GOLEMM/_/Brain+Slushie)<!-- LASTFM:END -->
+* [swimswim — Pier 34](https://www.last.fm/music/swimswim/_/Pier+34)
+* [boy 2000 — zero](https://www.last.fm/music/boy+2000/_/zero)
+* [Acidgvrl — I Wanna Be a Breakcore Cowboy](https://www.last.fm/music/Acidgvrl/_/I+Wanna+Be+a+Breakcore+Cowboy)
+* [Vertigoaway — CURSD EXPOR](https://www.last.fm/music/Vertigoaway/_/CURSD+EXPOR)
+* [Mayo. — Lost](https://www.last.fm/music/Mayo./_/Lost)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
