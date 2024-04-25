@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Desired — Sunshine City](https://www.last.fm/music/Desired/_/Sunshine+City)
+* [Block B — 난리나](https://www.last.fm/music/Block+B/_/%EB%82%9C%EB%A6%AC%EB%82%98)
 * [Ricky Montgomery — Line Without a Hook &lpar;feat. mxmtoon&rpar;](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+&lpar;feat.+mxmtoon&rpar;)
 * [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
-* [Shakewell — Sobriety](https://www.last.fm/music/Shakewell/_/Sobriety)
-* [elijah who — my new love](https://www.last.fm/music/elijah+who/_/my+new+love)
-* [gianni &amp; kyle — fuckboi](https://www.last.fm/music/gianni+&amp;+kyle/_/fuckboi)<!-- LASTFM:END -->
+* [Shakewell — Sobriety](https://www.last.fm/music/Shakewell/_/Sobriety)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
