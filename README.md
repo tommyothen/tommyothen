@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
 * [Ramirez — Glitter &amp; Gold](https://www.last.fm/music/Ramirez/_/Glitter+&amp;+Gold)
 * [TERROR REID — DEAD TO ME](https://www.last.fm/music/TERROR+REID/_/DEAD+TO+ME)
 * [Lesha Svik — Светофоры](https://www.last.fm/music/Lesha+Svik/_/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D1%84%D0%BE%D1%80%D1%8B)
-* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)
-* [Gigi D&#39;Agostino — L&#39;Amour Toujours](https://www.last.fm/music/Gigi+D%27Agostino/_/L%27Amour+Toujours)<!-- LASTFM:END -->
+* [BLACKPINK — BOOMBAYAH](https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
