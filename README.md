@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ftlframe — 707](https://www.last.fm/music/Ftlframe/_/707)
+* [Trashiii — Elysium Alps](https://www.last.fm/music/Trashiii/_/Elysium+Alps)
+* [Starjunk 95 — Dozing Off Again... - House Edit](https://www.last.fm/music/Starjunk+95/_/Dozing+Off+Again...+-+House+Edit)
 * [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [Mayo. — Ascension](https://www.last.fm/music/Mayo./_/Ascension)
-* [Ftlframe — Lucy&#39;s Revenge](https://www.last.fm/music/Ftlframe/_/Lucy%27s+Revenge)
-* [Black Balloons — EMERALD HANDS](https://www.last.fm/music/Black+Balloons/_/EMERALD+HANDS)
-* [swimswim — Pier 34](https://www.last.fm/music/swimswim/_/Pier+34)<!-- LASTFM:END -->
+* [Mayo. — Ascension](https://www.last.fm/music/Mayo./_/Ascension)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
