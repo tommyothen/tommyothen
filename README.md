@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Dead Memories](https://www.last.fm/music/Slipknot/_/Dead+Memories)
 * [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
 * [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)
 * [TWICE — SIGNAL - Japanese ver.](https://www.last.fm/music/TWICE/_/SIGNAL+-+Japanese+ver.)
-* [BROCKHAMPTON — 1999 WILDFIRE](https://www.last.fm/music/BROCKHAMPTON/_/1999+WILDFIRE)
-* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)<!-- LASTFM:END -->
+* [BROCKHAMPTON — 1999 WILDFIRE](https://www.last.fm/music/BROCKHAMPTON/_/1999+WILDFIRE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
