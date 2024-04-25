@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
-* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
-* [MIMIDEATH — Yoooooooooo](https://www.last.fm/music/MIMIDEATH/_/Yoooooooooo)
-* [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)
-* [kosu. — gamu.](https://www.last.fm/music/kosu./_/gamu.)<!-- LASTFM:END -->
+* [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)
+* [EgoFear — Friday Nights at Cyberia](https://www.last.fm/music/EgoFear/_/Friday+Nights+at+Cyberia)
+* [purity filter — takemeawaypls.wav &lpar;INTO THE NIGHTCORE&rpar;](https://www.last.fm/music/purity+filter/_/takemeawaypls.wav+&lpar;INTO+THE+NIGHTCORE&rpar;)
+* [fkbambam — HARDCORE](https://www.last.fm/music/fkbambam/_/HARDCORE)
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
