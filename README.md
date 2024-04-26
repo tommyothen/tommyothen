@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loompaskettee — skettee riddim - VIP VIP VIP VIP](https://www.last.fm/music/Loompaskettee/_/skettee+riddim+-+VIP+VIP+VIP+VIP)
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [maniken05 — we lit](https://www.last.fm/music/maniken05/_/we+lit)
 * [Anthony1 — Sveiki](https://www.last.fm/music/Anthony1/_/Sveiki)
-* [Nazaar — Shadows - BEL AIR WITCH Remix](https://www.last.fm/music/Nazaar/_/Shadows+-+BEL+AIR+WITCH+Remix)
-* [Hommarju — Demon&#39;s Rave](https://www.last.fm/music/Hommarju/_/Demon%27s+Rave)
-* [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)<!-- LASTFM:END -->
+* [Nazaar — Shadows - BEL AIR WITCH Remix](https://www.last.fm/music/Nazaar/_/Shadows+-+BEL+AIR+WITCH+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
