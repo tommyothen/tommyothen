@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Acidgvrl — breakcore vaporwave](https://www.last.fm/music/Acidgvrl/_/breakcore+vaporwave)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
-* [TOKYOPILL — T O K Y O F R U I T !](https://www.last.fm/music/TOKYOPILL/_/T+O+K+Y+O+F+R+U+I+T+!)
-* [Kobaryo — Tool-Assisted Speedcore &lpar;TQBF Frame Advance RMX&rpar;](https://www.last.fm/music/Kobaryo/_/Tool-Assisted+Speedcore+&lpar;TQBF+Frame+Advance+RMX&rpar;)
-* [TOKYOPILL — Pink Blood +](https://www.last.fm/music/TOKYOPILL/_/Pink+Blood+%252B)<!-- LASTFM:END -->
+* [strxwberrymilk — I&#39;ll Go Home Then - Radio Edit](https://www.last.fm/music/strxwberrymilk/_/I%27ll+Go+Home+Then+-+Radio+Edit)
+* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
+* [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)
+* [Vertigoaway — YIP!](https://www.last.fm/music/Vertigoaway/_/YIP!)
+* [Acidgvrl — breakcore vaporwave](https://www.last.fm/music/Acidgvrl/_/breakcore+vaporwave)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
