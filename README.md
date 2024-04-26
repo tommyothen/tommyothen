@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [purity filter — Chrysalis](https://www.last.fm/music/purity+filter/_/Chrysalis)
 * [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
-* [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)
-* [Ftlframe — 707](https://www.last.fm/music/Ftlframe/_/707)<!-- LASTFM:END -->
+* [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
