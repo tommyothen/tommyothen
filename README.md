@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
-* [Black Balloons — EMERALD HANDS](https://www.last.fm/music/Black+Balloons/_/EMERALD+HANDS)
-* [Trashiii — Snowdream](https://www.last.fm/music/Trashiii/_/Snowdream)
-* [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
-* [GOLEMM — Villfarelse](https://www.last.fm/music/GOLEMM/_/Villfarelse)<!-- LASTFM:END -->
+* [Otira — Black Dog](https://www.last.fm/music/Otira/_/Black+Dog)
+* [Otira — Believe In Yourself](https://www.last.fm/music/Otira/_/Believe+In+Yourself)
+* [hxly xo — Midnight](https://www.last.fm/music/hxly+xo/_/Midnight)
+* [Mayo. — Marauding](https://www.last.fm/music/Mayo./_/Marauding)
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
