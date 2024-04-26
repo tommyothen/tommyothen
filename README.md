@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Otira — Black Dog](https://www.last.fm/music/Otira/_/Black+Dog)
-* [Otira — Believe In Yourself](https://www.last.fm/music/Otira/_/Believe+In+Yourself)
-* [hxly xo — Midnight](https://www.last.fm/music/hxly+xo/_/Midnight)
-* [Mayo. — Marauding](https://www.last.fm/music/Mayo./_/Marauding)
-* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)<!-- LASTFM:END -->
+* [Vani Lechner — Licht](https://www.last.fm/music/Vani+Lechner/_/Licht)
+* [Otira — Hardcore Sound](https://www.last.fm/music/Otira/_/Hardcore+Sound)
+* [Otira — Flying High](https://www.last.fm/music/Otira/_/Flying+High)
+* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
+* [Otira — Black Dog](https://www.last.fm/music/Otira/_/Black+Dog)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
