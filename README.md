@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [maniken05 — we lit](https://www.last.fm/music/maniken05/_/we+lit)
+* [Anthony1 — Sveiki](https://www.last.fm/music/Anthony1/_/Sveiki)
 * [Nazaar — Shadows - BEL AIR WITCH Remix](https://www.last.fm/music/Nazaar/_/Shadows+-+BEL+AIR+WITCH+Remix)
 * [Hommarju — Demon&#39;s Rave](https://www.last.fm/music/Hommarju/_/Demon%27s+Rave)
-* [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)
-* [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)
-* [Anthony1 — Change](https://www.last.fm/music/Anthony1/_/Change)<!-- LASTFM:END -->
+* [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
