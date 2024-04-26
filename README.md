@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [3mouth — Ulala And Purge](https://www.last.fm/music/3mouth/_/Ulala+And+Purge)
-* [purity filter — Lost Silver](https://www.last.fm/music/purity+filter/_/Lost+Silver)
-* [TOKYOPILL — WISH](https://www.last.fm/music/TOKYOPILL/_/WISH)
-* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
-* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)<!-- LASTFM:END -->
+* [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
+* [KENTENSHI — GO-GO](https://www.last.fm/music/KENTENSHI/_/GO-GO)
+* [Yion — Girls Just Want Breaks &lpar;yion-flip&rpar;](https://www.last.fm/music/Yion/_/Girls+Just+Want+Breaks+&lpar;yion-flip&rpar;)
+* [Vertigoaway — MAGI Alert](https://www.last.fm/music/Vertigoaway/_/MAGI+Alert)
+* [Meganeko — Feral](https://www.last.fm/music/Meganeko/_/Feral)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
