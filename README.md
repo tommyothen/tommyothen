@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TOKYOPILL — WISH](https://www.last.fm/music/TOKYOPILL/_/WISH)
+* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
 * [GNB CHILI — Failan](https://www.last.fm/music/GNB+CHILI/_/Failan)
-* [Snafu — fkn sucks](https://www.last.fm/music/Snafu/_/fkn+sucks)
-* [fkbambam — HARDCORE](https://www.last.fm/music/fkbambam/_/HARDCORE)
-* [evaboy — is there a point &lpar;girl u know&rpar;](https://www.last.fm/music/evaboy/_/is+there+a+point+&lpar;girl+u+know&rpar;)
-* [Irelia — goodbye_4ever](https://www.last.fm/music/Irelia/_/goodbye_4ever)<!-- LASTFM:END -->
+* [Snafu — fkn sucks](https://www.last.fm/music/Snafu/_/fkn+sucks)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
