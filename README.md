@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
+* [Starjunk 95 — Virtual Paradise](https://www.last.fm/music/Starjunk+95/_/Virtual+Paradise)
 * [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
 * [Starjunk 95 — Subsonic Twilight](https://www.last.fm/music/Starjunk+95/_/Subsonic+Twilight)
-* [Pisca — ULTRAVIOLENCE](https://www.last.fm/music/Pisca/_/ULTRAVIOLENCE)
-* [eightiesheadachetape — drift](https://www.last.fm/music/eightiesheadachetape/_/drift)
-* [TOKYOPILL — ONLINE INDUCED HIGH](https://www.last.fm/music/TOKYOPILL/_/ONLINE+INDUCED+HIGH)<!-- LASTFM:END -->
+* [Pisca — ULTRAVIOLENCE](https://www.last.fm/music/Pisca/_/ULTRAVIOLENCE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
