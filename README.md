@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kobaryo — Energy Laser](https://www.last.fm/music/Kobaryo/_/Energy+Laser)
+* [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)
+* [Anthony1 — Change](https://www.last.fm/music/Anthony1/_/Change)
 * [TEKK MANE — Hardtekk Massacre](https://www.last.fm/music/TEKK+MANE/_/Hardtekk+Massacre)
-* [purity filter — railgun lobotomy](https://www.last.fm/music/purity+filter/_/railgun+lobotomy)
-* [Vani Lechner — Licht](https://www.last.fm/music/Vani+Lechner/_/Licht)
-* [Otira — Hardcore Sound](https://www.last.fm/music/Otira/_/Hardcore+Sound)
-* [Otira — Flying High](https://www.last.fm/music/Otira/_/Flying+High)<!-- LASTFM:END -->
+* [purity filter — railgun lobotomy](https://www.last.fm/music/purity+filter/_/railgun+lobotomy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
