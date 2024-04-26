@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TEKK MANE — Hardtekk Massacre](https://www.last.fm/music/TEKK+MANE/_/Hardtekk+Massacre)
+* [purity filter — railgun lobotomy](https://www.last.fm/music/purity+filter/_/railgun+lobotomy)
 * [Vani Lechner — Licht](https://www.last.fm/music/Vani+Lechner/_/Licht)
 * [Otira — Hardcore Sound](https://www.last.fm/music/Otira/_/Hardcore+Sound)
-* [Otira — Flying High](https://www.last.fm/music/Otira/_/Flying+High)
-* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
-* [Otira — Black Dog](https://www.last.fm/music/Otira/_/Black+Dog)<!-- LASTFM:END -->
+* [Otira — Flying High](https://www.last.fm/music/Otira/_/Flying+High)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
