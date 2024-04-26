@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [purity filter — takemeawaypls.wav &lpar;INTO THE NIGHTCORE&rpar;](https://www.last.fm/music/purity+filter/_/takemeawaypls.wav+&lpar;INTO+THE+NIGHTCORE&rpar;)
+* [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)
+* [purity filter — luminescence](https://www.last.fm/music/purity+filter/_/luminescence)
 * [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)
-* [MIMIDEATH — Yoooooooooo](https://www.last.fm/music/MIMIDEATH/_/Yoooooooooo)
-* [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)
-* [Adolf Nomura — BEAT THE POLICE](https://www.last.fm/music/Adolf+Nomura/_/BEAT+THE+POLICE)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)<!-- LASTFM:END -->
+* [MIMIDEATH — Yoooooooooo](https://www.last.fm/music/MIMIDEATH/_/Yoooooooooo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
