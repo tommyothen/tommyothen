@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
+* [maniken05 — we lit](https://www.last.fm/music/maniken05/_/we+lit)
 * [Strontium 9000 — Totally Tranceparant Jungle 2000](https://www.last.fm/music/Strontium+9000/_/Totally+Tranceparant+Jungle+2000)
 * [Jiggo2027 — TERRIF666ECHO](https://www.last.fm/music/Jiggo2027/_/TERRIF666ECHO)
-* [Vieze Asbak — Trein - Bonus Beat](https://www.last.fm/music/Vieze+Asbak/_/Trein+-+Bonus+Beat)
-* [Vieze Asbak — WHATEVER - gladde paling Remix](https://www.last.fm/music/Vieze+Asbak/_/WHATEVER+-+gladde+paling+Remix)
-* [Insulin — Girl you Bad](https://www.last.fm/music/Insulin/_/Girl+you+Bad)<!-- LASTFM:END -->
+* [Vieze Asbak — Trein - Bonus Beat](https://www.last.fm/music/Vieze+Asbak/_/Trein+-+Bonus+Beat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
