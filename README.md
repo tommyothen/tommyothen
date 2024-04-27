@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)
-* [purity filter — takemeawaypls.wav &lpar;INTO THE NIGHTCORE&rpar;](https://www.last.fm/music/purity+filter/_/takemeawaypls.wav+&lpar;INTO+THE+NIGHTCORE&rpar;)
-* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
-* [fkbambam — HARDCORE](https://www.last.fm/music/fkbambam/_/HARDCORE)<!-- LASTFM:END -->
+* [GNB CHILI — Failan](https://www.last.fm/music/GNB+CHILI/_/Failan)
+* [TOKYOPILL — WISH](https://www.last.fm/music/TOKYOPILL/_/WISH)
+* [SAGEISKAMI — GUNMA / BLOTTTER](https://www.last.fm/music/SAGEISKAMI/_/GUNMA+%2F+BLOTTTER)
+* [eightiesheadachetape — drift](https://www.last.fm/music/eightiesheadachetape/_/drift)
+* [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
