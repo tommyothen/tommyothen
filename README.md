@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)
+* [purity filter — takemeawaypls.wav &lpar;INTO THE NIGHTCORE&rpar;](https://www.last.fm/music/purity+filter/_/takemeawaypls.wav+&lpar;INTO+THE+NIGHTCORE&rpar;)
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
 * [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
-* [fkbambam — HARDCORE](https://www.last.fm/music/fkbambam/_/HARDCORE)
-* [Yion — Girls Just Want Breaks &lpar;yion-flip&rpar;](https://www.last.fm/music/Yion/_/Girls+Just+Want+Breaks+&lpar;yion-flip&rpar;)
-* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
-* [Irelia — goodbye_4ever](https://www.last.fm/music/Irelia/_/goodbye_4ever)<!-- LASTFM:END -->
+* [fkbambam — HARDCORE](https://www.last.fm/music/fkbambam/_/HARDCORE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
