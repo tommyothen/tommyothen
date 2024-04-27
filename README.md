@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)
-* [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)
-* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
-* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
+* [3mouth — Ulala And Purge](https://www.last.fm/music/3mouth/_/Ulala+And+Purge)
+* [Jupiluxe — JetSetGo](https://www.last.fm/music/Jupiluxe/_/JetSetGo)
+* [TOKYOPILL — Pink Blood +](https://www.last.fm/music/TOKYOPILL/_/Pink+Blood+%252B)
+* [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
