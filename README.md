@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Adolf Nomura — BEAT THE POLICE](https://www.last.fm/music/Adolf+Nomura/_/BEAT+THE+POLICE)
-* [MIMIDEATH — Yoooooooooo](https://www.last.fm/music/MIMIDEATH/_/Yoooooooooo)
-* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
-* [KENTENSHI — GO-GO](https://www.last.fm/music/KENTENSHI/_/GO-GO)
-* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)<!-- LASTFM:END -->
+* [3mouth — Carrie And Samantha](https://www.last.fm/music/3mouth/_/Carrie+And+Samantha)
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
+* [purity filter — luminescence](https://www.last.fm/music/purity+filter/_/luminescence)
+* [TOKYOPILL — ONLINE INDUCED HIGH](https://www.last.fm/music/TOKYOPILL/_/ONLINE+INDUCED+HIGH)
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
