@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Pisca — ULTRAVIOLENCE](https://www.last.fm/music/Pisca/_/ULTRAVIOLENCE)
-* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [sienna sleep — 72.8](https://www.last.fm/music/sienna+sleep/_/72.8)
-* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
-* [3mouth — Ulala And Purge](https://www.last.fm/music/3mouth/_/Ulala+And+Purge)<!-- LASTFM:END -->
+* [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)
+* [COCKAHOLICS — KETAMINE JUNKIE](https://www.last.fm/music/COCKAHOLICS/_/KETAMINE+JUNKIE)
+* [Snafu — fkn sucks](https://www.last.fm/music/Snafu/_/fkn+sucks)
+* [EgoFear — Friday Nights at Cyberia](https://www.last.fm/music/EgoFear/_/Friday+Nights+at+Cyberia)
+* [Pisca — ULTRAVIOLENCE](https://www.last.fm/music/Pisca/_/ULTRAVIOLENCE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
