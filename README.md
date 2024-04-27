@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
+* [ROY PURDY — Walk It out!](https://www.last.fm/music/ROY+PURDY/_/Walk+It+out!)
+* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
 * [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
-* [maniken05 — we lit](https://www.last.fm/music/maniken05/_/we+lit)
-* [Strontium 9000 — Totally Tranceparant Jungle 2000](https://www.last.fm/music/Strontium+9000/_/Totally+Tranceparant+Jungle+2000)
-* [Jiggo2027 — TERRIF666ECHO](https://www.last.fm/music/Jiggo2027/_/TERRIF666ECHO)
-* [Vieze Asbak — Trein - Bonus Beat](https://www.last.fm/music/Vieze+Asbak/_/Trein+-+Bonus+Beat)<!-- LASTFM:END -->
+* [maniken05 — we lit](https://www.last.fm/music/maniken05/_/we+lit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
