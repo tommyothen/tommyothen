@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
+* [Starjunk 95 — Groove District](https://www.last.fm/music/Starjunk+95/_/Groove+District)
+* [Vertigoaway — AM FM](https://www.last.fm/music/Vertigoaway/_/AM+FM)
 * [3mouth — Carrie And Samantha](https://www.last.fm/music/3mouth/_/Carrie+And+Samantha)
-* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [purity filter — luminescence](https://www.last.fm/music/purity+filter/_/luminescence)
-* [TOKYOPILL — ONLINE INDUCED HIGH](https://www.last.fm/music/TOKYOPILL/_/ONLINE+INDUCED+HIGH)
-* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)<!-- LASTFM:END -->
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
