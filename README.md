@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
+* [kosu. — gamu.](https://www.last.fm/music/kosu./_/gamu.)
 * [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)
-* [COCKAHOLICS — KETAMINE JUNKIE](https://www.last.fm/music/COCKAHOLICS/_/KETAMINE+JUNKIE)
-* [Snafu — fkn sucks](https://www.last.fm/music/Snafu/_/fkn+sucks)
-* [EgoFear — Friday Nights at Cyberia](https://www.last.fm/music/EgoFear/_/Friday+Nights+at+Cyberia)
-* [Pisca — ULTRAVIOLENCE](https://www.last.fm/music/Pisca/_/ULTRAVIOLENCE)<!-- LASTFM:END -->
+* [COCKAHOLICS — KETAMINE JUNKIE](https://www.last.fm/music/COCKAHOLICS/_/KETAMINE+JUNKIE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
