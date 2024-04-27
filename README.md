@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
+* [Frédéric Chopin — Chopin: 12 Études, Op. 25: No. 11 in A Minor &quot;Winter Wind&quot;](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Chopin:+12+%C3%89tudes,+Op.+25:+No.+11+in+A+Minor+%22Winter+Wind%22)
 * [Camille Saint-Saëns — Introduction and Rondo capriccioso in A Minor, Op. 28](https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Introduction+and+Rondo+capriccioso+in+A+Minor,+Op.+28)
 * [Johannes Brahms — Hungarian Dance No. 5](https://www.last.fm/music/Johannes+Brahms/_/Hungarian+Dance+No.+5)
-* [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)
-* [Toshifumi Hinata — Little Rascal &lpar;いたずら天使&rpar; - 2007 ver.](https://www.last.fm/music/Toshifumi+Hinata/_/Little+Rascal+&lpar;%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E5%A4%A9%E4%BD%BF&rpar;+-+2007+ver.)
-* [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)<!-- LASTFM:END -->
+* [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
