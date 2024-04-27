@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vertigoaway — MAGI Alert](https://www.last.fm/music/Vertigoaway/_/MAGI+Alert)
+* [Starjunk 95 — Subsonic Twilight](https://www.last.fm/music/Starjunk+95/_/Subsonic+Twilight)
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
 * [GNB CHILI — Failan](https://www.last.fm/music/GNB+CHILI/_/Failan)
-* [TOKYOPILL — WISH](https://www.last.fm/music/TOKYOPILL/_/WISH)
-* [SAGEISKAMI — GUNMA / BLOTTTER](https://www.last.fm/music/SAGEISKAMI/_/GUNMA+%2F+BLOTTTER)
-* [eightiesheadachetape — drift](https://www.last.fm/music/eightiesheadachetape/_/drift)
-* [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)<!-- LASTFM:END -->
+* [TOKYOPILL — WISH](https://www.last.fm/music/TOKYOPILL/_/WISH)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
