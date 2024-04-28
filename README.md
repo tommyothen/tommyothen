@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
+* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
 * [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
 * [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
-* [Starjunk 95 — Belden Towers](https://www.last.fm/music/Starjunk+95/_/Belden+Towers)
-* [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)
-* [hxly xo — Midnight](https://www.last.fm/music/hxly+xo/_/Midnight)<!-- LASTFM:END -->
+* [Starjunk 95 — Belden Towers](https://www.last.fm/music/Starjunk+95/_/Belden+Towers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
