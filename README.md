@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Starjunk 95 — Belden Towers](https://www.last.fm/music/Starjunk+95/_/Belden+Towers)
 * [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)
 * [hxly xo — Midnight](https://www.last.fm/music/hxly+xo/_/Midnight)
 * [Acidgvrl — sped up breakcore for the alt](https://www.last.fm/music/Acidgvrl/_/sped+up+breakcore+for+the+alt)
-* [Black Balloons — FINAL FANTASY](https://www.last.fm/music/Black+Balloons/_/FINAL+FANTASY)
-* [purity filter — Remnant Syphon](https://www.last.fm/music/purity+filter/_/Remnant+Syphon)<!-- LASTFM:END -->
+* [Black Balloons — FINAL FANTASY](https://www.last.fm/music/Black+Balloons/_/FINAL+FANTASY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
