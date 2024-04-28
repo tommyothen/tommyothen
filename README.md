@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Holy Toast](https://www.last.fm/music/BewhY/_/Holy+Toast)
+* [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
+* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
 * [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
-* [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)
-* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)<!-- LASTFM:END -->
+* [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
