@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
+* [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
 * [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)
-* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)<!-- LASTFM:END -->
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
