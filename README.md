@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Vivian Girl](https://www.last.fm/music/BewhY/_/Vivian+Girl)
 * [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
 * [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)
 * [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)<!-- LASTFM:END -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
