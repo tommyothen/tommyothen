@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
+* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
 * [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
-* [BewhY — Vivian Girl](https://www.last.fm/music/BewhY/_/Vivian+Girl)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)<!-- LASTFM:END -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
+* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
