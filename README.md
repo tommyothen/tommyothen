@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
 * [Rammstein — Ich will](https://www.last.fm/music/Rammstein/_/Ich+will)
 * [Rammstein — Feuer frei!](https://www.last.fm/music/Rammstein/_/Feuer+frei!)
-* [Rammstein — Engel](https://www.last.fm/music/Rammstein/_/Engel)
-* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)
-* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)<!-- LASTFM:END -->
+* [Rammstein — Engel](https://www.last.fm/music/Rammstein/_/Engel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
