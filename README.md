@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)
+* [Ghostemane — 1000 Rounds](https://www.last.fm/music/Ghostemane/_/1000+Rounds)
 * [Trident — Spoopy](https://www.last.fm/music/Trident/_/Spoopy)
 * [Billie Eilish — bad guy](https://www.last.fm/music/Billie+Eilish/_/bad+guy)
-* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
-* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
-* [Ambiguu — Blind](https://www.last.fm/music/Ambiguu/_/Blind)<!-- LASTFM:END -->
+* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
