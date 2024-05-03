@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
+* [Lil Dicky — Professional Rapper &lpar;feat. Snoop Dogg&rpar;](https://www.last.fm/music/Lil+Dicky/_/Professional+Rapper+&lpar;feat.+Snoop+Dogg&rpar;)
 * [Lil Dicky — Professional Rapper &lpar;feat. Snoop Dogg&rpar;](https://www.last.fm/music/Lil+Dicky/_/Professional+Rapper+&lpar;feat.+Snoop+Dogg&rpar;)
 * [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [Rammstein — Ich will](https://www.last.fm/music/Rammstein/_/Ich+will)
-* [Rammstein — Feuer frei!](https://www.last.fm/music/Rammstein/_/Feuer+frei!)<!-- LASTFM:END -->
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
