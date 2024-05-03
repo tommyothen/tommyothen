@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — В своём дворе #2](https://www.last.fm/music/FEDUK/_/%D0%92+%D1%81%D0%B2%D0%BE%D1%91%D0%BC+%D0%B4%D0%B2%D0%BE%D1%80%D0%B5+%232)
+* [23.exe — ochatime](https://www.last.fm/music/23.exe/_/ochatime)
 * [YUNG BAE — Must Be Love](https://www.last.fm/music/YUNG+BAE/_/Must+Be+Love)
 * [Fliptrix — Monday To Sunday](https://www.last.fm/music/Fliptrix/_/Monday+To+Sunday)
-* [Kylie Minogue — Padam Padam](https://www.last.fm/music/Kylie+Minogue/_/Padam+Padam)
-* [Gwen Stefani — The Sweet Escape](https://www.last.fm/music/Gwen+Stefani/_/The+Sweet+Escape)
-* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)<!-- LASTFM:END -->
+* [Kylie Minogue — Padam Padam](https://www.last.fm/music/Kylie+Minogue/_/Padam+Padam)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
