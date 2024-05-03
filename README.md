@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
+* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
 * [Ambiguu — Blind](https://www.last.fm/music/Ambiguu/_/Blind)
 * [Made in M — Pero Asi](https://www.last.fm/music/Made+in+M/_/Pero+Asi)
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
-* [FEDUK — В своём дворе #2](https://www.last.fm/music/FEDUK/_/%D0%92+%D1%81%D0%B2%D0%BE%D1%91%D0%BC+%D0%B4%D0%B2%D0%BE%D1%80%D0%B5+%232)
-* [23.exe — ochatime](https://www.last.fm/music/23.exe/_/ochatime)<!-- LASTFM:END -->
+* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
