@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
