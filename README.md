@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
+* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
+* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
+* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
+* [Conan Gray — Heather](https://www.last.fm/music/Conan+Gray/_/Heather)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
