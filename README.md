@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
-* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)<!-- LASTFM:END -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
