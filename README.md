@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
+* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)
 * [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
 * [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
