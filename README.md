@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
 * [Nicolas Binder — Moment](https://www.last.fm/music/Nicolas+Binder/_/Moment)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
+* [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
