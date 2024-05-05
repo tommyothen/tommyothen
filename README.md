@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Pisca — ULTRAVIOLENCE](https://www.last.fm/music/Pisca/_/ULTRAVIOLENCE)
-* [Irelia — goodbye_4ever](https://www.last.fm/music/Irelia/_/goodbye_4ever)
-* [Yion — Girls Just Want Breaks &lpar;yion-flip&rpar;](https://www.last.fm/music/Yion/_/Girls+Just+Want+Breaks+&lpar;yion-flip&rpar;)
-* [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)
-* [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)<!-- LASTFM:END -->
+* [Starjunk 95 — Grimestar](https://www.last.fm/music/Starjunk+95/_/Grimestar)
+* [TOKYOPILL — Pink Blood +](https://www.last.fm/music/TOKYOPILL/_/Pink+Blood+%252B)
+* [SAGEISKAMI — GUNMA / BLOTTTER](https://www.last.fm/music/SAGEISKAMI/_/GUNMA+%2F+BLOTTTER)
+* [GNB CHILI — Failan](https://www.last.fm/music/GNB+CHILI/_/Failan)
+* [Pisca — ULTRAVIOLENCE](https://www.last.fm/music/Pisca/_/ULTRAVIOLENCE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
