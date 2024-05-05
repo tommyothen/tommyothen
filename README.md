@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Starjunk 95 — Virtual Paradise](https://www.last.fm/music/Starjunk+95/_/Virtual+Paradise)
 * [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
 * [Jupiluxe — JetSetGo](https://www.last.fm/music/Jupiluxe/_/JetSetGo)
 * [Doom Doom — Phantasy Star Online - Doom Mix](https://www.last.fm/music/Doom+Doom/_/Phantasy+Star+Online+-+Doom+Mix)
-* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
-* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)<!-- LASTFM:END -->
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
