@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
+* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Periphery — New Groove - Instrumental](https://www.last.fm/music/Periphery/_/New+Groove+-+Instrumental)
-* [Bulb — Beating a...](https://www.last.fm/music/Bulb/_/Beating+a...)<!-- LASTFM:END -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
