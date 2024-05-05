@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
+* [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [Periphery — New Groove - Instrumental](https://www.last.fm/music/Periphery/_/New+Groove+-+Instrumental)
-* [Bulb — Beating a...](https://www.last.fm/music/Bulb/_/Beating+a...)
-* [Periphery — Psychosphere](https://www.last.fm/music/Periphery/_/Psychosphere)
-* [Periphery — Four Lights](https://www.last.fm/music/Periphery/_/Four+Lights)
-* [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)<!-- LASTFM:END -->
+* [Bulb — Beating a...](https://www.last.fm/music/Bulb/_/Beating+a...)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
