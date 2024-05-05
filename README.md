@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [purity filter — Lost Silver](https://www.last.fm/music/purity+filter/_/Lost+Silver)
+* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
 * [Snafu — fkn sucks](https://www.last.fm/music/Snafu/_/fkn+sucks)
-* [eightiesheadachetape — drift](https://www.last.fm/music/eightiesheadachetape/_/drift)
-* [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
+* [eightiesheadachetape — drift](https://www.last.fm/music/eightiesheadachetape/_/drift)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
