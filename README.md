@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
 * [Starjunk 95 — Grimestar](https://www.last.fm/music/Starjunk+95/_/Grimestar)
 * [TOKYOPILL — Pink Blood +](https://www.last.fm/music/TOKYOPILL/_/Pink+Blood+%252B)
-* [SAGEISKAMI — GUNMA / BLOTTTER](https://www.last.fm/music/SAGEISKAMI/_/GUNMA+%2F+BLOTTTER)
-* [GNB CHILI — Failan](https://www.last.fm/music/GNB+CHILI/_/Failan)
-* [Pisca — ULTRAVIOLENCE](https://www.last.fm/music/Pisca/_/ULTRAVIOLENCE)<!-- LASTFM:END -->
+* [SAGEISKAMI — GUNMA / BLOTTTER](https://www.last.fm/music/SAGEISKAMI/_/GUNMA+%2F+BLOTTTER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
