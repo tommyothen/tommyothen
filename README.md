@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
+* [Camille Saint-Saëns — Introduction and Rondo capriccioso in A Minor, Op. 28](https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Introduction+and+Rondo+capriccioso+in+A+Minor,+Op.+28)
 * [D-Real [愛] — Coast Ghost](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Coast+Ghost)
 * [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
-* [Dreamcatcher — Fly high](https://www.last.fm/music/Dreamcatcher/_/Fly+high)
-* [XXXTENTACION — the remedy for a broken heart &lpar;why am i so in love&rpar;](https://www.last.fm/music/XXXTENTACION/_/the+remedy+for+a+broken+heart+&lpar;why+am+i+so+in+love&rpar;)
-* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)<!-- LASTFM:END -->
+* [Dreamcatcher — Fly high](https://www.last.fm/music/Dreamcatcher/_/Fly+high)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
