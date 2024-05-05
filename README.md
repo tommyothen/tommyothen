@@ -28,9 +28,9 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
+* [Snafu — fkn sucks](https://www.last.fm/music/Snafu/_/fkn+sucks)
+* [eightiesheadachetape — drift](https://www.last.fm/music/eightiesheadachetape/_/drift)
+* [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
 
