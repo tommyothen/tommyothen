@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dreamcatcher — Fly high](https://www.last.fm/music/Dreamcatcher/_/Fly+high)
+* [XXXTENTACION — the remedy for a broken heart &lpar;why am i so in love&rpar;](https://www.last.fm/music/XXXTENTACION/_/the+remedy+for+a+broken+heart+&lpar;why+am+i+so+in+love&rpar;)
 * [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
 * [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
