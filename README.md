@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
