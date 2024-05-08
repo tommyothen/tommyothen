@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mr.Kitty — Destroy Me](https://www.last.fm/music/Mr.Kitty/_/Destroy+Me)
 * [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
 * [Grant — Weapon](https://www.last.fm/music/Grant/_/Weapon)
 * [Ruel — Dazed &amp; Confused](https://www.last.fm/music/Ruel/_/Dazed+&amp;+Confused)
-* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
+* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
