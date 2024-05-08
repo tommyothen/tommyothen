@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vieze Asbak — Trein - Bonus Beat](https://www.last.fm/music/Vieze+Asbak/_/Trein+-+Bonus+Beat)
 * [Anthony1 — Sveiki](https://www.last.fm/music/Anthony1/_/Sveiki)
 * [Daniel Seven — B-Plan &lpar;with Alaguan&rpar;](https://www.last.fm/music/Daniel+Seven/_/B-Plan+&lpar;with+Alaguan&rpar;)
 * [Jiggo2027 — TERRIF666ECHO](https://www.last.fm/music/Jiggo2027/_/TERRIF666ECHO)
-* [Vani Lechner — Licht](https://www.last.fm/music/Vani+Lechner/_/Licht)
-* [maniken05 — we lit](https://www.last.fm/music/maniken05/_/we+lit)<!-- LASTFM:END -->
+* [Vani Lechner — Licht](https://www.last.fm/music/Vani+Lechner/_/Licht)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
