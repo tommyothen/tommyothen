@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Vani Lechner — Licht](https://www.last.fm/music/Vani+Lechner/_/Licht)
+* [maniken05 — we lit](https://www.last.fm/music/maniken05/_/we+lit)
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)
-* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
-* [Gwen Stefani — The Sweet Escape](https://www.last.fm/music/Gwen+Stefani/_/The+Sweet+Escape)
-* [Kylie Minogue — Padam Padam](https://www.last.fm/music/Kylie+Minogue/_/Padam+Padam)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
+* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
