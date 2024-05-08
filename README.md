@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Anthony1 — Sveiki](https://www.last.fm/music/Anthony1/_/Sveiki)
+* [Daniel Seven — B-Plan &lpar;with Alaguan&rpar;](https://www.last.fm/music/Daniel+Seven/_/B-Plan+&lpar;with+Alaguan&rpar;)
+* [Jiggo2027 — TERRIF666ECHO](https://www.last.fm/music/Jiggo2027/_/TERRIF666ECHO)
 * [Vani Lechner — Licht](https://www.last.fm/music/Vani+Lechner/_/Licht)
-* [maniken05 — we lit](https://www.last.fm/music/maniken05/_/we+lit)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)
-* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)<!-- LASTFM:END -->
+* [maniken05 — we lit](https://www.last.fm/music/maniken05/_/we+lit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
