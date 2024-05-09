@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
 * [Vieze Asbak — Trein - Bonus Beat](https://www.last.fm/music/Vieze+Asbak/_/Trein+-+Bonus+Beat)
-* [Anthony1 — Sveiki](https://www.last.fm/music/Anthony1/_/Sveiki)
-* [Daniel Seven — B-Plan &lpar;with Alaguan&rpar;](https://www.last.fm/music/Daniel+Seven/_/B-Plan+&lpar;with+Alaguan&rpar;)<!-- LASTFM:END -->
+* [Anthony1 — Sveiki](https://www.last.fm/music/Anthony1/_/Sveiki)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
