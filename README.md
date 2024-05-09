@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lukey — Starman](https://www.last.fm/music/Lukey/_/Starman)
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
+* [Tiffany Day — YOU&#39;RE SO FUCKING MEAN TO ME](https://www.last.fm/music/Tiffany+Day/_/YOU%27RE+SO+FUCKING+MEAN+TO+ME)
 * [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [Vieze Asbak — Trein - Bonus Beat](https://www.last.fm/music/Vieze+Asbak/_/Trein+-+Bonus+Beat)<!-- LASTFM:END -->
+* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
