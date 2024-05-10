@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Cure — Just Like Heaven](https://www.last.fm/music/The+Cure/_/Just+Like+Heaven)
 * [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
 * [oso oso — all of my love](https://www.last.fm/music/oso+oso/_/all+of+my+love)
 * [Future — Like That](https://www.last.fm/music/Future/_/Like+That)
-* [Kendrick Lamar — Not Like Us](https://www.last.fm/music/Kendrick+Lamar/_/Not+Like+Us)
-* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)<!-- LASTFM:END -->
+* [Kendrick Lamar — Not Like Us](https://www.last.fm/music/Kendrick+Lamar/_/Not+Like+Us)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
