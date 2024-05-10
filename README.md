@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
+* [Infected Mushroom — Spitfire](https://www.last.fm/music/Infected+Mushroom/_/Spitfire)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [XXXTENTACION — Sad!](https://www.last.fm/music/XXXTENTACION/_/Sad!)
-* [Gorillaz — Feel Good Inc.](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.)
-* [Madcon — Beggin &lpar;Original Version&rpar;](https://www.last.fm/music/Madcon/_/Beggin+&lpar;Original+Version&rpar;)
-* [Modern Baseball — Your Graduation](https://www.last.fm/music/Modern+Baseball/_/Your+Graduation)<!-- LASTFM:END -->
+* [Gorillaz — Feel Good Inc.](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
