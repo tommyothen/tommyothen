@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kendrick Lamar — Not Like Us](https://www.last.fm/music/Kendrick+Lamar/_/Not+Like+Us)
 * [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)
 * [Softwilly — #FreeRobuxIfYouShareSong_draft_v2](https://www.last.fm/music/Softwilly/_/%23FreeRobuxIfYouShareSong_draft_v2)
 * [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)
-* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)<!-- LASTFM:END -->
+* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
