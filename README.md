@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
 * [Gwen Stefani — The Sweet Escape](https://www.last.fm/music/Gwen+Stefani/_/The+Sweet+Escape)
 * [Tiffany Day — SPOILED BITCH](https://www.last.fm/music/Tiffany+Day/_/SPOILED+BITCH)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Lukey — Starman](https://www.last.fm/music/Lukey/_/Starman)
-* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)<!-- LASTFM:END -->
+* [Lukey — Starman](https://www.last.fm/music/Lukey/_/Starman)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
