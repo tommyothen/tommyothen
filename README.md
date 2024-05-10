@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [XXXTENTACION — Sad!](https://www.last.fm/music/XXXTENTACION/_/Sad!)
 * [Gorillaz — Feel Good Inc.](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.)
 * [Madcon — Beggin &lpar;Original Version&rpar;](https://www.last.fm/music/Madcon/_/Beggin+&lpar;Original+Version&rpar;)
-* [Modern Baseball — Your Graduation](https://www.last.fm/music/Modern+Baseball/_/Your+Graduation)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
+* [Modern Baseball — Your Graduation](https://www.last.fm/music/Modern+Baseball/_/Your+Graduation)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
