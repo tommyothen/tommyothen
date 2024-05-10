@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gorillaz — Feel Good Inc.](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.)
 * [Madcon — Beggin &lpar;Original Version&rpar;](https://www.last.fm/music/Madcon/_/Beggin+&lpar;Original+Version&rpar;)
 * [Modern Baseball — Your Graduation](https://www.last.fm/music/Modern+Baseball/_/Your+Graduation)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Brand New — Sic transit gloria ... Glory Fades](https://www.last.fm/music/Brand+New/_/Sic+transit+gloria+...+Glory+Fades)
-* [Free Throw — Same Drugs](https://www.last.fm/music/Free+Throw/_/Same+Drugs)<!-- LASTFM:END -->
+* [Brand New — Sic transit gloria ... Glory Fades](https://www.last.fm/music/Brand+New/_/Sic+transit+gloria+...+Glory+Fades)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
