@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Madcon — Beggin &lpar;Original Version&rpar;](https://www.last.fm/music/Madcon/_/Beggin+&lpar;Original+Version&rpar;)
+* [Modern Baseball — Your Graduation](https://www.last.fm/music/Modern+Baseball/_/Your+Graduation)
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [Brand New — Sic transit gloria ... Glory Fades](https://www.last.fm/music/Brand+New/_/Sic+transit+gloria+...+Glory+Fades)
-* [Free Throw — Same Drugs](https://www.last.fm/music/Free+Throw/_/Same+Drugs)
-* [Taylor Swift — Love Story &lpar;Taylor’s Version&rpar;](https://www.last.fm/music/Taylor+Swift/_/Love+Story+&lpar;Taylor%E2%80%99s+Version&rpar;)
-* [The Cure — Just Like Heaven](https://www.last.fm/music/The+Cure/_/Just+Like+Heaven)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)<!-- LASTFM:END -->
+* [Free Throw — Same Drugs](https://www.last.fm/music/Free+Throw/_/Same+Drugs)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
