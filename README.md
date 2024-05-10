@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
+* [oso oso — all of my love](https://www.last.fm/music/oso+oso/_/all+of+my+love)
+* [Future — Like That](https://www.last.fm/music/Future/_/Like+That)
 * [Kendrick Lamar — Not Like Us](https://www.last.fm/music/Kendrick+Lamar/_/Not+Like+Us)
-* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)
-* [Softwilly — #FreeRobuxIfYouShareSong_draft_v2](https://www.last.fm/music/Softwilly/_/%23FreeRobuxIfYouShareSong_draft_v2)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [Alice Gas — FERRARI](https://www.last.fm/music/Alice+Gas/_/FERRARI)<!-- LASTFM:END -->
+* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
