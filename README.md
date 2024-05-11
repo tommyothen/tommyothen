@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
+* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
 * [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
 * [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
-* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
-* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
-* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)<!-- LASTFM:END -->
+* [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
