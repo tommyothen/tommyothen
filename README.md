@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
 * [Eden — Circles](https://www.last.fm/music/Eden/_/Circles)
 * [Eden — XO](https://www.last.fm/music/Eden/_/XO)
 * [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
-* [Eden — and](https://www.last.fm/music/Eden/_/and)
-* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)<!-- LASTFM:END -->
+* [Eden — and](https://www.last.fm/music/Eden/_/and)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
