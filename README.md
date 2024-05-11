@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
+* [Tom Misch — Disco Yes](https://www.last.fm/music/Tom+Misch/_/Disco+Yes)
 * [Sebastian Paul — INDULGE](https://www.last.fm/music/Sebastian+Paul/_/INDULGE)
-* [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)
-* [Polyphia — O.D. &lpar;Live at the Factory in Deep Ellum&rpar;](https://www.last.fm/music/Polyphia/_/O.D.+&lpar;Live+at+the+Factory+in+Deep+Ellum&rpar;)
-* [Polyphia — Neurotica &lpar;Live at the Factory in Deep Ellum&rpar;](https://www.last.fm/music/Polyphia/_/Neurotica+&lpar;Live+at+the+Factory+in+Deep+Ellum&rpar;)
-* [Polyphia — Genesis &lpar;Live at the Factory in Deep Ellum&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;Live+at+the+Factory+in+Deep+Ellum&rpar;)<!-- LASTFM:END -->
+* [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
