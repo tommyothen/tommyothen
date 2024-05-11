@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Neurotica &lpar;Live at the Factory in Deep Ellum&rpar;](https://www.last.fm/music/Polyphia/_/Neurotica+&lpar;Live+at+the+Factory+in+Deep+Ellum&rpar;)
+* [Polyphia — Genesis &lpar;Live at the Factory in Deep Ellum&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;Live+at+the+Factory+in+Deep+Ellum&rpar;)
 * [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
 * [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
-* [Polyphia — O.D.](https://www.last.fm/music/Polyphia/_/O.D.)
-* [Polyphia — Reverie](https://www.last.fm/music/Polyphia/_/Reverie)
-* [Polyphia — 40oz](https://www.last.fm/music/Polyphia/_/40oz)<!-- LASTFM:END -->
+* [Polyphia — O.D.](https://www.last.fm/music/Polyphia/_/O.D.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
