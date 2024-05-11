@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
+* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
 * [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
 * [EARTHGANG — Meditate &lpar;feat. J.I.D.&rpar;](https://www.last.fm/music/EARTHGANG/_/Meditate+&lpar;feat.+J.I.D.&rpar;)
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
-* [Eden — Circles](https://www.last.fm/music/Eden/_/Circles)
-* [Eden — XO](https://www.last.fm/music/Eden/_/XO)<!-- LASTFM:END -->
+* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
