@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sean Paul — Get Busy](https://www.last.fm/music/Sean+Paul/_/Get+Busy)
+* [Pitbull — Hotel Room Service](https://www.last.fm/music/Pitbull/_/Hotel+Room+Service)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
-* [Joey Valence &amp; Brae — PUNK TACTICS](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/PUNK+TACTICS)
-* [Kylie Minogue — Padam Padam](https://www.last.fm/music/Kylie+Minogue/_/Padam+Padam)
-* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)<!-- LASTFM:END -->
+* [Joey Valence &amp; Brae — PUNK TACTICS](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/PUNK+TACTICS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
