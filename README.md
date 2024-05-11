@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [David Guetta — Titanium &lpar;feat. Sia&rpar;](https://www.last.fm/music/David+Guetta/_/Titanium+&lpar;feat.+Sia&rpar;)
+* [David Guetta — Where Them Girls At &lpar;feat. Nicki Minaj &amp; Flo Rida&rpar;](https://www.last.fm/music/David+Guetta/_/Where+Them+Girls+At+&lpar;feat.+Nicki+Minaj+&amp;+Flo+Rida&rpar;)
 * [Sean Paul — Get Busy](https://www.last.fm/music/Sean+Paul/_/Get+Busy)
 * [Pitbull — Hotel Room Service](https://www.last.fm/music/Pitbull/_/Hotel+Room+Service)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)
-* [Joey Valence &amp; Brae — PUNK TACTICS](https://www.last.fm/music/Joey+Valence+&amp;+Brae/_/PUNK+TACTICS)<!-- LASTFM:END -->
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
