@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — G.O.A.T.](https://www.last.fm/music/Polyphia/_/G.O.A.T.)
 * [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
-* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)<!-- LASTFM:END -->
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
