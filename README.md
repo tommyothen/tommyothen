@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sebastian Paul — INDULGE](https://www.last.fm/music/Sebastian+Paul/_/INDULGE)
+* [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)
 * [Polyphia — O.D. &lpar;Live at the Factory in Deep Ellum&rpar;](https://www.last.fm/music/Polyphia/_/O.D.+&lpar;Live+at+the+Factory+in+Deep+Ellum&rpar;)
 * [Polyphia — Neurotica &lpar;Live at the Factory in Deep Ellum&rpar;](https://www.last.fm/music/Polyphia/_/Neurotica+&lpar;Live+at+the+Factory+in+Deep+Ellum&rpar;)
-* [Polyphia — Genesis &lpar;Live at the Factory in Deep Ellum&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;Live+at+the+Factory+in+Deep+Ellum&rpar;)
-* [Polyphia — Neurotica](https://www.last.fm/music/Polyphia/_/Neurotica)
-* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)<!-- LASTFM:END -->
+* [Polyphia — Genesis &lpar;Live at the Factory in Deep Ellum&rpar;](https://www.last.fm/music/Polyphia/_/Genesis+&lpar;Live+at+the+Factory+in+Deep+Ellum&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
