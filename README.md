@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tinchy Stryder — Number 1](https://www.last.fm/music/Tinchy+Stryder/_/Number+1)
+* [Dizzee Rascal — Dance Wiv Me - Radio Edit](https://www.last.fm/music/Dizzee+Rascal/_/Dance+Wiv+Me+-+Radio+Edit)
 * [David Guetta — Titanium &lpar;feat. Sia&rpar;](https://www.last.fm/music/David+Guetta/_/Titanium+&lpar;feat.+Sia&rpar;)
 * [David Guetta — Where Them Girls At &lpar;feat. Nicki Minaj &amp; Flo Rida&rpar;](https://www.last.fm/music/David+Guetta/_/Where+Them+Girls+At+&lpar;feat.+Nicki+Minaj+&amp;+Flo+Rida&rpar;)
-* [Sean Paul — Get Busy](https://www.last.fm/music/Sean+Paul/_/Get+Busy)
-* [Pitbull — Hotel Room Service](https://www.last.fm/music/Pitbull/_/Hotel+Room+Service)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
+* [Sean Paul — Get Busy](https://www.last.fm/music/Sean+Paul/_/Get+Busy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
