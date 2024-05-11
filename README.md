@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
-* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
-* [Chyld — ANTIDOTE](https://www.last.fm/music/Chyld/_/ANTIDOTE)
-* [EARTHGANG — Meditate &lpar;feat. J.I.D.&rpar;](https://www.last.fm/music/EARTHGANG/_/Meditate+&lpar;feat.+J.I.D.&rpar;)
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)<!-- LASTFM:END -->
+* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
+* [Polyphia — All Falls Apart](https://www.last.fm/music/Polyphia/_/All+Falls+Apart)
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
+* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
