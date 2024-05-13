@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
+* [Blaze U — Walk Tha Plank](https://www.last.fm/music/Blaze+U/_/Walk+Tha+Plank)
+* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
 * [Hilltop Hoods — The Nosebleed Section](https://www.last.fm/music/Hilltop+Hoods/_/The+Nosebleed+Section)
-* [Billie Eilish — bury a friend](https://www.last.fm/music/Billie+Eilish/_/bury+a+friend)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
-* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
-* [SCARLXRD — I WANT TX SEE YXU BLEED](https://www.last.fm/music/SCARLXRD/_/I+WANT+TX+SEE+YXU+BLEED)<!-- LASTFM:END -->
+* [Billie Eilish — bury a friend](https://www.last.fm/music/Billie+Eilish/_/bury+a+friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
