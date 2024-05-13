@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tokyo Machine — FLY](https://www.last.fm/music/Tokyo+Machine/_/FLY)
-* [YooA — Abracadabra](https://www.last.fm/music/YooA/_/Abracadabra)
-* [Billie Eilish — i love you](https://www.last.fm/music/Billie+Eilish/_/i+love+you)
-* [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)
-* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)<!-- LASTFM:END -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [Monty Datta — With Somebody Else](https://www.last.fm/music/Monty+Datta/_/With+Somebody+Else)
+* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
+* [Gift Of Gab — Freedom Form Flowing](https://www.last.fm/music/Gift+Of+Gab/_/Freedom+Form+Flowing)
+* [Tokyo Machine — FLY](https://www.last.fm/music/Tokyo+Machine/_/FLY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
