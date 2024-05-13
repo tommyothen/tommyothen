@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
+* [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
 * [SCARLXRD — I WANT TX SEE YXU BLEED](https://www.last.fm/music/SCARLXRD/_/I+WANT+TX+SEE+YXU+BLEED)
 * [Aiobahn — ここにいる - Stephen Walking Remix](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+-+Stephen+Walking+Remix)
-* [Tkay Maidza — So Cold](https://www.last.fm/music/Tkay+Maidza/_/So+Cold)
-* [[bsd.u] — the grind](https://www.last.fm/music/%5Bbsd.u%5D/_/the+grind)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
+* [Tkay Maidza — So Cold](https://www.last.fm/music/Tkay+Maidza/_/So+Cold)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
