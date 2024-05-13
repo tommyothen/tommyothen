@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Caroline Konstnar — The Birthday Song](https://www.last.fm/music/Caroline+Konstnar/_/The+Birthday+Song)
+* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
+* [Antoha MC — Сладкий чай &lpar;Aslamin Remix&rpar;](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B9+%D1%87%D0%B0%D0%B9+&lpar;Aslamin+Remix&rpar;)
 * [Colliding With Mars — Mental Breakdown In Slow Motion](https://www.last.fm/music/Colliding+With+Mars/_/Mental+Breakdown+In+Slow+Motion)
-* [potsu — letting go](https://www.last.fm/music/potsu/_/letting+go)
-* [Strawberry Station — Disco Queens](https://www.last.fm/music/Strawberry+Station/_/Disco+Queens)
-* [Rich Brian — No Worries](https://www.last.fm/music/Rich+Brian/_/No+Worries)
-* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)<!-- LASTFM:END -->
+* [potsu — letting go](https://www.last.fm/music/potsu/_/letting+go)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
