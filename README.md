@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
 * [Ricky Montgomery — Line Without a Hook &lpar;feat. mxmtoon&rpar;](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+&lpar;feat.+mxmtoon&rpar;)
 * [King Kavalier — Bad Drugs](https://www.last.fm/music/King+Kavalier/_/Bad+Drugs)
-* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
-* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
-* [Pusher — Sober](https://www.last.fm/music/Pusher/_/Sober)<!-- LASTFM:END -->
+* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
