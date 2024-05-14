@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [demxntia — it&#39;s alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
 * [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
 * [Camellia — Exit This Earth&#39;s Atomosphere](https://www.last.fm/music/Camellia/_/Exit+This+Earth%27s+Atomosphere)
 * [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Stephen — Crossfire](https://www.last.fm/music/Stephen/_/Crossfire)
-* [bbno$ — guarantee](https://www.last.fm/music/bbno$/_/guarantee)<!-- LASTFM:END -->
+* [Stephen — Crossfire](https://www.last.fm/music/Stephen/_/Crossfire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
