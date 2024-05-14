@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — schizophrenia](https://www.last.fm/music/XXXTENTACION/_/schizophrenia)
+* [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)
+* [Kin$oul — Members Only SHit](https://www.last.fm/music/Kin$oul/_/Members+Only+SHit)
 * [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [Kloud — Promises](https://www.last.fm/music/Kloud/_/Promises)
-* [XXXTENTACION — going down!](https://www.last.fm/music/XXXTENTACION/_/going+down!)
-* [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)
-* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)<!-- LASTFM:END -->
+* [Kloud — Promises](https://www.last.fm/music/Kloud/_/Promises)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
