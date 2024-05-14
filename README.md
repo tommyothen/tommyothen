@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Colliding With Mars — the cutest girl in hell](https://www.last.fm/music/Colliding+With+Mars/_/the+cutest+girl+in+hell)
+* [Mia Vaile — Money - James Mercy Remix](https://www.last.fm/music/Mia+Vaile/_/Money+-+James+Mercy+Remix)
 * [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
 * [jomie — bother](https://www.last.fm/music/jomie/_/bother)
-* [Lofi.Samurai — already dead](https://www.last.fm/music/Lofi.Samurai/_/already+dead)
-* [Porter Robinson — Divinity - Odesza Remix](https://www.last.fm/music/Porter+Robinson/_/Divinity+-+Odesza+Remix)
-* [Pendulum — Propane Nightmares - Grabbitz Remix](https://www.last.fm/music/Pendulum/_/Propane+Nightmares+-+Grabbitz+Remix)<!-- LASTFM:END -->
+* [Lofi.Samurai — already dead](https://www.last.fm/music/Lofi.Samurai/_/already+dead)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
