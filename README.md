@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
+* [Galantis — Only A Fool &lpar;with Pink Sweat$titlerpar;](https://www.last.fm/music/Galantis/_/Only+A+Fool+&lpar;with+Pink+Sweat$linkrpar;)
+* [Marvin Divine — Back Again](https://www.last.fm/music/Marvin+Divine/_/Back+Again)
 * [ProleteR — Throw It Back &lpar;feat. Taskrok&rpar;](https://www.last.fm/music/ProleteR/_/Throw+It+Back+&lpar;feat.+Taskrok&rpar;)
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
-* [Eden — all you need is love](https://www.last.fm/music/Eden/_/all+you+need+is+love)
-* [iris day — kuromi face tat](https://www.last.fm/music/iris+day/_/kuromi+face+tat)
-* [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)<!-- LASTFM:END -->
+* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
