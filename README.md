@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
+* [Stephen — Crossfire](https://www.last.fm/music/Stephen/_/Crossfire)
 * [bbno$ — guarantee](https://www.last.fm/music/bbno$/_/guarantee)
 * [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)
-* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [Caroline Konstnar — The Birthday Song](https://www.last.fm/music/Caroline+Konstnar/_/The+Birthday+Song)<!-- LASTFM:END -->
+* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
