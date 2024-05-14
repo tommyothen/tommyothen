@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
+* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
 * [Pusher — Sober](https://www.last.fm/music/Pusher/_/Sober)
 * [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
-* [ilyTOMMY — Tunnel of Love - Remix](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love+-+Remix)
-* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
-* [Trevor Daniel — Falling &lpar;feat. blackbear&rpar; - blackbear Remix](https://www.last.fm/music/Trevor+Daniel/_/Falling+&lpar;feat.+blackbear&rpar;+-+blackbear+Remix)<!-- LASTFM:END -->
+* [ilyTOMMY — Tunnel of Love - Remix](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love+-+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
