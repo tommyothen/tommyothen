@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
+* [deadman 死人 — Omae Wa Mou](https://www.last.fm/music/deadman+%E6%AD%BB%E4%BA%BA/_/Omae+Wa+Mou)
+* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
 * [HENTAI DUDE — Tokyo Chopp](https://www.last.fm/music/HENTAI+DUDE/_/Tokyo+Chopp)
-* [Made in M — Pero Asi](https://www.last.fm/music/Made+in+M/_/Pero+Asi)
-* [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)
-* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
-* [Aiobahn — ここにいる - Stephen Walking Remix](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+-+Stephen+Walking+Remix)<!-- LASTFM:END -->
+* [Made in M — Pero Asi](https://www.last.fm/music/Made+in+M/_/Pero+Asi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
