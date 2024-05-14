@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
+* [Trevor Daniel — Falling &lpar;feat. blackbear&rpar; - blackbear Remix](https://www.last.fm/music/Trevor+Daniel/_/Falling+&lpar;feat.+blackbear&rpar;+-+blackbear+Remix)
+* [SCARLXRD — HEAD GXNE](https://www.last.fm/music/SCARLXRD/_/HEAD+GXNE)
 * [Matt Maeson — Me And My Friends Are Lonely](https://www.last.fm/music/Matt+Maeson/_/Me+And+My+Friends+Are+Lonely)
-* [XXXTENTACION — Sad!](https://www.last.fm/music/XXXTENTACION/_/Sad!)
-* [Porter Robinson — Years Of War](https://www.last.fm/music/Porter+Robinson/_/Years+Of+War)
-* [Unlike Pluto — Worst In Me](https://www.last.fm/music/Unlike+Pluto/_/Worst+In+Me)
-* [BROCKHAMPTON — 1999 WILDFIRE](https://www.last.fm/music/BROCKHAMPTON/_/1999+WILDFIRE)<!-- LASTFM:END -->
+* [XXXTENTACION — Sad!](https://www.last.fm/music/XXXTENTACION/_/Sad!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
