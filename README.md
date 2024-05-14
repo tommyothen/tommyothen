@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aiobahn — ここにいる - Stephen Walking Remix](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+-+Stephen+Walking+Remix)
 * [XXXTENTACION — schizophrenia](https://www.last.fm/music/XXXTENTACION/_/schizophrenia)
 * [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)
 * [Kin$oul — Members Only SHit](https://www.last.fm/music/Kin$oul/_/Members+Only+SHit)
-* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [Kloud — Promises](https://www.last.fm/music/Kloud/_/Promises)<!-- LASTFM:END -->
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
