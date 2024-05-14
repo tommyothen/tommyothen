@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — going down!](https://www.last.fm/music/XXXTENTACION/_/going+down!)
+* [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)
+* [mxmtoon — feelings are fatal](https://www.last.fm/music/mxmtoon/_/feelings+are+fatal)
 * [bbno$ — I](https://www.last.fm/music/bbno$/_/I)
-* [Rejjie Snow — Egyptian Luvr](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr)
-* [Eery — Just a Sec](https://www.last.fm/music/Eery/_/Just+a+Sec)
-* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
-* [Shoffy — I Can&#39;t Help](https://www.last.fm/music/Shoffy/_/I+Can%27t+Help)<!-- LASTFM:END -->
+* [Rejjie Snow — Egyptian Luvr](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
