@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
+* [bbno$ — super saiyan flex](https://www.last.fm/music/bbno$/_/super+saiyan+flex)
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
-* [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)<!-- LASTFM:END -->
+* [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
