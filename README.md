@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XXXTENTACION — NUMB](https://www.last.fm/music/XXXTENTACION/_/NUMB)
-* [Tiny Meat Gang — Super Xan](https://www.last.fm/music/Tiny+Meat+Gang/_/Super+Xan)
+* [Bodo Wartke — Die Lösung](https://www.last.fm/music/Bodo+Wartke/_/Die+L%C3%B6sung)
+* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
+* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)
 * [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [Call Me Karizma — Black &amp; Blue](https://www.last.fm/music/Call+Me+Karizma/_/Black+&amp;+Blue)<!-- LASTFM:END -->
+* [XXXTENTACION — NUMB](https://www.last.fm/music/XXXTENTACION/_/NUMB)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
