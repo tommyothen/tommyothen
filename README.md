@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bodo Wartke — Die Lösung](https://www.last.fm/music/Bodo+Wartke/_/Die+L%C3%B6sung)
-* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
-* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [XXXTENTACION — NUMB](https://www.last.fm/music/XXXTENTACION/_/NUMB)<!-- LASTFM:END -->
+* [VARRA — Q Wen Meme](https://www.last.fm/music/VARRA/_/Q+Wen+Meme)
+* [Arrow — Sprout](https://www.last.fm/music/Arrow/_/Sprout)
+* [Strawberry Girls — Tasmanian Glow](https://www.last.fm/music/Strawberry+Girls/_/Tasmanian+Glow)
+* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
+* [Bodo Wartke — Die Lösung](https://www.last.fm/music/Bodo+Wartke/_/Die+L%C3%B6sung)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
