@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
 * [Call Me Karizma — Black &amp; Blue](https://www.last.fm/music/Call+Me+Karizma/_/Black+&amp;+Blue)
 * [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)
 * [Porter Robinson — Polygon Dust](https://www.last.fm/music/Porter+Robinson/_/Polygon+Dust)
-* [Porter Robinson — Fresh Static Snow](https://www.last.fm/music/Porter+Robinson/_/Fresh+Static+Snow)
-* [Yung Gravy — Clock](https://www.last.fm/music/Yung+Gravy/_/Clock)<!-- LASTFM:END -->
+* [Porter Robinson — Fresh Static Snow](https://www.last.fm/music/Porter+Robinson/_/Fresh+Static+Snow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
