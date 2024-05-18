@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
 * [Shinigami — heart attack](https://www.last.fm/music/Shinigami/_/heart+attack)
 * [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
 * [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
-* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)
-* [VARRA — Q Wen Meme](https://www.last.fm/music/VARRA/_/Q+Wen+Meme)<!-- LASTFM:END -->
+* [nothing,nowhere. — pretend](https://www.last.fm/music/nothing,nowhere./_/pretend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
