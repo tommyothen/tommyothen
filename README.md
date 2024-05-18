@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [EARTHGANG — Meditate &lpar;feat. J.I.D.&rpar;](https://www.last.fm/music/EARTHGANG/_/Meditate+&lpar;feat.+J.I.D.&rpar;)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [Post Malone — Goodbyes &lpar;feat. Young Thug&rpar;](https://www.last.fm/music/Post+Malone/_/Goodbyes+&lpar;feat.+Young+Thug&rpar;)
 * [Tyler, the Creator — I THINK](https://www.last.fm/music/Tyler,+the+Creator/_/I+THINK)
-* [Long Distance Poison — Signal II - Steve Moore Remix](https://www.last.fm/music/Long+Distance+Poison/_/Signal+II+-+Steve+Moore+Remix)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)<!-- LASTFM:END -->
+* [Long Distance Poison — Signal II - Steve Moore Remix](https://www.last.fm/music/Long+Distance+Poison/_/Signal+II+-+Steve+Moore+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
