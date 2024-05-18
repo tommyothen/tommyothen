@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
 * [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
 * [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
 * [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
-* [Anderson .Paak — Come Down](https://www.last.fm/music/Anderson+.Paak/_/Come+Down)<!-- LASTFM:END -->
+* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
