@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
 * [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)
-* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
-* [Tyler, the Creator — EARFQUAKE](https://www.last.fm/music/Tyler,+the+Creator/_/EARFQUAKE)<!-- LASTFM:END -->
+* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
