@@ -32,7 +32,7 @@ Now Playing\
 * [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)
 * [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
-* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)<!-- LASTFM:END -->
+* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
