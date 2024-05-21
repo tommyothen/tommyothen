@@ -28,8 +28,8 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
 * [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
 * [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
 * [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
 * [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)<!-- LASTFM:END -->
