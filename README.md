@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Golden Boy — RUFFNECK KILLA &lpar;Genocide City Zone&rpar;](https://www.last.fm/music/Golden+Boy/_/RUFFNECK+KILLA+&lpar;Genocide+City+Zone&rpar;)
+* [pianoid — urge to urinate](https://www.last.fm/music/pianoid/_/urge+to+urinate)
 * [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)
 * [bbno$ — seven](https://www.last.fm/music/bbno$/_/seven)
-* [Sebastian Paul — SO DONE](https://www.last.fm/music/Sebastian+Paul/_/SO+DONE)
-* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
+* [Sebastian Paul — SO DONE](https://www.last.fm/music/Sebastian+Paul/_/SO+DONE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
