@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [Loona — Heart Attack &lpar;츄&rpar;](https://www.last.fm/music/Loona/_/Heart+Attack+&lpar;%EC%B8%84&rpar;)
 * [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
 * [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
-* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
 * [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
