@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kuriso — let yourself be devoured~...!!!](https://www.last.fm/music/Kuriso/_/let+yourself+be+devoured~...!!!)
 * [temcandoanything — amygdala +icdamix+](https://www.last.fm/music/temcandoanything/_/amygdala+%252Bicdamix%252B)
 * [temcandoanything — amygdala +icdamix+](https://www.last.fm/music/temcandoanything/_/amygdala+%252Bicdamix%252B)
-* [Golden Boy — RUFFNECK KILLA &lpar;Genocide City Zone&rpar;](https://www.last.fm/music/Golden+Boy/_/RUFFNECK+KILLA+&lpar;Genocide+City+Zone&rpar;)
-* [pianoid — urge to urinate](https://www.last.fm/music/pianoid/_/urge+to+urinate)
+* [temcandoanything — amygdala +icdamix+](https://www.last.fm/music/temcandoanything/_/amygdala+%252Bicdamix%252B)
 * [Golden Boy — RUFFNECK KILLA &lpar;Genocide City Zone&rpar;](https://www.last.fm/music/Golden+Boy/_/RUFFNECK+KILLA+&lpar;Genocide+City+Zone&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
