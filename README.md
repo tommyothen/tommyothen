@@ -30,9 +30,9 @@ Now Playing\
 <!-- LASTFM:START -->
 * [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
 * [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
-* [Kuriso — let yourself be devoured~...!!!](https://www.last.fm/music/Kuriso/_/let+yourself+be+devoured~...!!!)
-* [Kuriso — let yourself be devoured~...!!!](https://www.last.fm/music/Kuriso/_/let+yourself+be+devoured~...!!!)
-* [optic core — Distant Shore](https://www.last.fm/music/optic+core/_/Distant+Shore)<!-- LASTFM:END -->
+* [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
+* [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
+* [Kuriso — let yourself be devoured~...!!!](https://www.last.fm/music/Kuriso/_/let+yourself+be+devoured~...!!!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
