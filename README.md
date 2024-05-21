@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
+* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
 * [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [FEDUK — Последний День Лета &lpar;feat. Лия&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9+%D0%94%D0%B5%D0%BD%D1%8C+%D0%9B%D0%B5%D1%82%D0%B0+&lpar;feat.+%D0%9B%D0%B8%D1%8F&rpar;)
-* [Slayyyter — Mine](https://www.last.fm/music/Slayyyter/_/Mine)<!-- LASTFM:END -->
+* [FEDUK — Последний День Лета &lpar;feat. Лия&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9+%D0%94%D0%B5%D0%BD%D1%8C+%D0%9B%D0%B5%D1%82%D0%B0+&lpar;feat.+%D0%9B%D0%B8%D1%8F&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
