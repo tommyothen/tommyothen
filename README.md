@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [datfootdive — Take care of yourself](https://www.last.fm/music/datfootdive/_/Take+care+of+yourself)
-* [Adolf Nomura — LURKING 88](https://www.last.fm/music/Adolf+Nomura/_/LURKING+88)
-* [JVNLIII — Summer](https://www.last.fm/music/JVNLIII/_/Summer)
-* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
-* [3mouth — Staff Roll](https://www.last.fm/music/3mouth/_/Staff+Roll)<!-- LASTFM:END -->
+* [JVNLIII — Vita](https://www.last.fm/music/JVNLIII/_/Vita)
+* [SAGEISKAMI — BLOOD X](https://www.last.fm/music/SAGEISKAMI/_/BLOOD+X)
+* [3mouth — BE THE ONE 2 SAVE THEM ALL](https://www.last.fm/music/3mouth/_/BE+THE+ONE+2+SAVE+THEM+ALL)
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
+* [datfootdive — Take care of yourself](https://www.last.fm/music/datfootdive/_/Take+care+of+yourself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
