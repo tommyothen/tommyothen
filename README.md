@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
-* [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
-* [Golden Boy — RUFFNECK KILLA &lpar;Genocide City Zone&rpar;](https://www.last.fm/music/Golden+Boy/_/RUFFNECK+KILLA+&lpar;Genocide+City+Zone&rpar;)
-* [pianoid — urge to urinate](https://www.last.fm/music/pianoid/_/urge+to+urinate)
-* [SUGR? — Make It Hurt](https://www.last.fm/music/SUGR%3F/_/Make+It+Hurt)<!-- LASTFM:END -->
+* [datfootdive — Take care of yourself](https://www.last.fm/music/datfootdive/_/Take+care+of+yourself)
+* [Adolf Nomura — LURKING 88](https://www.last.fm/music/Adolf+Nomura/_/LURKING+88)
+* [JVNLIII — Summer](https://www.last.fm/music/JVNLIII/_/Summer)
+* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
+* [3mouth — Staff Roll](https://www.last.fm/music/3mouth/_/Staff+Roll)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
