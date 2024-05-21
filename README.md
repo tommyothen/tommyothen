@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [JVNLIII — Vita](https://www.last.fm/music/JVNLIII/_/Vita)
-* [SAGEISKAMI — BLOOD X](https://www.last.fm/music/SAGEISKAMI/_/BLOOD+X)
-* [3mouth — BE THE ONE 2 SAVE THEM ALL](https://www.last.fm/music/3mouth/_/BE+THE+ONE+2+SAVE+THEM+ALL)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
-* [datfootdive — Take care of yourself](https://www.last.fm/music/datfootdive/_/Take+care+of+yourself)<!-- LASTFM:END -->
+* [3mouth — Staff Roll](https://www.last.fm/music/3mouth/_/Staff+Roll)
+* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
+* [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
+* [pianoid — urge to urinate](https://www.last.fm/music/pianoid/_/urge+to+urinate)
+* [JVNLIII — Vita](https://www.last.fm/music/JVNLIII/_/Vita)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
