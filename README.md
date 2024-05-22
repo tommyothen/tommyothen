@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [optic core — Distant Shore](https://www.last.fm/music/optic+core/_/Distant+Shore)
+* [DESTROY BORING — f0rever w/u](https://www.last.fm/music/DESTROY+BORING/_/f0rever+w%2Fu)
+* [Ravenna Golden — Contest](https://www.last.fm/music/Ravenna+Golden/_/Contest)
 * [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
-* [temcandoanything — amygdala +icdamix+](https://www.last.fm/music/temcandoanything/_/amygdala+%252Bicdamix%252B)
-* [temcandoanything — amygdala +icdamix+](https://www.last.fm/music/temcandoanything/_/amygdala+%252Bicdamix%252B)
-* [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
-* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)<!-- LASTFM:END -->
+* [temcandoanything — amygdala +icdamix+](https://www.last.fm/music/temcandoanything/_/amygdala+%252Bicdamix%252B)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
