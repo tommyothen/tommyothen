@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [3mouth — +-+-&lpar;3&rpar;mouthfulofspraypaint$:!,](https://www.last.fm/music/3mouth/_/%252B-%252B-&lpar;3&rpar;mouthfulofspraypaint$:!,)
+* [3mouth — +-+-&lpar;3&rpar;mouthfulofspraypaint$:!,](https://www.last.fm/music/3mouth/_/%252B-%252B-&lpar;3&rpar;mouthfulofspraypaint$:!,)
+* [3mouth — +-+-&lpar;3&rpar;mouthfulofspraypaint$:!,](https://www.last.fm/music/3mouth/_/%252B-%252B-&lpar;3&rpar;mouthfulofspraypaint$:!,)
 * [pianoid — urge to urinate](https://www.last.fm/music/pianoid/_/urge+to+urinate)
-* [Kobaryo — Tool-Assisted Speedcore &lpar;TQBF Frame Advance RMX&rpar;](https://www.last.fm/music/Kobaryo/_/Tool-Assisted+Speedcore+&lpar;TQBF+Frame+Advance+RMX&rpar;)
-* [KL1N9Y — Schizophrenic System Shutdown](https://www.last.fm/music/KL1N9Y/_/Schizophrenic+System+Shutdown)
-* [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
-* [optic core — Distant Shore](https://www.last.fm/music/optic+core/_/Distant+Shore)<!-- LASTFM:END -->
+* [pianoid — urge to urinate](https://www.last.fm/music/pianoid/_/urge+to+urinate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
