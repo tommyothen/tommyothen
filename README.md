@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
+* [Cynthoni — Lychee Ice](https://www.last.fm/music/Cynthoni/_/Lychee+Ice)
+* [Rory in early 20s — unforeseen dream scenarios that glorify the beauty of a vacuum cleaner](https://www.last.fm/music/Rory+in+early+20s/_/unforeseen+dream+scenarios+that+glorify+the+beauty+of+a+vacuum+cleaner)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
-* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
-* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
-* [pianoid — urge to urinate](https://www.last.fm/music/pianoid/_/urge+to+urinate)<!-- LASTFM:END -->
+* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
