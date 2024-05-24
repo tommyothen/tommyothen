@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [my head hurts — thousands of mistakes](https://www.last.fm/music/my+head+hurts/_/thousands+of+mistakes)
-* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
+* [Rory in early 20s — Ise Machekuta](https://www.last.fm/music/Rory+in+early+20s/_/Ise+Machekuta)
 * [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
-* [Golden Boy — RUFFNECK KILLA &lpar;Genocide City Zone&rpar;](https://www.last.fm/music/Golden+Boy/_/RUFFNECK+KILLA+&lpar;Genocide+City+Zone&rpar;)
-* [3mouth — +-+-&lpar;3&rpar;mouthfulofspraypaint$:!,](https://www.last.fm/music/3mouth/_/%252B-%252B-&lpar;3&rpar;mouthfulofspraypaint$:!,)<!-- LASTFM:END -->
+* [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
+* [my head hurts — thousands of mistakes](https://www.last.fm/music/my+head+hurts/_/thousands+of+mistakes)
+* [my head hurts — thousands of mistakes](https://www.last.fm/music/my+head+hurts/_/thousands+of+mistakes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
