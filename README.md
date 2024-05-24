@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rory in early 20s — unforeseen dream scenarios that glorify the beauty of a vacuum cleaner](https://www.last.fm/music/Rory+in+early+20s/_/unforeseen+dream+scenarios+that+glorify+the+beauty+of+a+vacuum+cleaner)
 * [Rory in early 20s — Ise Machekuta](https://www.last.fm/music/Rory+in+early+20s/_/Ise+Machekuta)
 * [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
 * [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
-* [my head hurts — thousands of mistakes](https://www.last.fm/music/my+head+hurts/_/thousands+of+mistakes)
 * [my head hurts — thousands of mistakes](https://www.last.fm/music/my+head+hurts/_/thousands+of+mistakes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
