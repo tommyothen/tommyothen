@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [pianoid — urge to urinate](https://www.last.fm/music/pianoid/_/urge+to+urinate)
-* [Kobaryo — Tool-Assisted Speedcore &lpar;TQBF Frame Advance RMX&rpar;](https://www.last.fm/music/Kobaryo/_/Tool-Assisted+Speedcore+&lpar;TQBF+Frame+Advance+RMX&rpar;)
-* [Acidgvrl — breakcore vaporwave](https://www.last.fm/music/Acidgvrl/_/breakcore+vaporwave)
-* [Snafu — fkn sucks](https://www.last.fm/music/Snafu/_/fkn+sucks)
-* [EgoFear — Escape Your Mind!](https://www.last.fm/music/EgoFear/_/Escape+Your+Mind!)<!-- LASTFM:END -->
+* [my head hurts — thousands of mistakes](https://www.last.fm/music/my+head+hurts/_/thousands+of+mistakes)
+* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
+* [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
+* [Golden Boy — RUFFNECK KILLA &lpar;Genocide City Zone&rpar;](https://www.last.fm/music/Golden+Boy/_/RUFFNECK+KILLA+&lpar;Genocide+City+Zone&rpar;)
+* [3mouth — +-+-&lpar;3&rpar;mouthfulofspraypaint$:!,](https://www.last.fm/music/3mouth/_/%252B-%252B-&lpar;3&rpar;mouthfulofspraypaint$:!,)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
