@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
 * [Lil Memer — Dance Til Your Dead](https://www.last.fm/music/Lil+Memer/_/Dance+Til+Your+Dead)
 * [Eden — gold](https://www.last.fm/music/Eden/_/gold)
 * [Royal &amp; the Serpent — Weddings &amp; Funerals](https://www.last.fm/music/Royal+&amp;+the+Serpent/_/Weddings+&amp;+Funerals)
-* [Dreamcatcher — Scream](https://www.last.fm/music/Dreamcatcher/_/Scream)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
+* [Dreamcatcher — Scream](https://www.last.fm/music/Dreamcatcher/_/Scream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
