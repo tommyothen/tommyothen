@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Belén Aguilera — ANTAGONISTA](https://www.last.fm/music/Bel%C3%A9n+Aguilera/_/ANTAGONISTA)
+* [Porter Robinson — Flicker - Mat Zo Remix](https://www.last.fm/music/Porter+Robinson/_/Flicker+-+Mat+Zo+Remix)
 * [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
 * [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
-* [21 Savage — a lot](https://www.last.fm/music/21+Savage/_/a+lot)
-* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
-* [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)<!-- LASTFM:END -->
+* [21 Savage — a lot](https://www.last.fm/music/21+Savage/_/a+lot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
