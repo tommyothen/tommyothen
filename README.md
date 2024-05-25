@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — sex](https://www.last.fm/music/Eden/_/sex)
 * [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
 * [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [nothing,nowhere. — Destruction](https://www.last.fm/music/nothing,nowhere./_/Destruction)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Lisa — LALISA](https://www.last.fm/music/Lisa/_/LALISA)<!-- LASTFM:END -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
