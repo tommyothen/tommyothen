@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
+* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)
 * [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)
-* [88rising — History](https://www.last.fm/music/88rising/_/History)
-* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)<!-- LASTFM:END -->
+* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
