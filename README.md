@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
 * [Stephen — Crossfire](https://www.last.fm/music/Stephen/_/Crossfire)
 * [The Haunt — Cigarettes &amp; Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&amp;+Feelings)
-* [Call Me Karizma — Monster &lpar;Under My Bed&rpar;](https://www.last.fm/music/Call+Me+Karizma/_/Monster+&lpar;Under+My+Bed&rpar;)
-* [C. Tangana — Antes de morirme &lpar;feat. Rosalía&rpar;](https://www.last.fm/music/C.+Tangana/_/Antes+de+morirme+&lpar;feat.+Rosal%C3%ADa&rpar;)<!-- LASTFM:END -->
+* [Call Me Karizma — Monster &lpar;Under My Bed&rpar;](https://www.last.fm/music/Call+Me+Karizma/_/Monster+&lpar;Under+My+Bed&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
