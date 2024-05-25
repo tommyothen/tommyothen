@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [88rising — History](https://www.last.fm/music/88rising/_/History)
+* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)
+* [Swervy — ART GANG MONEY &lpar;Feat. Reddy&rpar;](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY+&lpar;Feat.+Reddy&rpar;)
 * [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
-* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
-* [gyrofield — Verve Sweet](https://www.last.fm/music/gyrofield/_/Verve+Sweet)
-* [Jaden — K](https://www.last.fm/music/Jaden/_/K)
-* [FEDUK — Номер братвы &lpar;Feduk guitar&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%BE%D0%BC%D0%B5%D1%80+%D0%B1%D1%80%D0%B0%D1%82%D0%B2%D1%8B+&lpar;Feduk+guitar&rpar;)<!-- LASTFM:END -->
+* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
