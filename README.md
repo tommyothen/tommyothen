@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iñigo quintero — Si No Estás](https://www.last.fm/music/i%C3%B1igo+quintero/_/Si+No+Est%C3%A1s)
+* [Slow J — Também Sonhar](https://www.last.fm/music/Slow+J/_/Tamb%C3%A9m+Sonhar)
+* [Camilo — El Mismo Aire - con Pablo Alborán](https://www.last.fm/music/Camilo/_/El+Mismo+Aire+-+con+Pablo+Albor%C3%A1n)
 * [Calema — Te Amo](https://www.last.fm/music/Calema/_/Te+Amo)
-* [Nuno Ribeiro — Maria Joana](https://www.last.fm/music/Nuno+Ribeiro/_/Maria+Joana)
-* [Belén Aguilera — ANTAGONISTA](https://www.last.fm/music/Bel%C3%A9n+Aguilera/_/ANTAGONISTA)
-* [Porter Robinson — Flicker - Mat Zo Remix](https://www.last.fm/music/Porter+Robinson/_/Flicker+-+Mat+Zo+Remix)
-* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)<!-- LASTFM:END -->
+* [Nuno Ribeiro — Maria Joana](https://www.last.fm/music/Nuno+Ribeiro/_/Maria+Joana)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
