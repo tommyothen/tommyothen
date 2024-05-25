@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [iñigo quintero — Si No Estás](https://www.last.fm/music/i%C3%B1igo+quintero/_/Si+No+Est%C3%A1s)
-* [Slow J — Também Sonhar](https://www.last.fm/music/Slow+J/_/Tamb%C3%A9m+Sonhar)
-* [Camilo — El Mismo Aire - con Pablo Alborán](https://www.last.fm/music/Camilo/_/El+Mismo+Aire+-+con+Pablo+Albor%C3%A1n)
-* [Calema — Te Amo](https://www.last.fm/music/Calema/_/Te+Amo)
-* [Nuno Ribeiro — Maria Joana](https://www.last.fm/music/Nuno+Ribeiro/_/Maria+Joana)<!-- LASTFM:END -->
+* [Stephen — Crossfire](https://www.last.fm/music/Stephen/_/Crossfire)
+* [The Haunt — Cigarettes &amp; Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&amp;+Feelings)
+* [Call Me Karizma — Monster &lpar;Under My Bed&rpar;](https://www.last.fm/music/Call+Me+Karizma/_/Monster+&lpar;Under+My+Bed&rpar;)
+* [C. Tangana — Antes de morirme &lpar;feat. Rosalía&rpar;](https://www.last.fm/music/C.+Tangana/_/Antes+de+morirme+&lpar;feat.+Rosal%C3%ADa&rpar;)
+* [iñigo quintero — Si No Estás](https://www.last.fm/music/i%C3%B1igo+quintero/_/Si+No+Est%C3%A1s)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
