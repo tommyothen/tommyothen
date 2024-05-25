@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Royal &amp; the Serpent — Weddings &amp; Funerals](https://www.last.fm/music/Royal+&amp;+the+Serpent/_/Weddings+&amp;+Funerals)
+* [Dreamcatcher — Scream](https://www.last.fm/music/Dreamcatcher/_/Scream)
 * [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
 * [Wolf Alice — Smile](https://www.last.fm/music/Wolf+Alice/_/Smile)
-* [Stephen — Crossfire](https://www.last.fm/music/Stephen/_/Crossfire)
-* [The Haunt — Cigarettes &amp; Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&amp;+Feelings)
-* [Call Me Karizma — Monster &lpar;Under My Bed&rpar;](https://www.last.fm/music/Call+Me+Karizma/_/Monster+&lpar;Under+My+Bed&rpar;)<!-- LASTFM:END -->
+* [Stephen — Crossfire](https://www.last.fm/music/Stephen/_/Crossfire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
