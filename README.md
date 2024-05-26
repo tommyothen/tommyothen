@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dizzee Rascal — Bassline Junkie](https://www.last.fm/music/Dizzee+Rascal/_/Bassline+Junkie)
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [BABYMETAL — RATATATA](https://www.last.fm/music/BABYMETAL/_/RATATATA)
 * [Kylie Minogue — Padam Padam](https://www.last.fm/music/Kylie+Minogue/_/Padam+Padam)
-* [Gwen Stefani — The Sweet Escape](https://www.last.fm/music/Gwen+Stefani/_/The+Sweet+Escape)
-* [Britney Spears — Womanizer](https://www.last.fm/music/Britney+Spears/_/Womanizer)
-* [Carly Rae Jepsen — Call Me Maybe](https://www.last.fm/music/Carly+Rae+Jepsen/_/Call+Me+Maybe)
-* [Paramore — Still Into You](https://www.last.fm/music/Paramore/_/Still+Into+You)<!-- LASTFM:END -->
+* [Gwen Stefani — The Sweet Escape](https://www.last.fm/music/Gwen+Stefani/_/The+Sweet+Escape)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
