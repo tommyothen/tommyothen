@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katy Perry — Last Friday Night &lpar;T.G.I.F.&rpar;](https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+&lpar;T.G.I.F.&rpar;)
+* [Carlos Paredes — Canção Verdes Anos](https://www.last.fm/music/Carlos+Paredes/_/Can%C3%A7%C3%A3o+Verdes+Anos)
 * [Jesse Cook — Tempest](https://www.last.fm/music/Jesse+Cook/_/Tempest)
 * [Belén Aguilera — ANTAGONISTA](https://www.last.fm/music/Bel%C3%A9n+Aguilera/_/ANTAGONISTA)
-* [Basshunter — Now You&#39;re Gone &lpar;feat. DJ Mental Theo&#39;s Bazzheadz&rpar; - Video Edit](https://www.last.fm/music/Basshunter/_/Now+You%27re+Gone+&lpar;feat.+DJ+Mental+Theo%27s+Bazzheadz&rpar;+-+Video+Edit)
-* [Dizzee Rascal — Bassline Junkie](https://www.last.fm/music/Dizzee+Rascal/_/Bassline+Junkie)
-* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)<!-- LASTFM:END -->
+* [Basshunter — Now You&#39;re Gone &lpar;feat. DJ Mental Theo&#39;s Bazzheadz&rpar; - Video Edit](https://www.last.fm/music/Basshunter/_/Now+You%27re+Gone+&lpar;feat.+DJ+Mental+Theo%27s+Bazzheadz&rpar;+-+Video+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
