@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Belén Aguilera — ANTAGONISTA](https://www.last.fm/music/Bel%C3%A9n+Aguilera/_/ANTAGONISTA)
+* [Vintage Culture — Save Me &lpar;feat. MKLA&rpar;](https://www.last.fm/music/Vintage+Culture/_/Save+Me+&lpar;feat.+MKLA&rpar;)
 * [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)
 * [Rory in early 20s — unforeseen dream scenarios that glorify the beauty of a vacuum cleaner](https://www.last.fm/music/Rory+in+early+20s/_/unforeseen+dream+scenarios+that+glorify+the+beauty+of+a+vacuum+cleaner)
-* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
-* [Drake — God&#39;s Plan](https://www.last.fm/music/Drake/_/God%27s+Plan)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)<!-- LASTFM:END -->
+* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
