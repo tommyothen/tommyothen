@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Miley Cyrus — Party in the U.S.A.](https://www.last.fm/music/Miley+Cyrus/_/Party+in+the+U.S.A.)
+* [Black Eyed Peas — Meet Me Halfway](https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway)
 * [Bruno Mars — Runaway Baby](https://www.last.fm/music/Bruno+Mars/_/Runaway+Baby)
 * [Bruno Mars — Just the Way You Are](https://www.last.fm/music/Bruno+Mars/_/Just+the+Way+You+Are)
-* [Bullet for My Valentine — Cries in Vain](https://www.last.fm/music/Bullet+for+My+Valentine/_/Cries+in+Vain)
-* [Taiu — Rara Vez](https://www.last.fm/music/Taiu/_/Rara+Vez)
-* [Belén Aguilera — ANTAGONISTA](https://www.last.fm/music/Bel%C3%A9n+Aguilera/_/ANTAGONISTA)<!-- LASTFM:END -->
+* [Bullet for My Valentine — Cries in Vain](https://www.last.fm/music/Bullet+for+My+Valentine/_/Cries+in+Vain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
