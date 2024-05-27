@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
 * [Diplo — Color Blind](https://www.last.fm/music/Diplo/_/Color+Blind)
 * [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)
-* [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)
-* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
-* [Rory in early 20s — unforeseen dream scenarios that glorify the beauty of a vacuum cleaner](https://www.last.fm/music/Rory+in+early+20s/_/unforeseen+dream+scenarios+that+glorify+the+beauty+of+a+vacuum+cleaner)<!-- LASTFM:END -->
+* [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
