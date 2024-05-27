@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)
+* [MGMT — Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)
 * [Oliver Tree — Alien Boy](https://www.last.fm/music/Oliver+Tree/_/Alien+Boy)
 * [Tame Impala — The Less I Know the Better](https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better)
-* [Arctic Monkeys — Arabella](https://www.last.fm/music/Arctic+Monkeys/_/Arabella)
-* [Childish Gambino — Redbone](https://www.last.fm/music/Childish+Gambino/_/Redbone)
-* [Roy Ayers Ubiquity — Everybody Loves The Sunshine](https://www.last.fm/music/Roy+Ayers+Ubiquity/_/Everybody+Loves+The+Sunshine)<!-- LASTFM:END -->
+* [Arctic Monkeys — Arabella](https://www.last.fm/music/Arctic+Monkeys/_/Arabella)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
