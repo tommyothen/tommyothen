@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
+* [Royal &amp; the Serpent — i can&#39;t get high](https://www.last.fm/music/Royal+&amp;+the+Serpent/_/i+can%27t+get+high)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
 * [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
-* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
-* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
-* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)<!-- LASTFM:END -->
+* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
