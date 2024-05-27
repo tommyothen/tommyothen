@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Psychedelic Porn Crumpets — Cornflake](https://www.last.fm/music/Psychedelic+Porn+Crumpets/_/Cornflake)
 * [Yung Lean — Kyoto](https://www.last.fm/music/Yung+Lean/_/Kyoto)
 * [Arctic Monkeys — When the Sun Goes Down](https://www.last.fm/music/Arctic+Monkeys/_/When+the+Sun+Goes+Down)
 * [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)<!-- LASTFM:END -->
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
