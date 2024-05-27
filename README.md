@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
+* [Rory in early 20s — unforeseen dream scenarios that glorify the beauty of a vacuum cleaner](https://www.last.fm/music/Rory+in+early+20s/_/unforeseen+dream+scenarios+that+glorify+the+beauty+of+a+vacuum+cleaner)
 * [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
 * [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
-* [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)
-* [XYLØ — yes &amp; no](https://www.last.fm/music/XYL%C3%98/_/yes+&amp;+no)
-* [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)<!-- LASTFM:END -->
+* [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
