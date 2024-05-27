@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
 * [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
 * [Diplo — Color Blind](https://www.last.fm/music/Diplo/_/Color+Blind)
-* [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)
-* [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)<!-- LASTFM:END -->
+* [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
