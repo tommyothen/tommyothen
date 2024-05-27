@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
+* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
 * [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
-* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
-* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
-* [YUNG BAE — I Can Tell](https://www.last.fm/music/YUNG+BAE/_/I+Can+Tell)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)<!-- LASTFM:END -->
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
