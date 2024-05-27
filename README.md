@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [9 Gramm — Ласковый зверь](https://www.last.fm/music/9+Gramm/_/%D0%9B%D0%B0%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9+%D0%B7%D0%B2%D0%B5%D1%80%D1%8C)
+* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
 * [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
 * [Soffie — Bevor du gehst](https://www.last.fm/music/Soffie/_/Bevor+du+gehst)
-* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
+* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
