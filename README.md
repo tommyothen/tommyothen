@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Au/Ra — Panic Room](https://www.last.fm/music/Au%2FRa/_/Panic+Room)
+* [The Neighbourhood — Daddy Issues](https://www.last.fm/music/The+Neighbourhood/_/Daddy+Issues)
+* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)
 * [Kylie Minogue — Padam Padam](https://www.last.fm/music/Kylie+Minogue/_/Padam+Padam)
-* [Calema — Emmène Moi](https://www.last.fm/music/Calema/_/Emm%C3%A8ne+Moi)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [alt-J — Breezeblocks](https://www.last.fm/music/alt-J/_/Breezeblocks)
-* [Ghostemane — Bonesaw](https://www.last.fm/music/Ghostemane/_/Bonesaw)<!-- LASTFM:END -->
+* [Calema — Emmène Moi](https://www.last.fm/music/Calema/_/Emm%C3%A8ne+Moi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
