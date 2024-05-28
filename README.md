@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glasser — Tremel - Jamie xx Remix](https://www.last.fm/music/Glasser/_/Tremel+-+Jamie+xx+Remix)
 * [Mac Miller — Self Care](https://www.last.fm/music/Mac+Miller/_/Self+Care)
 * [Gorillaz — Feel Good Inc.](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.)
 * [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
-* [MGMT — Kids](https://www.last.fm/music/MGMT/_/Kids)
-* [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)<!-- LASTFM:END -->
+* [MGMT — Kids](https://www.last.fm/music/MGMT/_/Kids)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
