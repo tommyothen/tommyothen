@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JME — Man Don&#39;t Care](https://www.last.fm/music/JME/_/Man+Don%27t+Care)
+* [A$AP Rocky — Praise the Lord &lpar;Da Shine&rpar; &lpar;feat. Skepta&rpar;](https://www.last.fm/music/A$AP+Rocky/_/Praise+the+Lord+&lpar;Da+Shine&rpar;+&lpar;feat.+Skepta&rpar;)
 * [Ski Aggu — mietfrei](https://www.last.fm/music/Ski+Aggu/_/mietfrei)
 * [01099 — Anders](https://www.last.fm/music/01099/_/Anders)
-* [RAF Camora — Liebe Grüsse](https://www.last.fm/music/RAF+Camora/_/Liebe+Gr%C3%BCsse)
-* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
+* [RAF Camora — Liebe Grüsse](https://www.last.fm/music/RAF+Camora/_/Liebe+Gr%C3%BCsse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
