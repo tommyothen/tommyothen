@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [d3r — toxic](https://www.last.fm/music/d3r/_/toxic)
+* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
+* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
 * [JME — Man Don&#39;t Care](https://www.last.fm/music/JME/_/Man+Don%27t+Care)
-* [A$AP Rocky — Praise the Lord &lpar;Da Shine&rpar; &lpar;feat. Skepta&rpar;](https://www.last.fm/music/A$AP+Rocky/_/Praise+the+Lord+&lpar;Da+Shine&rpar;+&lpar;feat.+Skepta&rpar;)
-* [Ski Aggu — mietfrei](https://www.last.fm/music/Ski+Aggu/_/mietfrei)
-* [01099 — Anders](https://www.last.fm/music/01099/_/Anders)
-* [RAF Camora — Liebe Grüsse](https://www.last.fm/music/RAF+Camora/_/Liebe+Gr%C3%BCsse)<!-- LASTFM:END -->
+* [A$AP Rocky — Praise the Lord &lpar;Da Shine&rpar; &lpar;feat. Skepta&rpar;](https://www.last.fm/music/A$AP+Rocky/_/Praise+the+Lord+&lpar;Da+Shine&rpar;+&lpar;feat.+Skepta&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
