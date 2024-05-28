@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Au/Ra — Panic Room](https://www.last.fm/music/Au%2FRa/_/Panic+Room)
-* [The Neighbourhood — Daddy Issues](https://www.last.fm/music/The+Neighbourhood/_/Daddy+Issues)
-* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)
-* [Kylie Minogue — Padam Padam](https://www.last.fm/music/Kylie+Minogue/_/Padam+Padam)
-* [Calema — Emmène Moi](https://www.last.fm/music/Calema/_/Emm%C3%A8ne+Moi)<!-- LASTFM:END -->
+* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
+* [Ashnikko — L8r Boi](https://www.last.fm/music/Ashnikko/_/L8r+Boi)
+* [Jessie Murph — Upgrade](https://www.last.fm/music/Jessie+Murph/_/Upgrade)
+* [Laye — dancing](https://www.last.fm/music/Laye/_/dancing)
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
