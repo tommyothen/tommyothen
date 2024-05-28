@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gorillaz — Feel Good Inc.](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.)
+* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
 * [MGMT — Kids](https://www.last.fm/music/MGMT/_/Kids)
 * [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)
-* [Kid Cudi — Pursuit of Happiness &lpar;Nightmare&rpar;](https://www.last.fm/music/Kid+Cudi/_/Pursuit+of+Happiness+&lpar;Nightmare&rpar;)
-* [Tame Impala — Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)
-* [Glass Animals — The Other Side of Paradise](https://www.last.fm/music/Glass+Animals/_/The+Other+Side+of+Paradise)<!-- LASTFM:END -->
+* [Kid Cudi — Pursuit of Happiness &lpar;Nightmare&rpar;](https://www.last.fm/music/Kid+Cudi/_/Pursuit+of+Happiness+&lpar;Nightmare&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
