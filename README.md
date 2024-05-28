@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Airways — Reckless Tongue](https://www.last.fm/music/Airways/_/Reckless+Tongue)
 * [Faithless — Insomnia - Radio edit](https://www.last.fm/music/Faithless/_/Insomnia+-+Radio+edit)
 * [Glasser — Tremel - Jamie xx Remix](https://www.last.fm/music/Glasser/_/Tremel+-+Jamie+xx+Remix)
 * [Mac Miller — Self Care](https://www.last.fm/music/Mac+Miller/_/Self+Care)
-* [Gorillaz — Feel Good Inc.](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.)
-* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)<!-- LASTFM:END -->
+* [Gorillaz — Feel Good Inc.](https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
