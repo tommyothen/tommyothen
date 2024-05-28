@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
 * [Josh A — Hollow &lpar;Miss U&rpar;](https://www.last.fm/music/Josh+A/_/Hollow+&lpar;Miss+U&rpar;)
 * [Sunshine Vendetta — Rave On](https://www.last.fm/music/Sunshine+Vendetta/_/Rave+On)
 * [FEDUK — Перебрал](https://www.last.fm/music/FEDUK/_/%D0%9F%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%B0%D0%BB)
-* [Kyoto Black — Looking Pretty](https://www.last.fm/music/Kyoto+Black/_/Looking+Pretty)
-* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)<!-- LASTFM:END -->
+* [Kyoto Black — Looking Pretty](https://www.last.fm/music/Kyoto+Black/_/Looking+Pretty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
