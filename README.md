@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
-* [Rammstein — Engel](https://www.last.fm/music/Rammstein/_/Engel)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)<!-- LASTFM:END -->
+* [Ski Aggu — mietfrei](https://www.last.fm/music/Ski+Aggu/_/mietfrei)
+* [01099 — Anders](https://www.last.fm/music/01099/_/Anders)
+* [RAF Camora — Liebe Grüsse](https://www.last.fm/music/RAF+Camora/_/Liebe+Gr%C3%BCsse)
+* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
