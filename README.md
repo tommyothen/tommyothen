@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
+* [optic core — Distant Shore](https://www.last.fm/music/optic+core/_/Distant+Shore)
+* [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
 * [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
-* [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
-* [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
-* [Rory in early 20s — Ise Machekuta](https://www.last.fm/music/Rory+in+early+20s/_/Ise+Machekuta)<!-- LASTFM:END -->
+* [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
