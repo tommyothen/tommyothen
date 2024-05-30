@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
+* [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
 * [Rory in early 20s — Ise Machekuta](https://www.last.fm/music/Rory+in+early+20s/_/Ise+Machekuta)
 * [Rory in early 20s — Ise Machekuta](https://www.last.fm/music/Rory+in+early+20s/_/Ise+Machekuta)
-* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
-* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
-* [Josh A — Hollow &lpar;Miss U&rpar;](https://www.last.fm/music/Josh+A/_/Hollow+&lpar;Miss+U&rpar;)<!-- LASTFM:END -->
+* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
