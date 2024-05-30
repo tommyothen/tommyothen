@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
 * [optic core — Distant Shore](https://www.last.fm/music/optic+core/_/Distant+Shore)
+* [optic core — Distant Shore](https://www.last.fm/music/optic+core/_/Distant+Shore)
+* [Kuriso — let yourself be devoured~...!!!](https://www.last.fm/music/Kuriso/_/let+yourself+be+devoured~...!!!)
 * [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
-* [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
-* [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)<!-- LASTFM:END -->
+* [optic core — Distant Shore](https://www.last.fm/music/optic+core/_/Distant+Shore)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
