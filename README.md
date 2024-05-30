@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [sienna whisper — night train](https://www.last.fm/music/sienna+whisper/_/night+train)
+* [Twiggy Fiz — free bloom](https://www.last.fm/music/Twiggy+Fiz/_/free+bloom)
+* [Tales of Urbania — Altitude](https://www.last.fm/music/Tales+of+Urbania/_/Altitude)
 * [thin wire — Tough Night](https://www.last.fm/music/thin+wire/_/Tough+Night)
-* [Ali Kaj — Between Us](https://www.last.fm/music/Ali+Kaj/_/Between+Us)
-* [Ali Kaj — Between Us](https://www.last.fm/music/Ali+Kaj/_/Between+Us)
-* [Kuriso — let yourself be devoured~...!!!](https://www.last.fm/music/Kuriso/_/let+yourself+be+devoured~...!!!)
-* [optic core — Distant Shore](https://www.last.fm/music/optic+core/_/Distant+Shore)<!-- LASTFM:END -->
+* [Ali Kaj — Between Us](https://www.last.fm/music/Ali+Kaj/_/Between+Us)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
