@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [nearly monday — looking back](https://www.last.fm/music/nearly+monday/_/looking+back)
-* [Mathis — starry night](https://www.last.fm/music/Mathis/_/starry+night)
-* [Lofi Lucy — Your Vibe](https://www.last.fm/music/Lofi+Lucy/_/Your+Vibe)
-* [sienna whisper — night train](https://www.last.fm/music/sienna+whisper/_/night+train)
-* [Twiggy Fiz — free bloom](https://www.last.fm/music/Twiggy+Fiz/_/free+bloom)<!-- LASTFM:END -->
+* [BeatsBySindri — Gomorra](https://www.last.fm/music/BeatsBySindri/_/Gomorra)
+* [Zoe Reed — the clearing](https://www.last.fm/music/Zoe+Reed/_/the+clearing)
+* [Yellow Sofa — bookworn](https://www.last.fm/music/Yellow+Sofa/_/bookworn)
+* [A &amp; C — Multiply](https://www.last.fm/music/A+&amp;+C/_/Multiply)
+* [nearly monday — looking back](https://www.last.fm/music/nearly+monday/_/looking+back)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
