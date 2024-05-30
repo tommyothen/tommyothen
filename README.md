@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nearly monday — looking back](https://www.last.fm/music/nearly+monday/_/looking+back)
+* [Mathis — starry night](https://www.last.fm/music/Mathis/_/starry+night)
+* [Lofi Lucy — Your Vibe](https://www.last.fm/music/Lofi+Lucy/_/Your+Vibe)
 * [sienna whisper — night train](https://www.last.fm/music/sienna+whisper/_/night+train)
-* [Twiggy Fiz — free bloom](https://www.last.fm/music/Twiggy+Fiz/_/free+bloom)
-* [Tales of Urbania — Altitude](https://www.last.fm/music/Tales+of+Urbania/_/Altitude)
-* [thin wire — Tough Night](https://www.last.fm/music/thin+wire/_/Tough+Night)
-* [Ali Kaj — Between Us](https://www.last.fm/music/Ali+Kaj/_/Between+Us)<!-- LASTFM:END -->
+* [Twiggy Fiz — free bloom](https://www.last.fm/music/Twiggy+Fiz/_/free+bloom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
