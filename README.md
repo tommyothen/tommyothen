@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rustique Beats — distant memories](https://www.last.fm/music/Rustique+Beats/_/distant+memories)
+* [Kolorama — calathea](https://www.last.fm/music/Kolorama/_/calathea)
 * [BeatsBySindri — Gomorra](https://www.last.fm/music/BeatsBySindri/_/Gomorra)
 * [Zoe Reed — the clearing](https://www.last.fm/music/Zoe+Reed/_/the+clearing)
-* [Yellow Sofa — bookworn](https://www.last.fm/music/Yellow+Sofa/_/bookworn)
-* [A &amp; C — Multiply](https://www.last.fm/music/A+&amp;+C/_/Multiply)
-* [nearly monday — looking back](https://www.last.fm/music/nearly+monday/_/looking+back)<!-- LASTFM:END -->
+* [Yellow Sofa — bookworn](https://www.last.fm/music/Yellow+Sofa/_/bookworn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
