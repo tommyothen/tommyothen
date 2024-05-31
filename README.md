@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Moduz — Flasbak](https://www.last.fm/music/Moduz/_/Flasbak)
+* [MCR-T — Buurman Uit Berlijn - Radio Edit](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn+-+Radio+Edit)
+* [Kill Eva — Psycho Dreams &lpar;Sped Up&rpar;](https://www.last.fm/music/Kill+Eva/_/Psycho+Dreams+&lpar;Sped+Up&rpar;)
 * [bbno$ — IT BOY](https://www.last.fm/music/bbno$/_/IT+BOY)
-* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
-* [Knapsack — Nothing Less](https://www.last.fm/music/Knapsack/_/Nothing+Less)<!-- LASTFM:END -->
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
