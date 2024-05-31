@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fat Nick — Torch](https://www.last.fm/music/Fat+Nick/_/Torch)
+* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
 * [Knight Knight — rollies](https://www.last.fm/music/Knight+Knight/_/rollies)
-* [Rustique Beats — distant memories](https://www.last.fm/music/Rustique+Beats/_/distant+memories)
-* [Kolorama — calathea](https://www.last.fm/music/Kolorama/_/calathea)
-* [BeatsBySindri — Gomorra](https://www.last.fm/music/BeatsBySindri/_/Gomorra)<!-- LASTFM:END -->
+* [Rustique Beats — distant memories](https://www.last.fm/music/Rustique+Beats/_/distant+memories)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
