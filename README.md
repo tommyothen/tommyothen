@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — and](https://www.last.fm/music/Eden/_/and)
 * [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
 * [Fat Nick — Torch](https://www.last.fm/music/Fat+Nick/_/Torch)
 * [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [Knight Knight — rollies](https://www.last.fm/music/Knight+Knight/_/rollies)<!-- LASTFM:END -->
+* [Omniboi — Amnesia](https://www.last.fm/music/Omniboi/_/Amnesia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
