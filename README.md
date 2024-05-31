@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Russian Village Boys — Tekk Стиль 175](https://www.last.fm/music/Russian+Village+Boys/_/Tekk+%D0%A1%D1%82%D0%B8%D0%BB%D1%8C+175)
 * [Joost — Ome Robert](https://www.last.fm/music/Joost/_/Ome+Robert)
 * [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
 * [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
-* [Moduz — Flasbak](https://www.last.fm/music/Moduz/_/Flasbak)
-* [MCR-T — Buurman Uit Berlijn - Radio Edit](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn+-+Radio+Edit)<!-- LASTFM:END -->
+* [Moduz — Flasbak](https://www.last.fm/music/Moduz/_/Flasbak)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
