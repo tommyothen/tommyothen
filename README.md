@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [BLACKPINK — Shut Down](https://www.last.fm/music/BLACKPINK/_/Shut+Down)
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [MGMT — Kids](https://www.last.fm/music/MGMT/_/Kids)
-* [Post Malone — I Had Some Help &lpar;feat. Morgan Wallen&rpar;](https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+&lpar;feat.+Morgan+Wallen&rpar;)<!-- LASTFM:END -->
+* [MGMT — Kids](https://www.last.fm/music/MGMT/_/Kids)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
