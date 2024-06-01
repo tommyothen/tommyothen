@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
 * [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
 * [3mouth — +-+-&lpar;3&rpar;mouthfulofspraypaint$:!,](https://www.last.fm/music/3mouth/_/%252B-%252B-&lpar;3&rpar;mouthfulofspraypaint$:!,)
-* [pianoid — urge to urinate](https://www.last.fm/music/pianoid/_/urge+to+urinate)
-* [Dream Phobia — Never Forgotten](https://www.last.fm/music/Dream+Phobia/_/Never+Forgotten)
-* [yoshi the brilliant — beneath your feet](https://www.last.fm/music/yoshi+the+brilliant/_/beneath+your+feet)<!-- LASTFM:END -->
+* [pianoid — urge to urinate](https://www.last.fm/music/pianoid/_/urge+to+urinate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
