@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
+* [Metro Boomin — Too Many Nights &lpar;feat. Don Toliver &amp; with Future&rpar;](https://www.last.fm/music/Metro+Boomin/_/Too+Many+Nights+&lpar;feat.+Don+Toliver+&amp;+with+Future&rpar;)
 * [Kendrick Lamar — Not Like Us](https://www.last.fm/music/Kendrick+Lamar/_/Not+Like+Us)
 * [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)<!-- LASTFM:END -->
+* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
