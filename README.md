@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [soulmade — Smooth Operation](https://www.last.fm/music/soulmade/_/Smooth+Operation)
-* [ron quixote — Hey](https://www.last.fm/music/ron+quixote/_/Hey)
-* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
-* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
-* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)<!-- LASTFM:END -->
+* [3mouth — +-+-&lpar;3&rpar;mouthfulofspraypaint$:!,](https://www.last.fm/music/3mouth/_/%252B-%252B-&lpar;3&rpar;mouthfulofspraypaint$:!,)
+* [pianoid — urge to urinate](https://www.last.fm/music/pianoid/_/urge+to+urinate)
+* [Dream Phobia — Never Forgotten](https://www.last.fm/music/Dream+Phobia/_/Never+Forgotten)
+* [yoshi the brilliant — beneath your feet](https://www.last.fm/music/yoshi+the+brilliant/_/beneath+your+feet)
+* [soulmade — Smooth Operation](https://www.last.fm/music/soulmade/_/Smooth+Operation)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
