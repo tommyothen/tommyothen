@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MGMT — Kids](https://www.last.fm/music/MGMT/_/Kids)
+* [Post Malone — I Had Some Help &lpar;feat. Morgan Wallen&rpar;](https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+&lpar;feat.+Morgan+Wallen&rpar;)
+* [Paolo Nutini — New Shoes](https://www.last.fm/music/Paolo+Nutini/_/New+Shoes)
 * [Sebastian Paul — TROJAN HORSE](https://www.last.fm/music/Sebastian+Paul/_/TROJAN+HORSE)
-* [Arctic Monkeys — Why&#39;d You Only Call Me When You&#39;re High?](https://www.last.fm/music/Arctic+Monkeys/_/Why%27d+You+Only+Call+Me+When+You%27re+High%3F)
-* [Arctic Monkeys — I Bet You Look Good on the Dancefloor](https://www.last.fm/music/Arctic+Monkeys/_/I+Bet+You+Look+Good+on+the+Dancefloor)
-* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
-* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)<!-- LASTFM:END -->
+* [Arctic Monkeys — Why&#39;d You Only Call Me When You&#39;re High?](https://www.last.fm/music/Arctic+Monkeys/_/Why%27d+You+Only+Call+Me+When+You%27re+High%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
