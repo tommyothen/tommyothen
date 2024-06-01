@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
+* [soulmade — Smooth Operation](https://www.last.fm/music/soulmade/_/Smooth+Operation)
+* [ron quixote — Hey](https://www.last.fm/music/ron+quixote/_/Hey)
 * [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
-* [Russian Village Boys — Tekk Стиль 175](https://www.last.fm/music/Russian+Village+Boys/_/Tekk+%D0%A1%D1%82%D0%B8%D0%BB%D1%8C+175)
-* [Joost — Ome Robert](https://www.last.fm/music/Joost/_/Ome+Robert)
-* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)<!-- LASTFM:END -->
+* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
+* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
