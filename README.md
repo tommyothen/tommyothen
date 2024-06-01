@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kendrick Lamar — Not Like Us](https://www.last.fm/music/Kendrick+Lamar/_/Not+Like+Us)
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
 * [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
-* [Jeon Soyeon — Is this bad b****** number?](https://www.last.fm/music/Jeon+Soyeon/_/Is+this+bad+b******+number%3F)<!-- LASTFM:END -->
+* [Avit — twitterloser](https://www.last.fm/music/Avit/_/twitterloser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
