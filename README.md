@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)
 * [FEDUK — Заново Родился](https://www.last.fm/music/FEDUK/_/%D0%97%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE+%D0%A0%D0%BE%D0%B4%D0%B8%D0%BB%D1%81%D1%8F)
 * [Varien — Mirai Sekai - Continuous Mix](https://www.last.fm/music/Varien/_/Mirai+Sekai+-+Continuous+Mix)
 * [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
-* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
-* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)<!-- LASTFM:END -->
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
