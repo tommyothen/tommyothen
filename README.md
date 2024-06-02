@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Не одно и тоже](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B5+%D0%BE%D0%B4%D0%BD%D0%BE+%D0%B8+%D1%82%D0%BE%D0%B6%D0%B5)
+* [XXXTENTACION — I don&#39;t wanna do this anymore](https://www.last.fm/music/XXXTENTACION/_/I+don%27t+wanna+do+this+anymore)
+* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)
 * [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)
-* [FEDUK — Заново Родился](https://www.last.fm/music/FEDUK/_/%D0%97%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE+%D0%A0%D0%BE%D0%B4%D0%B8%D0%BB%D1%81%D1%8F)
-* [Varien — Mirai Sekai - Continuous Mix](https://www.last.fm/music/Varien/_/Mirai+Sekai+-+Continuous+Mix)
-* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
-* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)<!-- LASTFM:END -->
+* [FEDUK — Заново Родился](https://www.last.fm/music/FEDUK/_/%D0%97%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE+%D0%A0%D0%BE%D0%B4%D0%B8%D0%BB%D1%81%D1%8F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
