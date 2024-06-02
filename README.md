@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
+* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
+* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
 * [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)
-* [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)<!-- LASTFM:END -->
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
