@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
 * [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)
 * [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
-* [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)<!-- LASTFM:END -->
+* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
