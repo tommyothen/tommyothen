@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — Moonlight](https://www.last.fm/music/XXXTENTACION/_/Moonlight)
+* [Pegboard Nerds — Heaven Let Us Down](https://www.last.fm/music/Pegboard+Nerds/_/Heaven+Let+Us+Down)
 * [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
 * [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
-* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
-* [Oliver Tree — Do You Feel Me?](https://www.last.fm/music/Oliver+Tree/_/Do+You+Feel+Me%3F)
-* [Puppet — The Fire](https://www.last.fm/music/Puppet/_/The+Fire)<!-- LASTFM:END -->
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
