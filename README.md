@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eery — her](https://www.last.fm/music/Eery/_/her)
+* [heiakim — Omae Wa Mou Lofi Desu](https://www.last.fm/music/heiakim/_/Omae+Wa+Mou+Lofi+Desu)
 * [iBenji — Boom](https://www.last.fm/music/iBenji/_/Boom)
 * [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
-* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
-* [potsu — I&#39;m Closing My Eyes](https://www.last.fm/music/potsu/_/I%27m+Closing+My+Eyes)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)<!-- LASTFM:END -->
+* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
