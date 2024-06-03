@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tales of Urbania — Altitude](https://www.last.fm/music/Tales+of+Urbania/_/Altitude)
-* [thin wire — Tough Night](https://www.last.fm/music/thin+wire/_/Tough+Night)
-* [Lucavietski — We Are Love](https://www.last.fm/music/Lucavietski/_/We+Are+Love)
-* [$imba — aries](https://www.last.fm/music/$imba/_/aries)
-* [love_eight — projection](https://www.last.fm/music/love_eight/_/projection)<!-- LASTFM:END -->
+* [WIV — turn back](https://www.last.fm/music/WIV/_/turn+back)
+* [purity filter — red dot](https://www.last.fm/music/purity+filter/_/red+dot)
+* [Rory in early 20s — Ise Machekuta](https://www.last.fm/music/Rory+in+early+20s/_/Ise+Machekuta)
+* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
+* [KL1N9Y — Schizophrenic System Shutdown](https://www.last.fm/music/KL1N9Y/_/Schizophrenic+System+Shutdown)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
