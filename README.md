@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kupla — Saudade](https://www.last.fm/music/Kupla/_/Saudade)
+* [Home — Resonance](https://www.last.fm/music/Home/_/Resonance)
+* [Oliver Tree — All I Got](https://www.last.fm/music/Oliver+Tree/_/All+I+Got)
 * [Jarv &amp; Thief — Lady Killer](https://www.last.fm/music/Jarv+&amp;+Thief/_/Lady+Killer)
-* [Flamingosis — Sunset Park](https://www.last.fm/music/Flamingosis/_/Sunset+Park)
-* [Billie Eilish — when the party&#39;s over](https://www.last.fm/music/Billie+Eilish/_/when+the+party%27s+over)
-* [Sleepy — Hai Domo](https://www.last.fm/music/Sleepy/_/Hai+Domo)
-* [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)<!-- LASTFM:END -->
+* [Flamingosis — Sunset Park](https://www.last.fm/music/Flamingosis/_/Sunset+Park)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
