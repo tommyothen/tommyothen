@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
+* [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)
 * [Lemaitre — Higher](https://www.last.fm/music/Lemaitre/_/Higher)
 * [XXXTENTACION — Moonlight](https://www.last.fm/music/XXXTENTACION/_/Moonlight)
-* [Pegboard Nerds — Heaven Let Us Down](https://www.last.fm/music/Pegboard+Nerds/_/Heaven+Let+Us+Down)
-* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
-* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)<!-- LASTFM:END -->
+* [Pegboard Nerds — Heaven Let Us Down](https://www.last.fm/music/Pegboard+Nerds/_/Heaven+Let+Us+Down)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
