@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [AcesToAces — CHINA TOWN](https://www.last.fm/music/AcesToAces/_/CHINA+TOWN)
+* [Ciki — Syndrome](https://www.last.fm/music/Ciki/_/Syndrome)
 * [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)
 * [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
-* [bbno$ — too easy](https://www.last.fm/music/bbno$/_/too+easy)
-* [bbno$ — nursery](https://www.last.fm/music/bbno$/_/nursery)
-* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)<!-- LASTFM:END -->
+* [bbno$ — too easy](https://www.last.fm/music/bbno$/_/too+easy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
