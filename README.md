@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billie Eilish — when the party&#39;s over](https://www.last.fm/music/Billie+Eilish/_/when+the+party%27s+over)
+* [Sleepy — Hai Domo](https://www.last.fm/music/Sleepy/_/Hai+Domo)
+* [Joe Hisaishi — Merry-Go-Round of Life - from &#39;Howl&#39;s Moving Castle&#39;](https://www.last.fm/music/Joe+Hisaishi/_/Merry-Go-Round+of+Life+-+from+%27Howl%27s+Moving+Castle%27)
 * [Atlas — facade](https://www.last.fm/music/Atlas/_/facade)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [Eery — her](https://www.last.fm/music/Eery/_/her)
-* [heiakim — Omae Wa Mou Lofi Desu](https://www.last.fm/music/heiakim/_/Omae+Wa+Mou+Lofi+Desu)
-* [iBenji — Boom](https://www.last.fm/music/iBenji/_/Boom)<!-- LASTFM:END -->
+* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
