@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Сицилийская мафия &lpar;feat. Dooit&rpar;](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%B8%D1%86%D0%B8%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F+%D0%BC%D0%B0%D1%84%D0%B8%D1%8F+&lpar;feat.+Dooit&rpar;)
+* [Maybe Baby — Аскорбинка 2.0](https://www.last.fm/music/Maybe+Baby/_/%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0+2.0)
 * [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)
 * [Frédéric Chopin — Fantasy-Impromptu in C-sharp minor, Op. 66](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasy-Impromptu+in+C-sharp+minor,+Op.+66)
-* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
-* [Wun Two — Again](https://www.last.fm/music/Wun+Two/_/Again)
-* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)<!-- LASTFM:END -->
+* [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
