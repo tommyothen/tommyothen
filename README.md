@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
+* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
 * [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
 * [Oliver Tree — Do You Feel Me?](https://www.last.fm/music/Oliver+Tree/_/Do+You+Feel+Me%3F)
-* [Puppet — The Fire](https://www.last.fm/music/Puppet/_/The+Fire)
-* [FEDUK — Сицилийская мафия &lpar;feat. Dooit&rpar;](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%B8%D1%86%D0%B8%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F+%D0%BC%D0%B0%D1%84%D0%B8%D1%8F+&lpar;feat.+Dooit&rpar;)
-* [Maybe Baby — Аскорбинка 2.0](https://www.last.fm/music/Maybe+Baby/_/%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0+2.0)<!-- LASTFM:END -->
+* [Puppet — The Fire](https://www.last.fm/music/Puppet/_/The+Fire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
