@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SCARLXRD — What&#39;s With Yxu?](https://www.last.fm/music/SCARLXRD/_/What%27s+With+Yxu%3F)
+* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
 * [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
 * [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
-* [Ashnikko — Daisy 2.0 &lpar;feat. Hatsune Miku&rpar;](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+&lpar;feat.+Hatsune+Miku&rpar;)
-* [DOGDEER — Snow](https://www.last.fm/music/DOGDEER/_/Snow)
-* [Autograf — Sleepless In NYC](https://www.last.fm/music/Autograf/_/Sleepless+In+NYC)<!-- LASTFM:END -->
+* [Ashnikko — Daisy 2.0 &lpar;feat. Hatsune Miku&rpar;](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+&lpar;feat.+Hatsune+Miku&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
