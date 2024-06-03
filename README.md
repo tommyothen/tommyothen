@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Лирикс](https://www.last.fm/music/FEDUK/_/%D0%9B%D0%B8%D1%80%D0%B8%D0%BA%D1%81)
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
+* [Saib — Snow](https://www.last.fm/music/Saib/_/Snow)
 * [lund — By My Side](https://www.last.fm/music/lund/_/By+My+Side)
-* [FEDUK — В своём дворе #2](https://www.last.fm/music/FEDUK/_/%D0%92+%D1%81%D0%B2%D0%BE%D1%91%D0%BC+%D0%B4%D0%B2%D0%BE%D1%80%D0%B5+%232)
-* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
-* [Cooliecut — Chokehold](https://www.last.fm/music/Cooliecut/_/Chokehold)
-* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)<!-- LASTFM:END -->
+* [FEDUK — В своём дворе #2](https://www.last.fm/music/FEDUK/_/%D0%92+%D1%81%D0%B2%D0%BE%D1%91%D0%BC+%D0%B4%D0%B2%D0%BE%D1%80%D0%B5+%232)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
