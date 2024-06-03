@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
+* [Jon Bellion — All Time Low](https://www.last.fm/music/Jon+Bellion/_/All+Time+Low)
+* [Y2K — Lalala](https://www.last.fm/music/Y2K/_/Lalala)
 * [Ramson Badbonez — Hypnodic](https://www.last.fm/music/Ramson+Badbonez/_/Hypnodic)
-* [Prop Dylan — Can you imagine](https://www.last.fm/music/Prop+Dylan/_/Can+you+imagine)
-* [Rich Brian — Amen](https://www.last.fm/music/Rich+Brian/_/Amen)
-* [Onlychild — Teeth](https://www.last.fm/music/Onlychild/_/Teeth)
-* [Ghost Data — CELESTIAL BODIES](https://www.last.fm/music/Ghost+Data/_/CELESTIAL+BODIES)<!-- LASTFM:END -->
+* [Prop Dylan — Can you imagine](https://www.last.fm/music/Prop+Dylan/_/Can+you+imagine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
