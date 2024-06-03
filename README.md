@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)
+* [potsu — I&#39;m Closing My Eyes](https://www.last.fm/music/potsu/_/I%27m+Closing+My+Eyes)
 * [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
 * [Billy Marchiafava — Disco Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Disco+Type+Beat)
-* [XXXTENTACION — before i close my eyes](https://www.last.fm/music/XXXTENTACION/_/before+i+close+my+eyes)
-* [FEDUK — Лирикс](https://www.last.fm/music/FEDUK/_/%D0%9B%D0%B8%D1%80%D0%B8%D0%BA%D1%81)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
+* [XXXTENTACION — before i close my eyes](https://www.last.fm/music/XXXTENTACION/_/before+i+close+my+eyes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
