@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Pouya — Superman Is Dead](https://www.last.fm/music/Pouya/_/Superman+Is+Dead)
-* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [FWLR — How We Win](https://www.last.fm/music/FWLR/_/How+We+Win)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [bbno$ — Run It Up](https://www.last.fm/music/bbno$/_/Run+It+Up)<!-- LASTFM:END -->
+* [zach farache — lets just stay here](https://www.last.fm/music/zach+farache/_/lets+just+stay+here)
+* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
+* [FEDUK — Наш остров &lpar;feat. Garri Vu&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B0%D1%88+%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2+&lpar;feat.+Garri+Vu&rpar;)
+* [iAmJakeHill — Wither](https://www.last.fm/music/iAmJakeHill/_/Wither)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
