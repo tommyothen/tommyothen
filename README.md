@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
+* [Falconite — Digital Baptism](https://www.last.fm/music/Falconite/_/Digital+Baptism)
+* [Eevee — acid](https://www.last.fm/music/Eevee/_/acid)
 * [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
-* [Bass Santana — Curse](https://www.last.fm/music/Bass+Santana/_/Curse)
-* [Kupla — Saudade](https://www.last.fm/music/Kupla/_/Saudade)
-* [Home — Resonance](https://www.last.fm/music/Home/_/Resonance)
-* [Oliver Tree — All I Got](https://www.last.fm/music/Oliver+Tree/_/All+I+Got)<!-- LASTFM:END -->
+* [Bass Santana — Curse](https://www.last.fm/music/Bass+Santana/_/Curse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
