@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)
-* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
-* [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
-* [FEDUK — БРМ #2 &lpar;feat. Fast Vagner&rpar;](https://www.last.fm/music/FEDUK/_/%D0%91%D0%A0%D0%9C+%232+&lpar;feat.+Fast+Vagner&rpar;)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
+* [Cooliecut — Chokehold](https://www.last.fm/music/Cooliecut/_/Chokehold)
+* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)
+* [XXXTENTACION — love yourself &lpar;interlude&rpar;](https://www.last.fm/music/XXXTENTACION/_/love+yourself+&lpar;interlude&rpar;)
+* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
+* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
