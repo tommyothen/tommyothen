@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Amara ctk100 — Just Kidding](https://www.last.fm/music/Amara+ctk100/_/Just+Kidding)
-* [Falconite — Digital Baptism](https://www.last.fm/music/Falconite/_/Digital+Baptism)
-* [Eevee — acid](https://www.last.fm/music/Eevee/_/acid)
-* [Dua Lipa — Kiss and Make Up](https://www.last.fm/music/Dua+Lipa/_/Kiss+and+Make+Up)
-* [Bass Santana — Curse](https://www.last.fm/music/Bass+Santana/_/Curse)<!-- LASTFM:END -->
+* [bbno$ — too easy](https://www.last.fm/music/bbno$/_/too+easy)
+* [bbno$ — nursery](https://www.last.fm/music/bbno$/_/nursery)
+* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
+* [Pouya — Back off Me](https://www.last.fm/music/Pouya/_/Back+off+Me)
+* [Shinigami — heart attack](https://www.last.fm/music/Shinigami/_/heart+attack)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
