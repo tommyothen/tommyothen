@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [zach farache — lets just stay here](https://www.last.fm/music/zach+farache/_/lets+just+stay+here)
-* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [FEDUK — Наш остров &lpar;feat. Garri Vu&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B0%D1%88+%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2+&lpar;feat.+Garri+Vu&rpar;)
-* [iAmJakeHill — Wither](https://www.last.fm/music/iAmJakeHill/_/Wither)<!-- LASTFM:END -->
+* [Ashnikko — Daisy 2.0 &lpar;feat. Hatsune Miku&rpar;](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+&lpar;feat.+Hatsune+Miku&rpar;)
+* [DOGDEER — Snow](https://www.last.fm/music/DOGDEER/_/Snow)
+* [Autograf — Sleepless In NYC](https://www.last.fm/music/Autograf/_/Sleepless+In+NYC)
+* [Ekali — Blame](https://www.last.fm/music/Ekali/_/Blame)
+* [zach farache — lets just stay here](https://www.last.fm/music/zach+farache/_/lets+just+stay+here)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
