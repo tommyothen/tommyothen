@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [purity filter — Lost Silver](https://www.last.fm/music/purity+filter/_/Lost+Silver)
+* [FlowerBoyDeMii — Subject: Haise](https://www.last.fm/music/FlowerBoyDeMii/_/Subject:+Haise)
+* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
 * [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)
-* [Mayo. — Lost](https://www.last.fm/music/Mayo./_/Lost)
-* [WIV — turn back](https://www.last.fm/music/WIV/_/turn+back)
-* [purity filter — red dot](https://www.last.fm/music/purity+filter/_/red+dot)
-* [KL1N9Y — Schizophrenic System Shutdown](https://www.last.fm/music/KL1N9Y/_/Schizophrenic+System+Shutdown)<!-- LASTFM:END -->
+* [Mayo. — Lost](https://www.last.fm/music/Mayo./_/Lost)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
