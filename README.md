@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sub Urban — Freak &lpar;feat. REI AMI&rpar;](https://www.last.fm/music/Sub+Urban/_/Freak+&lpar;feat.+REI+AMI&rpar;)
+* [grandson — Best Friends](https://www.last.fm/music/grandson/_/Best+Friends)
 * [bbno$ — opus](https://www.last.fm/music/bbno$/_/opus)
 * [Liho — Surrender](https://www.last.fm/music/Liho/_/Surrender)
-* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
-* [bbno$ — flex](https://www.last.fm/music/bbno$/_/flex)
-* [Lemaitre — Higher](https://www.last.fm/music/Lemaitre/_/Higher)<!-- LASTFM:END -->
+* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
