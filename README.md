@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
+* [Snaggletooth — Boohoo Baby](https://www.last.fm/music/Snaggletooth/_/Boohoo+Baby)
 * [SCARLXRD — What&#39;s With Yxu?](https://www.last.fm/music/SCARLXRD/_/What%27s+With+Yxu%3F)
 * [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
-* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
-* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
-* [Ashnikko — Daisy 2.0 &lpar;feat. Hatsune Miku&rpar;](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+&lpar;feat.+Hatsune+Miku&rpar;)<!-- LASTFM:END -->
+* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
