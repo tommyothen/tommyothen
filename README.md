@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
+* [goreshit — Alleau!](https://www.last.fm/music/goreshit/_/Alleau!)
 * [Ashnikko — Daisy 2.0 &lpar;feat. Hatsune Miku&rpar;](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+&lpar;feat.+Hatsune+Miku&rpar;)
 * [DOGDEER — Snow](https://www.last.fm/music/DOGDEER/_/Snow)
-* [Autograf — Sleepless In NYC](https://www.last.fm/music/Autograf/_/Sleepless+In+NYC)
-* [Ekali — Blame](https://www.last.fm/music/Ekali/_/Blame)
-* [zach farache — lets just stay here](https://www.last.fm/music/zach+farache/_/lets+just+stay+here)<!-- LASTFM:END -->
+* [Autograf — Sleepless In NYC](https://www.last.fm/music/Autograf/_/Sleepless+In+NYC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
