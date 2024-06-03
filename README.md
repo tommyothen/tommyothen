@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [love_eight — projection](https://www.last.fm/music/love_eight/_/projection)
+* [ai sayuri — blossom](https://www.last.fm/music/ai+sayuri/_/blossom)
 * [Lvta — northen lights](https://www.last.fm/music/Lvta/_/northen+lights)
 * [Ali Kaj — Between Us](https://www.last.fm/music/Ali+Kaj/_/Between+Us)
-* [Marmalade butcher — Floccinaucinihilipilification](https://www.last.fm/music/Marmalade+butcher/_/Floccinaucinihilipilification)
-* [Desired — Wake Up](https://www.last.fm/music/Desired/_/Wake+Up)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)<!-- LASTFM:END -->
+* [Marmalade butcher — Floccinaucinihilipilification](https://www.last.fm/music/Marmalade+butcher/_/Floccinaucinihilipilification)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
