@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pouya — Superman Is Dead](https://www.last.fm/music/Pouya/_/Superman+Is+Dead)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [FWLR — How We Win](https://www.last.fm/music/FWLR/_/How+We+Win)
 * [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [bbno$ — Run It Up](https://www.last.fm/music/bbno$/_/Run+It+Up)
-* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
-* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
-* [purity filter — Lost Silver](https://www.last.fm/music/purity+filter/_/Lost+Silver)<!-- LASTFM:END -->
+* [bbno$ — Run It Up](https://www.last.fm/music/bbno$/_/Run+It+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
