@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
+* [FEDUK — БРМ #2 &lpar;feat. Fast Vagner&rpar;](https://www.last.fm/music/FEDUK/_/%D0%91%D0%A0%D0%9C+%232+&lpar;feat.+Fast+Vagner&rpar;)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
-* [Oliver Tree — Enemy](https://www.last.fm/music/Oliver+Tree/_/Enemy)
-* [Arizona Zervas — ROXANNE](https://www.last.fm/music/Arizona+Zervas/_/ROXANNE)
-* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)<!-- LASTFM:END -->
+* [Oliver Tree — Enemy](https://www.last.fm/music/Oliver+Tree/_/Enemy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
