@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)
+* [Frédéric Chopin — Fantasy-Impromptu in C-sharp minor, Op. 66](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Fantasy-Impromptu+in+C-sharp+minor,+Op.+66)
 * [Ivory Rasmus — Not Holding Back](https://www.last.fm/music/Ivory+Rasmus/_/Not+Holding+Back)
 * [Wun Two — Again](https://www.last.fm/music/Wun+Two/_/Again)
-* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
-* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
-* [D-Real [愛] — Always You](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Always+You)<!-- LASTFM:END -->
+* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
