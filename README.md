@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Atlas — facade](https://www.last.fm/music/Atlas/_/facade)
+* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
 * [Eery — her](https://www.last.fm/music/Eery/_/her)
 * [heiakim — Omae Wa Mou Lofi Desu](https://www.last.fm/music/heiakim/_/Omae+Wa+Mou+Lofi+Desu)
-* [iBenji — Boom](https://www.last.fm/music/iBenji/_/Boom)
-* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
-* [Ali — LOST IN PARADISE](https://www.last.fm/music/Ali/_/LOST+IN+PARADISE)<!-- LASTFM:END -->
+* [iBenji — Boom](https://www.last.fm/music/iBenji/_/Boom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
