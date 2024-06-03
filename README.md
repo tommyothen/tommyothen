@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
+* [Billy Marchiafava — Disco Type Beat](https://www.last.fm/music/Billy+Marchiafava/_/Disco+Type+Beat)
+* [XXXTENTACION — before i close my eyes](https://www.last.fm/music/XXXTENTACION/_/before+i+close+my+eyes)
 * [FEDUK — Лирикс](https://www.last.fm/music/FEDUK/_/%D0%9B%D0%B8%D1%80%D0%B8%D0%BA%D1%81)
-* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)
-* [Saib — Snow](https://www.last.fm/music/Saib/_/Snow)
-* [lund — By My Side](https://www.last.fm/music/lund/_/By+My+Side)
-* [FEDUK — В своём дворе #2](https://www.last.fm/music/FEDUK/_/%D0%92+%D1%81%D0%B2%D0%BE%D1%91%D0%BC+%D0%B4%D0%B2%D0%BE%D1%80%D0%B5+%232)<!-- LASTFM:END -->
+* [REI AMI — RICKY BOBBY](https://www.last.fm/music/REI+AMI/_/RICKY+BOBBY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
