@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [AL-X the Great — Rocketman &lpar;feat. Atlas &amp; Lando!&rpar;](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+&lpar;feat.+Atlas+&amp;+Lando!&rpar;)
-* [Surfaces — Sunday Best](https://www.last.fm/music/Surfaces/_/Sunday+Best)
-* [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)
-* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
-* [Eden — C&#39;est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)<!-- LASTFM:END -->
+* [Josh A — Escape to Love &lpar;Girl Interlude&rpar;](https://www.last.fm/music/Josh+A/_/Escape+to+Love+&lpar;Girl+Interlude&rpar;)
+* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
+* [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)
+* [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)
+* [Royal &amp; the Serpent — Weddings &amp; Funerals](https://www.last.fm/music/Royal+&amp;+the+Serpent/_/Weddings+&amp;+Funerals)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
