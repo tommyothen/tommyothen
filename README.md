@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Josh A — Escape to Love &lpar;Girl Interlude&rpar;](https://www.last.fm/music/Josh+A/_/Escape+to+Love+&lpar;Girl+Interlude&rpar;)
-* [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
-* [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)
-* [Geoxor — Euphoria](https://www.last.fm/music/Geoxor/_/Euphoria)
-* [Royal &amp; the Serpent — Weddings &amp; Funerals](https://www.last.fm/music/Royal+&amp;+the+Serpent/_/Weddings+&amp;+Funerals)<!-- LASTFM:END -->
+* [FEDUK — Ловить нечего](https://www.last.fm/music/FEDUK/_/%D0%9B%D0%BE%D0%B2%D0%B8%D1%82%D1%8C+%D0%BD%D0%B5%D1%87%D0%B5%D0%B3%D0%BE)
+* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
+* [XXXTENTACION — Moonlight](https://www.last.fm/music/XXXTENTACION/_/Moonlight)
+* [Unlike Pluto — Worst In Me](https://www.last.fm/music/Unlike+Pluto/_/Worst+In+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
