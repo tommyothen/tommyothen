@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [FEDUK — Ловить нечего](https://www.last.fm/music/FEDUK/_/%D0%9B%D0%BE%D0%B2%D0%B8%D1%82%D1%8C+%D0%BD%D0%B5%D1%87%D0%B5%D0%B3%D0%BE)
-* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [XXXTENTACION — Moonlight](https://www.last.fm/music/XXXTENTACION/_/Moonlight)
-* [Unlike Pluto — Worst In Me](https://www.last.fm/music/Unlike+Pluto/_/Worst+In+Me)<!-- LASTFM:END -->
+* [Axiliya — With U](https://www.last.fm/music/Axiliya/_/With+U)
+* [potsu — I&#39;m Closing My Eyes](https://www.last.fm/music/potsu/_/I%27m+Closing+My+Eyes)
+* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
+* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
+* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
