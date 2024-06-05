@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
-* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
-* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
-* [Tinashe — Nasty](https://www.last.fm/music/Tinashe/_/Nasty)
-* [SwuM — Rick N Morty](https://www.last.fm/music/SwuM/_/Rick+N+Morty)<!-- LASTFM:END -->
+* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
+* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
+* [Rory in early 20s — unforeseen dream scenarios that glorify the beauty of a vacuum cleaner](https://www.last.fm/music/Rory+in+early+20s/_/unforeseen+dream+scenarios+that+glorify+the+beauty+of+a+vacuum+cleaner)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
