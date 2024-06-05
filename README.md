@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
+* [Tinashe — Nasty](https://www.last.fm/music/Tinashe/_/Nasty)
 * [SwuM — Rick N Morty](https://www.last.fm/music/SwuM/_/Rick+N+Morty)
 * [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
-* [Kupla — Moudi Funk](https://www.last.fm/music/Kupla/_/Moudi+Funk)
-* [Kin$oul — Members Only SHit](https://www.last.fm/music/Kin$oul/_/Members+Only+SHit)
-* [bbno$ — bulletproof](https://www.last.fm/music/bbno$/_/bulletproof)<!-- LASTFM:END -->
+* [Kupla — Moudi Funk](https://www.last.fm/music/Kupla/_/Moudi+Funk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
