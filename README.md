@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lumi Athena — NALGOTICA!](https://www.last.fm/music/Lumi+Athena/_/NALGOTICA!)
-* [Rebzyyx — I deserve this](https://www.last.fm/music/Rebzyyx/_/I+deserve+this)
-* [DECO*27 — ラビットホール](https://www.last.fm/music/DECO*27/_/%E3%83%A9%E3%83%93%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB)
-* [We Came as Romans — Cold Like War](https://www.last.fm/music/We+Came+as+Romans/_/Cold+Like+War)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)<!-- LASTFM:END -->
+* [weirdo girl — ♪ ☊♪☊ ♪☊ ♪♪ ☊ ♪☊ ♪](https://www.last.fm/music/weirdo+girl/_/%E2%99%AA+%E2%98%8A%E2%99%AA%E2%98%8A+%E2%99%AA%E2%98%8A+%E2%99%AA%E2%99%AA+%E2%98%8A+%E2%99%AA%E2%98%8A+%E2%99%AA)
+* [Ennaria — Monstarrr](https://www.last.fm/music/Ennaria/_/Monstarrr)
+* [hkmori — lost](https://www.last.fm/music/hkmori/_/lost)
+* [ur pretty — Hit My Spot](https://www.last.fm/music/ur+pretty/_/Hit+My+Spot)
+* [sudbath — just like you](https://www.last.fm/music/sudbath/_/just+like+you)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
