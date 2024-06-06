@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Wasia Project — Petals on the Moon](https://www.last.fm/music/Wasia+Project/_/Petals+on+the+Moon)
 * [weirdo girl — ♪ ☊♪☊ ♪☊ ♪♪ ☊ ♪☊ ♪](https://www.last.fm/music/weirdo+girl/_/%E2%99%AA+%E2%98%8A%E2%99%AA%E2%98%8A+%E2%99%AA%E2%98%8A+%E2%99%AA%E2%99%AA+%E2%98%8A+%E2%99%AA%E2%98%8A+%E2%99%AA)
 * [Ennaria — Monstarrr](https://www.last.fm/music/Ennaria/_/Monstarrr)
 * [hkmori — lost](https://www.last.fm/music/hkmori/_/lost)
-* [ur pretty — Hit My Spot](https://www.last.fm/music/ur+pretty/_/Hit+My+Spot)
-* [sudbath — just like you](https://www.last.fm/music/sudbath/_/just+like+you)<!-- LASTFM:END -->
+* [ur pretty — Hit My Spot](https://www.last.fm/music/ur+pretty/_/Hit+My+Spot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
