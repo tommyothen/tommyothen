@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
+* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
+* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
 * [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
-* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)
-* [Wasia Project — Petals on the Moon](https://www.last.fm/music/Wasia+Project/_/Petals+on+the+Moon)<!-- LASTFM:END -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
