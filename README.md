@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)
+* [bbno$ — stucco](https://www.last.fm/music/bbno$/_/stucco)
 * [Eden — take care](https://www.last.fm/music/Eden/_/take+care)
 * [Billie Eilish — goodbye](https://www.last.fm/music/Billie+Eilish/_/goodbye)
-* [Darren Ang — Lake &lpar;From &quot;Pokémon DPPt&quot;&rpar;](https://www.last.fm/music/Darren+Ang/_/Lake+&lpar;From+%22Pok%C3%A9mon+DPPt%22&rpar;)
-* [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)
-* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)<!-- LASTFM:END -->
+* [Darren Ang — Lake &lpar;From &quot;Pokémon DPPt&quot;&rpar;](https://www.last.fm/music/Darren+Ang/_/Lake+&lpar;From+%22Pok%C3%A9mon+DPPt%22&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
