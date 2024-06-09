@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kill Bill: The Rapper — sleeptalking](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/sleeptalking)
+* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
 * [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)
 * [bbno$ — stucco](https://www.last.fm/music/bbno$/_/stucco)
-* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)
-* [Billie Eilish — goodbye](https://www.last.fm/music/Billie+Eilish/_/goodbye)
-* [Darren Ang — Lake &lpar;From &quot;Pokémon DPPt&quot;&rpar;](https://www.last.fm/music/Darren+Ang/_/Lake+&lpar;From+%22Pok%C3%A9mon+DPPt%22&rpar;)<!-- LASTFM:END -->
+* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
