@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SCARLXRD — I WANT TX SEE YXU BLEED](https://www.last.fm/music/SCARLXRD/_/I+WANT+TX+SEE+YXU+BLEED)
+* [BROCKHAMPTON — NEW ORLEANS](https://www.last.fm/music/BROCKHAMPTON/_/NEW+ORLEANS)
 * [6 Dogs — Faygo Dreams](https://www.last.fm/music/6+Dogs/_/Faygo+Dreams)
 * [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
-* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)
-* [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
-* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)<!-- LASTFM:END -->
+* [half•alive — still feel.](https://www.last.fm/music/half%E2%80%A2alive/_/still+feel.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
