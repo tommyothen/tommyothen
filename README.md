@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eevee — that real good](https://www.last.fm/music/Eevee/_/that+real+good)
-* [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
-* [FEDUK — Угар стёб секси](https://www.last.fm/music/FEDUK/_/%D0%A3%D0%B3%D0%B0%D1%80+%D1%81%D1%82%D1%91%D0%B1+%D1%81%D0%B5%D0%BA%D1%81%D0%B8)
-* [Ark Patrol — Hex](https://www.last.fm/music/Ark+Patrol/_/Hex)<!-- LASTFM:END -->
+* [Kupla — Saudade](https://www.last.fm/music/Kupla/_/Saudade)
+* [BROCKBEATS — magic smoke](https://www.last.fm/music/BROCKBEATS/_/magic+smoke)
+* [elijah who — my new love](https://www.last.fm/music/elijah+who/_/my+new+love)
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
+* [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
