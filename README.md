@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
 * [Cute Girls Doing Cute Things — I Like Cute Girls](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/I+Like+Cute+Girls)
 * [Sleepy — Hai Domo](https://www.last.fm/music/Sleepy/_/Hai+Domo)
-* [Fliptrix — Monday To Sunday](https://www.last.fm/music/Fliptrix/_/Monday+To+Sunday)
-* [Triple One — Autumn Collection](https://www.last.fm/music/Triple+One/_/Autumn+Collection)
-* [FEDUK — TOUR DE FRANCE](https://www.last.fm/music/FEDUK/_/TOUR+DE+FRANCE)<!-- LASTFM:END -->
+* [Fliptrix — Monday To Sunday](https://www.last.fm/music/Fliptrix/_/Monday+To+Sunday)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
