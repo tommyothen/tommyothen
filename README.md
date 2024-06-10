@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
+* [SCARLXRD — HEAD GXNE](https://www.last.fm/music/SCARLXRD/_/HEAD+GXNE)
+* [Softwilly — B.O.Y.S.N.E.X.T.D.O.O.R.](https://www.last.fm/music/Softwilly/_/B.O.Y.S.N.E.X.T.D.O.O.R.)
 * [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
-* [The Qemists — Run You](https://www.last.fm/music/The+Qemists/_/Run+You)
-* [SCARLXRD — I CAN DX WHAT I WANT](https://www.last.fm/music/SCARLXRD/_/I+CAN+DX+WHAT+I+WANT)
-* [SCARLXRD — Heart Attack](https://www.last.fm/music/SCARLXRD/_/Heart+Attack)
-* [Snails — Front 2 Back](https://www.last.fm/music/Snails/_/Front+2+Back)<!-- LASTFM:END -->
+* [The Qemists — Run You](https://www.last.fm/music/The+Qemists/_/Run+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
