@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SCARLXRD — I CAN DX WHAT I WANT](https://www.last.fm/music/SCARLXRD/_/I+CAN+DX+WHAT+I+WANT)
+* [SCARLXRD — Heart Attack](https://www.last.fm/music/SCARLXRD/_/Heart+Attack)
+* [Snails — Front 2 Back](https://www.last.fm/music/Snails/_/Front+2+Back)
 * [I DONT KNOW HOW BUT THEY FOUND ME — Leave Me Alone](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Leave+Me+Alone)
-* [Ashnikko — Daisy 2.0 &lpar;feat. Hatsune Miku&rpar;](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+&lpar;feat.+Hatsune+Miku&rpar;)
-* [Oliver Tree — All That](https://www.last.fm/music/Oliver+Tree/_/All+That)
-* [fkbambam — VACATION](https://www.last.fm/music/fkbambam/_/VACATION)
-* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)<!-- LASTFM:END -->
+* [Ashnikko — Daisy 2.0 &lpar;feat. Hatsune Miku&rpar;](https://www.last.fm/music/Ashnikko/_/Daisy+2.0+&lpar;feat.+Hatsune+Miku&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
