@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Bleep Bloop](https://www.last.fm/music/Poppy/_/Bleep+Bloop)
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
 * [Your Neighbors — Smacked](https://www.last.fm/music/Your+Neighbors/_/Smacked)
-* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
-* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
-* [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)
-* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)<!-- LASTFM:END -->
+* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
