@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kim Dracula — 1-800-CLOSE-UR-EYES](https://www.last.fm/music/Kim+Dracula/_/1-800-CLOSE-UR-EYES)
+* [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
 * [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
 * [Fat Nick — Torch](https://www.last.fm/music/Fat+Nick/_/Torch)
-* [Softwilly — B.O.Y.S.N.E.X.T.D.O.O.R.](https://www.last.fm/music/Softwilly/_/B.O.Y.S.N.E.X.T.D.O.O.R.)
-* [Ashnikko — Slumber Party &lpar;feat. Princess Nokia&rpar;](https://www.last.fm/music/Ashnikko/_/Slumber+Party+&lpar;feat.+Princess+Nokia&rpar;)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)<!-- LASTFM:END -->
+* [Softwilly — B.O.Y.S.N.E.X.T.D.O.O.R.](https://www.last.fm/music/Softwilly/_/B.O.Y.S.N.E.X.T.D.O.O.R.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
