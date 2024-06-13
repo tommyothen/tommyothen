@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
+* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
+* [do not resurrect — MK Plus Ultra](https://www.last.fm/music/do+not+resurrect/_/MK+Plus+Ultra)
 * [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
-* [bbno$ — money conversation](https://www.last.fm/music/bbno$/_/money+conversation)
-* [XXXTENTACION — RIP ROACH](https://www.last.fm/music/XXXTENTACION/_/RIP+ROACH)
-* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [Willow Kayne — cola head](https://www.last.fm/music/Willow+Kayne/_/cola+head)<!-- LASTFM:END -->
+* [bbno$ — money conversation](https://www.last.fm/music/bbno$/_/money+conversation)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
