@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kavka Shishido — ラヴコリーダ](https://www.last.fm/music/Kavka+Shishido/_/%E3%83%A9%E3%83%B4%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%80)
+* [RILEY THE MUSICIAN — 99](https://www.last.fm/music/RILEY+THE+MUSICIAN/_/99)
 * [bbno$ — nursery](https://www.last.fm/music/bbno$/_/nursery)
 * [Prismo — Too Close](https://www.last.fm/music/Prismo/_/Too+Close)
-* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)
-* [Chance the Rapper — Same Drugs](https://www.last.fm/music/Chance+the+Rapper/_/Same+Drugs)
-* [Porter Robinson — Say My Name &lpar;Radio Edit&rpar;](https://www.last.fm/music/Porter+Robinson/_/Say+My+Name+&lpar;Radio+Edit&rpar;)<!-- LASTFM:END -->
+* [VHS — Eagle](https://www.last.fm/music/VHS/_/Eagle)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
