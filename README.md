@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ambiguu — Blind](https://www.last.fm/music/Ambiguu/_/Blind)
+* [iAmJakeHill — Wither](https://www.last.fm/music/iAmJakeHill/_/Wither)
+* [Rich Brian — Seventeen](https://www.last.fm/music/Rich+Brian/_/Seventeen)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
-* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
-* [TeddyLoid — ME!ME!ME! feat. daoko_pt.2](https://www.last.fm/music/TeddyLoid/_/ME!ME!ME!+feat.+daoko_pt.2)
-* [BROCKHAMPTON — JELLO](https://www.last.fm/music/BROCKHAMPTON/_/JELLO)<!-- LASTFM:END -->
+* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
