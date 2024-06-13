@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TeddyLoid — ME!ME!ME! feat. daoko_pt.2](https://www.last.fm/music/TeddyLoid/_/ME!ME!ME!+feat.+daoko_pt.2)
+* [BROCKHAMPTON — JELLO](https://www.last.fm/music/BROCKHAMPTON/_/JELLO)
+* [Eden — falling in reverse](https://www.last.fm/music/Eden/_/falling+in+reverse)
 * [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [emune — Bonfire](https://www.last.fm/music/emune/_/Bonfire)
-* [Eden — Billie Jean](https://www.last.fm/music/Eden/_/Billie+Jean)
-* [Gigi D&#39;Agostino — L&#39;Amour Toujours](https://www.last.fm/music/Gigi+D%27Agostino/_/L%27Amour+Toujours)
-* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)<!-- LASTFM:END -->
+* [emune — Bonfire](https://www.last.fm/music/emune/_/Bonfire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
