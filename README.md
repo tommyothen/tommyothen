@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ProleteR — Throw It Back](https://www.last.fm/music/ProleteR/_/Throw+It+Back)
+* [potsu — letting go](https://www.last.fm/music/potsu/_/letting+go)
 * [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
 * [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
-* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)
-* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
-* [Shakewell — Sobriety](https://www.last.fm/music/Shakewell/_/Sobriety)<!-- LASTFM:END -->
+* [Die Antwoord — Banana Brain](https://www.last.fm/music/Die+Antwoord/_/Banana+Brain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
