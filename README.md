@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Porter Robinson — Goodbye To A World](https://www.last.fm/music/Porter+Robinson/_/Goodbye+To+A+World)
 * [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
 * [ProleteR — Throw It Back](https://www.last.fm/music/ProleteR/_/Throw+It+Back)
 * [potsu — letting go](https://www.last.fm/music/potsu/_/letting+go)
-* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)<!-- LASTFM:END -->
+* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
