@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
-* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
-* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
-* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)<!-- LASTFM:END -->
+* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
