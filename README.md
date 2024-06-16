@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
+* [SCARLXRD — NX PRESSURE](https://www.last.fm/music/SCARLXRD/_/NX+PRESSURE)
 * [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
-* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)<!-- LASTFM:END -->
+* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)
+* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
