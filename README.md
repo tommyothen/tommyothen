@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [usedcvnt — you&#39;re my friend now](https://www.last.fm/music/usedcvnt/_/you%27re+my+friend+now)
-* [goreshit — winkles twinkle](https://www.last.fm/music/goreshit/_/winkles+twinkle)
-* [hkmori — re:titled](https://www.last.fm/music/hkmori/_/re:titled)
-* [TOKYOPILL — S u r r e a l i t y](https://www.last.fm/music/TOKYOPILL/_/S+u+r+r+e+a+l+i+t+y)
-* [Cynthoni — Flickering In The Gloom](https://www.last.fm/music/Cynthoni/_/Flickering+In+The+Gloom)<!-- LASTFM:END -->
+* [MIMIDEATH — Bethlehem Entity XMas party gifts thru the Dna spiral](https://www.last.fm/music/MIMIDEATH/_/Bethlehem+Entity+XMas+party+gifts+thru+the+Dna+spiral)
+* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)
+* [hkmori — anybody can find love &lpar;except you.&rpar; [Glitch Cat Remix]](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;+%5BGlitch+Cat+Remix%5D)
+* [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
+* [Nedaj — LET U GO](https://www.last.fm/music/Nedaj/_/LET+U+GO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
