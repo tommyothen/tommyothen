@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [hkmori — wake up, kill myself, wake up, kill myself, wake up,](https://www.last.fm/music/hkmori/_/wake+up,+kill+myself,+wake+up,+kill+myself,+wake+up,)
+* [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
+* [Maebi — The Lobotomy](https://www.last.fm/music/Maebi/_/The+Lobotomy)
 * [KENTENSHI — Ultra](https://www.last.fm/music/KENTENSHI/_/Ultra)
-* [ZØMB — NO STRINGS ATTACHED](https://www.last.fm/music/Z%C3%98MB/_/NO+STRINGS+ATTACHED)
-* [MIMIDEATH — if god didnt want us to snort worms he wouldn&#39;t have made them cylindrical!](https://www.last.fm/music/MIMIDEATH/_/if+god+didnt+want+us+to+snort+worms+he+wouldn%27t+have+made+them+cylindrical!)
-* [Ooxygen — Final wish](https://www.last.fm/music/Ooxygen/_/Final+wish)
-* [Mayo. — 804](https://www.last.fm/music/Mayo./_/804)<!-- LASTFM:END -->
+* [ZØMB — NO STRINGS ATTACHED](https://www.last.fm/music/Z%C3%98MB/_/NO+STRINGS+ATTACHED)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
