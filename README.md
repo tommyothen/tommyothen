@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cynthoni — Flickering In The Gloom](https://www.last.fm/music/Cynthoni/_/Flickering+In+The+Gloom)
-* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
-* [usedcvnt — 143 ways to lose urself](https://www.last.fm/music/usedcvnt/_/143+ways+to+lose+urself)
-* [hkmori — panic attack in bed](https://www.last.fm/music/hkmori/_/panic+attack+in+bed)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
+* [usedcvnt — you&#39;re my friend now](https://www.last.fm/music/usedcvnt/_/you%27re+my+friend+now)
+* [goreshit — winkles twinkle](https://www.last.fm/music/goreshit/_/winkles+twinkle)
+* [hkmori — re:titled](https://www.last.fm/music/hkmori/_/re:titled)
+* [TOKYOPILL — S u r r e a l i t y](https://www.last.fm/music/TOKYOPILL/_/S+u+r+r+e+a+l+i+t+y)
+* [Cynthoni — Flickering In The Gloom](https://www.last.fm/music/Cynthoni/_/Flickering+In+The+Gloom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
