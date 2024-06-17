@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
+* [imase — Night Dancer](https://www.last.fm/music/imase/_/Night+Dancer)
 * [MCR-T — My Barn My Rules](https://www.last.fm/music/MCR-T/_/My+Barn+My+Rules)
 * [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
-* [tortuganónima — Ukiyo](https://www.last.fm/music/tortugan%C3%B3nima/_/Ukiyo)<!-- LASTFM:END -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
