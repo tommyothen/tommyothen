@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
 * [A D M B — Just A Day](https://www.last.fm/music/A+D+M+B/_/Just+A+Day)
 * [Qawi Kamri — Shaky Hands](https://www.last.fm/music/Qawi+Kamri/_/Shaky+Hands)
 * [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
-* [FEDUK — Скрытая злость](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F+%D0%B7%D0%BB%D0%BE%D1%81%D1%82%D1%8C)
-* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)<!-- LASTFM:END -->
+* [FEDUK — Скрытая злость](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F+%D0%B7%D0%BB%D0%BE%D1%81%D1%82%D1%8C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
