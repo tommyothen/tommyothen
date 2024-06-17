@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
+* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
 * [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
-* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
-* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
-* [A D M B — Just A Day](https://www.last.fm/music/A+D+M+B/_/Just+A+Day)<!-- LASTFM:END -->
+* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
