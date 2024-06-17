@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cynthoni — Flickering In The Gloom](https://www.last.fm/music/Cynthoni/_/Flickering+In+The+Gloom)
+* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
+* [usedcvnt — 143 ways to lose urself](https://www.last.fm/music/usedcvnt/_/143+ways+to+lose+urself)
 * [hkmori — panic attack in bed](https://www.last.fm/music/hkmori/_/panic+attack+in+bed)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
-* [Mayo. — Lost](https://www.last.fm/music/Mayo./_/Lost)
-* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
-* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)<!-- LASTFM:END -->
+* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
