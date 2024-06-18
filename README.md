@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Kuriso — let yourself be devoured~...!!!](https://www.last.fm/music/Kuriso/_/let+yourself+be+devoured~...!!!)
-* [Pisca — nyan &lpar;FUCK mix&rpar;](https://www.last.fm/music/Pisca/_/nyan+&lpar;FUCK+mix&rpar;)
-* [my head hurts — thousands of mistakes](https://www.last.fm/music/my+head+hurts/_/thousands+of+mistakes)
-* [PsiAngel — beloved tomboyish girl](https://www.last.fm/music/PsiAngel/_/beloved+tomboyish+girl)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)<!-- LASTFM:END -->
+* [Adolf Nomura — ALBUM NAME](https://www.last.fm/music/Adolf+Nomura/_/ALBUM+NAME)
+* [Ftlframe — A_R_I_S_U_](https://www.last.fm/music/Ftlframe/_/A_R_I_S_U_)
+* [Snafu — _+&lt;&lpar;&gt;_&lt;&rpar;&gt;+_===**++++++++__[--_&gt;&gt;&gt;&gt;&gt;]}}}](https://www.last.fm/music/Snafu/_/_%252B%3C&lpar;%3E_%3C&rpar;%3E%252B_===**%252B%252B%252B%252B%252B%252B%252B%252B__%5B--_%3E%3E%3E%3E%3E%5D%7D%7D%7D)
+* [bliss3three — C3L3STIAL_CITY](https://www.last.fm/music/bliss3three/_/C3L3STIAL_CITY)
+* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
