@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
 * [FEDUK — Бьёт солнце](https://www.last.fm/music/FEDUK/_/%D0%91%D1%8C%D1%91%D1%82+%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5)
 * [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)
 * [Shahmen — Mark](https://www.last.fm/music/Shahmen/_/Mark)
-* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
-* [Eden — wonder](https://www.last.fm/music/Eden/_/wonder)<!-- LASTFM:END -->
+* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
