@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)
-* [hkmori — wake up, kill myself, wake up, kill myself, wake up,](https://www.last.fm/music/hkmori/_/wake+up,+kill+myself,+wake+up,+kill+myself,+wake+up,)
-* [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
-* [Maebi — The Lobotomy](https://www.last.fm/music/Maebi/_/The+Lobotomy)
-* [KENTENSHI — Ultra](https://www.last.fm/music/KENTENSHI/_/Ultra)<!-- LASTFM:END -->
+* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
+* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
+* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
+* [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
