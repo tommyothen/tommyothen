@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [fontatron — Spinal Chords](https://www.last.fm/music/fontatron/_/Spinal+Chords)
+* [R. Kei — five more days](https://www.last.fm/music/R.+Kei/_/five+more+days)
 * [evelina mist — pillow dreams](https://www.last.fm/music/evelina+mist/_/pillow+dreams)
 * [Miss Misaki — A Logic Problem](https://www.last.fm/music/Miss+Misaki/_/A+Logic+Problem)
-* [Demurely — Aura](https://www.last.fm/music/Demurely/_/Aura)
-* [Harry G&#39;s Beats — gloaming atmospheres](https://www.last.fm/music/Harry+G%27s+Beats/_/gloaming+atmospheres)
-* [Euphemism — Balcony](https://www.last.fm/music/Euphemism/_/Balcony)<!-- LASTFM:END -->
+* [Demurely — Aura](https://www.last.fm/music/Demurely/_/Aura)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
