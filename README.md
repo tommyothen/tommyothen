@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Snafu — _+&lt;&lpar;&gt;_&lt;&rpar;&gt;+_===**++++++++__[--_&gt;&gt;&gt;&gt;&gt;]}}}](https://www.last.fm/music/Snafu/_/_%252B%3C&lpar;%3E_%3C&rpar;%3E%252B_===**%252B%252B%252B%252B%252B%252B%252B%252B__%5B--_%3E%3E%3E%3E%3E%5D%7D%7D%7D)
+* [bliss3three — C3L3STIAL_CITY](https://www.last.fm/music/bliss3three/_/C3L3STIAL_CITY)
+* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
 * [Mayo. — Lost](https://www.last.fm/music/Mayo./_/Lost)
-* [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
-* [11vx — iron](https://www.last.fm/music/11vx/_/iron)
-* [Mayo. — 804](https://www.last.fm/music/Mayo./_/804)
-* [Adolf Nomura — ALBUM NAME](https://www.last.fm/music/Adolf+Nomura/_/ALBUM+NAME)<!-- LASTFM:END -->
+* [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
