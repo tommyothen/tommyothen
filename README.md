@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
 * [Cynthoni — An Introduction To Cynthoni](https://www.last.fm/music/Cynthoni/_/An+Introduction+To+Cynthoni)
 * [11vx — iron](https://www.last.fm/music/11vx/_/iron)
 * [Mayo. — 804](https://www.last.fm/music/Mayo./_/804)
-* [Adolf Nomura — ALBUM NAME](https://www.last.fm/music/Adolf+Nomura/_/ALBUM+NAME)
-* [Ftlframe — A_R_I_S_U_](https://www.last.fm/music/Ftlframe/_/A_R_I_S_U_)<!-- LASTFM:END -->
+* [Adolf Nomura — ALBUM NAME](https://www.last.fm/music/Adolf+Nomura/_/ALBUM+NAME)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
