@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
+* [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
 * [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
 * [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
-* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)<!-- LASTFM:END -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
