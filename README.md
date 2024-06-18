@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sebastian Paul — ON SOME HIGH](https://www.last.fm/music/Sebastian+Paul/_/ON+SOME+HIGH)
 * [[bsd.u] — French Inhale](https://www.last.fm/music/%5Bbsd.u%5D/_/French+Inhale)
 * [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
 * [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
-* [DECO*27 — Aimai Elegy](https://www.last.fm/music/DECO*27/_/Aimai+Elegy)
-* [XI — Blue Zenith](https://www.last.fm/music/XI/_/Blue+Zenith)<!-- LASTFM:END -->
+* [DECO*27 — Aimai Elegy](https://www.last.fm/music/DECO*27/_/Aimai+Elegy)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
