@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shahmen — Mark](https://www.last.fm/music/Shahmen/_/Mark)
+* [Chii — Why Do I?](https://www.last.fm/music/Chii/_/Why+Do+I%3F)
 * [Eden — wonder](https://www.last.fm/music/Eden/_/wonder)
 * [Aiobahn — ここにいる - Stephen Walking Remix](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+-+Stephen+Walking+Remix)
-* [nohidea — sincerely, yours](https://www.last.fm/music/nohidea/_/sincerely,+yours)
-* [XXXTENTACION — Sad!](https://www.last.fm/music/XXXTENTACION/_/Sad!)
-* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)<!-- LASTFM:END -->
+* [nohidea — sincerely, yours](https://www.last.fm/music/nohidea/_/sincerely,+yours)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
