@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Euphemism — Balcony](https://www.last.fm/music/Euphemism/_/Balcony)
-* [Aldn — say what u mean &lpar;with Riovaz&rpar;](https://www.last.fm/music/Aldn/_/say+what+u+mean+&lpar;with+Riovaz&rpar;)
-* [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
-* [Crossfaith — Eclipse](https://www.last.fm/music/Crossfaith/_/Eclipse)
-* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)<!-- LASTFM:END -->
+* [evelina mist — pillow dreams](https://www.last.fm/music/evelina+mist/_/pillow+dreams)
+* [Miss Misaki — A Logic Problem](https://www.last.fm/music/Miss+Misaki/_/A+Logic+Problem)
+* [Demurely — Aura](https://www.last.fm/music/Demurely/_/Aura)
+* [Harry G&#39;s Beats — gloaming atmospheres](https://www.last.fm/music/Harry+G%27s+Beats/_/gloaming+atmospheres)
+* [Euphemism — Balcony](https://www.last.fm/music/Euphemism/_/Balcony)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
