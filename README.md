@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kill Eva — Psycho Dreams &lpar;Sped Up&rpar;](https://www.last.fm/music/Kill+Eva/_/Psycho+Dreams+&lpar;Sped+Up&rpar;)
+* [Rebzyyx — I&#39;m so crazy for youuu &lt;/3](https://www.last.fm/music/Rebzyyx/_/I%27m+so+crazy+for+youuu+%3C%2F3)
 * [Rebzyyx — I deserve this](https://www.last.fm/music/Rebzyyx/_/I+deserve+this)
 * [100 gecs — 757](https://www.last.fm/music/100+gecs/_/757)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Elita — Sour Switchblade](https://www.last.fm/music/Elita/_/Sour+Switchblade)
-* [Macabre Plaza — A Bird&#39;s Last Look](https://www.last.fm/music/Macabre+Plaza/_/A+Bird%27s+Last+Look)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
