@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rebzyyx — I deserve this](https://www.last.fm/music/Rebzyyx/_/I+deserve+this)
+* [100 gecs — 757](https://www.last.fm/music/100+gecs/_/757)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
 * [Elita — Sour Switchblade](https://www.last.fm/music/Elita/_/Sour+Switchblade)
-* [Macabre Plaza — A Bird&#39;s Last Look](https://www.last.fm/music/Macabre+Plaza/_/A+Bird%27s+Last+Look)
-* [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
-* [WARGASM &lpar;UK&rpar; — Salma Hayek](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Salma+Hayek)<!-- LASTFM:END -->
+* [Macabre Plaza — A Bird&#39;s Last Look](https://www.last.fm/music/Macabre+Plaza/_/A+Bird%27s+Last+Look)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
