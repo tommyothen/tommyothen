@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dal Av — Insanely Illegal Cage Fight](https://www.last.fm/music/Dal+Av/_/Insanely+Illegal+Cage+Fight)
+* [100 gecs — Dumbest Girl Alive](https://www.last.fm/music/100+gecs/_/Dumbest+Girl+Alive)
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
 * [Ennaria — Monstarrr](https://www.last.fm/music/Ennaria/_/Monstarrr)
-* [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)
-* [Ashnikko — You Make Me Sick!](https://www.last.fm/music/Ashnikko/_/You+Make+Me+Sick!)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
+* [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
