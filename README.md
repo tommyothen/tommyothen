@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
+* [Rory in early 20s — unforeseen dream scenarios that glorify the beauty of a vacuum cleaner](https://www.last.fm/music/Rory+in+early+20s/_/unforeseen+dream+scenarios+that+glorify+the+beauty+of+a+vacuum+cleaner)
 * [100 gecs — stupid horse](https://www.last.fm/music/100+gecs/_/stupid+horse)
-* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
-* [Kill Eva — Psycho Dreams &lpar;Sped Up&rpar;](https://www.last.fm/music/Kill+Eva/_/Psycho+Dreams+&lpar;Sped+Up&rpar;)
-* [Rebzyyx — I&#39;m so crazy for youuu &lt;/3](https://www.last.fm/music/Rebzyyx/_/I%27m+so+crazy+for+youuu+%3C%2F3)
-* [Rebzyyx — I deserve this](https://www.last.fm/music/Rebzyyx/_/I+deserve+this)<!-- LASTFM:END -->
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
