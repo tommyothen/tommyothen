@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ennaria — Monstarrr](https://www.last.fm/music/Ennaria/_/Monstarrr)
+* [WARGASM &lpar;UK&rpar; — Spit.](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Spit.)
 * [Ashnikko — You Make Me Sick!](https://www.last.fm/music/Ashnikko/_/You+Make+Me+Sick!)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Sophie Powers — Nosebleed](https://www.last.fm/music/Sophie+Powers/_/Nosebleed)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)<!-- LASTFM:END -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
