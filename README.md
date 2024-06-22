@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Perfect Playlist](https://www.last.fm/music/Ellie+Williams/_/Perfect+Playlist)
 * [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Leanna Firestone — Smitten](https://www.last.fm/music/Leanna+Firestone/_/Smitten)<!-- LASTFM:END -->
+* [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)
+* [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)
+* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
