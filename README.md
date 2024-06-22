@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
+* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
 * [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
-* [Easha — You Make Me Feel](https://www.last.fm/music/Easha/_/You+Make+Me+Feel)
-* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)<!-- LASTFM:END -->
+* [Easha — You Make Me Feel](https://www.last.fm/music/Easha/_/You+Make+Me+Feel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
