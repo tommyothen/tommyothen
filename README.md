@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)
+* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [Ellie Williams — Perfect Playlist](https://www.last.fm/music/Ellie+Williams/_/Perfect+Playlist)
-* [Easha — You Make Me Feel](https://www.last.fm/music/Easha/_/You+Make+Me+Feel)
-* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
-* [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)<!-- LASTFM:END -->
+* [Easha — You Make Me Feel](https://www.last.fm/music/Easha/_/You+Make+Me+Feel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
