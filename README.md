@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
 * [Knocked Loose — Suffocate &lpar;feat. Poppy&rpar;](https://www.last.fm/music/Knocked+Loose/_/Suffocate+&lpar;feat.+Poppy&rpar;)
 * [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
-* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
-* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)<!-- LASTFM:END -->
+* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
