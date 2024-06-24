@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
 * [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [kaz moon — Moment of Silence](https://www.last.fm/music/kaz+moon/_/Moment+of+Silence)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)<!-- LASTFM:END -->
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
