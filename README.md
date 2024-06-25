@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Andrew Garden — hesitation](https://www.last.fm/music/Andrew+Garden/_/hesitation)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
-* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
+* [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
+* [Kidsnot$aints. — Love, Always](https://www.last.fm/music/Kidsnot$aints./_/Love,+Always)
+* [Hojean — Comin&#39; Through](https://www.last.fm/music/Hojean/_/Comin%27+Through)
+* [Andrew Garden — hesitation](https://www.last.fm/music/Andrew+Garden/_/hesitation)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
