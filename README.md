@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — Undercover Lover](https://www.last.fm/music/Easha/_/Undercover+Lover)
+* [Zeph — un-unnoticed](https://www.last.fm/music/Zeph/_/un-unnoticed)
+* [Sexy Pigeon — Avocado Toast](https://www.last.fm/music/Sexy+Pigeon/_/Avocado+Toast)
 * [spill tab — Cotton Candy](https://www.last.fm/music/spill+tab/_/Cotton+Candy)
-* [Again&amp;again — hours](https://www.last.fm/music/Again&amp;again/_/hours)
-* [nihmune — Neptune](https://www.last.fm/music/nihmune/_/Neptune)
-* [Easha — What We Were](https://www.last.fm/music/Easha/_/What+We+Were)
-* [Zeph — world](https://www.last.fm/music/Zeph/_/world)<!-- LASTFM:END -->
+* [Again&amp;again — hours](https://www.last.fm/music/Again&amp;again/_/hours)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
