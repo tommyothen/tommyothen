@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Egg Drop](https://www.last.fm/music/nihmune/_/Egg+Drop)
+* [Easha — Floating Rock](https://www.last.fm/music/Easha/_/Floating+Rock)
+* [khai dreams — Summer is Like a Dream](https://www.last.fm/music/khai+dreams/_/Summer+is+Like+a+Dream)
 * [Keanu Bicol — SHINIGAMI](https://www.last.fm/music/Keanu+Bicol/_/SHINIGAMI)
-* [boy pablo — wtf](https://www.last.fm/music/boy+pablo/_/wtf)
-* [Zeph — Ways to Go](https://www.last.fm/music/Zeph/_/Ways+to+Go)
-* [Easha — Electric Blue](https://www.last.fm/music/Easha/_/Electric+Blue)
-* [Zeph — like everyone else](https://www.last.fm/music/Zeph/_/like+everyone+else)<!-- LASTFM:END -->
+* [boy pablo — wtf](https://www.last.fm/music/boy+pablo/_/wtf)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
