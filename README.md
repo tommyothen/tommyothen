@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [kaz moon — Moment of Silence](https://www.last.fm/music/kaz+moon/_/Moment+of+Silence)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)
-* [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)
-* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)<!-- LASTFM:END -->
+* [Andrew Garden — hesitation](https://www.last.fm/music/Andrew+Garden/_/hesitation)
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
+* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
