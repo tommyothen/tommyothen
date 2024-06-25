@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Hush](https://www.last.fm/music/nihmune/_/Hush)
+* [Easha — A Little Bit Longer](https://www.last.fm/music/Easha/_/A+Little+Bit+Longer)
 * [Zeph — my fault](https://www.last.fm/music/Zeph/_/my+fault)
 * [khai dreams — Fantasy](https://www.last.fm/music/khai+dreams/_/Fantasy)
-* [Kevin Walkman — its alright :&rpar;](https://www.last.fm/music/Kevin+Walkman/_/its+alright+:&rpar;)
-* [phendste — i&#39;d find you](https://www.last.fm/music/phendste/_/i%27d+find+you)
-* [nihmune — No Good](https://www.last.fm/music/nihmune/_/No+Good)<!-- LASTFM:END -->
+* [Kevin Walkman — its alright :&rpar;](https://www.last.fm/music/Kevin+Walkman/_/its+alright+:&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
