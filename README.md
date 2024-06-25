@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — What We Were](https://www.last.fm/music/Easha/_/What+We+Were)
+* [Zeph — world](https://www.last.fm/music/Zeph/_/world)
+* [Rocco — spin you round](https://www.last.fm/music/Rocco/_/spin+you+round)
 * [khai dreams — When I Look Into Your Eyes](https://www.last.fm/music/khai+dreams/_/When+I+Look+Into+Your+Eyes)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [nihmune — Dirty Thoughts](https://www.last.fm/music/nihmune/_/Dirty+Thoughts)
-* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)<!-- LASTFM:END -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
