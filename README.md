@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — like everyone else](https://www.last.fm/music/Zeph/_/like+everyone+else)
+* [Phoneboy — 1987](https://www.last.fm/music/Phoneboy/_/1987)
 * [beabadoobee — Sunny day](https://www.last.fm/music/beabadoobee/_/Sunny+day)
 * [dacelynn — tell me what you want](https://www.last.fm/music/dacelynn/_/tell+me+what+you+want)
-* [nihmune — Hush](https://www.last.fm/music/nihmune/_/Hush)
-* [Easha — A Little Bit Longer](https://www.last.fm/music/Easha/_/A+Little+Bit+Longer)
-* [Zeph — my fault](https://www.last.fm/music/Zeph/_/my+fault)<!-- LASTFM:END -->
+* [nihmune — Hush](https://www.last.fm/music/nihmune/_/Hush)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
