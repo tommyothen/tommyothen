@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Vanished People — Awake](https://www.last.fm/music/The+Vanished+People/_/Awake)
+* [Keanu Bicol — her smile](https://www.last.fm/music/Keanu+Bicol/_/her+smile)
+* [nihmune — Heartbun](https://www.last.fm/music/nihmune/_/Heartbun)
 * [Easha — Undercover Lover](https://www.last.fm/music/Easha/_/Undercover+Lover)
-* [Zeph — un-unnoticed](https://www.last.fm/music/Zeph/_/un-unnoticed)
-* [Sexy Pigeon — Avocado Toast](https://www.last.fm/music/Sexy+Pigeon/_/Avocado+Toast)
-* [spill tab — Cotton Candy](https://www.last.fm/music/spill+tab/_/Cotton+Candy)
-* [Again&amp;again — hours](https://www.last.fm/music/Again&amp;again/_/hours)<!-- LASTFM:END -->
+* [Zeph — un-unnoticed](https://www.last.fm/music/Zeph/_/un-unnoticed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
