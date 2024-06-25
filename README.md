@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
+* [khai dreams — Sandals](https://www.last.fm/music/khai+dreams/_/Sandals)
+* [Keanu Bicol — wait for me](https://www.last.fm/music/Keanu+Bicol/_/wait+for+me)
 * [Mickey Darling — Big Sad](https://www.last.fm/music/Mickey+Darling/_/Big+Sad)
-* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
-* [Kidsnot$aints. — Love, Always](https://www.last.fm/music/Kidsnot$aints./_/Love,+Always)<!-- LASTFM:END -->
+* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
