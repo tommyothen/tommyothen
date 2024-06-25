@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ellie Williams — Perfect Playlist](https://www.last.fm/music/Ellie+Williams/_/Perfect+Playlist)
-* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)
 * [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
-* [Easha — You Make Me Feel](https://www.last.fm/music/Easha/_/You+Make+Me+Feel)<!-- LASTFM:END -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
+* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
+* [Ellie Williams — Perfect Playlist](https://www.last.fm/music/Ellie+Williams/_/Perfect+Playlist)
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
