@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
 * [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)<!-- LASTFM:END -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
