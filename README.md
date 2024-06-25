@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Dirty Thoughts](https://www.last.fm/music/nihmune/_/Dirty+Thoughts)
+* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [khai dreams — Sandals](https://www.last.fm/music/khai+dreams/_/Sandals)
-* [Keanu Bicol — wait for me](https://www.last.fm/music/Keanu+Bicol/_/wait+for+me)
-* [Mickey Darling — Big Sad](https://www.last.fm/music/Mickey+Darling/_/Big+Sad)
-* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)<!-- LASTFM:END -->
+* [khai dreams — Sandals](https://www.last.fm/music/khai+dreams/_/Sandals)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
