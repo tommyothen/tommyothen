@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shawn Wasabi — Squeez®](https://www.last.fm/music/Shawn+Wasabi/_/Squeez%C2%AE)
+* [Mr.Kitty — Destroy Me](https://www.last.fm/music/Mr.Kitty/_/Destroy+Me)
 * [Just A Gent — Rolling Dice](https://www.last.fm/music/Just+A+Gent/_/Rolling+Dice)
 * [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)
-* [cherry beach — Gravity](https://www.last.fm/music/cherry+beach/_/Gravity)
-* [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
-* [Softwilly — #FreeRobuxIfYouShareSong_draft_v2](https://www.last.fm/music/Softwilly/_/%23FreeRobuxIfYouShareSong_draft_v2)<!-- LASTFM:END -->
+* [cherry beach — Gravity](https://www.last.fm/music/cherry+beach/_/Gravity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
