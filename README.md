@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Billie Jean](https://www.last.fm/music/Eden/_/Billie+Jean)
+* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
+* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
 * [blackbear — Short Kings Anthem](https://www.last.fm/music/blackbear/_/Short+Kings+Anthem)
-* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
-* [Landspeed — eighty](https://www.last.fm/music/Landspeed/_/eighty)
-* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
-* [Smoke Trees — Date 5: Vanessa](https://www.last.fm/music/Smoke+Trees/_/Date+5:+Vanessa)<!-- LASTFM:END -->
+* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
