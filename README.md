@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rav — YOU FUCKERS WERE ASKING FOR THIS ONE](https://www.last.fm/music/Rav/_/YOU+FUCKERS+WERE+ASKING+FOR+THIS+ONE)
+* [Joji — Demons &lpar;Lapalux Remix&rpar;](https://www.last.fm/music/Joji/_/Demons+&lpar;Lapalux+Remix&rpar;)
 * [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
 * [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
-* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
-* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
-* [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)<!-- LASTFM:END -->
+* [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
