@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Gospel](https://www.last.fm/music/Rich+Brian/_/Gospel)
+* [Eden — wrong](https://www.last.fm/music/Eden/_/wrong)
 * [Yung Gravy — 1 Thot 2 Thot Red Thot Blue Thot](https://www.last.fm/music/Yung+Gravy/_/1+Thot+2+Thot+Red+Thot+Blue+Thot)
 * [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
-* [Ramirez — Glitter &amp; Gold](https://www.last.fm/music/Ramirez/_/Glitter+&amp;+Gold)
-* [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
-* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)<!-- LASTFM:END -->
+* [Ramirez — Glitter &amp; Gold](https://www.last.fm/music/Ramirez/_/Glitter+&amp;+Gold)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
