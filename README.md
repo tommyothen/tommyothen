@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sub Urban — Freak &lpar;feat. REI AMI&rpar;](https://www.last.fm/music/Sub+Urban/_/Freak+&lpar;feat.+REI+AMI&rpar;)
+* [Niki — Sugarplum Elegy](https://www.last.fm/music/Niki/_/Sugarplum+Elegy)
 * [Eden — 909](https://www.last.fm/music/Eden/_/909)
 * [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
-* [Made in M — Pero Asi](https://www.last.fm/music/Made+in+M/_/Pero+Asi)
-* [Lil Peep — Star Shopping](https://www.last.fm/music/Lil+Peep/_/Star+Shopping)
-* [Camellia — POLYBIUS GB SPEEDRUN -Glitchless 100% WR in 0:03:57-](https://www.last.fm/music/Camellia/_/POLYBIUS+GB+SPEEDRUN+-Glitchless+100%25+WR+in+0:03:57-)<!-- LASTFM:END -->
+* [Made in M — Pero Asi](https://www.last.fm/music/Made+in+M/_/Pero+Asi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
