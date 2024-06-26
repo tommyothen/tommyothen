@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — 1 Thot 2 Thot Red Thot Blue Thot](https://www.last.fm/music/Yung+Gravy/_/1+Thot+2+Thot+Red+Thot+Blue+Thot)
+* [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
+* [Ramirez — Glitter &amp; Gold](https://www.last.fm/music/Ramirez/_/Glitter+&amp;+Gold)
 * [Keanu Bicol — i won&#39;t run](https://www.last.fm/music/Keanu+Bicol/_/i+won%27t+run)
-* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)
-* [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)
-* [Eden — Billie Jean](https://www.last.fm/music/Eden/_/Billie+Jean)
-* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)<!-- LASTFM:END -->
+* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
