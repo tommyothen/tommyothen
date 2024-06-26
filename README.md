@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SR — Practice Makes Perfect](https://www.last.fm/music/SR/_/Practice+Makes+Perfect)
 * [Sub Urban — Freak &lpar;feat. REI AMI&rpar;](https://www.last.fm/music/Sub+Urban/_/Freak+&lpar;feat.+REI+AMI&rpar;)
 * [Niki — Sugarplum Elegy](https://www.last.fm/music/Niki/_/Sugarplum+Elegy)
 * [Eden — 909](https://www.last.fm/music/Eden/_/909)
-* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)
-* [Made in M — Pero Asi](https://www.last.fm/music/Made+in+M/_/Pero+Asi)<!-- LASTFM:END -->
+* [Hoody — Adios](https://www.last.fm/music/Hoody/_/Adios)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
