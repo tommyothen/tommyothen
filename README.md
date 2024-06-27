@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Freddie Dredd — Evil fantasy](https://www.last.fm/music/Freddie+Dredd/_/Evil+fantasy)
 * [Quadeca — Ego Death](https://www.last.fm/music/Quadeca/_/Ego+Death)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
 * [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)
-* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
+* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
