@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)
+* [HEALTH — POWER FANTASY](https://www.last.fm/music/HEALTH/_/POWER+FANTASY)
 * [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)
 * [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [bbno$ — doubles](https://www.last.fm/music/bbno$/_/doubles)
-* [KUURO — Afraid of the Dark](https://www.last.fm/music/KUURO/_/Afraid+of+the+Dark)
-* [BLACKPINK — Don&#39;t Know What to Do](https://www.last.fm/music/BLACKPINK/_/Don%27t+Know+What+to+Do)<!-- LASTFM:END -->
+* [bbno$ — doubles](https://www.last.fm/music/bbno$/_/doubles)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
