@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
+* [Within Destruction — Yōkai](https://www.last.fm/music/Within+Destruction/_/Y%C5%8Dkai)
 * [Porter Robinson — Natural Light](https://www.last.fm/music/Porter+Robinson/_/Natural+Light)
 * [XXXTENTACION — NUMB](https://www.last.fm/music/XXXTENTACION/_/NUMB)
-* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)
-* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
-* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)<!-- LASTFM:END -->
+* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
