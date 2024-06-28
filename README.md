@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
-* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [AcesToAces — coffee](https://www.last.fm/music/AcesToAces/_/coffee)
-* [Kailee Morgue — Black Sheep](https://www.last.fm/music/Kailee+Morgue/_/Black+Sheep)
-* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)<!-- LASTFM:END -->
+* [Made in M — Tierra](https://www.last.fm/music/Made+in+M/_/Tierra)
+* [Moxas — Kaioken X20 Flow](https://www.last.fm/music/Moxas/_/Kaioken+X20+Flow)
+* [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
+* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
+* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
