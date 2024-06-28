@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
 * [Ryan Caraveo — Bang](https://www.last.fm/music/Ryan+Caraveo/_/Bang)
 * [Oliver Tree — Bury Me Alive](https://www.last.fm/music/Oliver+Tree/_/Bury+Me+Alive)
 * [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
-* [half•alive — The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall)
-* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)<!-- LASTFM:END -->
+* [half•alive — The Fall](https://www.last.fm/music/half%E2%80%A2alive/_/The+Fall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
