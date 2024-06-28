@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — Kathleen](https://www.last.fm/music/Yung+Gravy/_/Kathleen)
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
+* [Oliver Tree — All That](https://www.last.fm/music/Oliver+Tree/_/All+That)
 * [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
-* [Shahmen — infinite bliss](https://www.last.fm/music/Shahmen/_/infinite+bliss)
-* [Rich Brian — Trespass](https://www.last.fm/music/Rich+Brian/_/Trespass)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Within Destruction — Yōkai](https://www.last.fm/music/Within+Destruction/_/Y%C5%8Dkai)<!-- LASTFM:END -->
+* [Shahmen — infinite bliss](https://www.last.fm/music/Shahmen/_/infinite+bliss)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
