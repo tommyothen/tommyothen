@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kailee Morgue — Black Sheep](https://www.last.fm/music/Kailee+Morgue/_/Black+Sheep)
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
+* [FEDUK — Канифоль &lpar;feat. Nokanifol&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9A%D0%B0%D0%BD%D0%B8%D1%84%D0%BE%D0%BB%D1%8C+&lpar;feat.+Nokanifol&rpar;)
 * [Eden — 2:09](https://www.last.fm/music/Eden/_/2:09)
-* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
-* [Savage Ga$p — flaming hot cheetos](https://www.last.fm/music/Savage+Ga$p/_/flaming+hot+cheetos)
-* [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
-* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)<!-- LASTFM:END -->
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
