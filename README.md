@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
 * [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)
 * [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
 * [Billie Eilish — goodbye](https://www.last.fm/music/Billie+Eilish/_/goodbye)
-* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
-* [FEDUK — Номер братвы &lpar;Feduk guitar&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%BE%D0%BC%D0%B5%D1%80+%D0%B1%D1%80%D0%B0%D1%82%D0%B2%D1%8B+&lpar;Feduk+guitar&rpar;)<!-- LASTFM:END -->
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
