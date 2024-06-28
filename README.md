@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)
+* [Hovey Benjamin — Flexing On My Ex](https://www.last.fm/music/Hovey+Benjamin/_/Flexing+On+My+Ex)
+* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
 * [WHOKILLEDXIX — CUM](https://www.last.fm/music/WHOKILLEDXIX/_/CUM)
-* [Yungtown — Late Night Thoughts](https://www.last.fm/music/Yungtown/_/Late+Night+Thoughts)
-* [FEDUK — музыка на мне](https://www.last.fm/music/FEDUK/_/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0+%D0%BD%D0%B0+%D0%BC%D0%BD%D0%B5)
-* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
-* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)<!-- LASTFM:END -->
+* [Yungtown — Late Night Thoughts](https://www.last.fm/music/Yungtown/_/Late+Night+Thoughts)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
