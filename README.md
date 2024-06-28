@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NCT 127 — Kick It](https://www.last.fm/music/NCT+127/_/Kick+It)
+* [FOXWEDDING — the killing of a giant](https://www.last.fm/music/FOXWEDDING/_/the+killing+of+a+giant)
 * [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)
 * [HEALTH — POWER FANTASY](https://www.last.fm/music/HEALTH/_/POWER+FANTASY)
-* [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)
-* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [bbno$ — doubles](https://www.last.fm/music/bbno$/_/doubles)<!-- LASTFM:END -->
+* [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
