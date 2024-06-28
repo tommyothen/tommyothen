@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — ferrari fitness](https://www.last.fm/music/bbno$/_/ferrari+fitness)
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
 * [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)
 * [Joakim Karud — Classic](https://www.last.fm/music/Joakim+Karud/_/Classic)
-* [The Seige — Demons](https://www.last.fm/music/The+Seige/_/Demons)
-* [Made in M — Tierra](https://www.last.fm/music/Made+in+M/_/Tierra)
-* [Moxas — Kaioken X20 Flow](https://www.last.fm/music/Moxas/_/Kaioken+X20+Flow)<!-- LASTFM:END -->
+* [The Seige — Demons](https://www.last.fm/music/The+Seige/_/Demons)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
