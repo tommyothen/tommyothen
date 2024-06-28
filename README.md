@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
 * [Flughand — Feblu](https://www.last.fm/music/Flughand/_/Feblu)
 * [420 UNLOVABLE — Wii Tennis](https://www.last.fm/music/420+UNLOVABLE/_/Wii+Tennis)
 * [HAARPER — DEAD TO ME](https://www.last.fm/music/HAARPER/_/DEAD+TO+ME)
-* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
-* [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)<!-- LASTFM:END -->
+* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
