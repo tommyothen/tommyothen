@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
+* [Shahmen — infinite bliss](https://www.last.fm/music/Shahmen/_/infinite+bliss)
+* [Rich Brian — Trespass](https://www.last.fm/music/Rich+Brian/_/Trespass)
 * [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Within Destruction — Yōkai](https://www.last.fm/music/Within+Destruction/_/Y%C5%8Dkai)
-* [Porter Robinson — Natural Light](https://www.last.fm/music/Porter+Robinson/_/Natural+Light)
-* [XXXTENTACION — NUMB](https://www.last.fm/music/XXXTENTACION/_/NUMB)
-* [Guardin — into the trees](https://www.last.fm/music/Guardin/_/into+the+trees)<!-- LASTFM:END -->
+* [Within Destruction — Yōkai](https://www.last.fm/music/Within+Destruction/_/Y%C5%8Dkai)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
