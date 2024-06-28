@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yung Gravy — Kathleen](https://www.last.fm/music/Yung+Gravy/_/Kathleen)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Oliver Tree — All That](https://www.last.fm/music/Oliver+Tree/_/All+That)
-* [Finch — Rave Witchers](https://www.last.fm/music/Finch/_/Rave+Witchers)
-* [Shahmen — infinite bliss](https://www.last.fm/music/Shahmen/_/infinite+bliss)<!-- LASTFM:END -->
+* [Billie Eilish — goodbye](https://www.last.fm/music/Billie+Eilish/_/goodbye)
+* [nothing,nowhere. — fake friend](https://www.last.fm/music/nothing,nowhere./_/fake+friend)
+* [FEDUK — Номер братвы &lpar;Feduk guitar&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%BE%D0%BC%D0%B5%D1%80+%D0%B1%D1%80%D0%B0%D1%82%D0%B2%D1%8B+&lpar;Feduk+guitar&rpar;)
+* [Jakey — Moby Dick](https://www.last.fm/music/Jakey/_/Moby+Dick)
+* [Yung Gravy — Kathleen](https://www.last.fm/music/Yung+Gravy/_/Kathleen)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
