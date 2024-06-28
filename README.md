@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — 2:09](https://www.last.fm/music/Eden/_/2:09)
 * [Joji — Window](https://www.last.fm/music/Joji/_/Window)
 * [Savage Ga$p — flaming hot cheetos](https://www.last.fm/music/Savage+Ga$p/_/flaming+hot+cheetos)
 * [Lovey — Ever Since](https://www.last.fm/music/Lovey/_/Ever+Since)
-* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)<!-- LASTFM:END -->
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
