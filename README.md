@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — Rotisserie](https://www.last.fm/music/Yung+Gravy/_/Rotisserie)
+* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
 * [Niki — Sugarplum Elegy](https://www.last.fm/music/Niki/_/Sugarplum+Elegy)
 * [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)
-* [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
-* [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)<!-- LASTFM:END -->
+* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
