@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)
+* [bbno$ — banana](https://www.last.fm/music/bbno$/_/banana)
+* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)
 * [Within Destruction — Yōkai](https://www.last.fm/music/Within+Destruction/_/Y%C5%8Dkai)
-* [Rezz — H E X](https://www.last.fm/music/Rezz/_/H+E+X)
-* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
-* [bbno$ — pay attention](https://www.last.fm/music/bbno$/_/pay+attention)
-* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)<!-- LASTFM:END -->
+* [Rezz — H E X](https://www.last.fm/music/Rezz/_/H+E+X)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
