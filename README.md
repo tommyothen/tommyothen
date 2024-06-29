@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Antoha MC — Спорт-брат](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BF%D0%BE%D1%80%D1%82-%D0%B1%D1%80%D0%B0%D1%82)
+* [XXXTENTACION — I don&#39;t wanna do this anymore](https://www.last.fm/music/XXXTENTACION/_/I+don%27t+wanna+do+this+anymore)
 * [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
 * [We Are Fury — Don&#39;t Forget &lpar;feat. Mariah Delage&rpar;](https://www.last.fm/music/We+Are+Fury/_/Don%27t+Forget+&lpar;feat.+Mariah+Delage&rpar;)
-* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)
-* [Quadeca — Ego Death](https://www.last.fm/music/Quadeca/_/Ego+Death)
-* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)<!-- LASTFM:END -->
+* [Yameii Online — PHOTON SCOOTER](https://www.last.fm/music/Yameii+Online/_/PHOTON+SCOOTER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
