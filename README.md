@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — Gasoline &lpar;feat. Young King Dave&rpar;](https://www.last.fm/music/Yung+Gravy/_/Gasoline+&lpar;feat.+Young+King+Dave&rpar;)
+* [Ciki — Syndrome](https://www.last.fm/music/Ciki/_/Syndrome)
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [Logic — Homicide &lpar;feat. Eminem&rpar;](https://www.last.fm/music/Logic/_/Homicide+&lpar;feat.+Eminem&rpar;)
-* [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
-* [potsu — letting go](https://www.last.fm/music/potsu/_/letting+go)
-* [Billie Eilish — wish you were gay](https://www.last.fm/music/Billie+Eilish/_/wish+you+were+gay)
-* [Yung Gravy — Rotisserie](https://www.last.fm/music/Yung+Gravy/_/Rotisserie)<!-- LASTFM:END -->
+* [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
