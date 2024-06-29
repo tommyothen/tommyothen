@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TeddyLoid — ME!ME!ME! feat. daoko_pt.3](https://www.last.fm/music/TeddyLoid/_/ME!ME!ME!+feat.+daoko_pt.3)
+* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
+* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
 * [Hieroglyphics — Make Your Move](https://www.last.fm/music/Hieroglyphics/_/Make+Your+Move)
-* [Inzo — Overthinker](https://www.last.fm/music/Inzo/_/Overthinker)
-* [MC Virgins — Anime Thighs](https://www.last.fm/music/MC+Virgins/_/Anime+Thighs)
-* [LilyPichu — Dreamy Night](https://www.last.fm/music/LilyPichu/_/Dreamy+Night)
-* [bbno$ — I](https://www.last.fm/music/bbno$/_/I)<!-- LASTFM:END -->
+* [Inzo — Overthinker](https://www.last.fm/music/Inzo/_/Overthinker)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
