@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TeddyLoid — ME!ME!ME! feat. daoko_pt.3](https://www.last.fm/music/TeddyLoid/_/ME!ME!ME!+feat.+daoko_pt.3)
-* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
-* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
-* [Hieroglyphics — Make Your Move](https://www.last.fm/music/Hieroglyphics/_/Make+Your+Move)
-* [Inzo — Overthinker](https://www.last.fm/music/Inzo/_/Overthinker)<!-- LASTFM:END -->
+* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
+* [Savage Ga$p — flaming hot cheetos](https://www.last.fm/music/Savage+Ga$p/_/flaming+hot+cheetos)
+* [Geoxor — Abandoned](https://www.last.fm/music/Geoxor/_/Abandoned)
+* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
+* [TeddyLoid — ME!ME!ME! feat. daoko_pt.3](https://www.last.fm/music/TeddyLoid/_/ME!ME!ME!+feat.+daoko_pt.3)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
