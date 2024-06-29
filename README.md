@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shakewell — Hold Me Down](https://www.last.fm/music/Shakewell/_/Hold+Me+Down)
+* [Softwilly — B.O.Y.S.N.E.X.T.D.O.O.R.](https://www.last.fm/music/Softwilly/_/B.O.Y.S.N.E.X.T.D.O.O.R.)
+* [Kuwago — Let&#39;s start](https://www.last.fm/music/Kuwago/_/Let%27s+start)
 * [Fhin — But Now A Warm Feel Is Running](https://www.last.fm/music/Fhin/_/But+Now+A+Warm+Feel+Is+Running)
-* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)
-* [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
-* [Antoha MC — Спорт-брат](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BF%D0%BE%D1%80%D1%82-%D0%B1%D1%80%D0%B0%D1%82)
-* [XXXTENTACION — I don&#39;t wanna do this anymore](https://www.last.fm/music/XXXTENTACION/_/I+don%27t+wanna+do+this+anymore)<!-- LASTFM:END -->
+* [Grimes — Delete Forever](https://www.last.fm/music/Grimes/_/Delete+Forever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
