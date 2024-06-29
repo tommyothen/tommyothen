@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Porter Robinson — Sad Machine](https://www.last.fm/music/Porter+Robinson/_/Sad+Machine)
 * [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
 * [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
 * [Rich Brian — Enemies](https://www.last.fm/music/Rich+Brian/_/Enemies)
-* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
-* [IC3PEAK — Плак-Плак](https://www.last.fm/music/IC3PEAK/_/%D0%9F%D0%BB%D0%B0%D0%BA-%D0%9F%D0%BB%D0%B0%D0%BA)<!-- LASTFM:END -->
+* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
