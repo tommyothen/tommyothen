@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Stephen — Play Me Like a Violin](https://www.last.fm/music/Stephen/_/Play+Me+Like+a+Violin)
+* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
 * [Hermitude — The Buzz](https://www.last.fm/music/Hermitude/_/The+Buzz)
 * [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [Grabbitz — Polaroid](https://www.last.fm/music/Grabbitz/_/Polaroid)
-* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
-* [FEDUK — Рацион &lpar;feat. SLA&rpar;](https://www.last.fm/music/FEDUK/_/%D0%A0%D0%B0%D1%86%D0%B8%D0%BE%D0%BD+&lpar;feat.+SLA&rpar;)<!-- LASTFM:END -->
+* [Grabbitz — Polaroid](https://www.last.fm/music/Grabbitz/_/Polaroid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
