@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yungtown — Late Night Thoughts](https://www.last.fm/music/Yungtown/_/Late+Night+Thoughts)
 * [blackbear — Short Kings Anthem](https://www.last.fm/music/blackbear/_/Short+Kings+Anthem)
 * [slushii — Luv U Need U](https://www.last.fm/music/slushii/_/Luv+U+Need+U)
 * [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)
-* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)
-* [Shakewell — Hold Me Down](https://www.last.fm/music/Shakewell/_/Hold+Me+Down)<!-- LASTFM:END -->
+* [Ameria — Trouble](https://www.last.fm/music/Ameria/_/Trouble)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
