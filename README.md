@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [D-Real [愛] — Nerd Won&#39;t Stop](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Nerd+Won%27t+Stop)
+* [The Northern Boys — Party Time](https://www.last.fm/music/The+Northern+Boys/_/Party+Time)
 * [Porter Robinson — Sad Machine](https://www.last.fm/music/Porter+Robinson/_/Sad+Machine)
 * [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)
-* [Rich Brian — Enemies](https://www.last.fm/music/Rich+Brian/_/Enemies)
-* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)<!-- LASTFM:END -->
+* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
