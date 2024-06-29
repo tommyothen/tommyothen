@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Enemies](https://www.last.fm/music/Rich+Brian/_/Enemies)
+* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
+* [IC3PEAK — Плак-Плак](https://www.last.fm/music/IC3PEAK/_/%D0%9F%D0%BB%D0%B0%D0%BA-%D0%9F%D0%BB%D0%B0%D0%BA)
 * [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
-* [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)
-* [Laur — Sound Chimera](https://www.last.fm/music/Laur/_/Sound+Chimera)
-* [Torr — selfdestruct](https://www.last.fm/music/Torr/_/selfdestruct)
-* [Antoha MC — время ток](https://www.last.fm/music/Antoha+MC/_/%D0%B2%D1%80%D0%B5%D0%BC%D1%8F+%D1%82%D0%BE%D0%BA)<!-- LASTFM:END -->
+* [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
