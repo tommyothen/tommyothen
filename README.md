@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)
+* [Post Malone — Goodbyes &lpar;feat. Young Thug&rpar;](https://www.last.fm/music/Post+Malone/_/Goodbyes+&lpar;feat.+Young+Thug&rpar;)
 * [Porter Robinson — Natural Light](https://www.last.fm/music/Porter+Robinson/_/Natural+Light)
 * [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
-* [Elio — hurts 2 hate somebody &lpar;with Chase Atlantic &amp; No Rome&rpar;](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+&lpar;with+Chase+Atlantic+&amp;+No+Rome&rpar;)
-* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
-* [Stephen — Play Me Like a Violin](https://www.last.fm/music/Stephen/_/Play+Me+Like+a+Violin)<!-- LASTFM:END -->
+* [Elio — hurts 2 hate somebody &lpar;with Chase Atlantic &amp; No Rome&rpar;](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+&lpar;with+Chase+Atlantic+&amp;+No+Rome&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
