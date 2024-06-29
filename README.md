@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Logic — Homicide &lpar;feat. Eminem&rpar;](https://www.last.fm/music/Logic/_/Homicide+&lpar;feat.+Eminem&rpar;)
+* [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
 * [potsu — letting go](https://www.last.fm/music/potsu/_/letting+go)
 * [Billie Eilish — wish you were gay](https://www.last.fm/music/Billie+Eilish/_/wish+you+were+gay)
-* [Yung Gravy — Rotisserie](https://www.last.fm/music/Yung+Gravy/_/Rotisserie)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
-* [Niki — Sugarplum Elegy](https://www.last.fm/music/Niki/_/Sugarplum+Elegy)<!-- LASTFM:END -->
+* [Yung Gravy — Rotisserie](https://www.last.fm/music/Yung+Gravy/_/Rotisserie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
