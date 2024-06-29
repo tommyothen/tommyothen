@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [City Girl — Endless and Artificial](https://www.last.fm/music/City+Girl/_/Endless+and+Artificial)
+* [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)
+* [Kxllswxtch — HAVE YOU SEEN MY MIND?](https://www.last.fm/music/Kxllswxtch/_/HAVE+YOU+SEEN+MY+MIND%3F)
 * [The Notorious B.I.G. — Notorious Thugs - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Notorious+Thugs+-+2014+Remaster)
-* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
-* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)
-* [L.Dre — Across the Country](https://www.last.fm/music/L.Dre/_/Across+the+Country)
-* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)<!-- LASTFM:END -->
+* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
