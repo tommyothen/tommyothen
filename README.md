@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Elio — hurts 2 hate somebody &lpar;with Chase Atlantic &amp; No Rome&rpar;](https://www.last.fm/music/Elio/_/hurts+2+hate+somebody+&lpar;with+Chase+Atlantic+&amp;+No+Rome&rpar;)
+* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
 * [Stephen — Play Me Like a Violin](https://www.last.fm/music/Stephen/_/Play+Me+Like+a+Violin)
 * [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [Hermitude — The Buzz](https://www.last.fm/music/Hermitude/_/The+Buzz)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [Grabbitz — Polaroid](https://www.last.fm/music/Grabbitz/_/Polaroid)<!-- LASTFM:END -->
+* [Hermitude — The Buzz](https://www.last.fm/music/Hermitude/_/The+Buzz)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
