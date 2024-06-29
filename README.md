@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Andrea Chahayed — Right Where You Like](https://www.last.fm/music/Andrea+Chahayed/_/Right+Where+You+Like)
+* [FEDUK — Рацион &lpar;feat. SLA&rpar;](https://www.last.fm/music/FEDUK/_/%D0%A0%D0%B0%D1%86%D0%B8%D0%BE%D0%BD+&lpar;feat.+SLA&rpar;)
+* [SCARLXRD — HEAD GXNE](https://www.last.fm/music/SCARLXRD/_/HEAD+GXNE)
 * [HENTAI DUDE — Tokyo Chopp](https://www.last.fm/music/HENTAI+DUDE/_/Tokyo+Chopp)
-* [Laufey — From the Start](https://www.last.fm/music/Laufey/_/From+the+Start)
-* [Yung Gravy — Gasoline &lpar;feat. Young King Dave&rpar;](https://www.last.fm/music/Yung+Gravy/_/Gasoline+&lpar;feat.+Young+King+Dave&rpar;)
-* [Ciki — Syndrome](https://www.last.fm/music/Ciki/_/Syndrome)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
+* [Laufey — From the Start](https://www.last.fm/music/Laufey/_/From+the+Start)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
