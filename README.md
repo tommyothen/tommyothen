@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
+* [bbno$ — pay attention](https://www.last.fm/music/bbno$/_/pay+attention)
+* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
 * [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
-* [Savage Ga$p — flaming hot cheetos](https://www.last.fm/music/Savage+Ga$p/_/flaming+hot+cheetos)
-* [Geoxor — Abandoned](https://www.last.fm/music/Geoxor/_/Abandoned)
-* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
-* [TeddyLoid — ME!ME!ME! feat. daoko_pt.3](https://www.last.fm/music/TeddyLoid/_/ME!ME!ME!+feat.+daoko_pt.3)<!-- LASTFM:END -->
+* [Savage Ga$p — flaming hot cheetos](https://www.last.fm/music/Savage+Ga$p/_/flaming+hot+cheetos)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
