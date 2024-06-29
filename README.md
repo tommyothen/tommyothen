@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — 98-й год](https://www.last.fm/music/FEDUK/_/98-%D0%B9+%D0%B3%D0%BE%D0%B4)
+* [Saib — Little Indian](https://www.last.fm/music/Saib/_/Little+Indian)
 * [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)
 * [bbno$ — banana](https://www.last.fm/music/bbno$/_/banana)
-* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)
-* [Within Destruction — Yōkai](https://www.last.fm/music/Within+Destruction/_/Y%C5%8Dkai)
-* [Rezz — H E X](https://www.last.fm/music/Rezz/_/H+E+X)<!-- LASTFM:END -->
+* [Jaden — Icon](https://www.last.fm/music/Jaden/_/Icon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
