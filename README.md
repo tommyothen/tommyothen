@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — start//end](https://www.last.fm/music/Eden/_/start%2F%2Fend)
 * [Avit — ur the reason im this way](https://www.last.fm/music/Avit/_/ur+the+reason+im+this+way)
 * [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)
 * [Eden — sex](https://www.last.fm/music/Eden/_/sex)
-* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
-* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)<!-- LASTFM:END -->
+* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
