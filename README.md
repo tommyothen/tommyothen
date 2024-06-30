@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glass Animals — Tokyo Drifting &lpar;with Denzel Curry&rpar;](https://www.last.fm/music/Glass+Animals/_/Tokyo+Drifting+&lpar;with+Denzel+Curry&rpar;)
+* [Khary — Jolly Roger](https://www.last.fm/music/Khary/_/Jolly+Roger)
+* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)
 * [gianni &amp; kyle — tension](https://www.last.fm/music/gianni+&amp;+kyle/_/tension)
-* [nothing,nowhere. — dread](https://www.last.fm/music/nothing,nowhere./_/dread)
-* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
-* [Far Out — On My Own](https://www.last.fm/music/Far+Out/_/On+My+Own)
-* [I DONT KNOW HOW BUT THEY FOUND ME — Leave Me Alone](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Leave+Me+Alone)<!-- LASTFM:END -->
+* [nothing,nowhere. — dread](https://www.last.fm/music/nothing,nowhere./_/dread)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
