@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cal Scruby — Not That Deep](https://www.last.fm/music/Cal+Scruby/_/Not+That+Deep)
+* [Two Door Cinema Club — Something Good Can Work](https://www.last.fm/music/Two+Door+Cinema+Club/_/Something+Good+Can+Work)
 * [Bearson — Go to Sleep &lpar;feat. Kailee Morgue&rpar; &lpar;feat. Kailee Morgue&rpar; - Oshi Remix](https://www.last.fm/music/Bearson/_/Go+to+Sleep+&lpar;feat.+Kailee+Morgue&rpar;+&lpar;feat.+Kailee+Morgue&rpar;+-+Oshi+Remix)
 * [Tsundere Alley — Like My Love](https://www.last.fm/music/Tsundere+Alley/_/Like+My+Love)
-* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
-* [Prismo — In My Mind](https://www.last.fm/music/Prismo/_/In+My+Mind)<!-- LASTFM:END -->
+* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
