@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billie Eilish — No Time to Die](https://www.last.fm/music/Billie+Eilish/_/No+Time+to+Die)
+* [Yung Gravy — Clock](https://www.last.fm/music/Yung+Gravy/_/Clock)
+* [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
 * [The Home Team — Move It or Lose It](https://www.last.fm/music/The+Home+Team/_/Move+It+or+Lose+It)
-* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)
-* [Zomboy — Battlefields](https://www.last.fm/music/Zomboy/_/Battlefields)
-* [Lexie Liu — 香芋的错觉 CAROUSEL](https://www.last.fm/music/Lexie+Liu/_/%E9%A6%99%E8%8A%8B%E7%9A%84%E9%94%99%E8%A7%89+CAROUSEL)
-* [Grant — Weapon](https://www.last.fm/music/Grant/_/Weapon)<!-- LASTFM:END -->
+* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
