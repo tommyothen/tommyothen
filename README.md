@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)
+* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
 * [Prismo — In My Mind](https://www.last.fm/music/Prismo/_/In+My+Mind)
 * [XXXTENTACION — slipknot](https://www.last.fm/music/XXXTENTACION/_/slipknot)
-* [Qawi Kamri — Shaky Hands](https://www.last.fm/music/Qawi+Kamri/_/Shaky+Hands)
-* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)<!-- LASTFM:END -->
+* [Qawi Kamri — Shaky Hands](https://www.last.fm/music/Qawi+Kamri/_/Shaky+Hands)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
