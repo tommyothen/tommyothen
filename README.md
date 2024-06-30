@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [gianni &amp; kyle — tension](https://www.last.fm/music/gianni+&amp;+kyle/_/tension)
+* [nothing,nowhere. — dread](https://www.last.fm/music/nothing,nowhere./_/dread)
+* [Good Kid — Faster](https://www.last.fm/music/Good+Kid/_/Faster)
 * [Far Out — On My Own](https://www.last.fm/music/Far+Out/_/On+My+Own)
-* [I DONT KNOW HOW BUT THEY FOUND ME — Leave Me Alone](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Leave+Me+Alone)
-* [Neovaii — Should&#39;ve Started](https://www.last.fm/music/Neovaii/_/Should%27ve+Started)
-* [bbno$ — moneytalk](https://www.last.fm/music/bbno$/_/moneytalk)
-* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)<!-- LASTFM:END -->
+* [I DONT KNOW HOW BUT THEY FOUND ME — Leave Me Alone](https://www.last.fm/music/I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME/_/Leave+Me+Alone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
