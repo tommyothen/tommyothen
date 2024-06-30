@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
 * [Glass Animals — Tokyo Drifting &lpar;with Denzel Curry&rpar;](https://www.last.fm/music/Glass+Animals/_/Tokyo+Drifting+&lpar;with+Denzel+Curry&rpar;)
 * [Khary — Jolly Roger](https://www.last.fm/music/Khary/_/Jolly+Roger)
-* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)
-* [gianni &amp; kyle — tension](https://www.last.fm/music/gianni+&amp;+kyle/_/tension)
-* [nothing,nowhere. — dread](https://www.last.fm/music/nothing,nowhere./_/dread)<!-- LASTFM:END -->
+* [Eden — about time](https://www.last.fm/music/Eden/_/about+time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
