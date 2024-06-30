@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
 * [A D M B — Just A Day](https://www.last.fm/music/A+D+M+B/_/Just+A+Day)
 * [Khary — Jolly Roger](https://www.last.fm/music/Khary/_/Jolly+Roger)
-* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)
-* [Yung Gravy — BOOMIN](https://www.last.fm/music/Yung+Gravy/_/BOOMIN)<!-- LASTFM:END -->
+* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
