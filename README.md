@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Cal Scruby — Not That Deep](https://www.last.fm/music/Cal+Scruby/_/Not+That+Deep)
-* [Two Door Cinema Club — Something Good Can Work](https://www.last.fm/music/Two+Door+Cinema+Club/_/Something+Good+Can+Work)
-* [Bearson — Go to Sleep &lpar;feat. Kailee Morgue&rpar; &lpar;feat. Kailee Morgue&rpar; - Oshi Remix](https://www.last.fm/music/Bearson/_/Go+to+Sleep+&lpar;feat.+Kailee+Morgue&rpar;+&lpar;feat.+Kailee+Morgue&rpar;+-+Oshi+Remix)
-* [Tsundere Alley — Like My Love](https://www.last.fm/music/Tsundere+Alley/_/Like+My+Love)
-* [Niki — Pandemonium](https://www.last.fm/music/Niki/_/Pandemonium)<!-- LASTFM:END -->
+* [Middle School — Helplessly](https://www.last.fm/music/Middle+School/_/Helplessly)
+* [YUNG BAE — Must Be Love](https://www.last.fm/music/YUNG+BAE/_/Must+Be+Love)
+* [Getter — Forget It &lpar;feat. Oliver Tree&rpar;](https://www.last.fm/music/Getter/_/Forget+It+&lpar;feat.+Oliver+Tree&rpar;)
+* [Bliss n Eso — Tear The Roof Off](https://www.last.fm/music/Bliss+n+Eso/_/Tear+The+Roof+Off)
+* [Lil Dicky — Bruh...](https://www.last.fm/music/Lil+Dicky/_/Bruh...)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
