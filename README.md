@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Guardin — in my sleep](https://www.last.fm/music/Guardin/_/in+my+sleep)
+* [Camellia — GHOUL](https://www.last.fm/music/Camellia/_/GHOUL)
 * [D-Real [愛] — Nerd Won&#39;t Stop](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Nerd+Won%27t+Stop)
 * [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [XXXTENTACION — schizophrenia](https://www.last.fm/music/XXXTENTACION/_/schizophrenia)
-* [Marcus D — Dionysus](https://www.last.fm/music/Marcus+D/_/Dionysus)
-* [Camellia — Purge My Existence Out Of This World](https://www.last.fm/music/Camellia/_/Purge+My+Existence+Out+Of+This+World)<!-- LASTFM:END -->
+* [XXXTENTACION — schizophrenia](https://www.last.fm/music/XXXTENTACION/_/schizophrenia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
