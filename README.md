@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)
-* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)<!-- LASTFM:END -->
+* [Zeph — world](https://www.last.fm/music/Zeph/_/world)
+* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)
+* [dacelynn — tell me what you want](https://www.last.fm/music/dacelynn/_/tell+me+what+you+want)
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
+* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
