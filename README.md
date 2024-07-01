@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rory in early 20s — unforeseen dream scenarios that glorify the beauty of a vacuum cleaner](https://www.last.fm/music/Rory+in+early+20s/_/unforeseen+dream+scenarios+that+glorify+the+beauty+of+a+vacuum+cleaner)
+* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
+* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
 * [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
-* [88rising — History](https://www.last.fm/music/88rising/_/History)
-* [6 Dogs — Faygo Dreams](https://www.last.fm/music/6+Dogs/_/Faygo+Dreams)
-* [Rich Brian — Foolish](https://www.last.fm/music/Rich+Brian/_/Foolish)<!-- LASTFM:END -->
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
