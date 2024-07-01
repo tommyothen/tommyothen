@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
+* [88rising — History](https://www.last.fm/music/88rising/_/History)
 * [6 Dogs — Faygo Dreams](https://www.last.fm/music/6+Dogs/_/Faygo+Dreams)
-* [Rich Brian — Foolish](https://www.last.fm/music/Rich+Brian/_/Foolish)
-* [XXXTENTACION — YuNg BrAtZ](https://www.last.fm/music/XXXTENTACION/_/YuNg+BrAtZ)
-* [HAARPER — Wtf U Mean &lpar;feat. Freddie Dredd&rpar;](https://www.last.fm/music/HAARPER/_/Wtf+U+Mean+&lpar;feat.+Freddie+Dredd&rpar;)
-* [Rich Brian — Gospel](https://www.last.fm/music/Rich+Brian/_/Gospel)<!-- LASTFM:END -->
+* [Rich Brian — Foolish](https://www.last.fm/music/Rich+Brian/_/Foolish)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
