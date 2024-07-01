@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Andromeda](https://www.last.fm/music/nihmune/_/Andromeda)
+* [nihmune — Hypnotic](https://www.last.fm/music/nihmune/_/Hypnotic)
 * [nihmune — Egg Drop](https://www.last.fm/music/nihmune/_/Egg+Drop)
 * [nihmune — Heartbun](https://www.last.fm/music/nihmune/_/Heartbun)
-* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [nihmune — Sour Worms](https://www.last.fm/music/nihmune/_/Sour+Worms)<!-- LASTFM:END -->
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
