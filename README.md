@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
+* [phendste — i&#39;d find you](https://www.last.fm/music/phendste/_/i%27d+find+you)
 * [Kevin Walkman — its alright :&rpar;](https://www.last.fm/music/Kevin+Walkman/_/its+alright+:&rpar;)
 * [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
-* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
-* [Zeph — world](https://www.last.fm/music/Zeph/_/world)
-* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)<!-- LASTFM:END -->
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
