@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kevin Walkman — its alright :&rpar;](https://www.last.fm/music/Kevin+Walkman/_/its+alright+:&rpar;)
+* [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
+* [Ūla — Futon](https://www.last.fm/music/%C5%AAla/_/Futon)
 * [Zeph — world](https://www.last.fm/music/Zeph/_/world)
-* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)
-* [dacelynn — tell me what you want](https://www.last.fm/music/dacelynn/_/tell+me+what+you+want)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [ukiyo — ctrl alt delete](https://www.last.fm/music/ukiyo/_/ctrl+alt+delete)<!-- LASTFM:END -->
+* [Easha — Two Dimensions](https://www.last.fm/music/Easha/_/Two+Dimensions)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
