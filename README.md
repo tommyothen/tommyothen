@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Perfect Playlist](https://www.last.fm/music/Ellie+Williams/_/Perfect+Playlist)
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
