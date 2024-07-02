@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
+* [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
-* [Easha — You Make Me Feel](https://www.last.fm/music/Easha/_/You+Make+Me+Feel)<!-- LASTFM:END -->
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
