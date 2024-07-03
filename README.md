@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
+* [Poppy — Altar](https://www.last.fm/music/Poppy/_/Altar)
+* [Poppy — Flux](https://www.last.fm/music/Poppy/_/Flux)
 * [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Poppy — X](https://www.last.fm/music/Poppy/_/X)
-* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)<!-- LASTFM:END -->
+* [Poppy — X](https://www.last.fm/music/Poppy/_/X)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
