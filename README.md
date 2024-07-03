@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
+* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
 * [Dreamcatcher — GOOD NIGHT](https://www.last.fm/music/Dreamcatcher/_/GOOD+NIGHT)
 * [FEDUK — Скрытая злость](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F+%D0%B7%D0%BB%D0%BE%D1%81%D1%82%D1%8C)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)<!-- LASTFM:END -->
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
