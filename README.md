@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [6arelyhuman — FASTER n HARDER](https://www.last.fm/music/6arelyhuman/_/FASTER+n+HARDER)
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
 * [Poppy — Altar](https://www.last.fm/music/Poppy/_/Altar)
-* [Poppy — Flux](https://www.last.fm/music/Poppy/_/Flux)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Poppy — X](https://www.last.fm/music/Poppy/_/X)<!-- LASTFM:END -->
+* [Poppy — Flux](https://www.last.fm/music/Poppy/_/Flux)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
