@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [AL-X the Great — Rocketman &lpar;feat. Atlas &amp; Lando!&rpar;](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+&lpar;feat.+Atlas+&amp;+Lando!&rpar;)
+* [Cloudy June — Crazy Woman](https://www.last.fm/music/Cloudy+June/_/Crazy+Woman)
 * [Unlike Pluto — Lethal Poetry](https://www.last.fm/music/Unlike+Pluto/_/Lethal+Poetry)
 * [The Haunt — Can People Really Change?](https://www.last.fm/music/The+Haunt/_/Can+People+Really+Change%3F)
-* [Hey Violet — Aftertaste](https://www.last.fm/music/Hey+Violet/_/Aftertaste)
-* [Scene Queen — Girls Gone Wild](https://www.last.fm/music/Scene+Queen/_/Girls+Gone+Wild)
-* [Alexandra Stan — Mr. Saxobeat](https://www.last.fm/music/Alexandra+Stan/_/Mr.+Saxobeat)<!-- LASTFM:END -->
+* [Hey Violet — Aftertaste](https://www.last.fm/music/Hey+Violet/_/Aftertaste)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
