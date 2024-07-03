@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tennyson — Body Language &lpar;feat. Aloe Blacc&rpar;](https://www.last.fm/music/Tennyson/_/Body+Language+&lpar;feat.+Aloe+Blacc&rpar;)
+* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
 * [Vincente Void — Grief](https://www.last.fm/music/Vincente+Void/_/Grief)
 * [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [YUNG BAE — Slam Jam!](https://www.last.fm/music/YUNG+BAE/_/Slam+Jam!)
-* [Cö shu Nie — asphyxia](https://www.last.fm/music/C%C3%B6+shu+Nie/_/asphyxia)
-* [Ark Patrol — Let Go](https://www.last.fm/music/Ark+Patrol/_/Let+Go)<!-- LASTFM:END -->
+* [YUNG BAE — Slam Jam!](https://www.last.fm/music/YUNG+BAE/_/Slam+Jam!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
