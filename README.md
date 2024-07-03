@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Unlike Pluto — Lethal Poetry](https://www.last.fm/music/Unlike+Pluto/_/Lethal+Poetry)
+* [The Haunt — Can People Really Change?](https://www.last.fm/music/The+Haunt/_/Can+People+Really+Change%3F)
 * [Hey Violet — Aftertaste](https://www.last.fm/music/Hey+Violet/_/Aftertaste)
 * [Scene Queen — Girls Gone Wild](https://www.last.fm/music/Scene+Queen/_/Girls+Gone+Wild)
-* [Alexandra Stan — Mr. Saxobeat](https://www.last.fm/music/Alexandra+Stan/_/Mr.+Saxobeat)
-* [Rihanna — We Found Love](https://www.last.fm/music/Rihanna/_/We+Found+Love)
-* [Dizzee Rascal — Dance Wiv Me - Radio Edit](https://www.last.fm/music/Dizzee+Rascal/_/Dance+Wiv+Me+-+Radio+Edit)<!-- LASTFM:END -->
+* [Alexandra Stan — Mr. Saxobeat](https://www.last.fm/music/Alexandra+Stan/_/Mr.+Saxobeat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
