@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [slowthai — terms &lpar;feat. Dominic Fike &amp; Denzel Curry&rpar;](https://www.last.fm/music/slowthai/_/terms+&lpar;feat.+Dominic+Fike+&amp;+Denzel+Curry&rpar;)
+* [Eden Project — drowning.](https://www.last.fm/music/Eden+Project/_/drowning.)
 * [Tennyson — Body Language &lpar;feat. Aloe Blacc&rpar;](https://www.last.fm/music/Tennyson/_/Body+Language+&lpar;feat.+Aloe+Blacc&rpar;)
 * [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Vincente Void — Grief](https://www.last.fm/music/Vincente+Void/_/Grief)
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [YUNG BAE — Slam Jam!](https://www.last.fm/music/YUNG+BAE/_/Slam+Jam!)<!-- LASTFM:END -->
+* [Vincente Void — Grief](https://www.last.fm/music/Vincente+Void/_/Grief)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
