@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — I](https://www.last.fm/music/bbno$/_/I)
+* [Polyphia — Bloodbath &lpar;feat. Chino Moreno&rpar;](https://www.last.fm/music/Polyphia/_/Bloodbath+&lpar;feat.+Chino+Moreno&rpar;)
 * [bbno$ — money conversation](https://www.last.fm/music/bbno$/_/money+conversation)
 * [Pendulum — Propane Nightmares - Grabbitz Remix](https://www.last.fm/music/Pendulum/_/Propane+Nightmares+-+Grabbitz+Remix)
-* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
-* [Moe Shop — Natural](https://www.last.fm/music/Moe+Shop/_/Natural)
-* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)<!-- LASTFM:END -->
+* [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
