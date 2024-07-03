@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hey Violet — Aftertaste](https://www.last.fm/music/Hey+Violet/_/Aftertaste)
+* [Scene Queen — Girls Gone Wild](https://www.last.fm/music/Scene+Queen/_/Girls+Gone+Wild)
+* [Alexandra Stan — Mr. Saxobeat](https://www.last.fm/music/Alexandra+Stan/_/Mr.+Saxobeat)
 * [Rihanna — We Found Love](https://www.last.fm/music/Rihanna/_/We+Found+Love)
-* [Dizzee Rascal — Dance Wiv Me - Radio Edit](https://www.last.fm/music/Dizzee+Rascal/_/Dance+Wiv+Me+-+Radio+Edit)
-* [Ida Corr — Let Me Think About It - Radio Edit](https://www.last.fm/music/Ida+Corr/_/Let+Me+Think+About+It+-+Radio+Edit)
-* [XXXTENTACION — RIOT](https://www.last.fm/music/XXXTENTACION/_/RIOT)
-* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)<!-- LASTFM:END -->
+* [Dizzee Rascal — Dance Wiv Me - Radio Edit](https://www.last.fm/music/Dizzee+Rascal/_/Dance+Wiv+Me+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
