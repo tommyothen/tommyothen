@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dizzee Rascal — Dance Wiv Me - Radio Edit](https://www.last.fm/music/Dizzee+Rascal/_/Dance+Wiv+Me+-+Radio+Edit)
+* [Ida Corr — Let Me Think About It - Radio Edit](https://www.last.fm/music/Ida+Corr/_/Let+Me+Think+About+It+-+Radio+Edit)
 * [XXXTENTACION — RIOT](https://www.last.fm/music/XXXTENTACION/_/RIOT)
 * [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
-* [Kxllswxtch — COSMO](https://www.last.fm/music/Kxllswxtch/_/COSMO)
-* [HAARPER — GIVE ME BRAIN](https://www.last.fm/music/HAARPER/_/GIVE+ME+BRAIN)
-* [99zed — Two Twelve Subwoofer](https://www.last.fm/music/99zed/_/Two+Twelve+Subwoofer)<!-- LASTFM:END -->
+* [Kxllswxtch — COSMO](https://www.last.fm/music/Kxllswxtch/_/COSMO)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
