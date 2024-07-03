@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
+* [Poppy — Hard](https://www.last.fm/music/Poppy/_/Hard)
 * [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
 * [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [nothing,nowhere. — Honey](https://www.last.fm/music/nothing,nowhere./_/Honey)
-* [nothing,nowhere. — WTF &lpar;am i doing with my life&rpar;](https://www.last.fm/music/nothing,nowhere./_/WTF+&lpar;am+i+doing+with+my+life&rpar;)<!-- LASTFM:END -->
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
