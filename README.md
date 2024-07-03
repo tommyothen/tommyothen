@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [IVE — All Night &lpar;feat. Saweetie&rpar;](https://www.last.fm/music/IVE/_/All+Night+&lpar;feat.+Saweetie&rpar;)
-* [IVE — Kitsch](https://www.last.fm/music/IVE/_/Kitsch)
-* [IVE — Off the Record](https://www.last.fm/music/IVE/_/Off+the+Record)
-* [IVE — Baddie](https://www.last.fm/music/IVE/_/Baddie)
-* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)<!-- LASTFM:END -->
+* [bludnymph — Lights Out](https://www.last.fm/music/bludnymph/_/Lights+Out)
+* [DeZi — Venus in Gemini](https://www.last.fm/music/DeZi/_/Venus+in+Gemini)
+* [Mothica — sensitive](https://www.last.fm/music/Mothica/_/sensitive)
+* [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)
+* [IVE — All Night &lpar;feat. Saweetie&rpar;](https://www.last.fm/music/IVE/_/All+Night+&lpar;feat.+Saweetie&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
