@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [IVE — Off the Record](https://www.last.fm/music/IVE/_/Off+the+Record)
+* [IVE — Baddie](https://www.last.fm/music/IVE/_/Baddie)
+* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)
 * [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
-* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
-* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
-* [Mayo. — 804](https://www.last.fm/music/Mayo./_/804)
-* [Kill Eva — Psycho Dreams &lpar;Sped Up&rpar;](https://www.last.fm/music/Kill+Eva/_/Psycho+Dreams+&lpar;Sped+Up&rpar;)<!-- LASTFM:END -->
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
