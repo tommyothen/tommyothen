@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
+* [nothing,nowhere. — Honey](https://www.last.fm/music/nothing,nowhere./_/Honey)
 * [nothing,nowhere. — WTF &lpar;am i doing with my life&rpar;](https://www.last.fm/music/nothing,nowhere./_/WTF+&lpar;am+i+doing+with+my+life&rpar;)
-* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
-* [nothing,nowhere. — i&#39;m sorry, i&#39;m trying](https://www.last.fm/music/nothing,nowhere./_/i%27m+sorry,+i%27m+trying)
-* [cLoud mac — Work!](https://www.last.fm/music/cLoud+mac/_/Work!)
-* [D-Real [愛] — Nerd Won&#39;t Stop](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Nerd+Won%27t+Stop)<!-- LASTFM:END -->
+* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
