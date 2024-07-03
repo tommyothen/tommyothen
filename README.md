@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [AL-X the Great — Rocketman &lpar;feat. Atlas &amp; Lando!&rpar;](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+&lpar;feat.+Atlas+&amp;+Lando!&rpar;)
-* [Cloudy June — Crazy Woman](https://www.last.fm/music/Cloudy+June/_/Crazy+Woman)
-* [Unlike Pluto — Lethal Poetry](https://www.last.fm/music/Unlike+Pluto/_/Lethal+Poetry)
-* [The Haunt — Can People Really Change?](https://www.last.fm/music/The+Haunt/_/Can+People+Really+Change%3F)
-* [Hey Violet — Aftertaste](https://www.last.fm/music/Hey+Violet/_/Aftertaste)<!-- LASTFM:END -->
+* [cLoud mac — Work!](https://www.last.fm/music/cLoud+mac/_/Work!)
+* [D-Real [愛] — Nerd Won&#39;t Stop](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Nerd+Won%27t+Stop)
+* [Jalen Tyree — The Devils Reunion](https://www.last.fm/music/Jalen+Tyree/_/The+Devils+Reunion)
+* [Jarv &amp; Thief — Lady Killer](https://www.last.fm/music/Jarv+&amp;+Thief/_/Lady+Killer)
+* [AL-X the Great — Rocketman &lpar;feat. Atlas &amp; Lando!&rpar;](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+&lpar;feat.+Atlas+&amp;+Lando!&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
