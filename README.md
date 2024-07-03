@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
-* [XANAKIN SKYWOK — Free Fire](https://www.last.fm/music/XANAKIN+SKYWOK/_/Free+Fire)
-* [Billie Eilish — bad guy](https://www.last.fm/music/Billie+Eilish/_/bad+guy)
-* [Khamsin — My Way](https://www.last.fm/music/Khamsin/_/My+Way)
-* [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)<!-- LASTFM:END -->
+* [Zachary Bynum — Sunset Drive Vibe](https://www.last.fm/music/Zachary+Bynum/_/Sunset+Drive+Vibe)
+* [Ryan Oakes — Drinking About You](https://www.last.fm/music/Ryan+Oakes/_/Drinking+About+You)
+* [Natte Visstick — Visstick Gooi Die Kanker Kick](https://www.last.fm/music/Natte+Visstick/_/Visstick+Gooi+Die+Kanker+Kick)
+* [Vintage Culture — Save Me &lpar;feat. MKLA&rpar;](https://www.last.fm/music/Vintage+Culture/_/Save+Me+&lpar;feat.+MKLA&rpar;)
+* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
