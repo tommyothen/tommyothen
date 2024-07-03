@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bludnymph — Lights Out](https://www.last.fm/music/bludnymph/_/Lights+Out)
-* [DeZi — Venus in Gemini](https://www.last.fm/music/DeZi/_/Venus+in+Gemini)
-* [Mothica — sensitive](https://www.last.fm/music/Mothica/_/sensitive)
-* [IVE — LOVE DIVE](https://www.last.fm/music/IVE/_/LOVE+DIVE)
-* [IVE — All Night &lpar;feat. Saweetie&rpar;](https://www.last.fm/music/IVE/_/All+Night+&lpar;feat.+Saweetie&rpar;)<!-- LASTFM:END -->
+* [XXXTENTACION — RIOT](https://www.last.fm/music/XXXTENTACION/_/RIOT)
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
+* [Kxllswxtch — COSMO](https://www.last.fm/music/Kxllswxtch/_/COSMO)
+* [HAARPER — GIVE ME BRAIN](https://www.last.fm/music/HAARPER/_/GIVE+ME+BRAIN)
+* [99zed — Two Twelve Subwoofer](https://www.last.fm/music/99zed/_/Two+Twelve+Subwoofer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
