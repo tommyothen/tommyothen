@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [Poppy — X](https://www.last.fm/music/Poppy/_/X)
 * [June — A Little Messed Up](https://www.last.fm/music/June/_/A+Little+Messed+Up)
 * [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
-* [Martin Garrix — Pressure &lpar;feat. Tove Lo&rpar;](https://www.last.fm/music/Martin+Garrix/_/Pressure+&lpar;feat.+Tove+Lo&rpar;)<!-- LASTFM:END -->
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
