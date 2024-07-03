@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rihanna — We Found Love](https://www.last.fm/music/Rihanna/_/We+Found+Love)
 * [Dizzee Rascal — Dance Wiv Me - Radio Edit](https://www.last.fm/music/Dizzee+Rascal/_/Dance+Wiv+Me+-+Radio+Edit)
 * [Ida Corr — Let Me Think About It - Radio Edit](https://www.last.fm/music/Ida+Corr/_/Let+Me+Think+About+It+-+Radio+Edit)
 * [XXXTENTACION — RIOT](https://www.last.fm/music/XXXTENTACION/_/RIOT)
-* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)
-* [Kxllswxtch — COSMO](https://www.last.fm/music/Kxllswxtch/_/COSMO)<!-- LASTFM:END -->
+* [Sugs — dedd barchetta](https://www.last.fm/music/Sugs/_/dedd+barchetta)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
