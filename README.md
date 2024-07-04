@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [Eden — and](https://www.last.fm/music/Eden/_/and)
+* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
 * [Rich Brian — Vacant](https://www.last.fm/music/Rich+Brian/_/Vacant)
-* [Eden — sex](https://www.last.fm/music/Eden/_/sex)
-* [bbno$ — shining](https://www.last.fm/music/bbno$/_/shining)
-* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)
-* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)<!-- LASTFM:END -->
+* [Eden — sex](https://www.last.fm/music/Eden/_/sex)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
