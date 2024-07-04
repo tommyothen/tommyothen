@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
-* [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)
-* [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)<!-- LASTFM:END -->
+* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
+* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
+* [Niki — Switchblade](https://www.last.fm/music/Niki/_/Switchblade)
+* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
+* [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
