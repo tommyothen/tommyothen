@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
 * [yosuf — Anadrol](https://www.last.fm/music/yosuf/_/Anadrol)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)
-* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)<!-- LASTFM:END -->
+* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
