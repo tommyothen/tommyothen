@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLKSMIITH — SR20DET](https://www.last.fm/music/BLKSMIITH/_/SR20DET)
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
+* [Kaivon — Reborn](https://www.last.fm/music/Kaivon/_/Reborn)
 * [bbno$ — doubles](https://www.last.fm/music/bbno$/_/doubles)
-* [FEDUK — Интро](https://www.last.fm/music/FEDUK/_/%D0%98%D0%BD%D1%82%D1%80%D0%BE)
-* [Rich Brian — Chaos](https://www.last.fm/music/Rich+Brian/_/Chaos)
-* [KID TRUNKS — ON THAT BITCH](https://www.last.fm/music/KID+TRUNKS/_/ON+THAT+BITCH)
-* [2 Mello — I Wanna Kno](https://www.last.fm/music/2+Mello/_/I+Wanna+Kno)<!-- LASTFM:END -->
+* [FEDUK — Интро](https://www.last.fm/music/FEDUK/_/%D0%98%D0%BD%D1%82%D1%80%D0%BE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
