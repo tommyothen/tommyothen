@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)
+* [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)
+* [D-Real [愛] — Coast Feels](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Coast+Feels)
 * [FEDUK — Утро раннее](https://www.last.fm/music/FEDUK/_/%D0%A3%D1%82%D1%80%D0%BE+%D1%80%D0%B0%D0%BD%D0%BD%D0%B5%D0%B5)
-* [Eden — all you need is love](https://www.last.fm/music/Eden/_/all+you+need+is+love)
-* [gianni &amp; kyle — tension](https://www.last.fm/music/gianni+&amp;+kyle/_/tension)
-* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
-* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)<!-- LASTFM:END -->
+* [Eden — all you need is love](https://www.last.fm/music/Eden/_/all+you+need+is+love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
