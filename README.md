@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NEVER GET USED TO PEOPLE — Life Letters](https://www.last.fm/music/NEVER+GET+USED+TO+PEOPLE/_/Life+Letters)
+* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
+* [Rory in early 20s — unforeseen dream scenarios that glorify the beauty of a vacuum cleaner](https://www.last.fm/music/Rory+in+early+20s/_/unforeseen+dream+scenarios+that+glorify+the+beauty+of+a+vacuum+cleaner)
 * [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
-* [Josh A — Crash Land &lpar;Intro&rpar;](https://www.last.fm/music/Josh+A/_/Crash+Land+&lpar;Intro&rpar;)
-* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
-* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
-* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)<!-- LASTFM:END -->
+* [Josh A — Crash Land &lpar;Intro&rpar;](https://www.last.fm/music/Josh+A/_/Crash+Land+&lpar;Intro&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
