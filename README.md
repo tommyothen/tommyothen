@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
+* [Josh A — Crash Land &lpar;Intro&rpar;](https://www.last.fm/music/Josh+A/_/Crash+Land+&lpar;Intro&rpar;)
+* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
 * [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
-* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)
-* [Swervy — ART GANG MONEY &lpar;Feat. Reddy&rpar;](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY+&lpar;Feat.+Reddy&rpar;)
-* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
-* [Porter Robinson — Years Of War](https://www.last.fm/music/Porter+Robinson/_/Years+Of+War)<!-- LASTFM:END -->
+* [DONGURIZU — NO WAY](https://www.last.fm/music/DONGURIZU/_/NO+WAY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
