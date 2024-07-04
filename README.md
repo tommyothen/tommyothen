@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
+* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
 * [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [Ooxygen — Final wish](https://www.last.fm/music/Ooxygen/_/Final+wish)
-* [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)
-* [Nosgov — goes nowhere](https://www.last.fm/music/Nosgov/_/goes+nowhere)<!-- LASTFM:END -->
+* [Ooxygen — Final wish](https://www.last.fm/music/Ooxygen/_/Final+wish)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
