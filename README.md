@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Xxtarlit⚸ — Fleeting Frozen Heart](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/Fleeting+Frozen+Heart)
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
 * [BLKSMIITH — SR20DET](https://www.last.fm/music/BLKSMIITH/_/SR20DET)
 * [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [Kaivon — Reborn](https://www.last.fm/music/Kaivon/_/Reborn)
-* [bbno$ — doubles](https://www.last.fm/music/bbno$/_/doubles)
-* [FEDUK — Интро](https://www.last.fm/music/FEDUK/_/%D0%98%D0%BD%D1%82%D1%80%D0%BE)<!-- LASTFM:END -->
+* [Kaivon — Reborn](https://www.last.fm/music/Kaivon/_/Reborn)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
