@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [tristtan — All Again](https://www.last.fm/music/tristtan/_/All+Again)
+* [Kitty — 2 Minutes](https://www.last.fm/music/Kitty/_/2+Minutes)
 * [Omega Sapien — POP THE TAG](https://www.last.fm/music/Omega+Sapien/_/POP+THE+TAG)
 * [Niki — Selene](https://www.last.fm/music/Niki/_/Selene)
-* [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)
-* [NEVER GET USED TO PEOPLE — Life Letters](https://www.last.fm/music/NEVER+GET+USED+TO+PEOPLE/_/Life+Letters)
-* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)<!-- LASTFM:END -->
+* [YUNG BAE — Up All Night](https://www.last.fm/music/YUNG+BAE/_/Up+All+Night)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
