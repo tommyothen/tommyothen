@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
 * [FEDUK — Слышал твои трэки](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%BB%D1%8B%D1%88%D0%B0%D0%BB+%D1%82%D0%B2%D0%BE%D0%B8+%D1%82%D1%80%D1%8D%D0%BA%D0%B8)
 * [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)
 * [FEDUK — Скрытая злость](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F+%D0%B7%D0%BB%D0%BE%D1%81%D1%82%D1%8C)
-* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)
-* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)<!-- LASTFM:END -->
+* [Fifty Fifty — Cupid - Twin Ver.](https://www.last.fm/music/Fifty+Fifty/_/Cupid+-+Twin+Ver.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
