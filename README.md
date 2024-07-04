@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kaiyko — Tension!](https://www.last.fm/music/Kaiyko/_/Tension!)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
 * [bbno$ — how i do](https://www.last.fm/music/bbno$/_/how+i+do)
-* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Laufey — From the Start](https://www.last.fm/music/Laufey/_/From+the+Start)<!-- LASTFM:END -->
+* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)
+* [Zeph — friends or not](https://www.last.fm/music/Zeph/_/friends+or+not)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
