@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nvdes — My Mind Is](https://www.last.fm/music/Nvdes/_/My+Mind+Is)
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
+* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
 * [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)
-* [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)
-* [D-Real [愛] — Coast Feels](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Coast+Feels)
-* [FEDUK — Утро раннее](https://www.last.fm/music/FEDUK/_/%D0%A3%D1%82%D1%80%D0%BE+%D1%80%D0%B0%D0%BD%D0%BD%D0%B5%D0%B5)
-* [Eden — all you need is love](https://www.last.fm/music/Eden/_/all+you+need+is+love)<!-- LASTFM:END -->
+* [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
