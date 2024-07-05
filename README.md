@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
+* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
 * [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
-* [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)<!-- LASTFM:END -->
+* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
