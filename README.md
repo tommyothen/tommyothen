@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
-* [Transfer - Music](https://myanimelist.net/anime/17068/Transfer) - Completed - 1 of 1 episodes
-* [Aa / ii - Movie](https://myanimelist.net/anime/38701/Aa___ii) - Completed - 1 of 1 episodes
-* [Hokori Inu no Hanashi - Movie](https://myanimelist.net/anime/32636/Hokori_Inu_no_Hanashi) - Completed - 1 of 1 episodes
-* [Shikanoko Nokonoko Koshitantan - TV](https://myanimelist.net/anime/58426/Shikanoko_Nokonoko_Koshitantan) - Watching - 1 of ? episodes
-* [Ore dake Level Up na Ken - TV](https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken) - Completed - 12 of 12 episodes<!-- ANIME-LIST:END -->
+* [24H - Music](https://myanimelist.net/anime/15527/24H) - Dropped - 0 of 9 episodes
+* [Show in Backrooms - CM](https://myanimelist.net/anime/55356/Show_in_Backrooms) - Completed - 1 of 1 episodes
+* [Goodme: Citron Tea - ONA](https://myanimelist.net/anime/54545/Goodme__Citron_Tea) - Completed - 1 of 1 episodes
+* [I Think You&#39;re a Little Confused - Movie](https://myanimelist.net/anime/44776/I_Think_Youre_a_Little_Confused) - Completed - 1 of 1 episodes
+* [Transfer - Music](https://myanimelist.net/anime/17068/Transfer) - Completed - 1 of 1 episodes<!-- ANIME-LIST:END -->
