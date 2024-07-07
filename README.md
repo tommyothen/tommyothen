@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Bleep Bloop](https://www.last.fm/music/Poppy/_/Bleep+Bloop)
+* [Mothica — sensitive](https://www.last.fm/music/Mothica/_/sensitive)
 * [Elita — Sour Switchblade](https://www.last.fm/music/Elita/_/Sour+Switchblade)
 * [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)
-* [Poppy — X](https://www.last.fm/music/Poppy/_/X)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)<!-- LASTFM:END -->
+* [Poppy — X](https://www.last.fm/music/Poppy/_/X)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
