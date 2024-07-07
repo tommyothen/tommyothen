@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
 * [Eden — Gravity](https://www.last.fm/music/Eden/_/Gravity)
 * [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [South Arcade — DANGER](https://www.last.fm/music/South+Arcade/_/DANGER)
-* [Cassyette — Petrichor](https://www.last.fm/music/Cassyette/_/Petrichor)<!-- LASTFM:END -->
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
