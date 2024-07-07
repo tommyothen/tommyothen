@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iwakura — Hatred](https://www.last.fm/music/iwakura/_/Hatred)
+* [BLKSMIITH — SR20DET](https://www.last.fm/music/BLKSMIITH/_/SR20DET)
+* [Machine Girl — Cyan Hardcore](https://www.last.fm/music/Machine+Girl/_/Cyan+Hardcore)
 * [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
-* [Xxtarlit⚸ — Fleeting Frozen Heart](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/Fleeting+Frozen+Heart)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
-* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)<!-- LASTFM:END -->
+* [Xxtarlit⚸ — Fleeting Frozen Heart](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/Fleeting+Frozen+Heart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
