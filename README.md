@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
 * [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
-* [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)
-* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
-* [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
+* [Poppy — Knockoff](https://www.last.fm/music/Poppy/_/Knockoff)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
