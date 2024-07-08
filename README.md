@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
 * [phendste — i&#39;d find you](https://www.last.fm/music/phendste/_/i%27d+find+you)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
-* [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)<!-- LASTFM:END -->
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
