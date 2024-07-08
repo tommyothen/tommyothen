@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)
-* [Kyoto Black — Looking Pretty](https://www.last.fm/music/Kyoto+Black/_/Looking+Pretty)
-* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
-* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
-* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)<!-- LASTFM:END -->
+* [optic core — Distant Shore](https://www.last.fm/music/optic+core/_/Distant+Shore)
+* [Kuriso — let yourself be devoured~...!!!](https://www.last.fm/music/Kuriso/_/let+yourself+be+devoured~...!!!)
+* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
+* [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)
+* [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
