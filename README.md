@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — You Make Me Feel](https://www.last.fm/music/Easha/_/You+Make+Me+Feel)
+* [dacelynn — 80&#39;s Makeout Session](https://www.last.fm/music/dacelynn/_/80%27s+Makeout+Session)
+* [Ellie Williams — Perfect Playlist](https://www.last.fm/music/Ellie+Williams/_/Perfect+Playlist)
 * [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
-* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
-* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)<!-- LASTFM:END -->
+* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
