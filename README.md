@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
+* [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
 * [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [dacelynn — tell me what you want](https://www.last.fm/music/dacelynn/_/tell+me+what+you+want)
-* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
-* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)<!-- LASTFM:END -->
+* [dacelynn — tell me what you want](https://www.last.fm/music/dacelynn/_/tell+me+what+you+want)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
