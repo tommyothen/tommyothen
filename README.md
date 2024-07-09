@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
 * [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
 * [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)
-* [Easha — You Make Me Feel](https://www.last.fm/music/Easha/_/You+Make+Me+Feel)
-* [dacelynn — 80&#39;s Makeout Session](https://www.last.fm/music/dacelynn/_/80%27s+Makeout+Session)<!-- LASTFM:END -->
+* [Easha — You Make Me Feel](https://www.last.fm/music/Easha/_/You+Make+Me+Feel)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
