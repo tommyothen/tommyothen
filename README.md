@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
 * [dacelynn — tell me what you want](https://www.last.fm/music/dacelynn/_/tell+me+what+you+want)
-* [KL1N9Y — Schizophrenic System Shutdown](https://www.last.fm/music/KL1N9Y/_/Schizophrenic+System+Shutdown)
-* [bye2 — The_Moon](https://www.last.fm/music/bye2/_/The_Moon)
-* [optic core — Distant Shore](https://www.last.fm/music/optic+core/_/Distant+Shore)
-* [Kuriso — let yourself be devoured~...!!!](https://www.last.fm/music/Kuriso/_/let+yourself+be+devoured~...!!!)<!-- LASTFM:END -->
+* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
+* [KL1N9Y — Schizophrenic System Shutdown](https://www.last.fm/music/KL1N9Y/_/Schizophrenic+System+Shutdown)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
