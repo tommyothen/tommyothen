@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
 * [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
-* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)<!-- LASTFM:END -->
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
