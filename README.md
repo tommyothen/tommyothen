@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Red Hot Chili Peppers — Dark Necessities](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Dark+Necessities)
 * [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
 * [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)<!-- LASTFM:END -->
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
