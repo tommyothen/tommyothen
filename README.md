@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YUNG BAE — Bad Boy](https://www.last.fm/music/YUNG+BAE/_/Bad+Boy)
+* [Magic Circuit — Slip](https://www.last.fm/music/Magic+Circuit/_/Slip)
+* [Billie Eilish — xanny](https://www.last.fm/music/Billie+Eilish/_/xanny)
 * [Remi Wolf — Photo ID](https://www.last.fm/music/Remi+Wolf/_/Photo+ID)
-* [CVLTE — Happy. &lpar;feat. 釈迦坊主&rpar;](https://www.last.fm/music/CVLTE/_/Happy.+&lpar;feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB&rpar;)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
-* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)<!-- LASTFM:END -->
+* [CVLTE — Happy. &lpar;feat. 釈迦坊主&rpar;](https://www.last.fm/music/CVLTE/_/Happy.+&lpar;feat.+%E9%87%88%E8%BF%A6%E5%9D%8A%E4%B8%BB&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
