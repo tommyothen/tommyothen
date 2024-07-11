@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
 * [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
 * [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)
 * [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
-* [FloFilz — Twosome](https://www.last.fm/music/FloFilz/_/Twosome)
-* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)<!-- LASTFM:END -->
+* [FloFilz — Twosome](https://www.last.fm/music/FloFilz/_/Twosome)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
