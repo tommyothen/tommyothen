@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Голубое небо - Skit](https://www.last.fm/music/FEDUK/_/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B5+%D0%BD%D0%B5%D0%B1%D0%BE+-+Skit)
+* [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)
+* [XXXTENTACION — fuck love](https://www.last.fm/music/XXXTENTACION/_/fuck+love)
 * [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)
-* [Moe Cafe — Twintail Love](https://www.last.fm/music/Moe+Cafe/_/Twintail+Love)
-* [Joji — Demons &lpar;Lapalux Remix&rpar;](https://www.last.fm/music/Joji/_/Demons+&lpar;Lapalux+Remix&rpar;)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [bbno$ — opus](https://www.last.fm/music/bbno$/_/opus)<!-- LASTFM:END -->
+* [Moe Cafe — Twintail Love](https://www.last.fm/music/Moe+Cafe/_/Twintail+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
