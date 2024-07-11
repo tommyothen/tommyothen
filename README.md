@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
+* [Her&#39;s — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)
+* [Diplo — Color Blind](https://www.last.fm/music/Diplo/_/Color+Blind)
 * [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
-* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)
-* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
-* [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)<!-- LASTFM:END -->
+* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
