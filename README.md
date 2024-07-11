@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
-* [bbno$ — moneytalk](https://www.last.fm/music/bbno$/_/moneytalk)
-* [Noax — Hostile](https://www.last.fm/music/Noax/_/Hostile)
-* [Kuwago — Let&#39;s start](https://www.last.fm/music/Kuwago/_/Let%27s+start)
-* [FEDUK — Угар стёб секси](https://www.last.fm/music/FEDUK/_/%D0%A3%D0%B3%D0%B0%D1%80+%D1%81%D1%82%D1%91%D0%B1+%D1%81%D0%B5%D0%BA%D1%81%D0%B8)<!-- LASTFM:END -->
+* [FREEL — Чорний Дим](https://www.last.fm/music/FREEL/_/%D0%A7%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+%D0%94%D0%B8%D0%BC)
+* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
+* [XXXTENTACION — love yourself &lpar;interlude&rpar;](https://www.last.fm/music/XXXTENTACION/_/love+yourself+&lpar;interlude&rpar;)
+* [Flume — Insane &lpar;feat. Moon Holiday&rpar;](https://www.last.fm/music/Flume/_/Insane+&lpar;feat.+Moon+Holiday&rpar;)
+* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
