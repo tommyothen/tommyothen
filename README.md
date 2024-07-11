@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [FREEL — Чорний Дим](https://www.last.fm/music/FREEL/_/%D0%A7%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+%D0%94%D0%B8%D0%BC)
-* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
-* [XXXTENTACION — love yourself &lpar;interlude&rpar;](https://www.last.fm/music/XXXTENTACION/_/love+yourself+&lpar;interlude&rpar;)
-* [Flume — Insane &lpar;feat. Moon Holiday&rpar;](https://www.last.fm/music/Flume/_/Insane+&lpar;feat.+Moon+Holiday&rpar;)
-* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)<!-- LASTFM:END -->
+* [ariis — S1KE](https://www.last.fm/music/ariis/_/S1KE)
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
+* [BROCKBEATS — magic smoke](https://www.last.fm/music/BROCKBEATS/_/magic+smoke)
+* [FWLR — How We Win](https://www.last.fm/music/FWLR/_/How+We+Win)
+* [FREEL — Чорний Дим](https://www.last.fm/music/FREEL/_/%D0%A7%D0%BE%D1%80%D0%BD%D0%B8%D0%B9+%D0%94%D0%B8%D0%BC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
