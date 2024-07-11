@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
+* [bbno$ — moneytalk](https://www.last.fm/music/bbno$/_/moneytalk)
+* [Noax — Hostile](https://www.last.fm/music/Noax/_/Hostile)
 * [Kuwago — Let&#39;s start](https://www.last.fm/music/Kuwago/_/Let%27s+start)
-* [FEDUK — Угар стёб секси](https://www.last.fm/music/FEDUK/_/%D0%A3%D0%B3%D0%B0%D1%80+%D1%81%D1%82%D1%91%D0%B1+%D1%81%D0%B5%D0%BA%D1%81%D0%B8)
-* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [LilyPichu — Dreamy Night](https://www.last.fm/music/LilyPichu/_/Dreamy+Night)
-* [Ambiguu — Blind](https://www.last.fm/music/Ambiguu/_/Blind)<!-- LASTFM:END -->
+* [FEDUK — Угар стёб секси](https://www.last.fm/music/FEDUK/_/%D0%A3%D0%B3%D0%B0%D1%80+%D1%81%D1%82%D1%91%D0%B1+%D1%81%D0%B5%D0%BA%D1%81%D0%B8)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
