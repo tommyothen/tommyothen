@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kuwago — Let&#39;s start](https://www.last.fm/music/Kuwago/_/Let%27s+start)
 * [FEDUK — Угар стёб секси](https://www.last.fm/music/FEDUK/_/%D0%A3%D0%B3%D0%B0%D1%80+%D1%81%D1%82%D1%91%D0%B1+%D1%81%D0%B5%D0%BA%D1%81%D0%B8)
 * [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
 * [LilyPichu — Dreamy Night](https://www.last.fm/music/LilyPichu/_/Dreamy+Night)
-* [Ambiguu — Blind](https://www.last.fm/music/Ambiguu/_/Blind)
-* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)<!-- LASTFM:END -->
+* [Ambiguu — Blind](https://www.last.fm/music/Ambiguu/_/Blind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
