@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mat Zo — Easy - Modek Bright As Day Remix](https://www.last.fm/music/Mat+Zo/_/Easy+-+Modek+Bright+As+Day+Remix)
 * [Bring Me the Horizon — Alligator Blood](https://www.last.fm/music/Bring+Me+the+Horizon/_/Alligator+Blood)
 * [Milkoi — ミサキ](https://www.last.fm/music/Milkoi/_/%E3%83%9F%E3%82%B5%E3%82%AD)
 * [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
-* [ariis — S1KE](https://www.last.fm/music/ariis/_/S1KE)
-* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)<!-- LASTFM:END -->
+* [ariis — S1KE](https://www.last.fm/music/ariis/_/S1KE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
