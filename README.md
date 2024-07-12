@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Mat Zo — Easy - Modek Bright As Day Remix](https://www.last.fm/music/Mat+Zo/_/Easy+-+Modek+Bright+As+Day+Remix)
-* [Bring Me the Horizon — Alligator Blood](https://www.last.fm/music/Bring+Me+the+Horizon/_/Alligator+Blood)
-* [Milkoi — ミサキ](https://www.last.fm/music/Milkoi/_/%E3%83%9F%E3%82%B5%E3%82%AD)
-* [Wednesday Campanella — Buckingham](https://www.last.fm/music/Wednesday+Campanella/_/Buckingham)
-* [ariis — S1KE](https://www.last.fm/music/ariis/_/S1KE)<!-- LASTFM:END -->
+* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
+* [DECO*27 — ラビットホール](https://www.last.fm/music/DECO*27/_/%E3%83%A9%E3%83%93%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB)
+* [Oliver Tree — Upside Down](https://www.last.fm/music/Oliver+Tree/_/Upside+Down)
+* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)
+* [Mat Zo — Easy - Modek Bright As Day Remix](https://www.last.fm/music/Mat+Zo/_/Easy+-+Modek+Bright+As+Day+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
