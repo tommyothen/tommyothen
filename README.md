@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyto Grey — Runaway](https://www.last.fm/music/Tyto+Grey/_/Runaway)
 * [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
 * [The Qemists — Run You](https://www.last.fm/music/The+Qemists/_/Run+You)
 * [Mungo&#39;s Hi Fi — Jump Up Quickly](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Jump+Up+Quickly)
-* [Jarv &amp; Thief — Lady Killer](https://www.last.fm/music/Jarv+&amp;+Thief/_/Lady+Killer)
-* [Eden — gold](https://www.last.fm/music/Eden/_/gold)<!-- LASTFM:END -->
+* [Jarv &amp; Thief — Lady Killer](https://www.last.fm/music/Jarv+&amp;+Thief/_/Lady+Killer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
