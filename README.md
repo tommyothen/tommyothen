@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
+* [Shiggy Jr. — oyasumi](https://www.last.fm/music/Shiggy+Jr./_/oyasumi)
+* [XXXTENTACION — H2O](https://www.last.fm/music/XXXTENTACION/_/H2O)
 * [Joji — Demons &lpar;Lapalux Remix&rpar;](https://www.last.fm/music/Joji/_/Demons+&lpar;Lapalux+Remix&rpar;)
-* [Eden — wonder](https://www.last.fm/music/Eden/_/wonder)
-* [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Shawn Wasabi — Squeez®](https://www.last.fm/music/Shawn+Wasabi/_/Squeez%C2%AE)
-* [Billie Eilish — listen before i go](https://www.last.fm/music/Billie+Eilish/_/listen+before+i+go)<!-- LASTFM:END -->
+* [Eden — wonder](https://www.last.fm/music/Eden/_/wonder)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
