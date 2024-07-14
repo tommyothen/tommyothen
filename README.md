@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tennyson — Body Language &lpar;feat. Aloe Blacc&rpar;](https://www.last.fm/music/Tennyson/_/Body+Language+&lpar;feat.+Aloe+Blacc&rpar;)
+* [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)
 * [Leanna Firestone — Smitten](https://www.last.fm/music/Leanna+Firestone/_/Smitten)
 * [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
-* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
-* [Ellie Williams — Perfect Playlist](https://www.last.fm/music/Ellie+Williams/_/Perfect+Playlist)
 * [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
