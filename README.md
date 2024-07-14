@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — doubles](https://www.last.fm/music/bbno$/_/doubles)
+* [Anyma — Welcome To The Opera &lpar;with Grimes&rpar;](https://www.last.fm/music/Anyma/_/Welcome+To+The+Opera+&lpar;with+Grimes&rpar;)
 * [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)
 * [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)
-* [Tyto Grey — Runaway](https://www.last.fm/music/Tyto+Grey/_/Runaway)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [The Qemists — Run You](https://www.last.fm/music/The+Qemists/_/Run+You)<!-- LASTFM:END -->
+* [Tyto Grey — Runaway](https://www.last.fm/music/Tyto+Grey/_/Runaway)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
