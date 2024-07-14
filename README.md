@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
 * [blackbear — chateau](https://www.last.fm/music/blackbear/_/chateau)
 * [bbno$ — doubles](https://www.last.fm/music/bbno$/_/doubles)
 * [Anyma — Welcome To The Opera &lpar;with Grimes&rpar;](https://www.last.fm/music/Anyma/_/Welcome+To+The+Opera+&lpar;with+Grimes&rpar;)
-* [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)
-* [88rising — Gold Coast](https://www.last.fm/music/88rising/_/Gold+Coast)<!-- LASTFM:END -->
+* [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
