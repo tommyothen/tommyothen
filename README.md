@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
 * [MUST DIE! — Bliss 2K](https://www.last.fm/music/MUST+DIE!/_/Bliss+2K)
 * [Drainpuppet — MY CHAKRAS ARE FAST AND HYPE](https://www.last.fm/music/Drainpuppet/_/MY+CHAKRAS+ARE+FAST+AND+HYPE)
 * [Dreamcatcher — Chase Me](https://www.last.fm/music/Dreamcatcher/_/Chase+Me)
-* [bbno$ — jurassic](https://www.last.fm/music/bbno$/_/jurassic)
-* [Quadeca — Uh Huh!](https://www.last.fm/music/Quadeca/_/Uh+Huh!)<!-- LASTFM:END -->
+* [bbno$ — jurassic](https://www.last.fm/music/bbno$/_/jurassic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
