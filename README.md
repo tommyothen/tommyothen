@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, the Creator — I THINK](https://www.last.fm/music/Tyler,+the+Creator/_/I+THINK)
+* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
 * [Shiggy Jr. — oyasumi](https://www.last.fm/music/Shiggy+Jr./_/oyasumi)
-* [XXXTENTACION — H2O](https://www.last.fm/music/XXXTENTACION/_/H2O)
-* [Joji — Demons &lpar;Lapalux Remix&rpar;](https://www.last.fm/music/Joji/_/Demons+&lpar;Lapalux+Remix&rpar;)
-* [Eden — wonder](https://www.last.fm/music/Eden/_/wonder)<!-- LASTFM:END -->
+* [XXXTENTACION — H2O](https://www.last.fm/music/XXXTENTACION/_/H2O)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
