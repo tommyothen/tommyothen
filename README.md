@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
+* [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
+* [bbno$ — nursery](https://www.last.fm/music/bbno$/_/nursery)
 * [Sleepy — Hai Domo](https://www.last.fm/music/Sleepy/_/Hai+Domo)
-* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
-* [Fliptrix — Graffiti Won&#39;t Die](https://www.last.fm/music/Fliptrix/_/Graffiti+Won%27t+Die)
-* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)
-* [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)<!-- LASTFM:END -->
+* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
