@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JID — Workin Out](https://www.last.fm/music/JID/_/Workin+Out)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
 * [Germ — Real Rap](https://www.last.fm/music/Germ/_/Real+Rap)
 * [whitewoods — Be Home Free](https://www.last.fm/music/whitewoods/_/Be+Home+Free)
-* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
-* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)<!-- LASTFM:END -->
+* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
