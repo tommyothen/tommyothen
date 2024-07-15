@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)
+* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
+* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture - 2020 Remastered Version](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture+-+2020+Remastered+Version)
 * [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
-* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)
-* [JID — Workin Out](https://www.last.fm/music/JID/_/Workin+Out)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Germ — Real Rap](https://www.last.fm/music/Germ/_/Real+Rap)<!-- LASTFM:END -->
+* [mxmtoon — creep](https://www.last.fm/music/mxmtoon/_/creep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
