@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Red Velvet - IRENE &amp; SEULGI — Naughty](https://www.last.fm/music/Red+Velvet+-+IRENE+&amp;+SEULGI/_/Naughty)
-* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
-* [Animals as Leaders — Physical Education](https://www.last.fm/music/Animals+as+Leaders/_/Physical+Education)
-* [Cynthoni — Grinding Of The Teeth](https://www.last.fm/music/Cynthoni/_/Grinding+Of+The+Teeth)
-* [Sewerslvt — Mr. Kill Myself](https://www.last.fm/music/Sewerslvt/_/Mr.+Kill+Myself)<!-- LASTFM:END -->
+* [Sleepy — Hai Domo](https://www.last.fm/music/Sleepy/_/Hai+Domo)
+* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
+* [Fliptrix — Graffiti Won&#39;t Die](https://www.last.fm/music/Fliptrix/_/Graffiti+Won%27t+Die)
+* [Wolfi — misleading](https://www.last.fm/music/Wolfi/_/misleading)
+* [Omoi — Teo](https://www.last.fm/music/Omoi/_/Teo)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
