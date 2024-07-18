@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
 * [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)
 * [Grimes — Symphonia IX &lpar;My Wait Is U&rpar;](https://www.last.fm/music/Grimes/_/Symphonia+IX+&lpar;My+Wait+Is+U&rpar;)
-* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
-* [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)<!-- LASTFM:END -->
+* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
