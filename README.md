@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)
 * [Grimes — Symphonia IX &lpar;My Wait Is U&rpar;](https://www.last.fm/music/Grimes/_/Symphonia+IX+&lpar;My+Wait+Is+U&rpar;)
 * [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
 * [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
-* [TWICE — SIGNAL - Japanese ver.](https://www.last.fm/music/TWICE/_/SIGNAL+-+Japanese+ver.)<!-- LASTFM:END -->
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
