@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Ecstasy](https://www.last.fm/music/GOLEMM/_/Ecstasy)
+* [GOLEMM — Exotic!](https://www.last.fm/music/GOLEMM/_/Exotic!)
+* [GOLEMM — Bionic Golem](https://www.last.fm/music/GOLEMM/_/Bionic+Golem)
 * [GOLEMM — Polliwogs](https://www.last.fm/music/GOLEMM/_/Polliwogs)
-* [GOLEMM — Ant Racing](https://www.last.fm/music/GOLEMM/_/Ant+Racing)
-* [GOLEMM — Villfarelse](https://www.last.fm/music/GOLEMM/_/Villfarelse)
-* [GOLEMM — Brain Slushie](https://www.last.fm/music/GOLEMM/_/Brain+Slushie)
-* [GOLEMM — croakers](https://www.last.fm/music/GOLEMM/_/croakers)<!-- LASTFM:END -->
+* [GOLEMM — Ant Racing](https://www.last.fm/music/GOLEMM/_/Ant+Racing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
