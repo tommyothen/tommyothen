@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
-* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [swimcoach — runaway](https://www.last.fm/music/swimcoach/_/runaway)<!-- LASTFM:END -->
+* [GOLEMM — Villfarelse](https://www.last.fm/music/GOLEMM/_/Villfarelse)
+* [GOLEMM — Brain Slushie](https://www.last.fm/music/GOLEMM/_/Brain+Slushie)
+* [GOLEMM — croakers](https://www.last.fm/music/GOLEMM/_/croakers)
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
