@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Illit — Lucky Girl Syndrome](https://www.last.fm/music/Illit/_/Lucky+Girl+Syndrome)
+* [NewJeans — Hurt](https://www.last.fm/music/NewJeans/_/Hurt)
 * [NewJeans — Cool With You](https://www.last.fm/music/NewJeans/_/Cool+With+You)
 * [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Kiss of Life — Sticky](https://www.last.fm/music/Kiss+of+Life/_/Sticky)
-* [Asteria — EYES ON ME](https://www.last.fm/music/Asteria/_/EYES+ON+ME)<!-- LASTFM:END -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
