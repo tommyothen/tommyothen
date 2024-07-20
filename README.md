@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [GOLEMM — Where Is Golemm?](https://www.last.fm/music/GOLEMM/_/Where+Is+Golemm%3F)
 * [GOLEMM — Untold](https://www.last.fm/music/GOLEMM/_/Untold)
-* [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)
-* [GOLEMM — Castle](https://www.last.fm/music/GOLEMM/_/Castle)
-* [GOLEMM — LUCKYLUCKY](https://www.last.fm/music/GOLEMM/_/LUCKYLUCKY)<!-- LASTFM:END -->
+* [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
