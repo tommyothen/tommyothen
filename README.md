@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
+* [Kiss of Life — Sticky](https://www.last.fm/music/Kiss+of+Life/_/Sticky)
+* [Asteria — EYES ON ME](https://www.last.fm/music/Asteria/_/EYES+ON+ME)
 * [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [GOLEMM — Where Is Golemm?](https://www.last.fm/music/GOLEMM/_/Where+Is+Golemm%3F)<!-- LASTFM:END -->
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
