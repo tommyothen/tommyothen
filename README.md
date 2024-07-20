@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
+* [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
+* [Antoha MC — Ритм сердца](https://www.last.fm/music/Antoha+MC/_/%D0%A0%D0%B8%D1%82%D0%BC+%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B0)
 * [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [Illit — Lucky Girl Syndrome](https://www.last.fm/music/Illit/_/Lucky+Girl+Syndrome)
-* [NewJeans — Hurt](https://www.last.fm/music/NewJeans/_/Hurt)
-* [NewJeans — Cool With You](https://www.last.fm/music/NewJeans/_/Cool+With+You)<!-- LASTFM:END -->
+* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
