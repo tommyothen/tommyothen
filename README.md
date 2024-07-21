@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iwakura — Cyberia](https://www.last.fm/music/iwakura/_/Cyberia)
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
 * [Anyma — Welcome To The Opera &lpar;with Grimes&rpar;](https://www.last.fm/music/Anyma/_/Welcome+To+The+Opera+&lpar;with+Grimes&rpar;)
 * [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [Oliver Tree — Introspective](https://www.last.fm/music/Oliver+Tree/_/Introspective)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)<!-- LASTFM:END -->
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
