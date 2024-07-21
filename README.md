@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Oliver Tree — Introspective](https://www.last.fm/music/Oliver+Tree/_/Introspective)
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
 * [First in Flight — It&#39;s Cool](https://www.last.fm/music/First+in+Flight/_/It%27s+Cool)
 * [Mia Vaile — Money - James Mercy Remix](https://www.last.fm/music/Mia+Vaile/_/Money+-+James+Mercy+Remix)
-* [Eden — gold](https://www.last.fm/music/Eden/_/gold)
-* [YUNG BAE — YEBISU - Yung Bae Edit](https://www.last.fm/music/YUNG+BAE/_/YEBISU+-+Yung+Bae+Edit)
-* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)<!-- LASTFM:END -->
+* [Eden — gold](https://www.last.fm/music/Eden/_/gold)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
