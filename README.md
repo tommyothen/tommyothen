@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ftlframe — Subterranean Loner](https://www.last.fm/music/Ftlframe/_/Subterranean+Loner)
-* [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
-* [purity filter — Remnant Syphon](https://www.last.fm/music/purity+filter/_/Remnant+Syphon)
-* [WIV — admired](https://www.last.fm/music/WIV/_/admired)
-* [BLKSMIITH — F R A G M E N T](https://www.last.fm/music/BLKSMIITH/_/F+R+A+G+M+E+N+T)<!-- LASTFM:END -->
+* [BLKSMIITH — GORE-TEX COVERS MY SOUL](https://www.last.fm/music/BLKSMIITH/_/GORE-TEX+COVERS+MY+SOUL)
+* [Cynthoni — An Introduction To Cynthoni](https://www.last.fm/music/Cynthoni/_/An+Introduction+To+Cynthoni)
+* [Cynthoni — Grinding Of The Teeth](https://www.last.fm/music/Cynthoni/_/Grinding+Of+The+Teeth)
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
+* [Ftlframe — Subterranean Loner](https://www.last.fm/music/Ftlframe/_/Subterranean+Loner)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
