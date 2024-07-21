@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sewerslvt — Kawaii Razor Blades](https://www.last.fm/music/Sewerslvt/_/Kawaii+Razor+Blades)
+* [Golden Boy — Spirit Gun](https://www.last.fm/music/Golden+Boy/_/Spirit+Gun)
 * [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)
 * [Xxtarlit⚸ — Fleeting Frozen Heart](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/Fleeting+Frozen+Heart)
-* [strxwberrymilk — My Head Hurts](https://www.last.fm/music/strxwberrymilk/_/My+Head+Hurts)
-* [iwakura — Hatred](https://www.last.fm/music/iwakura/_/Hatred)
-* [iwakura — Cyberia](https://www.last.fm/music/iwakura/_/Cyberia)<!-- LASTFM:END -->
+* [strxwberrymilk — My Head Hurts](https://www.last.fm/music/strxwberrymilk/_/My+Head+Hurts)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
