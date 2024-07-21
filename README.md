@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Lowlife](https://www.last.fm/music/Poppy/_/Lowlife)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
 * [Poppy — All The Things She Said](https://www.last.fm/music/Poppy/_/All+The+Things+She+Said)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
-* [Knocked Loose — Suffocate &lpar;feat. Poppy&rpar;](https://www.last.fm/music/Knocked+Loose/_/Suffocate+&lpar;feat.+Poppy&rpar;)<!-- LASTFM:END -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
