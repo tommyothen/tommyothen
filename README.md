@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YUNG BAE — YEBISU - Yung Bae Edit](https://www.last.fm/music/YUNG+BAE/_/YEBISU+-+Yung+Bae+Edit)
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)
-* [Periphery — The Scourge](https://www.last.fm/music/Periphery/_/The+Scourge)
-* [Periphery — The Event](https://www.last.fm/music/Periphery/_/The+Event)
-* [Periphery — Heavy Heart](https://www.last.fm/music/Periphery/_/Heavy+Heart)<!-- LASTFM:END -->
+* [Periphery — The Scourge](https://www.last.fm/music/Periphery/_/The+Scourge)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
