@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sewerslvt — Ecifircas](https://www.last.fm/music/Sewerslvt/_/Ecifircas)
 * [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
 * [Golden Boy — Spirit Gun](https://www.last.fm/music/Golden+Boy/_/Spirit+Gun)
 * [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [strxwberrymilk — My Head Hurts](https://www.last.fm/music/strxwberrymilk/_/My+Head+Hurts)<!-- LASTFM:END -->
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
