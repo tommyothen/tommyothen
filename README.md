@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Anyma — Welcome To The Opera &lpar;with Grimes&rpar;](https://www.last.fm/music/Anyma/_/Welcome+To+The+Opera+&lpar;with+Grimes&rpar;)
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [Oliver Tree — Introspective](https://www.last.fm/music/Oliver+Tree/_/Introspective)
-* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)
-* [First in Flight — It&#39;s Cool](https://www.last.fm/music/First+in+Flight/_/It%27s+Cool)
-* [Mia Vaile — Money - James Mercy Remix](https://www.last.fm/music/Mia+Vaile/_/Money+-+James+Mercy+Remix)<!-- LASTFM:END -->
+* [Polyphia — Champagne](https://www.last.fm/music/Polyphia/_/Champagne)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
