@@ -31,8 +31,8 @@ Now Playing\
 * [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
 * [Yung Gravy — Rotisserie](https://www.last.fm/music/Yung+Gravy/_/Rotisserie)
 * [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [Desired — Wake Up](https://www.last.fm/music/Desired/_/Wake+Up)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
+* [GOLEMM — Submerge](https://www.last.fm/music/GOLEMM/_/Submerge)
+* [Desired — Wake Up](https://www.last.fm/music/Desired/_/Wake+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
