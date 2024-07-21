@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [Deko — PINK](https://www.last.fm/music/Deko/_/PINK)
 * [Yung Gravy — Rotisserie](https://www.last.fm/music/Yung+Gravy/_/Rotisserie)
 * [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [GOLEMM — Submerge](https://www.last.fm/music/GOLEMM/_/Submerge)
-* [Desired — Wake Up](https://www.last.fm/music/Desired/_/Wake+Up)<!-- LASTFM:END -->
+* [GOLEMM — Submerge](https://www.last.fm/music/GOLEMM/_/Submerge)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
