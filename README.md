@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Nosgov — goes nowhere](https://www.last.fm/music/Nosgov/_/goes+nowhere)
-* [FlowerBoyDeMii — iris](https://www.last.fm/music/FlowerBoyDeMii/_/iris)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
-* [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)
-* [Sewerslvt — Kawaii Razor Blades](https://www.last.fm/music/Sewerslvt/_/Kawaii+Razor+Blades)<!-- LASTFM:END -->
+* [TOKYOPILL — Let&#39;s All Love Lain](https://www.last.fm/music/TOKYOPILL/_/Let%27s+All+Love+Lain)
+* [iwakura — Cyberia](https://www.last.fm/music/iwakura/_/Cyberia)
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
+* [Xxtarlit⚸ — untitled](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/untitled)
+* [Nosgov — goes nowhere](https://www.last.fm/music/Nosgov/_/goes+nowhere)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
