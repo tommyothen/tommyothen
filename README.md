@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
+* [purity filter — Wisteria Awakens](https://www.last.fm/music/purity+filter/_/Wisteria+Awakens)
 * [BLKSMIITH — GORE-TEX COVERS MY SOUL](https://www.last.fm/music/BLKSMIITH/_/GORE-TEX+COVERS+MY+SOUL)
 * [Cynthoni — An Introduction To Cynthoni](https://www.last.fm/music/Cynthoni/_/An+Introduction+To+Cynthoni)
-* [Cynthoni — Grinding Of The Teeth](https://www.last.fm/music/Cynthoni/_/Grinding+Of+The+Teeth)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
-* [Ftlframe — Subterranean Loner](https://www.last.fm/music/Ftlframe/_/Subterranean+Loner)<!-- LASTFM:END -->
+* [Cynthoni — Grinding Of The Teeth](https://www.last.fm/music/Cynthoni/_/Grinding+Of+The+Teeth)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
