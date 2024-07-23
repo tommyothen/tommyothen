@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
+* [Grimes — Genesis](https://www.last.fm/music/Grimes/_/Genesis)
 * [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [Periphery — Psychosphere](https://www.last.fm/music/Periphery/_/Psychosphere)
-* [Periphery — Four Lights](https://www.last.fm/music/Periphery/_/Four+Lights)
-* [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)
-* [Periphery — 22 Faces](https://www.last.fm/music/Periphery/_/22+Faces)<!-- LASTFM:END -->
+* [Periphery — Four Lights](https://www.last.fm/music/Periphery/_/Four+Lights)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
