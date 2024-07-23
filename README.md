@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [purity filter — Wisteria Awakens](https://www.last.fm/music/purity+filter/_/Wisteria+Awakens)
-* [BLKSMIITH — GORE-TEX COVERS MY SOUL](https://www.last.fm/music/BLKSMIITH/_/GORE-TEX+COVERS+MY+SOUL)
-* [Cynthoni — An Introduction To Cynthoni](https://www.last.fm/music/Cynthoni/_/An+Introduction+To+Cynthoni)
-* [Cynthoni — Grinding Of The Teeth](https://www.last.fm/music/Cynthoni/_/Grinding+Of+The+Teeth)<!-- LASTFM:END -->
+* [BLKSMIITH — GORE-TEX COVERS MY SOUL](https://www.last.fm/music/BLKSMIITH/_/GORE-TEX+COVERS+MY+SOUL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
