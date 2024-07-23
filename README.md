@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DECO*27 — ラビットホール](https://www.last.fm/music/DECO*27/_/%E3%83%A9%E3%83%93%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB)
+* [Vincente Void — Grief](https://www.last.fm/music/Vincente+Void/_/Grief)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [ZICO — Actually](https://www.last.fm/music/ZICO/_/Actually)
-* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)
-* [BewhY — Damm Gut &lpar;feat. Khundi Panda&rpar;](https://www.last.fm/music/BewhY/_/Damm+Gut+&lpar;feat.+Khundi+Panda&rpar;)
-* [HUH — Cliche](https://www.last.fm/music/HUH/_/Cliche)<!-- LASTFM:END -->
+* [HUH — Lit! Huh!](https://www.last.fm/music/HUH/_/Lit!+Huh!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
