@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [Periphery — Psychosphere](https://www.last.fm/music/Periphery/_/Psychosphere)
 * [Periphery — Four Lights](https://www.last.fm/music/Periphery/_/Four+Lights)
 * [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)
-* [Periphery — 22 Faces](https://www.last.fm/music/Periphery/_/22+Faces)
-* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)<!-- LASTFM:END -->
+* [Periphery — 22 Faces](https://www.last.fm/music/Periphery/_/22+Faces)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
