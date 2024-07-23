@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)
+* [Periphery — 22 Faces](https://www.last.fm/music/Periphery/_/22+Faces)
 * [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [Anyma — Welcome To The Opera &lpar;with Grimes&rpar;](https://www.last.fm/music/Anyma/_/Welcome+To+The+Opera+&lpar;with+Grimes&rpar;)
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)<!-- LASTFM:END -->
+* [Anyma — Welcome To The Opera &lpar;with Grimes&rpar;](https://www.last.fm/music/Anyma/_/Welcome+To+The+Opera+&lpar;with+Grimes&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
