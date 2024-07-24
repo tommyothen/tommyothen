@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
+* [Falconite — Digital Baptism](https://www.last.fm/music/Falconite/_/Digital+Baptism)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)
-* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [Poppy — Meat](https://www.last.fm/music/Poppy/_/Meat)
-* [DECO*27 — ラビットホール](https://www.last.fm/music/DECO*27/_/%E3%83%A9%E3%83%93%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB)<!-- LASTFM:END -->
+* [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
