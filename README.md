@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — Depression &amp; Obsession](https://www.last.fm/music/XXXTENTACION/_/Depression+&amp;+Obsession)
+* [Engelwood — crystal dolphin](https://www.last.fm/music/Engelwood/_/crystal+dolphin)
+* [Call Me Karizma — Black &amp; Blue](https://www.last.fm/music/Call+Me+Karizma/_/Black+&amp;+Blue)
 * [Colliding With Mars — HEIRLOOM](https://www.last.fm/music/Colliding+With+Mars/_/HEIRLOOM)
-* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)
-* [Getter — Forget It &lpar;feat. Oliver Tree&rpar;](https://www.last.fm/music/Getter/_/Forget+It+&lpar;feat.+Oliver+Tree&rpar;)
-* [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
-* [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)<!-- LASTFM:END -->
+* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
