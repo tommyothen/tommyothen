@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Colliding With Mars — HEIRLOOM](https://www.last.fm/music/Colliding+With+Mars/_/HEIRLOOM)
+* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)
 * [Getter — Forget It &lpar;feat. Oliver Tree&rpar;](https://www.last.fm/music/Getter/_/Forget+It+&lpar;feat.+Oliver+Tree&rpar;)
 * [Eden — drugs](https://www.last.fm/music/Eden/_/drugs)
-* [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)
-* [Kim Petras — Sweet Spot](https://www.last.fm/music/Kim+Petras/_/Sweet+Spot)
-* [Aries — RACECAR](https://www.last.fm/music/Aries/_/RACECAR)<!-- LASTFM:END -->
+* [A D M B — Master of the Sun](https://www.last.fm/music/A+D+M+B/_/Master+of+the+Sun)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
