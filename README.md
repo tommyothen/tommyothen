@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Neighbourhood — Daddy Issues](https://www.last.fm/music/The+Neighbourhood/_/Daddy+Issues)
+* [We Came as Romans — Cold Like War](https://www.last.fm/music/We+Came+as+Romans/_/Cold+Like+War)
 * [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
 * [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [MISSIO — Temple Priest &lpar;feat. Paul Wall &amp; Kota the Friend&rpar;](https://www.last.fm/music/MISSIO/_/Temple+Priest+&lpar;feat.+Paul+Wall+&amp;+Kota+the+Friend&rpar;)
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)<!-- LASTFM:END -->
+* [MISSIO — Temple Priest &lpar;feat. Paul Wall &amp; Kota the Friend&rpar;](https://www.last.fm/music/MISSIO/_/Temple+Priest+&lpar;feat.+Paul+Wall+&amp;+Kota+the+Friend&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
