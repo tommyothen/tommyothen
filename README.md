@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MISSIO — Temple Priest &lpar;feat. Paul Wall &amp; Kota the Friend&rpar;](https://www.last.fm/music/MISSIO/_/Temple+Priest+&lpar;feat.+Paul+Wall+&amp;+Kota+the+Friend&rpar;)
 * [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [Falconite — Digital Baptism](https://www.last.fm/music/Falconite/_/Digital+Baptism)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)<!-- LASTFM:END -->
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
