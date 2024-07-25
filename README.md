@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [bbno$ — stucco](https://www.last.fm/music/bbno$/_/stucco)
 * [Guardin — creature - Sawce Remix](https://www.last.fm/music/Guardin/_/creature+-+Sawce+Remix)
 * [XXXTENTACION — Depression &amp; Obsession](https://www.last.fm/music/XXXTENTACION/_/Depression+&amp;+Obsession)
-* [Engelwood — crystal dolphin](https://www.last.fm/music/Engelwood/_/crystal+dolphin)
-* [Call Me Karizma — Black &amp; Blue](https://www.last.fm/music/Call+Me+Karizma/_/Black+&amp;+Blue)<!-- LASTFM:END -->
+* [Engelwood — crystal dolphin](https://www.last.fm/music/Engelwood/_/crystal+dolphin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
