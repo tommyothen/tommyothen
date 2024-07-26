@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [dark cat — Hot Chocolate](https://www.last.fm/music/dark+cat/_/Hot+Chocolate)
 * [Pink Guy — Fried Noodles &lpar;Getter Remix&rpar;](https://www.last.fm/music/Pink+Guy/_/Fried+Noodles+&lpar;Getter+Remix&rpar;)
 * [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
 * [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)
-* [Y2K — Lalala](https://www.last.fm/music/Y2K/_/Lalala)
-* [Piri — Decapitation](https://www.last.fm/music/Piri/_/Decapitation)<!-- LASTFM:END -->
+* [Y2K — Lalala](https://www.last.fm/music/Y2K/_/Lalala)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
