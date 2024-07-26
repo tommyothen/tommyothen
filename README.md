@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
+* [Bohdi — 2025](https://www.last.fm/music/Bohdi/_/2025)
 * [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
 * [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)
-* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
-* [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)<!-- LASTFM:END -->
+* [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
