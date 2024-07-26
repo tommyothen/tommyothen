@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — Gasoline &lpar;feat. Young King Dave&rpar;](https://www.last.fm/music/Yung+Gravy/_/Gasoline+&lpar;feat.+Young+King+Dave&rpar;)
+* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
 * [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)
 * [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
-* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)
-* [Royal &amp; the Serpent — i can&#39;t get high](https://www.last.fm/music/Royal+&amp;+the+Serpent/_/i+can%27t+get+high)<!-- LASTFM:END -->
+* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
