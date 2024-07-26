@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
+* [mxmtoon — quiet motions](https://www.last.fm/music/mxmtoon/_/quiet+motions)
 * [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
 * [mxmtoon — myrtle ave.](https://www.last.fm/music/mxmtoon/_/myrtle+ave.)
-* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)
-* [Tove Lo — Really don’t like u](https://www.last.fm/music/Tove+Lo/_/Really+don%E2%80%99t+like+u)
-* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)<!-- LASTFM:END -->
+* [mxmtoon — fever dream](https://www.last.fm/music/mxmtoon/_/fever+dream)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
