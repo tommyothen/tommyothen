@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Moray Pringle — Scotty Scotty](https://www.last.fm/music/Moray+Pringle/_/Scotty+Scotty)
+* [Azealia Banks — Luxury](https://www.last.fm/music/Azealia+Banks/_/Luxury)
+* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)
 * [dark cat — Hot Chocolate](https://www.last.fm/music/dark+cat/_/Hot+Chocolate)
-* [Pink Guy — Fried Noodles &lpar;Getter Remix&rpar;](https://www.last.fm/music/Pink+Guy/_/Fried+Noodles+&lpar;Getter+Remix&rpar;)
-* [blackbear — i miss the old u](https://www.last.fm/music/blackbear/_/i+miss+the+old+u)
-* [Mega Ran — Dionysius Cypher](https://www.last.fm/music/Mega+Ran/_/Dionysius+Cypher)
-* [Y2K — Lalala](https://www.last.fm/music/Y2K/_/Lalala)<!-- LASTFM:END -->
+* [Pink Guy — Fried Noodles &lpar;Getter Remix&rpar;](https://www.last.fm/music/Pink+Guy/_/Fried+Noodles+&lpar;Getter+Remix&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
