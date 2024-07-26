@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
+* [Eden — take care](https://www.last.fm/music/Eden/_/take+care)
+* [Royal &amp; the Serpent — i can&#39;t get high](https://www.last.fm/music/Royal+&amp;+the+Serpent/_/i+can%27t+get+high)
 * [grandson — Best Friends](https://www.last.fm/music/grandson/_/Best+Friends)
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
-* [BoxPlot — Tramontane](https://www.last.fm/music/BoxPlot/_/Tramontane)
-* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)<!-- LASTFM:END -->
+* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
