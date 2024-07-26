@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tiny Meat Gang — Super Xan](https://www.last.fm/music/Tiny+Meat+Gang/_/Super+Xan)
+* [FEDUK — Мой район &lpar;feat. Dooit&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9C%D0%BE%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD+&lpar;feat.+Dooit&rpar;)
+* [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)
 * [Joji — XNXX](https://www.last.fm/music/Joji/_/XNXX)
-* [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)
-* [Galantis — Only A Fool &lpar;with Pink Sweat$titlerpar;](https://www.last.fm/music/Galantis/_/Only+A+Fool+&lpar;with+Pink+Sweat$linkrpar;)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)<!-- LASTFM:END -->
+* [Grimes — You&#39;ll miss me when I&#39;m not around](https://www.last.fm/music/Grimes/_/You%27ll+miss+me+when+I%27m+not+around)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
