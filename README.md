@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grabbitz — My Cloud](https://www.last.fm/music/Grabbitz/_/My+Cloud)
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
 * [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
 * [Billie Eilish — goodbye](https://www.last.fm/music/Billie+Eilish/_/goodbye)
-* [Tiny Meat Gang — Super Xan](https://www.last.fm/music/Tiny+Meat+Gang/_/Super+Xan)
-* [FEDUK — Мой район &lpar;feat. Dooit&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9C%D0%BE%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD+&lpar;feat.+Dooit&rpar;)
-* [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)<!-- LASTFM:END -->
+* [Tiny Meat Gang — Super Xan](https://www.last.fm/music/Tiny+Meat+Gang/_/Super+Xan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
