@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [swimcoach — runaway](https://www.last.fm/music/swimcoach/_/runaway)
+* [nohidea — sincerely, yours](https://www.last.fm/music/nohidea/_/sincerely,+yours)
+* [Post Malone — I Fall Apart](https://www.last.fm/music/Post+Malone/_/I+Fall+Apart)
 * [SCARLXRD — DEMXNS &amp; ANGELS](https://www.last.fm/music/SCARLXRD/_/DEMXNS+&amp;+ANGELS)
-* [Yunomi — ジェリーフィッシュ &lpar;feat. ローラーガール&rpar;](https://www.last.fm/music/Yunomi/_/%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5+&lpar;feat.+%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB&rpar;)
-* [Yung Gravy — Gasoline &lpar;feat. Young King Dave&rpar;](https://www.last.fm/music/Yung+Gravy/_/Gasoline+&lpar;feat.+Young+King+Dave&rpar;)
-* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)
-* [goreshit — Ligwiybd](https://www.last.fm/music/goreshit/_/Ligwiybd)<!-- LASTFM:END -->
+* [Yunomi — ジェリーフィッシュ &lpar;feat. ローラーガール&rpar;](https://www.last.fm/music/Yunomi/_/%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5+&lpar;feat.+%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
