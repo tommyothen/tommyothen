@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [BROCKHAMPTON — ZIPPER](https://www.last.fm/music/BROCKHAMPTON/_/ZIPPER)
 * [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture - 2020 Remastered Version](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture+-+2020+Remastered+Version)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
-* [Vincent Augustus — I Think I&#39;m Tired](https://www.last.fm/music/Vincent+Augustus/_/I+Think+I%27m+Tired)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)<!-- LASTFM:END -->
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
