@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
 * [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
 * [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)
 * [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)
-* [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)
-* [Shawn Wasabi — MARBLE TEA](https://www.last.fm/music/Shawn+Wasabi/_/MARBLE+TEA)<!-- LASTFM:END -->
+* [bbno$ — bunk](https://www.last.fm/music/bbno$/_/bunk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
