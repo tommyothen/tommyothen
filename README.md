@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
 * [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [BROCKHAMPTON — ZIPPER](https://www.last.fm/music/BROCKHAMPTON/_/ZIPPER)
-* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture - 2020 Remastered Version](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture+-+2020+Remastered+Version)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)<!-- LASTFM:END -->
+* [Will Wood and the Tapeworms — Chemical Overreaction / Compound Fracture - 2020 Remastered Version](https://www.last.fm/music/Will+Wood+and+the+Tapeworms/_/Chemical+Overreaction+%2F+Compound+Fracture+-+2020+Remastered+Version)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
