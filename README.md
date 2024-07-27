@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
 * [Kill Bill: The Rapper — sleeptalking](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/sleeptalking)
 * [Moow — Reconcilation](https://www.last.fm/music/Moow/_/Reconcilation)
 * [BoxPlot — Tramontane](https://www.last.fm/music/BoxPlot/_/Tramontane)
-* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
-* [XXXTENTACION — going down!](https://www.last.fm/music/XXXTENTACION/_/going+down!)<!-- LASTFM:END -->
+* [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
