@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
 * [nvthvn — Dance in the Living Room](https://www.last.fm/music/nvthvn/_/Dance+in+the+Living+Room)
-* [Kill Bill: The Rapper — sleeptalking](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/sleeptalking)
-* [Moow — Reconcilation](https://www.last.fm/music/Moow/_/Reconcilation)<!-- LASTFM:END -->
+* [Kill Bill: The Rapper — sleeptalking](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/sleeptalking)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
