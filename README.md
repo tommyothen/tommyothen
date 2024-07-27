@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Moe Shop — Baby Pink](https://www.last.fm/music/Moe+Shop/_/Baby+Pink)
-* [brakence — dropout &lpar;w/ blackbear&rpar;](https://www.last.fm/music/brakence/_/dropout+&lpar;w%2F+blackbear&rpar;)
-* [Softwilly — Tylenol](https://www.last.fm/music/Softwilly/_/Tylenol)
-* [Nervexx — NEXT FRIDAY WILL BE DIFFERENT](https://www.last.fm/music/Nervexx/_/NEXT+FRIDAY+WILL+BE+DIFFERENT)
-* [FEDUK — Канифоль &lpar;feat. Nokanifol&rpar;](https://www.last.fm/music/FEDUK/_/%D0%9A%D0%B0%D0%BD%D0%B8%D1%84%D0%BE%D0%BB%D1%8C+&lpar;feat.+Nokanifol&rpar;)<!-- LASTFM:END -->
+* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
+* [Billie Eilish — bellyache](https://www.last.fm/music/Billie+Eilish/_/bellyache)
+* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)
+* [Prismo — Senses](https://www.last.fm/music/Prismo/_/Senses)
+* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
