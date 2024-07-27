@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
+* [Pouya — life? ... lol](https://www.last.fm/music/Pouya/_/life%3F+...+lol)
 * [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
 * [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)
-* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
-* [FOXWEDDING — the killing of a giant](https://www.last.fm/music/FOXWEDDING/_/the+killing+of+a+giant)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
+* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
