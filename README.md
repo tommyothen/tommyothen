@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
-* [Billie Eilish — bellyache](https://www.last.fm/music/Billie+Eilish/_/bellyache)
-* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)
-* [Prismo — Senses](https://www.last.fm/music/Prismo/_/Senses)
-* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)<!-- LASTFM:END -->
+* [BROCKHAMPTON — ZIPPER](https://www.last.fm/music/BROCKHAMPTON/_/ZIPPER)
+* [Tash Sultana — Jungle](https://www.last.fm/music/Tash+Sultana/_/Jungle)
+* [Keith Ape — Achoo](https://www.last.fm/music/Keith+Ape/_/Achoo)
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
+* [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
