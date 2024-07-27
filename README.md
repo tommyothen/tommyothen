@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kill Bill: The Rapper — sleeptalking](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/sleeptalking)
+* [Moow — Reconcilation](https://www.last.fm/music/Moow/_/Reconcilation)
+* [BoxPlot — Tramontane](https://www.last.fm/music/BoxPlot/_/Tramontane)
 * [punchnello — Absinthe &lpar;Prod. by 0channel, 2xxx!&rpar;](https://www.last.fm/music/punchnello/_/Absinthe+&lpar;Prod.+by+0channel,+2xxx!&rpar;)
-* [XXXTENTACION — going down!](https://www.last.fm/music/XXXTENTACION/_/going+down!)
-* [FEDUK — Были ли мы](https://www.last.fm/music/FEDUK/_/%D0%91%D1%8B%D0%BB%D0%B8+%D0%BB%D0%B8+%D0%BC%D1%8B)
-* [demxntia — it&#39;s alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
-* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)<!-- LASTFM:END -->
+* [XXXTENTACION — going down!](https://www.last.fm/music/XXXTENTACION/_/going+down!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
