@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sewerslvt — all the joy in life was gone once you left](https://www.last.fm/music/Sewerslvt/_/all+the+joy+in+life+was+gone+once+you+left)
+* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
 * [JID — Workin Out](https://www.last.fm/music/JID/_/Workin+Out)
 * [Savage Ga$p — flaming hot cheetos](https://www.last.fm/music/Savage+Ga$p/_/flaming+hot+cheetos)
-* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
-* [slushii — WALLS](https://www.last.fm/music/slushii/_/WALLS)
-* [Haywyre — Never Count On Me](https://www.last.fm/music/Haywyre/_/Never+Count+On+Me)<!-- LASTFM:END -->
+* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
