@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
-* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
-* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
-* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
-* [Yung Gravy — Kathleen](https://www.last.fm/music/Yung+Gravy/_/Kathleen)<!-- LASTFM:END -->
+* [Aries — SNAKE EYES](https://www.last.fm/music/Aries/_/SNAKE+EYES)
+* [lil ricefield — Trapanese](https://www.last.fm/music/lil+ricefield/_/Trapanese)
+* [SIMULAT3DHUMAN — AKATSUKI CLOUDS](https://www.last.fm/music/SIMULAT3DHUMAN/_/AKATSUKI+CLOUDS)
+* [The Northern Boys — Party Time](https://www.last.fm/music/The+Northern+Boys/_/Party+Time)
+* [Surfaces — Sunday Best](https://www.last.fm/music/Surfaces/_/Sunday+Best)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
