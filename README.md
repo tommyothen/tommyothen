@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — going down!](https://www.last.fm/music/XXXTENTACION/_/going+down!)
+* [FEDUK — Были ли мы](https://www.last.fm/music/FEDUK/_/%D0%91%D1%8B%D0%BB%D0%B8+%D0%BB%D0%B8+%D0%BC%D1%8B)
+* [demxntia — it&#39;s alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
 * [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
-* [Pouya — life? ... lol](https://www.last.fm/music/Pouya/_/life%3F+...+lol)
-* [NewJeans — Super Shy](https://www.last.fm/music/NewJeans/_/Super+Shy)
-* [REI AMI — DICTATOR](https://www.last.fm/music/REI+AMI/_/DICTATOR)
-* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)<!-- LASTFM:END -->
+* [Pouya — life? ... lol](https://www.last.fm/music/Pouya/_/life%3F+...+lol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
