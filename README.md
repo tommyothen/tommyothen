@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Grabbitz — My Cloud](https://www.last.fm/music/Grabbitz/_/My+Cloud)
-* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [Niki — I Like U](https://www.last.fm/music/Niki/_/I+Like+U)
-* [Billie Eilish — goodbye](https://www.last.fm/music/Billie+Eilish/_/goodbye)
-* [Tiny Meat Gang — Super Xan](https://www.last.fm/music/Tiny+Meat+Gang/_/Super+Xan)<!-- LASTFM:END -->
+* [khai dreams — Lost in You](https://www.last.fm/music/khai+dreams/_/Lost+in+You)
+* [Katie — ECHO](https://www.last.fm/music/Katie/_/ECHO)
+* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
+* [Slipknot — Before I Forget](https://www.last.fm/music/Slipknot/_/Before+I+Forget)
+* [Yung Gravy — Kathleen](https://www.last.fm/music/Yung+Gravy/_/Kathleen)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
