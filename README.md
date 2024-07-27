@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
+* [Clarx — Voodoo People](https://www.last.fm/music/Clarx/_/Voodoo+People)
 * [TomppaBeats — like someone in love](https://www.last.fm/music/TomppaBeats/_/like+someone+in+love)
 * [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
-* [Mercy X — Caught Fire](https://www.last.fm/music/Mercy+X/_/Caught+Fire)
-* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Sad Alex — new heartbreak](https://www.last.fm/music/Sad+Alex/_/new+heartbreak)<!-- LASTFM:END -->
+* [Mercy X — Caught Fire](https://www.last.fm/music/Mercy+X/_/Caught+Fire)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
