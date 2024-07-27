@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — lets go](https://www.last.fm/music/bbno$/_/lets+go)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
-* [bbno$ — bulletproof](https://www.last.fm/music/bbno$/_/bulletproof)
-* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
-* [eli filosov [ p h i l o ] — oneofone_rwrk](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/oneofone_rwrk)<!-- LASTFM:END -->
+* [FEDUK — АКВАРЕЛЬ](https://www.last.fm/music/FEDUK/_/%D0%90%D0%9A%D0%92%D0%90%D0%A0%D0%95%D0%9B%D0%AC)
+* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
+* [Flughand — Feblu](https://www.last.fm/music/Flughand/_/Feblu)
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
+* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
