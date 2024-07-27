@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BROCKHAMPTON — ZIPPER](https://www.last.fm/music/BROCKHAMPTON/_/ZIPPER)
-* [Tash Sultana — Jungle](https://www.last.fm/music/Tash+Sultana/_/Jungle)
-* [Keith Ape — Achoo](https://www.last.fm/music/Keith+Ape/_/Achoo)
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)<!-- LASTFM:END -->
+* [bbno$ — lets go](https://www.last.fm/music/bbno$/_/lets+go)
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
+* [bbno$ — bulletproof](https://www.last.fm/music/bbno$/_/bulletproof)
+* [TWICE — LIKEY](https://www.last.fm/music/TWICE/_/LIKEY)
+* [eli filosov [ p h i l o ] — oneofone_rwrk](https://www.last.fm/music/eli+filosov+%5B+p+h+i+l+o+%5D/_/oneofone_rwrk)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
