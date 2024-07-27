@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)
+* [AMpm — more](https://www.last.fm/music/AMpm/_/more)
 * [Riot — Disorder](https://www.last.fm/music/Riot/_/Disorder)
 * [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
-* [FEDUK — АКВАРЕЛЬ](https://www.last.fm/music/FEDUK/_/%D0%90%D0%9A%D0%92%D0%90%D0%A0%D0%95%D0%9B%D0%AC)
-* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
-* [Flughand — Feblu](https://www.last.fm/music/Flughand/_/Feblu)<!-- LASTFM:END -->
+* [FEDUK — АКВАРЕЛЬ](https://www.last.fm/music/FEDUK/_/%D0%90%D0%9A%D0%92%D0%90%D0%A0%D0%95%D0%9B%D0%AC)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
