@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [JID — Workin Out](https://www.last.fm/music/JID/_/Workin+Out)
+* [Savage Ga$p — flaming hot cheetos](https://www.last.fm/music/Savage+Ga$p/_/flaming+hot+cheetos)
+* [bbno$ — sriracha](https://www.last.fm/music/bbno$/_/sriracha)
 * [slushii — WALLS](https://www.last.fm/music/slushii/_/WALLS)
-* [Haywyre — Never Count On Me](https://www.last.fm/music/Haywyre/_/Never+Count+On+Me)
-* [BENEE — Glitter](https://www.last.fm/music/BENEE/_/Glitter)
-* [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)
-* [AMpm — more](https://www.last.fm/music/AMpm/_/more)<!-- LASTFM:END -->
+* [Haywyre — Never Count On Me](https://www.last.fm/music/Haywyre/_/Never+Count+On+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
