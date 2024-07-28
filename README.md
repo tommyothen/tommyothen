@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
 * [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
 * [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
 * [Eden — C&#39;est du passé](https://www.last.fm/music/Eden/_/C%27est+du+pass%C3%A9)
-* [Euføeni — 24/7](https://www.last.fm/music/Euf%C3%B8eni/_/24%2F7)
-* [Diplo — Color Blind](https://www.last.fm/music/Diplo/_/Color+Blind)<!-- LASTFM:END -->
+* [Euføeni — 24/7](https://www.last.fm/music/Euf%C3%B8eni/_/24%2F7)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
