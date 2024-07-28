@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
 * [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
 * [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
 * [Rich Brian — The Sailor](https://www.last.fm/music/Rich+Brian/_/The+Sailor)
-* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)
-* [yosuf — You&#39;re On My Mind Broe](https://www.last.fm/music/yosuf/_/You%27re+On+My+Mind+Broe)<!-- LASTFM:END -->
+* [PiNKii — Pretty Girl Comet](https://www.last.fm/music/PiNKii/_/Pretty+Girl+Comet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
