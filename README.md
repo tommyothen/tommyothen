@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
+* [AL-X the Great — Rocketman &lpar;feat. Atlas &amp; Lando!&rpar;](https://www.last.fm/music/AL-X+the+Great/_/Rocketman+&lpar;feat.+Atlas+&amp;+Lando!&rpar;)
 * [AcesToAces — coffee](https://www.last.fm/music/AcesToAces/_/coffee)
-* [grandson — Blood // Water](https://www.last.fm/music/grandson/_/Blood+%2F%2F+Water)
-* [FEDUK — Московский фанк](https://www.last.fm/music/FEDUK/_/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D1%84%D0%B0%D0%BD%D0%BA)
-* [Oliver Tree — All I Got](https://www.last.fm/music/Oliver+Tree/_/All+I+Got)
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)<!-- LASTFM:END -->
+* [grandson — Blood // Water](https://www.last.fm/music/grandson/_/Blood+%2F%2F+Water)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
