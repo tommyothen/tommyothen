@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jaden — K](https://www.last.fm/music/Jaden/_/K)
 * [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)
 * [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
 * [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)<!-- LASTFM:END -->
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
