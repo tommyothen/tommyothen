@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shahmen — infinite bliss](https://www.last.fm/music/Shahmen/_/infinite+bliss)
+* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
 * [Euføeni — 24/7](https://www.last.fm/music/Euf%C3%B8eni/_/24%2F7)
 * [Easha — Dying Is a Beautiful Thing to Do](https://www.last.fm/music/Easha/_/Dying+Is+a+Beautiful+Thing+to+Do)
-* [Mungo&#39;s Hi Fi — Babylon Raid](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Babylon+Raid)
-* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
-* [Night Tempo — ShortCake](https://www.last.fm/music/Night+Tempo/_/ShortCake)<!-- LASTFM:END -->
+* [Mungo&#39;s Hi Fi — Babylon Raid](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Babylon+Raid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
