@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
 * [Destiny Rogers — Euphoria](https://www.last.fm/music/Destiny+Rogers/_/Euphoria)
 * [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
-* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [Rich Brian — The Sailor](https://www.last.fm/music/Rich+Brian/_/The+Sailor)<!-- LASTFM:END -->
+* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
