@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tennyson — Body Language &lpar;feat. Aloe Blacc&rpar;](https://www.last.fm/music/Tennyson/_/Body+Language+&lpar;feat.+Aloe+Blacc&rpar;)
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [Bliss n Eso — Tear The Roof Off](https://www.last.fm/music/Bliss+n+Eso/_/Tear+The+Roof+Off)
 * [Tsuko G. — Gas Gas Gas &lpar;Initial D&rpar;](https://www.last.fm/music/Tsuko+G./_/Gas+Gas+Gas+&lpar;Initial+D&rpar;)
-* [khai dreams — Nice Colors](https://www.last.fm/music/khai+dreams/_/Nice+Colors)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [EL SPEAKER — Medicine &lpar;feat. Antonella&rpar;](https://www.last.fm/music/EL+SPEAKER/_/Medicine+&lpar;feat.+Antonella&rpar;)<!-- LASTFM:END -->
+* [khai dreams — Nice Colors](https://www.last.fm/music/khai+dreams/_/Nice+Colors)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
