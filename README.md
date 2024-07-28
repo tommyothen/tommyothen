@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Nice Colors](https://www.last.fm/music/khai+dreams/_/Nice+Colors)
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
 * [EL SPEAKER — Medicine &lpar;feat. Antonella&rpar;](https://www.last.fm/music/EL+SPEAKER/_/Medicine+&lpar;feat.+Antonella&rpar;)
 * [Blankz — Nakama](https://www.last.fm/music/Blankz/_/Nakama)
-* [Arizona Zervas — ROXANNE](https://www.last.fm/music/Arizona+Zervas/_/ROXANNE)
-* [egs✰ — Six Days](https://www.last.fm/music/egs%E2%9C%B0/_/Six+Days)
-* [SCARLXRD — BERZERK](https://www.last.fm/music/SCARLXRD/_/BERZERK)<!-- LASTFM:END -->
+* [Arizona Zervas — ROXANNE](https://www.last.fm/music/Arizona+Zervas/_/ROXANNE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
