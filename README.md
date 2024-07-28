@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [nohidea — Garden / Lost](https://www.last.fm/music/nohidea/_/Garden+%2F+Lost)
-* [FEDUK — Рацион &lpar;feat. SLA&rpar;](https://www.last.fm/music/FEDUK/_/%D0%A0%D0%B0%D1%86%D0%B8%D0%BE%D0%BD+&lpar;feat.+SLA&rpar;)
-* [Grant — Weapon](https://www.last.fm/music/Grant/_/Weapon)
-* [Puppet — The Fire](https://www.last.fm/music/Puppet/_/The+Fire)
-* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)<!-- LASTFM:END -->
+* [Kitsune — The Art of Heartbreak](https://www.last.fm/music/Kitsune/_/The+Art+of+Heartbreak)
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
+* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
+* [Atlas — facade](https://www.last.fm/music/Atlas/_/facade)
+* [nohidea — Garden / Lost](https://www.last.fm/music/nohidea/_/Garden+%2F+Lost)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
