@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
+* [love-sadKiD — Something More](https://www.last.fm/music/love-sadKiD/_/Something+More)
 * [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [Periphery — Alpha](https://www.last.fm/music/Periphery/_/Alpha)<!-- LASTFM:END -->
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
