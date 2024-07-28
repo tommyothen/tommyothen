@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nohidea — Garden / Lost](https://www.last.fm/music/nohidea/_/Garden+%2F+Lost)
+* [FEDUK — Рацион &lpar;feat. SLA&rpar;](https://www.last.fm/music/FEDUK/_/%D0%A0%D0%B0%D1%86%D0%B8%D0%BE%D0%BD+&lpar;feat.+SLA&rpar;)
+* [Grant — Weapon](https://www.last.fm/music/Grant/_/Weapon)
 * [Puppet — The Fire](https://www.last.fm/music/Puppet/_/The+Fire)
-* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
-* [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
-* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
-* [Qawi Kamri — Shaky Hands](https://www.last.fm/music/Qawi+Kamri/_/Shaky+Hands)<!-- LASTFM:END -->
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
