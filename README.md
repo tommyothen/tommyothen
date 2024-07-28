@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Haunt — Cigarettes &amp; Feelings](https://www.last.fm/music/The+Haunt/_/Cigarettes+&amp;+Feelings)
+* [VELVETEARS — Coward](https://www.last.fm/music/VELVETEARS/_/Coward)
 * [Stonebank — The Government](https://www.last.fm/music/Stonebank/_/The+Government)
 * [Joji — Plastic Taste](https://www.last.fm/music/Joji/_/Plastic+Taste)
-* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
-* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)
-* [Her&#39;s — Cool with You](https://www.last.fm/music/Her%27s/_/Cool+with+You)<!-- LASTFM:END -->
+* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
