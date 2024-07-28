@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DPR LIVE — Text Me](https://www.last.fm/music/DPR+LIVE/_/Text+Me)
+* [Eden — sex](https://www.last.fm/music/Eden/_/sex)
 * [Trevor Daniel — Falling &lpar;feat. blackbear&rpar; - blackbear Remix](https://www.last.fm/music/Trevor+Daniel/_/Falling+&lpar;feat.+blackbear&rpar;+-+blackbear+Remix)
 * [Adore — dancing while the world burns](https://www.last.fm/music/Adore/_/dancing+while+the+world+burns)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)<!-- LASTFM:END -->
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
