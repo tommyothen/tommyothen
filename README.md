@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Diplo — Color Blind](https://www.last.fm/music/Diplo/_/Color+Blind)
+* [Hojean — Over 85](https://www.last.fm/music/Hojean/_/Over+85)
 * [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
-* [Destiny Rogers — Euphoria](https://www.last.fm/music/Destiny+Rogers/_/Euphoria)
-* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
-* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)<!-- LASTFM:END -->
+* [Destiny Rogers — Euphoria](https://www.last.fm/music/Destiny+Rogers/_/Euphoria)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
