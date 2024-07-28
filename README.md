@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
+* [YUNG BAE — Holding Your Hand](https://www.last.fm/music/YUNG+BAE/_/Holding+Your+Hand)
+* [Oliver Tree — Bury Me Alive](https://www.last.fm/music/Oliver+Tree/_/Bury+Me+Alive)
 * [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Vantage — Count What You Have Now](https://www.last.fm/music/Vantage/_/Count+What+You+Have+Now)
-* [Tennyson — Body Language &lpar;feat. Aloe Blacc&rpar;](https://www.last.fm/music/Tennyson/_/Body+Language+&lpar;feat.+Aloe+Blacc&rpar;)
-* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [Bliss n Eso — Tear The Roof Off](https://www.last.fm/music/Bliss+n+Eso/_/Tear+The+Roof+Off)<!-- LASTFM:END -->
+* [Vantage — Count What You Have Now](https://www.last.fm/music/Vantage/_/Count+What+You+Have+Now)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
