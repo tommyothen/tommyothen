@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — BOOMIN](https://www.last.fm/music/Yung+Gravy/_/BOOMIN)
+* [LoneMoon — NAW NAW](https://www.last.fm/music/LoneMoon/_/NAW+NAW)
+* [Rasti — Bored](https://www.last.fm/music/Rasti/_/Bored)
 * [Mothica — VICES](https://www.last.fm/music/Mothica/_/VICES)
-* [Bass Santana — Curse](https://www.last.fm/music/Bass+Santana/_/Curse)
-* [Billie Eilish — wish you were gay](https://www.last.fm/music/Billie+Eilish/_/wish+you+were+gay)
-* [Jaden — K](https://www.last.fm/music/Jaden/_/K)
-* [MISSIO — I See You](https://www.last.fm/music/MISSIO/_/I+See+You)<!-- LASTFM:END -->
+* [Bass Santana — Curse](https://www.last.fm/music/Bass+Santana/_/Curse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
