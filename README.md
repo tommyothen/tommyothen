@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Periphery — The Event](https://www.last.fm/music/Periphery/_/The+Event)
+* [Periphery — Heavy Heart](https://www.last.fm/music/Periphery/_/Heavy+Heart)
 * [Periphery — MK Ultra](https://www.last.fm/music/Periphery/_/MK+Ultra)
 * [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)
-* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
-* [Grimes — Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)
-* [Anyma — Welcome To The Opera &lpar;with Grimes&rpar;](https://www.last.fm/music/Anyma/_/Welcome+To+The+Opera+&lpar;with+Grimes&rpar;)<!-- LASTFM:END -->
+* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
