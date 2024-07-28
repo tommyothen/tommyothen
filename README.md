@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Arizona Zervas — ROXANNE](https://www.last.fm/music/Arizona+Zervas/_/ROXANNE)
+* [egs✰ — Six Days](https://www.last.fm/music/egs%E2%9C%B0/_/Six+Days)
 * [SCARLXRD — BERZERK](https://www.last.fm/music/SCARLXRD/_/BERZERK)
 * [Eden — love; not wrong &lpar;brave&rpar;](https://www.last.fm/music/Eden/_/love;+not+wrong+&lpar;brave&rpar;)
-* [Shahmen — infinite bliss](https://www.last.fm/music/Shahmen/_/infinite+bliss)
-* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
-* [Euføeni — 24/7](https://www.last.fm/music/Euf%C3%B8eni/_/24%2F7)<!-- LASTFM:END -->
+* [Shahmen — infinite bliss](https://www.last.fm/music/Shahmen/_/infinite+bliss)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
