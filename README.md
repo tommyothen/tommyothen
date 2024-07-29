@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Just Juice — Coast](https://www.last.fm/music/Just+Juice/_/Coast)
+* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)
 * [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
 * [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
-* [c0nv0 — Doubts](https://www.last.fm/music/c0nv0/_/Doubts)
-* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)<!-- LASTFM:END -->
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
