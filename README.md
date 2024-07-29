@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [First in Flight — It&#39;s Cool](https://www.last.fm/music/First+in+Flight/_/It%27s+Cool)
+* [Eden — XO](https://www.last.fm/music/Eden/_/XO)
 * [Prop Dylan — Can you imagine](https://www.last.fm/music/Prop+Dylan/_/Can+you+imagine)
 * [XXXTENTACION — Dead Inside &lpar;Interlude&rpar;](https://www.last.fm/music/XXXTENTACION/_/Dead+Inside+&lpar;Interlude&rpar;)
-* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)
-* [II-L — SPUTNIK-3](https://www.last.fm/music/II-L/_/SPUTNIK-3)
-* [gianni &amp; kyle — tension](https://www.last.fm/music/gianni+&amp;+kyle/_/tension)<!-- LASTFM:END -->
+* [100 gecs — mememe](https://www.last.fm/music/100+gecs/_/mememe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
