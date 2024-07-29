@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Caroline Konstnar — The Birthday Song](https://www.last.fm/music/Caroline+Konstnar/_/The+Birthday+Song)
+* [SCARLXRD — HXW THEY JUDGE](https://www.last.fm/music/SCARLXRD/_/HXW+THEY+JUDGE)
 * [Just Juice — Coast](https://www.last.fm/music/Just+Juice/_/Coast)
 * [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)
-* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
-* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
+* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
