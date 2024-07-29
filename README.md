@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [khai dreams — Questions](https://www.last.fm/music/khai+dreams/_/Questions)
 * [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
-* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
-* [slushii — Through the Night](https://www.last.fm/music/slushii/_/Through+the+Night)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)<!-- LASTFM:END -->
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
