@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — pennies up](https://www.last.fm/music/bbno$/_/pennies+up)
 * [nohidea — sincerely, yours](https://www.last.fm/music/nohidea/_/sincerely,+yours)
 * [Shiggy Jr. — oyasumi](https://www.last.fm/music/Shiggy+Jr./_/oyasumi)
 * [Miraie — Happy Sugar Life](https://www.last.fm/music/Miraie/_/Happy+Sugar+Life)
-* [Grady — Garden](https://www.last.fm/music/Grady/_/Garden)
-* [Top Bunk — Karma - After Hours Ibiza Night Club Remix](https://www.last.fm/music/Top+Bunk/_/Karma+-+After+Hours+Ibiza+Night+Club+Remix)<!-- LASTFM:END -->
+* [Grady — Garden](https://www.last.fm/music/Grady/_/Garden)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
