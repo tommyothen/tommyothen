@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [kmoe — iced tea](https://www.last.fm/music/kmoe/_/iced+tea)
+* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
 * [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
 * [c0nv0 — Doubts](https://www.last.fm/music/c0nv0/_/Doubts)
-* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
-* [QUICKLY, QUICKLY — Swingtheory](https://www.last.fm/music/QUICKLY,+QUICKLY/_/Swingtheory)
-* [RODERICK PORTER — I Didn&#39;t Realize How Empty My Bed Was Until You Left](https://www.last.fm/music/RODERICK+PORTER/_/I+Didn%27t+Realize+How+Empty+My+Bed+Was+Until+You+Left)<!-- LASTFM:END -->
+* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
