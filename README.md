@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
 * [Desired — Sunshine City](https://www.last.fm/music/Desired/_/Sunshine+City)
 * [bbno$ — zoom](https://www.last.fm/music/bbno$/_/zoom)
 * [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
-* [DUCKWRTH — I&#39;M DEAD](https://www.last.fm/music/DUCKWRTH/_/I%27M+DEAD)
-* [Overrated — Save Me from Myself](https://www.last.fm/music/Overrated/_/Save+Me+from+Myself)<!-- LASTFM:END -->
+* [DUCKWRTH — I&#39;M DEAD](https://www.last.fm/music/DUCKWRTH/_/I%27M+DEAD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
