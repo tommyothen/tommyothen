@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grady — Garden](https://www.last.fm/music/Grady/_/Garden)
+* [Top Bunk — Karma - After Hours Ibiza Night Club Remix](https://www.last.fm/music/Top+Bunk/_/Karma+-+After+Hours+Ibiza+Night+Club+Remix)
+* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
 * [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
-* [Tia — Deal with the devil](https://www.last.fm/music/Tia/_/Deal+with+the+devil)
-* [First in Flight — It&#39;s Cool](https://www.last.fm/music/First+in+Flight/_/It%27s+Cool)
-* [Eden — XO](https://www.last.fm/music/Eden/_/XO)
-* [Prop Dylan — Can you imagine](https://www.last.fm/music/Prop+Dylan/_/Can+you+imagine)<!-- LASTFM:END -->
+* [Tia — Deal with the devil](https://www.last.fm/music/Tia/_/Deal+with+the+devil)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
