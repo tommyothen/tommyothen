@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nohidea — sincerely, yours](https://www.last.fm/music/nohidea/_/sincerely,+yours)
+* [Shiggy Jr. — oyasumi](https://www.last.fm/music/Shiggy+Jr./_/oyasumi)
+* [Miraie — Happy Sugar Life](https://www.last.fm/music/Miraie/_/Happy+Sugar+Life)
 * [Grady — Garden](https://www.last.fm/music/Grady/_/Garden)
-* [Top Bunk — Karma - After Hours Ibiza Night Club Remix](https://www.last.fm/music/Top+Bunk/_/Karma+-+After+Hours+Ibiza+Night+Club+Remix)
-* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
-* [K.A.A.N. — K.A.A.N. The Conqueror](https://www.last.fm/music/K.A.A.N./_/K.A.A.N.+The+Conqueror)
-* [Tia — Deal with the devil](https://www.last.fm/music/Tia/_/Deal+with+the+devil)<!-- LASTFM:END -->
+* [Top Bunk — Karma - After Hours Ibiza Night Club Remix](https://www.last.fm/music/Top+Bunk/_/Karma+-+After+Hours+Ibiza+Night+Club+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
