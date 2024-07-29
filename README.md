@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [L.Dre — Across the Country](https://www.last.fm/music/L.Dre/_/Across+the+Country)
-* [Vincent Augustus — I Think I&#39;m Tired](https://www.last.fm/music/Vincent+Augustus/_/I+Think+I%27m+Tired)
-* [WHOKILLEDXIX — spy?](https://www.last.fm/music/WHOKILLEDXIX/_/spy%3F)
-* [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
-* [BROCKBEATS — magic smoke](https://www.last.fm/music/BROCKBEATS/_/magic+smoke)<!-- LASTFM:END -->
+* [bbno$ — edamame](https://www.last.fm/music/bbno$/_/edamame)
+* [Blaze U — Walk Tha Plank](https://www.last.fm/music/Blaze+U/_/Walk+Tha+Plank)
+* [BROCKHAMPTON — ZIPPER](https://www.last.fm/music/BROCKHAMPTON/_/ZIPPER)
+* [TWICE — Dance the Night Away](https://www.last.fm/music/TWICE/_/Dance+the+Night+Away)
+* [L.Dre — Across the Country](https://www.last.fm/music/L.Dre/_/Across+the+Country)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
