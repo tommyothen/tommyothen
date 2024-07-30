@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
+* [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
 * [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
