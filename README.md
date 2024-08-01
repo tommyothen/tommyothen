@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
+* [Leanna Firestone — Smitten](https://www.last.fm/music/Leanna+Firestone/_/Smitten)
 * [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [dacelynn — 80&#39;s Makeout Session](https://www.last.fm/music/dacelynn/_/80%27s+Makeout+Session)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)<!-- LASTFM:END -->
+* [dacelynn — 80&#39;s Makeout Session](https://www.last.fm/music/dacelynn/_/80%27s+Makeout+Session)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
