@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jaden — K](https://www.last.fm/music/Jaden/_/K)
+* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
 * [Jinsang — affection](https://www.last.fm/music/Jinsang/_/affection)
 * [Sebastian Paul — SO DONE](https://www.last.fm/music/Sebastian+Paul/_/SO+DONE)
-* [FEDUK — Моряк](https://www.last.fm/music/FEDUK/_/%D0%9C%D0%BE%D1%80%D1%8F%D0%BA)
-* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)<!-- LASTFM:END -->
+* [FEDUK — Моряк](https://www.last.fm/music/FEDUK/_/%D0%9C%D0%BE%D1%80%D1%8F%D0%BA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
