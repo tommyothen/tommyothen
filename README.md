@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — Love Story](https://www.last.fm/music/Taylor+Swift/_/Love+Story)
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
+* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
 * [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
-* [TomppaBeats — like someone in love](https://www.last.fm/music/TomppaBeats/_/like+someone+in+love)
-* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
-* [Sub Urban — Freak &lpar;feat. REI AMI&rpar;](https://www.last.fm/music/Sub+Urban/_/Freak+&lpar;feat.+REI+AMI&rpar;)
-* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)<!-- LASTFM:END -->
+* [TomppaBeats — like someone in love](https://www.last.fm/music/TomppaBeats/_/like+someone+in+love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
