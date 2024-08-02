@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sub Urban — Freak &lpar;feat. REI AMI&rpar;](https://www.last.fm/music/Sub+Urban/_/Freak+&lpar;feat.+REI+AMI&rpar;)
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [Eazy Mac — Chasing Rabbits &lpar;feat. Merkules&rpar;](https://www.last.fm/music/Eazy+Mac/_/Chasing+Rabbits+&lpar;feat.+Merkules&rpar;)
 * [Oliver Tree — Upside Down](https://www.last.fm/music/Oliver+Tree/_/Upside+Down)
-* [Jaden — K](https://www.last.fm/music/Jaden/_/K)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [Jinsang — affection](https://www.last.fm/music/Jinsang/_/affection)<!-- LASTFM:END -->
+* [Jaden — K](https://www.last.fm/music/Jaden/_/K)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
