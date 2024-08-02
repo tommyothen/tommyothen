@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Freddie Dredd — Oh Darling &lpar;feat. Soudiere&rpar;](https://www.last.fm/music/Freddie+Dredd/_/Oh+Darling+&lpar;feat.+Soudiere&rpar;)
+* [Halogen — U Got That](https://www.last.fm/music/Halogen/_/U+Got+That)
+* [The Neighbourhood — Cry Baby](https://www.last.fm/music/The+Neighbourhood/_/Cry+Baby)
 * [Camellia — Labyrinth in Kowloon: Walled World](https://www.last.fm/music/Camellia/_/Labyrinth+in+Kowloon:+Walled+World)
-* [Desired — Wake Up](https://www.last.fm/music/Desired/_/Wake+Up)
-* [Allie X — Susie Save Your Love](https://www.last.fm/music/Allie+X/_/Susie+Save+Your+Love)
-* [idealism — Controlla](https://www.last.fm/music/idealism/_/Controlla)
-* [Rich Brian — Flight](https://www.last.fm/music/Rich+Brian/_/Flight)<!-- LASTFM:END -->
+* [Desired — Wake Up](https://www.last.fm/music/Desired/_/Wake+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
