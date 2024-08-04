@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Anyma — Welcome To The Opera &lpar;with Grimes&rpar;](https://www.last.fm/music/Anyma/_/Welcome+To+The+Opera+&lpar;with+Grimes&rpar;)
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
 * [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
-* [FEDUK — АКВАРЕЛЬ](https://www.last.fm/music/FEDUK/_/%D0%90%D0%9A%D0%92%D0%90%D0%A0%D0%95%D0%9B%D0%AC)<!-- LASTFM:END -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
