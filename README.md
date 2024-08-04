@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
 * [Anyma — Welcome To The Opera &lpar;with Grimes&rpar;](https://www.last.fm/music/Anyma/_/Welcome+To+The+Opera+&lpar;with+Grimes&rpar;)
 * [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
-* [Aries — SANTA MONICA](https://www.last.fm/music/Aries/_/SANTA+MONICA)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
