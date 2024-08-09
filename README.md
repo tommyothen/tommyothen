@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Anyma — Welcome To The Opera &lpar;with Grimes&rpar;](https://www.last.fm/music/Anyma/_/Welcome+To+The+Opera+&lpar;with+Grimes&rpar;)
 * [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
-* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)<!-- LASTFM:END -->
+* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
