@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
 * [Leanna Firestone — Smitten](https://www.last.fm/music/Leanna+Firestone/_/Smitten)
 * [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
 * [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)<!-- LASTFM:END -->
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
