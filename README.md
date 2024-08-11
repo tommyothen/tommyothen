@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
+* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [bbno$ — stucco](https://www.last.fm/music/bbno$/_/stucco)
-* [Bad Bunny — Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)
-* [Leanna Firestone — Smitten](https://www.last.fm/music/Leanna+Firestone/_/Smitten)<!-- LASTFM:END -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
