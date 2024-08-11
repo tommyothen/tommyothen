@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)
+* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
 * [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [The Weeknd — Save Your Tears &lpar;Remix&rpar; &lpar;with Ariana Grande&rpar; - Bonus Track](https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears+&lpar;Remix&rpar;+&lpar;with+Ariana+Grande&rpar;+-+Bonus+Track)
-* [Ariana Grande — yes, and?](https://www.last.fm/music/Ariana+Grande/_/yes,+and%3F)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [Ariana Grande — the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine)<!-- LASTFM:END -->
+* [The Weeknd — Save Your Tears &lpar;Remix&rpar; &lpar;with Ariana Grande&rpar; - Bonus Track](https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears+&lpar;Remix&rpar;+&lpar;with+Ariana+Grande&rpar;+-+Bonus+Track)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
