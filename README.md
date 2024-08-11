@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charli XCX — Apple](https://www.last.fm/music/Charli+XCX/_/Apple)
+* [Periphery — MK Ultra](https://www.last.fm/music/Periphery/_/MK+Ultra)
 * [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)
-* [Ariana Grande — ordinary things &lpar;feat. Nonna&rpar;](https://www.last.fm/music/Ariana+Grande/_/ordinary+things+&lpar;feat.+Nonna&rpar;)
-* [Ariana Grande — imperfect for you](https://www.last.fm/music/Ariana+Grande/_/imperfect+for+you)<!-- LASTFM:END -->
+* [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
