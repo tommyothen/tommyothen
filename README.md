@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Bambi — 1](https://www.last.fm/music/Yung+Bambi/_/1)
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
 * [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)
 * [Unlike Pluto — Worst In Me](https://www.last.fm/music/Unlike+Pluto/_/Worst+In+Me)
-* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)
-* [Billie Eilish — you should see me in a crown](https://www.last.fm/music/Billie+Eilish/_/you+should+see+me+in+a+crown)
-* [Softwilly — TEEN TITANS BLOW](https://www.last.fm/music/Softwilly/_/TEEN+TITANS+BLOW)<!-- LASTFM:END -->
+* [Joji — Sanctuary](https://www.last.fm/music/Joji/_/Sanctuary)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
