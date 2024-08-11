@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
+* [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)
 * [Ariana Grande — ordinary things &lpar;feat. Nonna&rpar;](https://www.last.fm/music/Ariana+Grande/_/ordinary+things+&lpar;feat.+Nonna&rpar;)
 * [Ariana Grande — imperfect for you](https://www.last.fm/music/Ariana+Grande/_/imperfect+for+you)
-* [Ariana Grande — i wish i hated you](https://www.last.fm/music/Ariana+Grande/_/i+wish+i+hated+you)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
-* [Ariana Grande — yes, and?](https://www.last.fm/music/Ariana+Grande/_/yes,+and%3F)<!-- LASTFM:END -->
+* [Ariana Grande — i wish i hated you](https://www.last.fm/music/Ariana+Grande/_/i+wish+i+hated+you)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
