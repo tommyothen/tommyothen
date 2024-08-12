@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
+* [MISSIO — Temple Priest &lpar;feat. Paul Wall &amp; Kota the Friend&rpar;](https://www.last.fm/music/MISSIO/_/Temple+Priest+&lpar;feat.+Paul+Wall+&amp;+Kota+the+Friend&rpar;)
 * [Magic Circuit — Slip](https://www.last.fm/music/Magic+Circuit/_/Slip)
 * [Vincente Void — Grief](https://www.last.fm/music/Vincente+Void/_/Grief)
-* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
-* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
-* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)<!-- LASTFM:END -->
+* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
