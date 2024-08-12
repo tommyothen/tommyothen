@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Undead Corporation — Xing Noises](https://www.last.fm/music/Undead+Corporation/_/Xing+Noises)
+* [TWICE — Look at Me](https://www.last.fm/music/TWICE/_/Look+at+Me)
+* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
 * [Two Door Cinema Club — Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)
-* [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)
-* [Yung Bambi — 1](https://www.last.fm/music/Yung+Bambi/_/1)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
-* [DUSTCELL — SOPPY](https://www.last.fm/music/DUSTCELL/_/SOPPY)<!-- LASTFM:END -->
+* [T-ARA — Apple Is A](https://www.last.fm/music/T-ARA/_/Apple+Is+A)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
