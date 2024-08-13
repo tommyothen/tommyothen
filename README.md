@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — New Jeans](https://www.last.fm/music/NewJeans/_/New+Jeans)
+* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
 * [Charli XCX — Apple](https://www.last.fm/music/Charli+XCX/_/Apple)
 * [Ariana Grande — obvious](https://www.last.fm/music/Ariana+Grande/_/obvious)
-* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [Lisa — Rockstar - Extended](https://www.last.fm/music/Lisa/_/Rockstar+-+Extended)
-* [NewJeans — Right Now](https://www.last.fm/music/NewJeans/_/Right+Now)<!-- LASTFM:END -->
+* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
