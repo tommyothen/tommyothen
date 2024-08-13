@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
 * [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
 * [Lisa — Rockstar - Extended](https://www.last.fm/music/Lisa/_/Rockstar+-+Extended)
-* [Charli XCX — guess featuring billie eilish](https://www.last.fm/music/Charli+XCX/_/guess+featuring+billie+eilish)
-* [NewJeans — New Jeans](https://www.last.fm/music/NewJeans/_/New+Jeans)<!-- LASTFM:END -->
+* [Charli XCX — guess featuring billie eilish](https://www.last.fm/music/Charli+XCX/_/guess+featuring+billie+eilish)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
