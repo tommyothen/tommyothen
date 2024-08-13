@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [Stevie Matthew — a song to make out to](https://www.last.fm/music/Stevie+Matthew/_/a+song+to+make+out+to)
-* [Charli XCX — guess featuring billie eilish](https://www.last.fm/music/Charli+XCX/_/guess+featuring+billie+eilish)<!-- LASTFM:END -->
+* [Ariana Grande — the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine)
+* [Ariana Grande — true story](https://www.last.fm/music/Ariana+Grande/_/true+story)
+* [Ariana Grande — supernatural](https://www.last.fm/music/Ariana+Grande/_/supernatural)
+* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
+* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
