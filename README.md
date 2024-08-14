@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Perfect Playlist](https://www.last.fm/music/Ellie+Williams/_/Perfect+Playlist)
+* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
+* [Ariana Grande — yes, and?](https://www.last.fm/music/Ariana+Grande/_/yes,+and%3F)
 * [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)
-* [MCR-T — Buurman Uit Berlijn](https://www.last.fm/music/MCR-T/_/Buurman+Uit+Berlijn)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
+* [Ski Aggu — Friesenjung](https://www.last.fm/music/Ski+Aggu/_/Friesenjung)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
