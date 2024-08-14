@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [six impala — FARAWAY199X/TAPE 2](https://www.last.fm/music/six+impala/_/FARAWAY199X%2FTAPE+2)
-* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
-* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
+* [Ellie Williams — Clueless](https://www.last.fm/music/Ellie+Williams/_/Clueless)
+* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
