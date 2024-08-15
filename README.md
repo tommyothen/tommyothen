@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
-* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
-* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
-* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)<!-- LASTFM:END -->
+* [Easha — Manic Pixie Dream Girl](https://www.last.fm/music/Easha/_/Manic+Pixie+Dream+Girl)
+* [dacelynn — 80&#39;s Makeout Session](https://www.last.fm/music/dacelynn/_/80%27s+Makeout+Session)
+* [adan diaz — jerk x2](https://www.last.fm/music/adan+diaz/_/jerk+x2)
+* [Zeph — strawberry milk](https://www.last.fm/music/Zeph/_/strawberry+milk)
+* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
