@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
-* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
-* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
-* [Easha — You Make Me Feel](https://www.last.fm/music/Easha/_/You+Make+Me+Feel)<!-- LASTFM:END -->
+* [Ūla — White Knuckles](https://www.last.fm/music/%C5%AAla/_/White+Knuckles)
+* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
+* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
+* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
