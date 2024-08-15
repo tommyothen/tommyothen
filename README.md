@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [keshi — SAY](https://www.last.fm/music/keshi/_/SAY)
-* [Katseye — Debut](https://www.last.fm/music/Katseye/_/Debut)
-* [Sabrina Carpenter — Nonsense](https://www.last.fm/music/Sabrina+Carpenter/_/Nonsense)
-* [Ariana Grande — needy](https://www.last.fm/music/Ariana+Grande/_/needy)
-* [NewJeans — Bubble Gum](https://www.last.fm/music/NewJeans/_/Bubble+Gum)<!-- LASTFM:END -->
+* [Sabrina Carpenter — Fast Times](https://www.last.fm/music/Sabrina+Carpenter/_/Fast+Times)
+* [PinkPantheress — turn it up](https://www.last.fm/music/PinkPantheress/_/turn+it+up)
+* [Ariana Grande — shut up](https://www.last.fm/music/Ariana+Grande/_/shut+up)
+* [Kiss of Life — Sticky](https://www.last.fm/music/Kiss+of+Life/_/Sticky)
+* [beabadoobee — A Night To Remember](https://www.last.fm/music/beabadoobee/_/A+Night+To+Remember)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
