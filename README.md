@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
 * [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
 * [Sabrina Carpenter — Fast Times](https://www.last.fm/music/Sabrina+Carpenter/_/Fast+Times)
 * [PinkPantheress — turn it up](https://www.last.fm/music/PinkPantheress/_/turn+it+up)
-* [Ariana Grande — shut up](https://www.last.fm/music/Ariana+Grande/_/shut+up)
-* [Kiss of Life — Sticky](https://www.last.fm/music/Kiss+of+Life/_/Sticky)<!-- LASTFM:END -->
+* [Ariana Grande — shut up](https://www.last.fm/music/Ariana+Grande/_/shut+up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
