@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Ariana Grande — ordinary things &lpar;feat. Nonna&rpar;](https://www.last.fm/music/Ariana+Grande/_/ordinary+things+&lpar;feat.+Nonna&rpar;)<!-- LASTFM:END -->
+* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)
+* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
+* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
