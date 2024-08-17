@@ -36,8 +36,8 @@ Now Playing\
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
+* [Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. - TV](https://myanimelist.net/anime/51128/Noumin_Kanren_no_Skill_bakka_Agetetara_Nazeka_Tsuyoku_Natta) - Watching - 9 of 12 episodes
 * [24H - Music](https://myanimelist.net/anime/15527/24H) - Dropped - 0 of 9 episodes
 * [Show in Backrooms - CM](https://myanimelist.net/anime/55356/Show_in_Backrooms) - Completed - 1 of 1 episodes
 * [Goodme: Citron Tea - ONA](https://myanimelist.net/anime/54545/Goodme__Citron_Tea) - Completed - 1 of 1 episodes
-* [I Think You&#39;re a Little Confused - Movie](https://myanimelist.net/anime/44776/I_Think_Youre_a_Little_Confused) - Completed - 1 of 1 episodes
-* [Transfer - Music](https://myanimelist.net/anime/17068/Transfer) - Completed - 1 of 1 episodes<!-- ANIME-LIST:END -->
+* [I Think You&#39;re a Little Confused - Movie](https://myanimelist.net/anime/44776/I_Think_Youre_a_Little_Confused) - Completed - 1 of 1 episodes<!-- ANIME-LIST:END -->
