@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ariana Grande — imperfect for you](https://www.last.fm/music/Ariana+Grande/_/imperfect+for+you)
-* [Ariana Grande — i wish i hated you](https://www.last.fm/music/Ariana+Grande/_/i+wish+i+hated+you)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
-* [Ariana Grande — yes, and?](https://www.last.fm/music/Ariana+Grande/_/yes,+and%3F)
-* [Ariana Grande — the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine)<!-- LASTFM:END -->
+* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
+* [Knocked Loose — Suffocate &lpar;feat. Poppy&rpar;](https://www.last.fm/music/Knocked+Loose/_/Suffocate+&lpar;feat.+Poppy&rpar;)
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
+* [Ariana Grande — ordinary things &lpar;feat. Nonna&rpar;](https://www.last.fm/music/Ariana+Grande/_/ordinary+things+&lpar;feat.+Nonna&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
