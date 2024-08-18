@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
+* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
 * [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [Charli XCX — guess featuring billie eilish](https://www.last.fm/music/Charli+XCX/_/guess+featuring+billie+eilish)
-* [Ariana Grande — the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine)
-* [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)<!-- LASTFM:END -->
+* [Charli XCX — guess featuring billie eilish](https://www.last.fm/music/Charli+XCX/_/guess+featuring+billie+eilish)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
