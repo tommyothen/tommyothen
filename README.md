@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
+* [DECO*27 — ラビットホール](https://www.last.fm/music/DECO*27/_/%E3%83%A9%E3%83%93%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB)
 * [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
 * [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
-* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
-* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
-* [Ne Obliviscaris — Painters of the Tempest - Part III - Reveries from the Stained Glass Womb](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+III+-+Reveries+from+the+Stained+Glass+Womb)<!-- LASTFM:END -->
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
