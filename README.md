@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
+* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
 * [Ne Obliviscaris — Painters of the Tempest - Part III - Reveries from the Stained Glass Womb](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+III+-+Reveries+from+the+Stained+Glass+Womb)
 * [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
-* [Ne Obliviscaris — Painters of the Tempest - Part I - Wyrmholes](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+I+-+Wyrmholes)
-* [Periphery — Psychosphere](https://www.last.fm/music/Periphery/_/Psychosphere)
-* [Periphery — Four Lights](https://www.last.fm/music/Periphery/_/Four+Lights)<!-- LASTFM:END -->
+* [Ne Obliviscaris — Painters of the Tempest - Part I - Wyrmholes](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+I+-+Wyrmholes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
