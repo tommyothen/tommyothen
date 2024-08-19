@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
 * [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
