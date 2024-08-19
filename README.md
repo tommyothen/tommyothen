@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
+* [DECO*27 — ラビットホール](https://www.last.fm/music/DECO*27/_/%E3%83%A9%E3%83%93%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%AB)
+* [Ftlframe — Subterranean Loner](https://www.last.fm/music/Ftlframe/_/Subterranean+Loner)
 * [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
-* [strxwberrymilk — I&#39;ll Go Home Then - Radio Edit](https://www.last.fm/music/strxwberrymilk/_/I%27ll+Go+Home+Then+-+Radio+Edit)
-* [Dracodraco — through the light](https://www.last.fm/music/Dracodraco/_/through+the+light)
-* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
-* [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)<!-- LASTFM:END -->
+* [strxwberrymilk — I&#39;ll Go Home Then - Radio Edit](https://www.last.fm/music/strxwberrymilk/_/I%27ll+Go+Home+Then+-+Radio+Edit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
