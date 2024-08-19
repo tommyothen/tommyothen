@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Live Cinema](https://www.last.fm/music/Ellie+Williams/_/Live+Cinema)
+* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
+* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)<!-- LASTFM:END -->
+* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
