@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
 * [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
-* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)<!-- LASTFM:END -->
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
