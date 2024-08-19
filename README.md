@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Periphery — MK Ultra](https://www.last.fm/music/Periphery/_/MK+Ultra)
+* [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)<!-- LASTFM:END -->
+* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
