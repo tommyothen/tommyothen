@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)
+* [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)
 * [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Ariana Grande — ordinary things &lpar;feat. Nonna&rpar;](https://www.last.fm/music/Ariana+Grande/_/ordinary+things+&lpar;feat.+Nonna&rpar;)
-* [Ariana Grande — imperfect for you](https://www.last.fm/music/Ariana+Grande/_/imperfect+for+you)<!-- LASTFM:END -->
+* [Ariana Grande — ordinary things &lpar;feat. Nonna&rpar;](https://www.last.fm/music/Ariana+Grande/_/ordinary+things+&lpar;feat.+Nonna&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
