@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)
+* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Ariana Grande — ordinary things &lpar;feat. Nonna&rpar;](https://www.last.fm/music/Ariana+Grande/_/ordinary+things+&lpar;feat.+Nonna&rpar;)
-* [Ariana Grande — imperfect for you](https://www.last.fm/music/Ariana+Grande/_/imperfect+for+you)
-* [Ariana Grande — i wish i hated you](https://www.last.fm/music/Ariana+Grande/_/i+wish+i+hated+you)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)<!-- LASTFM:END -->
+* [Ariana Grande — ordinary things &lpar;feat. Nonna&rpar;](https://www.last.fm/music/Ariana+Grande/_/ordinary+things+&lpar;feat.+Nonna&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
