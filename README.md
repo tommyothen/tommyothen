@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
 * [Periphery — Four Lights](https://www.last.fm/music/Periphery/_/Four+Lights)
 * [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)
-* [Periphery — 22 Faces](https://www.last.fm/music/Periphery/_/22+Faces)
-* [Periphery — Alpha](https://www.last.fm/music/Periphery/_/Alpha)
-* [Ariana Grande — the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine)<!-- LASTFM:END -->
+* [Periphery — 22 Faces](https://www.last.fm/music/Periphery/_/22+Faces)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
