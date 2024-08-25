@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Polyphonic Rust](https://www.last.fm/music/Igorrr/_/Polyphonic+Rust)
+* [Igorrr — Barocco Satani](https://www.last.fm/music/Igorrr/_/Barocco+Satani)
 * [Igorrr — Paranoid Bulldozer Italiano](https://www.last.fm/music/Igorrr/_/Paranoid+Bulldozer+Italiano)
 * [Igorrr — Overweight Poesy](https://www.last.fm/music/Igorrr/_/Overweight+Poesy)
-* [Igorrr — Lost in Introspection](https://www.last.fm/music/Igorrr/_/Lost+in+Introspection)
-* [Igorrr — Himalaya Massive Ritual](https://www.last.fm/music/Igorrr/_/Himalaya+Massive+Ritual)
-* [Igorrr — Musette Maximum](https://www.last.fm/music/Igorrr/_/Musette+Maximum)<!-- LASTFM:END -->
+* [Igorrr — Lost in Introspection](https://www.last.fm/music/Igorrr/_/Lost+in+Introspection)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
