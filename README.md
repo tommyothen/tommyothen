@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sybreed — Doomsday Party](https://www.last.fm/music/Sybreed/_/Doomsday+Party)
+* [Sybreed — Bioactive](https://www.last.fm/music/Sybreed/_/Bioactive)
+* [Paolo Nutini — Iron Sky](https://www.last.fm/music/Paolo+Nutini/_/Iron+Sky)
 * [Pendulum — Napalm](https://www.last.fm/music/Pendulum/_/Napalm)
-* [Paolo Nutini — Pencil Full of Lead](https://www.last.fm/music/Paolo+Nutini/_/Pencil+Full+of+Lead)
-* [Pintglass — Cafe Brawler](https://www.last.fm/music/Pintglass/_/Cafe+Brawler)
-* [Ariana Grande — imperfect for you](https://www.last.fm/music/Ariana+Grande/_/imperfect+for+you)
-* [Ariana Grande — i wish i hated you](https://www.last.fm/music/Ariana+Grande/_/i+wish+i+hated+you)<!-- LASTFM:END -->
+* [Paolo Nutini — Pencil Full of Lead](https://www.last.fm/music/Paolo+Nutini/_/Pencil+Full+of+Lead)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
