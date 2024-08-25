@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Noisia — Shellshock](https://www.last.fm/music/Noisia/_/Shellshock)
+* [Noisia — Mantra](https://www.last.fm/music/Noisia/_/Mantra)
 * [Current Value — Dark Rain](https://www.last.fm/music/Current+Value/_/Dark+Rain)
 * [Pythius — In My Head](https://www.last.fm/music/Pythius/_/In+My+Head)
-* [MF DOOM — That&#39;s That](https://www.last.fm/music/MF+DOOM/_/That%27s+That)
-* [MF DOOM — One Beer](https://www.last.fm/music/MF+DOOM/_/One+Beer)
-* [MF DOOM — Hoe Cakes](https://www.last.fm/music/MF+DOOM/_/Hoe+Cakes)<!-- LASTFM:END -->
+* [MF DOOM — That&#39;s That](https://www.last.fm/music/MF+DOOM/_/That%27s+That)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
