@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Lost in Introspection](https://www.last.fm/music/Igorrr/_/Lost+in+Introspection)
+* [Igorrr — Himalaya Massive Ritual](https://www.last.fm/music/Igorrr/_/Himalaya+Massive+Ritual)
 * [Igorrr — Musette Maximum](https://www.last.fm/music/Igorrr/_/Musette+Maximum)
 * [Igorrr — Parpaing](https://www.last.fm/music/Igorrr/_/Parpaing)
-* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
-* [Igorrr — Hollow Tree](https://www.last.fm/music/Igorrr/_/Hollow+Tree)
-* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)<!-- LASTFM:END -->
+* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
