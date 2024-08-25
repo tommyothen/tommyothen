@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Periphery — Reptile](https://www.last.fm/music/Periphery/_/Reptile)
 * [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)
 * [My Chemical Romance — Helena](https://www.last.fm/music/My+Chemical+Romance/_/Helena)
 * [Noisia — Shellshock](https://www.last.fm/music/Noisia/_/Shellshock)
-* [Noisia — Mantra](https://www.last.fm/music/Noisia/_/Mantra)
-* [Current Value — Dark Rain](https://www.last.fm/music/Current+Value/_/Dark+Rain)<!-- LASTFM:END -->
+* [Noisia — Mantra](https://www.last.fm/music/Noisia/_/Mantra)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
