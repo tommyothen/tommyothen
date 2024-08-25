@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shadow of Intent — The Battle of the Maginot Sphere](https://www.last.fm/music/Shadow+of+Intent/_/The+Battle+of+the+Maginot+Sphere)
+* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
 * [Periphery — Reptile](https://www.last.fm/music/Periphery/_/Reptile)
 * [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)
-* [My Chemical Romance — Helena](https://www.last.fm/music/My+Chemical+Romance/_/Helena)
-* [Noisia — Shellshock](https://www.last.fm/music/Noisia/_/Shellshock)
-* [Noisia — Mantra](https://www.last.fm/music/Noisia/_/Mantra)<!-- LASTFM:END -->
+* [My Chemical Romance — Helena](https://www.last.fm/music/My+Chemical+Romance/_/Helena)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
