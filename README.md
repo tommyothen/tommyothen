@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MF DOOM — One Beer](https://www.last.fm/music/MF+DOOM/_/One+Beer)
+* [MF DOOM — Hoe Cakes](https://www.last.fm/music/MF+DOOM/_/Hoe+Cakes)
+* [MF DOOM — Rapp Snitch Knishes feat. Mr. Fantastik](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes+feat.+Mr.+Fantastik)
 * [Denzel Curry — HOT ONE &lpar;with TiaCorine &amp; A$AP Ferg&rpar;](https://www.last.fm/music/Denzel+Curry/_/HOT+ONE+&lpar;with+TiaCorine+&amp;+A$AP+Ferg&rpar;)
-* [Crash Nebula — Second Best](https://www.last.fm/music/Crash+Nebula/_/Second+Best)
-* [Party Cannon — Duct Taped To A Flag Pole](https://www.last.fm/music/Party+Cannon/_/Duct+Taped+To+A+Flag+Pole)
-* [Sleeping with Sirens — You Kill Me &lpar;In a Good Way&rpar;](https://www.last.fm/music/Sleeping+with+Sirens/_/You+Kill+Me+&lpar;In+a+Good+Way&rpar;)
-* [Killswitch Engage — My Curse](https://www.last.fm/music/Killswitch+Engage/_/My+Curse)<!-- LASTFM:END -->
+* [Crash Nebula — Second Best](https://www.last.fm/music/Crash+Nebula/_/Second+Best)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
