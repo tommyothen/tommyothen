@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Killswitch Engage — My Curse](https://www.last.fm/music/Killswitch+Engage/_/My+Curse)
-* [Alexisonfire — Boiled Frogs](https://www.last.fm/music/Alexisonfire/_/Boiled+Frogs)
-* [Sybreed — Doomsday Party](https://www.last.fm/music/Sybreed/_/Doomsday+Party)
-* [Sybreed — Bioactive](https://www.last.fm/music/Sybreed/_/Bioactive)
-* [Paolo Nutini — Iron Sky](https://www.last.fm/music/Paolo+Nutini/_/Iron+Sky)<!-- LASTFM:END -->
+* [Denzel Curry — HOT ONE &lpar;with TiaCorine &amp; A$AP Ferg&rpar;](https://www.last.fm/music/Denzel+Curry/_/HOT+ONE+&lpar;with+TiaCorine+&amp;+A$AP+Ferg&rpar;)
+* [Crash Nebula — Second Best](https://www.last.fm/music/Crash+Nebula/_/Second+Best)
+* [Party Cannon — Duct Taped To A Flag Pole](https://www.last.fm/music/Party+Cannon/_/Duct+Taped+To+A+Flag+Pole)
+* [Sleeping with Sirens — You Kill Me &lpar;In a Good Way&rpar;](https://www.last.fm/music/Sleeping+with+Sirens/_/You+Kill+Me+&lpar;In+a+Good+Way&rpar;)
+* [Killswitch Engage — My Curse](https://www.last.fm/music/Killswitch+Engage/_/My+Curse)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
