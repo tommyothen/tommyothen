@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Problème d&#39;émotion](https://www.last.fm/music/Igorrr/_/Probl%C3%A8me+d%27%C3%A9motion)
 * [Igorrr — Opus Brain](https://www.last.fm/music/Igorrr/_/Opus+Brain)
 * [Igorrr — Houmous](https://www.last.fm/music/Igorrr/_/Houmous)
 * [Igorrr — ieuD](https://www.last.fm/music/Igorrr/_/ieuD)
-* [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)
-* [Igorrr — Kung-Fu Chèvre](https://www.last.fm/music/Igorrr/_/Kung-Fu+Ch%C3%A8vre)<!-- LASTFM:END -->
+* [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
