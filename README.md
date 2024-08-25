@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Killswitch Engage — My Curse](https://www.last.fm/music/Killswitch+Engage/_/My+Curse)
+* [Alexisonfire — Boiled Frogs](https://www.last.fm/music/Alexisonfire/_/Boiled+Frogs)
 * [Sybreed — Doomsday Party](https://www.last.fm/music/Sybreed/_/Doomsday+Party)
 * [Sybreed — Bioactive](https://www.last.fm/music/Sybreed/_/Bioactive)
-* [Paolo Nutini — Iron Sky](https://www.last.fm/music/Paolo+Nutini/_/Iron+Sky)
-* [Pendulum — Napalm](https://www.last.fm/music/Pendulum/_/Napalm)
-* [Paolo Nutini — Pencil Full of Lead](https://www.last.fm/music/Paolo+Nutini/_/Pencil+Full+of+Lead)<!-- LASTFM:END -->
+* [Paolo Nutini — Iron Sky](https://www.last.fm/music/Paolo+Nutini/_/Iron+Sky)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
