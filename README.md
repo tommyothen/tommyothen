@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charli XCX — Club classics](https://www.last.fm/music/Charli+XCX/_/Club+classics)
+* [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)
+* [Snoop Dogg — Beautiful](https://www.last.fm/music/Snoop+Dogg/_/Beautiful)
 * [Shadow of Intent — The Battle of the Maginot Sphere](https://www.last.fm/music/Shadow+of+Intent/_/The+Battle+of+the+Maginot+Sphere)
-* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
-* [Periphery — Reptile](https://www.last.fm/music/Periphery/_/Reptile)
-* [Periphery — A Black Minute](https://www.last.fm/music/Periphery/_/A+Black+Minute)
-* [My Chemical Romance — Helena](https://www.last.fm/music/My+Chemical+Romance/_/Helena)<!-- LASTFM:END -->
+* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
