@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charli XCX — Talk talk](https://www.last.fm/music/Charli+XCX/_/Talk+talk)
+* [Charli XCX — I might say something stupid](https://www.last.fm/music/Charli+XCX/_/I+might+say+something+stupid)
+* [Charli XCX — Sympathy is a knife](https://www.last.fm/music/Charli+XCX/_/Sympathy+is+a+knife)
 * [Charli XCX — Club classics](https://www.last.fm/music/Charli+XCX/_/Club+classics)
-* [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)
-* [Snoop Dogg — Beautiful](https://www.last.fm/music/Snoop+Dogg/_/Beautiful)
-* [Shadow of Intent — The Battle of the Maginot Sphere](https://www.last.fm/music/Shadow+of+Intent/_/The+Battle+of+the+Maginot+Sphere)
-* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)<!-- LASTFM:END -->
+* [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
