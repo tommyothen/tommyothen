@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Woman](https://www.last.fm/music/Doja+Cat/_/Woman)
+* [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
 * [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)
 * [Beyoncé — Crazy in Love &lpar;feat. JAY-Z&rpar;](https://www.last.fm/music/Beyonc%C3%A9/_/Crazy+in+Love+&lpar;feat.+JAY-Z&rpar;)
-* [Justin Timberlake — Like I Love You](https://www.last.fm/music/Justin+Timberlake/_/Like+I+Love+You)
-* [Justin Timberlake — Rock Your Body](https://www.last.fm/music/Justin+Timberlake/_/Rock+Your+Body)
-* [Lily Allen — Smile](https://www.last.fm/music/Lily+Allen/_/Smile)<!-- LASTFM:END -->
+* [Justin Timberlake — Like I Love You](https://www.last.fm/music/Justin+Timberlake/_/Like+I+Love+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
