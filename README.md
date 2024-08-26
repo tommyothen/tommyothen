@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Periphery — Alpha](https://www.last.fm/music/Periphery/_/Alpha)
+* [Charli XCX — Von dutch](https://www.last.fm/music/Charli+XCX/_/Von+dutch)
 * [Charli XCX — Talk talk](https://www.last.fm/music/Charli+XCX/_/Talk+talk)
 * [Charli XCX — I might say something stupid](https://www.last.fm/music/Charli+XCX/_/I+might+say+something+stupid)
-* [Charli XCX — Sympathy is a knife](https://www.last.fm/music/Charli+XCX/_/Sympathy+is+a+knife)
-* [Charli XCX — Club classics](https://www.last.fm/music/Charli+XCX/_/Club+classics)
-* [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)<!-- LASTFM:END -->
+* [Charli XCX — Sympathy is a knife](https://www.last.fm/music/Charli+XCX/_/Sympathy+is+a+knife)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
