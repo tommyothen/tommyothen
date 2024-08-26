@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [MCCAFFERTY — Bottom](https://www.last.fm/music/MCCAFFERTY/_/Bottom)
-* [Necrophagist — Stabwound](https://www.last.fm/music/Necrophagist/_/Stabwound)
-* [Alestorm — Drink](https://www.last.fm/music/Alestorm/_/Drink)
-* [Type O Negative — I Don&#39;t Wanna Be Me](https://www.last.fm/music/Type+O+Negative/_/I+Don%27t+Wanna+Be+Me)
-* [manrryx — Out of The Fire &lpar;Type O Negative&rpar;](https://www.last.fm/music/manrryx/_/Out+of+The+Fire+&lpar;Type+O+Negative&rpar;)<!-- LASTFM:END -->
+* [Labrinth — Still Don&#39;t Know My Name](https://www.last.fm/music/Labrinth/_/Still+Don%27t+Know+My+Name)
+* [Labrinth — Formula](https://www.last.fm/music/Labrinth/_/Formula)
+* [Darko US — Insects](https://www.last.fm/music/Darko+US/_/Insects)
+* [The Front Bottoms — Twin Size Mattress](https://www.last.fm/music/The+Front+Bottoms/_/Twin+Size+Mattress)
+* [MCCAFFERTY — Bottom](https://www.last.fm/music/MCCAFFERTY/_/Bottom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
