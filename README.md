@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [My Chemical Romance — The Ghost of You](https://www.last.fm/music/My+Chemical+Romance/_/The+Ghost+of+You)
 * [Periphery — Psychosphere](https://www.last.fm/music/Periphery/_/Psychosphere)
 * [Periphery — Four Lights](https://www.last.fm/music/Periphery/_/Four+Lights)
 * [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)
-* [Jam Merchants — 2:1](https://www.last.fm/music/Jam+Merchants/_/2:1)
-* [Periphery — 22 Faces](https://www.last.fm/music/Periphery/_/22+Faces)<!-- LASTFM:END -->
+* [Jam Merchants — 2:1](https://www.last.fm/music/Jam+Merchants/_/2:1)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
