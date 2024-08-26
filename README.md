@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Justin Timberlake — Rock Your Body](https://www.last.fm/music/Justin+Timberlake/_/Rock+Your+Body)
 * [Lily Allen — Smile](https://www.last.fm/music/Lily+Allen/_/Smile)
 * [The Weeknd — The Hills](https://www.last.fm/music/The+Weeknd/_/The+Hills)
 * [Labrinth — Still Don&#39;t Know My Name](https://www.last.fm/music/Labrinth/_/Still+Don%27t+Know+My+Name)
-* [Labrinth — Formula](https://www.last.fm/music/Labrinth/_/Formula)
-* [Darko US — Insects](https://www.last.fm/music/Darko+US/_/Insects)<!-- LASTFM:END -->
+* [Labrinth — Formula](https://www.last.fm/music/Labrinth/_/Formula)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
