@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [MCCAFFERTY — Bottom](https://www.last.fm/music/MCCAFFERTY/_/Bottom)
+* [Necrophagist — Stabwound](https://www.last.fm/music/Necrophagist/_/Stabwound)
 * [Alestorm — Drink](https://www.last.fm/music/Alestorm/_/Drink)
 * [Type O Negative — I Don&#39;t Wanna Be Me](https://www.last.fm/music/Type+O+Negative/_/I+Don%27t+Wanna+Be+Me)
-* [manrryx — Out of The Fire &lpar;Type O Negative&rpar;](https://www.last.fm/music/manrryx/_/Out+of+The+Fire+&lpar;Type+O+Negative&rpar;)
-* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
-* [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)<!-- LASTFM:END -->
+* [manrryx — Out of The Fire &lpar;Type O Negative&rpar;](https://www.last.fm/music/manrryx/_/Out+of+The+Fire+&lpar;Type+O+Negative&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
