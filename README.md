@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lily Allen — Smile](https://www.last.fm/music/Lily+Allen/_/Smile)
+* [The Weeknd — The Hills](https://www.last.fm/music/The+Weeknd/_/The+Hills)
 * [Labrinth — Still Don&#39;t Know My Name](https://www.last.fm/music/Labrinth/_/Still+Don%27t+Know+My+Name)
 * [Labrinth — Formula](https://www.last.fm/music/Labrinth/_/Formula)
-* [Darko US — Insects](https://www.last.fm/music/Darko+US/_/Insects)
-* [The Front Bottoms — Twin Size Mattress](https://www.last.fm/music/The+Front+Bottoms/_/Twin+Size+Mattress)
-* [MCCAFFERTY — Bottom](https://www.last.fm/music/MCCAFFERTY/_/Bottom)<!-- LASTFM:END -->
+* [Darko US — Insects](https://www.last.fm/music/Darko+US/_/Insects)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
