@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Muse — Supermassive Black Hole](https://www.last.fm/music/Muse/_/Supermassive+Black+Hole)
-* [My Chemical Romance — Teenagers](https://www.last.fm/music/My+Chemical+Romance/_/Teenagers)
-* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [My Chemical Romance — The Ghost of You](https://www.last.fm/music/My+Chemical+Romance/_/The+Ghost+of+You)
-* [Periphery — Psychosphere](https://www.last.fm/music/Periphery/_/Psychosphere)<!-- LASTFM:END -->
+* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
+* [Bring Me the Horizon — Sleepwalking](https://www.last.fm/music/Bring+Me+the+Horizon/_/Sleepwalking)
+* [Muse — Plug In Baby](https://www.last.fm/music/Muse/_/Plug+In+Baby)
+* [Muse — Knights of Cydonia](https://www.last.fm/music/Muse/_/Knights+of+Cydonia)
+* [Muse — Supermassive Black Hole](https://www.last.fm/music/Muse/_/Supermassive+Black+Hole)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
