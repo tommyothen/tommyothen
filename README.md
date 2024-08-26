@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [manrryx — Out of The Fire &lpar;Type O Negative&rpar;](https://www.last.fm/music/manrryx/_/Out+of+The+Fire+&lpar;Type+O+Negative&rpar;)
+* [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
 * [Rammstein — Du hast](https://www.last.fm/music/Rammstein/_/Du+hast)
 * [Toehider — Smash It Out](https://www.last.fm/music/Toehider/_/Smash+It+Out)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [Nekrogoblikon — Powercore](https://www.last.fm/music/Nekrogoblikon/_/Powercore)
-* [Felix Martin — Zumba Que Zumba](https://www.last.fm/music/Felix+Martin/_/Zumba+Que+Zumba)<!-- LASTFM:END -->
+* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
