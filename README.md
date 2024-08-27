@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
+* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
 * [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
 * [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
-* [Mac Miller — Hands](https://www.last.fm/music/Mac+Miller/_/Hands)
-* [Colliding With Mars — the cutest girl in hell](https://www.last.fm/music/Colliding+With+Mars/_/the+cutest+girl+in+hell)
-* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)<!-- LASTFM:END -->
+* [Mac Miller — Hands](https://www.last.fm/music/Mac+Miller/_/Hands)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
