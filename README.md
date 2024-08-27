@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Player of Games](https://www.last.fm/music/Grimes/_/Player+of+Games)
+* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
 * [Pharrell Williams — Double Life - From &quot;Despicable Me 4&quot;](https://www.last.fm/music/Pharrell+Williams/_/Double+Life+-+From+%22Despicable+Me+4%22)
 * [Käärijä — TRAFIK!](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/TRAFIK!)
-* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)
-* [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)
-* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)<!-- LASTFM:END -->
+* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
