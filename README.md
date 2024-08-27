@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
 * [YUNG BAE — YEBISU - Yung Bae Edit](https://www.last.fm/music/YUNG+BAE/_/YEBISU+-+Yung+Bae+Edit)
 * [Lovemark — You Ruined My Village and Broke My Heart](https://www.last.fm/music/Lovemark/_/You+Ruined+My+Village+and+Broke+My+Heart)
 * [Quadeca — Ego Death](https://www.last.fm/music/Quadeca/_/Ego+Death)
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [Ravenna Golden — Contest](https://www.last.fm/music/Ravenna+Golden/_/Contest)<!-- LASTFM:END -->
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
