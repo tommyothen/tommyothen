@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
+* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
 * [Mac Miller — Hands](https://www.last.fm/music/Mac+Miller/_/Hands)
 * [Colliding With Mars — the cutest girl in hell](https://www.last.fm/music/Colliding+With+Mars/_/the+cutest+girl+in+hell)
-* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)
-* [Pendulum — Self vs Self &lpar;feat. In Flames&rpar;](https://www.last.fm/music/Pendulum/_/Self+vs+Self+&lpar;feat.+In+Flames&rpar;)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)<!-- LASTFM:END -->
+* [Chloe Moriondo — GIRL ON TV](https://www.last.fm/music/Chloe+Moriondo/_/GIRL+ON+TV)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
