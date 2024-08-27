@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
+* [Ravenna Golden — Contest](https://www.last.fm/music/Ravenna+Golden/_/Contest)
+* [KIDS SEE GHOSTS — 4th Dimension](https://www.last.fm/music/KIDS+SEE+GHOSTS/_/4th+Dimension)
 * [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
-* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
-* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
-* [Hozho — Honey Trap](https://www.last.fm/music/Hozho/_/Honey+Trap)
-* [Mac Miller — Hands](https://www.last.fm/music/Mac+Miller/_/Hands)<!-- LASTFM:END -->
+* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
