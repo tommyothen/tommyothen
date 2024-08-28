@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
+* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
 * [Clairo — Flaming Hot Cheetos](https://www.last.fm/music/Clairo/_/Flaming+Hot+Cheetos)
-* [quinnie — touch tank](https://www.last.fm/music/quinnie/_/touch+tank)
-* [LE SSERAFIM — EASY](https://www.last.fm/music/LE+SSERAFIM/_/EASY)
-* [Joji — Gimme Love](https://www.last.fm/music/Joji/_/Gimme+Love)<!-- LASTFM:END -->
+* [quinnie — touch tank](https://www.last.fm/music/quinnie/_/touch+tank)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
