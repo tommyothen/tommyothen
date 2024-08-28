@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [girl in red — You Need Me Now? &lpar;feat. Sabrina Carpenter&rpar;](https://www.last.fm/music/girl+in+red/_/You+Need+Me+Now%3F+&lpar;feat.+Sabrina+Carpenter&rpar;)
+* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)
 * [Clairo — 4EVER](https://www.last.fm/music/Clairo/_/4EVER)
 * [Between Friends — affection](https://www.last.fm/music/Between+Friends/_/affection)
-* [Clairo — Bags](https://www.last.fm/music/Clairo/_/Bags)
-* [Kali Uchis — Dead to Me](https://www.last.fm/music/Kali+Uchis/_/Dead+to+Me)
-* [beabadoobee — A Night To Remember](https://www.last.fm/music/beabadoobee/_/A+Night+To+Remember)<!-- LASTFM:END -->
+* [Clairo — Bags](https://www.last.fm/music/Clairo/_/Bags)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
