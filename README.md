@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
 * [Childish Gambino — Heartbeat](https://www.last.fm/music/Childish+Gambino/_/Heartbeat)
 * [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
 * [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Clairo — Flaming Hot Cheetos](https://www.last.fm/music/Clairo/_/Flaming+Hot+Cheetos)<!-- LASTFM:END -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
