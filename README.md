@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Gimme Love](https://www.last.fm/music/Joji/_/Gimme+Love)
+* [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
+* [mxmtoon — prom dress](https://www.last.fm/music/mxmtoon/_/prom+dress)
 * [Cafuné — Tek It](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It)
-* [Ariana Grande — bloodline](https://www.last.fm/music/Ariana+Grande/_/bloodline)
-* [Good Kid — from the start](https://www.last.fm/music/Good+Kid/_/from+the+start)
-* [girl in red — You Need Me Now? &lpar;feat. Sabrina Carpenter&rpar;](https://www.last.fm/music/girl+in+red/_/You+Need+Me+Now%3F+&lpar;feat.+Sabrina+Carpenter&rpar;)
-* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)<!-- LASTFM:END -->
+* [Ariana Grande — bloodline](https://www.last.fm/music/Ariana+Grande/_/bloodline)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
