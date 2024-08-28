@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Laufey — From the Start](https://www.last.fm/music/Laufey/_/From+the+Start)
+* [FEDUK — Fresh!](https://www.last.fm/music/FEDUK/_/Fresh!)
 * [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
 * [Lofi.Samurai — already dead](https://www.last.fm/music/Lofi.Samurai/_/already+dead)
-* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
-* [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
-* [gianni &amp; kyle — fuckboi](https://www.last.fm/music/gianni+&amp;+kyle/_/fuckboi)<!-- LASTFM:END -->
+* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
