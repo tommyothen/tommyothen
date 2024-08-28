@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cafuné — Tek It](https://www.last.fm/music/Cafun%C3%A9/_/Tek+It)
+* [Ariana Grande — bloodline](https://www.last.fm/music/Ariana+Grande/_/bloodline)
+* [Good Kid — from the start](https://www.last.fm/music/Good+Kid/_/from+the+start)
 * [girl in red — You Need Me Now? &lpar;feat. Sabrina Carpenter&rpar;](https://www.last.fm/music/girl+in+red/_/You+Need+Me+Now%3F+&lpar;feat.+Sabrina+Carpenter&rpar;)
-* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)
-* [Clairo — 4EVER](https://www.last.fm/music/Clairo/_/4EVER)
-* [Between Friends — affection](https://www.last.fm/music/Between+Friends/_/affection)
-* [Clairo — Bags](https://www.last.fm/music/Clairo/_/Bags)<!-- LASTFM:END -->
+* [Limbo — airplane mode](https://www.last.fm/music/Limbo/_/airplane+mode)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
