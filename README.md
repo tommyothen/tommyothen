@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
+* [Lofi.Samurai — already dead](https://www.last.fm/music/Lofi.Samurai/_/already+dead)
+* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)
 * [chrosky — Paperlove](https://www.last.fm/music/chrosky/_/Paperlove)
-* [gianni &amp; kyle — fuckboi](https://www.last.fm/music/gianni+&amp;+kyle/_/fuckboi)
-* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
-* [23.exe — ochatime](https://www.last.fm/music/23.exe/_/ochatime)
-* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)<!-- LASTFM:END -->
+* [gianni &amp; kyle — fuckboi](https://www.last.fm/music/gianni+&amp;+kyle/_/fuckboi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
