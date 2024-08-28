@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — A Night To Remember](https://www.last.fm/music/beabadoobee/_/A+Night+To+Remember)
+* [Clairo — Sofia](https://www.last.fm/music/Clairo/_/Sofia)
+* [Melanie Martinez — EVIL](https://www.last.fm/music/Melanie+Martinez/_/EVIL)
 * [Laufey — From the Start](https://www.last.fm/music/Laufey/_/From+the+Start)
-* [FEDUK — Fresh!](https://www.last.fm/music/FEDUK/_/Fresh!)
-* [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
-* [Lofi.Samurai — already dead](https://www.last.fm/music/Lofi.Samurai/_/already+dead)
-* [Gold Revere — Memories](https://www.last.fm/music/Gold+Revere/_/Memories)<!-- LASTFM:END -->
+* [FEDUK — Fresh!](https://www.last.fm/music/FEDUK/_/Fresh!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
