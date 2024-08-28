@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Clairo — Bags](https://www.last.fm/music/Clairo/_/Bags)
+* [Kali Uchis — Dead to Me](https://www.last.fm/music/Kali+Uchis/_/Dead+to+Me)
 * [beabadoobee — A Night To Remember](https://www.last.fm/music/beabadoobee/_/A+Night+To+Remember)
 * [Clairo — Sofia](https://www.last.fm/music/Clairo/_/Sofia)
-* [Melanie Martinez — EVIL](https://www.last.fm/music/Melanie+Martinez/_/EVIL)
-* [Laufey — From the Start](https://www.last.fm/music/Laufey/_/From+the+Start)
-* [FEDUK — Fresh!](https://www.last.fm/music/FEDUK/_/Fresh!)<!-- LASTFM:END -->
+* [Melanie Martinez — EVIL](https://www.last.fm/music/Melanie+Martinez/_/EVIL)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
