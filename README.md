@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Deli — Flowers](https://www.last.fm/music/The+Deli/_/Flowers)
+* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
 * [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)
 * [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
-* [Childish Gambino — Heartbeat](https://www.last.fm/music/Childish+Gambino/_/Heartbeat)
-* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
-* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)<!-- LASTFM:END -->
+* [Childish Gambino — Heartbeat](https://www.last.fm/music/Childish+Gambino/_/Heartbeat)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
