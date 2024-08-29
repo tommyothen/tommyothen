@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)
+* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
 * [D-Real [愛] — Zero Two](https://www.last.fm/music/D-Real+%5B%E6%84%9B%5D/_/Zero+Two)
-* [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)<!-- LASTFM:END -->
+* [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
