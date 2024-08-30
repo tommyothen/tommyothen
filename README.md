@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — infinity &lpar;888&rpar; - feat. Joey Bada$](https://www.last.fm/music/XXXTENTACION/_/infinity+&lpar;888&rpar;+-+feat.+Joey+Bada$)
+* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
+* [Hobo Johnson — Uglykid &lpar;feat. Elohim&rpar;](https://www.last.fm/music/Hobo+Johnson/_/Uglykid+&lpar;feat.+Elohim&rpar;)
 * [Billy Marchiafava — With Ease](https://www.last.fm/music/Billy+Marchiafava/_/With+Ease)
-* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)
-* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
-* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
-* [Ashnikko — Cry &lpar;feat. Grimes&rpar;](https://www.last.fm/music/Ashnikko/_/Cry+&lpar;feat.+Grimes&rpar;)<!-- LASTFM:END -->
+* [gate 문 — Out of My Mood](https://www.last.fm/music/gate+%EB%AC%B8/_/Out+of+My+Mood)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
