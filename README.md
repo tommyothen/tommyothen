@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)
+* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)
+* [Taylor Swift — So Long, London](https://www.last.fm/music/Taylor+Swift/_/So+Long,+London)
 * [Doja Cat — Candy](https://www.last.fm/music/Doja+Cat/_/Candy)
-* [Matt Champion — Slow Motion](https://www.last.fm/music/Matt+Champion/_/Slow+Motion)
-* [Kiss of Life — Midas Touch](https://www.last.fm/music/Kiss+of+Life/_/Midas+Touch)
-* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
-* [Billie Eilish — LUNCH](https://www.last.fm/music/Billie+Eilish/_/LUNCH)<!-- LASTFM:END -->
+* [Matt Champion — Slow Motion](https://www.last.fm/music/Matt+Champion/_/Slow+Motion)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
