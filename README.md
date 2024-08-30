@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ricky Montgomery — Line Without a Hook &lpar;feat. mxmtoon&rpar;](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+&lpar;feat.+mxmtoon&rpar;)
+* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)
+* [Billie Eilish — when the party&#39;s over](https://www.last.fm/music/Billie+Eilish/_/when+the+party%27s+over)
 * [Zeph — are you?](https://www.last.fm/music/Zeph/_/are+you%3F)
-* [88rising — History](https://www.last.fm/music/88rising/_/History)
-* [Rich Brian — Seventeen](https://www.last.fm/music/Rich+Brian/_/Seventeen)
-* [Dumbfoundead — WASHED &lpar;PROD. BY SHAWN WASABI&rpar;](https://www.last.fm/music/Dumbfoundead/_/WASHED+&lpar;PROD.+BY+SHAWN+WASABI&rpar;)
-* [Antoha MC — Сладкий чай &lpar;Aslamin Remix&rpar;](https://www.last.fm/music/Antoha+MC/_/%D0%A1%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B9+%D1%87%D0%B0%D0%B9+&lpar;Aslamin+Remix&rpar;)<!-- LASTFM:END -->
+* [88rising — History](https://www.last.fm/music/88rising/_/History)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
