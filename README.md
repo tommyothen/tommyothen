@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)
+* [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
 * [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
 * [Rich Brian — Kids](https://www.last.fm/music/Rich+Brian/_/Kids)
-* [XXXTENTACION — infinity &lpar;888&rpar; - feat. Joey Bada$](https://www.last.fm/music/XXXTENTACION/_/infinity+&lpar;888&rpar;+-+feat.+Joey+Bada$)
-* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
-* [Hobo Johnson — Uglykid &lpar;feat. Elohim&rpar;](https://www.last.fm/music/Hobo+Johnson/_/Uglykid+&lpar;feat.+Elohim&rpar;)<!-- LASTFM:END -->
+* [XXXTENTACION — infinity &lpar;888&rpar; - feat. Joey Bada$](https://www.last.fm/music/XXXTENTACION/_/infinity+&lpar;888&rpar;+-+feat.+Joey+Bada$)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
