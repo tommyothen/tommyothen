@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
 * [Poppy — Church Outfit](https://www.last.fm/music/Poppy/_/Church+Outfit)
 * [Poppy — Play Destroy](https://www.last.fm/music/Poppy/_/Play+Destroy)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Poppy — Lowlife](https://www.last.fm/music/Poppy/_/Lowlife)
-* [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)<!-- LASTFM:END -->
+* [Poppy — Lowlife](https://www.last.fm/music/Poppy/_/Lowlife)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
