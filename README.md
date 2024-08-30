@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [PhaseOne — Digital](https://www.last.fm/music/PhaseOne/_/Digital)
+* [Walking Across Jupiter — Action-Reaction](https://www.last.fm/music/Walking+Across+Jupiter/_/Action-Reaction)
+* [Olly Steele — Open](https://www.last.fm/music/Olly+Steele/_/Open)
 * [Periphery — Psychosphere](https://www.last.fm/music/Periphery/_/Psychosphere)
-* [Periphery — Four Lights](https://www.last.fm/music/Periphery/_/Four+Lights)
-* [Periphery — Rainbow Gravity](https://www.last.fm/music/Periphery/_/Rainbow+Gravity)
-* [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)
-* [Periphery — 22 Faces](https://www.last.fm/music/Periphery/_/22+Faces)<!-- LASTFM:END -->
+* [Periphery — Four Lights](https://www.last.fm/music/Periphery/_/Four+Lights)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
