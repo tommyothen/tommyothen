@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Antoha MC — время ток](https://www.last.fm/music/Antoha+MC/_/%D0%B2%D1%80%D0%B5%D0%BC%D1%8F+%D1%82%D0%BE%D0%BA)
+* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
+* [VivaOla — Vise le haut](https://www.last.fm/music/VivaOla/_/Vise+le+haut)
 * [Catnapp — The Mover](https://www.last.fm/music/Catnapp/_/The+Mover)
-* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)
-* [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [Yung Gravy — Early Afternoon Stroll](https://www.last.fm/music/Yung+Gravy/_/Early+Afternoon+Stroll)
-* [Internet Girl — dumb party](https://www.last.fm/music/Internet+Girl/_/dumb+party)<!-- LASTFM:END -->
+* [BLACKPINK — Kill This Love](https://www.last.fm/music/BLACKPINK/_/Kill+This+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
