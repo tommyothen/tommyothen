@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
 * [Bali Baby — Electrical](https://www.last.fm/music/Bali+Baby/_/Electrical)
 * [TERROR REID — DEAD TO ME](https://www.last.fm/music/TERROR+REID/_/DEAD+TO+ME)
 * [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
-* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)
-* [Billie Eilish — my strange addiction](https://www.last.fm/music/Billie+Eilish/_/my+strange+addiction)<!-- LASTFM:END -->
+* [mt. fujitive — home](https://www.last.fm/music/mt.+fujitive/_/home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
