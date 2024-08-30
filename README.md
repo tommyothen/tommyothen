@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rainych — Yoru ni Kakeru](https://www.last.fm/music/Rainych/_/Yoru+ni+Kakeru)
+* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
 * [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
 * [Kaivon — Reborn](https://www.last.fm/music/Kaivon/_/Reborn)
-* [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)
-* [Ricky Montgomery — Line Without a Hook &lpar;feat. mxmtoon&rpar;](https://www.last.fm/music/Ricky+Montgomery/_/Line+Without+a+Hook+&lpar;feat.+mxmtoon&rpar;)
-* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)<!-- LASTFM:END -->
+* [TWICE — HELL IN HEAVEN](https://www.last.fm/music/TWICE/_/HELL+IN+HEAVEN)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
