@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billie Eilish — LUNCH](https://www.last.fm/music/Billie+Eilish/_/LUNCH)
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
 * [Chappell Roan — Casual](https://www.last.fm/music/Chappell+Roan/_/Casual)
 * [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
-* [Shy Smith — Soaked](https://www.last.fm/music/Shy+Smith/_/Soaked)
-* [Ariana Grande — everytime](https://www.last.fm/music/Ariana+Grande/_/everytime)
-* [Ariana Grande — the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine)<!-- LASTFM:END -->
+* [Shy Smith — Soaked](https://www.last.fm/music/Shy+Smith/_/Soaked)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
