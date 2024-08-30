@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kobaryo — Invisible Frenzy](https://www.last.fm/music/Kobaryo/_/Invisible+Frenzy)
+* [Jackson Wang — 100 Ways](https://www.last.fm/music/Jackson+Wang/_/100+Ways)
 * [BENEE — Supalonely](https://www.last.fm/music/BENEE/_/Supalonely)
 * [Otira — Play Back](https://www.last.fm/music/Otira/_/Play+Back)
-* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
-* [Rich Brian — Kids](https://www.last.fm/music/Rich+Brian/_/Kids)
-* [XXXTENTACION — infinity &lpar;888&rpar; - feat. Joey Bada$](https://www.last.fm/music/XXXTENTACION/_/infinity+&lpar;888&rpar;+-+feat.+Joey+Bada$)<!-- LASTFM:END -->
+* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
