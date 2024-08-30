@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
+* [Ashnikko — Cry &lpar;feat. Grimes&rpar;](https://www.last.fm/music/Ashnikko/_/Cry+&lpar;feat.+Grimes&rpar;)
+* [bbno$ — coasting](https://www.last.fm/music/bbno$/_/coasting)
 * [Terror Jr — Too Soon](https://www.last.fm/music/Terror+Jr/_/Too+Soon)
-* [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)
-* [IC3PEAK — VAMPIR &lpar;feat. Oli Sykes of Bring Me The Horizon&rpar;](https://www.last.fm/music/IC3PEAK/_/VAMPIR+&lpar;feat.+Oli+Sykes+of+Bring+Me+The+Horizon&rpar;)
-* [Taylor Swift — So Long, London](https://www.last.fm/music/Taylor+Swift/_/So+Long,+London)
-* [Doja Cat — Candy](https://www.last.fm/music/Doja+Cat/_/Candy)<!-- LASTFM:END -->
+* [Kxllswxtch — PUBLIC ENEMY](https://www.last.fm/music/Kxllswxtch/_/PUBLIC+ENEMY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
