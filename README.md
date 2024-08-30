@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Matt Champion — Slow Motion](https://www.last.fm/music/Matt+Champion/_/Slow+Motion)
+* [Kiss of Life — Midas Touch](https://www.last.fm/music/Kiss+of+Life/_/Midas+Touch)
+* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
 * [Billie Eilish — LUNCH](https://www.last.fm/music/Billie+Eilish/_/LUNCH)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [Chappell Roan — Casual](https://www.last.fm/music/Chappell+Roan/_/Casual)
-* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
-* [Shy Smith — Soaked](https://www.last.fm/music/Shy+Smith/_/Soaked)<!-- LASTFM:END -->
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
