@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Shy Smith — Soaked](https://www.last.fm/music/Shy+Smith/_/Soaked)
+* [Ariana Grande — everytime](https://www.last.fm/music/Ariana+Grande/_/everytime)
 * [Ariana Grande — the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine)
 * [Good Tiger — Snake Oil](https://www.last.fm/music/Good+Tiger/_/Snake+Oil)
-* [PhaseOne — Digital](https://www.last.fm/music/PhaseOne/_/Digital)
-* [Walking Across Jupiter — Action-Reaction](https://www.last.fm/music/Walking+Across+Jupiter/_/Action-Reaction)
-* [Olly Steele — Open](https://www.last.fm/music/Olly+Steele/_/Open)<!-- LASTFM:END -->
+* [PhaseOne — Digital](https://www.last.fm/music/PhaseOne/_/Digital)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
