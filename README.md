@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Yung Bambi — craving](https://www.last.fm/music/Yung+Bambi/_/craving)
-* [MASN — Val!um](https://www.last.fm/music/MASN/_/Val!um)
-* [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)
-* [FEDUK — Скит](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%BA%D0%B8%D1%82)
-* [Antoha MC — время ток](https://www.last.fm/music/Antoha+MC/_/%D0%B2%D1%80%D0%B5%D0%BC%D1%8F+%D1%82%D0%BE%D0%BA)<!-- LASTFM:END -->
+* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
+* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)
+* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
+* [Ariana Grande — supernatural](https://www.last.fm/music/Ariana+Grande/_/supernatural)
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
