@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
-* [Ariana Grande — the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [Soffie — Für immer Frühling](https://www.last.fm/music/Soffie/_/F%C3%BCr+immer+Fr%C3%BChling)
-* [Ūla — strawberry cheeks](https://www.last.fm/music/%C5%AAla/_/strawberry+cheeks)<!-- LASTFM:END -->
+* [Ariana Grande — true story](https://www.last.fm/music/Ariana+Grande/_/true+story)
+* [Ariana Grande — supernatural](https://www.last.fm/music/Ariana+Grande/_/supernatural)
+* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
+* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
