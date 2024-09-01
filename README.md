@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [UNDEAD CORPORATION DOUJIN WORKS — Everything will freeze -Guitar Instrumental-](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Everything+will+freeze+-Guitar+Instrumental-)
 * [Unlucky Morpheus — Black Pentagram](https://www.last.fm/music/Unlucky+Morpheus/_/Black+Pentagram)
 * [Æther Realm — The Sun, The Moon, The Star](https://www.last.fm/music/%C3%86ther+Realm/_/The+Sun,+The+Moon,+The+Star)
 * [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
-* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)
-* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)<!-- LASTFM:END -->
+* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
