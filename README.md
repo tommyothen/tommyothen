@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Madison Beer — Make You Mine](https://www.last.fm/music/Madison+Beer/_/Make+You+Mine)
+* [Ariana Grande — true story - a cappella](https://www.last.fm/music/Ariana+Grande/_/true+story+-+a+cappella)
 * [Ariana Grande — supernatural](https://www.last.fm/music/Ariana+Grande/_/supernatural)
 * [Doja Cat — MASC &lpar;feat. Teezo Touchdown&rpar;](https://www.last.fm/music/Doja+Cat/_/MASC+&lpar;feat.+Teezo+Touchdown&rpar;)
-* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
-* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
-* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)<!-- LASTFM:END -->
+* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
