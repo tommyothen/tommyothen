@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dua Lipa — End of an Era](https://www.last.fm/music/Dua+Lipa/_/End+of+an+Era)
+* [SZA — Saturn](https://www.last.fm/music/SZA/_/Saturn)
+* [Tyla — Truth or dare](https://www.last.fm/music/Tyla/_/Truth+or+dare)
 * [Tyla — ART](https://www.last.fm/music/Tyla/_/ART)
-* [Tinashe — Nasty](https://www.last.fm/music/Tinashe/_/Nasty)
-* [Madison Beer — Make You Mine](https://www.last.fm/music/Madison+Beer/_/Make+You+Mine)
-* [Ariana Grande — true story - a cappella](https://www.last.fm/music/Ariana+Grande/_/true+story+-+a+cappella)
-* [Ariana Grande — supernatural](https://www.last.fm/music/Ariana+Grande/_/supernatural)<!-- LASTFM:END -->
+* [Tinashe — Nasty](https://www.last.fm/music/Tinashe/_/Nasty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
