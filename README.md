@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Zayn — What I Am](https://www.last.fm/music/Zayn/_/What+I+Am)
+* [Troye Sivan — Honey](https://www.last.fm/music/Troye+Sivan/_/Honey)
+* [Olivia Rodrigo — scared of my guitar](https://www.last.fm/music/Olivia+Rodrigo/_/scared+of+my+guitar)
 * [Camila Cabello — HE KNOWS &lpar;feat. Lil Nas X&rpar;](https://www.last.fm/music/Camila+Cabello/_/HE+KNOWS+&lpar;feat.+Lil+Nas+X&rpar;)
-* [Billie Eilish — L’AMOUR DE MA VIE](https://www.last.fm/music/Billie+Eilish/_/L%E2%80%99AMOUR+DE+MA+VIE)
-* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
-* [Taylor Swift — imgonnagetyouback](https://www.last.fm/music/Taylor+Swift/_/imgonnagetyouback)
-* [Zayn — Alienated](https://www.last.fm/music/Zayn/_/Alienated)<!-- LASTFM:END -->
+* [Billie Eilish — L’AMOUR DE MA VIE](https://www.last.fm/music/Billie+Eilish/_/L%E2%80%99AMOUR+DE+MA+VIE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
