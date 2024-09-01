@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [UNDEAD CORPORATION DOUJIN WORKS — からくれなゐ](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8C%E3%81%AA%E3%82%90)
 * [UNDEAD CORPORATION DOUJIN WORKS — Necrophilia](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Necrophilia)
 * [UNDEAD CORPORATION DOUJIN WORKS — 火車の叫ぶ夜に](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/%E7%81%AB%E8%BB%8A%E3%81%AE%E5%8F%AB%E3%81%B6%E5%A4%9C%E3%81%AB)
 * [UNDEAD CORPORATION DOUJIN WORKS — 常世想兼神](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/%E5%B8%B8%E4%B8%96%E6%83%B3%E5%85%BC%E7%A5%9E)
-* [UNDEAD CORPORATION DOUJIN WORKS — The Empress scream off ver](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/The+Empress+scream+off+ver)
-* [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)<!-- LASTFM:END -->
+* [UNDEAD CORPORATION DOUJIN WORKS — The Empress scream off ver](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/The+Empress+scream+off+ver)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
