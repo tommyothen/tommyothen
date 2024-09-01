@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — imgonnagetyouback](https://www.last.fm/music/Taylor+Swift/_/imgonnagetyouback)
 * [Zayn — Alienated](https://www.last.fm/music/Zayn/_/Alienated)
 * [Taylor Swift — Guilty as Sin?](https://www.last.fm/music/Taylor+Swift/_/Guilty+as+Sin%3F)
 * [Reneé Rapp — Not My Fault &lpar;with Megan Thee Stallion&rpar;](https://www.last.fm/music/Rene%C3%A9+Rapp/_/Not+My+Fault+&lpar;with+Megan+Thee+Stallion&rpar;)
-* [Leigh-Anne — Stealin&#39; Love](https://www.last.fm/music/Leigh-Anne/_/Stealin%27+Love)
-* [Reneé Rapp — Tummy Hurts](https://www.last.fm/music/Rene%C3%A9+Rapp/_/Tummy+Hurts)<!-- LASTFM:END -->
+* [Leigh-Anne — Stealin&#39; Love](https://www.last.fm/music/Leigh-Anne/_/Stealin%27+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
