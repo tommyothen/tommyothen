@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Taylor Swift — Guilty as Sin?](https://www.last.fm/music/Taylor+Swift/_/Guilty+as+Sin%3F)
+* [Reneé Rapp — Not My Fault &lpar;with Megan Thee Stallion&rpar;](https://www.last.fm/music/Rene%C3%A9+Rapp/_/Not+My+Fault+&lpar;with+Megan+Thee+Stallion&rpar;)
 * [Leigh-Anne — Stealin&#39; Love](https://www.last.fm/music/Leigh-Anne/_/Stealin%27+Love)
 * [Reneé Rapp — Tummy Hurts](https://www.last.fm/music/Rene%C3%A9+Rapp/_/Tummy+Hurts)
-* [Billie Eilish — SKINNY](https://www.last.fm/music/Billie+Eilish/_/SKINNY)
-* [Dua Lipa — End of an Era](https://www.last.fm/music/Dua+Lipa/_/End+of+an+Era)
-* [SZA — Saturn](https://www.last.fm/music/SZA/_/Saturn)<!-- LASTFM:END -->
+* [Billie Eilish — SKINNY](https://www.last.fm/music/Billie+Eilish/_/SKINNY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
