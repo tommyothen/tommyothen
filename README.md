@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
+* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
 * [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)
 * [PinkPantheress — Pain](https://www.last.fm/music/PinkPantheress/_/Pain)
-* [Frédéric Chopin — Chopin: 12 Études, Op. 25: No. 11 in A Minor &quot;Winter Wind&quot;](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Chopin:+12+%C3%89tudes,+Op.+25:+No.+11+in+A+Minor+%22Winter+Wind%22)
-* [Camille Saint-Saëns — Introduction and Rondo capriccioso in A Minor, Op. 28](https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Introduction+and+Rondo+capriccioso+in+A+Minor,+Op.+28)
-* [UNDEAD CORPORATION DOUJIN WORKS — からくれなゐ](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8C%E3%81%AA%E3%82%90)<!-- LASTFM:END -->
+* [Frédéric Chopin — Chopin: 12 Études, Op. 25: No. 11 in A Minor &quot;Winter Wind&quot;](https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Chopin:+12+%C3%89tudes,+Op.+25:+No.+11+in+A+Minor+%22Winter+Wind%22)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
