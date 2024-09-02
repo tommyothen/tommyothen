@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)
+* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
 * [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)
 * [Ariana Grande — imperfect for you](https://www.last.fm/music/Ariana+Grande/_/imperfect+for+you)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
-* [Colliding With Mars — the cutest girl in hell](https://www.last.fm/music/Colliding+With+Mars/_/the+cutest+girl+in+hell)<!-- LASTFM:END -->
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
