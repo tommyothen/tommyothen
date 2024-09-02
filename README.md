@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)
+* [Surfaces — Sunday Best](https://www.last.fm/music/Surfaces/_/Sunday+Best)
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [Charli XCX — 360](https://www.last.fm/music/Charli+XCX/_/360)
-* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)<!-- LASTFM:END -->
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
