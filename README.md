@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Strawberry Girls — First Kiss](https://www.last.fm/music/Strawberry+Girls/_/First+Kiss)
+* [Paledusk — BBB](https://www.last.fm/music/Paledusk/_/BBB)
 * [Rosa Walton — I REALLY WANT TO STAY AT YOUR HOUSE](https://www.last.fm/music/Rosa+Walton/_/I+REALLY+WANT+TO+STAY+AT+YOUR+HOUSE)
 * [Polyphia — ABC &lpar;feat. Sophia Black&rpar;](https://www.last.fm/music/Polyphia/_/ABC+&lpar;feat.+Sophia+Black&rpar;)
-* [Desired — Wake Up](https://www.last.fm/music/Desired/_/Wake+Up)
-* [DJ-JO — Deal with the Devil - Extended](https://www.last.fm/music/DJ-JO/_/Deal+with+the+Devil+-+Extended)
-* [Surfaces — Sunday Best](https://www.last.fm/music/Surfaces/_/Sunday+Best)<!-- LASTFM:END -->
+* [Desired — Wake Up](https://www.last.fm/music/Desired/_/Wake+Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
