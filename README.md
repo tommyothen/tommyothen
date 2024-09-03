@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [nohidea — the locket](https://www.last.fm/music/nohidea/_/the+locket)
-* [Chuck Sutton — Chess Bling](https://www.last.fm/music/Chuck+Sutton/_/Chess+Bling)
-* [Rav — You Fuckers Were Asking for This One - Boin Edit](https://www.last.fm/music/Rav/_/You+Fuckers+Were+Asking+for+This+One+-+Boin+Edit)
-* [ONI INC. — Plague](https://www.last.fm/music/ONI+INC./_/Plague)
-* [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)<!-- LASTFM:END -->
+* [Freddie Dredd — Evil fantasy](https://www.last.fm/music/Freddie+Dredd/_/Evil+fantasy)
+* [Aries — BLOSSOM](https://www.last.fm/music/Aries/_/BLOSSOM)
+* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
+* [Aries — BAD NEWS](https://www.last.fm/music/Aries/_/BAD+NEWS)
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
