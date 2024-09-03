@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)
-* [Joost — Europapa](https://www.last.fm/music/Joost/_/Europapa)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)<!-- LASTFM:END -->
+* [Acidgvrl — breakcore is dumb](https://www.last.fm/music/Acidgvrl/_/breakcore+is+dumb)
+* [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
+* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
+* [Acidgvrl — Im Just Like You !!](https://www.last.fm/music/Acidgvrl/_/Im+Just+Like+You+!!)
+* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
