@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gojira — The Heaviest Matter of the Universe](https://www.last.fm/music/Gojira/_/The+Heaviest+Matter+of+the+Universe)
+* [Opeth — Ghost of Perdition](https://www.last.fm/music/Opeth/_/Ghost+of+Perdition)
 * [Fleshgod Apocalypse — The Fool](https://www.last.fm/music/Fleshgod+Apocalypse/_/The+Fool)
-* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)<!-- LASTFM:END -->
+* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)
+* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
