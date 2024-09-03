@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [23.exe — ochatime](https://www.last.fm/music/23.exe/_/ochatime)
 * [Eden — lost//found](https://www.last.fm/music/Eden/_/lost%2F%2Ffound)
 * [Underscores — moniker](https://www.last.fm/music/Underscores/_/moniker)
 * [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)
-* [potsu — Be](https://www.last.fm/music/potsu/_/Be)
-* [Joji — Pretty Boy &lpar;feat. Lil Yachty&rpar;](https://www.last.fm/music/Joji/_/Pretty+Boy+&lpar;feat.+Lil+Yachty&rpar;)<!-- LASTFM:END -->
+* [potsu — Be](https://www.last.fm/music/potsu/_/Be)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
