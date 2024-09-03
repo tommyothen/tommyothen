@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)
+* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
 * [kets4eki — party addict](https://www.last.fm/music/kets4eki/_/party+addict)
 * [TWICE — BETTER](https://www.last.fm/music/TWICE/_/BETTER)
-* [Hobo Johnson — Father](https://www.last.fm/music/Hobo+Johnson/_/Father)
-* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
-* [Varien — Can You Feel My Heart](https://www.last.fm/music/Varien/_/Can+You+Feel+My+Heart)<!-- LASTFM:END -->
+* [Hobo Johnson — Father](https://www.last.fm/music/Hobo+Johnson/_/Father)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
