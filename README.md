@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Acidgvrl — breakcore vaporwave](https://www.last.fm/music/Acidgvrl/_/breakcore+vaporwave)
-* [Acidgvrl — sped up breakcore for the alt](https://www.last.fm/music/Acidgvrl/_/sped+up+breakcore+for+the+alt)
-* [Acidgvrl — breakcore to get my senpai to notice me](https://www.last.fm/music/Acidgvrl/_/breakcore+to+get+my+senpai+to+notice+me)
-* [Acidgvrl — the saddest people cum the hardest](https://www.last.fm/music/Acidgvrl/_/the+saddest+people+cum+the+hardest)
-* [Acidgvrl — breakcore is dumb](https://www.last.fm/music/Acidgvrl/_/breakcore+is+dumb)<!-- LASTFM:END -->
+* [Acidgvrl — Im Just Like You !!](https://www.last.fm/music/Acidgvrl/_/Im+Just+Like+You+!!)
+* [Acidgvrl — IM SIPPIN TEA IN YO BREAKCORE HOOD](https://www.last.fm/music/Acidgvrl/_/IM+SIPPIN+TEA+IN+YO+BREAKCORE+HOOD)
+* [Acidgvrl — breakcore for the mood](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+mood)
+* [Acidgvrl — raging breakcore](https://www.last.fm/music/Acidgvrl/_/raging+breakcore)
+* [Acidgvrl — breakcore vaporwave](https://www.last.fm/music/Acidgvrl/_/breakcore+vaporwave)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
