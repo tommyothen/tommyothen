@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — 777](https://www.last.fm/music/Joji/_/777)
+* [Kill Bill: The Rapper — Inside the Cockpit of the EVA](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Inside+the+Cockpit+of+the+EVA)
 * [Rav — Lovedrug &lpar;Off That&rpar;](https://www.last.fm/music/Rav/_/Lovedrug+&lpar;Off+That&rpar;)
 * [Joji — Tick Tock](https://www.last.fm/music/Joji/_/Tick+Tock)
-* [Jakey — Not Dead Yet](https://www.last.fm/music/Jakey/_/Not+Dead+Yet)
-* [Atwood — Frosty](https://www.last.fm/music/Atwood/_/Frosty)
-* [Rich Brian — Introvert &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Introvert+&lpar;feat.+Joji&rpar;)<!-- LASTFM:END -->
+* [Jakey — Not Dead Yet](https://www.last.fm/music/Jakey/_/Not+Dead+Yet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
