@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Underscores — moniker](https://www.last.fm/music/Underscores/_/moniker)
+* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)
 * [potsu — Be](https://www.last.fm/music/potsu/_/Be)
 * [Joji — Pretty Boy &lpar;feat. Lil Yachty&rpar;](https://www.last.fm/music/Joji/_/Pretty+Boy+&lpar;feat.+Lil+Yachty&rpar;)
-* [Kill Bill: The Rapper — About Last Night...](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/About+Last+Night...)
-* [Cemetery Drive — Slowly](https://www.last.fm/music/Cemetery+Drive/_/Slowly)
-* [Joji — CAN&#39;T GET OVER YOU &lpar;feat. Clams Casino&rpar;](https://www.last.fm/music/Joji/_/CAN%27T+GET+OVER+YOU+&lpar;feat.+Clams+Casino&rpar;)<!-- LASTFM:END -->
+* [Kill Bill: The Rapper — About Last Night...](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/About+Last+Night...)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
