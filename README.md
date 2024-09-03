@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)
+* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
 * [Igorrr — Polyphonic Rust](https://www.last.fm/music/Igorrr/_/Polyphonic+Rust)
 * [Gojira — The Heaviest Matter of the Universe](https://www.last.fm/music/Gojira/_/The+Heaviest+Matter+of+the+Universe)
-* [Opeth — Ghost of Perdition](https://www.last.fm/music/Opeth/_/Ghost+of+Perdition)
-* [Fleshgod Apocalypse — The Fool](https://www.last.fm/music/Fleshgod+Apocalypse/_/The+Fool)
-* [Rammstein — DEUTSCHLAND](https://www.last.fm/music/Rammstein/_/DEUTSCHLAND)<!-- LASTFM:END -->
+* [Opeth — Ghost of Perdition](https://www.last.fm/music/Opeth/_/Ghost+of+Perdition)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
