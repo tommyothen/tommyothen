@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [William Black — Here At Last](https://www.last.fm/music/William+Black/_/Here+At+Last)
+* [demxntia — why do i try](https://www.last.fm/music/demxntia/_/why+do+i+try)
 * [Forrest. — Your Soul](https://www.last.fm/music/Forrest./_/Your+Soul)
 * [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
-* [DPR IAN — Don&#39;t Go Insane](https://www.last.fm/music/DPR+IAN/_/Don%27t+Go+Insane)
-* [Kaivon — Reborn](https://www.last.fm/music/Kaivon/_/Reborn)
-* [Hard Life — nightmares](https://www.last.fm/music/Hard+Life/_/nightmares)<!-- LASTFM:END -->
+* [DPR IAN — Don&#39;t Go Insane](https://www.last.fm/music/DPR+IAN/_/Don%27t+Go+Insane)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
