@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Scuare — These Words &lpar;Again&rpar;](https://www.last.fm/music/Scuare/_/These+Words+&lpar;Again&rpar;)
+* [Kill Bill: The Rapper — Dream Eater](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Dream+Eater)
+* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)
 * [Freddie Dredd — Evil fantasy](https://www.last.fm/music/Freddie+Dredd/_/Evil+fantasy)
-* [Aries — BLOSSOM](https://www.last.fm/music/Aries/_/BLOSSOM)
-* [bbno$ — help herself](https://www.last.fm/music/bbno$/_/help+herself)
-* [Aries — BAD NEWS](https://www.last.fm/music/Aries/_/BAD+NEWS)
-* [Joji — Window](https://www.last.fm/music/Joji/_/Window)<!-- LASTFM:END -->
+* [Aries — BLOSSOM](https://www.last.fm/music/Aries/_/BLOSSOM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
