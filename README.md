@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ONI INC. — Plague](https://www.last.fm/music/ONI+INC./_/Plague)
 * [Flawless Soundz — Trumpets](https://www.last.fm/music/Flawless+Soundz/_/Trumpets)
 * [HEALTH — POWER FANTASY](https://www.last.fm/music/HEALTH/_/POWER+FANTASY)
 * [William Black — Here At Last](https://www.last.fm/music/William+Black/_/Here+At+Last)
-* [demxntia — why do i try](https://www.last.fm/music/demxntia/_/why+do+i+try)
-* [Forrest. — Your Soul](https://www.last.fm/music/Forrest./_/Your+Soul)<!-- LASTFM:END -->
+* [demxntia — why do i try](https://www.last.fm/music/demxntia/_/why+do+i+try)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
