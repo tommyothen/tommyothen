@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Acidgvrl — breakcore is dumb](https://www.last.fm/music/Acidgvrl/_/breakcore+is+dumb)
-* [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
-* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
-* [Acidgvrl — Im Just Like You !!](https://www.last.fm/music/Acidgvrl/_/Im+Just+Like+You+!!)
-* [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)<!-- LASTFM:END -->
+* [Acidgvrl — breakcore vaporwave](https://www.last.fm/music/Acidgvrl/_/breakcore+vaporwave)
+* [Acidgvrl — sped up breakcore for the alt](https://www.last.fm/music/Acidgvrl/_/sped+up+breakcore+for+the+alt)
+* [Acidgvrl — breakcore to get my senpai to notice me](https://www.last.fm/music/Acidgvrl/_/breakcore+to+get+my+senpai+to+notice+me)
+* [Acidgvrl — the saddest people cum the hardest](https://www.last.fm/music/Acidgvrl/_/the+saddest+people+cum+the+hardest)
+* [Acidgvrl — breakcore is dumb](https://www.last.fm/music/Acidgvrl/_/breakcore+is+dumb)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
