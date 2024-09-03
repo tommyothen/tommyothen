@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Forrest. — Your Soul](https://www.last.fm/music/Forrest./_/Your+Soul)
+* [MUST DIE! — DELETE IT ALL](https://www.last.fm/music/MUST+DIE!/_/DELETE+IT+ALL)
 * [DPR IAN — Don&#39;t Go Insane](https://www.last.fm/music/DPR+IAN/_/Don%27t+Go+Insane)
 * [Kaivon — Reborn](https://www.last.fm/music/Kaivon/_/Reborn)
-* [Hard Life — nightmares](https://www.last.fm/music/Hard+Life/_/nightmares)
-* [The Home Team — Fashion Forward](https://www.last.fm/music/The+Home+Team/_/Fashion+Forward)
-* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)<!-- LASTFM:END -->
+* [Hard Life — nightmares](https://www.last.fm/music/Hard+Life/_/nightmares)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
