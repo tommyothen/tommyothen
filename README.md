@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
 * [Acidgvrl — Im Just Like You !!](https://www.last.fm/music/Acidgvrl/_/Im+Just+Like+You+!!)
 * [Acidgvrl — IM SIPPIN TEA IN YO BREAKCORE HOOD](https://www.last.fm/music/Acidgvrl/_/IM+SIPPIN+TEA+IN+YO+BREAKCORE+HOOD)
 * [Acidgvrl — breakcore for the mood](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+mood)
-* [Acidgvrl — raging breakcore](https://www.last.fm/music/Acidgvrl/_/raging+breakcore)
-* [Acidgvrl — breakcore vaporwave](https://www.last.fm/music/Acidgvrl/_/breakcore+vaporwave)<!-- LASTFM:END -->
+* [Acidgvrl — raging breakcore](https://www.last.fm/music/Acidgvrl/_/raging+breakcore)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
