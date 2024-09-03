@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kill Bill: The Rapper — About Last Night...](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/About+Last+Night...)
+* [Cemetery Drive — Slowly](https://www.last.fm/music/Cemetery+Drive/_/Slowly)
 * [Joji — CAN&#39;T GET OVER YOU &lpar;feat. Clams Casino&rpar;](https://www.last.fm/music/Joji/_/CAN%27T+GET+OVER+YOU+&lpar;feat.+Clams+Casino&rpar;)
 * [Carter Ace — The One And Lonely](https://www.last.fm/music/Carter+Ace/_/The+One+And+Lonely)
-* [RODERICK PORTER — I Didn&#39;t Realize How Empty My Bed Was Until You Left](https://www.last.fm/music/RODERICK+PORTER/_/I+Didn%27t+Realize+How+Empty+My+Bed+Was+Until+You+Left)
-* [Valentine — Emerald](https://www.last.fm/music/Valentine/_/Emerald)
-* [Atlas — ayla](https://www.last.fm/music/Atlas/_/ayla)<!-- LASTFM:END -->
+* [RODERICK PORTER — I Didn&#39;t Realize How Empty My Bed Was Until You Left](https://www.last.fm/music/RODERICK+PORTER/_/I+Didn%27t+Realize+How+Empty+My+Bed+Was+Until+You+Left)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
