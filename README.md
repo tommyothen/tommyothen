@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)
+* [The Notorious B.I.G. — Notorious Thugs - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Notorious+Thugs+-+2014+Remaster)
 * [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
 * [Softwilly — XXXKIRBY](https://www.last.fm/music/Softwilly/_/XXXKIRBY)
-* [EARTHGANG — Meditate &lpar;feat. J.I.D.&rpar;](https://www.last.fm/music/EARTHGANG/_/Meditate+&lpar;feat.+J.I.D.&rpar;)
-* [Joji — Pills](https://www.last.fm/music/Joji/_/Pills)
-* [Starjunk 95 — 99th Street](https://www.last.fm/music/Starjunk+95/_/99th+Street)<!-- LASTFM:END -->
+* [EARTHGANG — Meditate &lpar;feat. J.I.D.&rpar;](https://www.last.fm/music/EARTHGANG/_/Meditate+&lpar;feat.+J.I.D.&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
