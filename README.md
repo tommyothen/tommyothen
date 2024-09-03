@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jakey — Not Dead Yet](https://www.last.fm/music/Jakey/_/Not+Dead+Yet)
+* [Atwood — Frosty](https://www.last.fm/music/Atwood/_/Frosty)
 * [Rich Brian — Introvert &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Introvert+&lpar;feat.+Joji&rpar;)
 * [Rav — Time-Tested](https://www.last.fm/music/Rav/_/Time-Tested)
-* [Scuare — These Words &lpar;Again&rpar;](https://www.last.fm/music/Scuare/_/These+Words+&lpar;Again&rpar;)
-* [Kill Bill: The Rapper — Dream Eater](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Dream+Eater)
-* [Rav — Solanine](https://www.last.fm/music/Rav/_/Solanine)<!-- LASTFM:END -->
+* [Scuare — These Words &lpar;Again&rpar;](https://www.last.fm/music/Scuare/_/These+Words+&lpar;Again&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
