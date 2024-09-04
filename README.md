@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ryan Caraveo — Bang](https://www.last.fm/music/Ryan+Caraveo/_/Bang)
+* [Ryan Caraveo — Bang](https://www.last.fm/music/Ryan+Caraveo/_/Bang)
+* [TERROR REID — DEAD TO ME](https://www.last.fm/music/TERROR+REID/_/DEAD+TO+ME)
 * [nothing,nowhere. — love or chemistry](https://www.last.fm/music/nothing,nowhere./_/love+or+chemistry)
-* [Moe Shop — Identity](https://www.last.fm/music/Moe+Shop/_/Identity)
-* [Flughand — Feblu](https://www.last.fm/music/Flughand/_/Feblu)
-* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
-* [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)<!-- LASTFM:END -->
+* [Moe Shop — Identity](https://www.last.fm/music/Moe+Shop/_/Identity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
