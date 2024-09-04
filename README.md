@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Inzo — Overthinker](https://www.last.fm/music/Inzo/_/Overthinker)
+* [SCARLXRD — LIVING LEGEND](https://www.last.fm/music/SCARLXRD/_/LIVING+LEGEND)
 * [Fifty Fifty — Cupid &lpar;Twin Ver.&rpar; - Live Studio Version OT4](https://www.last.fm/music/Fifty+Fifty/_/Cupid+&lpar;Twin+Ver.&rpar;+-+Live+Studio+Version+OT4)
 * [Coming Soon!!! — Trippin in Paris](https://www.last.fm/music/Coming+Soon!!!/_/Trippin+in+Paris)
-* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)
-* [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
-* [23.exe — ochatime](https://www.last.fm/music/23.exe/_/ochatime)<!-- LASTFM:END -->
+* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
