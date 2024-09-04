@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Porter Robinson — Spitfire](https://www.last.fm/music/Porter+Robinson/_/Spitfire)
 * [Jarv &amp; Thief — The Beat](https://www.last.fm/music/Jarv+&amp;+Thief/_/The+Beat)
 * [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)
 * [Fliptrix — Monday To Sunday](https://www.last.fm/music/Fliptrix/_/Monday+To+Sunday)
-* [Jakey — Medium](https://www.last.fm/music/Jakey/_/Medium)
-* [Jarv &amp; Thief — Lady Killer](https://www.last.fm/music/Jarv+&amp;+Thief/_/Lady+Killer)<!-- LASTFM:END -->
+* [Jakey — Medium](https://www.last.fm/music/Jakey/_/Medium)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
