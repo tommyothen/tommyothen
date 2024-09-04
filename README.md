@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
+* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
+* [Minecraft King27 — Bow](https://www.last.fm/music/Minecraft+King27/_/Bow)
 * [Johnny Balik — Honey](https://www.last.fm/music/Johnny+Balik/_/Honey)
-* [Shakewell — Sobriety](https://www.last.fm/music/Shakewell/_/Sobriety)
-* [Joji — Glimpse of Us](https://www.last.fm/music/Joji/_/Glimpse+of+Us)
-* [ATO — still.running](https://www.last.fm/music/ATO/_/still.running)
-* [FOXWEDDING — the killing of a giant](https://www.last.fm/music/FOXWEDDING/_/the+killing+of+a+giant)<!-- LASTFM:END -->
+* [Shakewell — Sobriety](https://www.last.fm/music/Shakewell/_/Sobriety)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
