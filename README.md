@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Saib — Snow](https://www.last.fm/music/Saib/_/Snow)
+* [Eden — Billie Jean](https://www.last.fm/music/Eden/_/Billie+Jean)
 * [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [Minecraft King27 — Bow](https://www.last.fm/music/Minecraft+King27/_/Bow)
-* [Johnny Balik — Honey](https://www.last.fm/music/Johnny+Balik/_/Honey)
-* [Shakewell — Sobriety](https://www.last.fm/music/Shakewell/_/Sobriety)<!-- LASTFM:END -->
+* [Minecraft King27 — Bow](https://www.last.fm/music/Minecraft+King27/_/Bow)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
