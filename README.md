@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jarv &amp; Thief — Lady Killer](https://www.last.fm/music/Jarv+&amp;+Thief/_/Lady+Killer)
+* [William Bolton — Dream at Night](https://www.last.fm/music/William+Bolton/_/Dream+at+Night)
 * [Loona — Hi High](https://www.last.fm/music/Loona/_/Hi+High)
 * [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
-* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
-* [Eden — Wings](https://www.last.fm/music/Eden/_/Wings)
-* [Sebastian Paul — TROJAN HORSE](https://www.last.fm/music/Sebastian+Paul/_/TROJAN+HORSE)<!-- LASTFM:END -->
+* [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
