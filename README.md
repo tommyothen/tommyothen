@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
+* [CONVOLK — lonewolf](https://www.last.fm/music/CONVOLK/_/lonewolf)
+* [Rich Brian — Yellow &lpar;feat. Bekon&rpar;](https://www.last.fm/music/Rich+Brian/_/Yellow+&lpar;feat.+Bekon&rpar;)
 * [Tia — Deal with the devil](https://www.last.fm/music/Tia/_/Deal+with+the+devil)
-* [FEDUK — Московский фанк](https://www.last.fm/music/FEDUK/_/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D1%84%D0%B0%D0%BD%D0%BA)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Two Door Cinema Club — Sun](https://www.last.fm/music/Two+Door+Cinema+Club/_/Sun)
-* [Deca — Mammon&#39;s Mantra](https://www.last.fm/music/Deca/_/Mammon%27s+Mantra)<!-- LASTFM:END -->
+* [FEDUK — Московский фанк](https://www.last.fm/music/FEDUK/_/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D1%84%D0%B0%D0%BD%D0%BA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
