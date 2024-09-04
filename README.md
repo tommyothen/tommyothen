@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — namaste](https://www.last.fm/music/bbno$/_/namaste)
 * [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
 * [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)
 * [BROCKHAMPTON — JELLO](https://www.last.fm/music/BROCKHAMPTON/_/JELLO)
-* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
-* [INFECTIOUS JELQING — Hot Wigga](https://www.last.fm/music/INFECTIOUS+JELQING/_/Hot+Wigga)<!-- LASTFM:END -->
+* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
