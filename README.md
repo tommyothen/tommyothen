@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [88rising — History](https://www.last.fm/music/88rising/_/History)
+* [Rich Brian — Bali](https://www.last.fm/music/Rich+Brian/_/Bali)
+* [SCARLXRD — What&#39;s With Yxu?](https://www.last.fm/music/SCARLXRD/_/What%27s+With+Yxu%3F)
 * [bbno$ — namaste](https://www.last.fm/music/bbno$/_/namaste)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
-* [Shotgun Willy — Married to the Bag](https://www.last.fm/music/Shotgun+Willy/_/Married+to+the+Bag)
-* [BROCKHAMPTON — JELLO](https://www.last.fm/music/BROCKHAMPTON/_/JELLO)
-* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)<!-- LASTFM:END -->
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
