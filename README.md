@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Prototypes — Kill The Silence](https://www.last.fm/music/The+Prototypes/_/Kill+The+Silence)
 * [Taska Black — Dead Inside](https://www.last.fm/music/Taska+Black/_/Dead+Inside)
 * [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)
 * [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
-* [CONVOLK — lonewolf](https://www.last.fm/music/CONVOLK/_/lonewolf)
-* [Rich Brian — Yellow &lpar;feat. Bekon&rpar;](https://www.last.fm/music/Rich+Brian/_/Yellow+&lpar;feat.+Bekon&rpar;)<!-- LASTFM:END -->
+* [CONVOLK — lonewolf](https://www.last.fm/music/CONVOLK/_/lonewolf)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
