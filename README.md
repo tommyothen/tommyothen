@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billie Eilish — 8](https://www.last.fm/music/Billie+Eilish/_/8)
+* [Zeph — how the hell did we end up here?](https://www.last.fm/music/Zeph/_/how+the+hell+did+we+end+up+here%3F)
+* [Kobaryo — Invisible Frenzy](https://www.last.fm/music/Kobaryo/_/Invisible+Frenzy)
 * [Shotgun Willy — Mexico](https://www.last.fm/music/Shotgun+Willy/_/Mexico)
-* [Prismo — Stronger](https://www.last.fm/music/Prismo/_/Stronger)
-* [Porter Robinson — Spitfire](https://www.last.fm/music/Porter+Robinson/_/Spitfire)
-* [Jarv &amp; Thief — The Beat](https://www.last.fm/music/Jarv+&amp;+Thief/_/The+Beat)
-* [Grim Salvo — Moth Grinder](https://www.last.fm/music/Grim+Salvo/_/Moth+Grinder)<!-- LASTFM:END -->
+* [Prismo — Stronger](https://www.last.fm/music/Prismo/_/Stronger)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
