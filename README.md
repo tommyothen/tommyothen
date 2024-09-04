@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BIG Naughty — 5 Gawd Remix](https://www.last.fm/music/BIG+Naughty/_/5+Gawd+Remix)
+* [heiakim — Omae Wa Mou Lofi Desu](https://www.last.fm/music/heiakim/_/Omae+Wa+Mou+Lofi+Desu)
 * [Saib — Snow](https://www.last.fm/music/Saib/_/Snow)
 * [Eden — Billie Jean](https://www.last.fm/music/Eden/_/Billie+Jean)
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [DPR IAN — No Blueberries](https://www.last.fm/music/DPR+IAN/_/No+Blueberries)
-* [Minecraft King27 — Bow](https://www.last.fm/music/Minecraft+King27/_/Bow)<!-- LASTFM:END -->
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
