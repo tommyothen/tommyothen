@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
+* [Eden — XO](https://www.last.fm/music/Eden/_/XO)
+* [CMH — jackass](https://www.last.fm/music/CMH/_/jackass)
 * [Wun Two — Leave A Froze](https://www.last.fm/music/Wun+Two/_/Leave+A+Froze)
-* [FEDUK — Не одно и тоже](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B5+%D0%BE%D0%B4%D0%BD%D0%BE+%D0%B8+%D1%82%D0%BE%D0%B6%D0%B5)
-* [Eminem — Godzilla &lpar;feat. Juice WRLD&rpar;](https://www.last.fm/music/Eminem/_/Godzilla+&lpar;feat.+Juice+WRLD&rpar;)
-* [Jakey — Not Dead Yet](https://www.last.fm/music/Jakey/_/Not+Dead+Yet)
-* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)<!-- LASTFM:END -->
+* [FEDUK — Не одно и тоже](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B5+%D0%BE%D0%B4%D0%BD%D0%BE+%D0%B8+%D1%82%D0%BE%D0%B6%D0%B5)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
