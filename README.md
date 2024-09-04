@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Window](https://www.last.fm/music/Joji/_/Window)
+* [BROCKHAMPTON — JELLO](https://www.last.fm/music/BROCKHAMPTON/_/JELLO)
 * [bbno$ — Run It Up](https://www.last.fm/music/bbno$/_/Run+It+Up)
 * [Oliver Tree — Upside Down](https://www.last.fm/music/Oliver+Tree/_/Upside+Down)
-* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
-* [KID TRUNKS — 777](https://www.last.fm/music/KID+TRUNKS/_/777)
-* [ASCA — RESISTER](https://www.last.fm/music/ASCA/_/RESISTER)<!-- LASTFM:END -->
+* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
