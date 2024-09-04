@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
+* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
 * [Inzo — Overthinker](https://www.last.fm/music/Inzo/_/Overthinker)
 * [SCARLXRD — LIVING LEGEND](https://www.last.fm/music/SCARLXRD/_/LIVING+LEGEND)
-* [Fifty Fifty — Cupid &lpar;Twin Ver.&rpar; - Live Studio Version OT4](https://www.last.fm/music/Fifty+Fifty/_/Cupid+&lpar;Twin+Ver.&rpar;+-+Live+Studio+Version+OT4)
-* [Coming Soon!!! — Trippin in Paris](https://www.last.fm/music/Coming+Soon!!!/_/Trippin+in+Paris)
-* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)<!-- LASTFM:END -->
+* [Fifty Fifty — Cupid &lpar;Twin Ver.&rpar; - Live Studio Version OT4](https://www.last.fm/music/Fifty+Fifty/_/Cupid+&lpar;Twin+Ver.&rpar;+-+Live+Studio+Version+OT4)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
