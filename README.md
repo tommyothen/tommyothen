@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rich Brian — No Worries](https://www.last.fm/music/Rich+Brian/_/No+Worries)
-* [FEDUK — Лето Ван Лов](https://www.last.fm/music/FEDUK/_/%D0%9B%D0%B5%D1%82%D0%BE+%D0%92%D0%B0%D0%BD+%D0%9B%D0%BE%D0%B2)
-* [Atlas — facade](https://www.last.fm/music/Atlas/_/facade)
-* [YUNG BAE — Must Be Love](https://www.last.fm/music/YUNG+BAE/_/Must+Be+Love)
-* [Kim Petras — &lt;demons&gt;](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)<!-- LASTFM:END -->
+* [Rich Brian — Vacant](https://www.last.fm/music/Rich+Brian/_/Vacant)
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
+* [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
+* [LVTHER — OFFLINE](https://www.last.fm/music/LVTHER/_/OFFLINE)
+* [Rich Brian — No Worries](https://www.last.fm/music/Rich+Brian/_/No+Worries)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
