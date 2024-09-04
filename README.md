@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [YUNG BAE — Must Be Love](https://www.last.fm/music/YUNG+BAE/_/Must+Be+Love)
+* [Kim Petras — &lt;demons&gt;](https://www.last.fm/music/Kim+Petras/_/%3Cdemons%3E)
+* [Billie Eilish — bellyache](https://www.last.fm/music/Billie+Eilish/_/bellyache)
 * [Easha — Far Away](https://www.last.fm/music/Easha/_/Far+Away)
-* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)
-* [Inzo — Overthinker](https://www.last.fm/music/Inzo/_/Overthinker)
-* [SCARLXRD — LIVING LEGEND](https://www.last.fm/music/SCARLXRD/_/LIVING+LEGEND)
-* [Fifty Fifty — Cupid &lpar;Twin Ver.&rpar; - Live Studio Version OT4](https://www.last.fm/music/Fifty+Fifty/_/Cupid+&lpar;Twin+Ver.&rpar;+-+Live+Studio+Version+OT4)<!-- LASTFM:END -->
+* [Sarah Cothran — As The World Caves In](https://www.last.fm/music/Sarah+Cothran/_/As+The+World+Caves+In)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
