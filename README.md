@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Flughand — Feblu](https://www.last.fm/music/Flughand/_/Feblu)
+* [Loona — So What](https://www.last.fm/music/Loona/_/So+What)
 * [Eden — Nocturne](https://www.last.fm/music/Eden/_/Nocturne)
 * [joaogvbriel — in between](https://www.last.fm/music/joaogvbriel/_/in+between)
-* [android52 — Fall in Love](https://www.last.fm/music/android52/_/Fall+in+Love)
-* [Peachy! — Falling for U](https://www.last.fm/music/Peachy!/_/Falling+for+U)
-* [Eden — XO](https://www.last.fm/music/Eden/_/XO)<!-- LASTFM:END -->
+* [android52 — Fall in Love](https://www.last.fm/music/android52/_/Fall+in+Love)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
