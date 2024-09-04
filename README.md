@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — Run It Up](https://www.last.fm/music/bbno$/_/Run+It+Up)
+* [Oliver Tree — Upside Down](https://www.last.fm/music/Oliver+Tree/_/Upside+Down)
+* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
 * [KID TRUNKS — 777](https://www.last.fm/music/KID+TRUNKS/_/777)
-* [ASCA — RESISTER](https://www.last.fm/music/ASCA/_/RESISTER)
-* [Kin$oul — Members Only SHit](https://www.last.fm/music/Kin$oul/_/Members+Only+SHit)
-* [Rich Brian — Vacant](https://www.last.fm/music/Rich+Brian/_/Vacant)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)<!-- LASTFM:END -->
+* [ASCA — RESISTER](https://www.last.fm/music/ASCA/_/RESISTER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
