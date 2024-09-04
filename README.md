@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SEPHA. — Speak Thru Me](https://www.last.fm/music/SEPHA./_/Speak+Thru+Me)
+* [Yung Gravy — Splash Mountain](https://www.last.fm/music/Yung+Gravy/_/Splash+Mountain)
+* [Protostar — Overdrive](https://www.last.fm/music/Protostar/_/Overdrive)
 * [ROY PURDY — PINK AND GREEN](https://www.last.fm/music/ROY+PURDY/_/PINK+AND+GREEN)
-* [ProleteR — Throw It Back](https://www.last.fm/music/ProleteR/_/Throw+It+Back)
-* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
-* [Mungo&#39;s Hi Fi — Jump Up Quickly](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Jump+Up+Quickly)
-* [Billie Eilish — when the party&#39;s over](https://www.last.fm/music/Billie+Eilish/_/when+the+party%27s+over)<!-- LASTFM:END -->
+* [ProleteR — Throw It Back](https://www.last.fm/music/ProleteR/_/Throw+It+Back)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
