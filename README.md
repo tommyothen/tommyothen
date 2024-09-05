@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rich Brian — Cold](https://www.last.fm/music/Rich+Brian/_/Cold)
+* [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
+* [FEDUK — Ловить нечего](https://www.last.fm/music/FEDUK/_/%D0%9B%D0%BE%D0%B2%D0%B8%D1%82%D1%8C+%D0%BD%D0%B5%D1%87%D0%B5%D0%B3%D0%BE)
 * [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)
-* [XXXTENTACION — I don’t even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii](https://www.last.fm/music/XXXTENTACION/_/I+don%E2%80%99t+even+speak+spanish+lol+-+feat.+Rio+Santana,+Judah,+Andrez+Babii)
-* [Two Door Cinema Club — Something Good Can Work](https://www.last.fm/music/Two+Door+Cinema+Club/_/Something+Good+Can+Work)
-* [Syko — #BrooklynBloodPop - Hardstyle Edit](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop+-+Hardstyle+Edit)
-* [Syko — 111 SECONDS IN HEAVEN](https://www.last.fm/music/Syko/_/111+SECONDS+IN+HEAVEN)<!-- LASTFM:END -->
+* [XXXTENTACION — I don’t even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii](https://www.last.fm/music/XXXTENTACION/_/I+don%E2%80%99t+even+speak+spanish+lol+-+feat.+Rio+Santana,+Judah,+Andrez+Babii)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
