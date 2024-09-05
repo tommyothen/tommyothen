@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [six impala — EPSILON LOVE](https://www.last.fm/music/six+impala/_/EPSILON+LOVE)
-* [khai dreams — Come True](https://www.last.fm/music/khai+dreams/_/Come+True)
-* [The Prototypes — Kill The Silence](https://www.last.fm/music/The+Prototypes/_/Kill+The+Silence)
-* [Taska Black — Dead Inside](https://www.last.fm/music/Taska+Black/_/Dead+Inside)
-* [YUNG BAE — Suede](https://www.last.fm/music/YUNG+BAE/_/Suede)<!-- LASTFM:END -->
+* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
+* [Rich Brian — Enemies](https://www.last.fm/music/Rich+Brian/_/Enemies)
+* [XXXTENTACION — Bowser](https://www.last.fm/music/XXXTENTACION/_/Bowser)
+* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
+* [Yung Bambi — Facetime](https://www.last.fm/music/Yung+Bambi/_/Facetime)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
