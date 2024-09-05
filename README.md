@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [bbno$ — chess](https://www.last.fm/music/bbno$/_/chess)
-* [Rich Brian — Enemies](https://www.last.fm/music/Rich+Brian/_/Enemies)
-* [XXXTENTACION — Bowser](https://www.last.fm/music/XXXTENTACION/_/Bowser)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [Yung Bambi — Facetime](https://www.last.fm/music/Yung+Bambi/_/Facetime)<!-- LASTFM:END -->
+* [ilyTOMMY — Tunnel of Love - Remix](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love+-+Remix)
+* [Shaun — Way Back Home &lpar;feat. Conor Maynard&rpar; - Sam Feldt Edit](https://www.last.fm/music/Shaun/_/Way+Back+Home+&lpar;feat.+Conor+Maynard&rpar;+-+Sam+Feldt+Edit)
+* [BTS — Dynamite](https://www.last.fm/music/BTS/_/Dynamite)
+* [XANAKIN SKYWOK — Jazz Hands](https://www.last.fm/music/XANAKIN+SKYWOK/_/Jazz+Hands)
+* [JUICEB☮X — Mushroom](https://www.last.fm/music/JUICEB%E2%98%AEX/_/Mushroom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
