@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Вокруг Кремля](https://www.last.fm/music/FEDUK/_/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3+%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F)
+* [MC Virgins — Anime Thighs](https://www.last.fm/music/MC+Virgins/_/Anime+Thighs)
 * [Rich Brian — Yellow &lpar;feat. Bekon&rpar;](https://www.last.fm/music/Rich+Brian/_/Yellow+&lpar;feat.+Bekon&rpar;)
 * [AnimalJam — Repudiation &lpar;New Years Eve&rpar;](https://www.last.fm/music/AnimalJam/_/Repudiation+&lpar;New+Years+Eve&rpar;)
-* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
-* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
-* [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)<!-- LASTFM:END -->
+* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
