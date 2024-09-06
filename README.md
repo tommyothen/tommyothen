@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [inabakumori — ラグトレイン](https://www.last.fm/music/inabakumori/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3)
 * [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
 * [Blue.D — NOBODY](https://www.last.fm/music/Blue.D/_/NOBODY)
 * [YUC&#39;e — Sunset Tea Cup](https://www.last.fm/music/YUC%27e/_/Sunset+Tea+Cup)
-* [Tiny Meat Gang — Stay Safe](https://www.last.fm/music/Tiny+Meat+Gang/_/Stay+Safe)
-* [Great Good Fine OK — Take It or Leave It](https://www.last.fm/music/Great+Good+Fine+OK/_/Take+It+or+Leave+It)<!-- LASTFM:END -->
+* [Tiny Meat Gang — Stay Safe](https://www.last.fm/music/Tiny+Meat+Gang/_/Stay+Safe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
