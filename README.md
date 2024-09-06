@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [Cemetery Drive — WHIPLASH](https://www.last.fm/music/Cemetery+Drive/_/WHIPLASH)
-* [LilyPichu — Dreamy Night](https://www.last.fm/music/LilyPichu/_/Dreamy+Night)
-* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
-* [RŮDE — Eternal Youth](https://www.last.fm/music/R%C5%AEDE/_/Eternal+Youth)<!-- LASTFM:END -->
+* [Oliver Tree — Let Me Down](https://www.last.fm/music/Oliver+Tree/_/Let+Me+Down)
+* [DAEGHO — Dirty Viibe](https://www.last.fm/music/DAEGHO/_/Dirty+Viibe)
+* [Atlas — final form!](https://www.last.fm/music/Atlas/_/final+form!)
+* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
