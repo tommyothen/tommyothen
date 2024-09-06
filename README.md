@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)
+* [HUH — blah blah &lpar;Feat. Khundi Panda&rpar;](https://www.last.fm/music/HUH/_/blah+blah+&lpar;Feat.+Khundi+Panda&rpar;)
 * [Katie — Thinkin Bout You](https://www.last.fm/music/Katie/_/Thinkin+Bout+You)
 * [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)
-* [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)
-* [Pendulum — Halo](https://www.last.fm/music/Pendulum/_/Halo)
-* [Mr.Kitty — After Dark](https://www.last.fm/music/Mr.Kitty/_/After+Dark)<!-- LASTFM:END -->
+* [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
