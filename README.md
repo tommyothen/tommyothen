@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BLACKPINK — How You Like That](https://www.last.fm/music/BLACKPINK/_/How+You+Like+That)
+* [RŮDE — Eternal Youth](https://www.last.fm/music/R%C5%AEDE/_/Eternal+Youth)
 * [bôa — Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)
 * [Red Hot Chili Peppers — Dark Necessities](https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Dark+Necessities)
-* [FEDUK — Вокруг Кремля](https://www.last.fm/music/FEDUK/_/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3+%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F)
-* [MC Virgins — Anime Thighs](https://www.last.fm/music/MC+Virgins/_/Anime+Thighs)
-* [Rich Brian — Yellow &lpar;feat. Bekon&rpar;](https://www.last.fm/music/Rich+Brian/_/Yellow+&lpar;feat.+Bekon&rpar;)<!-- LASTFM:END -->
+* [FEDUK — Вокруг Кремля](https://www.last.fm/music/FEDUK/_/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3+%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
