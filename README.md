@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
+* [Whethan — When I&#39;m Down](https://www.last.fm/music/Whethan/_/When+I%27m+Down)
 * [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)
 * [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [6 Dogs — Faygo Dreams](https://www.last.fm/music/6+Dogs/_/Faygo+Dreams)
-* [Carter Ace — I Think I&#39;m Normal](https://www.last.fm/music/Carter+Ace/_/I+Think+I%27m+Normal)
-* [Joji — Will He](https://www.last.fm/music/Joji/_/Will+He)<!-- LASTFM:END -->
+* [6 Dogs — Faygo Dreams](https://www.last.fm/music/6+Dogs/_/Faygo+Dreams)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
