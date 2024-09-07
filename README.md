@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [KUURO — Afraid of the Dark](https://www.last.fm/music/KUURO/_/Afraid+of+the+Dark)
+* [Freddie Dredd — Oh Darling &lpar;feat. Soudiere&rpar;](https://www.last.fm/music/Freddie+Dredd/_/Oh+Darling+&lpar;feat.+Soudiere&rpar;)
+* [bbno$ — pennies up](https://www.last.fm/music/bbno$/_/pennies+up)
 * [Ghostemane — 1000 Rounds](https://www.last.fm/music/Ghostemane/_/1000+Rounds)
-* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
-* [Snavs — Murda](https://www.last.fm/music/Snavs/_/Murda)
-* [SCARLXRD — 6 Feet](https://www.last.fm/music/SCARLXRD/_/6+Feet)
-* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)<!-- LASTFM:END -->
+* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
