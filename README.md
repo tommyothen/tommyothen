@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)
-* [Ronny J — Banded Up &lpar;feat. XXXTENTACION&rpar;](https://www.last.fm/music/Ronny+J/_/Banded+Up+&lpar;feat.+XXXTENTACION&rpar;)
-* [Diplo — Color Blind](https://www.last.fm/music/Diplo/_/Color+Blind)
-* [Inzo — Overthinker](https://www.last.fm/music/Inzo/_/Overthinker)
-* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)<!-- LASTFM:END -->
+* [Your Neighbors — Bodega](https://www.last.fm/music/Your+Neighbors/_/Bodega)
+* [khai dreams — Travels](https://www.last.fm/music/khai+dreams/_/Travels)
+* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
+* [Porter Robinson — Natural Light](https://www.last.fm/music/Porter+Robinson/_/Natural+Light)
+* [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
