@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Tennyson — Body Language &lpar;feat. Aloe Blacc&rpar;](https://www.last.fm/music/Tennyson/_/Body+Language+&lpar;feat.+Aloe+Blacc&rpar;)
-* [TWICE — What Is Love](https://www.last.fm/music/TWICE/_/What+Is+Love)
-* [Jin Dogg — Psycho](https://www.last.fm/music/Jin+Dogg/_/Psycho)
-* [Whethan — When I&#39;m Down](https://www.last.fm/music/Whethan/_/When+I%27m+Down)
-* [Ethan Bortnick — cut my fingers off](https://www.last.fm/music/Ethan+Bortnick/_/cut+my+fingers+off)<!-- LASTFM:END -->
+* [SCARLXRD — 6 Feet](https://www.last.fm/music/SCARLXRD/_/6+Feet)
+* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
+* [slushii — Luv U Need U](https://www.last.fm/music/slushii/_/Luv+U+Need+U)
+* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)
+* [Tennyson — Body Language &lpar;feat. Aloe Blacc&rpar;](https://www.last.fm/music/Tennyson/_/Body+Language+&lpar;feat.+Aloe+Blacc&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
