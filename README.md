@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — XNXX](https://www.last.fm/music/Joji/_/XNXX)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [$uicideboy$ — ...And To Those I Love, Thanks For Sticking Around](https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around)
 * [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
-* [Saib — Come with me](https://www.last.fm/music/Saib/_/Come+with+me)
-* [CHUNG HA — Stay Tonight](https://www.last.fm/music/CHUNG+HA/_/Stay+Tonight)
-* [Thoreau — Afraid](https://www.last.fm/music/Thoreau/_/Afraid)
-* [Elias — i guess?](https://www.last.fm/music/Elias/_/i+guess%3F)<!-- LASTFM:END -->
+* [Saib — Come with me](https://www.last.fm/music/Saib/_/Come+with+me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
