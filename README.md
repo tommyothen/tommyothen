@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — and](https://www.last.fm/music/Eden/_/and)
+* [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
 * [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
 * [Eden Project — drowning.](https://www.last.fm/music/Eden+Project/_/drowning.)
-* [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [Bearson — Go to Sleep &lpar;feat. Kailee Morgue&rpar; &lpar;feat. Kailee Morgue&rpar; - Oshi Remix](https://www.last.fm/music/Bearson/_/Go+to+Sleep+&lpar;feat.+Kailee+Morgue&rpar;+&lpar;feat.+Kailee+Morgue&rpar;+-+Oshi+Remix)<!-- LASTFM:END -->
+* [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
