@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tsundere Alley — Like My Love](https://www.last.fm/music/Tsundere+Alley/_/Like+My+Love)
+* [SMLE — Haunted](https://www.last.fm/music/SMLE/_/Haunted)
+* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)
 * [Diplo — Color Blind](https://www.last.fm/music/Diplo/_/Color+Blind)
-* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
-* [Halogen — U Got That](https://www.last.fm/music/Halogen/_/U+Got+That)
-* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
-* [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)<!-- LASTFM:END -->
+* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
