@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ghostemane — 1000 Rounds](https://www.last.fm/music/Ghostemane/_/1000+Rounds)
+* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
+* [Snavs — Murda](https://www.last.fm/music/Snavs/_/Murda)
 * [SCARLXRD — 6 Feet](https://www.last.fm/music/SCARLXRD/_/6+Feet)
-* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
-* [slushii — Luv U Need U](https://www.last.fm/music/slushii/_/Luv+U+Need+U)
-* [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)
-* [Tennyson — Body Language &lpar;feat. Aloe Blacc&rpar;](https://www.last.fm/music/Tennyson/_/Body+Language+&lpar;feat.+Aloe+Blacc&rpar;)<!-- LASTFM:END -->
+* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
