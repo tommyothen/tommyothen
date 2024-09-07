@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BURNOUT SYNDROMES — ヒカリアレ-Moonlight Version-](https://www.last.fm/music/BURNOUT+SYNDROMES/_/%E3%83%92%E3%82%AB%E3%83%AA%E3%82%A2%E3%83%AC-Moonlight+Version-)
 * [Eden — and](https://www.last.fm/music/Eden/_/and)
 * [Atlas — Alarm](https://www.last.fm/music/Atlas/_/Alarm)
 * [Rammstein — Sonne](https://www.last.fm/music/Rammstein/_/Sonne)
-* [Eden Project — drowning.](https://www.last.fm/music/Eden+Project/_/drowning.)
-* [Sad Alex — almost](https://www.last.fm/music/Sad+Alex/_/almost)<!-- LASTFM:END -->
+* [Eden Project — drowning.](https://www.last.fm/music/Eden+Project/_/drowning.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
