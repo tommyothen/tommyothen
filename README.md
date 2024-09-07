@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Diplo — Color Blind](https://www.last.fm/music/Diplo/_/Color+Blind)
 * [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
-* [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)
-* [blackbear — chateau](https://www.last.fm/music/blackbear/_/chateau)
-* [Doja Cat — Get Into It &lpar;Yuh&rpar;](https://www.last.fm/music/Doja+Cat/_/Get+Into+It+&lpar;Yuh&rpar;)
-* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)<!-- LASTFM:END -->
+* [Halogen — U Got That](https://www.last.fm/music/Halogen/_/U+Got+That)
+* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
+* [Eden — Fumes](https://www.last.fm/music/Eden/_/Fumes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
