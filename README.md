@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eevee — viola](https://www.last.fm/music/Eevee/_/viola)
+* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
 * [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
 * [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)
-* [Eden — lost//found](https://www.last.fm/music/Eden/_/lost%2F%2Ffound)
-* [Rejjie Snow — Egyptian Luvr](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr)
-* [EL SPEAKER — Never Gonna Catch Me](https://www.last.fm/music/EL+SPEAKER/_/Never+Gonna+Catch+Me)<!-- LASTFM:END -->
+* [Eden — lost//found](https://www.last.fm/music/Eden/_/lost%2F%2Ffound)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
