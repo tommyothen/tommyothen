@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nothing,nowhere. — letdown](https://www.last.fm/music/nothing,nowhere./_/letdown)
 * [Stonebank — The Government](https://www.last.fm/music/Stonebank/_/The+Government)
 * [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
 * [Lil Dicky — Professional Rapper &lpar;feat. Snoop Dogg&rpar;](https://www.last.fm/music/Lil+Dicky/_/Professional+Rapper+&lpar;feat.+Snoop+Dogg&rpar;)
-* [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)
-* [Slipknot — Dead Memories](https://www.last.fm/music/Slipknot/_/Dead+Memories)<!-- LASTFM:END -->
+* [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
