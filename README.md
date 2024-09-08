@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
+* [Kid Trunks — Invisible Klip](https://www.last.fm/music/Kid+Trunks/_/Invisible+Klip)
 * [FrankJavCee — Raining in L.A](https://www.last.fm/music/FrankJavCee/_/Raining+in+L.A)
 * [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)
-* [Lazy Rich — Hello - Schoolboy Remix](https://www.last.fm/music/Lazy+Rich/_/Hello+-+Schoolboy+Remix)
-* [Joey Trap — Sesame Street](https://www.last.fm/music/Joey+Trap/_/Sesame+Street)
-* [1NONLY — Shakira!](https://www.last.fm/music/1NONLY/_/Shakira!)<!-- LASTFM:END -->
+* [Lazy Rich — Hello - Schoolboy Remix](https://www.last.fm/music/Lazy+Rich/_/Hello+-+Schoolboy+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
