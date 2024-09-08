@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — golden rule](https://www.last.fm/music/bbno$/_/golden+rule)
+* [2 Mello — I Wanna Kno](https://www.last.fm/music/2+Mello/_/I+Wanna+Kno)
 * [Overrated — We Fell Apart](https://www.last.fm/music/Overrated/_/We+Fell+Apart)
 * [IVE — After LIKE](https://www.last.fm/music/IVE/_/After+LIKE)
-* [FEDUK — TOUR DE FRANCE](https://www.last.fm/music/FEDUK/_/TOUR+DE+FRANCE)
-* [Magdalena Bay — Killshot](https://www.last.fm/music/Magdalena+Bay/_/Killshot)
-* [Rich Brian — 100 Degrees](https://www.last.fm/music/Rich+Brian/_/100+Degrees)<!-- LASTFM:END -->
+* [FEDUK — TOUR DE FRANCE](https://www.last.fm/music/FEDUK/_/TOUR+DE+FRANCE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
