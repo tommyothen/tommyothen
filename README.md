@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Through and Through](https://www.last.fm/music/khai+dreams/_/Through+and+Through)
+* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
 * [Zamir — Too Late](https://www.last.fm/music/Zamir/_/Too+Late)
 * [Eden — nowhere else](https://www.last.fm/music/Eden/_/nowhere+else)
-* [FEDUK — Ловить нечего](https://www.last.fm/music/FEDUK/_/%D0%9B%D0%BE%D0%B2%D0%B8%D1%82%D1%8C+%D0%BD%D0%B5%D1%87%D0%B5%D0%B3%D0%BE)
-* [Havelock — SCRAMBLED](https://www.last.fm/music/Havelock/_/SCRAMBLED)
-* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)<!-- LASTFM:END -->
+* [FEDUK — Ловить нечего](https://www.last.fm/music/FEDUK/_/%D0%9B%D0%BE%D0%B2%D0%B8%D1%82%D1%8C+%D0%BD%D0%B5%D1%87%D0%B5%D0%B3%D0%BE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
