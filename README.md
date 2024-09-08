@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eery — Reefer](https://www.last.fm/music/Eery/_/Reefer)
+* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
+* [Ashnikko — Toxic](https://www.last.fm/music/Ashnikko/_/Toxic)
 * [Yarmak — Пидарасия](https://www.last.fm/music/Yarmak/_/%D0%9F%D0%B8%D0%B4%D0%B0%D1%80%D0%B0%D1%81%D0%B8%D1%8F)
-* [ROY PURDY — Walk It out!](https://www.last.fm/music/ROY+PURDY/_/Walk+It+out!)
-* [Eric Nam — Runaway](https://www.last.fm/music/Eric+Nam/_/Runaway)
-* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
-* [FWLR — How We Win](https://www.last.fm/music/FWLR/_/How+We+Win)<!-- LASTFM:END -->
+* [ROY PURDY — Walk It out!](https://www.last.fm/music/ROY+PURDY/_/Walk+It+out!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
