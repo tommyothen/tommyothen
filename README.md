@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
+* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
 * [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
 * [c0nv0 — December](https://www.last.fm/music/c0nv0/_/December)
-* [FEDUK — Слышал твои трэки](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%BB%D1%8B%D1%88%D0%B0%D0%BB+%D1%82%D0%B2%D0%BE%D0%B8+%D1%82%D1%80%D1%8D%D0%BA%D0%B8)
-* [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)
-* [Eevee — viola](https://www.last.fm/music/Eevee/_/viola)<!-- LASTFM:END -->
+* [FEDUK — Слышал твои трэки](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%BB%D1%8B%D1%88%D0%B0%D0%BB+%D1%82%D0%B2%D0%BE%D0%B8+%D1%82%D1%80%D1%8D%D0%BA%D0%B8)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
