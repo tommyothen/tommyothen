@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mungo&#39;s Hi Fi — Jump Up Quickly](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Jump+Up+Quickly)
 * [DAOKO — ダイスキ with TeddyLoid](https://www.last.fm/music/DAOKO/_/%E3%83%80%E3%82%A4%E3%82%B9%E3%82%AD+with+TeddyLoid)
 * [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
 * [elijah who — my new love](https://www.last.fm/music/elijah+who/_/my+new+love)
-* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)
-* [Young Gravy — Hands up High](https://www.last.fm/music/Young+Gravy/_/Hands+up+High)<!-- LASTFM:END -->
+* [Bassnectar — Lost in the Crowd &lpar;feat. Fashawn, Zion I&rpar;](https://www.last.fm/music/Bassnectar/_/Lost+in+the+Crowd+&lpar;feat.+Fashawn,+Zion+I&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
