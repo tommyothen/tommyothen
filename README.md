@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — lost//found](https://www.last.fm/music/Eden/_/lost%2F%2Ffound)
+* [Rejjie Snow — Egyptian Luvr](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr)
 * [EL SPEAKER — Never Gonna Catch Me](https://www.last.fm/music/EL+SPEAKER/_/Never+Gonna+Catch+Me)
 * [Blankz — Nakama](https://www.last.fm/music/Blankz/_/Nakama)
-* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
-* [Shawn Wasabi — MARBLE TEA](https://www.last.fm/music/Shawn+Wasabi/_/MARBLE+TEA)
-* [Shinigami — heart attack](https://www.last.fm/music/Shinigami/_/heart+attack)<!-- LASTFM:END -->
+* [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
