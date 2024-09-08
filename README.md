@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Inzo — Overthinker](https://www.last.fm/music/Inzo/_/Overthinker)
+* [Cybertrash — play pretend](https://www.last.fm/music/Cybertrash/_/play+pretend)
 * [Hisatomi — lullaby](https://www.last.fm/music/Hisatomi/_/lullaby)
 * [Kid Trunks — Invisible Klip](https://www.last.fm/music/Kid+Trunks/_/Invisible+Klip)
-* [FrankJavCee — Raining in L.A](https://www.last.fm/music/FrankJavCee/_/Raining+in+L.A)
-* [¿Téo? — Outta Hand](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Outta+Hand)
-* [Lazy Rich — Hello - Schoolboy Remix](https://www.last.fm/music/Lazy+Rich/_/Hello+-+Schoolboy+Remix)<!-- LASTFM:END -->
+* [FrankJavCee — Raining in L.A](https://www.last.fm/music/FrankJavCee/_/Raining+in+L.A)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
