@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jv.Jarvis — น้ำแดงน้ำส้ม](https://www.last.fm/music/Jv.Jarvis/_/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B9%89%E0%B8%A1)
+* [Rav — &quot;Geddit&quot; or &quot;The Commodity of Tenacity](https://www.last.fm/music/Rav/_/%22Geddit%22+or+%22The+Commodity+of+Tenacity)
+* [1NONLY — Zoom!](https://www.last.fm/music/1NONLY/_/Zoom!)
 * [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
-* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)
-* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
-* [c0nv0 — December](https://www.last.fm/music/c0nv0/_/December)
-* [FEDUK — Слышал твои трэки](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%BB%D1%8B%D1%88%D0%B0%D0%BB+%D1%82%D0%B2%D0%BE%D0%B8+%D1%82%D1%80%D1%8D%D0%BA%D0%B8)<!-- LASTFM:END -->
+* [Käärijä — Cha Cha Cha](https://www.last.fm/music/K%C3%A4%C3%A4rij%C3%A4/_/Cha+Cha+Cha)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
