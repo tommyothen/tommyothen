@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Cal Scruby — Not That Deep](https://www.last.fm/music/Cal+Scruby/_/Not+That+Deep)
 * [love-sadKiD — Cash](https://www.last.fm/music/love-sadKiD/_/Cash)
 * [Eden — icarus](https://www.last.fm/music/Eden/_/icarus)
 * [Strawberry Station — Disco Queens](https://www.last.fm/music/Strawberry+Station/_/Disco+Queens)
-* [Billie Eilish — all the good girls go to hell](https://www.last.fm/music/Billie+Eilish/_/all+the+good+girls+go+to+hell)
-* [Engelwood — crystal dolphin](https://www.last.fm/music/Engelwood/_/crystal+dolphin)<!-- LASTFM:END -->
+* [Billie Eilish — all the good girls go to hell](https://www.last.fm/music/Billie+Eilish/_/all+the+good+girls+go+to+hell)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
