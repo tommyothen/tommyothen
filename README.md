@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
+* [Porter Robinson — Sad Machine - Deon Custom Remix](https://www.last.fm/music/Porter+Robinson/_/Sad+Machine+-+Deon+Custom+Remix)
 * [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
 * [Au/Ra — Panic Room](https://www.last.fm/music/Au%2FRa/_/Panic+Room)
-* [majiko — Kokoronashi](https://www.last.fm/music/majiko/_/Kokoronashi)
-* [Mallrat — Nobody&#39;s Home](https://www.last.fm/music/Mallrat/_/Nobody%27s+Home)
-* [Porter Robinson — Spitfire](https://www.last.fm/music/Porter+Robinson/_/Spitfire)<!-- LASTFM:END -->
+* [majiko — Kokoronashi](https://www.last.fm/music/majiko/_/Kokoronashi)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
