@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [c0nv0 — December](https://www.last.fm/music/c0nv0/_/December)
+* [FEDUK — Слышал твои трэки](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%BB%D1%8B%D1%88%D0%B0%D0%BB+%D1%82%D0%B2%D0%BE%D0%B8+%D1%82%D1%80%D1%8D%D0%BA%D0%B8)
+* [Biosphere — strangers](https://www.last.fm/music/Biosphere/_/strangers)
 * [Eevee — viola](https://www.last.fm/music/Eevee/_/viola)
-* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)
-* [HAARPER — Bungee Gum](https://www.last.fm/music/HAARPER/_/Bungee+Gum)
-* [Rings of Saturn — Inadequate](https://www.last.fm/music/Rings+of+Saturn/_/Inadequate)
-* [Eden — lost//found](https://www.last.fm/music/Eden/_/lost%2F%2Ffound)<!-- LASTFM:END -->
+* [The 1975 — Love It If We Made It](https://www.last.fm/music/The+1975/_/Love+It+If+We+Made+It)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
