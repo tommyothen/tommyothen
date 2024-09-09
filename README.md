@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Yung Gravy — Whippin](https://www.last.fm/music/Yung+Gravy/_/Whippin)
+* [Forrest. — Your Soul](https://www.last.fm/music/Forrest./_/Your+Soul)
+* [Eden — and](https://www.last.fm/music/Eden/_/and)
 * [Rings of Saturn — No Pity For A Coward](https://www.last.fm/music/Rings+of+Saturn/_/No+Pity+For+A+Coward)
-* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
-* [Global Dan — Dark Out](https://www.last.fm/music/Global+Dan/_/Dark+Out)
-* [Puppet — The Fire](https://www.last.fm/music/Puppet/_/The+Fire)
-* [XXXTENTACION — going down!](https://www.last.fm/music/XXXTENTACION/_/going+down!)<!-- LASTFM:END -->
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
