@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [City Girl — Endless and Artificial](https://www.last.fm/music/City+Girl/_/Endless+and+Artificial)
 * [aldn — icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway)
 * [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
 * [Cleopatrick — Hometown](https://www.last.fm/music/Cleopatrick/_/Hometown)
-* [FEDUK — Делай, Что Хочешь](https://www.last.fm/music/FEDUK/_/%D0%94%D0%B5%D0%BB%D0%B0%D0%B9,+%D0%A7%D1%82%D0%BE+%D0%A5%D0%BE%D1%87%D0%B5%D1%88%D1%8C)
-* [BoxPlot — Tramontane](https://www.last.fm/music/BoxPlot/_/Tramontane)<!-- LASTFM:END -->
+* [FEDUK — Делай, Что Хочешь](https://www.last.fm/music/FEDUK/_/%D0%94%D0%B5%D0%BB%D0%B0%D0%B9,+%D0%A7%D1%82%D0%BE+%D0%A5%D0%BE%D1%87%D0%B5%D1%88%D1%8C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
