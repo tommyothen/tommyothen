@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [Eden — 909](https://www.last.fm/music/Eden/_/909)
-* [Desired — Wake Up](https://www.last.fm/music/Desired/_/Wake+Up)
-* [Rezz — H E X](https://www.last.fm/music/Rezz/_/H+E+X)<!-- LASTFM:END -->
+* [Rav — Addlerall](https://www.last.fm/music/Rav/_/Addlerall)
+* [Yung Gravy — Gasoline &lpar;feat. Young King Dave&rpar;](https://www.last.fm/music/Yung+Gravy/_/Gasoline+&lpar;feat.+Young+King+Dave&rpar;)
+* [Billie Eilish — lovely](https://www.last.fm/music/Billie+Eilish/_/lovely)
+* [bbno$ — piccolo](https://www.last.fm/music/bbno$/_/piccolo)
+* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
