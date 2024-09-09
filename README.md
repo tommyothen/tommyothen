@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [khai dreams — Travels](https://www.last.fm/music/khai+dreams/_/Travels)
+* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)
 * [Eden — End Credits](https://www.last.fm/music/Eden/_/End+Credits)
 * [88rising — Indigo](https://www.last.fm/music/88rising/_/Indigo)
-* [FEDUK — Сицилийская мафия &lpar;feat. Dooit&rpar;](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%B8%D1%86%D0%B8%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F+%D0%BC%D0%B0%D1%84%D0%B8%D1%8F+&lpar;feat.+Dooit&rpar;)
-* [Skrillex — Supersonic &lpar;My Existence&rpar; [with Noisia, josh pan &amp; Dylan Brady]](https://www.last.fm/music/Skrillex/_/Supersonic+&lpar;My+Existence&rpar;+%5Bwith+Noisia,+josh+pan+&amp;+Dylan+Brady%5D)
-* [SCARLXRD — Heart Attack](https://www.last.fm/music/SCARLXRD/_/Heart+Attack)<!-- LASTFM:END -->
+* [FEDUK — Сицилийская мафия &lpar;feat. Dooit&rpar;](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%B8%D1%86%D0%B8%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F+%D0%BC%D0%B0%D1%84%D0%B8%D1%8F+&lpar;feat.+Dooit&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
