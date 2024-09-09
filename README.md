@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
 * [camoufly — can&#39;t get over it](https://www.last.fm/music/camoufly/_/can%27t+get+over+it)
 * [XYLØ — yes &amp; no](https://www.last.fm/music/XYL%C3%98/_/yes+&amp;+no)
 * [Lofi.Samurai — dearest](https://www.last.fm/music/Lofi.Samurai/_/dearest)
-* [FEDUK — Не одно и тоже](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B5+%D0%BE%D0%B4%D0%BD%D0%BE+%D0%B8+%D1%82%D0%BE%D0%B6%D0%B5)
-* [bbno$ — namaste](https://www.last.fm/music/bbno$/_/namaste)<!-- LASTFM:END -->
+* [FEDUK — Не одно и тоже](https://www.last.fm/music/FEDUK/_/%D0%9D%D0%B5+%D0%BE%D0%B4%D0%BD%D0%BE+%D0%B8+%D1%82%D0%BE%D0%B6%D0%B5)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
