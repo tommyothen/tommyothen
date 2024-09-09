@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [XXXTENTACION — going down!](https://www.last.fm/music/XXXTENTACION/_/going+down!)
-* [MAX — Acid Dreams](https://www.last.fm/music/MAX/_/Acid+Dreams)
-* [Porter Robinson — Flicker](https://www.last.fm/music/Porter+Robinson/_/Flicker)
-* [khai dreams — Travels](https://www.last.fm/music/khai+dreams/_/Travels)
-* [DEAR-GOD — The Burbs](https://www.last.fm/music/DEAR-GOD/_/The+Burbs)<!-- LASTFM:END -->
+* [Rings of Saturn — No Pity For A Coward](https://www.last.fm/music/Rings+of+Saturn/_/No+Pity+For+A+Coward)
+* [Mag.Lo — Team](https://www.last.fm/music/Mag.Lo/_/Team)
+* [Global Dan — Dark Out](https://www.last.fm/music/Global+Dan/_/Dark+Out)
+* [Puppet — The Fire](https://www.last.fm/music/Puppet/_/The+Fire)
+* [XXXTENTACION — going down!](https://www.last.fm/music/XXXTENTACION/_/going+down!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
