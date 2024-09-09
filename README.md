@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Paper Idol — Bring Me Down](https://www.last.fm/music/Paper+Idol/_/Bring+Me+Down)
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
+* [Eden — 909](https://www.last.fm/music/Eden/_/909)
 * [Desired — Wake Up](https://www.last.fm/music/Desired/_/Wake+Up)
-* [Rezz — H E X](https://www.last.fm/music/Rezz/_/H+E+X)
-* [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
-* [shiey — Distance](https://www.last.fm/music/shiey/_/Distance)
-* [Aiobahn — ここにいる - Stephen Walking Remix](https://www.last.fm/music/Aiobahn/_/%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B+-+Stephen+Walking+Remix)<!-- LASTFM:END -->
+* [Rezz — H E X](https://www.last.fm/music/Rezz/_/H+E+X)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
