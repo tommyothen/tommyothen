@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — So Heavy I Fell Through the Earth - ANNA Remix](https://www.last.fm/music/Grimes/_/So+Heavy+I+Fell+Through+the+Earth+-+ANNA+Remix)
 * [Grimes — Violence - Original Mix](https://www.last.fm/music/Grimes/_/Violence+-+Original+Mix)
 * [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
 * [Grimes — Delicate Weapon](https://www.last.fm/music/Grimes/_/Delicate+Weapon)
-* [Anyma — Welcome To The Opera &lpar;with Grimes&rpar;](https://www.last.fm/music/Anyma/_/Welcome+To+The+Opera+&lpar;with+Grimes&rpar;)
-* [Grimes — Shinigami Eyes](https://www.last.fm/music/Grimes/_/Shinigami+Eyes)<!-- LASTFM:END -->
+* [Anyma — Welcome To The Opera &lpar;with Grimes&rpar;](https://www.last.fm/music/Anyma/_/Welcome+To+The+Opera+&lpar;with+Grimes&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
