@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Caravan Palace — Melancolia](https://www.last.fm/music/Caravan+Palace/_/Melancolia)
+* [galdive — Sorbet](https://www.last.fm/music/galdive/_/Sorbet)
 * [Yung Bambi — Facetime](https://www.last.fm/music/Yung+Bambi/_/Facetime)
 * [Grimes — 4ÆM](https://www.last.fm/music/Grimes/_/4%C3%86M)
-* [Grimes — Violence - REZZ Remix](https://www.last.fm/music/Grimes/_/Violence+-+REZZ+Remix)
-* [Grimes — Delete Forever - Channel Tres Remix](https://www.last.fm/music/Grimes/_/Delete+Forever+-+Channel+Tres+Remix)
-* [Grimes — Darkseid - Richie Hawtin Remix](https://www.last.fm/music/Grimes/_/Darkseid+-+Richie+Hawtin+Remix)<!-- LASTFM:END -->
+* [Grimes — Violence - REZZ Remix](https://www.last.fm/music/Grimes/_/Violence+-+REZZ+Remix)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
