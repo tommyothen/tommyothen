@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FEDUK — Делай, Что Хочешь](https://www.last.fm/music/FEDUK/_/%D0%94%D0%B5%D0%BB%D0%B0%D0%B9,+%D0%A7%D1%82%D0%BE+%D0%A5%D0%BE%D1%87%D0%B5%D1%88%D1%8C)
+* [BoxPlot — Tramontane](https://www.last.fm/music/BoxPlot/_/Tramontane)
 * [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)
 * [Food House — 8 now](https://www.last.fm/music/Food+House/_/8+now)
-* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
-* [Caravan Palace — Melancolia](https://www.last.fm/music/Caravan+Palace/_/Melancolia)<!-- LASTFM:END -->
+* [Netrum — Shivers](https://www.last.fm/music/Netrum/_/Shivers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
