@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
+* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)
 * [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
 * [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [Igorrr — Opus Brain](https://www.last.fm/music/Igorrr/_/Opus+Brain)
-* [Igorrr — Houmous](https://www.last.fm/music/Igorrr/_/Houmous)
-* [Igorrr — Musette Maximum](https://www.last.fm/music/Igorrr/_/Musette+Maximum)<!-- LASTFM:END -->
+* [Igorrr — Opus Brain](https://www.last.fm/music/Igorrr/_/Opus+Brain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
