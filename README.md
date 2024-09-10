@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)
+* [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)
+* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)
 * [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)
-* [Igorrr — Problème d&#39;émotion](https://www.last.fm/music/Igorrr/_/Probl%C3%A8me+d%27%C3%A9motion)
-* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
-* [ÖXXÖ XÖÖX — Cündü&lpar;-&rpar;](https://www.last.fm/music/%C3%96XX%C3%96+X%C3%96%C3%96X/_/C%C3%BCnd%C3%BC&lpar;-&rpar;)
-* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)<!-- LASTFM:END -->
+* [Igorrr — Problème d&#39;émotion](https://www.last.fm/music/Igorrr/_/Probl%C3%A8me+d%27%C3%A9motion)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
