@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)
 * [Gigi Perez — Sailor Song](https://www.last.fm/music/Gigi+Perez/_/Sailor+Song)
 * [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)
 * [Igorrr — Downgrade Desert](https://www.last.fm/music/Igorrr/_/Downgrade+Desert)
-* [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)
-* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)<!-- LASTFM:END -->
+* [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
