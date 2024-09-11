@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — On the Level](https://www.last.fm/music/Poppy/_/On+the+Level)
+* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)
 * [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)
 * [Poppy — Flux](https://www.last.fm/music/Poppy/_/Flux)
-* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)
-* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
-* [Ne Obliviscaris — Painters of the Tempest - Part II - Triptych Lux](https://www.last.fm/music/Ne+Obliviscaris/_/Painters+of+the+Tempest+-+Part+II+-+Triptych+Lux)<!-- LASTFM:END -->
+* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
