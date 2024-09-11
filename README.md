@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — Bloom](https://www.last.fm/music/Poppy/_/Bloom)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [Poppy — Hysteria](https://www.last.fm/music/Poppy/_/Hysteria)
-* [Poppy — On the Level](https://www.last.fm/music/Poppy/_/On+the+Level)
-* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)<!-- LASTFM:END -->
+* [Egg — Putting a Spin on Sweater Weather](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Sweater+Weather)
+* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)
+* [Eevee — that real good](https://www.last.fm/music/Eevee/_/that+real+good)
+* [Adore — dancing while the world burns](https://www.last.fm/music/Adore/_/dancing+while+the+world+burns)
+* [Poppy — As Strange As It Seems](https://www.last.fm/music/Poppy/_/As+Strange+As+It+Seems)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
