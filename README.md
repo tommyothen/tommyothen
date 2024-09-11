@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Egg — Passing Papers](https://www.last.fm/music/Egg/_/Passing+Papers)
+* [Egg — Putting a Spin on Hey There Delilah](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Hey+There+Delilah)
 * [Egg — Anarchy](https://www.last.fm/music/Egg/_/Anarchy)
 * [Egg — rises the moon](https://www.last.fm/music/Egg/_/rises+the+moon)
-* [Egg — Sorry Haha I Fell Asleep](https://www.last.fm/music/Egg/_/Sorry+Haha+I+Fell+Asleep)
-* [Egg — Putting a Spin on Sweater Weather](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Sweater+Weather)
-* [PinkPantheress — Boy&#39;s a liar Pt. 2](https://www.last.fm/music/PinkPantheress/_/Boy%27s+a+liar+Pt.+2)<!-- LASTFM:END -->
+* [Egg — Sorry Haha I Fell Asleep](https://www.last.fm/music/Egg/_/Sorry+Haha+I+Fell+Asleep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
