@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
 * [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
 * [Egg — Putting a Spin on Sweater Weather](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Sweater+Weather)
 * [Egg — Passing Papers](https://www.last.fm/music/Egg/_/Passing+Papers)
-* [Egg — Putting a Spin on Hey There Delilah](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Hey+There+Delilah)
-* [Egg — Anarchy](https://www.last.fm/music/Egg/_/Anarchy)<!-- LASTFM:END -->
+* [Egg — Putting a Spin on Hey There Delilah](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Hey+There+Delilah)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
