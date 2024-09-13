@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [黒魔 &lpar;Chroma&rpar; — Dark Sheep](https://www.last.fm/music/%E9%BB%92%E9%AD%94+&lpar;Chroma&rpar;/_/Dark+Sheep)
+* [黒魔 &lpar;Chroma&rpar; — 流星群に会えた夏](https://www.last.fm/music/%E9%BB%92%E9%AD%94+&lpar;Chroma&rpar;/_/%E6%B5%81%E6%98%9F%E7%BE%A4%E3%81%AB%E4%BC%9A%E3%81%88%E3%81%9F%E5%A4%8F)
 * [Poppy — On the Level](https://www.last.fm/music/Poppy/_/On+the+Level)
 * [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)
-* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)
-* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)
-* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)<!-- LASTFM:END -->
+* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
