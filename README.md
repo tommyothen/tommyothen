@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)
+* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)
 * [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)
 * [Igorrr — Problème d&#39;émotion](https://www.last.fm/music/Igorrr/_/Probl%C3%A8me+d%27%C3%A9motion)
-* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
-* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
 * [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
