@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
 * [黒魔 &lpar;Chroma&rpar; — 想いでの金平糖](https://www.last.fm/music/%E9%BB%92%E9%AD%94+&lpar;Chroma&rpar;/_/%E6%83%B3%E3%81%84%E3%81%A7%E3%81%AE%E9%87%91%E5%B9%B3%E7%B3%96)
 * [黒魔 &lpar;Chroma&rpar; — 流星群に会えた夏](https://www.last.fm/music/%E9%BB%92%E9%AD%94+&lpar;Chroma&rpar;/_/%E6%B5%81%E6%98%9F%E7%BE%A4%E3%81%AB%E4%BC%9A%E3%81%88%E3%81%9F%E5%A4%8F)
 * [黒魔 &lpar;Chroma&rpar; — To the Milky Way](https://www.last.fm/music/%E9%BB%92%E9%AD%94+&lpar;Chroma&rpar;/_/To+the+Milky+Way)
-* [黒魔 &lpar;Chroma&rpar; — Dark Sheep](https://www.last.fm/music/%E9%BB%92%E9%AD%94+&lpar;Chroma&rpar;/_/Dark+Sheep)
-* [黒魔 &lpar;Chroma&rpar; — 流星群に会えた夏](https://www.last.fm/music/%E9%BB%92%E9%AD%94+&lpar;Chroma&rpar;/_/%E6%B5%81%E6%98%9F%E7%BE%A4%E3%81%AB%E4%BC%9A%E3%81%88%E3%81%9F%E5%A4%8F)<!-- LASTFM:END -->
+* [黒魔 &lpar;Chroma&rpar; — Dark Sheep](https://www.last.fm/music/%E9%BB%92%E9%AD%94+&lpar;Chroma&rpar;/_/Dark+Sheep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
