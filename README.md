@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ellie Williams — Perfect Playlist](https://www.last.fm/music/Ellie+Williams/_/Perfect+Playlist)
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
+* [Ellie Williams — Smokescreen](https://www.last.fm/music/Ellie+Williams/_/Smokescreen)
 * [mxmtoon — used to you](https://www.last.fm/music/mxmtoon/_/used+to+you)
-* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
-* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)<!-- LASTFM:END -->
+* [nihmune — Plants](https://www.last.fm/music/nihmune/_/Plants)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
