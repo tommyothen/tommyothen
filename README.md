@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Haunt — I&#39;m Not Yours](https://www.last.fm/music/The+Haunt/_/I%27m+Not+Yours)
+* [VIOLENT VIRA — Tarantula Girl](https://www.last.fm/music/VIOLENT+VIRA/_/Tarantula+Girl)
+* [WARGASM &lpar;UK&rpar; — 70% Dead &lpar;with Corey Taylor&rpar;](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/70%25+Dead+&lpar;with+Corey+Taylor&rpar;)
 * [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
-* [Kailee Morgue — Black Sheep](https://www.last.fm/music/Kailee+Morgue/_/Black+Sheep)
-* [Knocked Loose — Suffocate &lpar;feat. Poppy&rpar;](https://www.last.fm/music/Knocked+Loose/_/Suffocate+&lpar;feat.+Poppy&rpar;)
-* [Pierce the Veil — Pass the Nirvana](https://www.last.fm/music/Pierce+the+Veil/_/Pass+the+Nirvana)
-* [South Arcade — stone cold summer](https://www.last.fm/music/South+Arcade/_/stone+cold+summer)<!-- LASTFM:END -->
+* [Kailee Morgue — Black Sheep](https://www.last.fm/music/Kailee+Morgue/_/Black+Sheep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
