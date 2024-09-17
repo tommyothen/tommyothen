@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FKA Rayne — Side Effect](https://www.last.fm/music/FKA+Rayne/_/Side+Effect)
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
+* [WARGASM &lpar;UK&rpar; — Salma Hayek](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Salma+Hayek)
 * [Mothica — CASUALTY](https://www.last.fm/music/Mothica/_/CASUALTY)
-* [Dal Av — Insanely Illegal Cage Fight](https://www.last.fm/music/Dal+Av/_/Insanely+Illegal+Cage+Fight)
-* [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [WARGASM &lpar;UK&rpar; — Post Modern Rhapsody](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Post+Modern+Rhapsody)<!-- LASTFM:END -->
+* [Dal Av — Insanely Illegal Cage Fight](https://www.last.fm/music/Dal+Av/_/Insanely+Illegal+Cage+Fight)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
