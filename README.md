@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
-* [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
-* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)
-* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)<!-- LASTFM:END -->
+* [VIOLENT VIRA — you&#39;re not gone, you&#39;re just dead!](https://www.last.fm/music/VIOLENT+VIRA/_/you%27re+not+gone,+you%27re+just+dead!)
+* [Honey Revenge — Airhead](https://www.last.fm/music/Honey+Revenge/_/Airhead)
+* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)
+* [laura les — Haunted](https://www.last.fm/music/laura+les/_/Haunted)
+* [GIRLI — More Than a Friend](https://www.last.fm/music/GIRLI/_/More+Than+a+Friend)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
