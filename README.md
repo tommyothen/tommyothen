@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Mothica — CASUALTY](https://www.last.fm/music/Mothica/_/CASUALTY)
+* [Dal Av — Insanely Illegal Cage Fight](https://www.last.fm/music/Dal+Av/_/Insanely+Illegal+Cage+Fight)
 * [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)
 * [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [WARGASM &lpar;UK&rpar; — Post Modern Rhapsody](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Post+Modern+Rhapsody)
-* [Not Enough Space — No Way Out](https://www.last.fm/music/Not+Enough+Space/_/No+Way+Out)
-* [Spiritbox — Circle With Me](https://www.last.fm/music/Spiritbox/_/Circle+With+Me)<!-- LASTFM:END -->
+* [WARGASM &lpar;UK&rpar; — Post Modern Rhapsody](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Post+Modern+Rhapsody)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
