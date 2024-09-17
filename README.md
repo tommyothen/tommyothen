@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [WARGASM &lpar;UK&rpar; — Post Modern Rhapsody](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Post+Modern+Rhapsody)
 * [Not Enough Space — No Way Out](https://www.last.fm/music/Not+Enough+Space/_/No+Way+Out)
-* [Spiritbox — Circle With Me](https://www.last.fm/music/Spiritbox/_/Circle+With+Me)
-* [VIOLENT VIRA — you&#39;re not gone, you&#39;re just dead!](https://www.last.fm/music/VIOLENT+VIRA/_/you%27re+not+gone,+you%27re+just+dead!)
-* [Honey Revenge — Airhead](https://www.last.fm/music/Honey+Revenge/_/Airhead)
-* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)<!-- LASTFM:END -->
+* [Spiritbox — Circle With Me](https://www.last.fm/music/Spiritbox/_/Circle+With+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
