@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)
+* [Kailee Morgue — Black Sheep](https://www.last.fm/music/Kailee+Morgue/_/Black+Sheep)
+* [Knocked Loose — Suffocate &lpar;feat. Poppy&rpar;](https://www.last.fm/music/Knocked+Loose/_/Suffocate+&lpar;feat.+Poppy&rpar;)
 * [Pierce the Veil — Pass the Nirvana](https://www.last.fm/music/Pierce+the+Veil/_/Pass+the+Nirvana)
-* [South Arcade — stone cold summer](https://www.last.fm/music/South+Arcade/_/stone+cold+summer)
-* [FKA Rayne — Side Effect](https://www.last.fm/music/FKA+Rayne/_/Side+Effect)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [WARGASM &lpar;UK&rpar; — Salma Hayek](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Salma+Hayek)<!-- LASTFM:END -->
+* [South Arcade — stone cold summer](https://www.last.fm/music/South+Arcade/_/stone+cold+summer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
