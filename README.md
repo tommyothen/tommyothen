@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — WIll He &lpar;Ryan Hemsworth Remix&rpar;](https://www.last.fm/music/Joji/_/WIll+He+&lpar;Ryan+Hemsworth+Remix&rpar;)
+* [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
 * [Stonebank — By Your Side](https://www.last.fm/music/Stonebank/_/By+Your+Side)
-* [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)
-* [We Are Fury — Don&#39;t Forget &lpar;feat. Mariah Delage&rpar;](https://www.last.fm/music/We+Are+Fury/_/Don%27t+Forget+&lpar;feat.+Mariah+Delage&rpar;)
-* [Yung Gravy — BOOMIN](https://www.last.fm/music/Yung+Gravy/_/BOOMIN)
-* [Mungo&#39;s Hi Fi — Jump Up Quickly](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Jump+Up+Quickly)<!-- LASTFM:END -->
+* [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
