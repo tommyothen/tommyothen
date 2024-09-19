@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Stonebank — By Your Side](https://www.last.fm/music/Stonebank/_/By+Your+Side)
+* [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)
 * [We Are Fury — Don&#39;t Forget &lpar;feat. Mariah Delage&rpar;](https://www.last.fm/music/We+Are+Fury/_/Don%27t+Forget+&lpar;feat.+Mariah+Delage&rpar;)
 * [Yung Gravy — BOOMIN](https://www.last.fm/music/Yung+Gravy/_/BOOMIN)
-* [Mungo&#39;s Hi Fi — Jump Up Quickly](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Jump+Up+Quickly)
-* [Softwilly — CHROME BERETTA](https://www.last.fm/music/Softwilly/_/CHROME+BERETTA)
-* [LAKIM — A Pimp Named Slickback](https://www.last.fm/music/LAKIM/_/A+Pimp+Named+Slickback)<!-- LASTFM:END -->
+* [Mungo&#39;s Hi Fi — Jump Up Quickly](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Jump+Up+Quickly)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
