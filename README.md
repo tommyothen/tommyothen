@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
-* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
-* [TWICE — FANCY](https://www.last.fm/music/TWICE/_/FANCY)
-* [Kuwago — Let&#39;s start](https://www.last.fm/music/Kuwago/_/Let%27s+start)
-* [The Deli — 5:32PM](https://www.last.fm/music/The+Deli/_/5:32PM)<!-- LASTFM:END -->
+* [Corpse — HOT DEMON B!TCHES NEAR U ! ! !](https://www.last.fm/music/Corpse/_/HOT+DEMON+B!TCHES+NEAR+U+!+!+!)
+* [Trippy Tha Kid — Lickity Split](https://www.last.fm/music/Trippy+Tha+Kid/_/Lickity+Split)
+* [deadman 死人 — Omae Wa Mou](https://www.last.fm/music/deadman+%E6%AD%BB%E4%BA%BA/_/Omae+Wa+Mou)
+* [Block B — 난리나](https://www.last.fm/music/Block+B/_/%EB%82%9C%EB%A6%AC%EB%82%98)
+* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
