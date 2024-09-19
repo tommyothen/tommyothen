@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
 * [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
 * [Static Dress — crying](https://www.last.fm/music/Static+Dress/_/crying)
-* [Sophie Powers — Better On Mute](https://www.last.fm/music/Sophie+Powers/_/Better+On+Mute)
-* [The Haunt — I&#39;m Not Yours](https://www.last.fm/music/The+Haunt/_/I%27m+Not+Yours)
-* [VIOLENT VIRA — Tarantula Girl](https://www.last.fm/music/VIOLENT+VIRA/_/Tarantula+Girl)<!-- LASTFM:END -->
+* [Sophie Powers — Better On Mute](https://www.last.fm/music/Sophie+Powers/_/Better+On+Mute)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
