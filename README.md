@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
+* [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)
 * [Joji — WIll He &lpar;Ryan Hemsworth Remix&rpar;](https://www.last.fm/music/Joji/_/WIll+He+&lpar;Ryan+Hemsworth+Remix&rpar;)
 * [Eden — Wake Up](https://www.last.fm/music/Eden/_/Wake+Up)
-* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)
-* [Stonebank — By Your Side](https://www.last.fm/music/Stonebank/_/By+Your+Side)
-* [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)<!-- LASTFM:END -->
+* [Dev Lemons — One Whole Me](https://www.last.fm/music/Dev+Lemons/_/One+Whole+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
