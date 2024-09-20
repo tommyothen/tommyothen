@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
+* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
 * [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)
 * [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
-* [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)
-* [Joji — WIll He &lpar;Ryan Hemsworth Remix&rpar;](https://www.last.fm/music/Joji/_/WIll+He+&lpar;Ryan+Hemsworth+Remix&rpar;)<!-- LASTFM:END -->
+* [EARTHGANG — Up](https://www.last.fm/music/EARTHGANG/_/Up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
