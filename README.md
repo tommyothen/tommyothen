@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
 * [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
 * [gupi — False Awakening](https://www.last.fm/music/gupi/_/False+Awakening)
 * [Wiley — Wearing My Rolex - Radio Edit](https://www.last.fm/music/Wiley/_/Wearing+My+Rolex+-+Radio+Edit)
-* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)
-* [Aries — UR NOT PRECIOUS](https://www.last.fm/music/Aries/_/UR+NOT+PRECIOUS)<!-- LASTFM:END -->
+* [Hey Violet — Better By Myself](https://www.last.fm/music/Hey+Violet/_/Better+By+Myself)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
