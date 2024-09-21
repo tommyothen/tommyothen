@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TOKYOPILL — Let&#39;s All Love Lain](https://www.last.fm/music/TOKYOPILL/_/Let%27s+All+Love+Lain)
+* [iwakura — Cyberia](https://www.last.fm/music/iwakura/_/Cyberia)
+* [Sewerslvt — Kawaii Razor Blades](https://www.last.fm/music/Sewerslvt/_/Kawaii+Razor+Blades)
 * [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
-* [purity filter — takemeawaypls.wav &lpar;INTO THE NIGHTCORE&rpar;](https://www.last.fm/music/purity+filter/_/takemeawaypls.wav+&lpar;INTO+THE+NIGHTCORE&rpar;)
-* [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)
-* [Adolf Nomura — BEAT THE POLICE](https://www.last.fm/music/Adolf+Nomura/_/BEAT+THE+POLICE)
-* [GOLEMM — croakers](https://www.last.fm/music/GOLEMM/_/croakers)<!-- LASTFM:END -->
+* [purity filter — takemeawaypls.wav &lpar;INTO THE NIGHTCORE&rpar;](https://www.last.fm/music/purity+filter/_/takemeawaypls.wav+&lpar;INTO+THE+NIGHTCORE&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
