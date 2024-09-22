@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rav — Lovedrug &lpar;Off That&rpar;](https://www.last.fm/music/Rav/_/Lovedrug+&lpar;Off+That&rpar;)
+* [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)
 * [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
 * [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
-* [Stevie Matthew — a song to make out to](https://www.last.fm/music/Stevie+Matthew/_/a+song+to+make+out+to)
-* [Charli XCX — Apple](https://www.last.fm/music/Charli+XCX/_/Apple)<!-- LASTFM:END -->
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
