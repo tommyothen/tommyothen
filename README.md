@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FloFilz — Nomind](https://www.last.fm/music/FloFilz/_/Nomind)
+* [FREEL — Intro](https://www.last.fm/music/FREEL/_/Intro)
 * [Kill Bill: The Rapper — Chinatown](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Chinatown)
 * [Mungo&#39;s Hi Fi — Babylon Raid](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Babylon+Raid)
-* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
-* [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)
-* [Lemaitre — Higher](https://www.last.fm/music/Lemaitre/_/Higher)<!-- LASTFM:END -->
+* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
