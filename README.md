@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)
+* [Cute Girls Doing Cute Things — I Like Cute Girls](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/I+Like+Cute+Girls)
 * [FloFilz — Nomind](https://www.last.fm/music/FloFilz/_/Nomind)
 * [FREEL — Intro](https://www.last.fm/music/FREEL/_/Intro)
-* [Kill Bill: The Rapper — Chinatown](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Chinatown)
-* [Mungo&#39;s Hi Fi — Babylon Raid](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Babylon+Raid)
-* [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)<!-- LASTFM:END -->
+* [Kill Bill: The Rapper — Chinatown](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Chinatown)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
