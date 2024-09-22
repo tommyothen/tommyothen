@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
+* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
+* [BROCKHAMPTON — ZIPPER](https://www.last.fm/music/BROCKHAMPTON/_/ZIPPER)
 * [XXXTENTACION — hearteater](https://www.last.fm/music/XXXTENTACION/_/hearteater)
-* [Nujabes — Feather &lpar;feat. Cise Starr &amp; Akin from Cyne&rpar;](https://www.last.fm/music/Nujabes/_/Feather+&lpar;feat.+Cise+Starr+&amp;+Akin+from+Cyne&rpar;)
-* [Zeph — miss me](https://www.last.fm/music/Zeph/_/miss+me)
-* [bbno$ — tony thot](https://www.last.fm/music/bbno$/_/tony+thot)
-* [bbno$ — litmas](https://www.last.fm/music/bbno$/_/litmas)<!-- LASTFM:END -->
+* [Nujabes — Feather &lpar;feat. Cise Starr &amp; Akin from Cyne&rpar;](https://www.last.fm/music/Nujabes/_/Feather+&lpar;feat.+Cise+Starr+&amp;+Akin+from+Cyne&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
