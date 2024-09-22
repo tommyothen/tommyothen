@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Haywyre — Let Me Hear That](https://www.last.fm/music/Haywyre/_/Let+Me+Hear+That)
+* [XXXTENTACION — Bowser](https://www.last.fm/music/XXXTENTACION/_/Bowser)
+* [Stonebank — By Your Side](https://www.last.fm/music/Stonebank/_/By+Your+Side)
 * [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)
-* [Cute Girls Doing Cute Things — I Like Cute Girls](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/I+Like+Cute+Girls)
-* [FloFilz — Nomind](https://www.last.fm/music/FloFilz/_/Nomind)
-* [FREEL — Intro](https://www.last.fm/music/FREEL/_/Intro)
-* [Kill Bill: The Rapper — Chinatown](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Chinatown)<!-- LASTFM:END -->
+* [Cute Girls Doing Cute Things — I Like Cute Girls](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/I+Like+Cute+Girls)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
