@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [UNDEAD CORPORATION DOUJIN WORKS — Flowering Night Fever](https://www.last.fm/music/UNDEAD+CORPORATION+DOUJIN+WORKS/_/Flowering+Night+Fever)
+* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
 * [Grabbitz — Polaroid](https://www.last.fm/music/Grabbitz/_/Polaroid)
 * [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
-* [Machine Girl — Cyan Hardcore](https://www.last.fm/music/Machine+Girl/_/Cyan+Hardcore)
-* [Rory in early 20s — De Kieru](https://www.last.fm/music/Rory+in+early+20s/_/De+Kieru)
-* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)<!-- LASTFM:END -->
+* [Machine Girl — Cyan Hardcore](https://www.last.fm/music/Machine+Girl/_/Cyan+Hardcore)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
