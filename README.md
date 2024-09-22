@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Prismo — In My Mind](https://www.last.fm/music/Prismo/_/In+My+Mind)
+* [Pendulum — Propane Nightmares - Grabbitz Remix](https://www.last.fm/music/Pendulum/_/Propane+Nightmares+-+Grabbitz+Remix)
+* [Billie Eilish — listen before i go](https://www.last.fm/music/Billie+Eilish/_/listen+before+i+go)
 * [Aiobahn — Fragments](https://www.last.fm/music/Aiobahn/_/Fragments)
-* [cherry beach — Gravity](https://www.last.fm/music/cherry+beach/_/Gravity)
-* [Syko — #BrooklynBloodPop!](https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!)
-* [Bliss n Eso — Tear The Roof Off](https://www.last.fm/music/Bliss+n+Eso/_/Tear+The+Roof+Off)
-* [Adore — dancing while the world burns](https://www.last.fm/music/Adore/_/dancing+while+the+world+burns)<!-- LASTFM:END -->
+* [cherry beach — Gravity](https://www.last.fm/music/cherry+beach/_/Gravity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
