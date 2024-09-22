@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
+* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)
+* [サクラSakura-Lee — lay it on me](https://www.last.fm/music/%E3%82%B5%E3%82%AF%E3%83%A9Sakura-Lee/_/lay+it+on+me)
 * [Yung Gravy — oops!](https://www.last.fm/music/Yung+Gravy/_/oops!)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [YUNG BAE — I Can Tell](https://www.last.fm/music/YUNG+BAE/_/I+Can+Tell)
-* [Ren Carter — Frog](https://www.last.fm/music/Ren+Carter/_/Frog)
-* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)<!-- LASTFM:END -->
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
