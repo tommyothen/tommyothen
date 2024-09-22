@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
 * [Ariana Grande — Into You](https://www.last.fm/music/Ariana+Grande/_/Into+You)
 * [Unlucky Morpheus — Black Pentagram](https://www.last.fm/music/Unlucky+Morpheus/_/Black+Pentagram)
-* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
-* [Igorrr — Double Monk](https://www.last.fm/music/Igorrr/_/Double+Monk)
-* [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)<!-- LASTFM:END -->
+* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
