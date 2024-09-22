@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kill Bill: The Rapper — Chinatown](https://www.last.fm/music/Kill+Bill:+The+Rapper/_/Chinatown)
+* [Mungo&#39;s Hi Fi — Babylon Raid](https://www.last.fm/music/Mungo%27s+Hi+Fi/_/Babylon+Raid)
 * [dismissedfit — Siesta](https://www.last.fm/music/dismissedfit/_/Siesta)
 * [KUURO — Slap!](https://www.last.fm/music/KUURO/_/Slap!)
-* [Lemaitre — Higher](https://www.last.fm/music/Lemaitre/_/Higher)
-* [Bay Faction — Swan Dive](https://www.last.fm/music/Bay+Faction/_/Swan+Dive)
-* [Jaden — Summertime in Paris](https://www.last.fm/music/Jaden/_/Summertime+in+Paris)<!-- LASTFM:END -->
+* [Lemaitre — Higher](https://www.last.fm/music/Lemaitre/_/Higher)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
