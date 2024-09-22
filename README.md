@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [A$AP Rocky — Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)
+* [nohidea — Garden / Lost](https://www.last.fm/music/nohidea/_/Garden+%2F+Lost)
+* [Zomboy — Battlefields](https://www.last.fm/music/Zomboy/_/Battlefields)
 * [Rav — Lovedrug &lpar;Off That&rpar;](https://www.last.fm/music/Rav/_/Lovedrug+&lpar;Off+That&rpar;)
-* [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)
-* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
-* [HUH — MBT](https://www.last.fm/music/HUH/_/MBT)
-* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)<!-- LASTFM:END -->
+* [Camellia — Zhuzhzhalka76](https://www.last.fm/music/Camellia/_/Zhuzhzhalka76)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
