@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BewhY — Challan](https://www.last.fm/music/BewhY/_/Challan)
 * [Stevie Matthew — a song to make out to](https://www.last.fm/music/Stevie+Matthew/_/a+song+to+make+out+to)
 * [Charli XCX — Apple](https://www.last.fm/music/Charli+XCX/_/Apple)
 * [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)
-* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)
-* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)<!-- LASTFM:END -->
+* [Hybs — Tip Toe](https://www.last.fm/music/Hybs/_/Tip+Toe)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
