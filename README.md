@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fear, and Loathing in Las Vegas — The Gong of Knockout](https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/The+Gong+of+Knockout)
+* [Billie Eilish — when the party&#39;s over](https://www.last.fm/music/Billie+Eilish/_/when+the+party%27s+over)
 * [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
 * [Kero Kero Bonito — Only Acting](https://www.last.fm/music/Kero+Kero+Bonito/_/Only+Acting)
-* [Loco — Don’t](https://www.last.fm/music/Loco/_/Don%E2%80%99t)
-* [Prismo — Stronger](https://www.last.fm/music/Prismo/_/Stronger)
-* [Rich Brian — Chaos](https://www.last.fm/music/Rich+Brian/_/Chaos)<!-- LASTFM:END -->
+* [Loco — Don’t](https://www.last.fm/music/Loco/_/Don%E2%80%99t)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
