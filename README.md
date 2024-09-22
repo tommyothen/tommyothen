@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Against the Current — again&amp;again](https://www.last.fm/music/Against+the+Current/_/again&amp;again)
+* [Wonder Girls — Tell Me](https://www.last.fm/music/Wonder+Girls/_/Tell+Me)
+* [Post Malone — Sunflower - Spider-Man: Into the Spider-Verse](https://www.last.fm/music/Post+Malone/_/Sunflower+-+Spider-Man:+Into+the+Spider-Verse)
 * [Haywyre — Let Me Hear That](https://www.last.fm/music/Haywyre/_/Let+Me+Hear+That)
-* [XXXTENTACION — Bowser](https://www.last.fm/music/XXXTENTACION/_/Bowser)
-* [Stonebank — By Your Side](https://www.last.fm/music/Stonebank/_/By+Your+Side)
-* [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)
-* [Cute Girls Doing Cute Things — I Like Cute Girls](https://www.last.fm/music/Cute+Girls+Doing+Cute+Things/_/I+Like+Cute+Girls)<!-- LASTFM:END -->
+* [XXXTENTACION — Bowser](https://www.last.fm/music/XXXTENTACION/_/Bowser)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
