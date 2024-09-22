@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — Ditto](https://www.last.fm/music/NewJeans/_/Ditto)
+* [Kero Kero Bonito — Only Acting](https://www.last.fm/music/Kero+Kero+Bonito/_/Only+Acting)
+* [Loco — Don’t](https://www.last.fm/music/Loco/_/Don%E2%80%99t)
 * [Prismo — Stronger](https://www.last.fm/music/Prismo/_/Stronger)
-* [Rich Brian — Chaos](https://www.last.fm/music/Rich+Brian/_/Chaos)
-* [ZICO — SEOUL DRIFT](https://www.last.fm/music/ZICO/_/SEOUL+DRIFT)
-* [Gift Of Gab — Freedom Form Flowing](https://www.last.fm/music/Gift+Of+Gab/_/Freedom+Form+Flowing)
-* [Chloe Moriondo — Ghost Adventure Spirit Orb](https://www.last.fm/music/Chloe+Moriondo/_/Ghost+Adventure+Spirit+Orb)<!-- LASTFM:END -->
+* [Rich Brian — Chaos](https://www.last.fm/music/Rich+Brian/_/Chaos)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
