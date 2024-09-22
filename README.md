@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rejjie Snow — Egyptian Luvr](https://www.last.fm/music/Rejjie+Snow/_/Egyptian+Luvr)
+* [Wun Two — Again](https://www.last.fm/music/Wun+Two/_/Again)
 * [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
 * [Desired — Sunshine City](https://www.last.fm/music/Desired/_/Sunshine+City)
-* [Egg — Putting a Spin on Sweater Weather](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Sweater+Weather)
-* [Camellia — C.H.E.E.S.E.B.O.M.B](https://www.last.fm/music/Camellia/_/C.H.E.E.S.E.B.O.M.B)
-* [Johnny Balik — Honey](https://www.last.fm/music/Johnny+Balik/_/Honey)<!-- LASTFM:END -->
+* [Egg — Putting a Spin on Sweater Weather](https://www.last.fm/music/Egg/_/Putting+a+Spin+on+Sweater+Weather)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
