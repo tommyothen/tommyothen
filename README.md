@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sewerslvt — Kawaii Razor Blades](https://www.last.fm/music/Sewerslvt/_/Kawaii+Razor+Blades)
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
+* [Igorrr — Parpaing](https://www.last.fm/music/Igorrr/_/Parpaing)
 * [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)
-* [Igorrr — Cruciform Dachshund](https://www.last.fm/music/Igorrr/_/Cruciform+Dachshund)
-* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)
-* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)
-* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)<!-- LASTFM:END -->
+* [Igorrr — Cruciform Dachshund](https://www.last.fm/music/Igorrr/_/Cruciform+Dachshund)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
