@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ooxygen — Final wish](https://www.last.fm/music/Ooxygen/_/Final+wish)
+* [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)
 * [Sewerslvt — Ecifircas](https://www.last.fm/music/Sewerslvt/_/Ecifircas)
 * [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)
-* [FlowerBoyDeMii — iris](https://www.last.fm/music/FlowerBoyDeMii/_/iris)
-* [Nosgov — goes nowhere](https://www.last.fm/music/Nosgov/_/goes+nowhere)
-* [iwakura — Hatred](https://www.last.fm/music/iwakura/_/Hatred)<!-- LASTFM:END -->
+* [FlowerBoyDeMii — iris](https://www.last.fm/music/FlowerBoyDeMii/_/iris)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
