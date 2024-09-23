@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
+* [Igorrr — Paranoid Bulldozer Italiano](https://www.last.fm/music/Igorrr/_/Paranoid+Bulldozer+Italiano)
+* [Igorrr — Moldy Eye](https://www.last.fm/music/Igorrr/_/Moldy+Eye)
 * [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
-* [Igorrr — Pavor Nocturnus](https://www.last.fm/music/Igorrr/_/Pavor+Nocturnus)
-* [Igorrr — Melting Nails](https://www.last.fm/music/Igorrr/_/Melting+Nails)
-* [Igorrr — Very Long Chicken](https://www.last.fm/music/Igorrr/_/Very+Long+Chicken)
-* [Igorrr — ieuD](https://www.last.fm/music/Igorrr/_/ieuD)<!-- LASTFM:END -->
+* [Igorrr — Pavor Nocturnus](https://www.last.fm/music/Igorrr/_/Pavor+Nocturnus)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
