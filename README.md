@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — CUE](https://www.last.fm/music/Poppy/_/CUE)
 * [Poppy — Bleep Bloop](https://www.last.fm/music/Poppy/_/Bleep+Bloop)
 * [Poppy — BLOODMONEY](https://www.last.fm/music/Poppy/_/BLOODMONEY)
 * [Poppy — Scream](https://www.last.fm/music/Poppy/_/Scream)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)
-* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)<!-- LASTFM:END -->
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
