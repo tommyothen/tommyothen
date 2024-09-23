@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Adolf Nomura — BEAT THE POLICE](https://www.last.fm/music/Adolf+Nomura/_/BEAT+THE+POLICE)
-* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
-* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)
-* [Xxtarlit⚸ — untitled](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/untitled)<!-- LASTFM:END -->
+* [Nedaj — Alone](https://www.last.fm/music/Nedaj/_/Alone)
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
+* [Fifty Grand — Different Places](https://www.last.fm/music/Fifty+Grand/_/Different+Places)
+* [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
+* [Adolf Nomura — BEAT THE POLICE](https://www.last.fm/music/Adolf+Nomura/_/BEAT+THE+POLICE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
