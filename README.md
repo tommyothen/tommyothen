@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Xxtarlit⚸ — untitled](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/untitled)
-* [Golden Boy — Spirit Gun](https://www.last.fm/music/Golden+Boy/_/Spirit+Gun)
-* [Fifty Grand — Different Places](https://www.last.fm/music/Fifty+Grand/_/Different+Places)
-* [Ooxygen — Final wish](https://www.last.fm/music/Ooxygen/_/Final+wish)
-* [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)<!-- LASTFM:END -->
+* [Adolf Nomura — BEAT THE POLICE](https://www.last.fm/music/Adolf+Nomura/_/BEAT+THE+POLICE)
+* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
+* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)
+* [Xxtarlit⚸ — untitled](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/untitled)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
