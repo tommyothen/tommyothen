@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Igorrr — Parpaing](https://www.last.fm/music/Igorrr/_/Parpaing)
-* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
-* [Igorrr — Lost in Introspection](https://www.last.fm/music/Igorrr/_/Lost+in+Introspection)
-* [Igorrr — Barocco Satani](https://www.last.fm/music/Igorrr/_/Barocco+Satani)
-* [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)<!-- LASTFM:END -->
+* [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)
+* [Igorrr — Cruciform Dachshund](https://www.last.fm/music/Igorrr/_/Cruciform+Dachshund)
+* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)
+* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)
+* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
