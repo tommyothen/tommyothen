@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Problème d&#39;émotion](https://www.last.fm/music/Igorrr/_/Probl%C3%A8me+d%27%C3%A9motion)
+* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
 * [Igorrr — Cruciform Dachshund](https://www.last.fm/music/Igorrr/_/Cruciform+Dachshund)
 * [Igorrr — Spaghetti Forever](https://www.last.fm/music/Igorrr/_/Spaghetti+Forever)
-* [Igorrr — Damaged Wig](https://www.last.fm/music/Igorrr/_/Damaged+Wig)
-* [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)
-* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)<!-- LASTFM:END -->
+* [Igorrr — Damaged Wig](https://www.last.fm/music/Igorrr/_/Damaged+Wig)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
