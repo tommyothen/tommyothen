@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Igorrr — Downgrade Desert](https://www.last.fm/music/Igorrr/_/Downgrade+Desert)
-* [Igorrr — Houmous](https://www.last.fm/music/Igorrr/_/Houmous)
-* [Igorrr — Overweight Poesy](https://www.last.fm/music/Igorrr/_/Overweight+Poesy)
-* [Igorrr — Opus Brain](https://www.last.fm/music/Igorrr/_/Opus+Brain)
-* [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)<!-- LASTFM:END -->
+* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
+* [Igorrr — Absolute Psalm](https://www.last.fm/music/Igorrr/_/Absolute+Psalm)
+* [Igorrr — Caros](https://www.last.fm/music/Igorrr/_/Caros)
+* [Igorrr — Pallbearer](https://www.last.fm/music/Igorrr/_/Pallbearer)
+* [Igorrr — Downgrade Desert](https://www.last.fm/music/Igorrr/_/Downgrade+Desert)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
