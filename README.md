@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Corpus Tristis](https://www.last.fm/music/Igorrr/_/Corpus+Tristis)
+* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)
+* [Igorrr — Dentist](https://www.last.fm/music/Igorrr/_/Dentist)
 * [Igorrr — Pavor Nocturnus](https://www.last.fm/music/Igorrr/_/Pavor+Nocturnus)
-* [Igorrr — Problème d&#39;émotion](https://www.last.fm/music/Igorrr/_/Probl%C3%A8me+d%27%C3%A9motion)
-* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
-* [Igorrr — Absolute Psalm](https://www.last.fm/music/Igorrr/_/Absolute+Psalm)
-* [Igorrr — Caros](https://www.last.fm/music/Igorrr/_/Caros)<!-- LASTFM:END -->
+* [Igorrr — Problème d&#39;émotion](https://www.last.fm/music/Igorrr/_/Probl%C3%A8me+d%27%C3%A9motion)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
