@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Rory in early 20s — De Kieru](https://www.last.fm/music/Rory+in+early+20s/_/De+Kieru)
+* [Poppy — Say Cheese](https://www.last.fm/music/Poppy/_/Say+Cheese)
+* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
 * [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
-* [Flume — Insane &lpar;feat. Moon Holiday&rpar;](https://www.last.fm/music/Flume/_/Insane+&lpar;feat.+Moon+Holiday&rpar;)
-* [Ariana Grande — imperfect for you](https://www.last.fm/music/Ariana+Grande/_/imperfect+for+you)
-* [Ariana Grande — i wish i hated you](https://www.last.fm/music/Ariana+Grande/_/i+wish+i+hated+you)<!-- LASTFM:END -->
+* [Rory in early 20s — De Kieru](https://www.last.fm/music/Rory+in+early+20s/_/De+Kieru)
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
