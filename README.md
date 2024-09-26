@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eden — float](https://www.last.fm/music/Eden/_/float)
+* [Kin$oul — Supra](https://www.last.fm/music/Kin$oul/_/Supra)
+* [Eery — her](https://www.last.fm/music/Eery/_/her)
 * [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
-* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)
-* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
-* [bbno$ — how i do](https://www.last.fm/music/bbno$/_/how+i+do)
-* [FEDUK — Скит](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%BA%D0%B8%D1%82)<!-- LASTFM:END -->
+* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
