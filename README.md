@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jakey — Moby Dick](https://www.last.fm/music/Jakey/_/Moby+Dick)
 * [Stonebank — By Your Side](https://www.last.fm/music/Stonebank/_/By+Your+Side)
 * [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)
 * [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)
-* [Riot — Disorder](https://www.last.fm/music/Riot/_/Disorder)
-* [Young Lungs — &#39;97 Leo 2](https://www.last.fm/music/Young+Lungs/_/%2797+Leo+2)<!-- LASTFM:END -->
+* [Riot — Disorder](https://www.last.fm/music/Riot/_/Disorder)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
