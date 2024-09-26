@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Stonebank — By Your Side](https://www.last.fm/music/Stonebank/_/By+Your+Side)
+* [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)
 * [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)
 * [Riot — Disorder](https://www.last.fm/music/Riot/_/Disorder)
-* [Young Lungs — &#39;97 Leo 2](https://www.last.fm/music/Young+Lungs/_/%2797+Leo+2)
-* [Verzache — Needs](https://www.last.fm/music/Verzache/_/Needs)
-* [[bsd.u] — the grind](https://www.last.fm/music/%5Bbsd.u%5D/_/the+grind)<!-- LASTFM:END -->
+* [Young Lungs — &#39;97 Leo 2](https://www.last.fm/music/Young+Lungs/_/%2797+Leo+2)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
