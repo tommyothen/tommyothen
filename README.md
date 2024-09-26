@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [FEDUK — Скит](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%BA%D0%B8%D1%82)
-* [The Qemists — Run You](https://www.last.fm/music/The+Qemists/_/Run+You)
-* [EL SPEAKER — Medicine &lpar;feat. Antonella&rpar;](https://www.last.fm/music/EL+SPEAKER/_/Medicine+&lpar;feat.+Antonella&rpar;)
-* [bludnymph — Lickity Splickity](https://www.last.fm/music/bludnymph/_/Lickity+Splickity)
-* [Birocratic — Corporate Japan](https://www.last.fm/music/Birocratic/_/Corporate+Japan)<!-- LASTFM:END -->
+* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
+* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)
+* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
+* [bbno$ — how i do](https://www.last.fm/music/bbno$/_/how+i+do)
+* [FEDUK — Скит](https://www.last.fm/music/FEDUK/_/%D0%A1%D0%BA%D0%B8%D1%82)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
