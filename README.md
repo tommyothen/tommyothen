@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eden — float](https://www.last.fm/music/Eden/_/float)
-* [Kin$oul — Supra](https://www.last.fm/music/Kin$oul/_/Supra)
-* [Eery — her](https://www.last.fm/music/Eery/_/her)
-* [Onlyfriend — buckshot boy](https://www.last.fm/music/Onlyfriend/_/buckshot+boy)
-* [Ramirez — Sarcophagus II](https://www.last.fm/music/Ramirez/_/Sarcophagus+II)<!-- LASTFM:END -->
+* [[bsd.u] — the grind](https://www.last.fm/music/%5Bbsd.u%5D/_/the+grind)
+* [ilyTOMMY — Tunnel of Love - Remix](https://www.last.fm/music/ilyTOMMY/_/Tunnel+of+Love+-+Remix)
+* [NewJeans — OMG](https://www.last.fm/music/NewJeans/_/OMG)
+* [Fifty Fifty — Cupid &lpar;Twin Ver.&rpar; - Live Studio Version OT4](https://www.last.fm/music/Fifty+Fifty/_/Cupid+&lpar;Twin+Ver.&rpar;+-+Live+Studio+Version+OT4)
+* [Eden — float](https://www.last.fm/music/Eden/_/float)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
