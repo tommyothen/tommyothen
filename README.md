@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
 * [Jakey — Moby Dick](https://www.last.fm/music/Jakey/_/Moby+Dick)
 * [Stonebank — By Your Side](https://www.last.fm/music/Stonebank/_/By+Your+Side)
 * [suggi — astroboy.](https://www.last.fm/music/suggi/_/astroboy.)
-* [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)
-* [Riot — Disorder](https://www.last.fm/music/Riot/_/Disorder)<!-- LASTFM:END -->
+* [timmies — Do You Mind](https://www.last.fm/music/timmies/_/Do+You+Mind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
