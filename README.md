@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — On the Level](https://www.last.fm/music/Poppy/_/On+the+Level)
 * [Poppy — Bleep Bloop](https://www.last.fm/music/Poppy/_/Bleep+Bloop)
 * [Igorrr — Veins](https://www.last.fm/music/Igorrr/_/Veins)
 * [Igorrr — Va te foutre](https://www.last.fm/music/Igorrr/_/Va+te+foutre)
-* [Igorrr — Robert](https://www.last.fm/music/Igorrr/_/Robert)
-* [Igorrr — Corpus Tristis](https://www.last.fm/music/Igorrr/_/Corpus+Tristis)<!-- LASTFM:END -->
+* [Igorrr — Robert](https://www.last.fm/music/Igorrr/_/Robert)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
