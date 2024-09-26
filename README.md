@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)
+* [Shahmen — Dirt](https://www.last.fm/music/Shahmen/_/Dirt)
+* [The Neighbourhood — Cry Baby](https://www.last.fm/music/The+Neighbourhood/_/Cry+Baby)
 * [demxntia — it&#39;s alright](https://www.last.fm/music/demxntia/_/it%27s+alright)
-* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)
-* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
-* [Jakey — Moby Dick](https://www.last.fm/music/Jakey/_/Moby+Dick)
-* [Stonebank — By Your Side](https://www.last.fm/music/Stonebank/_/By+Your+Side)<!-- LASTFM:END -->
+* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
