@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XXXTENTACION — $$ - with Matt Ox](https://www.last.fm/music/XXXTENTACION/_/$$+-+with+Matt+Ox)
+* [XYLØ — ride or die](https://www.last.fm/music/XYL%C3%98/_/ride+or+die)
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
 * [Young Lungs — &#39;97 Leo 2](https://www.last.fm/music/Young+Lungs/_/%2797+Leo+2)
-* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)
-* [Joji — Demons](https://www.last.fm/music/Joji/_/Demons)
-* [Eldzhey — Розовое вино](https://www.last.fm/music/Eldzhey/_/%D0%A0%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B5+%D0%B2%D0%B8%D0%BD%D0%BE)
-* [Autograf — Simple &lpar;feat. Victoria Zaro&rpar;](https://www.last.fm/music/Autograf/_/Simple+&lpar;feat.+Victoria+Zaro&rpar;)<!-- LASTFM:END -->
+* [Glaive — i wanna slam my head against the wall](https://www.last.fm/music/Glaive/_/i+wanna+slam+my+head+against+the+wall)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
