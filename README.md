@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [King Kavalier — Bad Drugs](https://www.last.fm/music/King+Kavalier/_/Bad+Drugs)
+* [Gleb — motorest](https://www.last.fm/music/Gleb/_/motorest)
+* [Pendulum — Propane Nightmares](https://www.last.fm/music/Pendulum/_/Propane+Nightmares)
 * [MAX — Blueberry Eyes &lpar;feat. SUGA of BTS&rpar;](https://www.last.fm/music/MAX/_/Blueberry+Eyes+&lpar;feat.+SUGA+of+BTS&rpar;)
-* [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)
-* [Shahmen — Dirt](https://www.last.fm/music/Shahmen/_/Dirt)
-* [The Neighbourhood — Cry Baby](https://www.last.fm/music/The+Neighbourhood/_/Cry+Baby)
-* [demxntia — it&#39;s alright](https://www.last.fm/music/demxntia/_/it%27s+alright)<!-- LASTFM:END -->
+* [Bülow — You &amp; Jennifer](https://www.last.fm/music/B%C3%BClow/_/You+&amp;+Jennifer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
