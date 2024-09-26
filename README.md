@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Knocked Loose — Suffocate &lpar;feat. Poppy&rpar;](https://www.last.fm/music/Knocked+Loose/_/Suffocate+&lpar;feat.+Poppy&rpar;)
 * [Poppy — On the Level](https://www.last.fm/music/Poppy/_/On+the+Level)
+* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
 * [Poppy — Bleep Bloop](https://www.last.fm/music/Poppy/_/Bleep+Bloop)
-* [Igorrr — Veins](https://www.last.fm/music/Igorrr/_/Veins)
-* [Igorrr — Va te foutre](https://www.last.fm/music/Igorrr/_/Va+te+foutre)
-* [Igorrr — Robert](https://www.last.fm/music/Igorrr/_/Robert)<!-- LASTFM:END -->
+* [Igorrr — Veins](https://www.last.fm/music/Igorrr/_/Veins)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
