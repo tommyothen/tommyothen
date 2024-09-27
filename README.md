@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [potsu — letting go](https://www.last.fm/music/potsu/_/letting+go)
-* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
-* [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)
-* [Disclosure — Waterfall](https://www.last.fm/music/Disclosure/_/Waterfall)
-* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)<!-- LASTFM:END -->
+* [Rav — And That&#39;s Me](https://www.last.fm/music/Rav/_/And+That%27s+Me)
+* [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)
+* [bbno$ — wonkybish](https://www.last.fm/music/bbno$/_/wonkybish)
+* [DJ Okawari — Addiction](https://www.last.fm/music/DJ+Okawari/_/Addiction)
+* [potsu — letting go](https://www.last.fm/music/potsu/_/letting+go)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
