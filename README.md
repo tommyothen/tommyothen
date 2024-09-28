@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
 * [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
 * [Miso — Take Me](https://www.last.fm/music/Miso/_/Take+Me)
 * [Dreamcatcher — GOOD NIGHT](https://www.last.fm/music/Dreamcatcher/_/GOOD+NIGHT)
-* [Rav — And That&#39;s Me](https://www.last.fm/music/Rav/_/And+That%27s+Me)
-* [bbno$ — who dat boi](https://www.last.fm/music/bbno$/_/who+dat+boi)<!-- LASTFM:END -->
+* [Rav — And That&#39;s Me](https://www.last.fm/music/Rav/_/And+That%27s+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
