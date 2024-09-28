@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Don Yellow — New God of Fuck](https://www.last.fm/music/Don+Yellow/_/New+God+of+Fuck)
+* [knowmadic — Beginnings](https://www.last.fm/music/knowmadic/_/Beginnings)
 * [Colliding With Mars — Liplock](https://www.last.fm/music/Colliding+With+Mars/_/Liplock)
 * [Eden — Billie Jean](https://www.last.fm/music/Eden/_/Billie+Jean)
-* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)
-* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
-* [DNMO — Broken](https://www.last.fm/music/DNMO/_/Broken)<!-- LASTFM:END -->
+* [Grimes — Flesh without Blood](https://www.last.fm/music/Grimes/_/Flesh+without+Blood)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
