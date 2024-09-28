@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kittie — Brackish](https://www.last.fm/music/Kittie/_/Brackish)
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
 * [Red — Breathe Into Me](https://www.last.fm/music/Red/_/Breathe+Into+Me)
 * [Bullet for My Valentine — Cries in Vain](https://www.last.fm/music/Bullet+for+My+Valentine/_/Cries+in+Vain)
-* [Skindred — Nobody](https://www.last.fm/music/Skindred/_/Nobody)
-* [Finger Eleven — Paralyzer](https://www.last.fm/music/Finger+Eleven/_/Paralyzer)
-* [System of a Down — Sugar](https://www.last.fm/music/System+of+a+Down/_/Sugar)<!-- LASTFM:END -->
+* [Skindred — Nobody](https://www.last.fm/music/Skindred/_/Nobody)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
