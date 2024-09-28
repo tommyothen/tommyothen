@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Finger Eleven — Paralyzer](https://www.last.fm/music/Finger+Eleven/_/Paralyzer)
+* [System of a Down — Sugar](https://www.last.fm/music/System+of+a+Down/_/Sugar)
 * [Deftones — My Own Summer &lpar;Shove It&rpar;](https://www.last.fm/music/Deftones/_/My+Own+Summer+&lpar;Shove+It&rpar;)
 * [Flyleaf — I&#39;m So Sick](https://www.last.fm/music/Flyleaf/_/I%27m+So+Sick)
-* [Skindred — Nobody](https://www.last.fm/music/Skindred/_/Nobody)
-* [Linkin Park — One Step Closer](https://www.last.fm/music/Linkin+Park/_/One+Step+Closer)
-* [Crazy Town — Butterfly](https://www.last.fm/music/Crazy+Town/_/Butterfly)<!-- LASTFM:END -->
+* [Skindred — Nobody](https://www.last.fm/music/Skindred/_/Nobody)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
