@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Crazy Town — Butterfly](https://www.last.fm/music/Crazy+Town/_/Butterfly)
+* [System of a Down — Shame](https://www.last.fm/music/System+of+a+Down/_/Shame)
 * [Limp Bizkit — Rollin&#39; &lpar;Air Raid Vehicle&rpar;](https://www.last.fm/music/Limp+Bizkit/_/Rollin%27+&lpar;Air+Raid+Vehicle&rpar;)
 * [Limp Bizkit — Break Stuff](https://www.last.fm/music/Limp+Bizkit/_/Break+Stuff)
-* [Korn — Got the Life](https://www.last.fm/music/Korn/_/Got+the+Life)
-* [Korn — Blind](https://www.last.fm/music/Korn/_/Blind)
-* [Korn — Coming Undone](https://www.last.fm/music/Korn/_/Coming+Undone)<!-- LASTFM:END -->
+* [Korn — Got the Life](https://www.last.fm/music/Korn/_/Got+the+Life)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
