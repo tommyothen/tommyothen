@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [System of a Down — Chop Suey!](https://www.last.fm/music/System+of+a+Down/_/Chop+Suey!)
+* [Limp Bizkit — Break Stuff](https://www.last.fm/music/Limp+Bizkit/_/Break+Stuff)
+* [Korn — Y&#39;all Want A Single](https://www.last.fm/music/Korn/_/Y%27all+Want+A+Single)
 * [Kittie — Brackish](https://www.last.fm/music/Kittie/_/Brackish)
-* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)
-* [Red — Breathe Into Me](https://www.last.fm/music/Red/_/Breathe+Into+Me)
-* [Bullet for My Valentine — Cries in Vain](https://www.last.fm/music/Bullet+for+My+Valentine/_/Cries+in+Vain)
-* [Skindred — Nobody](https://www.last.fm/music/Skindred/_/Nobody)<!-- LASTFM:END -->
+* [Slipknot — Duality](https://www.last.fm/music/Slipknot/_/Duality)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
