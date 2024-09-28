@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sybreed — Bioactive](https://www.last.fm/music/Sybreed/_/Bioactive)
-* [Eric Reprid — Cold World](https://www.last.fm/music/Eric+Reprid/_/Cold+World)
-* [Eric Reprid — SUKI](https://www.last.fm/music/Eric+Reprid/_/SUKI)
-* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
-* [Chiodos — One Day Women Will All Become Monsters](https://www.last.fm/music/Chiodos/_/One+Day+Women+Will+All+Become+Monsters)<!-- LASTFM:END -->
+* [Alex Clare — Too Close](https://www.last.fm/music/Alex+Clare/_/Too+Close)
+* [Lyre le temps — Prohibition Swing](https://www.last.fm/music/Lyre+le+temps/_/Prohibition+Swing)
+* [Nina Simone — Feeling Good](https://www.last.fm/music/Nina+Simone/_/Feeling+Good)
+* [Nina Simone — Ain&#39;t Got No - I Got Life - Single Version](https://www.last.fm/music/Nina+Simone/_/Ain%27t+Got+No+-+I+Got+Life+-+Single+Version)
+* [Sybreed — Bioactive](https://www.last.fm/music/Sybreed/_/Bioactive)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
