@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Limp Bizkit — Rollin&#39; &lpar;Air Raid Vehicle&rpar;](https://www.last.fm/music/Limp+Bizkit/_/Rollin%27+&lpar;Air+Raid+Vehicle&rpar;)
+* [Limp Bizkit — Break Stuff](https://www.last.fm/music/Limp+Bizkit/_/Break+Stuff)
+* [Korn — Got the Life](https://www.last.fm/music/Korn/_/Got+the+Life)
 * [Korn — Blind](https://www.last.fm/music/Korn/_/Blind)
-* [Korn — Coming Undone](https://www.last.fm/music/Korn/_/Coming+Undone)
-* [Korn — Freak on a Leash](https://www.last.fm/music/Korn/_/Freak+on+a+Leash)
-* [Blue Öyster Cult — &lpar;Don&#39;t Fear&rpar; The Reaper](https://www.last.fm/music/Blue+%C3%96yster+Cult/_/&lpar;Don%27t+Fear&rpar;+The+Reaper)
-* [Alex Clare — Too Close](https://www.last.fm/music/Alex+Clare/_/Too+Close)<!-- LASTFM:END -->
+* [Korn — Coming Undone](https://www.last.fm/music/Korn/_/Coming+Undone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
