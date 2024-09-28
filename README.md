@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Skindred — Nobody](https://www.last.fm/music/Skindred/_/Nobody)
+* [Linkin Park — One Step Closer](https://www.last.fm/music/Linkin+Park/_/One+Step+Closer)
 * [Crazy Town — Butterfly](https://www.last.fm/music/Crazy+Town/_/Butterfly)
 * [System of a Down — Shame](https://www.last.fm/music/System+of+a+Down/_/Shame)
-* [Limp Bizkit — Rollin&#39; &lpar;Air Raid Vehicle&rpar;](https://www.last.fm/music/Limp+Bizkit/_/Rollin%27+&lpar;Air+Raid+Vehicle&rpar;)
-* [Limp Bizkit — Break Stuff](https://www.last.fm/music/Limp+Bizkit/_/Break+Stuff)
-* [Korn — Got the Life](https://www.last.fm/music/Korn/_/Got+the+Life)<!-- LASTFM:END -->
+* [Limp Bizkit — Rollin&#39; &lpar;Air Raid Vehicle&rpar;](https://www.last.fm/music/Limp+Bizkit/_/Rollin%27+&lpar;Air+Raid+Vehicle&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
