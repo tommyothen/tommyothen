@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Oliver Tree — Alien Boy](https://www.last.fm/music/Oliver+Tree/_/Alien+Boy)
+* [DBangz — THICK NIGGAS AND ANIME TIDDIES](https://www.last.fm/music/DBangz/_/THICK+NIGGAS+AND+ANIME+TIDDIES)
+* [DBangz — Last Claim](https://www.last.fm/music/DBangz/_/Last+Claim)
 * [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
-* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
-* [Josh A — Suicidal Thoughts](https://www.last.fm/music/Josh+A/_/Suicidal+Thoughts)
-* [6ix9ine — KOODA](https://www.last.fm/music/6ix9ine/_/KOODA)
-* [6ix9ine — GOOBA](https://www.last.fm/music/6ix9ine/_/GOOBA)<!-- LASTFM:END -->
+* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
