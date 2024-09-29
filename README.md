@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)
+* [Jorja Smith — On My Mind &lpar;Jorja Smith X Preditah&rpar;](https://www.last.fm/music/Jorja+Smith/_/On+My+Mind+&lpar;Jorja+Smith+X+Preditah&rpar;)
 * [blackbear — idfc](https://www.last.fm/music/blackbear/_/idfc)
 * [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
-* [Jorja Smith — Blue Lights](https://www.last.fm/music/Jorja+Smith/_/Blue+Lights)
-* [Oliver Tree — Movement](https://www.last.fm/music/Oliver+Tree/_/Movement)
-* [Oliver Tree — Hurt](https://www.last.fm/music/Oliver+Tree/_/Hurt)<!-- LASTFM:END -->
+* [Jorja Smith — Blue Lights](https://www.last.fm/music/Jorja+Smith/_/Blue+Lights)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
