@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Peep — Star Shopping](https://www.last.fm/music/Lil+Peep/_/Star+Shopping)
+* [Cro — Victoria&#39;s Secret](https://www.last.fm/music/Cro/_/Victoria%27s+Secret)
 * [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
 * [Melanie Martinez — Carousel](https://www.last.fm/music/Melanie+Martinez/_/Carousel)
-* [Ashnikko — STUPID &lpar;feat. Yung Baby Tate&rpar;](https://www.last.fm/music/Ashnikko/_/STUPID+&lpar;feat.+Yung+Baby+Tate&rpar;)
-* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
-* [bbno$ — pennies up](https://www.last.fm/music/bbno$/_/pennies+up)<!-- LASTFM:END -->
+* [Ashnikko — STUPID &lpar;feat. Yung Baby Tate&rpar;](https://www.last.fm/music/Ashnikko/_/STUPID+&lpar;feat.+Yung+Baby+Tate&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
