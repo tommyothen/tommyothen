@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Josh A — Suicidal Thoughts](https://www.last.fm/music/Josh+A/_/Suicidal+Thoughts)
+* [6ix9ine — KOODA](https://www.last.fm/music/6ix9ine/_/KOODA)
 * [6ix9ine — GOOBA](https://www.last.fm/music/6ix9ine/_/GOOBA)
 * [Lil Pump — Gucci Gang](https://www.last.fm/music/Lil+Pump/_/Gucci+Gang)
-* [KID TRUNKS — 777](https://www.last.fm/music/KID+TRUNKS/_/777)
-* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
-* [Lil Peep — Benz Truck &lpar;гелик&rpar;](https://www.last.fm/music/Lil+Peep/_/Benz+Truck+&lpar;%D0%B3%D0%B5%D0%BB%D0%B8%D0%BA&rpar;)<!-- LASTFM:END -->
+* [KID TRUNKS — 777](https://www.last.fm/music/KID+TRUNKS/_/777)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
