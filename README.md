@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Reyanna Maria — So Pretty](https://www.last.fm/music/Reyanna+Maria/_/So+Pretty)
+* [bbno$ — pennies up](https://www.last.fm/music/bbno$/_/pennies+up)
+* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
 * [JPEGMAFIA — BALD! REMIX](https://www.last.fm/music/JPEGMAFIA/_/BALD!+REMIX)
-* [System of a Down — Toxicity](https://www.last.fm/music/System+of+a+Down/_/Toxicity)
-* [Evanescence — Going Under](https://www.last.fm/music/Evanescence/_/Going+Under)
-* [Deftones — Be Quiet and Drive &lpar;Far Away&rpar;](https://www.last.fm/music/Deftones/_/Be+Quiet+and+Drive+&lpar;Far+Away&rpar;)
-* [System of a Down — Chop Suey!](https://www.last.fm/music/System+of+a+Down/_/Chop+Suey!)<!-- LASTFM:END -->
+* [System of a Down — Toxicity](https://www.last.fm/music/System+of+a+Down/_/Toxicity)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
