@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [nohidea — Smile](https://www.last.fm/music/nohidea/_/Smile)
+* [Lil Peep — Benz Truck &lpar;гелик&rpar;](https://www.last.fm/music/Lil+Peep/_/Benz+Truck+&lpar;%D0%B3%D0%B5%D0%BB%D0%B8%D0%BA&rpar;)
+* [Lil Peep — U Said](https://www.last.fm/music/Lil+Peep/_/U+Said)
 * [Lil Peep — Star Shopping](https://www.last.fm/music/Lil+Peep/_/Star+Shopping)
-* [Cro — Victoria&#39;s Secret](https://www.last.fm/music/Cro/_/Victoria%27s+Secret)
-* [Joji — SLOW DANCING IN THE DARK](https://www.last.fm/music/Joji/_/SLOW+DANCING+IN+THE+DARK)
-* [Melanie Martinez — Carousel](https://www.last.fm/music/Melanie+Martinez/_/Carousel)
-* [Ashnikko — STUPID &lpar;feat. Yung Baby Tate&rpar;](https://www.last.fm/music/Ashnikko/_/STUPID+&lpar;feat.+Yung+Baby+Tate&rpar;)<!-- LASTFM:END -->
+* [Cro — Victoria&#39;s Secret](https://www.last.fm/music/Cro/_/Victoria%27s+Secret)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
