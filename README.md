@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil Mabu — MR. TAKE YA B*TCH &lpar;FEAT. CHRISEANROCK&rpar;](https://www.last.fm/music/Lil+Mabu/_/MR.+TAKE+YA+B*TCH+&lpar;FEAT.+CHRISEANROCK&rpar;)
+* [slowthai — Doorman](https://www.last.fm/music/slowthai/_/Doorman)
 * [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)
 * [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
-* [Deca — Mammon&#39;s Mantra](https://www.last.fm/music/Deca/_/Mammon%27s+Mantra)
-* [Riot — Overkill](https://www.last.fm/music/Riot/_/Overkill)
-* [Gift Of Gab — Freedom Form Flowing](https://www.last.fm/music/Gift+Of+Gab/_/Freedom+Form+Flowing)<!-- LASTFM:END -->
+* [Deca — Mammon&#39;s Mantra](https://www.last.fm/music/Deca/_/Mammon%27s+Mantra)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
