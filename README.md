@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [blackbear — idfc](https://www.last.fm/music/blackbear/_/idfc)
+* [Russ — Back to Life](https://www.last.fm/music/Russ/_/Back+to+Life)
 * [Jorja Smith — Blue Lights](https://www.last.fm/music/Jorja+Smith/_/Blue+Lights)
 * [Oliver Tree — Movement](https://www.last.fm/music/Oliver+Tree/_/Movement)
-* [Oliver Tree — Hurt](https://www.last.fm/music/Oliver+Tree/_/Hurt)
-* [ROY PURDY — PINK AND GREEN](https://www.last.fm/music/ROY+PURDY/_/PINK+AND+GREEN)
-* [Oliver Tree — Alien Boy](https://www.last.fm/music/Oliver+Tree/_/Alien+Boy)<!-- LASTFM:END -->
+* [Oliver Tree — Hurt](https://www.last.fm/music/Oliver+Tree/_/Hurt)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
