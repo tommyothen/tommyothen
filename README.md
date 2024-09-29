@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ramirez — THE FO FIVE](https://www.last.fm/music/Ramirez/_/THE+FO+FIVE)
+* [Corpse — E-GIRLS ARE RUINING MY LIFE!](https://www.last.fm/music/Corpse/_/E-GIRLS+ARE+RUINING+MY+LIFE!)
 * [Josh A — Suicidal Thoughts](https://www.last.fm/music/Josh+A/_/Suicidal+Thoughts)
 * [6ix9ine — KOODA](https://www.last.fm/music/6ix9ine/_/KOODA)
-* [6ix9ine — GOOBA](https://www.last.fm/music/6ix9ine/_/GOOBA)
-* [Lil Pump — Gucci Gang](https://www.last.fm/music/Lil+Pump/_/Gucci+Gang)
-* [KID TRUNKS — 777](https://www.last.fm/music/KID+TRUNKS/_/777)<!-- LASTFM:END -->
+* [6ix9ine — GOOBA](https://www.last.fm/music/6ix9ine/_/GOOBA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
