@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [J. Cole — Wet Dreamz](https://www.last.fm/music/J.+Cole/_/Wet+Dreamz)
+* [J. Cole — No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)
 * [Lil Mabu — OPPY DAY](https://www.last.fm/music/Lil+Mabu/_/OPPY+DAY)
 * [Lil Mabu — MR. TAKE YA B*TCH &lpar;FEAT. CHRISEANROCK&rpar;](https://www.last.fm/music/Lil+Mabu/_/MR.+TAKE+YA+B*TCH+&lpar;FEAT.+CHRISEANROCK&rpar;)
-* [slowthai — Doorman](https://www.last.fm/music/slowthai/_/Doorman)
-* [Mac Miller — Ladders](https://www.last.fm/music/Mac+Miller/_/Ladders)
-* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)<!-- LASTFM:END -->
+* [slowthai — Doorman](https://www.last.fm/music/slowthai/_/Doorman)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
