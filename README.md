@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Grimes — Kill V. Maim](https://www.last.fm/music/Grimes/_/Kill+V.+Maim)
+* [Rich Brian — Introvert &lpar;feat. Joji&rpar;](https://www.last.fm/music/Rich+Brian/_/Introvert+&lpar;feat.+Joji&rpar;)
 * [Eminem — Godzilla &lpar;feat. Juice WRLD&rpar;](https://www.last.fm/music/Eminem/_/Godzilla+&lpar;feat.+Juice+WRLD&rpar;)
 * [J. Cole — Wet Dreamz](https://www.last.fm/music/J.+Cole/_/Wet+Dreamz)
-* [J. Cole — No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)
-* [Lil Mabu — OPPY DAY](https://www.last.fm/music/Lil+Mabu/_/OPPY+DAY)
-* [Lil Mabu — MR. TAKE YA B*TCH &lpar;FEAT. CHRISEANROCK&rpar;](https://www.last.fm/music/Lil+Mabu/_/MR.+TAKE+YA+B*TCH+&lpar;FEAT.+CHRISEANROCK&rpar;)<!-- LASTFM:END -->
+* [J. Cole — No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
