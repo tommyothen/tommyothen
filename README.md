@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Caros](https://www.last.fm/music/Igorrr/_/Caros)
+* [Igorrr — Double Monk](https://www.last.fm/music/Igorrr/_/Double+Monk)
+* [Igorrr — Toothpaste](https://www.last.fm/music/Igorrr/_/Toothpaste)
 * [Igorrr — Houmous](https://www.last.fm/music/Igorrr/_/Houmous)
-* [Igorrr — Hollow Tree](https://www.last.fm/music/Igorrr/_/Hollow+Tree)
-* [Igorrr — Nervous Waltz](https://www.last.fm/music/Igorrr/_/Nervous+Waltz)
-* [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)
-* [Igorrr — Very Noise](https://www.last.fm/music/Igorrr/_/Very+Noise)<!-- LASTFM:END -->
+* [Igorrr — Hollow Tree](https://www.last.fm/music/Igorrr/_/Hollow+Tree)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
