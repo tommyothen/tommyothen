@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Trepalium — One Breath of Peace](https://www.last.fm/music/Trepalium/_/One+Breath+of+Peace)
 * [Igorrr — Infinite Loop](https://www.last.fm/music/Igorrr/_/Infinite+Loop)
 * [Igorrr — Fryzura Konika](https://www.last.fm/music/Igorrr/_/Fryzura+Konika)
 * [Igorrr — Melting Nails](https://www.last.fm/music/Igorrr/_/Melting+Nails)
-* [Igorrr — Absolute Psalm](https://www.last.fm/music/Igorrr/_/Absolute+Psalm)
-* [Igorrr — Caros](https://www.last.fm/music/Igorrr/_/Caros)<!-- LASTFM:END -->
+* [Igorrr — Absolute Psalm](https://www.last.fm/music/Igorrr/_/Absolute+Psalm)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
