@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
 * [Trepalium — One Breath of Peace](https://www.last.fm/music/Trepalium/_/One+Breath+of+Peace)
 * [Igorrr — Infinite Loop](https://www.last.fm/music/Igorrr/_/Infinite+Loop)
-* [Igorrr — Fryzura Konika](https://www.last.fm/music/Igorrr/_/Fryzura+Konika)
-* [Igorrr — Melting Nails](https://www.last.fm/music/Igorrr/_/Melting+Nails)
-* [Igorrr — Absolute Psalm](https://www.last.fm/music/Igorrr/_/Absolute+Psalm)<!-- LASTFM:END -->
+* [Igorrr — Fryzura Konika](https://www.last.fm/music/Igorrr/_/Fryzura+Konika)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
