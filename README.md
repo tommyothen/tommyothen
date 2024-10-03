@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
+* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)
+* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)
 * [Kim Petras — Do Me](https://www.last.fm/music/Kim+Petras/_/Do+Me)
-* [bbno$ — lavish](https://www.last.fm/music/bbno$/_/lavish)
-* [Doja Cat — Need to Know](https://www.last.fm/music/Doja+Cat/_/Need+to+Know)
-* [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [takayan — Just disappear](https://www.last.fm/music/takayan/_/Just+disappear)<!-- LASTFM:END -->
+* [bbno$ — lavish](https://www.last.fm/music/bbno$/_/lavish)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
