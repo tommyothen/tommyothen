@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
 * [PSYQUI — Don&#39;t You Want Me](https://www.last.fm/music/PSYQUI/_/Don%27t+You+Want+Me)
 * [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
 * [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)
-* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)<!-- LASTFM:END -->
+* [Rainych — 热爱105℃的你 / Super Idol](https://www.last.fm/music/Rainych/_/%E7%83%AD%E7%88%B1105%E2%84%83%E7%9A%84%E4%BD%A0+%2F+Super+Idol)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
