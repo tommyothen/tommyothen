@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [北沢強兵 — ONIRIC](https://www.last.fm/music/%E5%8C%97%E6%B2%A2%E5%BC%B7%E5%85%B5/_/ONIRIC)
 * [Joji — YEAH RIGHT](https://www.last.fm/music/Joji/_/YEAH+RIGHT)
 * [XXXTENTACION — fuck love](https://www.last.fm/music/XXXTENTACION/_/fuck+love)
 * [Marvin Divine — Back Again](https://www.last.fm/music/Marvin+Divine/_/Back+Again)
-* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)
-* [Porter Robinson — Get Your Wish](https://www.last.fm/music/Porter+Robinson/_/Get+Your+Wish)<!-- LASTFM:END -->
+* [venbee — gutter](https://www.last.fm/music/venbee/_/gutter)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
