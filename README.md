@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Autograf — Simple &lpar;feat. Victoria Zaro&rpar;](https://www.last.fm/music/Autograf/_/Simple+&lpar;feat.+Victoria+Zaro&rpar;)
+* [YUNG BAE — Bad Boy](https://www.last.fm/music/YUNG+BAE/_/Bad+Boy)
 * [Swervy — ART GANG MONEY &lpar;Feat. Reddy&rpar;](https://www.last.fm/music/Swervy/_/ART+GANG+MONEY+&lpar;Feat.+Reddy&rpar;)
 * [88rising — Midsummer Madness](https://www.last.fm/music/88rising/_/Midsummer+Madness)
-* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
-* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
-* [Falconite — Digital Baptism](https://www.last.fm/music/Falconite/_/Digital+Baptism)<!-- LASTFM:END -->
+* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
