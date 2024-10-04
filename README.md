@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ROY PURDY — Oh Wow](https://www.last.fm/music/ROY+PURDY/_/Oh+Wow)
+* [Fliptrix — Graffiti Won&#39;t Die](https://www.last.fm/music/Fliptrix/_/Graffiti+Won%27t+Die)
 * [YUNG BAE — YEBISU - Yung Bae Edit](https://www.last.fm/music/YUNG+BAE/_/YEBISU+-+Yung+Bae+Edit)
 * [Milkoi — ミサキ](https://www.last.fm/music/Milkoi/_/%E3%83%9F%E3%82%B5%E3%82%AD)
-* [FOXWEDDING — the killing of a giant](https://www.last.fm/music/FOXWEDDING/_/the+killing+of+a+giant)
-* [Varien — Mirai Sekai - Continuous Mix](https://www.last.fm/music/Varien/_/Mirai+Sekai+-+Continuous+Mix)
-* [Autograf — Simple &lpar;feat. Victoria Zaro&rpar;](https://www.last.fm/music/Autograf/_/Simple+&lpar;feat.+Victoria+Zaro&rpar;)<!-- LASTFM:END -->
+* [FOXWEDDING — the killing of a giant](https://www.last.fm/music/FOXWEDDING/_/the+killing+of+a+giant)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
