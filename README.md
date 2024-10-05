@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ftlframe — A_R_I_S_U_](https://www.last.fm/music/Ftlframe/_/A_R_I_S_U_)
-* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
-* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
-* [11vx — rapid](https://www.last.fm/music/11vx/_/rapid)
-* [Mayo. — Lost](https://www.last.fm/music/Mayo./_/Lost)<!-- LASTFM:END -->
+* [11vx — butterfly-s](https://www.last.fm/music/11vx/_/butterfly-s)
+* [BLKSMIITH — F R A G M E N T](https://www.last.fm/music/BLKSMIITH/_/F+R+A+G+M+E+N+T)
+* [purity filter — Wisteria Awakens](https://www.last.fm/music/purity+filter/_/Wisteria+Awakens)
+* [strxwberrymilk — Agoraphobia](https://www.last.fm/music/strxwberrymilk/_/Agoraphobia)
+* [Ftlframe — A_R_I_S_U_](https://www.last.fm/music/Ftlframe/_/A_R_I_S_U_)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
