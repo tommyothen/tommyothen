@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
 * [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
 * [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
 * [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
-* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
-* [Slipknot — Dead Memories](https://www.last.fm/music/Slipknot/_/Dead+Memories)<!-- LASTFM:END -->
+* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
