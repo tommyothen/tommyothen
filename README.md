@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Fifty Grand — Different Places](https://www.last.fm/music/Fifty+Grand/_/Different+Places)
+* [Golden Boy — Spirit Gun](https://www.last.fm/music/Golden+Boy/_/Spirit+Gun)
 * [Nosgov — goes nowhere](https://www.last.fm/music/Nosgov/_/goes+nowhere)
 * [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)
-* [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)
-* [Sewerslvt — Kawaii Razor Blades](https://www.last.fm/music/Sewerslvt/_/Kawaii+Razor+Blades)
-* [Nedaj — Alone](https://www.last.fm/music/Nedaj/_/Alone)<!-- LASTFM:END -->
+* [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
