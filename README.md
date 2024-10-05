@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
 * [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
 * [Slipknot — Dead Memories](https://www.last.fm/music/Slipknot/_/Dead+Memories)
 * [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
-* [21 Savage — a lot](https://www.last.fm/music/21+Savage/_/a+lot)
-* [Lil Dicky — Professional Rapper &lpar;feat. Snoop Dogg&rpar;](https://www.last.fm/music/Lil+Dicky/_/Professional+Rapper+&lpar;feat.+Snoop+Dogg&rpar;)<!-- LASTFM:END -->
+* [Sebastian Paul — VANILLA](https://www.last.fm/music/Sebastian+Paul/_/VANILLA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
