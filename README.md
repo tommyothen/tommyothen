@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FlowerBoyDeMii — iris](https://www.last.fm/music/FlowerBoyDeMii/_/iris)
+* [iwakura — Hatred](https://www.last.fm/music/iwakura/_/Hatred)
+* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
 * [eightiesheadachetape — what we did in the desert](https://www.last.fm/music/eightiesheadachetape/_/what+we+did+in+the+desert)
-* [iwakura — Cyberia](https://www.last.fm/music/iwakura/_/Cyberia)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
-* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)
-* [TOKYOPILL — Let&#39;s All Love Lain](https://www.last.fm/music/TOKYOPILL/_/Let%27s+All+Love+Lain)<!-- LASTFM:END -->
+* [iwakura — Cyberia](https://www.last.fm/music/iwakura/_/Cyberia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
