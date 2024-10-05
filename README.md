@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Akiba — celestia](https://www.last.fm/music/Akiba/_/celestia)
-* [Heatace — b4](https://www.last.fm/music/Heatace/_/b4)
-* [Mayo. — Yama](https://www.last.fm/music/Mayo./_/Yama)
-* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
-* [11vx — butterfly-s](https://www.last.fm/music/11vx/_/butterfly-s)<!-- LASTFM:END -->
+* [Mayo. — Reduplicate](https://www.last.fm/music/Mayo./_/Reduplicate)
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
+* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
+* [JVNLIII — Summer](https://www.last.fm/music/JVNLIII/_/Summer)
+* [Akiba — celestia](https://www.last.fm/music/Akiba/_/celestia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
