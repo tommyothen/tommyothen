@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [Machine Girl — Cyan Hardcore](https://www.last.fm/music/Machine+Girl/_/Cyan+Hardcore)
-* [goreshit — the pain of relief &lpar;we have our vices one and all&rpar;](https://www.last.fm/music/goreshit/_/the+pain+of+relief+&lpar;we+have+our+vices+one+and+all&rpar;)
-* [Xxtarlit⚸ — untitled](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/untitled)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)<!-- LASTFM:END -->
+* [11vx — rapid](https://www.last.fm/music/11vx/_/rapid)
+* [Mayo. — Lost](https://www.last.fm/music/Mayo./_/Lost)
+* [strxwberrymilk — I&#39;ll Go Home Then - Radio Edit](https://www.last.fm/music/strxwberrymilk/_/I%27ll+Go+Home+Then+-+Radio+Edit)
+* [Dracodraco — through the light](https://www.last.fm/music/Dracodraco/_/through+the+light)
+* [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
