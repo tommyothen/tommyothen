@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
+* [Pisca — Is your online persona an untamed unfiltered version of yourself?](https://www.last.fm/music/Pisca/_/Is+your+online+persona+an+untamed+unfiltered+version+of+yourself%3F)
+* [Ooxygen — Final wish](https://www.last.fm/music/Ooxygen/_/Final+wish)
 * [Sewerslvt — Ecifircas](https://www.last.fm/music/Sewerslvt/_/Ecifircas)
-* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)<!-- LASTFM:END -->
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
