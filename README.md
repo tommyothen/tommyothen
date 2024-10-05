@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Nosgov — goes nowhere](https://www.last.fm/music/Nosgov/_/goes+nowhere)
+* [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)
+* [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)
 * [Sewerslvt — Kawaii Razor Blades](https://www.last.fm/music/Sewerslvt/_/Kawaii+Razor+Blades)
-* [Nedaj — Alone](https://www.last.fm/music/Nedaj/_/Alone)
-* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [FlowerBoyDeMii — iris](https://www.last.fm/music/FlowerBoyDeMii/_/iris)
-* [iwakura — Hatred](https://www.last.fm/music/iwakura/_/Hatred)<!-- LASTFM:END -->
+* [Nedaj — Alone](https://www.last.fm/music/Nedaj/_/Alone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
