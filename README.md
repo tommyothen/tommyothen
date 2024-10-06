@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
+* [DAOKO — ダイスキ with TeddyLoid](https://www.last.fm/music/DAOKO/_/%E3%83%80%E3%82%A4%E3%82%B9%E3%82%AD+with+TeddyLoid)
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
 * [boy 2000 — zero](https://www.last.fm/music/boy+2000/_/zero)
-* [Akiba — 人々の繋がり](https://www.last.fm/music/Akiba/_/%E4%BA%BA%E3%80%85%E3%81%AE%E7%B9%8B%E3%81%8C%E3%82%8A)
-* [Trashiii — Level Select](https://www.last.fm/music/Trashiii/_/Level+Select)
-* [Mayo. — Reduplicate](https://www.last.fm/music/Mayo./_/Reduplicate)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)<!-- LASTFM:END -->
+* [Akiba — 人々の繋がり](https://www.last.fm/music/Akiba/_/%E4%BA%BA%E3%80%85%E3%81%AE%E7%B9%8B%E3%81%8C%E3%82%8A)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
