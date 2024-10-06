@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)
+* [Lisa — MONEY](https://www.last.fm/music/Lisa/_/MONEY)
 * [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
 * [Marcus D — Dionysus](https://www.last.fm/music/Marcus+D/_/Dionysus)
-* [Freddie Dredd — Oh Darling &lpar;feat. Soudiere&rpar;](https://www.last.fm/music/Freddie+Dredd/_/Oh+Darling+&lpar;feat.+Soudiere&rpar;)
-* [MC Virgins — Anime Thighs](https://www.last.fm/music/MC+Virgins/_/Anime+Thighs)
-* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)<!-- LASTFM:END -->
+* [Freddie Dredd — Oh Darling &lpar;feat. Soudiere&rpar;](https://www.last.fm/music/Freddie+Dredd/_/Oh+Darling+&lpar;feat.+Soudiere&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
