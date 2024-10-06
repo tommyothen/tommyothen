@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
+* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)
+* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
 * [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [Eden — isohel](https://www.last.fm/music/Eden/_/isohel)
-* [Eden — crash](https://www.last.fm/music/Eden/_/crash)
-* [Wowkie Da — 陽光彩虹小白馬](https://www.last.fm/music/Wowkie+Da/_/%E9%99%BD%E5%85%89%E5%BD%A9%E8%99%B9%E5%B0%8F%E7%99%BD%E9%A6%AC)<!-- LASTFM:END -->
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
