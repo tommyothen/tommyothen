@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Glaive — heather](https://www.last.fm/music/Glaive/_/heather)
+* [Marcus D — Dionysus](https://www.last.fm/music/Marcus+D/_/Dionysus)
 * [Freddie Dredd — Oh Darling &lpar;feat. Soudiere&rpar;](https://www.last.fm/music/Freddie+Dredd/_/Oh+Darling+&lpar;feat.+Soudiere&rpar;)
 * [MC Virgins — Anime Thighs](https://www.last.fm/music/MC+Virgins/_/Anime+Thighs)
-* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)
-* [DAOKO — ダイスキ with TeddyLoid](https://www.last.fm/music/DAOKO/_/%E3%83%80%E3%82%A4%E3%82%B9%E3%82%AD+with+TeddyLoid)
-* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)<!-- LASTFM:END -->
+* [ZICO — Any Song](https://www.last.fm/music/ZICO/_/Any+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
