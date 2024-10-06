@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Jorja Smith — Goodbyes](https://www.last.fm/music/Jorja+Smith/_/Goodbyes)
+* [The Northern Boys — Party Time](https://www.last.fm/music/The+Northern+Boys/_/Party+Time)
 * [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
 * [Dreamcatcher — GOOD NIGHT](https://www.last.fm/music/Dreamcatcher/_/GOOD+NIGHT)
-* [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)
-* [80KIDZ — Your Closet](https://www.last.fm/music/80KIDZ/_/Your+Closet)
-* [Joji — Daylight](https://www.last.fm/music/Joji/_/Daylight)<!-- LASTFM:END -->
+* [Jakey — Saintlike](https://www.last.fm/music/Jakey/_/Saintlike)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
