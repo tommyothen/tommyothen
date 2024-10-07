@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
+* [Vertigoaway — KINDA WANT TO FUCK BUT OH GOD IM SCARED](https://www.last.fm/music/Vertigoaway/_/KINDA+WANT+TO+FUCK+BUT+OH+GOD+IM+SCARED)
+* [NANORAY — DogWalk2000](https://www.last.fm/music/NANORAY/_/DogWalk2000)
 * [purity filter — Chrysalis](https://www.last.fm/music/purity+filter/_/Chrysalis)
-* [strxwberrymilk — Agoraphobia](https://www.last.fm/music/strxwberrymilk/_/Agoraphobia)
-* [Windowshopping — Amethyst Sex Magick](https://www.last.fm/music/Windowshopping/_/Amethyst+Sex+Magick)
-* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
-* [Vertigoaway — Talking Show](https://www.last.fm/music/Vertigoaway/_/Talking+Show)<!-- LASTFM:END -->
+* [strxwberrymilk — Agoraphobia](https://www.last.fm/music/strxwberrymilk/_/Agoraphobia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
