@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NANORAY — SALMON CANNON](https://www.last.fm/music/NANORAY/_/SALMON+CANNON)
+* [Machine Girl — Krystle - URL Cyber Palace Mix](https://www.last.fm/music/Machine+Girl/_/Krystle+-+URL+Cyber+Palace+Mix)
 * [Sewerslvt — Newlove](https://www.last.fm/music/Sewerslvt/_/Newlove)
 * [Igorrr — Scarlatti 2.0](https://www.last.fm/music/Igorrr/_/Scarlatti+2.0)
-* [Igorrr — Corpus Tristis](https://www.last.fm/music/Igorrr/_/Corpus+Tristis)
-* [Igorrr — Grosse Barbe](https://www.last.fm/music/Igorrr/_/Grosse+Barbe)
-* [Igorrr — Lullaby for a Fat Jellyfish](https://www.last.fm/music/Igorrr/_/Lullaby+for+a+Fat+Jellyfish)<!-- LASTFM:END -->
+* [Igorrr — Corpus Tristis](https://www.last.fm/music/Igorrr/_/Corpus+Tristis)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
