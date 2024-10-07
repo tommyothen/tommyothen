@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NANORAY — M00d Medley](https://www.last.fm/music/NANORAY/_/M00d+Medley)
+* [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)
 * [Vertigoaway — Missed the Bus!](https://www.last.fm/music/Vertigoaway/_/Missed+the+Bus!)
 * [Rory in early 20s — Da Da Is Tape To And U U U](https://www.last.fm/music/Rory+in+early+20s/_/Da+Da+Is+Tape+To+And+U+U+U)
-* [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)
-* [Deathbrain — my room is upside down](https://www.last.fm/music/Deathbrain/_/my+room+is+upside+down)
-* [NANORAY — 428](https://www.last.fm/music/NANORAY/_/428)<!-- LASTFM:END -->
+* [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
