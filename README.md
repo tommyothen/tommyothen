@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Corpus Tristis](https://www.last.fm/music/Igorrr/_/Corpus+Tristis)
+* [Igorrr — Grosse Barbe](https://www.last.fm/music/Igorrr/_/Grosse+Barbe)
 * [Igorrr — Lullaby for a Fat Jellyfish](https://www.last.fm/music/Igorrr/_/Lullaby+for+a+Fat+Jellyfish)
 * [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
-* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
-* [Igorrr — Absolute Psalm](https://www.last.fm/music/Igorrr/_/Absolute+Psalm)
-* [Igorrr — Damaged Wig](https://www.last.fm/music/Igorrr/_/Damaged+Wig)<!-- LASTFM:END -->
+* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
