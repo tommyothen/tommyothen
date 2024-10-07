@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [strxwberrymilk — Pink Skirts Are Really Sweet](https://www.last.fm/music/strxwberrymilk/_/Pink+Skirts+Are+Really+Sweet)
+* [Emray — About 10 Hours of making Breakcore](https://www.last.fm/music/Emray/_/About+10+Hours+of+making+Breakcore)
 * [NANORAY — M00d Medley](https://www.last.fm/music/NANORAY/_/M00d+Medley)
 * [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)
-* [Vertigoaway — Missed the Bus!](https://www.last.fm/music/Vertigoaway/_/Missed+the+Bus!)
-* [Rory in early 20s — Da Da Is Tape To And U U U](https://www.last.fm/music/Rory+in+early+20s/_/Da+Da+Is+Tape+To+And+U+U+U)
-* [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)<!-- LASTFM:END -->
+* [Vertigoaway — Missed the Bus!](https://www.last.fm/music/Vertigoaway/_/Missed+the+Bus!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
