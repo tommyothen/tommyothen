@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [purity filter — luminescence](https://www.last.fm/music/purity+filter/_/luminescence)
-* [Golden Boy — Spirit Gun](https://www.last.fm/music/Golden+Boy/_/Spirit+Gun)
-* [Tfwamirite — だきしめたい](https://www.last.fm/music/Tfwamirite/_/%E3%81%A0%E3%81%8D%E3%81%97%E3%82%81%E3%81%9F%E3%81%84)
-* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [Vertigoaway — KINDA WANT TO FUCK BUT OH GOD IM SCARED](https://www.last.fm/music/Vertigoaway/_/KINDA+WANT+TO+FUCK+BUT+OH+GOD+IM+SCARED)<!-- LASTFM:END -->
+* [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)
+* [Metaroom — God Race &lpar;Temptation Stairway&rpar;](https://www.last.fm/music/Metaroom/_/God+Race+&lpar;Temptation+Stairway&rpar;)
+* [Vertigoaway — AM FM](https://www.last.fm/music/Vertigoaway/_/AM+FM)
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
+* [Deathbrain — how to sleep](https://www.last.fm/music/Deathbrain/_/how+to+sleep)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
