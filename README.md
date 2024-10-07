@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Pisca — athoth a go go &lpar;FUCK&rpar;](https://www.last.fm/music/Pisca/_/athoth+a+go+go+&lpar;FUCK&rpar;)
-* [DJ Kuroneko — Heartless](https://www.last.fm/music/DJ+Kuroneko/_/Heartless)
-* [NANORAY — Hellrunner](https://www.last.fm/music/NANORAY/_/Hellrunner)
-* [GOLEMM — Chase](https://www.last.fm/music/GOLEMM/_/Chase)
-* [purity filter — Lost Silver](https://www.last.fm/music/purity+filter/_/Lost+Silver)<!-- LASTFM:END -->
+* [strxwberrymilk — My Head Hurts](https://www.last.fm/music/strxwberrymilk/_/My+Head+Hurts)
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
+* [NANORAY — SALMON CANNON](https://www.last.fm/music/NANORAY/_/SALMON+CANNON)
+* [Pisca — athoth a go go &lpar;FUCK&rpar;](https://www.last.fm/music/Pisca/_/athoth+a+go+go+&lpar;FUCK&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
