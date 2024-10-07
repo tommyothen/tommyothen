@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [purity filter — Chrysalis](https://www.last.fm/music/purity+filter/_/Chrysalis)
+* [strxwberrymilk — Agoraphobia](https://www.last.fm/music/strxwberrymilk/_/Agoraphobia)
 * [Windowshopping — Amethyst Sex Magick](https://www.last.fm/music/Windowshopping/_/Amethyst+Sex+Magick)
 * [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
-* [Vertigoaway — Talking Show](https://www.last.fm/music/Vertigoaway/_/Talking+Show)
-* [NANORAY — NEKOMATA&#39;97](https://www.last.fm/music/NANORAY/_/NEKOMATA%2797)
-* [purity filter — Remnant Syphon](https://www.last.fm/music/purity+filter/_/Remnant+Syphon)<!-- LASTFM:END -->
+* [Vertigoaway — Talking Show](https://www.last.fm/music/Vertigoaway/_/Talking+Show)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
