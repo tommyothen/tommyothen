@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GOLEMM — croakers](https://www.last.fm/music/GOLEMM/_/croakers)
-* [purity filter — static.link - metora _stasis222](https://www.last.fm/music/purity+filter/_/static.link+-+metora+_stasis222)
-* [NANORAY — BIG MUNITIONS](https://www.last.fm/music/NANORAY/_/BIG+MUNITIONS)
-* [c678924 — HD.189733.B](https://www.last.fm/music/c678924/_/HD.189733.B)
-* [Metaroom — God Race &lpar;Temptation Stairway&rpar;](https://www.last.fm/music/Metaroom/_/God+Race+&lpar;Temptation+Stairway&rpar;)<!-- LASTFM:END -->
+* [NANORAY — 428](https://www.last.fm/music/NANORAY/_/428)
+* [SAGEISKAMI — BLOOD X](https://www.last.fm/music/SAGEISKAMI/_/BLOOD+X)
+* [Vertigoaway — tritium](https://www.last.fm/music/Vertigoaway/_/tritium)
+* [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)
+* [GOLEMM — croakers](https://www.last.fm/music/GOLEMM/_/croakers)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
