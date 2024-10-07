@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)
+* [NANORAY — DesktopBuddy](https://www.last.fm/music/NANORAY/_/DesktopBuddy)
+* [purity filter — Wisteria Awakens](https://www.last.fm/music/purity+filter/_/Wisteria+Awakens)
 * [strxwberrymilk — My Head Hurts](https://www.last.fm/music/strxwberrymilk/_/My+Head+Hurts)
-* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
-* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)
-* [NANORAY — SALMON CANNON](https://www.last.fm/music/NANORAY/_/SALMON+CANNON)
-* [Machine Girl — Krystle - URL Cyber Palace Mix](https://www.last.fm/music/Machine+Girl/_/Krystle+-+URL+Cyber+Palace+Mix)<!-- LASTFM:END -->
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
