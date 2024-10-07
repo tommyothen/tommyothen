@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Damaged Wig](https://www.last.fm/music/Igorrr/_/Damaged+Wig)
+* [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)
 * [Igorrr — Infinite Loop](https://www.last.fm/music/Igorrr/_/Infinite+Loop)
 * [Igorrr — Toothpaste](https://www.last.fm/music/Igorrr/_/Toothpaste)
-* [Igorrr — Scarlatti 2.0](https://www.last.fm/music/Igorrr/_/Scarlatti+2.0)
-* [Igorrr — Corpus Tristis](https://www.last.fm/music/Igorrr/_/Corpus+Tristis)
-* [Igorrr — Grosse Barbe](https://www.last.fm/music/Igorrr/_/Grosse+Barbe)<!-- LASTFM:END -->
+* [Igorrr — Scarlatti 2.0](https://www.last.fm/music/Igorrr/_/Scarlatti+2.0)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
