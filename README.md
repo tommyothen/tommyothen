@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Heatace — b4](https://www.last.fm/music/Heatace/_/b4)
+* [Ftlframe — A_R_I_S_U_](https://www.last.fm/music/Ftlframe/_/A_R_I_S_U_)
+* [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)
 * [11vx — butterfly-s](https://www.last.fm/music/11vx/_/butterfly-s)
-* [purity filter — Chrysalis](https://www.last.fm/music/purity+filter/_/Chrysalis)
-* [JVNLIII — Summer](https://www.last.fm/music/JVNLIII/_/Summer)
-* [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)<!-- LASTFM:END -->
+* [purity filter — Chrysalis](https://www.last.fm/music/purity+filter/_/Chrysalis)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
