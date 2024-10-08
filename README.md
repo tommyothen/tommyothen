@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
-* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
-* [hxly xo — Midnight](https://www.last.fm/music/hxly+xo/_/Midnight)
-* [purity filter — Wisteria Awakens](https://www.last.fm/music/purity+filter/_/Wisteria+Awakens)
-* [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)<!-- LASTFM:END -->
+* [Deathbrain — my room is upside down](https://www.last.fm/music/Deathbrain/_/my+room+is+upside+down)
+* [purity filter — takemeawaypls.wav &lpar;INTO THE NIGHTCORE&rpar;](https://www.last.fm/music/purity+filter/_/takemeawaypls.wav+&lpar;INTO+THE+NIGHTCORE&rpar;)
+* [Mayo. — Reduplicate](https://www.last.fm/music/Mayo./_/Reduplicate)
+* [EgoFear — HELLSCAPE](https://www.last.fm/music/EgoFear/_/HELLSCAPE)
+* [strxwberrymilk — Agoraphobia](https://www.last.fm/music/strxwberrymilk/_/Agoraphobia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
