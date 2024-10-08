@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [boy 2000 — savestate](https://www.last.fm/music/boy+2000/_/savestate)
+* [Deathbrain — how to sleep](https://www.last.fm/music/Deathbrain/_/how+to+sleep)
+* [purity filter — Remnant Syphon](https://www.last.fm/music/purity+filter/_/Remnant+Syphon)
 * [Mayo. — Yama](https://www.last.fm/music/Mayo./_/Yama)
-* [Trashiii — Level Select](https://www.last.fm/music/Trashiii/_/Level+Select)
-* [11vx — rapid](https://www.last.fm/music/11vx/_/rapid)
-* [Acidgvrl — breakcore is dumb](https://www.last.fm/music/Acidgvrl/_/breakcore+is+dumb)
-* [Xxtarlit⚸ — Fleeting Frozen Heart](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/Fleeting+Frozen+Heart)<!-- LASTFM:END -->
+* [Trashiii — Level Select](https://www.last.fm/music/Trashiii/_/Level+Select)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
