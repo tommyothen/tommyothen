@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)
-* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
-* [Mayo. — Lost](https://www.last.fm/music/Mayo./_/Lost)
-* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
-* [strxwberrymilk — My Head Hurts](https://www.last.fm/music/strxwberrymilk/_/My+Head+Hurts)<!-- LASTFM:END -->
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
+* [strxwberrymilk — I&#39;ll Go Home Then - Radio Edit](https://www.last.fm/music/strxwberrymilk/_/I%27ll+Go+Home+Then+-+Radio+Edit)
+* [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)
+* [Windowshopping — Amethyst Sex Magick](https://www.last.fm/music/Windowshopping/_/Amethyst+Sex+Magick)
+* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
