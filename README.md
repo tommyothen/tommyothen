@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [NANORAY — DesktopBuddy](https://www.last.fm/music/NANORAY/_/DesktopBuddy)
-* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
-* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
-* [Trashiii — Snowdream](https://www.last.fm/music/Trashiii/_/Snowdream)
-* [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)<!-- LASTFM:END -->
+* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
+* [strxwberrymilk — My Head Hurts](https://www.last.fm/music/strxwberrymilk/_/My+Head+Hurts)
+* [Dracodraco — through the light](https://www.last.fm/music/Dracodraco/_/through+the+light)
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
+* [GOLEMM — Untouchable](https://www.last.fm/music/GOLEMM/_/Untouchable)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
