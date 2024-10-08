@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sewerslvt — Blissful Overdose](https://www.last.fm/music/Sewerslvt/_/Blissful+Overdose)
 * [EgoFear — HELLSCAPE](https://www.last.fm/music/EgoFear/_/HELLSCAPE)
 * [NANORAY — SALMON CANNON](https://www.last.fm/music/NANORAY/_/SALMON+CANNON)
 * [EgoFear — HELLSCAPE](https://www.last.fm/music/EgoFear/_/HELLSCAPE)
-* [NANORAY — SALMON CANNON](https://www.last.fm/music/NANORAY/_/SALMON+CANNON)
-* [NANORAY — NEKOMATA&#39;97](https://www.last.fm/music/NANORAY/_/NEKOMATA%2797)<!-- LASTFM:END -->
+* [NANORAY — SALMON CANNON](https://www.last.fm/music/NANORAY/_/SALMON+CANNON)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
