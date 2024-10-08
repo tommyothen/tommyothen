@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Deathbrain — my room is upside down](https://www.last.fm/music/Deathbrain/_/my+room+is+upside+down)
-* [purity filter — takemeawaypls.wav &lpar;INTO THE NIGHTCORE&rpar;](https://www.last.fm/music/purity+filter/_/takemeawaypls.wav+&lpar;INTO+THE+NIGHTCORE&rpar;)
-* [Mayo. — Reduplicate](https://www.last.fm/music/Mayo./_/Reduplicate)
-* [EgoFear — HELLSCAPE](https://www.last.fm/music/EgoFear/_/HELLSCAPE)
-* [strxwberrymilk — Agoraphobia](https://www.last.fm/music/strxwberrymilk/_/Agoraphobia)<!-- LASTFM:END -->
+* [Mayo. — Yama](https://www.last.fm/music/Mayo./_/Yama)
+* [Trashiii — Level Select](https://www.last.fm/music/Trashiii/_/Level+Select)
+* [11vx — rapid](https://www.last.fm/music/11vx/_/rapid)
+* [Acidgvrl — breakcore is dumb](https://www.last.fm/music/Acidgvrl/_/breakcore+is+dumb)
+* [Xxtarlit⚸ — Fleeting Frozen Heart](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/Fleeting+Frozen+Heart)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
