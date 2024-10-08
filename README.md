@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
+* [Igorrr — Camel Dancefloor](https://www.last.fm/music/Igorrr/_/Camel+Dancefloor)
 * [Ūla — god complex](https://www.last.fm/music/%C5%AAla/_/god+complex)
 * [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
-* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)
-* [Sewerslvt — Blissful Overdose](https://www.last.fm/music/Sewerslvt/_/Blissful+Overdose)
-* [EgoFear — HELLSCAPE](https://www.last.fm/music/EgoFear/_/HELLSCAPE)<!-- LASTFM:END -->
+* [Polyphia — Playing God](https://www.last.fm/music/Polyphia/_/Playing+God)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
