@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Heatace — b4](https://www.last.fm/music/Heatace/_/b4)
-* [Ftlframe — A_R_I_S_U_](https://www.last.fm/music/Ftlframe/_/A_R_I_S_U_)
-* [Trashiii — NewGame+](https://www.last.fm/music/Trashiii/_/NewGame%252B)
-* [11vx — butterfly-s](https://www.last.fm/music/11vx/_/butterfly-s)
-* [purity filter — Chrysalis](https://www.last.fm/music/purity+filter/_/Chrysalis)<!-- LASTFM:END -->
+* [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)
+* [Emray — About 10 Hours of making Breakcore](https://www.last.fm/music/Emray/_/About+10+Hours+of+making+Breakcore)
+* [Rory in early 20s — Da Da Is Tape To And U U U](https://www.last.fm/music/Rory+in+early+20s/_/Da+Da+Is+Tape+To+And+U+U+U)
+* [Acidgvrl — raging breakcore](https://www.last.fm/music/Acidgvrl/_/raging+breakcore)
+* [Heatace — b4](https://www.last.fm/music/Heatace/_/b4)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
