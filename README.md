@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NANORAY — NEKOMATA&#39;97](https://www.last.fm/music/NANORAY/_/NEKOMATA%2797)
 * [purity filter — Remnant Syphon](https://www.last.fm/music/purity+filter/_/Remnant+Syphon)
 * [strxwberrymilk — I&#39;ll Go Home Then - Radio Edit](https://www.last.fm/music/strxwberrymilk/_/I%27ll+Go+Home+Then+-+Radio+Edit)
 * [11vx — rapid](https://www.last.fm/music/11vx/_/rapid)
-* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
-* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)<!-- LASTFM:END -->
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
