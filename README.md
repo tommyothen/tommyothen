@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
-* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
-* [goreshit — fine night](https://www.last.fm/music/goreshit/_/fine+night)
-* [Machine Girl — Cyan Hardcore](https://www.last.fm/music/Machine+Girl/_/Cyan+Hardcore)
-* [Xxtarlit⚸ — Fleeting Frozen Heart](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/Fleeting+Frozen+Heart)<!-- LASTFM:END -->
+* [vierre cloud — moment](https://www.last.fm/music/vierre+cloud/_/moment)
+* [FlowerBoyDeMii — iris](https://www.last.fm/music/FlowerBoyDeMii/_/iris)
+* [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)
+* [iwakura — Cyberia](https://www.last.fm/music/iwakura/_/Cyberia)
+* [Sewerslvt — Ecifircas](https://www.last.fm/music/Sewerslvt/_/Ecifircas)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
