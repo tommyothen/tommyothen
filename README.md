@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [iwakura — Silent Hill](https://www.last.fm/music/iwakura/_/Silent+Hill)
+* [BLKSMIITH — Wounds Will H.eal](https://www.last.fm/music/BLKSMIITH/_/Wounds+Will+H.eal)
 * [Sewerslvt — Restlessness](https://www.last.fm/music/Sewerslvt/_/Restlessness)
 * [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
-* [Heatace — b4](https://www.last.fm/music/Heatace/_/b4)
-* [Vertigoaway — Missed the Bus!](https://www.last.fm/music/Vertigoaway/_/Missed+the+Bus!)
-* [purity filter — Chrysalis](https://www.last.fm/music/purity+filter/_/Chrysalis)<!-- LASTFM:END -->
+* [Heatace — b4](https://www.last.fm/music/Heatace/_/b4)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
