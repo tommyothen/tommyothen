@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine)
+* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
 * [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
 * [NewJeans — New Jeans](https://www.last.fm/music/NewJeans/_/New+Jeans)
-* [Ariana Grande — Into You](https://www.last.fm/music/Ariana+Grande/_/Into+You)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [NewJeans — ETA](https://www.last.fm/music/NewJeans/_/ETA)<!-- LASTFM:END -->
+* [Ariana Grande — Into You](https://www.last.fm/music/Ariana+Grande/_/Into+You)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
