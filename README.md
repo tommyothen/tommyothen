@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Niki — lowkey](https://www.last.fm/music/Niki/_/lowkey)
 * [NewJeans — New Jeans](https://www.last.fm/music/NewJeans/_/New+Jeans)
 * [Ariana Grande — Into You](https://www.last.fm/music/Ariana+Grande/_/Into+You)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [NewJeans — ETA](https://www.last.fm/music/NewJeans/_/ETA)
-* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)<!-- LASTFM:END -->
+* [NewJeans — ETA](https://www.last.fm/music/NewJeans/_/ETA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
