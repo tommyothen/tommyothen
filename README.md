@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Xxtarlit⚸ — untitled](https://www.last.fm/music/Xxtarlit%E2%9A%B8/_/untitled)
+* [goreshit — the pain of relief &lpar;we have our vices one and all&rpar;](https://www.last.fm/music/goreshit/_/the+pain+of+relief+&lpar;we+have+our+vices+one+and+all&rpar;)
 * [Vertigoaway — Talking Show](https://www.last.fm/music/Vertigoaway/_/Talking+Show)
 * [iwakura — Silent Hill](https://www.last.fm/music/iwakura/_/Silent+Hill)
-* [BLKSMIITH — Wounds Will H.eal](https://www.last.fm/music/BLKSMIITH/_/Wounds+Will+H.eal)
-* [Sewerslvt — Restlessness](https://www.last.fm/music/Sewerslvt/_/Restlessness)
-* [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)<!-- LASTFM:END -->
+* [BLKSMIITH — Wounds Will H.eal](https://www.last.fm/music/BLKSMIITH/_/Wounds+Will+H.eal)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
