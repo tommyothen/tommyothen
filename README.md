@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BLKSMIITH — F R A G M E N T](https://www.last.fm/music/BLKSMIITH/_/F+R+A+G+M+E+N+T)
-* [Vertigoaway — KINDA WANT TO FUCK BUT OH GOD IM SCARED](https://www.last.fm/music/Vertigoaway/_/KINDA+WANT+TO+FUCK+BUT+OH+GOD+IM+SCARED)
-* [Dracodraco — through the light](https://www.last.fm/music/Dracodraco/_/through+the+light)
-* [Sewerslvt — the last thing she sent me](https://www.last.fm/music/Sewerslvt/_/the+last+thing+she+sent+me)
-* [purity filter — Remnant Syphon](https://www.last.fm/music/purity+filter/_/Remnant+Syphon)<!-- LASTFM:END -->
+* [Mayo. — Reduplicate](https://www.last.fm/music/Mayo./_/Reduplicate)
+* [purity filter — Lost Silver](https://www.last.fm/music/purity+filter/_/Lost+Silver)
+* [strxwberrymilk — I&#39;ll Go Home Then - Radio Edit](https://www.last.fm/music/strxwberrymilk/_/I%27ll+Go+Home+Then+-+Radio+Edit)
+* [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
