@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sewerslvt — Kawaii Razor Blades](https://www.last.fm/music/Sewerslvt/_/Kawaii+Razor+Blades)
-* [Vertigoaway — AM FM](https://www.last.fm/music/Vertigoaway/_/AM+FM)
-* [NANORAY — SALMON CANNON](https://www.last.fm/music/NANORAY/_/SALMON+CANNON)
-* [Adolf Nomura — BEAT THE POLICE](https://www.last.fm/music/Adolf+Nomura/_/BEAT+THE+POLICE)
-* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)<!-- LASTFM:END -->
+* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
+* [Rory in early 20s — De Kieru](https://www.last.fm/music/Rory+in+early+20s/_/De+Kieru)
+* [iwakura — Hatred](https://www.last.fm/music/iwakura/_/Hatred)
+* [Sewerslvt — Kawaii Razor Blades](https://www.last.fm/music/Sewerslvt/_/Kawaii+Razor+Blades)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
