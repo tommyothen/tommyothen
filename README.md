@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [purity filter — Wisteria Awakens](https://www.last.fm/music/purity+filter/_/Wisteria+Awakens)
+* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
 * [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
 * [Igorrr — Absolute Psalm](https://www.last.fm/music/Igorrr/_/Absolute+Psalm)
-* [Igorrr — Damaged Wig](https://www.last.fm/music/Igorrr/_/Damaged+Wig)
-* [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)
-* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)<!-- LASTFM:END -->
+* [Igorrr — Damaged Wig](https://www.last.fm/music/Igorrr/_/Damaged+Wig)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
