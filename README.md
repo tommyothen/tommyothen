@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pisca — Is your online persona an untamed unfiltered version of yourself?](https://www.last.fm/music/Pisca/_/Is+your+online+persona+an+untamed+unfiltered+version+of+yourself%3F)
+* [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)
 * [Ooxygen — Final wish](https://www.last.fm/music/Ooxygen/_/Final+wish)
 * [Sewerslvt — Kawaii Razor Blades](https://www.last.fm/music/Sewerslvt/_/Kawaii+Razor+Blades)
-* [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)
-* [GOLEMM — World Of Fate](https://www.last.fm/music/GOLEMM/_/World+Of+Fate)
-* [Rory in early 20s — De Kieru](https://www.last.fm/music/Rory+in+early+20s/_/De+Kieru)<!-- LASTFM:END -->
+* [bye2 — Onionfriends2004](https://www.last.fm/music/bye2/_/Onionfriends2004)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
