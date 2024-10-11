@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Akiba — いつか会いたい](https://www.last.fm/music/Akiba/_/%E3%81%84%E3%81%A4%E3%81%8B%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%84)
+* [Sewerslvt — self destruction worldwide broadcast](https://www.last.fm/music/Sewerslvt/_/self+destruction+worldwide+broadcast)
+* [Ftlframe — A_R_I_S_U_](https://www.last.fm/music/Ftlframe/_/A_R_I_S_U_)
 * [JVNLIII — Summer](https://www.last.fm/music/JVNLIII/_/Summer)
-* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
-* [Mayo. — Yama](https://www.last.fm/music/Mayo./_/Yama)
-* [purity filter — static.link - metora _stasis222](https://www.last.fm/music/purity+filter/_/static.link+-+metora+_stasis222)
-* [Akiba — 人々の繋がり](https://www.last.fm/music/Akiba/_/%E4%BA%BA%E3%80%85%E3%81%AE%E7%B9%8B%E3%81%8C%E3%82%8A)<!-- LASTFM:END -->
+* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
