@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sewerslvt — Newlove](https://www.last.fm/music/Sewerslvt/_/Newlove)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
-* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
-* [Mayo. — Reduplicate](https://www.last.fm/music/Mayo./_/Reduplicate)
-* [purity filter — Lost Silver](https://www.last.fm/music/purity+filter/_/Lost+Silver)<!-- LASTFM:END -->
+* [JVNLIII — Summer](https://www.last.fm/music/JVNLIII/_/Summer)
+* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
+* [Mayo. — Yama](https://www.last.fm/music/Mayo./_/Yama)
+* [purity filter — static.link - metora _stasis222](https://www.last.fm/music/purity+filter/_/static.link+-+metora+_stasis222)
+* [Akiba — 人々の繋がり](https://www.last.fm/music/Akiba/_/%E4%BA%BA%E3%80%85%E3%81%AE%E7%B9%8B%E3%81%8C%E3%82%8A)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
