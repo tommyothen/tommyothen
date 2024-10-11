@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sewerslvt — Newlove](https://www.last.fm/music/Sewerslvt/_/Newlove)
+* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
+* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
 * [Mayo. — Reduplicate](https://www.last.fm/music/Mayo./_/Reduplicate)
-* [purity filter — Lost Silver](https://www.last.fm/music/purity+filter/_/Lost+Silver)
-* [strxwberrymilk — I&#39;ll Go Home Then - Radio Edit](https://www.last.fm/music/strxwberrymilk/_/I%27ll+Go+Home+Then+-+Radio+Edit)
-* [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)
-* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)<!-- LASTFM:END -->
+* [purity filter — Lost Silver](https://www.last.fm/music/purity+filter/_/Lost+Silver)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
