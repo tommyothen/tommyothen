@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sewerslvt — Restlessness](https://www.last.fm/music/Sewerslvt/_/Restlessness)
+* [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
+* [Heatace — b4](https://www.last.fm/music/Heatace/_/b4)
 * [Vertigoaway — Missed the Bus!](https://www.last.fm/music/Vertigoaway/_/Missed+the+Bus!)
-* [purity filter — Chrysalis](https://www.last.fm/music/purity+filter/_/Chrysalis)
-* [hxly xo — haunted.](https://www.last.fm/music/hxly+xo/_/haunted.)
-* [Akiba — いつか会いたい](https://www.last.fm/music/Akiba/_/%E3%81%84%E3%81%A4%E3%81%8B%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%84)
-* [Sewerslvt — self destruction worldwide broadcast](https://www.last.fm/music/Sewerslvt/_/self+destruction+worldwide+broadcast)<!-- LASTFM:END -->
+* [purity filter — Chrysalis](https://www.last.fm/music/purity+filter/_/Chrysalis)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
