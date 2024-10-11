@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Damaged Wig](https://www.last.fm/music/Igorrr/_/Damaged+Wig)
+* [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)
+* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
 * [purity filter — Chrysalis](https://www.last.fm/music/purity+filter/_/Chrysalis)
-* [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)
-* [strxwberrymilk — Pink Skirts Are Really Sweet](https://www.last.fm/music/strxwberrymilk/_/Pink+Skirts+Are+Really+Sweet)
-* [Acidgvrl — breakcore is dumb](https://www.last.fm/music/Acidgvrl/_/breakcore+is+dumb)
-* [swimswim — fuck this shit](https://www.last.fm/music/swimswim/_/fuck+this+shit)<!-- LASTFM:END -->
+* [JVNLIII — nastasia](https://www.last.fm/music/JVNLIII/_/nastasia)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
