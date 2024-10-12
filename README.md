@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rob Zombie — Dragula](https://www.last.fm/music/Rob+Zombie/_/Dragula)
+* [Slipknot — Spit It Out](https://www.last.fm/music/Slipknot/_/Spit+It+Out)
+* [Slipknot — The Devil in I](https://www.last.fm/music/Slipknot/_/The+Devil+in+I)
 * [Linkin Park — A Place for My Head](https://www.last.fm/music/Linkin+Park/_/A+Place+for+My+Head)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
-* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
-* [Linkin Park — Runaway](https://www.last.fm/music/Linkin+Park/_/Runaway)
-* [System of a Down — B.Y.O.B.](https://www.last.fm/music/System+of+a+Down/_/B.Y.O.B.)<!-- LASTFM:END -->
+* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
