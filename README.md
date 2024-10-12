@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Linkin Park — A Place for My Head](https://www.last.fm/music/Linkin+Park/_/A+Place+for+My+Head)
+* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)
+* [Slipknot — Psychosocial](https://www.last.fm/music/Slipknot/_/Psychosocial)
 * [Linkin Park — Runaway](https://www.last.fm/music/Linkin+Park/_/Runaway)
-* [System of a Down — B.Y.O.B.](https://www.last.fm/music/System+of+a+Down/_/B.Y.O.B.)
-* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
-* [Ariana Grande — the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine)
-* [Ariana Grande — true story](https://www.last.fm/music/Ariana+Grande/_/true+story)<!-- LASTFM:END -->
+* [System of a Down — B.Y.O.B.](https://www.last.fm/music/System+of+a+Down/_/B.Y.O.B.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
