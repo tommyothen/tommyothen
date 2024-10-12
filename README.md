@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
+* [purity filter — Wisteria Awakens](https://www.last.fm/music/purity+filter/_/Wisteria+Awakens)
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
 * [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
-* [BLKSMIITH — SR20DET](https://www.last.fm/music/BLKSMIITH/_/SR20DET)
-* [Nosgov — goes nowhere](https://www.last.fm/music/Nosgov/_/goes+nowhere)
-* [c678924 — \\\](https://www.last.fm/music/c678924/_/%5C%5C%5C)
-* [TOKYOPILL — Let&#39;s All Love Lain](https://www.last.fm/music/TOKYOPILL/_/Let%27s+All+Love+Lain)<!-- LASTFM:END -->
+* [BLKSMIITH — SR20DET](https://www.last.fm/music/BLKSMIITH/_/SR20DET)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
