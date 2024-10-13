@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
+* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
+* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
 * [NXCRE — Usurper](https://www.last.fm/music/NXCRE/_/Usurper)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [Rob Zombie — Dragula](https://www.last.fm/music/Rob+Zombie/_/Dragula)
-* [Slipknot — Spit It Out](https://www.last.fm/music/Slipknot/_/Spit+It+Out)<!-- LASTFM:END -->
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
