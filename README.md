@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
+* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
 * [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
 * [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
-* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
-* [NXCRE — Usurper](https://www.last.fm/music/NXCRE/_/Usurper)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)<!-- LASTFM:END -->
+* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
