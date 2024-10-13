@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eric Reprid — SUKI](https://www.last.fm/music/Eric+Reprid/_/SUKI)
+* [Eric Reprid — SUKI](https://www.last.fm/music/Eric+Reprid/_/SUKI)
 * [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
 * [Pouya — WHAT UU BOUT](https://www.last.fm/music/Pouya/_/WHAT+UU+BOUT)
-* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
-* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
 * [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
