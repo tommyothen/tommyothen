@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NXCRE — Usurper](https://www.last.fm/music/NXCRE/_/Usurper)
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
 * [Rob Zombie — Dragula](https://www.last.fm/music/Rob+Zombie/_/Dragula)
-* [Slipknot — Spit It Out](https://www.last.fm/music/Slipknot/_/Spit+It+Out)
-* [Slipknot — The Devil in I](https://www.last.fm/music/Slipknot/_/The+Devil+in+I)
-* [Linkin Park — A Place for My Head](https://www.last.fm/music/Linkin+Park/_/A+Place+for+My+Head)
-* [Slipknot — Wait and Bleed](https://www.last.fm/music/Slipknot/_/Wait+and+Bleed)<!-- LASTFM:END -->
+* [Slipknot — Spit It Out](https://www.last.fm/music/Slipknot/_/Spit+It+Out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
