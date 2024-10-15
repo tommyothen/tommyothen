@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
-* [Saib — Come with me](https://www.last.fm/music/Saib/_/Come+with+me)
-* [Pouya — life? ... lol](https://www.last.fm/music/Pouya/_/life%3F+...+lol)
-* [Shawn Wasabi — MARBLE TEA](https://www.last.fm/music/Shawn+Wasabi/_/MARBLE+TEA)
-* [DECO*27 — The Vampire - TeddyLoid Remix](https://www.last.fm/music/DECO*27/_/The+Vampire+-+TeddyLoid+Remix)<!-- LASTFM:END -->
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
+* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
+* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
+* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
