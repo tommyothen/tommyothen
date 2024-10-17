@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
+* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
+* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
 * [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
-* [Far Out — Origin](https://www.last.fm/music/Far+Out/_/Origin)
-* [Rich Brian — Drive Safe](https://www.last.fm/music/Rich+Brian/_/Drive+Safe)
-* [NXCRE — Usurper](https://www.last.fm/music/NXCRE/_/Usurper)
-* [temcandoanything — amygdala +icdamix+](https://www.last.fm/music/temcandoanything/_/amygdala+%252Bicdamix%252B)<!-- LASTFM:END -->
+* [Far Out — Origin](https://www.last.fm/music/Far+Out/_/Origin)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
