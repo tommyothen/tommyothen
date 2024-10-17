@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
+* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
 * [beabadoobee — this is how it went](https://www.last.fm/music/beabadoobee/_/this+is+how+it+went)
 * [beabadoobee — the man who left too soon](https://www.last.fm/music/beabadoobee/_/the+man+who+left+too+soon)
-* [beabadoobee — everything i want](https://www.last.fm/music/beabadoobee/_/everything+i+want)
-* [beabadoobee — Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)
-* [beabadoobee — post](https://www.last.fm/music/beabadoobee/_/post)<!-- LASTFM:END -->
+* [beabadoobee — everything i want](https://www.last.fm/music/beabadoobee/_/everything+i+want)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
