@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NXCRE — Usurper](https://www.last.fm/music/NXCRE/_/Usurper)
 * [temcandoanything — amygdala +icdamix+](https://www.last.fm/music/temcandoanything/_/amygdala+%252Bicdamix%252B)
 * [GNB CHILI — Save Me](https://www.last.fm/music/GNB+CHILI/_/Save+Me)
 * [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
-* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
 * [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
