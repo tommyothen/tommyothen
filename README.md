@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)
+* [beabadoobee — post](https://www.last.fm/music/beabadoobee/_/post)
 * [beabadoobee — A CRUEL AFFAIR](https://www.last.fm/music/beabadoobee/_/A+CRUEL+AFFAIR)
 * [beabadoobee — ever seen](https://www.last.fm/music/beabadoobee/_/ever+seen)
-* [beabadoobee — Coming Home](https://www.last.fm/music/beabadoobee/_/Coming+Home)
-* [beabadoobee — Girl Song](https://www.last.fm/music/beabadoobee/_/Girl+Song)
-* [beabadoobee — tie my shoes](https://www.last.fm/music/beabadoobee/_/tie+my+shoes)<!-- LASTFM:END -->
+* [beabadoobee — Coming Home](https://www.last.fm/music/beabadoobee/_/Coming+Home)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
