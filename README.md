@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [purity filter — crystal_blush &lpar;cast.essence_flux&rpar;](https://www.last.fm/music/purity+filter/_/crystal_blush+&lpar;cast.essence_flux&rpar;)
+* [Acidgvrl — breakcore is dumb](https://www.last.fm/music/Acidgvrl/_/breakcore+is+dumb)
+* [11vx — rapid](https://www.last.fm/music/11vx/_/rapid)
 * [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)
-* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)
-* [Tfwamirite — だきしめたい](https://www.last.fm/music/Tfwamirite/_/%E3%81%A0%E3%81%8D%E3%81%97%E3%82%81%E3%81%9F%E3%81%84)
-* [purity filter — red dot](https://www.last.fm/music/purity+filter/_/red+dot)
-* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)<!-- LASTFM:END -->
+* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
