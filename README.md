@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Emray — About 10 Hours of making Breakcore](https://www.last.fm/music/Emray/_/About+10+Hours+of+making+Breakcore)
+* [purity filter — Chrysalis](https://www.last.fm/music/purity+filter/_/Chrysalis)
 * [Mayo. — Yama](https://www.last.fm/music/Mayo./_/Yama)
 * [EgoFear — Escape Your Mind!](https://www.last.fm/music/EgoFear/_/Escape+Your+Mind!)
-* [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)
-* [GOLEMM — Bliss](https://www.last.fm/music/GOLEMM/_/Bliss)
-* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)<!-- LASTFM:END -->
+* [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
