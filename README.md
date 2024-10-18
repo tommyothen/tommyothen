@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — One Time](https://www.last.fm/music/beabadoobee/_/One+Time)
+* [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
 * [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
 * [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [beabadoobee — Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)
-* [beabadoobee — post](https://www.last.fm/music/beabadoobee/_/post)<!-- LASTFM:END -->
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
