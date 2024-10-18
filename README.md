@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [EgoFear — Delerium Overture](https://www.last.fm/music/EgoFear/_/Delerium+Overture)
 * [purity filter — crystal_blush &lpar;cast.essence_flux&rpar;](https://www.last.fm/music/purity+filter/_/crystal_blush+&lpar;cast.essence_flux&rpar;)
 * [Acidgvrl — breakcore is dumb](https://www.last.fm/music/Acidgvrl/_/breakcore+is+dumb)
 * [11vx — rapid](https://www.last.fm/music/11vx/_/rapid)
-* [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)
-* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)<!-- LASTFM:END -->
+* [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
