@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dracodraco — through the light](https://www.last.fm/music/Dracodraco/_/through+the+light)
-* [GOLEMM — spiritual realm](https://www.last.fm/music/GOLEMM/_/spiritual+realm)
-* [GNB CHILI — Save Me](https://www.last.fm/music/GNB+CHILI/_/Save+Me)
-* [purity filter — Lost Silver](https://www.last.fm/music/purity+filter/_/Lost+Silver)
-* [BLKSMIITH — F R A G M E N T](https://www.last.fm/music/BLKSMIITH/_/F+R+A+G+M+E+N+T)<!-- LASTFM:END -->
+* [hkmori — anybody can find love &lpar;except you.&rpar;](https://www.last.fm/music/hkmori/_/anybody+can+find+love+&lpar;except+you.&rpar;)
+* [purity filter — takemeawaypls.wav &lpar;INTO THE NIGHTCORE&rpar;](https://www.last.fm/music/purity+filter/_/takemeawaypls.wav+&lpar;INTO+THE+NIGHTCORE&rpar;)
+* [Vertigoaway — AM FM](https://www.last.fm/music/Vertigoaway/_/AM+FM)
+* [Sewerslvt — the last thing she sent me](https://www.last.fm/music/Sewerslvt/_/the+last+thing+she+sent+me)
+* [Dracodraco — through the light](https://www.last.fm/music/Dracodraco/_/through+the+light)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
