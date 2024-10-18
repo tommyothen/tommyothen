@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [purity filter — static.link - metora _stasis222](https://www.last.fm/music/purity+filter/_/static.link+-+metora+_stasis222)
-* [BLKSMIITH — Wounds Will H.eal](https://www.last.fm/music/BLKSMIITH/_/Wounds+Will+H.eal)
-* [EgoFear — Laughing to the Bank](https://www.last.fm/music/EgoFear/_/Laughing+to+the+Bank)
-* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
-* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)<!-- LASTFM:END -->
+* [EgoFear — Crimson Moon](https://www.last.fm/music/EgoFear/_/Crimson+Moon)
+* [Akiba — いつか会いたい](https://www.last.fm/music/Akiba/_/%E3%81%84%E3%81%A4%E3%81%8B%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%84)
+* [GOLEMM — croakers](https://www.last.fm/music/GOLEMM/_/croakers)
+* [Mayo. — Reduplicate](https://www.last.fm/music/Mayo./_/Reduplicate)
+* [purity filter — static.link - metora _stasis222](https://www.last.fm/music/purity+filter/_/static.link+-+metora+_stasis222)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
