@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [JVNLIII — Skyline](https://www.last.fm/music/JVNLIII/_/Skyline)
-* [Vertigoaway — Talking Show](https://www.last.fm/music/Vertigoaway/_/Talking+Show)
-* [purity filter — DOPAMINE](https://www.last.fm/music/purity+filter/_/DOPAMINE)
-* [BLKSMIITH — //obsession//](https://www.last.fm/music/BLKSMIITH/_/%2F%2Fobsession%2F%2F)
-* [EgoFear — Crimson Moon](https://www.last.fm/music/EgoFear/_/Crimson+Moon)<!-- LASTFM:END -->
+* [EgoFear — Heart Flutters](https://www.last.fm/music/EgoFear/_/Heart+Flutters)
+* [purity filter — luminescence](https://www.last.fm/music/purity+filter/_/luminescence)
+* [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
+* [Mayo. — Ciphered](https://www.last.fm/music/Mayo./_/Ciphered)
+* [GOLEMM — Chase](https://www.last.fm/music/GOLEMM/_/Chase)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
