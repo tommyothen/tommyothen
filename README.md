@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [EgoFear — Heart Flutters](https://www.last.fm/music/EgoFear/_/Heart+Flutters)
-* [purity filter — luminescence](https://www.last.fm/music/purity+filter/_/luminescence)
-* [Acidgvrl — breakcore for the blood sipping vampires](https://www.last.fm/music/Acidgvrl/_/breakcore+for+the+blood+sipping+vampires)
-* [Mayo. — Ciphered](https://www.last.fm/music/Mayo./_/Ciphered)
-* [GOLEMM — Chase](https://www.last.fm/music/GOLEMM/_/Chase)<!-- LASTFM:END -->
+* [purity filter — red dot](https://www.last.fm/music/purity+filter/_/red+dot)
+* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
+* [Mayo. — 804](https://www.last.fm/music/Mayo./_/804)
+* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
+* [Metaroom — God Race &lpar;Temptation Stairway&rpar;](https://www.last.fm/music/Metaroom/_/God+Race+&lpar;Temptation+Stairway&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
