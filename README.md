@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
 * [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
 * [beabadoobee — Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)
 * [beabadoobee — post](https://www.last.fm/music/beabadoobee/_/post)
-* [beabadoobee — A CRUEL AFFAIR](https://www.last.fm/music/beabadoobee/_/A+CRUEL+AFFAIR)
-* [beabadoobee — ever seen](https://www.last.fm/music/beabadoobee/_/ever+seen)<!-- LASTFM:END -->
+* [beabadoobee — A CRUEL AFFAIR](https://www.last.fm/music/beabadoobee/_/A+CRUEL+AFFAIR)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
