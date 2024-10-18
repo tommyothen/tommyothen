@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [EgoFear — Crimson Moon](https://www.last.fm/music/EgoFear/_/Crimson+Moon)
-* [Akiba — いつか会いたい](https://www.last.fm/music/Akiba/_/%E3%81%84%E3%81%A4%E3%81%8B%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%84)
-* [GOLEMM — croakers](https://www.last.fm/music/GOLEMM/_/croakers)
-* [Mayo. — Reduplicate](https://www.last.fm/music/Mayo./_/Reduplicate)
-* [purity filter — static.link - metora _stasis222](https://www.last.fm/music/purity+filter/_/static.link+-+metora+_stasis222)<!-- LASTFM:END -->
+* [JVNLIII — Skyline](https://www.last.fm/music/JVNLIII/_/Skyline)
+* [Vertigoaway — Talking Show](https://www.last.fm/music/Vertigoaway/_/Talking+Show)
+* [purity filter — DOPAMINE](https://www.last.fm/music/purity+filter/_/DOPAMINE)
+* [BLKSMIITH — //obsession//](https://www.last.fm/music/BLKSMIITH/_/%2F%2Fobsession%2F%2F)
+* [EgoFear — Crimson Moon](https://www.last.fm/music/EgoFear/_/Crimson+Moon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
