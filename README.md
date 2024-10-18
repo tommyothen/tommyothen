@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [11vx — Hero!](https://www.last.fm/music/11vx/_/Hero!)
+* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
+* [GOLEMM — Felt Good](https://www.last.fm/music/GOLEMM/_/Felt+Good)
 * [Emray — About 10 Hours of making Breakcore](https://www.last.fm/music/Emray/_/About+10+Hours+of+making+Breakcore)
-* [purity filter — Chrysalis](https://www.last.fm/music/purity+filter/_/Chrysalis)
-* [Mayo. — Yama](https://www.last.fm/music/Mayo./_/Yama)
-* [EgoFear — Escape Your Mind!](https://www.last.fm/music/EgoFear/_/Escape+Your+Mind!)
-* [Ftlframe — Shine or Die](https://www.last.fm/music/Ftlframe/_/Shine+or+Die)<!-- LASTFM:END -->
+* [purity filter — Chrysalis](https://www.last.fm/music/purity+filter/_/Chrysalis)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
