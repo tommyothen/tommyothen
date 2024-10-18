@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TOKYOPILL — E t h e r e a l](https://www.last.fm/music/TOKYOPILL/_/E+t+h+e+r+e+a+l)
+* [Akiba — カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)
+* [Tfwamirite — だきしめたい](https://www.last.fm/music/Tfwamirite/_/%E3%81%A0%E3%81%8D%E3%81%97%E3%82%81%E3%81%9F%E3%81%84)
 * [purity filter — red dot](https://www.last.fm/music/purity+filter/_/red+dot)
-* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)
-* [Mayo. — 804](https://www.last.fm/music/Mayo./_/804)
-* [GOLEMM — Watch out for Golem.](https://www.last.fm/music/GOLEMM/_/Watch+out+for+Golem.)
-* [Metaroom — God Race &lpar;Temptation Stairway&rpar;](https://www.last.fm/music/Metaroom/_/God+Race+&lpar;Temptation+Stairway&rpar;)<!-- LASTFM:END -->
+* [Acidgvrl — breakcore rock](https://www.last.fm/music/Acidgvrl/_/breakcore+rock)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
