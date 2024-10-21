@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)
-* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)
-* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)
-* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)<!-- LASTFM:END -->
+* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
+* [City Girl — HEARTBREAKER CLUB](https://www.last.fm/music/City+Girl/_/HEARTBREAKER+CLUB)
+* [adan diaz — legroom](https://www.last.fm/music/adan+diaz/_/legroom)
+* [Anyma — Welcome To The Opera &lpar;with Grimes&rpar;](https://www.last.fm/music/Anyma/_/Welcome+To+The+Opera+&lpar;with+Grimes&rpar;)
+* [Lisa — Rockstar](https://www.last.fm/music/Lisa/_/Rockstar)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
