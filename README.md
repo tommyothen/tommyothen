@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [beabadoobee — One Time](https://www.last.fm/music/beabadoobee/_/One+Time)
-* [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
+* [Eric Reprid — SUKI](https://www.last.fm/music/Eric+Reprid/_/SUKI)
+* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
 * [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
-* [beabadoobee — post](https://www.last.fm/music/beabadoobee/_/post)
-* [beabadoobee — A CRUEL AFFAIR](https://www.last.fm/music/beabadoobee/_/A+CRUEL+AFFAIR)<!-- LASTFM:END -->
+* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
+* [beabadoobee — One Time](https://www.last.fm/music/beabadoobee/_/One+Time)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
