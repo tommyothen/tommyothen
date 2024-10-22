@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
+* [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
 * [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
 * [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
-* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
-* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)
-* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)<!-- LASTFM:END -->
+* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
