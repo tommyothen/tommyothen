@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
 * [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
 * [beabadoobee — One Time](https://www.last.fm/music/beabadoobee/_/One+Time)
-* [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
-* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
-* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)<!-- LASTFM:END -->
+* [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
