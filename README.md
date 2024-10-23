@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Chic Chick](https://www.last.fm/music/Poppy/_/Chic+Chick)
 * [beabadoobee — One Time](https://www.last.fm/music/beabadoobee/_/One+Time)
 * [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
 * [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
-* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)<!-- LASTFM:END -->
+* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
