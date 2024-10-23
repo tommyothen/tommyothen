@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Sharpest Tool](https://www.last.fm/music/Sabrina+Carpenter/_/Sharpest+Tool)
+* [Bring Me the Horizon — liMOusIne &lpar;feat. AURORA&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/liMOusIne+&lpar;feat.+AURORA&rpar;)
+* [Olivia Rodrigo — obsessed](https://www.last.fm/music/Olivia+Rodrigo/_/obsessed)
 * [Chappell Roan — Naked in Manhattan](https://www.last.fm/music/Chappell+Roan/_/Naked+in+Manhattan)
-* [Chappell Roan — My Kink Is Karma](https://www.last.fm/music/Chappell+Roan/_/My+Kink+Is+Karma)
-* [Ariana Grande — supernatural](https://www.last.fm/music/Ariana+Grande/_/supernatural)
-* [Eric Reprid — SUKI](https://www.last.fm/music/Eric+Reprid/_/SUKI)
-* [BROCKHAMPTON — JELLO](https://www.last.fm/music/BROCKHAMPTON/_/JELLO)<!-- LASTFM:END -->
+* [Chappell Roan — My Kink Is Karma](https://www.last.fm/music/Chappell+Roan/_/My+Kink+Is+Karma)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
