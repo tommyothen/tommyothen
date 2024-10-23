@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [NANORAY — SALMON CANNON](https://www.last.fm/music/NANORAY/_/SALMON+CANNON)
-* [Sabrina Carpenter — Sharpest Tool](https://www.last.fm/music/Sabrina+Carpenter/_/Sharpest+Tool)
-* [Bring Me the Horizon — liMOusIne &lpar;feat. AURORA&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/liMOusIne+&lpar;feat.+AURORA&rpar;)
-* [Olivia Rodrigo — obsessed](https://www.last.fm/music/Olivia+Rodrigo/_/obsessed)
-* [Chappell Roan — Naked in Manhattan](https://www.last.fm/music/Chappell+Roan/_/Naked+in+Manhattan)<!-- LASTFM:END -->
+* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)
+* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
+* [NANORAY — SALMON CANNON](https://www.last.fm/music/NANORAY/_/SALMON+CANNON)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
