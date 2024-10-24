@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)
 * [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)
 * [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)
 * [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)
-* [Illit — My World](https://www.last.fm/music/Illit/_/My+World)
-* [Illit — Midnight Fiction](https://www.last.fm/music/Illit/_/Midnight+Fiction)<!-- LASTFM:END -->
+* [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
