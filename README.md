@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [ILLIT — Magnetic &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/Magnetic+&lpar;Sped+Up&rpar;)
-* [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)
-* [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)
-* [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)
-* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)<!-- LASTFM:END -->
+* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
+* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
+* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
+* [Eric Reprid — SUKI](https://www.last.fm/music/Eric+Reprid/_/SUKI)
+* [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
