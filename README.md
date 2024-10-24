@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [Ariana Grande — we can&#39;t be friends &lpar;wait for your love&rpar;](https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends+&lpar;wait+for+your+love&rpar;)
-* [Ariana Grande — yes, and?](https://www.last.fm/music/Ariana+Grande/_/yes,+and%3F)<!-- LASTFM:END -->
+* [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)
+* [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)
+* [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)
+* [Illit — My World](https://www.last.fm/music/Illit/_/My+World)
+* [Illit — Midnight Fiction](https://www.last.fm/music/Illit/_/Midnight+Fiction)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
