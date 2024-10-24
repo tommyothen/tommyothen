@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)
-* [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)
-* [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)
-* [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)
-* [ILLIT — My World &lpar;Sped Up&rpar;](https://www.last.fm/music/ILLIT/_/My+World+&lpar;Sped+Up&rpar;)<!-- LASTFM:END -->
+* [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
+* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
+* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
+* [Eric Reprid — SUKI](https://www.last.fm/music/Eric+Reprid/_/SUKI)
+* [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
