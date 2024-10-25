@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)
+* [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)
 * [beabadoobee — One Time](https://www.last.fm/music/beabadoobee/_/One+Time)
 * [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
-* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
-* [beabadoobee — this is how it went](https://www.last.fm/music/beabadoobee/_/this+is+how+it+went)
-* [beabadoobee — the man who left too soon](https://www.last.fm/music/beabadoobee/_/the+man+who+left+too+soon)<!-- LASTFM:END -->
+* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
