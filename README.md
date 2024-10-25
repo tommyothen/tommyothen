@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — real man](https://www.last.fm/music/beabadoobee/_/real+man)
+* [beabadoobee — One Time](https://www.last.fm/music/beabadoobee/_/One+Time)
 * [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
 * [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
-* [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)
-* [Periphery — The Event](https://www.last.fm/music/Periphery/_/The+Event)
-* [Periphery — Heavy Heart](https://www.last.fm/music/Periphery/_/Heavy+Heart)<!-- LASTFM:END -->
+* [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
