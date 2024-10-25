@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — Girl Song](https://www.last.fm/music/beabadoobee/_/Girl+Song)
+* [beabadoobee — tie my shoes](https://www.last.fm/music/beabadoobee/_/tie+my+shoes)
 * [beabadoobee — real man](https://www.last.fm/music/beabadoobee/_/real+man)
 * [beabadoobee — One Time](https://www.last.fm/music/beabadoobee/_/One+Time)
-* [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
-* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
-* [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)<!-- LASTFM:END -->
+* [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
