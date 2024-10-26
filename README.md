@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Gift Of Gab — Freedom Form Flowing](https://www.last.fm/music/Gift+Of+Gab/_/Freedom+Form+Flowing)
+* [Joey Bada$ — Land of the Free](https://www.last.fm/music/Joey+Bada$/_/Land+of+the+Free)
 * [Ramirez — Glitter &amp; Gold](https://www.last.fm/music/Ramirez/_/Glitter+&amp;+Gold)
 * [BewhY — Gottasadae](https://www.last.fm/music/BewhY/_/Gottasadae)
-* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
-* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
-* [Spiritbox — The Void](https://www.last.fm/music/Spiritbox/_/The+Void)<!-- LASTFM:END -->
+* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
