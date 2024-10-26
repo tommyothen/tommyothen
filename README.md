@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
+* [LE SSERAFIM — Pierrot](https://www.last.fm/music/LE+SSERAFIM/_/Pierrot)
 * [NewJeans — Cool With You](https://www.last.fm/music/NewJeans/_/Cool+With+You)
 * [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)
-* [aespa — Whiplash](https://www.last.fm/music/aespa/_/Whiplash)
-* [ILLIT — I&#39;LL LIKE YOU](https://www.last.fm/music/ILLIT/_/I%27LL+LIKE+YOU)
-* [Kiss of Life — Igloo](https://www.last.fm/music/Kiss+of+Life/_/Igloo)<!-- LASTFM:END -->
+* [aespa — Whiplash](https://www.last.fm/music/aespa/_/Whiplash)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
