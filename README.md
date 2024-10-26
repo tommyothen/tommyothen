@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)
-* [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)
-* [Ariana Grande — yes, and?](https://www.last.fm/music/Ariana+Grande/_/yes,+and%3F)
-* [Ariana Grande — the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine)
-* [Ariana Grande — true story](https://www.last.fm/music/Ariana+Grande/_/true+story)<!-- LASTFM:END -->
+* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)
+* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
+* [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
