@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eric Reprid — SUKI](https://www.last.fm/music/Eric+Reprid/_/SUKI)
 * [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)
 * [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)
 * [Glass Animals — Tokyo Drifting &lpar;with Denzel Curry&rpar;](https://www.last.fm/music/Glass+Animals/_/Tokyo+Drifting+&lpar;with+Denzel+Curry&rpar;)
-* [Eden — 909](https://www.last.fm/music/Eden/_/909)
-* [Poppy — CRYSTALLIZED](https://www.last.fm/music/Poppy/_/CRYSTALLIZED)<!-- LASTFM:END -->
+* [Eden — 909](https://www.last.fm/music/Eden/_/909)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
