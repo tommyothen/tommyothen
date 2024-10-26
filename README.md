@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [SCARLXRD — HEAD GXNE](https://www.last.fm/music/SCARLXRD/_/HEAD+GXNE)
+* [SCARLXRD — NX ADVICE](https://www.last.fm/music/SCARLXRD/_/NX+ADVICE)
+* [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)
 * [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [NewJeans — ETA](https://www.last.fm/music/NewJeans/_/ETA)
-* [NewJeans — New Jeans](https://www.last.fm/music/NewJeans/_/New+Jeans)
-* [Sabrina Carpenter — Good Graces](https://www.last.fm/music/Sabrina+Carpenter/_/Good+Graces)
-* [Doja Cat — Kiss Me More &lpar;feat. SZA&rpar;](https://www.last.fm/music/Doja+Cat/_/Kiss+Me+More+&lpar;feat.+SZA&rpar;)<!-- LASTFM:END -->
+* [NewJeans — ETA](https://www.last.fm/music/NewJeans/_/ETA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
