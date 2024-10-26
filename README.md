@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)
+* [Laura Pausini — Zero](https://www.last.fm/music/Laura+Pausini/_/Zero)
 * [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)
 * [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [LE SSERAFIM — Pierrot](https://www.last.fm/music/LE+SSERAFIM/_/Pierrot)
-* [NewJeans — Cool With You](https://www.last.fm/music/NewJeans/_/Cool+With+You)
-* [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)<!-- LASTFM:END -->
+* [LE SSERAFIM — Pierrot](https://www.last.fm/music/LE+SSERAFIM/_/Pierrot)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
