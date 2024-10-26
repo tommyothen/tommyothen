@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)
+* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
 * [Deftones — 7 Words](https://www.last.fm/music/Deftones/_/7+Words)
 * [Gojira — Silvera](https://www.last.fm/music/Gojira/_/Silvera)
-* [ILLIT — IYKYK &lpar;If You Know You Know&rpar;](https://www.last.fm/music/ILLIT/_/IYKYK+&lpar;If+You+Know+You+Know&rpar;)
-* [Illit — My World](https://www.last.fm/music/Illit/_/My+World)
-* [Spiritbox — Jaded](https://www.last.fm/music/Spiritbox/_/Jaded)<!-- LASTFM:END -->
+* [ILLIT — IYKYK &lpar;If You Know You Know&rpar;](https://www.last.fm/music/ILLIT/_/IYKYK+&lpar;If+You+Know+You+Know&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
