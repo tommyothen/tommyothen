@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)
+* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
 * [System of a Down — B.Y.O.B.](https://www.last.fm/music/System+of+a+Down/_/B.Y.O.B.)
 * [Clown Core — Flat Earth](https://www.last.fm/music/Clown+Core/_/Flat+Earth)
-* [Clown Core — Toilet](https://www.last.fm/music/Clown+Core/_/Toilet)
-* [Sybreed — Doomsday Party](https://www.last.fm/music/Sybreed/_/Doomsday+Party)
-* [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)<!-- LASTFM:END -->
+* [Clown Core — Toilet](https://www.last.fm/music/Clown+Core/_/Toilet)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
