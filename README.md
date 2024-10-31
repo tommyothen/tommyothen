@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Clairo — Bags](https://www.last.fm/music/Clairo/_/Bags)
+* [keshi — Soft Spot](https://www.last.fm/music/keshi/_/Soft+Spot)
 * [Troye Sivan — One of Your Girls](https://www.last.fm/music/Troye+Sivan/_/One+of+Your+Girls)
 * [Charli XCX — Talk talk](https://www.last.fm/music/Charli+XCX/_/Talk+talk)
-* [Sabrina Carpenter — Vicious](https://www.last.fm/music/Sabrina+Carpenter/_/Vicious)
-* [girl in red — we fell in love in october](https://www.last.fm/music/girl+in+red/_/we+fell+in+love+in+october)
-* [Lyn Lapid — back from the dead &lpar;with mxmtoon&rpar;](https://www.last.fm/music/Lyn+Lapid/_/back+from+the+dead+&lpar;with+mxmtoon&rpar;)<!-- LASTFM:END -->
+* [Sabrina Carpenter — Vicious](https://www.last.fm/music/Sabrina+Carpenter/_/Vicious)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
