@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
+* [Doja Cat — Paint the Town Red](https://www.last.fm/music/Doja+Cat/_/Paint+the+Town+Red)
 * [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
 * [Ariana Grande — obvious](https://www.last.fm/music/Ariana+Grande/_/obvious)
-* [Doja Cat — Agora Hills](https://www.last.fm/music/Doja+Cat/_/Agora+Hills)
-* [beabadoobee — Coming Home](https://www.last.fm/music/beabadoobee/_/Coming+Home)
-* [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)<!-- LASTFM:END -->
+* [Doja Cat — Agora Hills](https://www.last.fm/music/Doja+Cat/_/Agora+Hills)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
