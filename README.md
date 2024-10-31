@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — the way things go](https://www.last.fm/music/beabadoobee/_/the+way+things+go)
 * [Lisa — Moonlit Floor &lpar;Kiss Me&rpar;](https://www.last.fm/music/Lisa/_/Moonlit+Floor+&lpar;Kiss+Me&rpar;)
 * [The Japanese House — Touching Yourself](https://www.last.fm/music/The+Japanese+House/_/Touching+Yourself)
 * [Chappell Roan — Red Wine Supernova](https://www.last.fm/music/Chappell+Roan/_/Red+Wine+Supernova)
-* [Sabrina Carpenter — Sue Me](https://www.last.fm/music/Sabrina+Carpenter/_/Sue+Me)
-* [Kiss of Life — R.E.M](https://www.last.fm/music/Kiss+of+Life/_/R.E.M)<!-- LASTFM:END -->
+* [Sabrina Carpenter — Sue Me](https://www.last.fm/music/Sabrina+Carpenter/_/Sue+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
