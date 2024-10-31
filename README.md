@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)
+* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
+* [Eric Reprid — SUKI](https://www.last.fm/music/Eric+Reprid/_/SUKI)
 * [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)
 * [Laura Pausini — Zero](https://www.last.fm/music/Laura+Pausini/_/Zero)
-* [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)
-* [nihmune — Peaches](https://www.last.fm/music/nihmune/_/Peaches)<!-- LASTFM:END -->
+* [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
