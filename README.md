@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
+* [Sabrina Carpenter — Read your Mind](https://www.last.fm/music/Sabrina+Carpenter/_/Read+your+Mind)
 * [aespa — Whiplash](https://www.last.fm/music/aespa/_/Whiplash)
 * [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
-* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
-* [Sabrina Carpenter — Don’t Smile](https://www.last.fm/music/Sabrina+Carpenter/_/Don%E2%80%99t+Smile)
-* [Sabrina Carpenter — Lie to Girls](https://www.last.fm/music/Sabrina+Carpenter/_/Lie+to+Girls)<!-- LASTFM:END -->
+* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
