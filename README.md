@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billie Eilish — CHIHIRO](https://www.last.fm/music/Billie+Eilish/_/CHIHIRO)
 * [Katseye — Debut](https://www.last.fm/music/Katseye/_/Debut)
 * [Olivia Rodrigo — vampire](https://www.last.fm/music/Olivia+Rodrigo/_/vampire)
 * [Rachel Chinouriri — All I Ever Asked](https://www.last.fm/music/Rachel+Chinouriri/_/All+I+Ever+Asked)
-* [Sabrina Carpenter — Honeymoon Fades](https://www.last.fm/music/Sabrina+Carpenter/_/Honeymoon+Fades)
-* [keshi — SAY](https://www.last.fm/music/keshi/_/SAY)<!-- LASTFM:END -->
+* [Sabrina Carpenter — Honeymoon Fades](https://www.last.fm/music/Sabrina+Carpenter/_/Honeymoon+Fades)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
