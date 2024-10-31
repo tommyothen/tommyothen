@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lyn Lapid — back from the dead &lpar;with mxmtoon&rpar;](https://www.last.fm/music/Lyn+Lapid/_/back+from+the+dead+&lpar;with+mxmtoon&rpar;)
+* [Clairo — Add Up My Love](https://www.last.fm/music/Clairo/_/Add+Up+My+Love)
+* [flowerovlove — erase u](https://www.last.fm/music/flowerovlove/_/erase+u)
 * [aespa — UP - KARINA Solo](https://www.last.fm/music/aespa/_/UP+-+KARINA+Solo)
-* [Sabrina Carpenter — Fast Times](https://www.last.fm/music/Sabrina+Carpenter/_/Fast+Times)
-* [Billie Eilish — LUNCH](https://www.last.fm/music/Billie+Eilish/_/LUNCH)
-* [keshi — Texas](https://www.last.fm/music/keshi/_/Texas)
-* [Clairo — Slow Dance](https://www.last.fm/music/Clairo/_/Slow+Dance)<!-- LASTFM:END -->
+* [Sabrina Carpenter — Fast Times](https://www.last.fm/music/Sabrina+Carpenter/_/Fast+Times)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
