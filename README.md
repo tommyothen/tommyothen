@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Olivia Rodrigo — jealousy, jealousy](https://www.last.fm/music/Olivia+Rodrigo/_/jealousy,+jealousy)
+* [Addison Rae — Aquamarine](https://www.last.fm/music/Addison+Rae/_/Aquamarine)
 * [XG — IYKYK](https://www.last.fm/music/XG/_/IYKYK)
 * [Sabrina Carpenter — Nonsense](https://www.last.fm/music/Sabrina+Carpenter/_/Nonsense)
-* [The Kid LAROI — NIGHTS LIKE THIS](https://www.last.fm/music/The+Kid+LAROI/_/NIGHTS+LIKE+THIS)
-* [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
-* [Sabrina Carpenter — Read your Mind](https://www.last.fm/music/Sabrina+Carpenter/_/Read+your+Mind)<!-- LASTFM:END -->
+* [The Kid LAROI — NIGHTS LIKE THIS](https://www.last.fm/music/The+Kid+LAROI/_/NIGHTS+LIKE+THIS)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
