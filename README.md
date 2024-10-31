@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — One Time](https://www.last.fm/music/beabadoobee/_/One+Time)
+* [LE SSERAFIM — 1-800-hot-n-fun](https://www.last.fm/music/LE+SSERAFIM/_/1-800-hot-n-fun)
+* [Jennie — Mantra](https://www.last.fm/music/Jennie/_/Mantra)
 * [Sabrina Carpenter — Looking at Me](https://www.last.fm/music/Sabrina+Carpenter/_/Looking+at+Me)
-* [Clairo — Sexy To Someone](https://www.last.fm/music/Clairo/_/Sexy+To+Someone)
-* [beabadoobee — real man](https://www.last.fm/music/beabadoobee/_/real+man)
-* [Djo — End of Beginning](https://www.last.fm/music/Djo/_/End+of+Beginning)
-* [Troye Sivan — Rush](https://www.last.fm/music/Troye+Sivan/_/Rush)<!-- LASTFM:END -->
+* [Clairo — Sexy To Someone](https://www.last.fm/music/Clairo/_/Sexy+To+Someone)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
