@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — emails i can’t send](https://www.last.fm/music/Sabrina+Carpenter/_/emails+i+can%E2%80%99t+send)
+* [Kesha — JOYRIDE](https://www.last.fm/music/Kesha/_/JOYRIDE)
+* [Remi Wolf — Toro](https://www.last.fm/music/Remi+Wolf/_/Toro)
 * [Laufey — Promise](https://www.last.fm/music/Laufey/_/Promise)
-* [Chappell Roan — Good Luck, Babe!](https://www.last.fm/music/Chappell+Roan/_/Good+Luck,+Babe!)
-* [Sabrina Carpenter — Bad for Business](https://www.last.fm/music/Sabrina+Carpenter/_/Bad+for+Business)
-* [Olivia Rodrigo — all-american bitch](https://www.last.fm/music/Olivia+Rodrigo/_/all-american+bitch)
-* [Tommy Richman — MILLION DOLLAR BABY](https://www.last.fm/music/Tommy+Richman/_/MILLION+DOLLAR+BABY)<!-- LASTFM:END -->
+* [Chappell Roan — Good Luck, Babe!](https://www.last.fm/music/Chappell+Roan/_/Good+Luck,+Babe!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
