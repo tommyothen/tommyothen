@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Laufey — bored](https://www.last.fm/music/Laufey/_/bored)
-* [Olivia Rodrigo — love is embarrassing](https://www.last.fm/music/Olivia+Rodrigo/_/love+is+embarrassing)
-* [Chappell Roan — Super Graphic Ultra Modern Girl](https://www.last.fm/music/Chappell+Roan/_/Super+Graphic+Ultra+Modern+Girl)
-* [Sabrina Carpenter — Already Over](https://www.last.fm/music/Sabrina+Carpenter/_/Already+Over)
-* [Remi Wolf — Cinderella](https://www.last.fm/music/Remi+Wolf/_/Cinderella)<!-- LASTFM:END -->
+* [Chappell Roan — HOT TO GO!](https://www.last.fm/music/Chappell+Roan/_/HOT+TO+GO!)
+* [Sabrina Carpenter — opposite](https://www.last.fm/music/Sabrina+Carpenter/_/opposite)
+* [Kali Uchis — Never Be Yours](https://www.last.fm/music/Kali+Uchis/_/Never+Be+Yours)
+* [beabadoobee — ever seen](https://www.last.fm/music/beabadoobee/_/ever+seen)
+* [Laufey — bored](https://www.last.fm/music/Laufey/_/bored)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
