@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lyn Lapid — back from the dead &lpar;with mxmtoon&rpar;](https://www.last.fm/music/Lyn+Lapid/_/back+from+the+dead+&lpar;with+mxmtoon&rpar;)
-* [Clairo — Add Up My Love](https://www.last.fm/music/Clairo/_/Add+Up+My+Love)
-* [flowerovlove — erase u](https://www.last.fm/music/flowerovlove/_/erase+u)
-* [aespa — UP - KARINA Solo](https://www.last.fm/music/aespa/_/UP+-+KARINA+Solo)
-* [Sabrina Carpenter — Fast Times](https://www.last.fm/music/Sabrina+Carpenter/_/Fast+Times)<!-- LASTFM:END -->
+* [Troye Sivan — One of Your Girls](https://www.last.fm/music/Troye+Sivan/_/One+of+Your+Girls)
+* [Charli XCX — Talk talk](https://www.last.fm/music/Charli+XCX/_/Talk+talk)
+* [Sabrina Carpenter — Vicious](https://www.last.fm/music/Sabrina+Carpenter/_/Vicious)
+* [girl in red — we fell in love in october](https://www.last.fm/music/girl+in+red/_/we+fell+in+love+in+october)
+* [Lyn Lapid — back from the dead &lpar;with mxmtoon&rpar;](https://www.last.fm/music/Lyn+Lapid/_/back+from+the+dead+&lpar;with+mxmtoon&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
