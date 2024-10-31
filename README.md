@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — bet u wanna](https://www.last.fm/music/Sabrina+Carpenter/_/bet+u+wanna)
+* [The Marías — Run Your Mouth](https://www.last.fm/music/The+Mar%C3%ADas/_/Run+Your+Mouth)
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
 * [Olivia Rodrigo — jealousy, jealousy](https://www.last.fm/music/Olivia+Rodrigo/_/jealousy,+jealousy)
-* [Addison Rae — Aquamarine](https://www.last.fm/music/Addison+Rae/_/Aquamarine)
-* [XG — IYKYK](https://www.last.fm/music/XG/_/IYKYK)
-* [Sabrina Carpenter — Nonsense](https://www.last.fm/music/Sabrina+Carpenter/_/Nonsense)
-* [The Kid LAROI — NIGHTS LIKE THIS](https://www.last.fm/music/The+Kid+LAROI/_/NIGHTS+LIKE+THIS)<!-- LASTFM:END -->
+* [Addison Rae — Aquamarine](https://www.last.fm/music/Addison+Rae/_/Aquamarine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
