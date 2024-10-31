@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Honeymoon Fades](https://www.last.fm/music/Sabrina+Carpenter/_/Honeymoon+Fades)
+* [keshi — SAY](https://www.last.fm/music/keshi/_/SAY)
+* [flowerovlove — breaking news](https://www.last.fm/music/flowerovlove/_/breaking+news)
 * [FLO — Check](https://www.last.fm/music/FLO/_/Check)
-* [Olivia Rodrigo — pretty isn’t pretty](https://www.last.fm/music/Olivia+Rodrigo/_/pretty+isn%E2%80%99t+pretty)
-* [Billie Eilish — L’AMOUR DE MA VIE](https://www.last.fm/music/Billie+Eilish/_/L%E2%80%99AMOUR+DE+MA+VIE)
-* [Sabrina Carpenter — because i liked a boy](https://www.last.fm/music/Sabrina+Carpenter/_/because+i+liked+a+boy)
-* [RAYE — Worth It.](https://www.last.fm/music/RAYE/_/Worth+It.)<!-- LASTFM:END -->
+* [Olivia Rodrigo — pretty isn’t pretty](https://www.last.fm/music/Olivia+Rodrigo/_/pretty+isn%E2%80%99t+pretty)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
