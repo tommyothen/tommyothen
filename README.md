@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Sue Me](https://www.last.fm/music/Sabrina+Carpenter/_/Sue+Me)
+* [Kiss of Life — R.E.M](https://www.last.fm/music/Kiss+of+Life/_/R.E.M)
 * [beabadoobee — One Time](https://www.last.fm/music/beabadoobee/_/One+Time)
 * [LE SSERAFIM — 1-800-hot-n-fun](https://www.last.fm/music/LE+SSERAFIM/_/1-800-hot-n-fun)
-* [Jennie — Mantra](https://www.last.fm/music/Jennie/_/Mantra)
-* [Sabrina Carpenter — Looking at Me](https://www.last.fm/music/Sabrina+Carpenter/_/Looking+at+Me)
-* [Clairo — Sexy To Someone](https://www.last.fm/music/Clairo/_/Sexy+To+Someone)<!-- LASTFM:END -->
+* [Jennie — Mantra](https://www.last.fm/music/Jennie/_/Mantra)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
