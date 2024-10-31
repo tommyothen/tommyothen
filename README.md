@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Ariana Grande — ordinary things &lpar;feat. Nonna&rpar;](https://www.last.fm/music/Ariana+Grande/_/ordinary+things+&lpar;feat.+Nonna&rpar;)
-* [Ariana Grande — imperfect for you](https://www.last.fm/music/Ariana+Grande/_/imperfect+for+you)
-* [Ariana Grande — i wish i hated you](https://www.last.fm/music/Ariana+Grande/_/i+wish+i+hated+you)<!-- LASTFM:END -->
+* [Doja Cat — Candy](https://www.last.fm/music/Doja+Cat/_/Candy)
+* [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)
+* [Ariana Grande — positions](https://www.last.fm/music/Ariana+Grande/_/positions)
+* [Kiss of Life — Igloo](https://www.last.fm/music/Kiss+of+Life/_/Igloo)
+* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
