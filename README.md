@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Good Graces](https://www.last.fm/music/Sabrina+Carpenter/_/Good+Graces)
+* [Sabrina Carpenter — Please Please Please](https://www.last.fm/music/Sabrina+Carpenter/_/Please+Please+Please)
 * [Sabrina Carpenter — Taste](https://www.last.fm/music/Sabrina+Carpenter/_/Taste)
 * [beabadoobee — A Night To Remember](https://www.last.fm/music/beabadoobee/_/A+Night+To+Remember)
-* [Doja Cat — I Don&#39;t Do Drugs &lpar;feat. Ariana Grande&rpar;](https://www.last.fm/music/Doja+Cat/_/I+Don%27t+Do+Drugs+&lpar;feat.+Ariana+Grande&rpar;)
-* [Mitski — My Love Mine All Mine](https://www.last.fm/music/Mitski/_/My+Love+Mine+All+Mine)
-* [Kiss of Life — Midas Touch](https://www.last.fm/music/Kiss+of+Life/_/Midas+Touch)<!-- LASTFM:END -->
+* [Doja Cat — I Don&#39;t Do Drugs &lpar;feat. Ariana Grande&rpar;](https://www.last.fm/music/Doja+Cat/_/I+Don%27t+Do+Drugs+&lpar;feat.+Ariana+Grande&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
