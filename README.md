@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [keshi — Texas](https://www.last.fm/music/keshi/_/Texas)
+* [Clairo — Slow Dance](https://www.last.fm/music/Clairo/_/Slow+Dance)
 * [Addison Rae — Diet Pepsi](https://www.last.fm/music/Addison+Rae/_/Diet+Pepsi)
 * [Charli xcx — 360](https://www.last.fm/music/Charli+xcx/_/360)
-* [Sabrina Carpenter — emails i can’t send](https://www.last.fm/music/Sabrina+Carpenter/_/emails+i+can%E2%80%99t+send)
-* [Kesha — JOYRIDE](https://www.last.fm/music/Kesha/_/JOYRIDE)
-* [Remi Wolf — Toro](https://www.last.fm/music/Remi+Wolf/_/Toro)<!-- LASTFM:END -->
+* [Sabrina Carpenter — emails i can’t send](https://www.last.fm/music/Sabrina+Carpenter/_/emails+i+can%E2%80%99t+send)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
