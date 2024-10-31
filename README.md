@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [keshi — Dream](https://www.last.fm/music/keshi/_/Dream)
+* [girl in red — You Need Me Now? &lpar;feat. Sabrina Carpenter&rpar;](https://www.last.fm/music/girl+in+red/_/You+Need+Me+Now%3F+&lpar;feat.+Sabrina+Carpenter&rpar;)
 * [Clairo — Second Nature](https://www.last.fm/music/Clairo/_/Second+Nature)
 * [Olivia Rodrigo — lacy](https://www.last.fm/music/Olivia+Rodrigo/_/lacy)
-* [BENEE — Sad Boiii](https://www.last.fm/music/BENEE/_/Sad+Boiii)
-* [Sabrina Carpenter — Thumbs](https://www.last.fm/music/Sabrina+Carpenter/_/Thumbs)
-* [Meovv — MEOW](https://www.last.fm/music/Meovv/_/MEOW)<!-- LASTFM:END -->
+* [BENEE — Sad Boiii](https://www.last.fm/music/BENEE/_/Sad+Boiii)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
