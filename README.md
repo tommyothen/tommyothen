@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Eric Reprid — SUKI](https://www.last.fm/music/Eric+Reprid/_/SUKI)
-* [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)
-* [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)
-* [Laura Pausini — Zero](https://www.last.fm/music/Laura+Pausini/_/Zero)
-* [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)<!-- LASTFM:END -->
+* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
+* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)
+* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
