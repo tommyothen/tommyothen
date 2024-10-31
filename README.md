@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [FLO — Check](https://www.last.fm/music/FLO/_/Check)
+* [Olivia Rodrigo — pretty isn’t pretty](https://www.last.fm/music/Olivia+Rodrigo/_/pretty+isn%E2%80%99t+pretty)
+* [Billie Eilish — L’AMOUR DE MA VIE](https://www.last.fm/music/Billie+Eilish/_/L%E2%80%99AMOUR+DE+MA+VIE)
 * [Sabrina Carpenter — because i liked a boy](https://www.last.fm/music/Sabrina+Carpenter/_/because+i+liked+a+boy)
-* [RAYE — Worth It.](https://www.last.fm/music/RAYE/_/Worth+It.)
-* [Clairo — nomad](https://www.last.fm/music/Clairo/_/nomad)
-* [The Marías — No One Noticed](https://www.last.fm/music/The+Mar%C3%ADas/_/No+One+Noticed)
-* [Bella Poarch — Sweet Delusion](https://www.last.fm/music/Bella+Poarch/_/Sweet+Delusion)<!-- LASTFM:END -->
+* [RAYE — Worth It.](https://www.last.fm/music/RAYE/_/Worth+It.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
