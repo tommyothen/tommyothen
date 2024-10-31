@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Chappell Roan — Super Graphic Ultra Modern Girl](https://www.last.fm/music/Chappell+Roan/_/Super+Graphic+Ultra+Modern+Girl)
+* [Sabrina Carpenter — Already Over](https://www.last.fm/music/Sabrina+Carpenter/_/Already+Over)
+* [Remi Wolf — Cinderella](https://www.last.fm/music/Remi+Wolf/_/Cinderella)
 * [beabadoobee — the way things go](https://www.last.fm/music/beabadoobee/_/the+way+things+go)
-* [Lisa — Moonlit Floor &lpar;Kiss Me&rpar;](https://www.last.fm/music/Lisa/_/Moonlit+Floor+&lpar;Kiss+Me&rpar;)
-* [The Japanese House — Touching Yourself](https://www.last.fm/music/The+Japanese+House/_/Touching+Yourself)
-* [Chappell Roan — Red Wine Supernova](https://www.last.fm/music/Chappell+Roan/_/Red+Wine+Supernova)
-* [Sabrina Carpenter — Sue Me](https://www.last.fm/music/Sabrina+Carpenter/_/Sue+Me)<!-- LASTFM:END -->
+* [Lisa — Moonlit Floor &lpar;Kiss Me&rpar;](https://www.last.fm/music/Lisa/_/Moonlit+Floor+&lpar;Kiss+Me&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
