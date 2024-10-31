@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Clairo — Second Nature](https://www.last.fm/music/Clairo/_/Second+Nature)
+* [Olivia Rodrigo — lacy](https://www.last.fm/music/Olivia+Rodrigo/_/lacy)
 * [BENEE — Sad Boiii](https://www.last.fm/music/BENEE/_/Sad+Boiii)
 * [Sabrina Carpenter — Thumbs](https://www.last.fm/music/Sabrina+Carpenter/_/Thumbs)
-* [Meovv — MEOW](https://www.last.fm/music/Meovv/_/MEOW)
-* [Billie Eilish — CHIHIRO](https://www.last.fm/music/Billie+Eilish/_/CHIHIRO)
-* [Katseye — Debut](https://www.last.fm/music/Katseye/_/Debut)<!-- LASTFM:END -->
+* [Meovv — MEOW](https://www.last.fm/music/Meovv/_/MEOW)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
