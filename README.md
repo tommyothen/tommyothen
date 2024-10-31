@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bella Poarch — Sweet Delusion](https://www.last.fm/music/Bella+Poarch/_/Sweet+Delusion)
+* [flowerovlove — ARE U SERIOUS?](https://www.last.fm/music/flowerovlove/_/ARE+U+SERIOUS%3F)
 * [Sabrina Carpenter — Tornado Warnings](https://www.last.fm/music/Sabrina+Carpenter/_/Tornado+Warnings)
 * [Niki — buzz](https://www.last.fm/music/Niki/_/buzz)
-* [Clairo — Bags](https://www.last.fm/music/Clairo/_/Bags)
-* [keshi — Soft Spot](https://www.last.fm/music/keshi/_/Soft+Spot)
-* [Troye Sivan — One of Your Girls](https://www.last.fm/music/Troye+Sivan/_/One+of+Your+Girls)<!-- LASTFM:END -->
+* [Clairo — Bags](https://www.last.fm/music/Clairo/_/Bags)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
