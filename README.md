@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Tornado Warnings](https://www.last.fm/music/Sabrina+Carpenter/_/Tornado+Warnings)
+* [Niki — buzz](https://www.last.fm/music/Niki/_/buzz)
 * [Clairo — Bags](https://www.last.fm/music/Clairo/_/Bags)
 * [keshi — Soft Spot](https://www.last.fm/music/keshi/_/Soft+Spot)
-* [Troye Sivan — One of Your Girls](https://www.last.fm/music/Troye+Sivan/_/One+of+Your+Girls)
-* [Charli XCX — Talk talk](https://www.last.fm/music/Charli+XCX/_/Talk+talk)
-* [Sabrina Carpenter — Vicious](https://www.last.fm/music/Sabrina+Carpenter/_/Vicious)<!-- LASTFM:END -->
+* [Troye Sivan — One of Your Girls](https://www.last.fm/music/Troye+Sivan/_/One+of+Your+Girls)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
