@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Sharpest Tool](https://www.last.fm/music/Sabrina+Carpenter/_/Sharpest+Tool)
+* [SZA — Snooze](https://www.last.fm/music/SZA/_/Snooze)
+* [ZICO — SPOT!](https://www.last.fm/music/ZICO/_/SPOT!)
 * [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [Doja Cat — Paint the Town Red](https://www.last.fm/music/Doja+Cat/_/Paint+the+Town+Red)
-* [beabadoobee — Glue Song](https://www.last.fm/music/beabadoobee/_/Glue+Song)
-* [Ariana Grande — obvious](https://www.last.fm/music/Ariana+Grande/_/obvious)
-* [Doja Cat — Agora Hills](https://www.last.fm/music/Doja+Cat/_/Agora+Hills)<!-- LASTFM:END -->
+* [Doja Cat — Paint the Town Red](https://www.last.fm/music/Doja+Cat/_/Paint+the+Town+Red)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
