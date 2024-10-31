@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [XG — IYKYK](https://www.last.fm/music/XG/_/IYKYK)
+* [Sabrina Carpenter — Nonsense](https://www.last.fm/music/Sabrina+Carpenter/_/Nonsense)
+* [The Kid LAROI — NIGHTS LIKE THIS](https://www.last.fm/music/The+Kid+LAROI/_/NIGHTS+LIKE+THIS)
 * [beabadoobee — California](https://www.last.fm/music/beabadoobee/_/California)
-* [Sabrina Carpenter — Read your Mind](https://www.last.fm/music/Sabrina+Carpenter/_/Read+your+Mind)
-* [aespa — Whiplash](https://www.last.fm/music/aespa/_/Whiplash)
-* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
-* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)<!-- LASTFM:END -->
+* [Sabrina Carpenter — Read your Mind](https://www.last.fm/music/Sabrina+Carpenter/_/Read+your+Mind)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
