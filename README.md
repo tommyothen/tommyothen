@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tommy Richman — MILLION DOLLAR BABY](https://www.last.fm/music/Tommy+Richman/_/MILLION+DOLLAR+BABY)
+* [Wallows — Calling After Me](https://www.last.fm/music/Wallows/_/Calling+After+Me)
+* [KATSEYE — Touch &lpar;ft. YEONJUN of TOMORROW X TOGETHER&rpar;](https://www.last.fm/music/KATSEYE/_/Touch+&lpar;ft.+YEONJUN+of+TOMORROW+X+TOGETHER&rpar;)
 * [Chappell Roan — HOT TO GO!](https://www.last.fm/music/Chappell+Roan/_/HOT+TO+GO!)
-* [Sabrina Carpenter — opposite](https://www.last.fm/music/Sabrina+Carpenter/_/opposite)
-* [Kali Uchis — Never Be Yours](https://www.last.fm/music/Kali+Uchis/_/Never+Be+Yours)
-* [beabadoobee — ever seen](https://www.last.fm/music/beabadoobee/_/ever+seen)
-* [Laufey — bored](https://www.last.fm/music/Laufey/_/bored)<!-- LASTFM:END -->
+* [Sabrina Carpenter — opposite](https://www.last.fm/music/Sabrina+Carpenter/_/opposite)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
