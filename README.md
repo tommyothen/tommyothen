@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Doja Cat — Agora Hills](https://www.last.fm/music/Doja+Cat/_/Agora+Hills)
+* [beabadoobee — Coming Home](https://www.last.fm/music/beabadoobee/_/Coming+Home)
 * [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)
 * [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [NewJeans — ETA](https://www.last.fm/music/NewJeans/_/ETA)
-* [NewJeans — New Jeans](https://www.last.fm/music/NewJeans/_/New+Jeans)
-* [Ariana Grande — 34+35](https://www.last.fm/music/Ariana+Grande/_/34%252B35)<!-- LASTFM:END -->
+* [NewJeans — ETA](https://www.last.fm/music/NewJeans/_/ETA)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
