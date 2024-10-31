@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [NewJeans — New Jeans](https://www.last.fm/music/NewJeans/_/New+Jeans)
+* [Ariana Grande — 34+35](https://www.last.fm/music/Ariana+Grande/_/34%252B35)
+* [Olivia Rodrigo — obsessed](https://www.last.fm/music/Olivia+Rodrigo/_/obsessed)
 * [beabadoobee — Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)
-* [Sabrina Carpenter — Good Graces](https://www.last.fm/music/Sabrina+Carpenter/_/Good+Graces)
-* [LE SSERAFIM — CRAZY](https://www.last.fm/music/LE+SSERAFIM/_/CRAZY)
-* [Doja Cat — Candy](https://www.last.fm/music/Doja+Cat/_/Candy)
-* [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)<!-- LASTFM:END -->
+* [Sabrina Carpenter — Good Graces](https://www.last.fm/music/Sabrina+Carpenter/_/Good+Graces)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
