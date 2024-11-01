@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)
+* [Blues Saraceno — The River](https://www.last.fm/music/Blues+Saraceno/_/The+River)
 * [Rulo — Havana Coke](https://www.last.fm/music/Rulo/_/Havana+Coke)
 * [S3RL — MTC](https://www.last.fm/music/S3RL/_/MTC)
-* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Lisa — Moonlit Floor &lpar;Kiss Me&rpar;](https://www.last.fm/music/Lisa/_/Moonlit+Floor+&lpar;Kiss+Me&rpar;)<!-- LASTFM:END -->
+* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
