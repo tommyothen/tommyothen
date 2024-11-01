@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
 * [Imogen Heap — Headlock](https://www.last.fm/music/Imogen+Heap/_/Headlock)
 * [beabadoobee — Talk](https://www.last.fm/music/beabadoobee/_/Talk)
 * [bôa — Beautiful &amp; Broken](https://www.last.fm/music/b%C3%B4a/_/Beautiful+&amp;+Broken)
-* [PinkPantheress — turn it up](https://www.last.fm/music/PinkPantheress/_/turn+it+up)
-* [Shelly — Natural](https://www.last.fm/music/Shelly/_/Natural)<!-- LASTFM:END -->
+* [PinkPantheress — turn it up](https://www.last.fm/music/PinkPantheress/_/turn+it+up)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
