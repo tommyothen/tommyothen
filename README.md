@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
+* [Ariana Grande — imperfect for you](https://www.last.fm/music/Ariana+Grande/_/imperfect+for+you)
+* [Sabrina Carpenter — Pushing 20](https://www.last.fm/music/Sabrina+Carpenter/_/Pushing+20)
 * [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
-* [Olivia Rodrigo — get him back!](https://www.last.fm/music/Olivia+Rodrigo/_/get+him+back!)
-* [Charli XCX — Girl, so confusing featuring lorde](https://www.last.fm/music/Charli+XCX/_/Girl,+so+confusing+featuring+lorde)
-* [Chappell Roan — Pink Pony Club](https://www.last.fm/music/Chappell+Roan/_/Pink+Pony+Club)
-* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)<!-- LASTFM:END -->
+* [Olivia Rodrigo — get him back!](https://www.last.fm/music/Olivia+Rodrigo/_/get+him+back!)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
