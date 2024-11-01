@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Korn — Y&#39;all Want A Single](https://www.last.fm/music/Korn/_/Y%27all+Want+A+Single)
+* [Korn — Freak on a Leash](https://www.last.fm/music/Korn/_/Freak+on+a+Leash)
 * [Limp Bizkit — Take a Look Around](https://www.last.fm/music/Limp+Bizkit/_/Take+a+Look+Around)
 * [Limp Bizkit — N 2 Gether Now](https://www.last.fm/music/Limp+Bizkit/_/N+2+Gether+Now)
-* [Limp Bizkit — Rollin&#39; &lpar;Air Raid Vehicle&rpar;](https://www.last.fm/music/Limp+Bizkit/_/Rollin%27+&lpar;Air+Raid+Vehicle&rpar;)
-* [SUICIDAL-IDOL — Ecstacy &lpar;slowed&rpar;](https://www.last.fm/music/SUICIDAL-IDOL/_/Ecstacy+&lpar;slowed&rpar;)
-* [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)<!-- LASTFM:END -->
+* [Limp Bizkit — Rollin&#39; &lpar;Air Raid Vehicle&rpar;](https://www.last.fm/music/Limp+Bizkit/_/Rollin%27+&lpar;Air+Raid+Vehicle&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
