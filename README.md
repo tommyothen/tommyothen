@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charli XCX — Girl, so confusing featuring lorde](https://www.last.fm/music/Charli+XCX/_/Girl,+so+confusing+featuring+lorde)
+* [Chappell Roan — Pink Pony Club](https://www.last.fm/music/Chappell+Roan/_/Pink+Pony+Club)
 * [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
 * [Sabrina Carpenter — Why](https://www.last.fm/music/Sabrina+Carpenter/_/Why)
-* [The Japanese House — :&rpar;](https://www.last.fm/music/The+Japanese+House/_/:&rpar;)
-* [girl in red — Too Much](https://www.last.fm/music/girl+in+red/_/Too+Much)
-* [Charli xcx — 365 featuring shygirl](https://www.last.fm/music/Charli+xcx/_/365+featuring+shygirl)<!-- LASTFM:END -->
+* [The Japanese House — :&rpar;](https://www.last.fm/music/The+Japanese+House/_/:&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
