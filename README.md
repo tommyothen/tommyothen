@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sabrina Carpenter — Good Graces](https://www.last.fm/music/Sabrina+Carpenter/_/Good+Graces)
-* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
-* [bôa — Walk With Me](https://www.last.fm/music/b%C3%B4a/_/Walk+With+Me)
-* [Strawberry Guy — Intermission](https://www.last.fm/music/Strawberry+Guy/_/Intermission)
-* [beabadoobee — this is how it went](https://www.last.fm/music/beabadoobee/_/this+is+how+it+went)<!-- LASTFM:END -->
+* [beabadoobee — Cologne](https://www.last.fm/music/beabadoobee/_/Cologne)
+* [bôa — Whiplash](https://www.last.fm/music/b%C3%B4a/_/Whiplash)
+* [PinkPantheress — Attracted to You](https://www.last.fm/music/PinkPantheress/_/Attracted+to+You)
+* [Shelly — Steeeam](https://www.last.fm/music/Shelly/_/Steeeam)
+* [Orchid Mantis — my forever](https://www.last.fm/music/Orchid+Mantis/_/my+forever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
