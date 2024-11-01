@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [SZA — Kill Bill](https://www.last.fm/music/SZA/_/Kill+Bill)
-* [Kiss of Life — Igloo](https://www.last.fm/music/Kiss+of+Life/_/Igloo)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)
-* [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)<!-- LASTFM:END -->
+* [Ariana Grande — yes, and?](https://www.last.fm/music/Ariana+Grande/_/yes,+and%3F)
+* [Sabrina Carpenter — Skin](https://www.last.fm/music/Sabrina+Carpenter/_/Skin)
+* [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)
+* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
+* [Olivia Rodrigo — obsessed](https://www.last.fm/music/Olivia+Rodrigo/_/obsessed)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
