@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Ariana Grande — yes, and?](https://www.last.fm/music/Ariana+Grande/_/yes,+and%3F)
-* [Sabrina Carpenter — Skin](https://www.last.fm/music/Sabrina+Carpenter/_/Skin)
-* [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)
-* [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [Olivia Rodrigo — obsessed](https://www.last.fm/music/Olivia+Rodrigo/_/obsessed)<!-- LASTFM:END -->
+* [Olivia Rodrigo — favorite crime](https://www.last.fm/music/Olivia+Rodrigo/_/favorite+crime)
+* [Charli XCX — Sympathy is a knife](https://www.last.fm/music/Charli+XCX/_/Sympathy+is+a+knife)
+* [Wasia Project — Somebody Come Through](https://www.last.fm/music/Wasia+Project/_/Somebody+Come+Through)
+* [Ariana Grande — the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine)
+* [Sabrina Carpenter — Exhale](https://www.last.fm/music/Sabrina+Carpenter/_/Exhale)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
