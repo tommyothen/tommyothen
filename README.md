@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Rulo — Havana Coke](https://www.last.fm/music/Rulo/_/Havana+Coke)
+* [S3RL — MTC](https://www.last.fm/music/S3RL/_/MTC)
+* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)
 * [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [Lisa — Moonlit Floor &lpar;Kiss Me&rpar;](https://www.last.fm/music/Lisa/_/Moonlit+Floor+&lpar;Kiss+Me&rpar;)
-* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
-* [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)
-* [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)<!-- LASTFM:END -->
+* [Lisa — Moonlit Floor &lpar;Kiss Me&rpar;](https://www.last.fm/music/Lisa/_/Moonlit+Floor+&lpar;Kiss+Me&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
