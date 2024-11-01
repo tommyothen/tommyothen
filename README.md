@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Limp Bizkit — Rollin&#39; &lpar;Air Raid Vehicle&rpar;](https://www.last.fm/music/Limp+Bizkit/_/Rollin%27+&lpar;Air+Raid+Vehicle&rpar;)
+* [SUICIDAL-IDOL — Ecstacy &lpar;slowed&rpar;](https://www.last.fm/music/SUICIDAL-IDOL/_/Ecstacy+&lpar;slowed&rpar;)
 * [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)
 * [Blues Saraceno — The River](https://www.last.fm/music/Blues+Saraceno/_/The+River)
-* [Rulo — Havana Coke](https://www.last.fm/music/Rulo/_/Havana+Coke)
-* [S3RL — MTC](https://www.last.fm/music/S3RL/_/MTC)
-* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)<!-- LASTFM:END -->
+* [Rulo — Havana Coke](https://www.last.fm/music/Rulo/_/Havana+Coke)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
