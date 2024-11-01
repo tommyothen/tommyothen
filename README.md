@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — prfct](https://www.last.fm/music/Sabrina+Carpenter/_/prfct)
+* [mxmtoon — rain](https://www.last.fm/music/mxmtoon/_/rain)
 * [Olivia Rodrigo — favorite crime](https://www.last.fm/music/Olivia+Rodrigo/_/favorite+crime)
 * [Charli XCX — Sympathy is a knife](https://www.last.fm/music/Charli+XCX/_/Sympathy+is+a+knife)
-* [Wasia Project — Somebody Come Through](https://www.last.fm/music/Wasia+Project/_/Somebody+Come+Through)
-* [Ariana Grande — the boy is mine](https://www.last.fm/music/Ariana+Grande/_/the+boy+is+mine)
-* [Sabrina Carpenter — Exhale](https://www.last.fm/music/Sabrina+Carpenter/_/Exhale)<!-- LASTFM:END -->
+* [Wasia Project — Somebody Come Through](https://www.last.fm/music/Wasia+Project/_/Somebody+Come+Through)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
