@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Charli xcx — 365 featuring shygirl](https://www.last.fm/music/Charli+xcx/_/365+featuring+shygirl)
+* [Troye Sivan — Got Me Started](https://www.last.fm/music/Troye+Sivan/_/Got+Me+Started)
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
 * [Sabrina Carpenter — prfct](https://www.last.fm/music/Sabrina+Carpenter/_/prfct)
-* [mxmtoon — rain](https://www.last.fm/music/mxmtoon/_/rain)
-* [Olivia Rodrigo — favorite crime](https://www.last.fm/music/Olivia+Rodrigo/_/favorite+crime)
-* [Charli XCX — Sympathy is a knife](https://www.last.fm/music/Charli+XCX/_/Sympathy+is+a+knife)
-* [Wasia Project — Somebody Come Through](https://www.last.fm/music/Wasia+Project/_/Somebody+Come+Through)<!-- LASTFM:END -->
+* [mxmtoon — rain](https://www.last.fm/music/mxmtoon/_/rain)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
