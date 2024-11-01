@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Good Graces](https://www.last.fm/music/Sabrina+Carpenter/_/Good+Graces)
+* [beabadoobee — the perfect pair](https://www.last.fm/music/beabadoobee/_/the+perfect+pair)
+* [bôa — Walk With Me](https://www.last.fm/music/b%C3%B4a/_/Walk+With+Me)
 * [Strawberry Guy — Intermission](https://www.last.fm/music/Strawberry+Guy/_/Intermission)
-* [beabadoobee — this is how it went](https://www.last.fm/music/beabadoobee/_/this+is+how+it+went)
-* [beabadoobee — the man who left too soon](https://www.last.fm/music/beabadoobee/_/the+man+who+left+too+soon)
-* [beabadoobee — everything i want](https://www.last.fm/music/beabadoobee/_/everything+i+want)
-* [beabadoobee — Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)<!-- LASTFM:END -->
+* [beabadoobee — this is how it went](https://www.last.fm/music/beabadoobee/_/this+is+how+it+went)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
