@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Conan Gray — Maniac](https://www.last.fm/music/Conan+Gray/_/Maniac)
+* [Olivia Rodrigo — get him back!](https://www.last.fm/music/Olivia+Rodrigo/_/get+him+back!)
 * [Charli XCX — Girl, so confusing featuring lorde](https://www.last.fm/music/Charli+XCX/_/Girl,+so+confusing+featuring+lorde)
 * [Chappell Roan — Pink Pony Club](https://www.last.fm/music/Chappell+Roan/_/Pink+Pony+Club)
-* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
-* [Sabrina Carpenter — Why](https://www.last.fm/music/Sabrina+Carpenter/_/Why)
-* [The Japanese House — :&rpar;](https://www.last.fm/music/The+Japanese+House/_/:&rpar;)<!-- LASTFM:END -->
+* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
