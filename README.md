@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Limp Bizkit — Take a Look Around](https://www.last.fm/music/Limp+Bizkit/_/Take+a+Look+Around)
 * [Limp Bizkit — N 2 Gether Now](https://www.last.fm/music/Limp+Bizkit/_/N+2+Gether+Now)
 * [Limp Bizkit — Rollin&#39; &lpar;Air Raid Vehicle&rpar;](https://www.last.fm/music/Limp+Bizkit/_/Rollin%27+&lpar;Air+Raid+Vehicle&rpar;)
 * [SUICIDAL-IDOL — Ecstacy &lpar;slowed&rpar;](https://www.last.fm/music/SUICIDAL-IDOL/_/Ecstacy+&lpar;slowed&rpar;)
-* [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)
-* [Blues Saraceno — The River](https://www.last.fm/music/Blues+Saraceno/_/The+River)<!-- LASTFM:END -->
+* [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
