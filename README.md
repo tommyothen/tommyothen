@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Japanese House — :&rpar;](https://www.last.fm/music/The+Japanese+House/_/:&rpar;)
+* [girl in red — Too Much](https://www.last.fm/music/girl+in+red/_/Too+Much)
 * [Charli xcx — 365 featuring shygirl](https://www.last.fm/music/Charli+xcx/_/365+featuring+shygirl)
 * [Troye Sivan — Got Me Started](https://www.last.fm/music/Troye+Sivan/_/Got+Me+Started)
-* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
-* [Sabrina Carpenter — prfct](https://www.last.fm/music/Sabrina+Carpenter/_/prfct)
-* [mxmtoon — rain](https://www.last.fm/music/mxmtoon/_/rain)<!-- LASTFM:END -->
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
