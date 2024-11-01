@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Strawberry Guy — Intermission](https://www.last.fm/music/Strawberry+Guy/_/Intermission)
+* [beabadoobee — this is how it went](https://www.last.fm/music/beabadoobee/_/this+is+how+it+went)
 * [beabadoobee — the man who left too soon](https://www.last.fm/music/beabadoobee/_/the+man+who+left+too+soon)
 * [beabadoobee — everything i want](https://www.last.fm/music/beabadoobee/_/everything+i+want)
-* [beabadoobee — Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)
-* [beabadoobee — post](https://www.last.fm/music/beabadoobee/_/post)
-* [beabadoobee — A CRUEL AFFAIR](https://www.last.fm/music/beabadoobee/_/A+CRUEL+AFFAIR)<!-- LASTFM:END -->
+* [beabadoobee — Beaches](https://www.last.fm/music/beabadoobee/_/Beaches)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
