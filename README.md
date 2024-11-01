@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Dick Dale &amp; His Del-Tones — Miserlou](https://www.last.fm/music/Dick+Dale+&amp;+His+Del-Tones/_/Miserlou)
+* [Turnstile — HOLIDAY](https://www.last.fm/music/Turnstile/_/HOLIDAY)
+* [Turnstile — BLACKOUT](https://www.last.fm/music/Turnstile/_/BLACKOUT)
 * [Korn — Y&#39;all Want A Single](https://www.last.fm/music/Korn/_/Y%27all+Want+A+Single)
-* [Korn — Freak on a Leash](https://www.last.fm/music/Korn/_/Freak+on+a+Leash)
-* [Limp Bizkit — Take a Look Around](https://www.last.fm/music/Limp+Bizkit/_/Take+a+Look+Around)
-* [Limp Bizkit — N 2 Gether Now](https://www.last.fm/music/Limp+Bizkit/_/N+2+Gether+Now)
-* [Limp Bizkit — Rollin&#39; &lpar;Air Raid Vehicle&rpar;](https://www.last.fm/music/Limp+Bizkit/_/Rollin%27+&lpar;Air+Raid+Vehicle&rpar;)<!-- LASTFM:END -->
+* [Korn — Freak on a Leash](https://www.last.fm/music/Korn/_/Freak+on+a+Leash)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
