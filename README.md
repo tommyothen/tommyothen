@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Good Graces](https://www.last.fm/music/Sabrina+Carpenter/_/Good+Graces)
 * [Sabrina Carpenter — Please Please Please](https://www.last.fm/music/Sabrina+Carpenter/_/Please+Please+Please)
 * [Sabrina Carpenter — Taste](https://www.last.fm/music/Sabrina+Carpenter/_/Taste)
 * [Eric Reprid — Cold World](https://www.last.fm/music/Eric+Reprid/_/Cold+World)
-* [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)
-* [gladde paling — Ratata](https://www.last.fm/music/gladde+paling/_/Ratata)<!-- LASTFM:END -->
+* [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
