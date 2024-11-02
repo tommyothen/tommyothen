@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)
+* [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)
 * [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)
 * [Lisa — Moonlit Floor &lpar;Kiss Me&rpar;](https://www.last.fm/music/Lisa/_/Moonlit+Floor+&lpar;Kiss+Me&rpar;)
-* [Sabrina Carpenter — Coincidence](https://www.last.fm/music/Sabrina+Carpenter/_/Coincidence)
-* [Sabrina Carpenter — Sharpest Tool](https://www.last.fm/music/Sabrina+Carpenter/_/Sharpest+Tool)
-* [Sabrina Carpenter — Good Graces](https://www.last.fm/music/Sabrina+Carpenter/_/Good+Graces)<!-- LASTFM:END -->
+* [Sabrina Carpenter — Coincidence](https://www.last.fm/music/Sabrina+Carpenter/_/Coincidence)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
