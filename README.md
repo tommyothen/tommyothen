@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Dick Dale &amp; His Del-Tones — Miserlou](https://www.last.fm/music/Dick+Dale+&amp;+His+Del-Tones/_/Miserlou)
-* [Turnstile — HOLIDAY](https://www.last.fm/music/Turnstile/_/HOLIDAY)
-* [Turnstile — BLACKOUT](https://www.last.fm/music/Turnstile/_/BLACKOUT)
-* [Korn — Y&#39;all Want A Single](https://www.last.fm/music/Korn/_/Y%27all+Want+A+Single)
-* [Korn — Freak on a Leash](https://www.last.fm/music/Korn/_/Freak+on+a+Leash)<!-- LASTFM:END -->
+* [Sabrina Carpenter — Please Please Please](https://www.last.fm/music/Sabrina+Carpenter/_/Please+Please+Please)
+* [Sabrina Carpenter — Taste](https://www.last.fm/music/Sabrina+Carpenter/_/Taste)
+* [Eric Reprid — Cold World](https://www.last.fm/music/Eric+Reprid/_/Cold+World)
+* [gladde paling — fissa x 13](https://www.last.fm/music/gladde+paling/_/fissa+x+13)
+* [gladde paling — Ratata](https://www.last.fm/music/gladde+paling/_/Ratata)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
