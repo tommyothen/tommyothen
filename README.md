@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BABYMETAL — KARATE](https://www.last.fm/music/BABYMETAL/_/KARATE)
+* [BABYMETAL — METALI!! - feat. Tom Morello](https://www.last.fm/music/BABYMETAL/_/METALI!!+-+feat.+Tom+Morello)
 * [BABYMETAL — Gimme Chocolate!!](https://www.last.fm/music/BABYMETAL/_/Gimme+Chocolate!!)
 * [BABYMETAL — RATATATA](https://www.last.fm/music/BABYMETAL/_/RATATATA)
-* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
-* [NXCRE — Usurper](https://www.last.fm/music/NXCRE/_/Usurper)
-* [Eric Reprid — SUKI](https://www.last.fm/music/Eric+Reprid/_/SUKI)<!-- LASTFM:END -->
+* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
