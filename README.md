@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Kid Cudi — Mr. Rager](https://www.last.fm/music/Kid+Cudi/_/Mr.+Rager)
+* [BABYMETAL — Monochrome](https://www.last.fm/music/BABYMETAL/_/Monochrome)
 * [BABYMETAL — METALIZM](https://www.last.fm/music/BABYMETAL/_/METALIZM)
 * [BABYMETAL — Believing](https://www.last.fm/music/BABYMETAL/_/Believing)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
-* [Bring Me the Horizon — Itch For The Cure &lpar;When Will We Be Free?&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Itch+For+The+Cure+&lpar;When+Will+We+Be+Free%3F&rpar;)
-* [BABYMETAL — MAYA](https://www.last.fm/music/BABYMETAL/_/MAYA)<!-- LASTFM:END -->
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
