@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — CRYSTALLIZED](https://www.last.fm/music/Poppy/_/CRYSTALLIZED)
+* [Poppy — THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP)
+* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
 * [Lil B — B.O.R. &lpar;Birth Of Rap&rpar;](https://www.last.fm/music/Lil+B/_/B.O.R.+&lpar;Birth+Of+Rap&rpar;)
-* [Crim3s — Lost](https://www.last.fm/music/Crim3s/_/Lost)
-* [Burial — Archangel](https://www.last.fm/music/Burial/_/Archangel)
-* [Boards of Canada — Roygbiv](https://www.last.fm/music/Boards+of+Canada/_/Roygbiv)
-* [Hamdi — Skanka](https://www.last.fm/music/Hamdi/_/Skanka)<!-- LASTFM:END -->
+* [Crim3s — Lost](https://www.last.fm/music/Crim3s/_/Lost)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
