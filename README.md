@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Bring Me the Horizon — Itch For The Cure &lpar;When Will We Be Free?&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Itch+For+The+Cure+&lpar;When+Will+We+Be+Free%3F&rpar;)
+* [BABYMETAL — MAYA](https://www.last.fm/music/BABYMETAL/_/MAYA)
+* [BABYMETAL — Mirror Mirror](https://www.last.fm/music/BABYMETAL/_/Mirror+Mirror)
 * [BABYMETAL — Divine Attack - Shingeki -](https://www.last.fm/music/BABYMETAL/_/Divine+Attack+-+Shingeki+-)
-* [BABYMETAL — METAL KINGDOM](https://www.last.fm/music/BABYMETAL/_/METAL+KINGDOM)
-* [BABYMETAL — Doki Doki ☆ Morning](https://www.last.fm/music/BABYMETAL/_/Doki+Doki+%E2%98%86+Morning)
-* [BABYMETAL — Iine!](https://www.last.fm/music/BABYMETAL/_/Iine!)
-* [BABYMETAL — Megitsune](https://www.last.fm/music/BABYMETAL/_/Megitsune)<!-- LASTFM:END -->
+* [BABYMETAL — METAL KINGDOM](https://www.last.fm/music/BABYMETAL/_/METAL+KINGDOM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
