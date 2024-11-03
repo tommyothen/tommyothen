@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Boards of Canada — Roygbiv](https://www.last.fm/music/Boards+of+Canada/_/Roygbiv)
 * [Hamdi — Skanka](https://www.last.fm/music/Hamdi/_/Skanka)
 * [Kid Cudi — Mr. Rager](https://www.last.fm/music/Kid+Cudi/_/Mr.+Rager)
 * [BABYMETAL — Monochrome](https://www.last.fm/music/BABYMETAL/_/Monochrome)
-* [BABYMETAL — METALIZM](https://www.last.fm/music/BABYMETAL/_/METALIZM)
-* [BABYMETAL — Believing](https://www.last.fm/music/BABYMETAL/_/Believing)<!-- LASTFM:END -->
+* [BABYMETAL — METALIZM](https://www.last.fm/music/BABYMETAL/_/METALIZM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
