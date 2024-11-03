@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BABYMETAL — Divine Attack - Shingeki -](https://www.last.fm/music/BABYMETAL/_/Divine+Attack+-+Shingeki+-)
 * [BABYMETAL — METAL KINGDOM](https://www.last.fm/music/BABYMETAL/_/METAL+KINGDOM)
 * [BABYMETAL — Doki Doki ☆ Morning](https://www.last.fm/music/BABYMETAL/_/Doki+Doki+%E2%98%86+Morning)
 * [BABYMETAL — Iine!](https://www.last.fm/music/BABYMETAL/_/Iine!)
-* [BABYMETAL — Megitsune](https://www.last.fm/music/BABYMETAL/_/Megitsune)
-* [BABYMETAL — Headbangeeeeerrrrr!!!!!](https://www.last.fm/music/BABYMETAL/_/Headbangeeeeerrrrr!!!!!)<!-- LASTFM:END -->
+* [BABYMETAL — Megitsune](https://www.last.fm/music/BABYMETAL/_/Megitsune)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
