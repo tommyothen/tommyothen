@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lil B — B.O.R. &lpar;Birth Of Rap&rpar;](https://www.last.fm/music/Lil+B/_/B.O.R.+&lpar;Birth+Of+Rap&rpar;)
 * [Crim3s — Lost](https://www.last.fm/music/Crim3s/_/Lost)
 * [Burial — Archangel](https://www.last.fm/music/Burial/_/Archangel)
 * [Boards of Canada — Roygbiv](https://www.last.fm/music/Boards+of+Canada/_/Roygbiv)
-* [Hamdi — Skanka](https://www.last.fm/music/Hamdi/_/Skanka)
-* [Kid Cudi — Mr. Rager](https://www.last.fm/music/Kid+Cudi/_/Mr.+Rager)<!-- LASTFM:END -->
+* [Hamdi — Skanka](https://www.last.fm/music/Hamdi/_/Skanka)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
