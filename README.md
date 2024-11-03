@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Hamdi — Skanka](https://www.last.fm/music/Hamdi/_/Skanka)
 * [Kid Cudi — Mr. Rager](https://www.last.fm/music/Kid+Cudi/_/Mr.+Rager)
 * [BABYMETAL — Monochrome](https://www.last.fm/music/BABYMETAL/_/Monochrome)
 * [BABYMETAL — METALIZM](https://www.last.fm/music/BABYMETAL/_/METALIZM)
-* [BABYMETAL — Believing](https://www.last.fm/music/BABYMETAL/_/Believing)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)<!-- LASTFM:END -->
+* [BABYMETAL — Believing](https://www.last.fm/music/BABYMETAL/_/Believing)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
