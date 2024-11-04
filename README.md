@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — CRYSTALLIZED](https://www.last.fm/music/Poppy/_/CRYSTALLIZED)
+* [Poppy — THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP)
 * [beabadoobee — ever seen](https://www.last.fm/music/beabadoobee/_/ever+seen)
 * [beabadoobee — Coming Home](https://www.last.fm/music/beabadoobee/_/Coming+Home)
-* [beabadoobee — Girl Song](https://www.last.fm/music/beabadoobee/_/Girl+Song)
-* [beabadoobee — tie my shoes](https://www.last.fm/music/beabadoobee/_/tie+my+shoes)
-* [beabadoobee — real man](https://www.last.fm/music/beabadoobee/_/real+man)<!-- LASTFM:END -->
+* [beabadoobee — Girl Song](https://www.last.fm/music/beabadoobee/_/Girl+Song)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
