@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ocean Grove — FLY AWAY](https://www.last.fm/music/Ocean+Grove/_/FLY+AWAY)
+* [South Arcade — HOW 2 GET AWAY WITH MURDER](https://www.last.fm/music/South+Arcade/_/HOW+2+GET+AWAY+WITH+MURDER)
 * [Spiritbox — The Void](https://www.last.fm/music/Spiritbox/_/The+Void)
 * [Bad Omens — HEDONIST [RECHARGED]](https://www.last.fm/music/Bad+Omens/_/HEDONIST+%5BRECHARGED%5D)
-* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)
-* [Poppy — Girls in Bikinis](https://www.last.fm/music/Poppy/_/Girls+in+Bikinis)
-* [Amira Elfeky — Secrets](https://www.last.fm/music/Amira+Elfeky/_/Secrets)<!-- LASTFM:END -->
+* [WARGASM &lpar;UK&rpar; — Do It So Good](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Do+It+So+Good)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
