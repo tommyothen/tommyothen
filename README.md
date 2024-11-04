@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [BABYMETAL — METALIZM](https://www.last.fm/music/BABYMETAL/_/METALIZM)
-* [Poppy — So Mean](https://www.last.fm/music/Poppy/_/So+Mean)
-* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)
-* [Poppy — Flux](https://www.last.fm/music/Poppy/_/Flux)
-* [Poppy — CRYSTALLIZED](https://www.last.fm/music/Poppy/_/CRYSTALLIZED)<!-- LASTFM:END -->
+* [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)
+* [Laura Pausini — Zero](https://www.last.fm/music/Laura+Pausini/_/Zero)
+* [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)
+* [Lisa — Moonlit Floor &lpar;Kiss Me&rpar;](https://www.last.fm/music/Lisa/_/Moonlit+Floor+&lpar;Kiss+Me&rpar;)
+* [BABYMETAL — METALIZM](https://www.last.fm/music/BABYMETAL/_/METALIZM)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
