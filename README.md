@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [FKA Rayne — Obsessed](https://www.last.fm/music/FKA+Rayne/_/Obsessed)
-* [Bad Omens — ANYTHING &gt; HUMAN](https://www.last.fm/music/Bad+Omens/_/ANYTHING+%3E+HUMAN)
-* [WARGASM &lpar;UK&rpar; — Bad Seed](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Bad+Seed)
-* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
-* [Kim Dracula — Drown](https://www.last.fm/music/Kim+Dracula/_/Drown)<!-- LASTFM:END -->
+* [HEALTH — Dead Flowers](https://www.last.fm/music/HEALTH/_/Dead+Flowers)
+* [Split Chain — I Don&#39;t Wanna Be Me](https://www.last.fm/music/Split+Chain/_/I+Don%27t+Wanna+Be+Me)
+* [Bad Omens — IDWT$](https://www.last.fm/music/Bad+Omens/_/IDWT$)
+* [WARGASM &lpar;UK&rpar; — Salma Hayek](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Salma+Hayek)
+* [Poppy — I Disagree](https://www.last.fm/music/Poppy/_/I+Disagree)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
