@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Thrown — backfire](https://www.last.fm/music/Thrown/_/backfire)
-* [BABYMETAL — RATATATA](https://www.last.fm/music/BABYMETAL/_/RATATATA)
-* [Bad Omens — ARTIFICIAL SUICIDE](https://www.last.fm/music/Bad+Omens/_/ARTIFICIAL+SUICIDE)
-* [WARGASM &lpar;UK&rpar; — Modern Love](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Modern+Love)
-* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)<!-- LASTFM:END -->
+* [6arelyhuman — Get Nasty &lpar;w/ Rico Nasty &amp; Whethan&rpar;](https://www.last.fm/music/6arelyhuman/_/Get+Nasty+&lpar;w%2F+Rico+Nasty+&amp;+Whethan&rpar;)
+* [Magdalena Bay — Image - Grimes Special](https://www.last.fm/music/Magdalena+Bay/_/Image+-+Grimes+Special)
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
+* [Bad Omens — Dethrone](https://www.last.fm/music/Bad+Omens/_/Dethrone)
+* [WARGASM &lpar;UK&rpar; — Circle Pit](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Circle+Pit)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
