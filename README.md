@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
+* [Poppy — They&#39;re All Around Us](https://www.last.fm/music/Poppy/_/They%27re+All+Around+Us)
 * [Poppy — CRYSTALLIZED](https://www.last.fm/music/Poppy/_/CRYSTALLIZED)
 * [Poppy — THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP)
-* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)
-* [HEALTH — Dead Flowers](https://www.last.fm/music/HEALTH/_/Dead+Flowers)
-* [Split Chain — I Don&#39;t Wanna Be Me](https://www.last.fm/music/Split+Chain/_/I+Don%27t+Wanna+Be+Me)<!-- LASTFM:END -->
+* [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
