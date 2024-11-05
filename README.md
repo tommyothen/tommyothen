@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [WARGASM &lpar;UK&rpar; — Venom](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Venom)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [Ocean Grove — FLY AWAY](https://www.last.fm/music/Ocean+Grove/_/FLY+AWAY)
-* [South Arcade — HOW 2 GET AWAY WITH MURDER](https://www.last.fm/music/South+Arcade/_/HOW+2+GET+AWAY+WITH+MURDER)
-* [Spiritbox — The Void](https://www.last.fm/music/Spiritbox/_/The+Void)<!-- LASTFM:END -->
+* [Thrown — backfire](https://www.last.fm/music/Thrown/_/backfire)
+* [BABYMETAL — RATATATA](https://www.last.fm/music/BABYMETAL/_/RATATATA)
+* [Bad Omens — ARTIFICIAL SUICIDE](https://www.last.fm/music/Bad+Omens/_/ARTIFICIAL+SUICIDE)
+* [WARGASM &lpar;UK&rpar; — Modern Love](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Modern+Love)
+* [Poppy — Her](https://www.last.fm/music/Poppy/_/Her)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
