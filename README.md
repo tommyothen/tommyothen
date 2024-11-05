@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [6arelyhuman — Get Nasty &lpar;w/ Rico Nasty &amp; Whethan&rpar;](https://www.last.fm/music/6arelyhuman/_/Get+Nasty+&lpar;w%2F+Rico+Nasty+&amp;+Whethan&rpar;)
-* [Magdalena Bay — Image - Grimes Special](https://www.last.fm/music/Magdalena+Bay/_/Image+-+Grimes+Special)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
-* [Bad Omens — Dethrone](https://www.last.fm/music/Bad+Omens/_/Dethrone)
-* [WARGASM &lpar;UK&rpar; — Circle Pit](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Circle+Pit)<!-- LASTFM:END -->
+* [FKA Rayne — Obsessed](https://www.last.fm/music/FKA+Rayne/_/Obsessed)
+* [Bad Omens — ANYTHING &gt; HUMAN](https://www.last.fm/music/Bad+Omens/_/ANYTHING+%3E+HUMAN)
+* [WARGASM &lpar;UK&rpar; — Bad Seed](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Bad+Seed)
+* [Poppy — Motorbike](https://www.last.fm/music/Poppy/_/Motorbike)
+* [Kim Dracula — Drown](https://www.last.fm/music/Kim+Dracula/_/Drown)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
