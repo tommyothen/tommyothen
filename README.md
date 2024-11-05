@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP)
 * [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)
 * [HEALTH — Dead Flowers](https://www.last.fm/music/HEALTH/_/Dead+Flowers)
 * [Split Chain — I Don&#39;t Wanna Be Me](https://www.last.fm/music/Split+Chain/_/I+Don%27t+Wanna+Be+Me)
-* [Bad Omens — IDWT$](https://www.last.fm/music/Bad+Omens/_/IDWT$)
-* [WARGASM &lpar;UK&rpar; — Salma Hayek](https://www.last.fm/music/WARGASM+&lpar;UK&rpar;/_/Salma+Hayek)<!-- LASTFM:END -->
+* [Bad Omens — IDWT$](https://www.last.fm/music/Bad+Omens/_/IDWT$)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
