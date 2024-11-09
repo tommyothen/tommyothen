@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
+* [Thrown — on the verge](https://www.last.fm/music/Thrown/_/on+the+verge)
 * [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
 * [GNB CHILI — Blazing in the Dark](https://www.last.fm/music/GNB+CHILI/_/Blazing+in+the+Dark)
-* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
-* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
-* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)<!-- LASTFM:END -->
+* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
