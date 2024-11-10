@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Lisa — Moonlit Floor &lpar;Kiss Me&rpar;](https://www.last.fm/music/Lisa/_/Moonlit+Floor+&lpar;Kiss+Me&rpar;)
+* [BABYMETAL — METALIZM](https://www.last.fm/music/BABYMETAL/_/METALIZM)
 * [Poppy — Spit](https://www.last.fm/music/Poppy/_/Spit)
 * [Poppy — Lessen the Damage](https://www.last.fm/music/Poppy/_/Lessen+the+Damage)
-* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)
-* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)<!-- LASTFM:END -->
+* [Poppy — Never Find My Place](https://www.last.fm/music/Poppy/_/Never+Find+My+Place)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
