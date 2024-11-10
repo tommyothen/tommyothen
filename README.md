@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Not Enough Space — Nightmares](https://www.last.fm/music/Not+Enough+Space/_/Nightmares)
+* [Not Enough Space — Primitive](https://www.last.fm/music/Not+Enough+Space/_/Primitive)
 * [Hisatomi — Lullaby &lpar;feat. Kira&rpar;](https://www.last.fm/music/Hisatomi/_/Lullaby+&lpar;feat.+Kira&rpar;)
 * [BewhY — I Did It &lpar;feat. Crush&rpar;](https://www.last.fm/music/BewhY/_/I+Did+It+&lpar;feat.+Crush&rpar;)
-* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
-* [Lisa — Moonlit Floor &lpar;Kiss Me&rpar;](https://www.last.fm/music/Lisa/_/Moonlit+Floor+&lpar;Kiss+Me&rpar;)
-* [BABYMETAL — METALIZM](https://www.last.fm/music/BABYMETAL/_/METALIZM)<!-- LASTFM:END -->
+* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
