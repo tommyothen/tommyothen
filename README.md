@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — They&#39;re All Around Us](https://www.last.fm/music/Poppy/_/They%27re+All+Around+Us)
-* [Poppy — CRYSTALLIZED](https://www.last.fm/music/Poppy/_/CRYSTALLIZED)
-* [Poppy — THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
-* [Poppy — They&#39;re All Around Us](https://www.last.fm/music/Poppy/_/They%27re+All+Around+Us)<!-- LASTFM:END -->
+* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
+* [Bring Me the Horizon — liMOusIne &lpar;feat. AURORA&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/liMOusIne+&lpar;feat.+AURORA&rpar;)
+* [NXCRE — Usurper](https://www.last.fm/music/NXCRE/_/Usurper)
+* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
+* [NewJeans — New Jeans](https://www.last.fm/music/NewJeans/_/New+Jeans)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
