@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)
+* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
+* [bbno$ — mememe](https://www.last.fm/music/bbno$/_/mememe)
 * [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
-* [Bring Me the Horizon — liMOusIne &lpar;feat. AURORA&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/liMOusIne+&lpar;feat.+AURORA&rpar;)
-* [NXCRE — Usurper](https://www.last.fm/music/NXCRE/_/Usurper)
-* [Bad Omens — V.A.N](https://www.last.fm/music/Bad+Omens/_/V.A.N)
-* [NewJeans — New Jeans](https://www.last.fm/music/NewJeans/_/New+Jeans)<!-- LASTFM:END -->
+* [Bring Me the Horizon — liMOusIne &lpar;feat. AURORA&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/liMOusIne+&lpar;feat.+AURORA&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
