@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — PUSH GO](https://www.last.fm/music/Poppy/_/PUSH+GO)
-* [Poppy — VITAL](https://www.last.fm/music/Poppy/_/VITAL)
-* [Poppy — YESTERDAY](https://www.last.fm/music/Poppy/_/YESTERDAY)
-* [Poppy — HAVE YOU HAD ENOUGH?](https://www.last.fm/music/Poppy/_/HAVE+YOU+HAD+ENOUGH%3F)
-* [Vertigoaway — The Jungle Witch](https://www.last.fm/music/Vertigoaway/_/The+Jungle+Witch)<!-- LASTFM:END -->
+* [Poppy — HALO](https://www.last.fm/music/Poppy/_/HALO)
+* [Poppy — TOMORROW](https://www.last.fm/music/Poppy/_/TOMORROW)
+* [Poppy — SURVIVING ON DEFIANCE](https://www.last.fm/music/Poppy/_/SURVIVING+ON+DEFIANCE)
+* [Poppy — NEGATIVE SPACES](https://www.last.fm/music/Poppy/_/NEGATIVE+SPACES)
+* [Poppy — HEY THERE](https://www.last.fm/music/Poppy/_/HEY+THERE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
