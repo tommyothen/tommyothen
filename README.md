@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — supernatural](https://www.last.fm/music/Ariana+Grande/_/supernatural)
+* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
+* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)
 * [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
-* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [Poppy — THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP)
-* [Poppy — HAVE YOU HAD ENOUGH?](https://www.last.fm/music/Poppy/_/HAVE+YOU+HAD+ENOUGH%3F)<!-- LASTFM:END -->
+* [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
