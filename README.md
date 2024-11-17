@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP)
+* [Poppy — HAVE YOU HAD ENOUGH?](https://www.last.fm/music/Poppy/_/HAVE+YOU+HAD+ENOUGH%3F)
 * [Poppy — HAVE YOU HAD ENOUGH?](https://www.last.fm/music/Poppy/_/HAVE+YOU+HAD+ENOUGH%3F)
 * [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)
-* [Ariana Grande — supernatural](https://www.last.fm/music/Ariana+Grande/_/supernatural)
-* [Ariana Grande — eternal sunshine](https://www.last.fm/music/Ariana+Grande/_/eternal+sunshine)
-* [Ariana Grande — Saturn Returns Interlude](https://www.last.fm/music/Ariana+Grande/_/Saturn+Returns+Interlude)<!-- LASTFM:END -->
+* [Ariana Grande — supernatural](https://www.last.fm/music/Ariana+Grande/_/supernatural)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
