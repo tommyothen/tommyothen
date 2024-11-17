@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Taste](https://www.last.fm/music/Sabrina+Carpenter/_/Taste)
+* [Sabrina Carpenter — Dumb &amp; Poetic](https://www.last.fm/music/Sabrina+Carpenter/_/Dumb+&amp;+Poetic)
+* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)
 * [Sabrina Carpenter — Bed Chem](https://www.last.fm/music/Sabrina+Carpenter/_/Bed+Chem)
-* [Sabrina Carpenter — Coincidence](https://www.last.fm/music/Sabrina+Carpenter/_/Coincidence)
-* [Sabrina Carpenter — Sharpest Tool](https://www.last.fm/music/Sabrina+Carpenter/_/Sharpest+Tool)
-* [Sabrina Carpenter — Good Graces](https://www.last.fm/music/Sabrina+Carpenter/_/Good+Graces)
-* [Sabrina Carpenter — Please Please Please](https://www.last.fm/music/Sabrina+Carpenter/_/Please+Please+Please)<!-- LASTFM:END -->
+* [Sabrina Carpenter — Coincidence](https://www.last.fm/music/Sabrina+Carpenter/_/Coincidence)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
