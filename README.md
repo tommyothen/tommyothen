@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BABYMETAL — METALIZM](https://www.last.fm/music/BABYMETAL/_/METALIZM)
+* [beabadoobee — One Time](https://www.last.fm/music/beabadoobee/_/One+Time)
+* [ZØMB — POSSESSIVE LOVE DISORDER](https://www.last.fm/music/Z%C3%98MB/_/POSSESSIVE+LOVE+DISORDER)
 * [GNB CHILI — Save Me](https://www.last.fm/music/GNB+CHILI/_/Save+Me)
-* [Sybreed — Doomsday Party](https://www.last.fm/music/Sybreed/_/Doomsday+Party)
-* [Poppy — THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP)
-* [Poppy — CRYSTALLIZED](https://www.last.fm/music/Poppy/_/CRYSTALLIZED)
-* [Poppy — Nothing](https://www.last.fm/music/Poppy/_/Nothing)<!-- LASTFM:END -->
+* [Sybreed — Doomsday Party](https://www.last.fm/music/Sybreed/_/Doomsday+Party)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
