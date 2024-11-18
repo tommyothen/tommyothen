@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
+* [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)
 * [Rosé — APT.](https://www.last.fm/music/Ros%C3%A9/_/APT.)
 * [Laura Pausini — Zero](https://www.last.fm/music/Laura+Pausini/_/Zero)
-* [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)
-* [Lisa — Moonlit Floor &lpar;Kiss Me&rpar;](https://www.last.fm/music/Lisa/_/Moonlit+Floor+&lpar;Kiss+Me&rpar;)
-* [BABYMETAL — METALIZM](https://www.last.fm/music/BABYMETAL/_/METALIZM)<!-- LASTFM:END -->
+* [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
