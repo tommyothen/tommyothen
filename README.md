@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP)
+* [Poppy — HAVE YOU HAD ENOUGH?](https://www.last.fm/music/Poppy/_/HAVE+YOU+HAD+ENOUGH%3F)
+* [Poppy — HALO](https://www.last.fm/music/Poppy/_/HALO)
 * [Poppy — TOMORROW](https://www.last.fm/music/Poppy/_/TOMORROW)
-* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)
-* [Poppy — SURVIVING ON DEFIANCE](https://www.last.fm/music/Poppy/_/SURVIVING+ON+DEFIANCE)
-* [Poppy — NEGATIVE SPACES](https://www.last.fm/music/Poppy/_/NEGATIVE+SPACES)
-* [Poppy — HEY THERE](https://www.last.fm/music/Poppy/_/HEY+THERE)<!-- LASTFM:END -->
+* [Poppy — New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
