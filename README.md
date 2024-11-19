@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Laufey — bored](https://www.last.fm/music/Laufey/_/bored)
-* [Poppy — Fear of Dying](https://www.last.fm/music/Poppy/_/Fear+of+Dying)
-* [beabadoobee — take a bite](https://www.last.fm/music/beabadoobee/_/take+a+bite)
-* [Sabrina Carpenter — Espresso](https://www.last.fm/music/Sabrina+Carpenter/_/Espresso)
-* [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)<!-- LASTFM:END -->
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
+* [Tate McRae — 2 hands](https://www.last.fm/music/Tate+McRae/_/2+hands)
+* [Tate McRae — it&#39;s ok i&#39;m ok](https://www.last.fm/music/Tate+McRae/_/it%27s+ok+i%27m+ok)
+* [Tate McRae — 2 hands](https://www.last.fm/music/Tate+McRae/_/2+hands)
+* [Dominic Fike — 3 Nights](https://www.last.fm/music/Dominic+Fike/_/3+Nights)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
