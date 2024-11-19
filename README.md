@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Poppy — Crystallized](https://www.last.fm/music/Poppy/_/Crystallized)
-* [Poppy — Yesterday](https://www.last.fm/music/Poppy/_/Yesterday)
-* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
-* [Poppy — The Cost of Giving Up](https://www.last.fm/music/Poppy/_/The+Cost+of+Giving+Up)
-* [Poppy — Have You Had Enough?](https://www.last.fm/music/Poppy/_/Have+You+Had+Enough%3F)<!-- LASTFM:END -->
+* [Yung Gravy — Gasoline &lpar;feat. Young King Dave&rpar;](https://www.last.fm/music/Yung+Gravy/_/Gasoline+&lpar;feat.+Young+King+Dave&rpar;)
+* [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)
+* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
+* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
+* [Poppy — Crystallized](https://www.last.fm/music/Poppy/_/Crystallized)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
