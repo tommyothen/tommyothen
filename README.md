@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, the Creator — STICKY &lpar;feat. GloRilla, Sexyy Red &amp; Lil Wayne&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/STICKY+&lpar;feat.+GloRilla,+Sexyy+Red+&amp;+Lil+Wayne&rpar;)
+* [bbno$ — slop](https://www.last.fm/music/bbno$/_/slop)
 * [Yung Gravy — Gasoline &lpar;feat. Young King Dave&rpar;](https://www.last.fm/music/Yung+Gravy/_/Gasoline+&lpar;feat.+Young+King+Dave&rpar;)
 * [Fox Stevenson — Bruises](https://www.last.fm/music/Fox+Stevenson/_/Bruises)
-* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
-* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
-* [Poppy — Crystallized](https://www.last.fm/music/Poppy/_/Crystallized)<!-- LASTFM:END -->
+* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
