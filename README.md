@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [The Bird and the Bee — Fucking Boyfriend](https://www.last.fm/music/The+Bird+and+the+Bee/_/Fucking+Boyfriend)
+* [Hikaru Utada — Simple And Clean](https://www.last.fm/music/Hikaru+Utada/_/Simple+And+Clean)
+* [System of a Down — B.Y.O.B.](https://www.last.fm/music/System+of+a+Down/_/B.Y.O.B.)
 * [Panic! at the Disco — I Write Sins Not Tragedies](https://www.last.fm/music/Panic!+at+the+Disco/_/I+Write+Sins+Not+Tragedies)
-* [EgoFear — Crimson Moon](https://www.last.fm/music/EgoFear/_/Crimson+Moon)
-* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
-* [Rory in early 20s — unforeseen dream scenarios that glorify the beauty of a vacuum cleaner](https://www.last.fm/music/Rory+in+early+20s/_/unforeseen+dream+scenarios+that+glorify+the+beauty+of+a+vacuum+cleaner)
-* [GNB CHILI — Save Me](https://www.last.fm/music/GNB+CHILI/_/Save+Me)<!-- LASTFM:END -->
+* [EgoFear — Crimson Moon](https://www.last.fm/music/EgoFear/_/Crimson+Moon)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
