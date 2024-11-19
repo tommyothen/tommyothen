@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BROCKHAMPTON — JELLO](https://www.last.fm/music/BROCKHAMPTON/_/JELLO)
+* [Yung Gravy — The Boys Are Back in Town](https://www.last.fm/music/Yung+Gravy/_/The+Boys+Are+Back+in+Town)
+* [Tiffany Day — SAN FRANCISCO SIDEWALK](https://www.last.fm/music/Tiffany+Day/_/SAN+FRANCISCO+SIDEWALK)
 * [Hey Violet — Clean](https://www.last.fm/music/Hey+Violet/_/Clean)
-* [blackbear — chateau](https://www.last.fm/music/blackbear/_/chateau)
-* [Sabrina Carpenter — Feather](https://www.last.fm/music/Sabrina+Carpenter/_/Feather)
-* [dee holt — Picture](https://www.last.fm/music/dee+holt/_/Picture)
-* [Rings of Saturn — No Pity For A Coward](https://www.last.fm/music/Rings+of+Saturn/_/No+Pity+For+A+Coward)<!-- LASTFM:END -->
+* [blackbear — chateau](https://www.last.fm/music/blackbear/_/chateau)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
