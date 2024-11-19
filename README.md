@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [GNB CHILI — Save Me](https://www.last.fm/music/GNB+CHILI/_/Save+Me)
 * [Sewerslvt — Yandere Complex](https://www.last.fm/music/Sewerslvt/_/Yandere+Complex)
 * [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
 * [Sabrina Carpenter — Don’t Smile](https://www.last.fm/music/Sabrina+Carpenter/_/Don%E2%80%99t+Smile)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)
-* [LE SSERAFIM — Perfect Night](https://www.last.fm/music/LE+SSERAFIM/_/Perfect+Night)<!-- LASTFM:END -->
+* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
