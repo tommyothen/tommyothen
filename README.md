@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Panic! at the Disco — I Write Sins Not Tragedies](https://www.last.fm/music/Panic!+at+the+Disco/_/I+Write+Sins+Not+Tragedies)
+* [EgoFear — Crimson Moon](https://www.last.fm/music/EgoFear/_/Crimson+Moon)
 * [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
 * [Rory in early 20s — unforeseen dream scenarios that glorify the beauty of a vacuum cleaner](https://www.last.fm/music/Rory+in+early+20s/_/unforeseen+dream+scenarios+that+glorify+the+beauty+of+a+vacuum+cleaner)
-* [GNB CHILI — Save Me](https://www.last.fm/music/GNB+CHILI/_/Save+Me)
-* [Sewerslvt — Yandere Complex](https://www.last.fm/music/Sewerslvt/_/Yandere+Complex)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
+* [GNB CHILI — Save Me](https://www.last.fm/music/GNB+CHILI/_/Save+Me)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
