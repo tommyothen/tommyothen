@@ -28,10 +28,10 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP)
+* [Poppy — HAVE YOU HAD ENOUGH?](https://www.last.fm/music/Poppy/_/HAVE+YOU+HAD+ENOUGH%3F)
 * [Ariana Grande — bye](https://www.last.fm/music/Ariana+Grande/_/bye)
 * [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
-* [Tate McRae — 2 hands](https://www.last.fm/music/Tate+McRae/_/2+hands)
-* [Tate McRae — it&#39;s ok i&#39;m ok](https://www.last.fm/music/Tate+McRae/_/it%27s+ok+i%27m+ok)
 * [Tate McRae — 2 hands](https://www.last.fm/music/Tate+McRae/_/2+hands)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
