@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Cicadidae](https://www.last.fm/music/Igorrr/_/Cicadidae)
+* [Rory in early 20s — unforeseen dream scenarios that glorify the beauty of a vacuum cleaner](https://www.last.fm/music/Rory+in+early+20s/_/unforeseen+dream+scenarios+that+glorify+the+beauty+of+a+vacuum+cleaner)
 * [GNB CHILI — Save Me](https://www.last.fm/music/GNB+CHILI/_/Save+Me)
 * [Sewerslvt — Yandere Complex](https://www.last.fm/music/Sewerslvt/_/Yandere+Complex)
-* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)
-* [Sabrina Carpenter — Don’t Smile](https://www.last.fm/music/Sabrina+Carpenter/_/Don%E2%80%99t+Smile)
-* [Illit — Magnetic](https://www.last.fm/music/Illit/_/Magnetic)<!-- LASTFM:END -->
+* [Glaive — astrid](https://www.last.fm/music/Glaive/_/astrid)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
