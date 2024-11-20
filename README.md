@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
 * [Poppy — Lowlife](https://www.last.fm/music/Poppy/_/Lowlife)
 * [Spiritbox — Jaded](https://www.last.fm/music/Spiritbox/_/Jaded)
 * [Spiritbox — Jaded](https://www.last.fm/music/Spiritbox/_/Jaded)
-* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)
-* [CactusTeam — flutterbies](https://www.last.fm/music/CactusTeam/_/flutterbies)<!-- LASTFM:END -->
+* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
