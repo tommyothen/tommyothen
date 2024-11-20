@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sybreed — Doomsday Party](https://www.last.fm/music/Sybreed/_/Doomsday+Party)
 * [Lil Uzi Vert — The End &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/The+End+&lpar;feat.+BABYMETAL&rpar;)
 * [NewJeans — ETA](https://www.last.fm/music/NewJeans/_/ETA)
 * [Tyler, the Creator — I Ain&#39;t Got Time!](https://www.last.fm/music/Tyler,+the+Creator/_/I+Ain%27t+Got+Time!)
-* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
-* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)<!-- LASTFM:END -->
+* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
