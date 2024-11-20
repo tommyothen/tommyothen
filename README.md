@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Slipknot — Custer](https://www.last.fm/music/Slipknot/_/Custer)
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
+* [Poppy — Crystallized](https://www.last.fm/music/Poppy/_/Crystallized)
 * [Ariana Grande — don&#39;t wanna break up again](https://www.last.fm/music/Ariana+Grande/_/don%27t+wanna+break+up+again)
-* [Poppy — Lowlife](https://www.last.fm/music/Poppy/_/Lowlife)
-* [Spiritbox — Jaded](https://www.last.fm/music/Spiritbox/_/Jaded)
-* [Spiritbox — Jaded](https://www.last.fm/music/Spiritbox/_/Jaded)
-* [JP THE WAVY — STAY](https://www.last.fm/music/JP+THE+WAVY/_/STAY)<!-- LASTFM:END -->
+* [Poppy — Lowlife](https://www.last.fm/music/Poppy/_/Lowlife)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
