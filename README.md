@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BENEE — Supalonely &lpar;feat. Gus Dapperton&rpar;](https://www.last.fm/music/BENEE/_/Supalonely+&lpar;feat.+Gus+Dapperton&rpar;)
 * [Eden — rock + roll](https://www.last.fm/music/Eden/_/rock+%252B+roll)
 * [Bülow — Puppy Love](https://www.last.fm/music/B%C3%BClow/_/Puppy+Love)
 * [BABYMETAL — METALIZM](https://www.last.fm/music/BABYMETAL/_/METALIZM)
-* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
-* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)<!-- LASTFM:END -->
+* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
