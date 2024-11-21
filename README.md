@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [TWICE — YES or YES](https://www.last.fm/music/TWICE/_/YES+or+YES)
+* [Korn — Freak on a Leash](https://www.last.fm/music/Korn/_/Freak+on+a+Leash)
 * [Poppy — Have You Had Enough?](https://www.last.fm/music/Poppy/_/Have+You+Had+Enough%3F)
 * [FKA Rayne — Side Effect](https://www.last.fm/music/FKA+Rayne/_/Side+Effect)
-* [Tyler, the Creator — STICKY &lpar;feat. GloRilla, Sexyy Red &amp; Lil Wayne&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/STICKY+&lpar;feat.+GloRilla,+Sexyy+Red+&amp;+Lil+Wayne&rpar;)
-* [Tyler, the Creator — STICKY &lpar;feat. GloRilla, Sexyy Red &amp; Lil Wayne&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/STICKY+&lpar;feat.+GloRilla,+Sexyy+Red+&amp;+Lil+Wayne&rpar;)
-* [Sabrina Carpenter — Nonsense](https://www.last.fm/music/Sabrina+Carpenter/_/Nonsense)<!-- LASTFM:END -->
+* [Tyler, the Creator — STICKY &lpar;feat. GloRilla, Sexyy Red &amp; Lil Wayne&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/STICKY+&lpar;feat.+GloRilla,+Sexyy+Red+&amp;+Lil+Wayne&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
