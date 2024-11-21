@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [BABYMETAL — METALIZM](https://www.last.fm/music/BABYMETAL/_/METALIZM)
+* [Pierce the Veil — King for a Day](https://www.last.fm/music/Pierce+the+Veil/_/King+for+a+Day)
 * [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
 * [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)
-* [Poppy — Crystallized](https://www.last.fm/music/Poppy/_/Crystallized)
-* [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)
-* [Spiritbox — Jaded](https://www.last.fm/music/Spiritbox/_/Jaded)<!-- LASTFM:END -->
+* [Poppy — Crystallized](https://www.last.fm/music/Poppy/_/Crystallized)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
