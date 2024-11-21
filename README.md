@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Korn — Freak on a Leash](https://www.last.fm/music/Korn/_/Freak+on+a+Leash)
+* [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)
 * [Slipknot — Unsainted](https://www.last.fm/music/Slipknot/_/Unsainted)
 * [Basshunter — DotA - radio edit](https://www.last.fm/music/Basshunter/_/DotA+-+radio+edit)
-* [S3RL — Pretty Rave Girl](https://www.last.fm/music/S3RL/_/Pretty+Rave+Girl)
-* [Sybreed — Doomsday Party](https://www.last.fm/music/Sybreed/_/Doomsday+Party)
-* [Lil Uzi Vert — The End &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/The+End+&lpar;feat.+BABYMETAL&rpar;)<!-- LASTFM:END -->
+* [S3RL — Pretty Rave Girl](https://www.last.fm/music/S3RL/_/Pretty+Rave+Girl)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
