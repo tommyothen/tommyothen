@@ -29,10 +29,10 @@ Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
 * [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)
-* [Spiritbox — Jaded](https://www.last.fm/music/Spiritbox/_/Jaded)
-* [Korn — Freak on a Leash](https://www.last.fm/music/Korn/_/Freak+on+a+Leash)
+* [Poppy — Crystallized](https://www.last.fm/music/Poppy/_/Crystallized)
 * [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)
-* [Slipknot — Unsainted](https://www.last.fm/music/Slipknot/_/Unsainted)<!-- LASTFM:END -->
+* [Spiritbox — Jaded](https://www.last.fm/music/Spiritbox/_/Jaded)
+* [Korn — Freak on a Leash](https://www.last.fm/music/Korn/_/Freak+on+a+Leash)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
