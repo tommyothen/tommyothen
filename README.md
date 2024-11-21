@@ -28,11 +28,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Sabrina Carpenter — Good Graces](https://www.last.fm/music/Sabrina+Carpenter/_/Good+Graces)
-* [Bring Me the Horizon — Kingslayer &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Bring+Me+the+Horizon/_/Kingslayer+&lpar;feat.+BABYMETAL&rpar;)
-* [Sabrina Carpenter — Taste](https://www.last.fm/music/Sabrina+Carpenter/_/Taste)
-* [Billie Eilish — BIRDS OF A FEATHER](https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER)
-* [Lisa — Moonlit Floor &lpar;Kiss Me&rpar;](https://www.last.fm/music/Lisa/_/Moonlit+Floor+&lpar;Kiss+Me&rpar;)<!-- LASTFM:END -->
+* [FKA Rayne — Side Effect](https://www.last.fm/music/FKA+Rayne/_/Side+Effect)
+* [Tyler, the Creator — STICKY &lpar;feat. GloRilla, Sexyy Red &amp; Lil Wayne&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/STICKY+&lpar;feat.+GloRilla,+Sexyy+Red+&amp;+Lil+Wayne&rpar;)
+* [Tyler, the Creator — STICKY &lpar;feat. GloRilla, Sexyy Red &amp; Lil Wayne&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/STICKY+&lpar;feat.+GloRilla,+Sexyy+Red+&amp;+Lil+Wayne&rpar;)
+* [Sabrina Carpenter — Nonsense](https://www.last.fm/music/Sabrina+Carpenter/_/Nonsense)
+* [Sabrina Carpenter — Good Graces](https://www.last.fm/music/Sabrina+Carpenter/_/Good+Graces)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
