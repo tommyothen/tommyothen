@@ -1,0 +1,31 @@
+name: Update Age in Profile
+
+on:
+  schedule:
+    # Runs at 00:05 AM London time on August 5th
+    # During BST (summer), London is UTC+1, so we run at 23:05 UTC on August 4th
+    - cron: '5 23 4 8 *'  # August 4th at 23:05 UTC = August 5th at 00:05 BST
+    - cron: '5 0 5 8 *'   # August 5th at 00:05 UTC = August 5th at 00:05 GMT
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        
+    - name: Update age in README
+      run: python .github/scripts/update_age.py
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update age in profile" && git push)

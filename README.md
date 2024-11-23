@@ -1,13 +1,15 @@
 ### 👋 About Me
+<!-- STATS:START -->
 ```json
 {
-  "Name": "Tommy Othen",
-  "Age": 22,
-  "Occupation": "Graudate",
-  "Interests": ["Programming", "Games", "Anime"],
-  "Learning": ["Kubernetes", "Ansible"]
+  "name": "Tommy Othen",
+  "age": 22,
+  "occupation": "Graudate",
+  "interests": ["Programming", "Games", "Anime"],
+  "learning": ["Kubernetes", "Ansible"]
 }
 ```
+<!-- STATS:END -->
 
 ## 📊 Stats
 <details>
