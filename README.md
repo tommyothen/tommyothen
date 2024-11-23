@@ -4,9 +4,8 @@
 {
   "name": "Tommy Othen",
   "age": 23,
-  "occupation": "Graudate",
   "interests": ["Programming", "Games", "Anime"],
-  "learning": ["Kubernetes", "Ansible"]
+  "learning": ["PCB Design", "3D Printing"]
 }
 ```
 <!-- STATS:END -->
