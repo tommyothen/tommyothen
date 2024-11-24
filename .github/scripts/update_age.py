@@ -1,6 +1,5 @@
 import re
 from datetime import datetime
-import json
 from zoneinfo import ZoneInfo
 
 def calculate_age():

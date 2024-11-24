@@ -1,5 +1,7 @@
 ## 👋 About Me
+
 <!-- STATS:START -->
+
 ```json
 {
   "name": "Tommy Othen",
@@ -8,12 +10,14 @@
   "learning": ["PCB Design", "3D Printing"]
 }
 ```
+
 <!-- STATS:END -->
 
 ## 🛠️ Tech Stack
+
 I've been a full-stack developer making applications, scripts, and fun projects since 2015. Started with Python and Discord bots, now building full-stack apps with Typescript and exploring embedded systems. Big fan of open-source software, self-hosting, and homelabbing. Here's a breakdown of my tech stack I've picked up along my almost decade-long journey.
 
-<details>
+<details open>
 <summary>Languages</summary>
 
 <br/>
@@ -133,4 +137,15 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 </details>
 
 ## 📻 Music
+
 ![Spotify Recently Played](./metrics/metrics.plugin.music.recent.svg)
+
+---
+
+<!-- DYNAMIC_FOOTER:START -->
+<div align="center">
+  <i>This README is updated automatically through GitHub Actions</i>
+  <br/>
+  <i>Last refresh: 16:24 UTC · Next update: Spotify Recently Listed @ 17:00 UTC</i>
+</div>
+<!-- DYNAMIC_FOOTER:END -->
