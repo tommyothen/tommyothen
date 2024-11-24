@@ -29,11 +29,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Robert](https://www.last.fm/music/Igorrr/_/Robert)
+* [Igorrr — Va te foutre](https://www.last.fm/music/Igorrr/_/Va+te+foutre)
 * [Igorrr — Apopathodiaphulatophobie](https://www.last.fm/music/Igorrr/_/Apopathodiaphulatophobie)
 * [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
-* [Igorrr — Spaghetti Forever](https://www.last.fm/music/Igorrr/_/Spaghetti+Forever)
-* [Igorrr — Problème d&#39;émotion](https://www.last.fm/music/Igorrr/_/Probl%C3%A8me+d%27%C3%A9motion)
-* [Igorrr — Opus Brain](https://www.last.fm/music/Igorrr/_/Opus+Brain)<!-- LASTFM:END -->
+* [Igorrr — Spaghetti Forever](https://www.last.fm/music/Igorrr/_/Spaghetti+Forever)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
