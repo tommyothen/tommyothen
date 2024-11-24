@@ -29,11 +29,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Sabrina Carpenter — Good Graces](https://www.last.fm/music/Sabrina+Carpenter/_/Good+Graces)
+* [Igorrr — Au Revoir](https://www.last.fm/music/Igorrr/_/Au+Revoir)
 * [Igorrr — Robert](https://www.last.fm/music/Igorrr/_/Robert)
 * [Igorrr — Va te foutre](https://www.last.fm/music/Igorrr/_/Va+te+foutre)
-* [Igorrr — Apopathodiaphulatophobie](https://www.last.fm/music/Igorrr/_/Apopathodiaphulatophobie)
-* [Igorrr — Cheval](https://www.last.fm/music/Igorrr/_/Cheval)
-* [Igorrr — Spaghetti Forever](https://www.last.fm/music/Igorrr/_/Spaghetti+Forever)<!-- LASTFM:END -->
+* [Igorrr — Apopathodiaphulatophobie](https://www.last.fm/music/Igorrr/_/Apopathodiaphulatophobie)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
