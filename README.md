@@ -29,11 +29,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
+* [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)
+* [beabadoobee — ever seen](https://www.last.fm/music/beabadoobee/_/ever+seen)
 * [Katseye — Touch](https://www.last.fm/music/Katseye/_/Touch)
-* [Korn — Freak on a Leash](https://www.last.fm/music/Korn/_/Freak+on+a+Leash)
-* [Korn — Freak on a Leash](https://www.last.fm/music/Korn/_/Freak+on+a+Leash)
-* [Igorrr — Problème d&#39;émotion](https://www.last.fm/music/Igorrr/_/Probl%C3%A8me+d%27%C3%A9motion)
-* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)<!-- LASTFM:END -->
+* [Korn — Freak on a Leash](https://www.last.fm/music/Korn/_/Freak+on+a+Leash)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
