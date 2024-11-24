@@ -29,11 +29,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Tyler, the Creator — STICKY &lpar;feat. GloRilla, Sexyy Red &amp; Lil Wayne&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/STICKY+&lpar;feat.+GloRilla,+Sexyy+Red+&amp;+Lil+Wayne&rpar;)
+* [Ariana Grande — intro &lpar;end of the world&rpar;](https://www.last.fm/music/Ariana+Grande/_/intro+&lpar;end+of+the+world&rpar;)
+* [Basshunter — DotA - radio edit](https://www.last.fm/music/Basshunter/_/DotA+-+radio+edit)
 * [S3RL — Pretty Rave Girl](https://www.last.fm/music/S3RL/_/Pretty+Rave+Girl)
-* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)
-* [Eric Reprid — LIKE A CHINK BITCH &lpar;G6&rpar;](https://www.last.fm/music/Eric+Reprid/_/LIKE+A+CHINK+BITCH+&lpar;G6&rpar;)
-* [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)
-* [beabadoobee — ever seen](https://www.last.fm/music/beabadoobee/_/ever+seen)<!-- LASTFM:END -->
+* [TERROR REID — THE OTHA SIDE](https://www.last.fm/music/TERROR+REID/_/THE+OTHA+SIDE)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
