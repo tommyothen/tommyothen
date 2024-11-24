@@ -16,7 +16,10 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 <details>
 <summary>Languages</summary>
 
-![Languages](https://skillicons.dev/icons?i=ts,js,py,rust,java,kotlin,haskell,go)
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,java,kotlin,haskell,go">
+</p>
 
 - TypeScript is my bread and butter, using it for almost all projects
 - JavaScript was my primary language before transitioning to TypeScript
@@ -30,7 +33,10 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 <details>
 <summary>Web Development</summary>
 
-![Web Development](https://skillicons.dev/icons?i=react,vue,nextjs,astro,html,css,tailwind,threejs)
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,astro,html,css,tailwind,threejs">
+</p>
 
 - React is my go-to framework, especially for complex applications
 - Vue was my first introduction to frontend frameworks
@@ -44,7 +50,10 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 <details>
 <summary>Backend & Runtime</summary>
 
-![Backend & Runtime](https://skillicons.dev/icons?i=bun,nodejs,elixir)
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,elixir">
+</p>
 
 - Bun has become my primary runtime for TypeScript projects
 - Node.js was my runtime of choice before Bun
@@ -54,7 +63,10 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 <details>
 <summary>Database & ORM</summary>
 
-![Database & ORM](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma,supabase)
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma,supabase">
+</p>
 
 - PostgreSQL is my current go-to database
 - MongoDB was my primary database during my "NoSQL everything" phase
@@ -67,7 +79,10 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 <details>
 <summary>DevOps & Cloud</summary>
 
-![DevOps & Cloud](https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,aws,gcp,nginx,workers)
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,aws,gcp,nginx,workers">
+</p>
 
 - Docker is used in almost all my projects
 - Kubernetes experience from homelab experiments
@@ -80,7 +95,10 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 <details>
 <summary>Development Environment</summary>
 
-![Development Environment](https://skillicons.dev/icons?i=git,github,gitlab,vscode,neovim,figma,obsidian)
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,neovim,figma,obsidian">
+</p>
 
 - Git/GitHub/GitLab for all version control needs
 - VS Code as my current editor
@@ -92,7 +110,10 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 <details>
 <summary>Operating Systems</summary>
 
-![Operating Systems](https://skillicons.dev/icons?i=arch,ubuntu,windows)
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch,ubuntu,windows">
+</p>
 
 - Arch Linux is my daily driver
 - Ubuntu for all my servers
@@ -102,7 +123,10 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 <details>
 <summary>IoT & Hardware</summary>
 
-![IoT & Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi)
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi">
+</p>
 
 - Arduino experience, though I've moved more toward ESP32 and RP2040s
 - Raspberry Pi used in many projects throughout my homelab and house
