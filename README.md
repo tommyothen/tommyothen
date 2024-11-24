@@ -29,11 +29,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
-* [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)
-* [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)
-* [Poppy — Yesterday](https://www.last.fm/music/Poppy/_/Yesterday)
-* [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
-* [Poppy — The Cost of Giving Up](https://www.last.fm/music/Poppy/_/The+Cost+of+Giving+Up)<!-- LASTFM:END -->
+* [Tyler, the Creator — Rah Tah Tah](https://www.last.fm/music/Tyler,+the+Creator/_/Rah+Tah+Tah)
+* [Tyler, the Creator — ST. CHROMA &lpar;feat. Daniel Caesar&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/ST.+CHROMA+&lpar;feat.+Daniel+Caesar&rpar;)
+* [GNB CHILI — Save Me](https://www.last.fm/music/GNB+CHILI/_/Save+Me)
+* [Sybreed — Doomsday Party](https://www.last.fm/music/Sybreed/_/Doomsday+Party)
+* [Lisa — NEW WOMAN &lpar;feat. ROSALÍA&rpar;](https://www.last.fm/music/Lisa/_/NEW+WOMAN+&lpar;feat.+ROSAL%C3%8DA&rpar;)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
