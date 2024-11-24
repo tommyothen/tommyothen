@@ -1,4 +1,4 @@
-### 👋 About Me
+## 👋 About Me
 <!-- STATS:START -->
 ```json
 {
@@ -10,35 +10,103 @@
 ```
 <!-- STATS:END -->
 
-## 📊 Stats
+## 🛠️ Tech Stack
+I've been a full-stack developer making applications, scripts, and fun projects since 2015. Started with Python and Discord bots, now building full-stack apps with Typescript and exploring embedded systems. Big fan of open-source software, self-hosting, and homelabbing. Here's a breakdown of my tech stack I've picked up along my almost decade-long journey.
+
 <details>
-  <summary>GitHub stats</summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=tommyothen&show_icons=true&count_private=true&hide=prs,issues">
-  </a>
+<summary>Languages</summary>
+
+![Languages](https://skillicons.dev/icons?i=ts,js,py,rust,java,kotlin,haskell,go)
+
+- TypeScript is my bread and butter, using it for almost all projects
+- JavaScript was my primary language before transitioning to TypeScript
+- Python was my first programming language, now mainly used for scripting
+- Rust is my latest learning adventure, really enjoying systems programming
+- Java & Kotlin experience from university projects
+- Haskell was a fascinating university course that I'd love to revisit
+- Go is my next language to learn
 </details>
 
 <details>
-  <summary>This Weeks Stats</summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tommyothen&cache_seconds=1800&custom_title=Top%20Languages">
-  </a>
+<summary>Web Development</summary>
+
+![Web Development](https://skillicons.dev/icons?i=react,vue,nextjs,astro,html,css,tailwind,threejs)
+
+- React is my go-to framework, especially for complex applications
+- Vue was my first introduction to frontend frameworks
+- Next.js is my choice for more involved React projects
+- Astro is my preferred framework for simpler web projects
+- HTML/CSS fundamentals, though I've mostly moved to using frameworks
+- Tailwind CSS is now my preferred styling solution
+- Three.js for creating engaging 3D web experiences
 </details>
 
-## 🎶 Spotify
-Now Playing\
-[![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
-<!-- LASTFM:START -->
-* [Tyler, the Creator — Darling, I &lpar;feat. Teezo Touchdown&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/Darling,+I+&lpar;feat.+Teezo+Touchdown&rpar;)
-* [Tyler, the Creator — NOID](https://www.last.fm/music/Tyler,+the+Creator/_/NOID)
-* [Tyler, the Creator — Rah Tah Tah](https://www.last.fm/music/Tyler,+the+Creator/_/Rah+Tah+Tah)
-* [Tyler, the Creator — ST. CHROMA &lpar;feat. Daniel Caesar&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/ST.+CHROMA+&lpar;feat.+Daniel+Caesar&rpar;)
-* [GNB CHILI — Save Me](https://www.last.fm/music/GNB+CHILI/_/Save+Me)<!-- LASTFM:END -->
+<details>
+<summary>Backend & Runtime</summary>
 
-## 🗻 Recent Anime
-<!-- ANIME-LIST:START -->
-* [Ragna Crimson - TV](https://myanimelist.net/anime/51297/Ragna_Crimson) - Plan to Watch - 0 of 24 episodes
-* [Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. - TV](https://myanimelist.net/anime/51128/Noumin_Kanren_no_Skill_bakka_Agetetara_Nazeka_Tsuyoku_Natta) - Watching - 9 of 12 episodes
-* [24H - Music](https://myanimelist.net/anime/15527/24H) - Dropped - 0 of 9 episodes
-* [Show in Backrooms - CM](https://myanimelist.net/anime/55356/Show_in_Backrooms) - Completed - 1 of 1 episodes
-* [Goodme: Citron Tea - ONA](https://myanimelist.net/anime/54545/Goodme__Citron_Tea) - Completed - 1 of 1 episodes<!-- ANIME-LIST:END -->
+![Backend & Runtime](https://skillicons.dev/icons?i=bun,nodejs,elixir)
+
+- Bun has become my primary runtime for TypeScript projects
+- Node.js was my runtime of choice before Bun
+- Elixir is a recent addition I'm exploring and enjoying
+</details>
+
+<details>
+<summary>Database & ORM</summary>
+
+![Database & ORM](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma,supabase)
+
+- PostgreSQL is my current go-to database
+- MongoDB was my primary database during my "NoSQL everything" phase
+- MySQL used in earlier projects
+- SQLite for simple local database needs
+- Prisma for all TypeScript database interactions
+- Supabase for hosted PostgreSQL and auth services
+</details>
+
+<details>
+<summary>DevOps & Cloud</summary>
+
+![DevOps & Cloud](https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,aws,gcp,nginx,workers)
+
+- Docker is used in almost all my projects
+- Kubernetes experience from homelab experiments
+- Cloudflare for DNS, workers, and tunnel services
+- AWS & GCP experience from various projects
+- Nginx as reverse proxy in my homelab setup
+- Cloudflare Workers for serverless solutions
+</details>
+
+<details>
+<summary>Development Environment</summary>
+
+![Development Environment](https://skillicons.dev/icons?i=git,github,gitlab,vscode,neovim,figma,obsidian)
+
+- Git/GitHub/GitLab for all version control needs
+- VS Code as my current editor
+- Neovim is my next learning goal
+- Figma for occasional design work
+- Obsidian for all note-taking and documentation
+</details>
+
+<details>
+<summary>Operating Systems</summary>
+
+![Operating Systems](https://skillicons.dev/icons?i=arch,ubuntu,windows)
+
+- Arch Linux is my daily driver
+- Ubuntu for all my servers
+- Windows mainly for gaming now
+</details>
+
+<details>
+<summary>IoT & Hardware</summary>
+
+![IoT & Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi)
+
+- Arduino experience, though I've moved more toward ESP32 and RP2040s
+- Raspberry Pi used in many projects throughout my homelab and house
+</details>
+
+## 📻 Music
+![Spotify Recently Played](./metrics/metrics.plugin.music.recent.svg)
