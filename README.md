@@ -139,16 +139,16 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 ## 📻 Entertainment
 
 <details open>
-  <summary>🎧 Spotify</summary>
+  <summary>⛩️ Anime</summary>
   <p>
-    <img src="./metrics/metrics.plugin.music.recent.svg">
+    <img src="./metrics/metrics.plugin.anilist.currently-watching.svg">
   </p>
 </details>
 
 <details open>
-  <summary>⛩️ Anime</summary>
+  <summary>🎧 Spotify</summary>
   <p>
-    <img src="./metrics/metrics.plugin.anilist.currently-watching.svg">
+    <img src="./metrics/metrics.plugin.music.recent.svg">
   </p>
 </details>
 
