@@ -29,11 +29,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Hollow Tree](https://www.last.fm/music/Igorrr/_/Hollow+Tree)
+* [Igorrr — Vegetable Soup](https://www.last.fm/music/Igorrr/_/Vegetable+Soup)
 * [GNB CHILI — Save Me](https://www.last.fm/music/GNB+CHILI/_/Save+Me)
 * [d4vd — Feel It - From The Original Series “Invincible”](https://www.last.fm/music/d4vd/_/Feel+It+-+From+The+Original+Series+%E2%80%9CInvincible%E2%80%9D)
-* [System of a Down — B.Y.O.B.](https://www.last.fm/music/System+of+a+Down/_/B.Y.O.B.)
-* [Lil Uzi Vert — The End &lpar;feat. BABYMETAL&rpar;](https://www.last.fm/music/Lil+Uzi+Vert/_/The+End+&lpar;feat.+BABYMETAL&rpar;)
-* [Tyler, the Creator — STICKY &lpar;feat. GloRilla, Sexyy Red &amp; Lil Wayne&rpar;](https://www.last.fm/music/Tyler,+the+Creator/_/STICKY+&lpar;feat.+GloRilla,+Sexyy+Red+&amp;+Lil+Wayne&rpar;)<!-- LASTFM:END -->
+* [System of a Down — B.Y.O.B.](https://www.last.fm/music/System+of+a+Down/_/B.Y.O.B.)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
