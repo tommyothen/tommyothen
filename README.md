@@ -29,11 +29,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Poppy — Yesterday](https://www.last.fm/music/Poppy/_/Yesterday)
 * [Poppy — they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us)
 * [Poppy — The Cost of Giving Up](https://www.last.fm/music/Poppy/_/The+Cost+of+Giving+Up)
 * [Poppy — Have You Had Enough?](https://www.last.fm/music/Poppy/_/Have+You+Had+Enough%3F)
-* [Igorrr — ieuD](https://www.last.fm/music/Igorrr/_/ieuD)
-* [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)<!-- LASTFM:END -->
+* [Igorrr — ieuD](https://www.last.fm/music/Igorrr/_/ieuD)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
