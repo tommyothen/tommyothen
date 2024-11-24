@@ -29,11 +29,11 @@
 Now Playing\
 [![Spotify](https://novatorem-dasushiasian.vercel.app/api/spotify)](https://open.spotify.com/user/g90805640970)
 <!-- LASTFM:START -->
+* [Igorrr — Houmous](https://www.last.fm/music/Igorrr/_/Houmous)
+* [Igorrr — ieuD](https://www.last.fm/music/Igorrr/_/ieuD)
 * [Igorrr — Viande](https://www.last.fm/music/Igorrr/_/Viande)
 * [Igorrr — Houmous](https://www.last.fm/music/Igorrr/_/Houmous)
-* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)
-* [Igorrr — Caros](https://www.last.fm/music/Igorrr/_/Caros)
-* [Igorrr — Tout Petit Moineau](https://www.last.fm/music/Igorrr/_/Tout+Petit+Moineau)<!-- LASTFM:END -->
+* [Igorrr — Unpleasant Sonata](https://www.last.fm/music/Igorrr/_/Unpleasant+Sonata)<!-- LASTFM:END -->
 
 ## 🗻 Recent Anime
 <!-- ANIME-LIST:START -->
