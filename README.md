@@ -136,9 +136,21 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 - Raspberry Pi used in many projects throughout my homelab and house
 </details>
 
-## 📻 Music
+## 📻 Entertainment
 
-![Spotify Recently Played](./metrics/metrics.plugin.music.recent.svg)
+<details open>
+  <summary>🎧 Spotify</summary>
+  <p>
+    <img src="./metrics/metrics.plugin.music.recent.svg">
+  </p>
+</details>
+
+<details open>
+  <summary>⛩️ Anime</summary>
+  <p>
+    <img src="./metrics/metrics.plugin.anilist.currently-watching.svg">
+  </p>
+</details>
 
 ---
 
