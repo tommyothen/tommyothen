@@ -1,6 +1,6 @@
 name: Anilist Currently Watching
 on:
-    schedule: [{cron: "30 * * * *"}] # Every hour at 30 minutes
+    schedule: [{cron: "30 0 */2 * *"}] # Every 2 days at 00:30
     workflow_dispatch: # Allow manual triggering
 jobs:
     metrics:
