@@ -158,6 +158,6 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 <div align="center">
   <i>This README is updated automatically through GitHub Actions</i>
   <br/>
-  <i>Last refresh: 05:37 UTC · Next update: Spotify Recently Listened @ 06:00 UTC</i>
+  <i>Last refresh: 06:04 UTC · Next update: Anilist Currently Watching @ 06:30 UTC</i>
 </div>
 <!-- DYNAMIC_FOOTER:END -->
