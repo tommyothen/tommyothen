@@ -55,11 +55,32 @@ def update_readme_footer():
     schedules.sort(key=lambda x: x['next_run'])
     next_updates = schedules[:2]
     
+    # Create a cleaner scheduled actions list
+    scheduled_actions = '\n'.join([
+        f'<tr><td><code>{x["cron"]}</code></td><td>{x["name"]}</td><td><code>{x["next_run"].strftime("%Y-%m-%d %H:%M UTC")}</code></td></tr>'
+        for x in schedules
+    ])
+
     footer_text = f'''<!-- DYNAMIC_FOOTER:START -->
 <div align="center">
   <i>This README is updated automatically through GitHub Actions</i>
   <br/>
   <i>Last refresh: {now.strftime('%H:%M UTC')} · Next update: {next_updates[0]['name']} @ {next_updates[0]['next_run'].strftime('%H:%M UTC')}</i>
+</div>
+<br/>
+<div align="center">
+  <details>
+    <summary>🕒 Scheduled Actions</summary>
+    <br/>
+    <table>
+      <tr>
+        <th>Schedule</th>
+        <th>Action</th>
+        <th>Next Run</th>
+      </tr>
+      {scheduled_actions}
+    </table>
+  </details>
 </div>
 <!-- DYNAMIC_FOOTER:END -->'''
 
