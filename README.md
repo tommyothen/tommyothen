@@ -7,7 +7,7 @@
   "name": "Tommy Othen",
   "age": 23,
   "interests": ["Programming", "Games", "Anime"],
-  "learning": ["PCB Design", "3D Printing"]
+  "learning": ["Elixir", "PCB Design", "3D Printing"]
 }
 ```
 
