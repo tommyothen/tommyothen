@@ -158,7 +158,7 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 <div align="center">
   <i>This README is updated automatically through GitHub Actions</i>
   <br/>
-  <i>Last refresh: 22:03 UTC · Next update: Spotify Recently Listened @ 23:00 UTC</i>
+  <i>Last refresh: 23:03 UTC · Next update: Spotify Recently Listened @ 00:00 UTC</i>
 </div>
 <br/>
 <div align="center">
@@ -171,7 +171,7 @@ I've been a full-stack developer making applications, scripts, and fun projects 
         <th>Action</th>
         <th>Next Run</th>
       </tr>
-      <tr><td><code>0 * * * *</code></td><td>Spotify Recently Listened</td><td><code>2025-05-25 23:00 UTC</code></td></tr>
+      <tr><td><code>0 * * * *</code></td><td>Spotify Recently Listened</td><td><code>2025-05-26 00:00 UTC</code></td></tr>
 <tr><td><code>30 0 */2 * *</code></td><td>Anilist Currently Watching</td><td><code>2025-05-27 00:30 UTC</code></td></tr>
 <tr><td><code>15 23 4 8 *</code></td><td>Update Age in Profile</td><td><code>2025-08-04 23:15 UTC</code></td></tr>
     </table>
