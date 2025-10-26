@@ -10,6 +10,8 @@ on:
 jobs:
   update-age:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -30,7 +32,7 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add README.md
-          if ! git diff --quiet && ! git diff --staged --quiet; then
+          if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Update age in profile"
             git pull --rebase
             git push
