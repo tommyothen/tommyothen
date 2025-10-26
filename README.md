@@ -156,7 +156,7 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 <div align="center">
   <i>This README is updated automatically through GitHub Actions</i>
   <br/>
-  <i>Last refresh: 16:04 UTC · Next update: Lastfm Top Artists Metrics @ 17:00 UTC</i>
+  <i>Last refresh: 17:02 UTC · Next update: Lastfm Top Artists Metrics @ 18:00 UTC</i>
 </div>
 <br/>
 <div align="center">
@@ -169,7 +169,7 @@ I've been a full-stack developer making applications, scripts, and fun projects 
         <th>Action</th>
         <th>Next Run</th>
       </tr>
-      <tr><td><code>0 * * * *</code></td><td>Lastfm Top Artists Metrics</td><td><code>2025-10-26 17:00 UTC</code></td></tr>
+      <tr><td><code>0 * * * *</code></td><td>Lastfm Top Artists Metrics</td><td><code>2025-10-26 18:00 UTC</code></td></tr>
 <tr><td><code>30 0 */2 * *</code></td><td>Anilist Watching/Reading Metrics</td><td><code>2025-10-27 00:30 UTC</code></td></tr>
 <tr><td><code>15 23 4 8 *</code></td><td>Update Age in Profile</td><td><code>2026-08-04 23:15 UTC</code></td></tr>
     </table>
