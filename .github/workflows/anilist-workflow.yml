@@ -21,7 +21,7 @@ jobs:
           base: ""
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favourites, watching, reading
+          plugin_anilist_sections: favorites, watching, reading
           plugin_anilist_limit: 2
           plugin_anilist_user: DaSushiAsian
 
