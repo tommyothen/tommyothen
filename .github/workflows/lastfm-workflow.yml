@@ -1,6 +1,6 @@
 name: Lastfm Top Artists Metrics
 on:
-    schedule: [{cron: "0 * * * *"}] # Every hour
+    schedule: [{cron: "0 0 * * 0"}] # Every week at midnight
     workflow_dispatch: # Allow manual triggering
 jobs:
     metrics:
