@@ -146,7 +146,7 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 <details open>
   <summary>🎧 Spotify</summary>
   <p>
-    <img src="./metrics/metrics.plugin.music.recent.svg">
+    <img src="./metrics/metrics.plugin.music.lastfm.artists.svg">
   </p>
 </details>
 
