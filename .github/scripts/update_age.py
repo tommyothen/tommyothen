@@ -2,44 +2,63 @@ import re
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-def calculate_age():
-    birthday = datetime(2001, 8, 5)
-    today = datetime.now(ZoneInfo("Europe/London"))
+STATS_BLOCK = re.compile(
+    r'<!-- STATS:START -->\s*```json\s*(.*?)\s*```\s*<!-- STATS:END -->',
+    re.S
+)
+
+def calculate_age() -> int:
+    tz = ZoneInfo("Europe/London")
+    birthday = datetime(2001, 8, 5, tzinfo=tz)
+    today = datetime.now(tz)
     age = today.year - birthday.year
     
-    # If birthday hasn't occurred this year, subtract 1
-    if today.month < birthday.month or (today.month == birthday.month and today.day < birthday.day):
+    # Adjust age if birthday hasn't occurred yet this year
+    if (today.month, today.day) < (birthday.month, birthday.day):
         age -= 1
     
     return age
 
-def update_readme():
-    with open('README.md', 'r', encoding='utf-8') as file:
+def update_readme(path: str = "README.md") -> None:
+    with open(path, 'r', encoding='utf-8') as file:
         content = file.read()
     
     # Look for the JSON block between stats tags
-    stats_pattern = r'(<!-- STATS:START -->\n```json\n)((.|\n)*)(\n```\n<!-- STATS:END -->)'
-    stats_match = re.search(stats_pattern, content)
-    
-    if not stats_match:
-        print("Stats section not found in README")
+    match = STATS_BLOCK.search(content)
+    if not match:
+        print(f"Stats section not found in {path}")
         return
-    
-    # Parse the existing JSON
-    json_str = stats_match.group(2)
 
-    # Find the `"age": \d+` pattern in the JSON
-    age_pattern = r'("age": )(\d+)'
+    json_payload = match.group(1)
 
-    # Find the age in the JSON and replace it with the new number
-    new_json = re.sub(age_pattern, f'"age": {calculate_age()}', json_str)
+    new_payload, n = re.subn(
+        r'("age"\s*:\s*)\d+',
+        rf'\g<1>{calculate_age()}',
+        json_payload,
+        count=1
+    )
 
-    # Replace the old JSON with the new one, maintaining the ```json format
-    new_content = content.replace(stats_match.group(0),
-                                f'<!-- STATS:START -->\n```json\n{new_json}\n```\n<!-- STATS:END -->')
-    
-    with open('README.md', 'w', encoding='utf-8') as file:
-        file.write(new_content)
+    if n == 0:
+        print("No age field found to update.")
+        return
+
+    new_block = (
+        "<!-- STATS:START -->\n"
+        "```json\n"
+        f"{new_payload}\n"
+        "```\n"
+        "<!-- STATS:END -->"
+    )
+
+    new_content = content[:match.start()] + new_block + content[match.end():]
+
+    if new_content != content:
+        with open(path, "w", encoding="utf-8") as file:
+            file.write(new_content)
+        print(f"Updated age in {path}")
+    else:
+        print(f"{path} is already up to date.")
+
 
 if __name__ == '__main__':
     update_readme()

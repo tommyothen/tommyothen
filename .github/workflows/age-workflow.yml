@@ -3,8 +3,8 @@ name: Update Age in Profile
 on:
   schedule:
     # Runs at 00:15 AM London time on August 5th
-    # During BST (summer), London is UTC+1, so we run at 23:15 UTC on August 4th
-    - cron: '15 23 4 8 *'  # August 4th at 23:15 UTC = August 5th at 00:15 BST
+    # (23:15 UTC on August 4th during BST)
+    - cron: '15 23 4 8 *'
   workflow_dispatch:  # Allow manual triggering
 
 jobs:
@@ -12,25 +12,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
-      
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
-        
-    - name: Install dependencies
-      run: pip install pyyaml croniter
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Needed so we can safely rebase before pushing
 
-    - name: Update age in README
-      run: python .github/scripts/update_age.py
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
 
-    - name: Update dynamic footer
-      run: python .github/scripts/update_footer.py
+      - name: Update age in README
+        run: python .github/scripts/update_age.py
 
-    - name: Commit and push if changed
-      run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
-        git add README.md
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update age in profile" && git push)
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          if ! git diff --quiet && ! git diff --staged --quiet; then
+            git commit -m "Update age in profile"
+            git pull --rebase
+            git push
+          else
+            echo "No changes to commit."
+          fi
