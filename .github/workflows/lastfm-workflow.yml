@@ -1,4 +1,4 @@
-name: Spotify Recently Listened
+name: Lastfm Top Artists Metrics
 on:
     schedule: [{cron: "0 * * * *"}] # Every hour
     workflow_dispatch: # Allow manual triggering
@@ -11,7 +11,7 @@ jobs:
             - name: Checkout repository
               uses: actions/checkout@v4
 
-            - name: Generate Spotify Recently Listened Metrics
+            - name: Generate Lastfm Top Artists Metrics
               uses: lowlighter/metrics@latest
               with:
                 token: NOT_NEEDED
