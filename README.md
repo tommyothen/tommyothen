@@ -137,9 +137,9 @@ I've been a full-stack developer making applications, scripts, and fun projects 
 ## 📻 Entertainment
 
 <details open>
-  <summary>⛩️ Anime</summary>
+  <summary>⛩️ Anime & Manga</summary>
   <p>
-    <img src="./metrics/metrics.plugin.anilist.currently-watching.svg">
+    <img src="./metrics/metrics.plugin.anilist.svg">
   </p>
 </details>
 
