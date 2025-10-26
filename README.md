@@ -1,16 +1,14 @@
 ## 👋 About Me
 
 <!-- STATS:START -->
-
 ```json
 {
   "name": "Tommy Othen",
-  "age": 23,
+  "age": 24,
   "interests": ["Programming", "Games", "Anime"],
   "learning": ["Elixir", "PCB Design", "3D Printing"]
 }
 ```
-
 <!-- STATS:END -->
 
 ## 🛠️ Tech Stack
