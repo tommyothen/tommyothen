@@ -4,7 +4,7 @@
 ```json
 {
   "name": "Tommy Othen",
-  "age": 24,
+  "age": 25,
   "interests": ["Programming", "Games", "Anime"],
   "learning": ["Elixir", "PCB Design", "3D Printing"]
 }
